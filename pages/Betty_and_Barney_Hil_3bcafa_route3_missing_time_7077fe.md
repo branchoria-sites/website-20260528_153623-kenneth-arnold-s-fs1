@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /betty-and-barney-hill-abduction-1961/
 nav_short_title: Timeline
 title: How the Route 3 Night Unfolded
-title_full: How the Route 3 Night Unfolded | Hill Encounter
+title_full: How the Route 3 Night Unfolded
 display_title_short: Timeline
 display_title: Timeline
 heading_title: How the Route 3 Night Unfolded
@@ -233,7 +233,7 @@ prev_link:
   permalink: /hypnosis/
   short_title: Hypnosis
   heading_title: Can Hypnosis Recover Alien Memories?
-date: '2026-06-08 23:18:32 '
+date: '2026-06-11 13:11:20 '
 header:
   og_image: /assets/images/Betty_and_Barney_Hil_3bcafa_route3_missing_time_7077fe-Illustration-1-social.jpg
   preview_image: /assets/images/Betty_and_Barney_Hil_3bcafa_route3_missing_time_7077fe-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Betty_and_Barney_Hil_3bcafa_route3_missing_time_7077fe-Ill
 
 ## Introduction
 
-The most enduring part of the [Betty and Barney]({{ 'betty-and-barney-hill-abduction-1961/' | relative_url }}) Hill case is not the later [hypnosis]({{ 'hypnosis/' | relative_url }}) sessions or the famous “star map”, but the drive itself: a late-night journey down New Hampshire’s Route 3 that somehow ended with a gap in memory, a delayed arrival home, and two witnesses who could not explain where several hours had gone. The timeline matters because it is the strongest factual backbone of the case. Before there were stories of medical examinations or alien beings, there was simply a couple driving south through the White Mountains, reporting a strange aerial object, hearing unexplained sounds, and later discovering that they had travelled a substantial stretch of road with little or no recollection of it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barney and Betty Hill incident</span><span class="citation-popover-snippet">Barney and Betty Hill incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.unh.edu/repositories/3/resources/107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.unh.edu">[UNH Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.unh.edu</span><span class="citation-popover-snippet">UNH ArchivesBetty and Barney Hill PapersThey returned home to Portsmouth unable to explain the two missing hours. Both Betty and Barney h...</span></span></span>
-
+The most enduring part of the Betty and Barney Hill case is not the later [hypnosis]({{ 'hypnosis/' | relative_url }}) sessions or the famous “star map”, but the drive itself: a late-night journey down New Hampshire’s Route 3 that somehow ended with a gap in memory, a delayed arrival home, and two witnesses who could not explain where several hours had gone. The timeline matters because it is the strongest factual backbone of the case. Before there were stories of medical examinations or alien beings, there was simply a couple driving south through the White Mountains, reporting a strange aerial object, hearing unexplained sounds, and later discovering that they had travelled a substantial stretch of road with little or no recollection of it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barney and Betty Hill incident</span><span class="citation-popover-snippet">Barney and Betty Hill incident</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archives.unh.edu/repositories/3/resources/107" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.unh.edu">[UNH Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.unh.edu</span><span class="citation-popover-snippet">UNH ArchivesBetty and Barney Hill PapersThey returned home to Portsmouth unable to explain the two missing hours. Both Betty and Barney h...</span></span></span>
 
 <img src="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_route3_missing_time_7077fe-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_route3_missing_time_7077fe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_route3_missing_time_7077fe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What remains disputed is not whether the Hills took the drive or whether they reported an unusual sighting. Those points are well documented. The dispute centres on how the timeline should be interpreted: as evidence of an extraordinary encounter, as a distorted reconstruction shaped by stress and suggestion, or as a combination of ordinary events later transformed into a cultural myth. The Route 3 chronology sits at the centre of that debate.
@@ -256,7 +255,7 @@ The drive itself was not initially unusual. The Hills later said they were tired
 
 According to the most commonly cited reconstruction, the Hills passed through Lancaster and then continued south toward Twin Mountain and Franconia Notch. At some point after 10:30 p.m., Betty noticed a bright light low in the sky near the Moon and Jupiter. At first she assumed it was an ordinary celestial object, perhaps a satellite or aircraft, but she became concerned because the light appeared to move erratically and grow brighter as they drove. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barney and Betty Hill incident</span><span class="citation-popover-snippet">Barney and Betty Hill incident</span></span></span>
 
-The chronology from this stage onward is partly reconstructed from later interviews rather than from contemporaneous notes. That distinction is important because critics of the case point out that the “missing time” estimate depends heavily on later recollections of departure and arrival times rather than on independently verified timestamps. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/books/comments/2rkhmj/today_i_finished_the_reading_of_the_interrupted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Today I finished the reading of &quot;The interrupted journey</span><span class="citation-popover-snippet">RedditToday I finished the reading of &quot;The interrupted journey&quot;January 6, 2015 — This is an important point because the calculation of th...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
+The chronology from this stage onward is partly reconstructed from later interviews rather than from contemporaneous notes. That distinction is important because critics of the case point out that the “missing time” estimate depends heavily on later recollections of departure and arrival times rather than on independently verified timestamps. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/books/comments/2rkhmj/today_i_finished_the_reading_of_the_interrupted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Today I finished the reading of &quot;The interrupted journey</span><span class="citation-popover-snippet">Today I finished the reading of &quot;The interrupted journey&quot;January 6, 2015 — This is an important point because the calculation of th...</span><span class="citation-popover-meta">Published: January 6, 2015</span></span></span>
 
 ## The Aerial Sighting Near Lincoln
 
@@ -267,7 +266,6 @@ As the Hills continued south, Betty repeatedly urged Barney to stop the car so t
 Barney was initially more sceptical. According to later reports, he first assumed the object was a commercial aircraft heading toward Vermont or Montreal. He changed his mind only after the light appeared to alter direction rapidly without banking like a normal plane. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barney and Betty Hill incident</span><span class="citation-popover-snippet">Barney and Betty Hill incident</span></span></span>
 
 The route through Franconia Notch became the most dramatic section of the narrative. The Hills claimed the object moved near Cannon Mountain and the Old Man of the Mountain rock formation, at times seeming to descend toward the road. Betty later estimated the object looked enormous against the mountain landscape, though those size estimates were subjective and made at night under uncertain viewing conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barney and Betty Hill incident</span><span class="citation-popover-snippet">Barney and Betty Hill incident</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cGGpHT0_DR4" title="The UFO Incident (1975)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cGGpHT0_DR4" target="_blank" rel="noopener noreferrer">The UFO Incident (1975)</a></p><p class="youtube-embed-meta">Channel: Creature Features &middot; Views: 50.9K &middot; Uploaded: August 2025 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cGGpHT0_DR4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cGGpHT0_DR4">Open on YouTube</a></p></div></div></div>
 
@@ -291,7 +289,6 @@ When the Hills regained clear awareness, they found themselves considerably fart
 
 The couple also realised they had arrived home in Portsmouth much later than expected. Later interviews with NICAP investigators highlighted this discrepancy and helped crystallise the idea that approximately two hours were “missing”. According to later summaries, the Hills themselves had not initially focused on the time gap until investigators reconstructed the drive in detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barney and Betty Hill incident</span><span class="citation-popover-snippet">Barney and Betty Hill incident</span></span></span>
 
-
 <img src="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_route3_missing_time_7077fe-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_route3_missing_time_7077fe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_route3_missing_time_7077fe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Physical and behavioural details after the drive
 
@@ -300,7 +297,6 @@ The timeline gained additional intrigue because of details the Hills reported no
 None of these details independently proved an abduction, but they reinforced the couple’s sense that something unusual had happened during the unremembered interval. Betty later became increasingly preoccupied with reconstructing the lost period, while Barney reportedly resisted dramatic interpretations for some time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barney and Betty Hill incident</span><span class="citation-popover-snippet">Barney and Betty Hill incident</span></span></span>
 
 One notable feature of the chronology is that the Hills did not immediately present a complete alien-abduction narrative. The earliest phase consisted mainly of:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -312,7 +308,6 @@ One notable feature of the chronology is that the Hills did not immediately pres
 </div>
 
 The more elaborate abduction narrative emerged gradually through dreams, interviews, and eventually hypnosis sessions conducted by psychiatrist Benjamin Simon in 1964. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barney and Betty Hill incident</span><span class="citation-popover-snippet">Barney and Betty Hill incident</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V3MjsfuLGYw" title="The Abduction of Betty &amp; Barney Hill - The Full Story | Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V3MjsfuLGYw" target="_blank" rel="noopener noreferrer">The Abduction of Betty &amp; Barney Hill - The Full Story | Documentary</a></p><p class="youtube-embed-meta">Channel: Fire of Learning &middot; Views: 620.2K &middot; Uploaded: March 2023 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V3MjsfuLGYw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V3MjsfuLGYw">Open on YouTube</a></p></div></div></div>
 
@@ -329,7 +324,6 @@ Another important issue is memory contamination. The Hills repeatedly revisited 
 ## Why the Timeline Became So Influential
 
 The Route 3 sequence became the model for countless later abduction stories because it introduced a now-familiar structure:
-
 
 <img src="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_route3_missing_time_7077fe-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_route3_missing_time_7077fe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_route3_missing_time_7077fe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -348,7 +342,6 @@ Before the Hill case, UFO reports generally focused on sightings alone. The Hill
 
 The chronology also gave later researchers a framework for investigating alleged abductions. Investigators began paying close attention to:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * unexplained travel gaps,
@@ -360,49 +353,89 @@ The chronology also gave later researchers a framework for investigating alleged
 
 Whether interpreted as evidence of extraterrestrial contact, sleep-deprived misperception, or psychologically reconstructed memory, the Route 3 timeline remains the foundation of the entire Hill case. Without the unexplained interval between the beeping sounds and the later arrival farther south on the highway, the incident might have remained only a little-known UFO sighting from rural New Hampshire.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SHlf2yTrD4c" title="The Betty Hill Abduction Case: Scientists Examine Her Dress For Alien DNA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SHlf2yTrD4c" target="_blank" rel="noopener noreferrer">The Betty Hill Abduction Case: Scientists Examine Her Dress For Alien DNA</a></p><p class="youtube-embed-meta">Channel: Real Stories &middot; Views: 3.8K &middot; Uploaded: May 2026 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SHlf2yTrD4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SHlf2yTrD4c">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How the Route 3 Night Unfolded, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How the Route 3 Night Unfolded. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Betty Barney Hill guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Betty+Barney+Hill+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Interrupted Journey on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YjBqEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Interrupted Journey" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Interrupted Journey">The Interrupted Journey</a>
+        </h4>
+        <p class="fr-book-author">By John Fuller</p>
+        
+        <p class="fr-book-desc">Documents the original flight plan, the early morning drive timeline, and the initial report of light-and-disorientation intervals near L...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Interrupted+Journey+by+John+Fuller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">White Mountains guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=White+Mountains+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Hills&#x27; 1961 route maps, allowing readers to cross-examine local sightings against astronomical planet data from that night.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Torn Dress guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Torn+Dress+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=immWvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Missing Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+        </h4>
+        <p class="fr-book-author">By Budd Hopkins</p>
+        
+        <p class="fr-book-desc">Explains why road-based anomalies frequently create temporal gaps and visual tracking failures in high-stress driving environments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Provides structural methodologies for auditing witness estimations vs. established drive-time navigation parameters.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Interrupted+Journey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Interrupted Journey</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Missing+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Missing Time</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -439,15 +472,15 @@ Whether interpreted as evidence of extraterrestrial contact, sleep-deprived misp
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -455,15 +488,15 @@ Whether interpreted as evidence of extraterrestrial contact, sleep-deprived misp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -471,15 +504,15 @@ Whether interpreted as evidence of extraterrestrial contact, sleep-deprived misp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -487,15 +520,15 @@ Whether interpreted as evidence of extraterrestrial contact, sleep-deprived misp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,7 +536,7 @@ Whether interpreted as evidence of extraterrestrial contact, sleep-deprived misp
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-how-the-route-3-night-unfolded-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-route-3-night-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-route-3-night-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -719,123 +752,123 @@ Whether interpreted as evidence of extraterrestrial contact, sleep-deprived misp
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Barney and Betty Hill incident  
-   Link: [https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident](https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: archives.unh.edu  
-   Link: [https://archives.unh.edu/repositories/3/resources/107](https://archives.unh.edu/repositories/3/resources/107)  
+   Link: <a href="https://archives.unh.edu/repositories/3/resources/107" target="_blank" rel="noopener noreferrer nofollow">https://archives.unh.edu/repositories/3/resources/107</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNH ArchivesBetty and Barney Hill PapersThey returned home to Portsmouth unable to explain the two missing hours. Both Betty and Barney h...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: mcgill.ca  
    Title: alien abduction hardly convincing one  
-   Link: [https://www.mcgill.ca/oss/article/critical-thinking-pseudoscience/alien-abduction-hardly-convincing-one](https://www.mcgill.ca/oss/article/critical-thinking-pseudoscience/alien-abduction-hardly-convincing-one)  
+   Link: <a href="https://www.mcgill.ca/oss/article/critical-thinking-pseudoscience/alien-abduction-hardly-convincing-one" target="_blank" rel="noopener noreferrer nofollow">https://www.mcgill.ca/oss/article/critical-thinking-pseudoscience/alien-abduction-hardly-convincing-one</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>McGill UniversityAn Alien Abduction? Hardly a Convincing One.1 Sept 2023 — In September of 1961, Barney and Betty Hill had taken a belate...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: Today I finished the reading of "The interrupted journey"  
-   Link: [https://www.reddit.com/r/books/comments/2rkhmj/today_i_finished_the_reading_of_the_interrupted/](https://www.reddit.com/r/books/comments/2rkhmj/today_i_finished_the_reading_of_the_interrupted/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditToday I finished the reading of &quot;The interrupted journey&quot;January 6, 2015 — This is an important point because the calculation of th...</p></details>
+   Link: <a href="https://www.reddit.com/r/books/comments/2rkhmj/today_i_finished_the_reading_of_the_interrupted/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/books/comments/2rkhmj/today_i_finished_the_reading_of_the_interrupted/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Today I finished the reading of &quot;The interrupted journey&quot;January 6, 2015 — This is an important point because the calculation of th...</p></details>
    Published: January 6, 2015  
 
 5. <a id="endnote-5"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/captured-the-betty-and-barney-hill-ufo-experience-the-true-story-of-the-worlds-first-documented-alien-abduction-9781564149718-1564149714.html](https://dokumen.pub/captured-the-betty-and-barney-hill-ufo-experience-the-true-story-of-the-worlds-first-documented-alien-abduction-9781564149718-1564149714.html)  
+   Link: <a href="https://dokumen.pub/captured-the-betty-and-barney-hill-ufo-experience-the-true-story-of-the-worlds-first-documented-alien-abduction-9781564149718-1564149714.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/captured-the-betty-and-barney-hill-ufo-experience-the-true-story-of-the-worlds-first-documented-alien-abduction-9781564149718-1564149714.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Were any of our belongings missing? How did Delsey, the dog, react? Had we had any strange events since...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: library.unh.edu  
    Title: betty barney hill papers 1961 2006  
-   Link: [https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006](https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006)  
+   Link: <a href="https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006" target="_blank" rel="noopener noreferrer nofollow">https://library.unh.edu/find/archives/collections/betty-barney-hill-papers-1961-2006</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Both Betty and Barney had physical changes from the night before, including Betty&#x27;s...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/History_Mysteries/comments/1lfnxdu/the_barney_betty_hill_abduction_a_true_story_that/](https://www.reddit.com/r/History_Mysteries/comments/1lfnxdu/the_barney_betty_hill_abduction_a_true_story_that/)  
+   Link: <a href="https://www.reddit.com/r/History_Mysteries/comments/1lfnxdu/the_barney_betty_hill_abduction_a_true_story_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/History_Mysteries/comments/1lfnxdu/the_barney_betty_hill_abduction_a_true_story_that/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Barney &amp; Betty Hill Abduction: A True Story That...The Missing Hours: Despite their frantic escape, they quickly realized two hours...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: Alien abduction of Betty and Barney Hill  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/fkurxc/alien_abduction_of_betty_and_barney_hill_a_real/](https://www.reddit.com/r/UnresolvedMysteries/comments/fkurxc/alien_abduction_of_betty_and_barney_hill_a_real/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/fkurxc/alien_abduction_of_betty_and_barney_hill_a_real/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/fkurxc/alien_abduction_of_betty_and_barney_hill_a_real/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A real mysteryThe road to the house was empty, and the two-hour journey felt like forever as the beaming light did not stop following the...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16xzk5p/we_visited_the_betty_and_barney_hill_monument_in/](https://www.reddit.com/r/UFOs/comments/16xzk5p/we_visited_the_betty_and_barney_hill_monument_in/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16xzk5p/we_visited_the_betty_and_barney_hill_monument_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16xzk5p/we_visited_the_betty_and_barney_hill_monument_in/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Barney and Betty Hill were an American couple who...On the night of September 19-20, 1961, Betty and Barney Hill, a married couple from...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cufos.org  
    Title: Center for UFO Studies A DRAMATIC UFO ENCOUNTER IN THE Walter N  
-   Link: [https://cufos.org/PDFs/Abductions/1961_09_19_US_NH_White-Mountains_NICAP_Hill.pdf](https://cufos.org/PDFs/Abductions/1961_09_19_US_NH_White-Mountains_NICAP_Hill.pdf)  
+   Link: <a href="https://cufos.org/PDFs/Abductions/1961_09_19_US_NH_White-Mountains_NICAP_Hill.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/Abductions/1961_09_19_US_NH_White-Mountains_NICAP_Hill.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WebbBoth Barney and Betty heard the crew members talk among them selves. Barney described the voices as a mumbling or humming sound. Bett...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: outdoors.org  
    Title: the story of betty and barney hill  
-   Link: [https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/](https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/)  
+   Link: <a href="https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow">https://www.outdoors.org/resources/amc-outdoors/history/the-story-of-betty-and-barney-hill/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appalachian Mountain Club (AMC)Alien Abduction in the White MountainsIn September of 1961, Betty and Barney Hill were driving from Montre...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: mentalfloss.com  
-   Link: [https://www.mentalfloss.com/article/649683/betty-and-barney-hill-alien-abduction](https://www.mentalfloss.com/article/649683/betty-and-barney-hill-alien-abduction)  
+   Link: <a href="https://www.mentalfloss.com/article/649683/betty-and-barney-hill-alien-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalfloss.com/article/649683/betty-and-barney-hill-alien-abduction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental FlossWhen Betty and Barney Hill&#x27;s Alien Abduction Story...26 Sept 2023 — Then, they heard beeping sounds coming from the trunk; b...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: medium.com  
-   Link: [https://medium.com/frequency-machine/origin-story-the-night-ufo-abductions-were-born-9c4513927e90](https://medium.com/frequency-machine/origin-story-the-night-ufo-abductions-were-born-9c4513927e90)  
+   Link: <a href="https://medium.com/frequency-machine/origin-story-the-night-ufo-abductions-were-born-9c4513927e90" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/frequency-machine/origin-story-the-night-ufo-abductions-were-born-9c4513927e90</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Origin Story: The Night UFO Abductions Were BornA New Hampshire couple on a road trip named Barney and Betty Hill encountered strange lig...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: lithub.com  
-   Link: [https://lithub.com/researching-for-connection-navigating-the-fact-and-fiction-of-alien-abduction-stories/](https://lithub.com/researching-for-connection-navigating-the-fact-and-fiction-of-alien-abduction-stories/)  
+   Link: <a href="https://lithub.com/researching-for-connection-navigating-the-fact-and-fiction-of-alien-abduction-stories/" target="_blank" rel="noopener noreferrer nofollow">https://lithub.com/researching-for-connection-navigating-the-fact-and-fiction-of-alien-abduction-stories/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating the Fact and Fiction of Alien Abduction Stories2 Oct 2025 — The files came from the University of New Hampshire, which houses...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/jj.5666746](https://www.jstor.org/stable/jj.5666746)  
+   Link: <a href="https://www.jstor.org/stable/jj.5666746" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/jj.5666746</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 19, 1961, Betty and Barney Hill were driving home on a lonely state road in central New Hampshire when they saw a flying saucer...</p></details>
    Published: September 19, 1961  
 
 16. <a id="endnote-16"></a>
    Source: ripslawlibrarian.wordpress.com  
    Title: more ufo research the unh librarys betty and barney hill papers  
-   Link: [https://ripslawlibrarian.wordpress.com/2021/04/22/more-ufo-research-the-unh-librarys-betty-and-barney-hill-papers/](https://ripslawlibrarian.wordpress.com/2021/04/22/more-ufo-research-the-unh-librarys-betty-and-barney-hill-papers/)  
+   Link: <a href="https://ripslawlibrarian.wordpress.com/2021/04/22/more-ufo-research-the-unh-librarys-betty-and-barney-hill-papers/" target="_blank" rel="noopener noreferrer nofollow">https://ripslawlibrarian.wordpress.com/2021/04/22/more-ufo-research-the-unh-librarys-betty-and-barney-hill-papers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Betty and Barney encountered a UFO in the night sky and lost three hours of time. Later, in a series of hypnosis sessions administered by...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010003-8](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010003-8)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010003-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010003-8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>were convinced that they had found the exact spot of the...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: yalebooks.yale.edu  
    Title: the alien abduction story of two civil rights activists  
-   Link: [https://yalebooks.yale.edu/2025/04/18/the-alien-abduction-story-of-two-civil-rights-activists/](https://yalebooks.yale.edu/2025/04/18/the-alien-abduction-story-of-two-civil-rights-activists/)  
+   Link: <a href="https://yalebooks.yale.edu/2025/04/18/the-alien-abduction-story-of-two-civil-rights-activists/" target="_blank" rel="noopener noreferrer nofollow">https://yalebooks.yale.edu/2025/04/18/the-alien-abduction-story-of-two-civil-rights-activists/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Abduction Story of Two Civil Rights Activists18 Apr 2025 — Late in the night of September 19, 1961, Betty and Barney Hill were driv...</p></details>
    Published: September 19, 1961  
 
 19. <a id="endnote-19"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/724/528](https://journalofscientificexploration.org/index.php/jse/article/view/724/528)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/724/528" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/724/528</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Three New England Abduction Stories and One New RealityTheir missing time report was also reliable: It was consciously recalled...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/PortsmouthNH/posts/10162008706727331/](https://www.facebook.com/groups/PortsmouthNH/posts/10162008706727331/)  
+   Link: <a href="https://www.facebook.com/groups/PortsmouthNH/posts/10162008706727331/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/PortsmouthNH/posts/10162008706727331/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an unidentified flying object and two hours of “lost” time while...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ExploringLegends/posts/a-little-betty-and-barney-hill-ufo-abduction-in-new-hampshire-recap-from-wickeds/1324981295661770/](https://www.facebook.com/ExploringLegends/posts/a-little-betty-and-barney-hill-ufo-abduction-in-new-hampshire-recap-from-wickeds/1324981295661770/)  
+   Link: <a href="https://www.facebook.com/ExploringLegends/posts/a-little-betty-and-barney-hill-ufo-abduction-in-new-hampshire-recap-from-wickeds/1324981295661770/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ExploringLegends/posts/a-little-betty-and-barney-hill-ufo-abduction-in-new-hampshire-recap-from-wickeds/1324981295661770/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hours of “lost” time while driving south on Rt 3 near Lincoln...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: oddthingsiveseen.com  
    Title: betty and barney hill abduction part ii  
-   Link: [https://www.oddthingsiveseen.com/2009/09/betty-and-barney-hill-abduction-part-ii.html](https://www.oddthingsiveseen.com/2009/09/betty-and-barney-hill-abduction-part-ii.html)  
+   Link: <a href="https://www.oddthingsiveseen.com/2009/09/betty-and-barney-hill-abduction-part-ii.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oddthingsiveseen.com/2009/09/betty-and-barney-hill-abduction-part-ii.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Betty and Barney Hill Abduction, Part II: The Gas Station...30 Sept 2009 — A homemade alien abduction exhibit in a gas station bathroom...</p></details>

@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /carl-higdon-contact-1974/
 nav_short_title: Evidence
 title: Which Higdon Evidence Holds Up Best?
-title_full: Which Higdon Evidence Holds Up Best? | Higdon Contact
+title_full: Which Higdon Evidence Holds Up Best?
 display_title_short: Evidence
 display_title: Evidence
 heading_title: Which Higdon Evidence Holds Up Best?
@@ -233,7 +233,7 @@ next_link:
   permalink: /hypnosis-4da790/
   short_title: Hypnosis
   heading_title: Can the Ausso One Story Be Trusted?
-date: '2026-06-08 23:32:04 '
+date: '2026-06-11 13:19:35 '
 header:
   og_image: /assets/images/Carl_Higdon_contact_bfd61b_physical_evidence_sc_93a9c7-Illustration-1-social.jpg
   preview_image: /assets/images/Carl_Higdon_contact_bfd61b_physical_evidence_sc_93a9c7-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Carl_Higdon_contact_bfd61b_physical_evidence_sc_93a9c7-Ill
 
 ## Introduction
 
-The strongest claims in the [Carl Higdon contact]({{ 'carl-higdon-contact-1974/' | relative_url }}) story are not the descriptions of “Ausso One” or interstellar travel, but the physical and medical details that seem, at first glance, harder to dismiss. Supporters of the case point to three main categories of evidence: the allegedly flattened rifle bullet, the strange position of Higdon’s truck in rough terrain, and reports of unusual medical findings after he was rescued. Critics argue that each item becomes weaker under close inspection because the surviving evidence is incomplete, poorly documented, or filtered through retellings that grew more dramatic over time. The debate therefore turns less on whether Higdon sincerely believed something extraordinary happened and more on how reliable the supporting evidence actually is. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">It was in a much more rugged area about 3 miles away that the two</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...30 Sept 2023 — The truck was not in the same place Higdon park...</span></span></span>
-
+The strongest claims in the Carl Higdon contact story are not the descriptions of “Ausso One” or interstellar travel, but the physical and medical details that seem, at first glance, harder to dismiss. Supporters of the case point to three main categories of evidence: the allegedly flattened rifle bullet, the strange position of Higdon’s truck in rough terrain, and reports of unusual medical findings after he was rescued. Critics argue that each item becomes weaker under close inspection because the surviving evidence is incomplete, poorly documented, or filtered through retellings that grew more dramatic over time. The debate therefore turns less on whether Higdon sincerely believed something extraordinary happened and more on how reliable the supporting evidence actually is. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">It was in a much more rugged area about 3 miles away that the two</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...30 Sept 2023 — The truck was not in the same place Higdon park...</span></span></span>
 
 <img src="{{ "/assets/images/Carl_Higdon_contact_bfd61b_physical_evidence_sc_93a9c7-Illustration-1-dark.svg" | relative_url }}" alt="Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Carl_Higdon_contact_bfd61b_physical_evidence_sc_93a9c7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Carl_Higdon_contact_bfd61b_physical_evidence_sc_93a9c7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the physical evidence matters more than the story
@@ -263,7 +262,6 @@ For believers, the bullet became one of the case’s most compelling details bec
 ### What is actually documented
 
 The difficulty is that the public record contains almost no detailed technical analysis of the bullet itself. Popular retellings rarely identify:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -286,7 +284,6 @@ Sceptical analysts generally do not argue that the bullet never existed. Instead
 
 Several weaknesses stand out:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * There is no widely available chain-of-custody record.
@@ -297,7 +294,6 @@ Several weaknesses stand out:
 </div>
 
 That does not prove the bullet was ordinary. It means the evidential standard required for a genuinely anomalous object has not been met publicly.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n76VZc-4CKw" title="Untold Truth: Carl Higdon&#x27;s Alien Abduction at Medicine Bow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n76VZc-4CKw" target="_blank" rel="noopener noreferrer">Untold Truth: Carl Higdon&#x27;s Alien Abduction at Medicine Bow</a></p><p class="youtube-embed-meta">Channel: 4biddenknowledge Podcast Network &middot; Views: 9.1K &middot; Uploaded: December 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n76VZc-4CKw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n76VZc-4CKw">Open on YouTube</a></p></div></div></div>
 
@@ -315,12 +311,10 @@ Unlike the more elaborate abduction details recovered through hypnosis, the truc
 
 The terrain itself is also important. Medicine Bow country contains steep, uneven ground, mud, loose rock, and narrow access paths. If a conventional two-wheel-drive truck truly reached a position inaccessible by normal driving, investigators would need an explanation beyond simple driver error.
 
-
 <img src="{{ "/assets/images/Carl_Higdon_contact_bfd61b_physical_evidence_sc_93a9c7-Illustration-2-dark.svg" | relative_url }}" alt="Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Carl_Higdon_contact_bfd61b_physical_evidence_sc_93a9c7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Carl_Higdon_contact_bfd61b_physical_evidence_sc_93a9c7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The missing details that weaken the case
 
 Again, documentation is the central problem. Public summaries rarely answer key practical questions:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -337,21 +331,19 @@ The “no tyre tracks” detail is especially difficult to assess decades later 
 
 Sceptics also point out that many retellings subtly exaggerate the claim. Some say the truck was in terrain “only accessible by four-wheel drive”, while others imply it was physically impossible for the vehicle to reach the location at all. Those are not identical statements. A difficult route is not necessarily an impossible one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">It was in a much more rugged area about 3 miles away that the two</span><span class="citation-popover-snippet">Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...30 Sept 2023 — The truck was not in the same place Higdon park...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-dhdcWO5c44" title="Elk Hunter Vanishes for 2 Hours… Returns With Evidence No One Can Explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-dhdcWO5c44" target="_blank" rel="noopener noreferrer">Elk Hunter Vanishes for 2 Hours… Returns With Evidence No One Can Explain</a></p><p class="youtube-embed-meta">Channel: Shrouded Hand &middot; Views: 202.3K &middot; Uploaded: April 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-dhdcWO5c44" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-dhdcWO5c44">Open on YouTube</a></p></div></div></div>
 
 ### Why the truck story still survives scrutiny better than some other claims
 
 Even critics often acknowledge that the truck detail is harder to dismiss casually than the more fantastical elements of the story. It suggests that something unusual may genuinely have happened that night, even if the explanation remains uncertain.
 
-The truck evidence also fits a recurring pattern in 1970s UFO reports in which witnesses were discovered disoriented, displaced, or separated from vehicles after periods of missing time. That does not validate extraterrestrial explanations, but it helps explain why investigators like psychologist and UFO researcher R. Leo Sprinkle treated the case seriously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditThis abduction case from 1974 might be the inspiration for...January 23, 2022 — He fell and injured himself before finding his tru...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
+The truck evidence also fits a recurring pattern in 1970s UFO reports in which witnesses were discovered disoriented, displaced, or separated from vehicles after periods of missing time. That does not validate extraterrestrial explanations, but it helps explain why investigators like psychologist and UFO researcher R. Leo Sprinkle treated the case seriously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">This abduction case from 1974 might be the inspiration for...January 23, 2022 — He fell and injured himself before finding his tru...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
 
 ## Hospital signs and disputed medical claims
 
 ### What rescuers and hospital staff reportedly observed
 
 When Higdon was found, accounts consistently describe him as confused, disoriented, emotionally detached, and physically distressed. Reports commonly mention:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -367,14 +359,12 @@ These symptoms matter because they appear to have been observed before hypnosis 
 
 Such symptoms are not inherently supernatural. Exposure, fatigue, shock, dehydration, head injury, emotional trauma, intoxication, or medical episodes could potentially produce similar effects. However, supporters argue that the cluster of symptoms is consistent with other alleged close-encounter cases from the same era.
 
-
 <img src="{{ "/assets/images/Carl_Higdon_contact_bfd61b_physical_evidence_sc_93a9c7-Illustration-3-dark.svg" | relative_url }}" alt="Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Carl_Higdon_contact_bfd61b_physical_evidence_sc_93a9c7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Carl_Higdon_contact_bfd61b_physical_evidence_sc_93a9c7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The tuberculosis scar claim
 
 One of the most controversial medical claims is that Higdon’s old tuberculosis scarring supposedly disappeared from later chest X-rays after the encounter. UFO writers often describe this as evidence of mysterious healing. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://kar.kent.ac.uk/86204/1/342159.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kar.kent.ac.uk">[Kent Academic Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kar.kent.ac.uk</span><span class="citation-popover-snippet">Kent Academic Repository342159.pdf - Kent Academic Repositoryby S Palmer · 2000 · Cited by 1 — According to Carl Higdon, his medical reco...</span></span></span>
 
 The problem is that the underlying medical records have not become part of a transparent public archive. Without before-and-after radiographs reviewed by independent physicians, it is impossible to confirm:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -389,10 +379,9 @@ Medical imaging interpretation can vary considerably, especially across older fi
 
 ### The kidney stone story
 
-Another frequently repeated claim is that Higdon no longer suffered from kidney stones after the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditThis abduction case from 1974 might be the inspiration for...January 23, 2022 — He fell and injured himself before finding his tru...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
+Another frequently repeated claim is that Higdon no longer suffered from kidney stones after the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">This abduction case from 1974 might be the inspiration for...January 23, 2022 — He fell and injured himself before finding his tru...</span><span class="citation-popover-meta">Published: January 23, 2022</span></span></span>
 
 This claim faces similar evidential difficulties. Kidney stones can recur irregularly, disappear naturally, or remain dormant for long periods. A reduction in symptoms after the event would not automatically require an extraordinary explanation. Yet within UFO literature, the claim became part of a broader pattern in which alleged abductees reported unexpected health changes after encounters.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/auV30Z14DCI" title="&quot;Missing 411: The UFO Connection&quot; - Case Analysis - Carl Higdon - Alien Abduction?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=auV30Z14DCI" target="_blank" rel="noopener noreferrer">&quot;Missing 411: The UFO Connection&quot; - Case Analysis - Carl Higdon - Alien Abduction?</a></p><p class="youtube-embed-meta">Channel: Doug Shoe Mysteries &middot; Views: 4.2K &middot; Uploaded: June 2024 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=auV30Z14DCI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=auV30Z14DCI">Open on YouTube</a></p></div></div></div>
 
@@ -415,44 +404,86 @@ At the same time, none of the evidence categories reaches the standard normally 
 That unresolved status explains why the case continues to attract attention decades later. Believers see converging traces that suggest a genuine anomaly. Sceptics see a sincere but weakly documented story whose most dramatic details expanded through hypnosis, folklore, and repetition. The evidence itself is not nonexistent, but neither is it robust enough to force a single conclusion.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Which Higdon Evidence Holds Up Best?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Which Higdon Evidence Holds Up Best?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Carl Higdon guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Carl+Higdon+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches how to audit original sheriff reports, vehicle tracks in rough terrain, and laboratory testing data independently of myth.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Wyoming elk hunt guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Wyoming+elk+hunt+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+        </h4>
+        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+        
+        <p class="fr-book-desc">Examines how secondary literature transforms ordinary physical data points into unvouched extraordinary evidence over decades.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Medicine Bow National Forest guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Medicine+Bow+National+Forest+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alien Abduction Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1C4MgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alien Abduction Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alien Abduction Files">The Alien Abduction Files</a>
+        </h4>
+        <p class="fr-book-author">By Kathleen Marden, Denise Stoner</p>
+        
+        <p class="fr-book-desc">Details the classic file arguments surrounding Higdon&#x27;s flattened rifle bullet and the placement of his truck in inaccessible mud.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+        </h4>
+        <p class="fr-book-author">By Budd Hopkins</p>
+        
+        <p class="fr-book-desc">Discusses why external physical traces are vital to separate objective data trends from simple psychological anecdote.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alien Abduction Files</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -465,7 +496,7 @@ That unresolved status explains why the case continues to attract attention deca
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -489,15 +520,15 @@ That unresolved status explains why the case continues to attract attention deca
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genuine Neca Alien 40th Anniversary Alien Ash Action Figure"><img src="https://i.ebayimg.com/images/g/5MsAAeSwrmNqKJVG/s-l225.jpg" alt="Listing image for Genuine Neca Alien 40th Anniversary Alien Ash Action Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Genuine Neca Alien 40th Anniversary Alien Ash Action Figure</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +536,15 @@ That unresolved status explains why the case continues to attract attention deca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Gift"><img src="https://i.ebayimg.com/images/g/VHUAAeSw7pFqCu4A/s-l225.jpg" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +552,15 @@ That unresolved status explains why the case continues to attract attention deca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA Alien: Romulus - Ultimate Scorched Xenomorph 7&quot; Figure New in box"><img src="https://i.ebayimg.com/images/g/TyEAAOSwf2lnx9t7/s-l225.jpg" alt="Listing image for NECA Alien: Romulus - Ultimate Scorched Xenomorph 7&quot; Figure New in box" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA Alien: Romulus - Ultimate Scorched Xenomorph 7&quot; Figure New in box</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,15 +568,15 @@ That unresolved status explains why the case continues to attract attention deca
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)"><img src="https://i.ebayimg.com/images/g/RHoAAeSwGjlofOcj/s-l225.jpg" alt="Listing image for Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Alien 3 Ultimate Edition Horror Action Figure - (NEW BOXED)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -553,7 +584,7 @@ That unresolved status explains why the case continues to attract attention deca
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-0338f5-which-higdon-evidence-holds-up-best-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-higdon-evidence-holds-up-best-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="which-higdon-evidence-holds-up-best-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -768,97 +799,97 @@ That unresolved status explains why the case continues to attract attention deca
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/](https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThis abduction case from 1974 might be the inspiration for...January 23, 2022 — He fell and injured himself before finding his tru...</p></details>
+   Link: <a href="https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This abduction case from 1974 might be the inspiration for...January 23, 2022 — He fell and injured himself before finding his tru...</p></details>
    Published: January 23, 2022  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Forensic hypnosis  
-   Link: [https://en.wikipedia.org/wiki/Forensic_hypnosis](https://en.wikipedia.org/wiki/Forensic_hypnosis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Forensic_hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forensic_hypnosis</a>  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: carl higdons alien encounter of 1974 and its  
-   Link: [https://www.reddit.com/r/skeptic/comments/1iw7139/carl_higdons_alien_encounter_of_1974_and_its/](https://www.reddit.com/r/skeptic/comments/1iw7139/carl_higdons_alien_encounter_of_1974_and_its/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/1iw7139/carl_higdons_alien_encounter_of_1974_and_its/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1iw7139/carl_higdons_alien_encounter_of_1974_and_its/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Higdon&#x27;s alien encounter of 1974 and its connection to...Under hypnosis Barney Hill drew a sketch of an alient that looked suspicio...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ia802901.us.archive.org  
    Title: Extraordinary Encounters  
-   Link: [https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf](https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf)  
+   Link: <a href="https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EncountersSuch persons are thoroughly marginalized, treated as eccentric and novel, as different from the rest of us; if they are not lyi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cowboystatedaily.com  
    Title: It was in a much more rugged area about 3 miles away that the two  
-   Link: [https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/](https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/)  
+   Link: <a href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cowboy State DailyAlien Abductions Of 2 Wyoming Men In The 1970s Remain...30 Sept 2023 — The truck was not in the same place Higdon park...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: kar.kent.ac.uk  
-   Link: [https://kar.kent.ac.uk/86204/1/342159.pdf](https://kar.kent.ac.uk/86204/1/342159.pdf)  
+   Link: <a href="https://kar.kent.ac.uk/86204/1/342159.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/86204/1/342159.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kent Academic Repository342159.pdf - Kent Academic Repositoryby S Palmer · 2000 · Cited by 1 — According to Carl Higdon, his medical reco...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: gideonreid.co.uk  
    Title: carl higdons trip up above  
-   Link: [https://gideonreid.co.uk/carl-higdons-trip-up-above/](https://gideonreid.co.uk/carl-higdons-trip-up-above/)  
+   Link: <a href="https://gideonreid.co.uk/carl-higdons-trip-up-above/" target="_blank" rel="noopener noreferrer nofollow">https://gideonreid.co.uk/carl-higdons-trip-up-above/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Higdon&#x27;s Trip Up Above25 Oct 2023 — 5 – The Flattened Bullet. One of the most fantastic elements of Carl Higdon&#x27;s story is the “seve...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: avalonlibrary.net  
-   Link: [https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%201.pdf](https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%201.pdf)  
+   Link: <a href="https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%201.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ABDUCTIONS: THE MEASURE OF A MYSTERY.The &quot;interrupted journey&quot; of Barney and Betty Hill ha5 becoMe leg- end. A Married couple sight a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pulitzer.org  
-   Link: [https://www.pulitzer.org/cms/sites/default/files/content/the_pulitzer_prizes_2021_winners_and_finalists.pdf](https://www.pulitzer.org/cms/sites/default/files/content/the_pulitzer_prizes_2021_winners_and_finalists.pdf)  
+   Link: <a href="https://www.pulitzer.org/cms/sites/default/files/content/the_pulitzer_prizes_2021_winners_and_finalists.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pulitzer.org/cms/sites/default/files/content/the_pulitzer_prizes_2021_winners_and_finalists.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>winners and finalistsIn the Public Service category, the Pulitzer Prize Board recognizes the work of newspapers, magazines or eligible ne...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: he pulled the trigger and the bullet simply fell out of the air in the fall of 1  
-   Link: [https://www.facebook.com/fiveunknownfacts/posts/he-pulled-the-trigger-and-the-bullet-simply-fell-out-of-the-air-in-the-fall-of-1/1554163309609136/](https://www.facebook.com/fiveunknownfacts/posts/he-pulled-the-trigger-and-the-bullet-simply-fell-out-of-the-air-in-the-fall-of-1/1554163309609136/)  
+   Link: <a href="https://www.facebook.com/fiveunknownfacts/posts/he-pulled-the-trigger-and-the-bullet-simply-fell-out-of-the-air-in-the-fall-of-1/1554163309609136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fiveunknownfacts/posts/he-pulled-the-trigger-and-the-bullet-simply-fell-out-of-the-air-in-the-fall-of-1/1554163309609136/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He pulled the trigger… and the bullet simply fell out of...In 1974, Carl Higdon, a 41-year-old oil driller from Wyoming, reported an ext...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: in october 1974 while hunting elk in wyomings medicine bow national forest carl  
-   Link: [https://www.facebook.com/100071628474362/posts/in-october-1974-while-hunting-elk-in-wyomings-medicine-bow-national-forest-carl-/922186603512280/](https://www.facebook.com/100071628474362/posts/in-october-1974-while-hunting-elk-in-wyomings-medicine-bow-national-forest-carl-/922186603512280/)  
+   Link: <a href="https://www.facebook.com/100071628474362/posts/in-october-1974-while-hunting-elk-in-wyomings-medicine-bow-national-forest-carl-/922186603512280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100071628474362/posts/in-october-1974-while-hunting-elk-in-wyomings-medicine-bow-national-forest-carl-/922186603512280/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In October 1974, while hunting elk in Wyoming&#x27;s Medicine...After finding his misplaced truck, Carl Higdon radioed... I have kept my bod...</p></details>
    Published: october 1974  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: in the fall of 1974 a routine elk hunt in wyomings medicine bow national forest  
-   Link: [https://www.facebook.com/LifeFactsInc/posts/in-the-fall-of-1974-a-routine-elk-hunt-in-wyomings-medicine-bow-national-forest-/1333173122183993/](https://www.facebook.com/LifeFactsInc/posts/in-the-fall-of-1974-a-routine-elk-hunt-in-wyomings-medicine-bow-national-forest-/1333173122183993/)  
+   Link: <a href="https://www.facebook.com/LifeFactsInc/posts/in-the-fall-of-1974-a-routine-elk-hunt-in-wyomings-medicine-bow-national-forest-/1333173122183993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LifeFactsInc/posts/in-the-fall-of-1974-a-routine-elk-hunt-in-wyomings-medicine-bow-national-forest-/1333173122183993/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In the fall of 1974, a routine elk hunt in Wyoming&#x27;s Medicine...Such is the case of Carl Higdon, an elk hunter, who said he was abducted...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=n76VZc-4CKw](https://www.youtube.com/watch?v=n76VZc-4CKw)  
+   Link: <a href="https://www.youtube.com/watch?v=n76VZc-4CKw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n76VZc-4CKw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Untold Truth: Carl Higdon&#x27;s Alien Abduction at Medicine BowExplore the untold truth of Carl Higdon&#x27;s eerie alien abduction at Medicine Bo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AndrewBirdMusic/posts/in-anticipation-of-the-mysterious-production-of-eggs-20th-anniversary-orchestral/1326188012204921/](https://www.facebook.com/AndrewBirdMusic/posts/in-anticipation-of-the-mysterious-production-of-eggs-20th-anniversary-orchestral/1326188012204921/)  
+   Link: <a href="https://www.facebook.com/AndrewBirdMusic/posts/in-anticipation-of-the-mysterious-production-of-eggs-20th-anniversary-orchestral/1326188012204921/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AndrewBirdMusic/posts/in-anticipation-of-the-mysterious-production-of-eggs-20th-anniversary-orchestral/1326188012204921/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Not having met him, I have the luxury to enjoy his Rounds for String Orchestra unreservedly.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: "Missing 411: The UFO Connection"  
-   Link: [http://www.youtube.com/watch?v=auV30Z14DCI](http://www.youtube.com/watch?v=auV30Z14DCI)  
+   Link: <a href="http://www.youtube.com/watch?v=auV30Z14DCI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=auV30Z14DCI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Higdon bullet truck evidence 1975 interview with a man who claims he was abducted by aliens CTV News...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fiveunknownfacts/photos/he-pulled-the-trigger-and-the-bullet-simply-fell-out-of-the-air-in-the-fall-of-1/1554163239609143/](https://www.facebook.com/fiveunknownfacts/photos/he-pulled-the-trigger-and-the-bullet-simply-fell-out-of-the-air-in-the-fall-of-1/1554163239609143/)  
+   Link: <a href="https://www.facebook.com/fiveunknownfacts/photos/he-pulled-the-trigger-and-the-bullet-simply-fell-out-of-the-air-in-the-fall-of-1/1554163239609143/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fiveunknownfacts/photos/he-pulled-the-trigger-and-the-bullet-simply-fell-out-of-the-air-in-the-fall-of-1/1554163239609143/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4, Carl Higdon, a 41 year old oilfield worker...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/episode/5bjgD2dSKQVkEOJd4t3tZF](https://open.spotify.com/episode/5bjgD2dSKQVkEOJd4t3tZF)  
+   Link: <a href="https://open.spotify.com/episode/5bjgD2dSKQVkEOJd4t3tZF" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/5bjgD2dSKQVkEOJd4t3tZF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Higdon and the Being Called Ausso One | Scary True...In 1974 Carl Higdon went on an elk hunting trip in Wyoming that ended in a surreal...</p></details>

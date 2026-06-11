@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Tehran UFO
   permalink: /jet-chase-near-tehran-iran-1976/
   short_title: Tehran UFO
-date: '2026-06-08 23:38:21 '
+date: '2026-06-11 13:22:36 '
 header:
   og_image: /assets/images/JAL_1628_sighting_ov_aeed7e-overview-social.jpg
   preview_image: /assets/images/JAL_1628_sighting_ov_aeed7e-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/JAL_1628_sighting_ov_aeed7e-overview-social.jpg
 ## Introduction
 
 The strongest reading is cautious: the case involved sincere, experienced witnesses, ambiguous radar indications, and a serious air-traffic response, but the official record does not confirm a solid craft tracking the aircraft. A December 1986 FAA memorandum says Anchorage Center radar data did “not confirm the presence” of the traffic reported by JAL 1628, while later sceptical analysis argued that parts of the sighting could be explained by radar correlation artefacts, ice-crystal or cloud effects, and bright celestial objects, especially Jupiter. The Black Vault Documents <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
-
 
 <img src="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-overview.webp" | relative_url }}" alt="Overview image for JAL 1628 sighting over Alaska 1986" loading="eager" decoding="sync" fetchpriority="high">
 ## What the crew reported over Alaska
@@ -780,7 +779,6 @@ The aircraft then manoeuvred. At 02:31, the crew described the “plane” as �
 
 The chronology also records the most ambiguous radar moment. At 02:38, ROCC told Anchorage Center it had confirmed a “flight of two” in JAL 1628’s position, with “other equipment” watching and one return described as primary-only. A minute later, JAL reported it no longer had the traffic in sight. By 02:42, ROCC said the traffic appeared to have dropped back and to the right, but that it was no longer tracking it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
 
-
 <img src="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-1-dark.svg" | relative_url }}" alt="JAL 1628 sighting over Alaska 1986 illustration 1" data-theme-src-dark="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the radar record cuts both ways
 
@@ -798,7 +796,6 @@ Philip J. Klass’s 1987 Skeptical Inquirer analysis stressed this point. He wro
 
 This does not automatically disprove the sighting. The geometry, lighting, distance, cockpit workload, and brief viewing windows all matter. But it does weaken the claim that a large, solid object was plainly pacing the 747 in a way that should have been unmistakable to nearby observers.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Rym4sR6j8xs" title="Pilots Report Terrifying UFO Sighting Mid-Flight | Close Encounters 104" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Rym4sR6j8xs" target="_blank" rel="noopener noreferrer">Pilots Report Terrifying UFO Sighting Mid-Flight | Close Encounters 104</a></p><p class="youtube-embed-meta">Channel: SpaceRip &middot; Views: 111.8K &middot; Uploaded: October 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Rym4sR6j8xs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Rym4sR6j8xs">Open on YouTube</a></p></div></div></div>
 
 ## What the other crew members add and limit
@@ -810,7 +807,6 @@ Klass’s review of the FAA interview material says Flight Engineer Tsukuba desc
 First Officer Tamefuji’s account also appears more cautious than Terauchi’s. He described what at first looked like two small aircraft slightly below altitude, but when asked whether he could distinguish the lights from a star, he answered “No”. When shown Terauchi’s sketch of a giant walnut-shaped object, he reportedly said he had not seen anything like that, though he allowed that connecting the lights might imply a large object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-snippet">Center for Inquiry</span></span></span>
 
 That distinction is central to judging witness credibility. The case does not require dismissing the crew as unreliable. It does require separating the shared observation of unusual lights from the captain’s more expansive interpretation of a “mothership” or giant craft.
-
 
 <img src="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-2-dark.svg" | relative_url }}" alt="JAL 1628 sighting over Alaska 1986 illustration 2" data-theme-src-dark="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The official position was limited, not a full debunking
@@ -833,7 +829,6 @@ A key supporting point for the ice-crystal and misidentification argument is a l
 
 Sceptical explanations are not perfectly tidy. They have to account for a dynamic pilot report, cockpit radar impressions, live controller concern, and the crew’s sense of proximity and motion. But they do identify real weaknesses in the extraordinary interpretation: non-confirming radar review, no visual confirmation by nearby aircraft, differing crew descriptions, and known perceptual traps in night flying.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h4wK6LTERss" title="UFO Sighting at 35,000 Feet | JAL Cargo Flight 1628" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h4wK6LTERss" target="_blank" rel="noopener noreferrer">UFO Sighting at 35,000 Feet | JAL Cargo Flight 1628</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 17.8K &middot; Uploaded: December 2022 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h4wK6LTERss" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h4wK6LTERss">Open on YouTube</a></p></div></div></div>
 
 ## Why Terauchi’s credibility is debated
@@ -843,7 +838,6 @@ Captain Terauchi was an experienced professional pilot, and the FAA interview no
 The controversy around Terauchi is not simply that he reported a UFO. FAA notes include an addendum from a confidential Japan Airlines source stating that this was not his first sighting of an unidentified aircraft. Klass went further, describing Terauchi as a “UFO repeater” and noting his apparent belief that UFOs were extraterrestrial, including his use of language such as “spaceship” and “mothership”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
 
 That affects evidential weight, not personal honesty. A witness can be sincere and still interpret ambiguous lights through an existing expectation. The strongest version of the case treats Terauchi as a credible aviation witness for what he perceived; the weaker version treats his most dramatic conclusions about size, structure and intent as interpretations requiring independent corroboration.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DXNfyOVoi7g" title="Japan Airlines Flight 1628 - UFO Incident Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DXNfyOVoi7g" target="_blank" rel="noopener noreferrer">Japan Airlines Flight 1628 - UFO Incident Animation</a></p><p class="youtube-embed-meta">Channel: Aviation Land &middot; Views: 286.2K &middot; Uploaded: January 2018 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DXNfyOVoi7g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DXNfyOVoi7g">Open on YouTube</a></p></div></div></div>
 
@@ -855,499 +849,234 @@ But the case is not unresolved in the stronger sense often implied online: it is
 
 The most defensible conclusion is that JAL 1628 is a high-value case for studying how aviation UFO reports develop under real operational conditions. It combines trained witnesses, live air-traffic handling, preserved documentation, disputed radar interpretation, and plausible perceptual explanations. Its significance lies less in proving an extraordinary craft than in showing why serious UFO cases can be both genuinely puzzling and evidentially fragile.
 
-
 <img src="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-3-dark.svg" | relative_url }}" alt="JAL 1628 sighting over Alaska 1986 illustration 3" data-theme-src-dark="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened Over Alaska?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened Over Alaska?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Contains the comprehensive file entry on JAL 1628, including the crew details, radar data, and the official FAA record.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Examines why reports from professional airline crews command significant attention and are subjected to rigorous investigative review.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+        </h4>
+        <p class="fr-book-author">By Ross Coulthart</p>
+        
+        <p class="fr-book-desc">Discusses the JAL 1628 case history and its enduring influence on how aviation authorities evaluate reports of unknown traffic.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Addresses the fundamental logic used to judge reported instrument anomalies against natural, non-anomalous explanation pathways.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jal-1628-sighting-over-alaska-1986-what-really-happened-over-alaska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function localeMatches() {
-    var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
-    try {
-      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
-      else if (navigator.language) languages = [navigator.language];
-    } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
-      var normalized = normalize(languages[i]);
-      if (!normalized) continue;
-      if (localeMarketMap[normalized]) {
-        exactMarket = localeMarketMap[normalized];
-        break;
-      }
-      var languageOnly = normalized.split('-')[0];
-      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
-    }
-    return { exact: exactMarket, language: languageMarket };
-  }
-  function inferFromLocale() {
-    var matches = localeMatches();
-    return matches.exact || matches.language || '';
-  }
-  function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
-      var rule = timezoneRules[i] || {};
-      try {
-        if (new RegExp(rule.pattern).test(tz)) return rule.market;
-      } catch (err) {}
-    }
-    return '';
-  }
-  function inferMarket(available, options) {
-    available = Array.isArray(available) ? available : [];
-    options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
-    try {
-      var saved = window.localStorage && localStorage.getItem(storageKey);
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var timezoneMarket = inferFromTimezone();
-    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
-    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
-    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
-  }
-  window.PhoenixAffiliateLocation = {
-    normalize: normalize,
-    inferMarket: inferMarket,
-    inferFromLocale: inferFromLocale,
-    inferFromTimezone: inferFromTimezone
-  };
-})();
-</script>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-localized-links]');
-  if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
-  function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
-  }
-  function buildUrl(query, reference, marketId) {
-    var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
-    var params = [];
-    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
-    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
-    params.push('mkevt=1');
-    params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
-    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
-    return url + joiner + params.join('&');
-  }
-  function domainLabel(marketId) {
-    var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
-  }
-  function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function closeMenu(section) {
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var picker = section.querySelector('.fr-ebay-market-picker');
-    if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
-    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
-  }
-  function availableMarkets(section) {
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select) {
-      return Array.prototype.slice.call(select.options)
-        .map(function (option) { return option.value; })
-        .filter(function (marketId) { return !!markets[marketId]; });
-    }
-    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
-      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
-      .filter(function (marketId) { return !!markets[marketId]; });
-  }
-  function applyMarket(section, marketId, persist) {
-    var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
-      link.setAttribute('href', buildUrl(query, reference, marketId));
-    });
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
-    var selectedText = marketId;
-    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-      label.textContent = selectedText;
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-      flag.className = flagClass(marketId);
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-      label.textContent = selectedText;
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
-      label.textContent = domainLabel(marketId);
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
-      var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
-    });
-    section.setAttribute('data-ebay-selected-market', marketId);
-    if (persist) {
-      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
-    }
-    closeMenu(section);
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
-    var available = availableMarkets(section);
-    var marketId = defaultMarket;
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: defaultMarket
-      });
-    } else if (available.indexOf(defaultMarket) < 0) {
-      marketId = available[0] || defaultMarket;
-    }
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select) {
-      select.addEventListener('change', function () {
-        applyMarket(section, select.value, true);
-      });
-    }
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    if (trigger && menu) {
-      trigger.addEventListener('click', function (event) {
-        event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
-        menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-        var picker = trigger.closest('.fr-ebay-market-picker');
-        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
-      });
-      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.addEventListener('click', function (event) {
-          event.stopPropagation();
-          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
-        });
-      });
-      document.addEventListener('click', function () { closeMenu(section); });
-    }
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
-      button.addEventListener('click', function () {
-        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
-      });
-    });
-    applyMarket(section, marketId, false);
-  });
-})();
-</script>
 </section>
 
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
 2. <a id="endnote-2"></a>
    Source: documents.theblackvault.com  
    Title: The Black Vault Documents  
-   Link: [https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf](https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: centerforinquiry.s3.amazonaws.com  
    Title: Center for Inquiry  
-   Link: [https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf](https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf)  
+   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: documents.theblackvault.com  
    Title: The Black Vault Documents  
-   Link: [https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf](https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-005.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: upi.com  
    Title: Controller confirms UFO sighting  
-   Link: [https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/](https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/)  
+   Link: <a href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/</a>  
 
 6. <a id="endnote-6"></a>
    Source: upi.com  
    Title: JAL pilot describes UFO  
-   Link: [https://www.upi.com/Archives/1986/12/31/JAL-pilot-describes-UFO/6559536389200/](https://www.upi.com/Archives/1986/12/31/JAL-pilot-describes-UFO/6559536389200/)  
+   Link: <a href="https://www.upi.com/Archives/1986/12/31/JAL-pilot-describes-UFO/6559536389200/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/31/JAL-pilot-describes-UFO/6559536389200/</a>  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
 
 8. <a id="endnote-8"></a>
    Source: catalog.archives.gov  
-   Link: [https://catalog.archives.gov/id/733667](https://catalog.archives.gov/id/733667)  
+   Link: <a href="https://catalog.archives.gov/id/733667" target="_blank" rel="noopener noreferrer nofollow">https://catalog.archives.gov/id/733667</a>  
 
 9. <a id="endnote-9"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/2022-09/fy21-oct20-apr21.xlsx](https://www.faa.gov/sites/faa.gov/files/2022-09/fy21-oct20-apr21.xlsx)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/2022-09/fy21-oct20-apr21.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2022-09/fy21-oct20-apr21.xlsx</a>  
 
 10. <a id="endnote-10"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/2022-09/fy18-jun18-sep18.xlsx](https://www.faa.gov/sites/faa.gov/files/2022-09/fy18-jun18-sep18.xlsx)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/2022-09/fy18-jun18-sep18.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/2022-09/fy18-jun18-sep18.xlsx</a>  
 
 11. <a id="endnote-11"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-oct22-mar23.xlsx](https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-oct22-mar23.xlsx)  
+   Link: <a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-oct22-mar23.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-oct22-mar23.xlsx</a>  
 
 12. <a id="endnote-12"></a>
    Source: faa.gov  
    Title: afn afn 20250303 fy24 oct23 mar24.xlsx  
-   Link: [https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250303-fy24-oct23-mar24.xlsx](https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250303-fy24-oct23-mar24.xlsx)  
+   Link: <a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250303-fy24-oct23-mar24.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250303-fy24-oct23-mar24.xlsx</a>  
 
 13. <a id="endnote-13"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-apr23-sept23.xlsx](https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-apr23-sept23.xlsx)  
+   Link: <a href="https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-apr23-sept23.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/foia/electronic_reading_room/logs/afn-afn-20250121-fy23-apr23-sept23.xlsx</a>  
 
 14. <a id="endnote-14"></a>
    Source: faa.gov  
    Title: grants 2001.xls  
-   Link: [https://www.faa.gov/sites/faa.gov/files/airports/aip/grant_histories/grants-2001.xls](https://www.faa.gov/sites/faa.gov/files/airports/aip/grant_histories/grants-2001.xls)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/airports/aip/grant_histories/grants-2001.xls" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/airports/aip/grant_histories/grants-2001.xls</a>  
 
 15. <a id="endnote-15"></a>
    Source: upi.com  
-   Link: [https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/](https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/)  
+   Link: <a href="https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/31/A-veteran-pilot-whose-UFO-sighting-was-confirmed-on/2755536389200/</a>  
 
 16. <a id="endnote-16"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/jal1628](https://archive.org/details/jal1628)  
+   Link: <a href="https://archive.org/details/jal1628" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/jal1628</a>  
 
 17. <a id="endnote-17"></a>
    Source: theblackvault.com  
    Title: the vault files 1986 alaska jal flight 1628  
-   Link: [https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/](https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/</a>  
 
 18. <a id="endnote-18"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf](https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-003.pdf](https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-003.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-003.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/jal1628/733667-02-001.pdf](https://documents.theblackvault.com/documents/ufos/jal1628/733667-02-001.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-02-001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-02-001.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: as.amphilsoc.org  
-   Link: [https://as.amphilsoc.org/repositories/2/resources/2894](https://as.amphilsoc.org/repositories/2/resources/2894)  
+   Link: <a href="https://as.amphilsoc.org/repositories/2/resources/2894" target="_blank" rel="noopener noreferrer nofollow">https://as.amphilsoc.org/repositories/2/resources/2894</a>  
 
 22. <a id="endnote-22"></a>
    Source: cdn.centerforinquiry.org  
-   Link: [https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf](https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf)  
+   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1987/07/22165315/p04.pdf</a>  
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Pilot Reports Massive UFO Mothership Twice the Size of Aircraft Carrier  
-   Link: [https://www.youtube.com/watch?v=VXbe4Z7oP00](https://www.youtube.com/watch?v=VXbe4Z7oP00)  
+   Link: <a href="https://www.youtube.com/watch?v=VXbe4Z7oP00" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VXbe4Z7oP00</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing 747 Followed by a UFO | An Out Of This World Encounter | Japan Air Lines Flight 1628...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=h4wK6LTERss](https://www.youtube.com/watch?v=h4wK6LTERss)  
+   Link: <a href="https://www.youtube.com/watch?v=h4wK6LTERss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h4wK6LTERss</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Reports Massive UFO Mothership Twice the Size of Aircraft Carrier...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/authors/philip-j-klass/](https://skepticalinquirer.org/authors/philip-j-klass/)  
+   Link: <a href="https://skepticalinquirer.org/authors/philip-j-klass/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/authors/philip-j-klass/</a>  
 
 26. <a id="endnote-26"></a>
    Source: skeptoid.com  
-   Link: [https://skeptoid.com/episodes/1005](https://skeptoid.com/episodes/1005)  
+   Link: <a href="https://skeptoid.com/episodes/1005" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/1005</a>  
 
 27. <a id="endnote-27"></a>
    Source: commons.wikimedia.org  
-   Link: [https://commons.wikimedia.org/wiki/File%3ANews_media_contacts_to_FAA%2C_page_16_%28Original_caption-_JAL_-1628_%28UFO%29%2C_FAA_Press_Conference%2C_March_5%2C_1987%2C_Anchorage%2C_Alaska%29_%2833421621511%29.jpg](https://commons.wikimedia.org/wiki/File%3ANews_media_contacts_to_FAA%2C_page_16_%28Original_caption-_JAL_-1628_%28UFO%29%2C_FAA_Press_Conference%2C_March_5%2C_1987%2C_Anchorage%2C_Alaska%29_%2833421621511%29.jpg)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3ANews_media_contacts_to_FAA%2C_page_16_%28Original_caption-_JAL_-1628_%28UFO%29%2C_FAA_Press_Conference%2C_March_5%2C_1987%2C_Anchorage%2C_Alaska%29_%2833421621511%29.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ANews_media_contacts_to_FAA%2C_page_16_%28Original_caption-_JAL_-1628_%28UFO%29%2C_FAA_Press_Conference%2C_March_5%2C_1987%2C_Anchorage%2C_Alaska%29_%2833421621511%29.jpg</a>  
    Published: March 5, 1987  
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/168r8du/has_anyone_watched_brian_dunnings_from_skeptoid/](https://www.reddit.com/r/skeptic/comments/168r8du/has_anyone_watched_brian_dunnings_from_skeptoid/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/168r8du/has_anyone_watched_brian_dunnings_from_skeptoid/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/168r8du/has_anyone_watched_brian_dunnings_from_skeptoid/</a>  
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/110x5o3/huge_ufo_in_the_skies_over_alaska_witnessed_by/](https://www.reddit.com/r/ufo/comments/110x5o3/huge_ufo_in_the_skies_over_alaska_witnessed_by/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/110x5o3/huge_ufo_in_the_skies_over_alaska_witnessed_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/110x5o3/huge_ufo_in_the_skies_over_alaska_witnessed_by/</a>  
 
 30. <a id="endnote-30"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-8.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-8.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-8.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: skeptoid.com  
-   Link: [https://skeptoid.com/episodes/703](https://skeptoid.com/episodes/703)  
+   Link: <a href="https://skeptoid.com/episodes/703" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/703</a>  
 
 32. <a id="endnote-32"></a>
    Source: mykss.com  
-   Link: [https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-eyewitness-testimonies-cross-examined-again/](https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-eyewitness-testimonies-cross-examined-again/)  
+   Link: <a href="https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-eyewitness-testimonies-cross-examined-again/" target="_blank" rel="noopener noreferrer nofollow">https://mykss.com/en/article/japan-airlines-flight-1628-alaska-ufo-encounter-1986-eyewitness-testimonies-cross-examined-again/</a>

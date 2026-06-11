@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /delphos-ring-incident-1971/
 nav_short_title: Soil Evidence
 title: Why the Soil Ring Still Matters
-title_full: Why the Soil Ring Still Matters | Delphos Ring
+title_full: Why the Soil Ring Still Matters
 display_title_short: Soil Evidence
 display_title: Soil Evidence
 heading_title: Why the Soil Ring Still Matters
@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline-7a08ca/
   short_title: Timeline
   heading_title: How the Delphos Sighting Unfolded
-date: '2026-06-08 23:29:16 '
+date: '2026-06-11 13:17:56 '
 header:
   og_image: /assets/images/Delphos_Ring_inciden_2952cd_soil_ring_evidence_08abb7-Illustration-1-social.jpg
   preview_image: /assets/images/Delphos_Ring_inciden_2952cd_soil_ring_evidence_08abb7-Illustration-1.webp
@@ -249,7 +249,6 @@ image: /assets/images/Delphos_Ring_inciden_2952cd_soil_ring_evidence_08abb7-Illu
 ## Introduction
 
 The Delphos Ring incident became unusual not because of the sighting alone, but because witnesses claimed the object left a measurable trace on the ground. In the hours after the reported encounter on the Johnson family farm near Delphos, Kansas, investigators described a glowing circular patch of soil with odd physical properties: a pale crust, a persistent smell, temporary numbness on contact, and soil that reportedly resisted water absorption. Samples were preserved and later analysed by laboratory researchers, making the case one of the better-known examples of alleged physical evidence in UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/JUFOS/1989_NS_vol1_JUFOS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesJOURNAL OF UFO STUDIESprovide evidence of a genuine UFO-related event occurring at Delphos. Introduction. The Delph...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salinapubliclibrary.org">[Salina Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salinapubliclibrary.org</span><span class="citation-popover-title">ufos and kansas</span><span class="citation-popover-snippet">Salina Public LibraryUFOs and Kansas13 Feb 2023 — Headlines from the Salina Journal included “The &#x27;Thing&#x27; Left a Ring, Photograph Shows”...</span></span></span>
-
 
 <img src="{{ "/assets/images/Delphos_Ring_inciden_2952cd_soil_ring_evidence_08abb7-Illustration-1-dark.svg" | relative_url }}" alt="Soil Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Delphos_Ring_inciden_2952cd_soil_ring_evidence_08abb7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delphos_Ring_inciden_2952cd_soil_ring_evidence_08abb7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The laboratory findings did not establish that an extraterrestrial craft landed in Kansas. They did, however, produce a more complicated picture than a simple hoax or ordinary burn mark. Some tests suggested chemically altered soil and unusual organic residues, while other investigators argued that the evidence was weakened by delayed sampling, incomplete controls and the possibility of naturally occurring contaminants. The Delphos ring remains significant because it sits in the uncomfortable middle ground between unexplained anomaly and inconclusive evidence.
@@ -272,7 +271,7 @@ At the same time, none of these observations were documented under controlled sc
 
 ## Why the hydrophobic soil drew scientific attention
 
-Hydrophobic soil — soil that repels water — is a real and well-studied phenomenon. It can occur naturally after fires, fungal growth, petroleum contamination or the accumulation of organic compounds on soil particles. Modern soil science literature documents how certain organic coatings can prevent water penetration for long periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/229503759_Preliminary_investigation_of_soil_chemical_and_physical_properties_associated_with_type-I_fairy_ring_symptoms_in_turfgrass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Preliminary investigation of soil chemical and physical</span><span class="citation-popover-snippet">ResearchGatePreliminary investigation of soil chemical and physical...August 15, 2007 — In turfgrasses, it has been observed that an inc...</span><span class="citation-popover-meta">Published: August 15, 2007</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fs.usda.gov/psw/publications/documents/psw_gtr046/psw_gtr046.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.usda.gov">[US Forest Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.usda.gov</span><span class="citation-popover-snippet">US Forest ServiceWater Repellent Soils: a state-of-the-artby LF DeBano · 1981 · Cited by 953 — Cover:A simple field test with a water dro...</span></span></span>
+Hydrophobic soil — soil that repels water — is a real and well-studied phenomenon. It can occur naturally after fires, fungal growth, petroleum contamination or the accumulation of organic compounds on soil particles. Modern soil science literature documents how certain organic coatings can prevent water penetration for long periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/229503759_Preliminary_investigation_of_soil_chemical_and_physical_properties_associated_with_type-I_fairy_ring_symptoms_in_turfgrass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Preliminary investigation of soil chemical and physical</span><span class="citation-popover-snippet">Preliminary investigation of soil chemical and physical...August 15, 2007 — In turfgrasses, it has been observed that an inc...</span><span class="citation-popover-meta">Published: August 15, 2007</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fs.usda.gov/psw/publications/documents/psw_gtr046/psw_gtr046.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.usda.gov">[US Forest Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.usda.gov</span><span class="citation-popover-snippet">US Forest ServiceWater Repellent Soils: a state-of-the-artby LF DeBano · 1981 · Cited by 953 — Cover:A simple field test with a water dro...</span></span></span>
 
 This matters because Delphos investigators often presented the water-resistant ring as evidence of something exotic. Skeptics countered that hydrophobicity alone is not extraordinary. In burned or chemically contaminated soils, water can literally sit on the surface and evaporate before absorption occurs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fs.usda.gov/psw/publications/documents/psw_gtr046/psw_gtr046.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fs.usda.gov">[US Forest Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fs.usda.gov</span><span class="citation-popover-snippet">US Forest ServiceWater Repellent Soils: a state-of-the-artby LF DeBano · 1981 · Cited by 953 — Cover:A simple field test with a water dro...</span></span></span>
 
@@ -282,7 +281,6 @@ First, witnesses insisted the effect appeared suddenly after the sighting rather
 
 The strongest argument in favour of the case was therefore not that hydrophobic soil is impossible, but that the combination of glow, geometry, smell and sudden appearance seemed difficult to explain as an ordinary agricultural condition.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F0EEbxfIgwQ" title="The UFO Encounter That Left Witnesses Paralyzed with Fear | Close Encounters 106" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F0EEbxfIgwQ" target="_blank" rel="noopener noreferrer">The UFO Encounter That Left Witnesses Paralyzed with Fear | Close Encounters 106</a></p><p class="youtube-embed-meta">Channel: SpaceRip &middot; Views: 43.5K &middot; Uploaded: November 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F0EEbxfIgwQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F0EEbxfIgwQ">Open on YouTube</a></p></div></div></div>
 
 ## Budinger’s laboratory findings and chemical analysis
@@ -291,7 +289,7 @@ The most frequently cited scientific work on the Delphos samples came from chemi
 
 According to those reports, the Delphos soil contained unusual organic compounds and deposits associated with insoluble residues. Budinger concluded that the ring soil had not been exposed to extreme heat, which weakened theories involving a straightforward burn or blast effect. One technical summary explicitly stated that the soil “was not exposed to a physical effect such as high temperature”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents.theblackvault.com/documents/Budinger/UT001.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">TSR UT0019 Aug 1999 — 6) The ring soil was not exposed to a physical effect such as high temperature. 7) The analysis neither proves nor...</span></span></span>
 
-Another recurring point involved the hydrophobic behaviour itself. Budinger reported that the water resistance disappeared after agitation in water, suggesting that the soil particles were coated with a soluble material rather than permanently transformed. A later technical review summarised her observation that once water and shaking removed the coating, the soil behaved normally again. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe New Science of Unidentified Aerospace-Undersea...Budinger also noted [271] that insoluble humates were not found in the soil sa...</span></span></span>
+Another recurring point involved the hydrophobic behaviour itself. Budinger reported that the water resistance disappeared after agitation in water, suggesting that the soil particles were coated with a soluble material rather than permanently transformed. A later technical review summarised her observation that once water and shaking removed the coating, the soil behaved normally again. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The New Science of Unidentified Aerospace-Undersea...Budinger also noted [271] that insoluble humates were not found in the soil sa...</span></span></span>
 
 Investigators also reported the presence of white particulate matter within the samples. Some UFO researchers argued that the material did not resemble ordinary agricultural residues from the farm environment. However, the published descriptions remained vague enough that later critics argued the findings were suggestive rather than conclusive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salinapubliclibrary.org">[Salina Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salinapubliclibrary.org</span><span class="citation-popover-title">ufos and kansas</span><span class="citation-popover-snippet">Salina Public LibraryUFOs and Kansas13 Feb 2023 — Headlines from the Salina Journal included “The &#x27;Thing&#x27; Left a Ring, Photograph Shows”...</span></span></span>
 
@@ -299,16 +297,14 @@ Importantly, Budinger herself did not claim the laboratory results proved a UFO 
 
 That caution is one reason the Delphos case continues to attract interest. Even researchers sympathetic to UFO [explanations]({{ 'explanations-e65ad1/' | relative_url }}) generally describe the chemistry as anomalous rather than definitive.
 
-
 <img src="{{ "/assets/images/Delphos_Ring_inciden_2952cd_soil_ring_evidence_08abb7-Illustration-2-dark.svg" | relative_url }}" alt="Soil Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Delphos_Ring_inciden_2952cd_soil_ring_evidence_08abb7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delphos_Ring_inciden_2952cd_soil_ring_evidence_08abb7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The fungal and environmental explanations
 
-Sceptical investigators focused heavily on [natural explanations]({{ 'explanations-e65ad1/' | relative_url }}) for the ring. One of the most persistent theories involved fungal growth similar to so-called fairy rings — circular fungal patterns that can alter soil chemistry and water absorption. Modern soil science confirms that fungal activity can create strong hydrophobicity in localised ground patches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/229503759_Preliminary_investigation_of_soil_chemical_and_physical_properties_associated_with_type-I_fairy_ring_symptoms_in_turfgrass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Preliminary investigation of soil chemical and physical</span><span class="citation-popover-snippet">ResearchGatePreliminary investigation of soil chemical and physical...August 15, 2007 — In turfgrasses, it has been observed that an inc...</span><span class="citation-popover-meta">Published: August 15, 2007</span></span></span>
+Sceptical investigators focused heavily on natural explanations for the ring. One of the most persistent theories involved fungal growth similar to so-called fairy rings — circular fungal patterns that can alter soil chemistry and water absorption. Modern soil science confirms that fungal activity can create strong hydrophobicity in localised ground patches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/229503759_Preliminary_investigation_of_soil_chemical_and_physical_properties_associated_with_type-I_fairy_ring_symptoms_in_turfgrass" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Preliminary investigation of soil chemical and physical</span><span class="citation-popover-snippet">Preliminary investigation of soil chemical and physical...August 15, 2007 — In turfgrasses, it has been observed that an inc...</span><span class="citation-popover-meta">Published: August 15, 2007</span></span></span>
 
 This explanation gained traction because fungal processes can also produce pale residues and visible ring structures in fields. Critics argued that frightened witnesses may have attached unusual significance to a pre-existing ground feature after seeing a light in the sky.
 
 However, the fungal explanation had weaknesses:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -322,7 +318,6 @@ However, the fungal explanation had weaknesses:
 Other skeptics proposed contamination from petroleum compounds, fertilisers or farm chemicals. Soil chemistry research shows that hydrocarbons can produce water-repellent coatings and altered microbial activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.usgs.gov/publication/sir20055104" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[U.S. Geological Survey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-snippet">Geological SurveyFate and transport of petroleum hydrocarbons in soil and...May 27, 2006 — by SD Williams · 2006 · Cited by 56 — Soil ga...</span><span class="citation-popover-meta">Published: May 27, 2006</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10224032/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govPetroleum-Degrading Fungal Isolates for the Treatment of Soil...by D Daâssi · 2023 · Cited by 23 — The main purpose of this study...</span></span></span>
 
 Yet these alternatives also faced evidential problems. No investigator established a documented contamination source on the Johnson property, and surviving reports do not show a comprehensive environmental baseline study of nearby fields. In practical terms, critics could demonstrate plausibility without definitively identifying the exact source of the ring.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uFEgZJr_Jkw" title="Science-Based Evidence May Indicate That UFO Landed In US Farm | Alien Contact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uFEgZJr_Jkw" target="_blank" rel="noopener noreferrer">Science-Based Evidence May Indicate That UFO Landed In US Farm | Alien Contact</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 311.6K &middot; Uploaded: October 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uFEgZJr_Jkw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uFEgZJr_Jkw">Open on YouTube</a></p></div></div></div>
 
@@ -346,14 +341,12 @@ One later analytical review of related Delphos material explicitly criticised th
 
 These gaps do not prove the evidence was fraudulent. They do, however, sharply limit what can be claimed scientifically. A contaminated or poorly controlled sample can still contain genuinely unusual material, but it becomes extremely difficult to determine whether the anomaly came from the reported event, the surrounding environment or later handling.
 
-
 <img src="{{ "/assets/images/Delphos_Ring_inciden_2952cd_soil_ring_evidence_08abb7-Illustration-3-dark.svg" | relative_url }}" alt="Soil Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Delphos_Ring_inciden_2952cd_soil_ring_evidence_08abb7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delphos_Ring_inciden_2952cd_soil_ring_evidence_08abb7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Delphos ring still matters
 
 The Delphos Ring incident remains one of the more discussed UFO “trace cases” because it combined eyewitness testimony with physical material that could at least be tested. Most UFO reports leave nothing behind except memories. Delphos produced photographs, preserved soil and decades of argument over measurable effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/JUFOS/1989_NS_vol1_JUFOS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO StudiesJOURNAL OF UFO STUDIESprovide evidence of a genuine UFO-related event occurring at Delphos. Introduction. The Delph...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: salinapubliclibrary.org">[Salina Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">salinapubliclibrary.org</span><span class="citation-popover-title">ufos and kansas</span><span class="citation-popover-snippet">Salina Public LibraryUFOs and Kansas13 Feb 2023 — Headlines from the Salina Journal included “The &#x27;Thing&#x27; Left a Ring, Photograph Shows”...</span></span></span>
 
 The laboratory findings occupy an awkward middle position:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -368,49 +361,89 @@ For believers, Delphos remains an example of a physical trace that resisted easy
 
 The enduring fascination of the soil ring is therefore not that it solved the UFO question, but that it created a rare evidential grey zone: a case where material samples existed, produced unusual findings, and still failed to settle the argument.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kVT4-eZ5Pmo" title="UFO Investigators Face Trouble When Investigating A Mysterious Ring Formation | Alien Highway" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kVT4-eZ5Pmo" target="_blank" rel="noopener noreferrer">UFO Investigators Face Trouble When Investigating A Mysterious Ring Formation | Alien Highway</a></p><p class="youtube-embed-meta">Channel: Discovery Australia &middot; Views: 23.0K &middot; Uploaded: July 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kVT4-eZ5Pmo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kVT4-eZ5Pmo">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why the Soil Ring Still Matters, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why the Soil Ring Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Delphos Kansas guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Delphos+Kansas+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Delphos case details, including physical properties, laboratory test results, and original site records.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Hydrophobic Soil guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Hydrophobic+Soil+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches investigation methodology to differentiate chemical residues from anomalous craft landing markers.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Fairy Ring guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Fairy+Ring+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Addresses why limited environmental modifications are often misread by sympathetic investigators as extraordinary trace evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides institutional background on how 1970s trace evidence analysis was documented and challenged.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sister States, Enemy States</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -447,15 +480,15 @@ The enduring fascination of the soil ring is therefore not that it solved the UF
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -463,15 +496,15 @@ The enduring fascination of the soil ring is therefore not that it solved the UF
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,15 +512,15 @@ The enduring fascination of the soil ring is therefore not that it solved the UF
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,15 +528,15 @@ The enduring fascination of the soil ring is therefore not that it solved the UF
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,7 +544,7 @@ The enduring fascination of the soil ring is therefore not that it solved the UF
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="soil-evidence-why-the-soil-ring-still-matters-delphos-ring-incident-1971-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-soil-ring-still-matters-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-the-soil-ring-still-matters-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -726,77 +759,77 @@ The enduring fascination of the soil ring is therefore not that it solved the UF
 
 1. <a id="endnote-1"></a>
    Source: ufoevidence.org  
-   Link: [https://www.ufoevidence.org/cases/case192.htm](https://www.ufoevidence.org/cases/case192.htm)  
+   Link: <a href="https://www.ufoevidence.org/cases/case192.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case192.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Delphos, Kansas Landing Ring2 Nov 1971 — The ring itself may not be directly related to the UFO sighting, and the presence of a fungus in...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/Budinger/UT001.pdf](https://documents.theblackvault.com/documents/Budinger/UT001.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/Budinger/UT001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/Budinger/UT001.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TSR UT0019 Aug 1999 — 6) The ring soil was not exposed to a physical effect such as high temperature. 7) The analysis neither proves nor...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
    Title: Research Gate Preliminary investigation of soil chemical and physical  
-   Link: [https://www.researchgate.net/publication/229503759_Preliminary_investigation_of_soil_chemical_and_physical_properties_associated_with_type-I_fairy_ring_symptoms_in_turfgrass](https://www.researchgate.net/publication/229503759_Preliminary_investigation_of_soil_chemical_and_physical_properties_associated_with_type-I_fairy_ring_symptoms_in_turfgrass)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGatePreliminary investigation of soil chemical and physical...August 15, 2007 — In turfgrasses, it has been observed that an inc...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/229503759_Preliminary_investigation_of_soil_chemical_and_physical_properties_associated_with_type-I_fairy_ring_symptoms_in_turfgrass" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229503759_Preliminary_investigation_of_soil_chemical_and_physical_properties_associated_with_type-I_fairy_ring_symptoms_in_turfgrass</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary investigation of soil chemical and physical...August 15, 2007 — In turfgrasses, it has been observed that an inc...</p></details>
    Published: August 15, 2007  
 
 4. <a id="endnote-4"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Compelling-Scientific-Evidence-UFOs-Analysis/dp/150271552X](https://www.amazon.co.uk/Compelling-Scientific-Evidence-UFOs-Analysis/dp/150271552X)  
+   Link: <a href="https://www.amazon.co.uk/Compelling-Scientific-Evidence-UFOs-Analysis/dp/150271552X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Compelling-Scientific-Evidence-UFOs-Analysis/dp/150271552X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon UKThe Compelling Scientific Evidence for UFOs: The Analysis...Physical and chemical analysis of a glowing ring soil residue alleg...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe New Science of Unidentified Aerospace-Undersea...Budinger also noted [271] that insoluble humates were not found in the soil sa...</p></details>
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Unidentified Aerospace-Undersea...Budinger also noted [271] that insoluble humates were not found in the soil sa...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pubs.usgs.gov  
-   Link: [https://pubs.usgs.gov/publication/sir20055104](https://pubs.usgs.gov/publication/sir20055104)  
+   Link: <a href="https://pubs.usgs.gov/publication/sir20055104" target="_blank" rel="noopener noreferrer nofollow">https://pubs.usgs.gov/publication/sir20055104</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveyFate and transport of petroleum hydrocarbons in soil and...May 27, 2006 — by SD Williams · 2006 · Cited by 56 — Soil ga...</p></details>
    Published: May 27, 2006  
 
 7. <a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10224032/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10224032/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10224032/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10224032/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govPetroleum-Degrading Fungal Isolates for the Treatment of Soil...by D Daâssi · 2023 · Cited by 23 — The main purpose of this study...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: wildcard-project.eu  
    Title: WILDCARDSoil sampling protocol  
-   Link: [https://wildcard-project.eu/wp-content/uploads/2024/03/WILDCARD_WP2_WP3_Soil_sampling_protocol_v4.2_FINAL_noQR.pdf](https://wildcard-project.eu/wp-content/uploads/2024/03/WILDCARD_WP2_WP3_Soil_sampling_protocol_v4.2_FINAL_noQR.pdf)  
+   Link: <a href="https://wildcard-project.eu/wp-content/uploads/2024/03/WILDCARD_WP2_WP3_Soil_sampling_protocol_v4.2_FINAL_noQR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wildcard-project.eu/wp-content/uploads/2024/03/WILDCARD_WP2_WP3_Soil_sampling_protocol_v4.2_FINAL_noQR.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>o Carefully insert the soil corer with the sampling ring in the soil, so that...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/Budinger/UT035.pdf](https://documents.theblackvault.com/documents/Budinger/UT035.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/Budinger/UT035.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/Budinger/UT035.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Jul 2004 — The soil is composed of primarily quartz, kaolinite clay, a smaller amount of calcium carbonate, and probably minor amounts...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/344295314_Fungal_bioremediation_of_soil_co-contaminated_with_petroleum_hydrocarbons_and_toxic_metals](https://www.researchgate.net/publication/344295314_Fungal_bioremediation_of_soil_co-contaminated_with_petroleum_hydrocarbons_and_toxic_metals)  
+   Link: <a href="https://www.researchgate.net/publication/344295314_Fungal_bioremediation_of_soil_co-contaminated_with_petroleum_hydrocarbons_and_toxic_metals" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/344295314_Fungal_bioremediation_of_soil_co-contaminated_with_petroleum_hydrocarbons_and_toxic_metals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Fungal bioremediation of soil co-contaminated with...17 Sept 2020 — This article documents the roles of fungi in soil polluted wit...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/JUFOS/1989_NS_vol1_JUFOS.pdf](https://cufos.org/PDFs/JUFOS/1989_NS_vol1_JUFOS.pdf)  
+   Link: <a href="https://cufos.org/PDFs/JUFOS/1989_NS_vol1_JUFOS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/JUFOS/1989_NS_vol1_JUFOS.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for UFO StudiesJOURNAL OF UFO STUDIESprovide evidence of a genuine UFO-related event occurring at Delphos. Introduction. The Delph...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: salinapubliclibrary.org  
    Title: ufos and kansas  
-   Link: [https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/](https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/)  
+   Link: <a href="https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/" target="_blank" rel="noopener noreferrer nofollow">https://salinapubliclibrary.org/2023/02/off-the-shelf/ufos-and-kansas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Salina Public LibraryUFOs and Kansas13 Feb 2023 — Headlines from the Salina Journal included “The &#x27;Thing&#x27; Left a Ring, Photograph Shows”...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: fs.usda.gov  
-   Link: [https://www.fs.usda.gov/psw/publications/documents/psw_gtr046/psw_gtr046.pdf](https://www.fs.usda.gov/psw/publications/documents/psw_gtr046/psw_gtr046.pdf)  
+   Link: <a href="https://www.fs.usda.gov/psw/publications/documents/psw_gtr046/psw_gtr046.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fs.usda.gov/psw/publications/documents/psw_gtr046/psw_gtr046.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Forest ServiceWater Repellent Soils: a state-of-the-artby LF DeBano · 1981 · Cited by 953 — Cover:A simple field test with a water dro...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/19543551/](https://pubmed.ncbi.nlm.nih.gov/19543551/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/19543551/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/19543551/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Actinobacterial and Fungal Communities in...by K Björklöf · 2009 · Cited by 22 — In this work we studied the microbial communities in...</p></details>
 
 ### Additional References
@@ -804,57 +837,57 @@ The enduring fascination of the soil ring is therefore not that it solved the UF
 15. <a id="endnote-15"></a>
    Source: dri.edu  
    Title: nsf grant awarded to research the chemistry of post fire soil water repellency  
-   Link: [https://www.dri.edu/nsf-grant-awarded-to-research-the-chemistry-of-post-fire-soil-water-repellency/](https://www.dri.edu/nsf-grant-awarded-to-research-the-chemistry-of-post-fire-soil-water-repellency/)  
+   Link: <a href="https://www.dri.edu/nsf-grant-awarded-to-research-the-chemistry-of-post-fire-soil-water-repellency/" target="_blank" rel="noopener noreferrer nofollow">https://www.dri.edu/nsf-grant-awarded-to-research-the-chemistry-of-post-fire-soil-water-repellency/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NSF Grant Awarded to Research the Chemistry of Post-fire...25 Sept 2025 — The research will investigate how the chemical composition of...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/825663274173679/posts/7086477108092233/](https://www.facebook.com/groups/825663274173679/posts/7086477108092233/)  
+   Link: <a href="https://www.facebook.com/groups/825663274173679/posts/7086477108092233/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/825663274173679/posts/7086477108092233/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ater, it repelled moisture completely, a phenomenon that...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: fsl.orst.edu  
    Title: DeBano JH2002a fire  
-   Link: [https://www.fsl.orst.edu/ltep/Biscuit/Biscuit_files/Refs/DeBano%20JH2002a%20fire.pdf](https://www.fsl.orst.edu/ltep/Biscuit/Biscuit_files/Refs/DeBano%20JH2002a%20fire.pdf)  
+   Link: <a href="https://www.fsl.orst.edu/ltep/Biscuit/Biscuit_files/Refs/DeBano%20JH2002a%20fire.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fsl.orst.edu/ltep/Biscuit/Biscuit_files/Refs/DeBano%20JH2002a%20fire.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Water repellency in soils: a historical overviewby LF DeBano · 2000 · Cited by 613 — The addition of cores containing a loam soil to wate...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: usufocenter.com  
    Title: delphos kansas UFO  
-   Link: [https://www.usufocenter.com/ufologist/booth/delphos-kansas-UFO.html](https://www.usufocenter.com/ufologist/booth/delphos-kansas-UFO.html)  
+   Link: <a href="https://www.usufocenter.com/ufologist/booth/delphos-kansas-UFO.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/ufologist/booth/delphos-kansas-UFO.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOlogist: Delphos Kansas UFO Sighting of 1971Discover amazing details about the Delphos Kansas UFO Encounter along with other alien abdu...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: dokumen.pub  
    Title: ring soil became water repellent.Read more  
-   Link: [https://dokumen.pub/the-compelling-scientific-evidence-for-ufos-150271552x.html](https://dokumen.pub/the-compelling-scientific-evidence-for-ufos-150271552x.html)  
+   Link: <a href="https://dokumen.pub/the-compelling-scientific-evidence-for-ufos-150271552x.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-compelling-scientific-evidence-for-ufos-150271552x.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Compelling Scientific Evidence for UFOs 150271552XCuriously, it may also have relevance to the findings from the Delphos ring soil an...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Science-Based Evidence May Indicate That UFO Landed In US Farm | Alien Contact  
-   Link: [https://www.youtube.com/watch?v=uFEgZJr_Jkw](https://www.youtube.com/watch?v=uFEgZJr_Jkw)  
+   Link: <a href="https://www.youtube.com/watch?v=uFEgZJr_Jkw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uFEgZJr_Jkw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Paralyzes Kansas Boy: Exclusive Interview with Ronnie Johnson...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The UFO Encounter That Left Witnesses Paralyzed with Fear  
-   Link: [https://www.youtube.com/watch?v=F0EEbxfIgwQ](https://www.youtube.com/watch?v=F0EEbxfIgwQ)  
+   Link: <a href="https://www.youtube.com/watch?v=F0EEbxfIgwQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F0EEbxfIgwQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigators Face Trouble When Investigating A Mysterious Ring Formation | Alien Highway...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2075-163X/10/8/724](https://www.mdpi.com/2075-163X/10/8/724)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIpXRF Measurements on Soil Samples for the Exploration...by B Lemière · 2020 · Cited by 14 — Several methods based on wet chemistry a...</p></details>
+   Link: <a href="https://www.mdpi.com/2075-163X/10/8/724" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2075-163X/10/8/724</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>pXRF Measurements on Soil Samples for the Exploration...by B Lemière · 2020 · Cited by 14 — Several methods based on wet chemistry a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: altpropulsion.com  
    Title: knuth apec 2023 final  
-   Link: [https://www.altpropulsion.com/wp-content/uploads/2024/12/knuth-apec-2023-final.pdf](https://www.altpropulsion.com/wp-content/uploads/2024/12/knuth-apec-2023-final.pdf)  
+   Link: <a href="https://www.altpropulsion.com/wp-content/uploads/2024/12/knuth-apec-2023-final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/wp-content/uploads/2024/12/knuth-apec-2023-final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CE-2 Report,„. Journal of UFO Studies, 1, pp.41-65. Phillips, Ted. Landing Report from Delphos. Flying...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: UFO Paralyzes Kansas Boy: Exclusive Interview with Ronnie Johnson  
-   Link: [https://www.youtube.com/watch?v=cqYrl-s-TrI](https://www.youtube.com/watch?v=cqYrl-s-TrI)  
+   Link: <a href="https://www.youtube.com/watch?v=cqYrl-s-TrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cqYrl-s-TrI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Family Has Permanent Physical Health Problems After UFO Encounter...</p></details>

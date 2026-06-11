@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /aurora-texas-airship-crash-1897/
 nav_short_title: Airship Wave
 title: Why Texas Saw Airships Before Airplanes
-title_full: Why Texas Saw Airships Before Airplanes | Aurora Airship
+title_full: Why Texas Saw Airships Before Airplanes
 display_title_short: Airship Wave
 display_title: Airship Wave
 heading_title: Why Texas Saw Airships Before Airplanes
@@ -233,7 +233,7 @@ next_link:
   permalink: /hoax-theory-71ebaa/
   short_title: Hoax Theory
   heading_title: Was the Aurora Crash a Newspaper Hoax?
-date: '2026-06-08 23:31:53 '
+date: '2026-06-11 13:19:24 '
 header:
   og_image: /assets/images/Aurora_Texas_airship_165367_texas_airship_wave_a264a4-Illustration-1-social.jpg
   preview_image: /assets/images/Aurora_Texas_airship_165367_texas_airship_wave_a264a4-Illustration-1.webp
@@ -242,11 +242,10 @@ image: /assets/images/Aurora_Texas_airship_165367_texas_airship_wave_a264a4-Illu
 
 ## Introduction
 
-The Aurora, Texas crash story of April 1897 did not emerge in isolation. It appeared during a short but intense burst of “mystery airship” reports that swept across Texas and much of the United States in the spring of 1897. Understanding that wider wave is essential because it explains why local readers in North Texas were already primed to believe stories about cigar-shaped flying machines, strange lights, and mysterious pilots weeks before the Aurora article appeared in the Dallas Morning News. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas | TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
-
+The Aurora, Texas crash story of April 1897 did not emerge in isolation. It appeared during a short but intense burst of “mystery airship” reports that swept across Texas and much of the United States in the spring of 1897. Understanding that wider wave is essential because it explains why local readers in North Texas were already primed to believe stories about cigar-shaped flying machines, strange lights, and mysterious pilots weeks before the Aurora article appeared in the Dallas Morning News. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
 
 <img src="{{ "/assets/images/Aurora_Texas_airship_165367_texas_airship_wave_a264a4-Illustration-1-dark.svg" | relative_url }}" alt="Airship Wave illustration 1" data-theme-src-dark="{{ "/assets/images/Aurora_Texas_airship_165367_texas_airship_wave_a264a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aurora_Texas_airship_165367_texas_airship_wave_a264a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The broader airship craze also changes how historians interpret Aurora itself. To UFO believers, the cluster of sightings suggests that the crash belonged to a real and unexplained phenomenon already being observed across Texas. To sceptics, the same context points toward a rapidly spreading newspaper-driven folklore event in which dramatic stories escalated from one town to another. Either way, Aurora makes far more sense when placed inside the larger Texas airship wave rather than treated as a standalone “alien crash” decades before Roswell. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas | TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
+The broader airship craze also changes how historians interpret Aurora itself. To UFO believers, the cluster of sightings suggests that the crash belonged to a real and unexplained phenomenon already being observed across Texas. To sceptics, the same context points toward a rapidly spreading newspaper-driven folklore event in which dramatic stories escalated from one town to another. Either way, Aurora makes far more sense when placed inside the larger Texas airship wave rather than treated as a standalone “alien crash” decades before Roswell. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
 ## Why Texas Saw Airships Before Airplanes
 
@@ -255,7 +254,6 @@ In 1897, powered aeroplanes did not yet exist in practical public use. The Wrigh
 Americans in the 1890s were living through rapid technological change. Electric lighting, telephones, bicycles, automobiles, and experimental lighter-than-air craft were transforming public imagination. Newspapers regularly discussed inventors attempting to conquer flight, and popular fiction featured secret inventors piloting advanced airships. Stories by writers such as Luis Senarens and Jules Verne had already familiarised readers with the idea of giant navigable flying craft years before the Texas sightings began. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
 
 This matters because the “mystery airships” were usually described not as magical objects but as machines. Witnesses commonly reported:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -270,19 +268,17 @@ This matters because the “mystery airships” were usually described not as ma
 
 </div>
 
-These descriptions reflected the technological imagination of the 1890s rather than the flying saucer imagery that would dominate after 1947. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas | TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
-
+These descriptions reflected the technological imagination of the 1890s rather than the flying saucer imagery that would dominate after 1947. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mq0pmfgeAt4" title="Secret Origin of the Mystery Airships! (Phantom Airships, UFO, 1897) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mq0pmfgeAt4" target="_blank" rel="noopener noreferrer">Secret Origin of the Mystery Airships! (Phantom Airships, UFO, 1897) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 15.2K &middot; Uploaded: October 2023 &middot; Length: 1 hour 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mq0pmfgeAt4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mq0pmfgeAt4">Open on YouTube</a></p></div></div></div>
 
 ## The April Texas Sighting Cluster
 
-Texas experienced one of the densest concentrations of reports during the national airship wave. The Texas Almanac documented 38 sightings across 23 counties between 13 and 17 April 1897, especially in North Central Texas — the same region where Aurora was located. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas | TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
+Texas experienced one of the densest concentrations of reports during the national airship wave. The Texas Almanac documented 38 sightings across 23 counties between 13 and 17 April 1897, especially in North Central Texas — the same region where Aurora was located. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
 
-The reports appeared in a remarkably compressed time window. Counties with multiple sightings included Hill, Tarrant, Fannin, Ellis, Grayson, Bowie, Collin, Hunt, and Johnson. Single reports emerged from Wise County, where Aurora was situated, along with Dallas, Denton, Parker, Kaufman, Navarro, Travis, Jefferson, and others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas | TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
+The reports appeared in a remarkably compressed time window. Counties with multiple sightings included Hill, Tarrant, Fannin, Ellis, Grayson, Bowie, Collin, Hunt, and Johnson. Single reports emerged from Wise County, where Aurora was situated, along with Dallas, Denton, Parker, Kaufman, Navarro, Travis, Jefferson, and others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
 
 Several recurring details appeared throughout the Texas cluster:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,8 +301,7 @@ By the time the Aurora article appeared on 19 April 1897, readers had already sp
 
 ## Common Airship Motifs in Newspapers
 
-One reason the 1897 wave fascinates modern UFO researchers is the remarkable consistency of certain themes. Newspapers separated by hundreds of miles often described very similar objects and behaviours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas | TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
-
+One reason the 1897 wave fascinates modern UFO researchers is the remarkable consistency of certain themes. Newspapers separated by hundreds of miles often described very similar objects and behaviours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
 
 <img src="{{ "/assets/images/Aurora_Texas_airship_165367_texas_airship_wave_a264a4-Illustration-2-dark.svg" | relative_url }}" alt="Airship Wave illustration 2" data-theme-src-dark="{{ "/assets/images/Aurora_Texas_airship_165367_texas_airship_wave_a264a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aurora_Texas_airship_165367_texas_airship_wave_a264a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Airships as Mechanical Craft
@@ -325,12 +320,11 @@ This aspect complicates modern attempts to classify the wave as straightforward 
 
 Yet traces of extraterrestrial speculation did appear even then. Some newspapers floated the idea that the craft might come from Mars, reflecting contemporary fascination with astronomy and science fiction. The Aurora article’s phrase “not an inhabitant of this world” therefore emerged from an already developing imaginative framework rather than from nowhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DeWmfXB3U1c" title="Why did a Texas town bury an alien visitor in 1897?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DeWmfXB3U1c" target="_blank" rel="noopener noreferrer">Why did a Texas town bury an alien visitor in 1897?</a></p><p class="youtube-embed-meta">Channel: Unscaled Stories &middot; Views: 218 &middot; Uploaded: November 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DeWmfXB3U1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DeWmfXB3U1c">Open on YouTube</a></p></div></div></div>
 
 ### Humour, Hoaxes, and Performance
 
-Not all reports were serious. Newspapers of the era mixed factual reporting, satire, exaggeration, and local colour in ways that modern readers often misinterpret. Some airship stories were clearly playful or absurd. Accounts surfaced of crews singing hymns, distributing temperance literature, or making bizarre public appearances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas | TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
+Not all reports were serious. Newspapers of the era mixed factual reporting, satire, exaggeration, and local colour in ways that modern readers often misinterpret. Some airship stories were clearly playful or absurd. Accounts surfaced of crews singing hymns, distributing temperance literature, or making bizarre public appearances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
 
 There were also outright pranks. One documented Texas hoax involved boys attaching a burning object to a turkey vulture to imitate an airborne glowing craft. Witnesses reportedly mistook it for the famous airship until the bird caused a fire after landing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
 
@@ -338,10 +332,9 @@ This atmosphere is crucial to understanding Aurora. The town’s crash tale appe
 
 ## How Folklore Spread Through Press Reports
 
-The 1897 airship wave spread through newspapers at extraordinary speed. In many cases, local correspondents filed reports that were then copied, condensed, or reprinted by papers in other towns. Each new story reinforced public expectation that mysterious craft were being seen everywhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas | TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
+The 1897 airship wave spread through newspapers at extraordinary speed. In many cases, local correspondents filed reports that were then copied, condensed, or reprinted by papers in other towns. Each new story reinforced public expectation that mysterious craft were being seen everywhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
 
 This produced a feedback loop:
-
 
 <img src="{{ "/assets/images/Aurora_Texas_airship_165367_texas_airship_wave_a264a4-Illustration-3-dark.svg" | relative_url }}" alt="Airship Wave illustration 3" data-theme-src-dark="{{ "/assets/images/Aurora_Texas_airship_165367_texas_airship_wave_a264a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aurora_Texas_airship_165367_texas_airship_wave_a264a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -358,7 +351,7 @@ By mid-April 1897, the Dallas Morning News was reportedly printing airship sight
 
 The Aurora article itself demonstrates this escalation process. Earlier sightings described mysterious craft overhead. Aurora added a catastrophic crash, strange wreckage, and a dead pilot allegedly buried in a cemetery. It transformed a recurring rumour into a complete narrative with physical consequences and emotional drama.
 
-Historians of folklore and mass media often point to this progression as evidence of social contagion rather than a series of independent observations. Once the “airship” became a recognised cultural story, local communities adapted it into forms that reflected their own anxieties, humour, or ambitions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas | TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
+Historians of folklore and mass media often point to this progression as evidence of social contagion rather than a series of independent observations. Once the “airship” became a recognised cultural story, local communities adapted it into forms that reflected their own anxieties, humour, or ambitions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
 
 That interpretation gained strength from later testimony suggesting that Aurora resident S. E. Haydon may have invented or embellished the crash story partly to attract attention to a struggling town suffering economic decline after disease outbreaks and railroad setbacks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tshaonline.org/texas-day-by-day/entry/118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tshaonline.org">[Texas State Historical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tshaonline.org</span><span class="citation-popover-snippet">Texas State Historical AssociationAuthor attempts to jump-start town with fictional UFO story19 Apr 2026 — On this day in 1897, SE Haydon...</span></span></span>
 
@@ -368,53 +361,93 @@ The wider Texas airship wave remains central to arguments both for and against t
 
 Believers argue that Aurora gains credibility because it occurred during a broader pattern of sightings reported across multiple counties. From this perspective, the crash was simply the most dramatic event in an already active aerial phenomenon. Some modern researchers have even proposed that genuine experimental airships might have inspired at least part of the wave. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
 
-Sceptics reach the opposite conclusion. They argue that the sheer number and theatrical nature of the reports point toward a cultural craze amplified by newspapers eager for sensational stories. In that reading, Aurora represents the peak of the folklore cycle: a local legend built from already familiar airship motifs and published into a media environment ready to accept it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas | TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
+Sceptics reach the opposite conclusion. They argue that the sheer number and theatrical nature of the reports point toward a cultural craze amplified by newspapers eager for sensational stories. In that reading, Aurora represents the peak of the folklore cycle: a local legend built from already familiar airship motifs and published into a media environment ready to accept it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span>
 
-Either interpretation depends heavily on the larger wave. Without the April 1897 Texas sightings, the Aurora article would appear bizarre and isolated. Inside the airship craze, however, it becomes understandable as part of a rapidly evolving late nineteenth-century phenomenon where journalism, technology, folklore, and speculation merged into one of America’s earliest UFO-style panics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas | TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
-
+Either interpretation depends heavily on the larger wave. Without the April 1897 Texas sightings, the Aurora article would appear bizarre and isolated. Inside the airship craze, however, it becomes understandable as part of a rapidly evolving late nineteenth-century phenomenon where journalism, technology, folklore, and speculation merged into one of America’s earliest UFO-style panics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">when airships invaded texas</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of UFO-related hoaxes</span><span class="citation-popover-snippet">List of UFO-related hoaxes</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DoJUsaTknNw" title="Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer">Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 17.6K &middot; Uploaded: October 2023 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DoJUsaTknNw">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why Texas Saw Airships Before Airplanes, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why Texas Saw Airships Before Airplanes. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s a Horse&#x27;s Life! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=swoVJIlrzmgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for It&#x27;s a Horse&#x27;s Life!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s a Horse&#x27;s Life!">It&#x27;s a Horse&#x27;s Life!</a>
+        </h4>
+        <p class="fr-book-author">By Joanne Friedman</p>
+        
+        <p class="fr-book-desc">Tracks the entire April 1897 sighting cluster across Texas, mapping out common motifs like propellers and searchlights.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">1897 Airship Sightings guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=1897+Airship+Sightings+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s a Horse&#x27;s Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1299434-M.jpg" alt="Cover for It&#x27;s a Horse&#x27;s Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s a Horse&#x27;s Life">It&#x27;s a Horse&#x27;s Life</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+        
+        <p class="fr-book-desc">Tracks the entire April 1897 sighting cluster across Texas, mapping out common motifs like propellers and searchlights.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">1897 Airship Sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=1897+Airship+Sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Contextualizes how folklore spread through regional press reports, creating a unified wave weeks before airplanes existed.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Civil+War+Sites+by+James+Campi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Civil War Sites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BvNjvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Civil War Sites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Civil+War+Sites+by+James+Campi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Civil War Sites">Civil War Sites</a>
+        </h4>
+        <p class="fr-book-author">By James Campi, Civil War Preservation Trust</p>
+        
+        <p class="fr-book-desc">Details the specific cluster of sightings that swept across North Texas towns in the spring of 1897.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Civil+War+Sites+by+James+Campi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s a Horse&#x27;s Life!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s a Horse&#x27;s Life</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -451,15 +484,15 @@ Either interpretation depends heavily on the larger wave. Without the April 1897
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zeppelin Airship Laser Cut Wooden - Steampunk Air Ship - 3D Model/Puzzle Kit"><img src="{{ '/assets/images/marketplace-covers/d131895dc73fc49f2eec.jpg' | relative_url }}" alt="Listing image for Zeppelin Airship Laser Cut Wooden - Steampunk Air Ship - 3D Model/Puzzle Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">Zeppelin Airship Laser Cut Wooden - Steampunk Air Ship - 3D Model/Puzzle Kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for zeppelin model">Search <span data-ebay-domain-label>eBay.co.uk</span>: zeppelin model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -467,15 +500,15 @@ Either interpretation depends heavily on the larger wave. Without the April 1897
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zeppelin Metal Model Graf Zeppelin Aircraft 3D Laser Cut Model Kit Hobbies Gift"><img src="{{ '/assets/images/marketplace-covers/7b9d91bb743342de298a.jpg' | relative_url }}" alt="Listing image for Zeppelin Metal Model Graf Zeppelin Aircraft 3D Laser Cut Model Kit Hobbies Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">Zeppelin Metal Model Graf Zeppelin Aircraft 3D Laser Cut Model Kit Hobbies Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for zeppelin model">Search <span data-ebay-domain-label>eBay.co.uk</span>: zeppelin model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -483,31 +516,15 @@ Either interpretation depends heavily on the larger wave. Without the April 1897
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Detailed Silver Airship Zeppelin Desk Top Display 1/500 Model 17 Inch"><img src="{{ '/assets/images/marketplace-covers/645c75cbaabc8310988e.jpg' | relative_url }}" alt="Listing image for Detailed Silver Airship Zeppelin Desk Top Display 1/500 Model 17 Inch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">Detailed Silver Airship Zeppelin Desk Top Display 1/500 Model 17 Inch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for zeppelin model">Search <span data-ebay-domain-label>eBay.co.uk</span>: zeppelin model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,7 +532,7 @@ Either interpretation depends heavily on the larger wave. Without the April 1897
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="airship-wave-why-texas-saw-airships-before-airplanes-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -731,45 +748,45 @@ Either interpretation depends heavily on the larger wave. Without the April 1897
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: [https://en.wikipedia.org/wiki/Mystery_airship](https://en.wikipedia.org/wiki/Mystery_airship)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Aurora, Texas, UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident](https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Extraterrestrial UFO hypothesis  
-   Link: [https://en.wikipedia.org/wiki/Extraterrestrial_UFO_hypothesis](https://en.wikipedia.org/wiki/Extraterrestrial_UFO_hypothesis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Extraterrestrial_UFO_hypothesis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Extraterrestrial_UFO_hypothesis</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: List of UFO-related hoaxes  
-   Link: [https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes](https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes</a>  
 
 5. <a id="endnote-5"></a>
    Source: readex.com  
    Title: ufo fever americas historical newspapers mysterious airships 1896 97  
-   Link: [https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97](https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97)  
+   Link: <a href="https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97" target="_blank" rel="noopener noreferrer nofollow">https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Airships of 1896-9712 Sept 2014 — By mid-April 1897, the Dallas Morning News was reporting a sighting nearly every day, ea...</p></details>
    Published: April 1897  
 
 6. <a id="endnote-6"></a>
    Source: texasalmanac.com  
    Title: when airships invaded texas  
-   Link: [https://www.texasalmanac.com/articles/when-airships-invaded-texas](https://www.texasalmanac.com/articles/when-airships-invaded-texas)  
+   Link: <a href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.texasalmanac.com/articles/when-airships-invaded-texas</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TX AlmanacWhen Airships Invaded Texas | TX AlmanacBetween April 13 and 17, 1897, there were 38 reported sightings of &quot;airships&quot; in 23 cou...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: tshaonline.org  
-   Link: [https://www.tshaonline.org/texas-day-by-day/entry/118](https://www.tshaonline.org/texas-day-by-day/entry/118)  
+   Link: <a href="https://www.tshaonline.org/texas-day-by-day/entry/118" target="_blank" rel="noopener noreferrer nofollow">https://www.tshaonline.org/texas-day-by-day/entry/118</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas State Historical AssociationAuthor attempts to jump-start town with fictional UFO story19 Apr 2026 — On this day in 1897, SE Haydon...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: wedentondoit.com  
    Title: the 1897 texas airship invasion  
-   Link: [https://wedentondoit.com/blog/2017/4/21/the-1897-texas-airship-invasion](https://wedentondoit.com/blog/2017/4/21/the-1897-texas-airship-invasion)  
+   Link: <a href="https://wedentondoit.com/blog/2017/4/21/the-1897-texas-airship-invasion" target="_blank" rel="noopener noreferrer nofollow">https://wedentondoit.com/blog/2017/4/21/the-1897-texas-airship-invasion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We Denton Do ItTHE 1897 TEXAS AIRSHIP INVASIONApril 21, 2017 — 21 Apr 2017 — The earliest reported Airship sighting in Texas came from ru...</p></details>
    Published: April 21, 2017  
 
@@ -778,64 +795,64 @@ Either interpretation depends heavily on the larger wave. Without the April 1897
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: an 1897 ufo this clipping is just one of many mystery airship reports that fille  
-   Link: [https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/](https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/)  
+   Link: <a href="https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An 1897 UFO? This clipping is just one of many &quot;mystery...In April 1897, a mysterious airship is said to have crashed on the property of...</p></details>
    Published: April 1897  
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: today in ufo history on todays date 129 years ago friday april 16 1897 during th  
-   Link: [https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/](https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/)  
+   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-friday-april-16-1897-during-th/1511031263717011/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Today in UFO History -- On today&#x27;s date 129 years...A story from the 1896-1897 mystery airship wave, where a man in Texas reported an en...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: auroratexas.gov  
-   Link: [https://www.auroratexas.gov/community/history/](https://www.auroratexas.gov/community/history/)  
+   Link: <a href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.auroratexas.gov/community/history/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 17, 1897. The tall tale reports a “airship” crashing into Judge Proctor&#x27;s...</p></details>
    Published: April 17, 1897  
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: were the airships sightings of 18961897 genuine  
-   Link: [https://www.reddit.com/r/aliens/comments/12137yj/were_the_airships_sightings_of_18961897_genuine/](https://www.reddit.com/r/aliens/comments/12137yj/were_the_airships_sightings_of_18961897_genuine/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/12137yj/were_the_airships_sightings_of_18961897_genuine/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12137yj/were_the_airships_sightings_of_18961897_genuine/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Were the Airships Sightings of 1896-1897 genuine UFO...The accounts of the 1896 and 1897 unidentified Airship sightings may be a story o...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: the aurora ufo crash of 1897 ufo texas txchron  
-   Link: [https://www.facebook.com/txchronicles/posts/the-aurora-ufo-crash-of-1897-ufo-texas-txchron/1322641396184897/](https://www.facebook.com/txchronicles/posts/the-aurora-ufo-crash-of-1897-ufo-texas-txchron/1322641396184897/)  
+   Link: <a href="https://www.facebook.com/txchronicles/posts/the-aurora-ufo-crash-of-1897-ufo-texas-txchron/1322641396184897/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-aurora-ufo-crash-of-1897-ufo-texas-txchron/1322641396184897/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aurora UFO Crash of 1897: #ufo #texas #txchronOn April 17, 1897, a peculiar story emerged from the small town of Aurora, Texas, about...</p></details>
    Published: April 17, 1897  
 
 14. <a id="endnote-14"></a>
    Source: history.nebraska.gov  
    Title: doc publications NH1979UFOs  
-   Link: [https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf](https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf)  
+   Link: <a href="https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://history.nebraska.gov/wp-content/uploads/2017/12/doc_publications_NH1979UFOs.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 1897, beginning in Nebraska, people across much of the United States began reporting nighttime sightings of an airship flying...</p></details>
    Published: February 1897  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/](https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/)  
+   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-129-years-ago-tuesday-april-13-1897-during-t/1508580773962060/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On today&#x27;s date 129 years ago, Tuesday, April 13, 1897...The 1896-1897 airship wave is probably the best investigated of all historical...</p></details>
    Published: April 13, 1897  
 
 16. <a id="endnote-16"></a>
    Source: dentonhaunts.wordpress.com  
    Title: dentons 1897 aeroship invasion  
-   Link: [https://dentonhaunts.wordpress.com/2017/05/13/dentons-1897-aeroship-invasion/](https://dentonhaunts.wordpress.com/2017/05/13/dentons-1897-aeroship-invasion/)  
+   Link: <a href="https://dentonhaunts.wordpress.com/2017/05/13/dentons-1897-aeroship-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://dentonhaunts.wordpress.com/2017/05/13/dentons-1897-aeroship-invasion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Denton Haunts and Ghost StoriesDenton&#x27;s 1897 Aeroship Invasion13 May 2017 — The earliest reported Airship sighting in Texas came from rur...</p></details>
    Published: May 2017  
 
 17. <a id="endnote-17"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/episode/2pN0YmhVIhOKDF9SP4KtTv](https://open.spotify.com/episode/2pN0YmhVIhOKDF9SP4KtTv)  
+   Link: <a href="https://open.spotify.com/episode/2pN0YmhVIhOKDF9SP4KtTv" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/2pN0YmhVIhOKDF9SP4KtTv</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com1897 Aurora UFO Crash - Theories of the Third KindOn April 19, 1897, the Dallas Morning News reported a mysterious airship had...</p></details>
    Published: April 19, 1897  
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
    Title: 0,, 2556,00  
-   Link: [https://www.theguardian.com/notesandqueries/query/0%2C%2C-2556%2C00.html](https://www.theguardian.com/notesandqueries/query/0%2C%2C-2556%2C00.html)  
+   Link: <a href="https://www.theguardian.com/notesandqueries/query/0%2C%2C-2556%2C00.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/notesandqueries/query/0%2C%2C-2556%2C00.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 1876 to May 1897 mysterious large airships...November 1876 to May 1897 mysterious large airships powered by propellers and deco...</p></details>
-   Published: November 1876  
+   Published: November 1876

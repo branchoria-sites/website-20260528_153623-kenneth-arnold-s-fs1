@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /tully-saucer-nest-in-b9d0b0-index/
 description: Focused pages that expand on Tully saucer nest incident 1966.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Tully_saucer_nest_in_b9d0b0
 parent_title: Tully saucer nest incident 1966

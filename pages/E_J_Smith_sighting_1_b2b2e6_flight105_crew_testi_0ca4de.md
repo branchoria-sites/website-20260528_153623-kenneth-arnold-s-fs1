@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /e-j-smith-sighting-1947/
 nav_short_title: Crew Testimony
 title: How Flight 105 Crew Described the Mysterious Objects
-title_full: How Flight 105 Crew Described the Mysterious Objects | Flight105UFO
+title_full: How Flight 105 Crew Described the Mysterious Objects
 display_title_short: Crew Testimony
 display_title: Crew Testimony
 heading_title: How Flight 105 Crew Described the Mysterious Objects
@@ -197,20 +197,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Flight105UFO
+parent_title: Flight 105 UFO
 parent_permalink: /e-j-smith-sighting-1947/
-parent_nav_short_title: Flight105UFO
+parent_nav_short_title: Flight 105 UFO
 parent_heading_title: What Really Happened on United Flight 105 in 1947?
 ancestor_links:
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 breadcrumb_links:
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 sibling_links:
 - basename: E_J_Smith_sighting_1_b2b2e6_flight105_explanatio_3963b9
   title: Explanations | What Really Happened on United Flight 105 in 1947?
@@ -224,16 +224,16 @@ sibling_links:
   heading_title: What Air Materiel Command Concluded About Flight 105
 up_link:
   basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 next_link:
   basename: E_J_Smith_sighting_1_b2b2e6_flight105_explanatio_3963b9
   title: Explanations | What Really Happened on United Flight 105 in 1947?
   permalink: /explanations-195d80/
   short_title: Explanations
   heading_title: Did Flight 105 See UFOs or Misidentified Objects?
-date: '2026-06-08 23:33:24 '
+date: '2026-06-11 13:20:08 '
 header:
   og_image: /assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_crew_testi_0ca4de-Illustration-1-social.jpg
   preview_image: /assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_crew_testi_0ca4de-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_crew_testi_0ca4de-Il
 ## Introduction
 
 The **Eyewitness testimony and pilot credibility analysis** of the **E J Smith sighting (1947)** centres on what professional aircrew aboard *United Air Lines Flight 105* actually reported seeing on the evening of **4 July 1947**, and how credible those reports are judged to be. This case stands out in early UFO history because it was among the first high‑profile sightings made not by anonymous ground observers but by trained airline professionals — Captain **Emil J. Smith**, First Officer **Ralph Stevens**, and stewardess **Marty Morrow** — whose combined testimony would be widely relayed in contemporary newspapers and later ufological literature. Analysing their testimony and the assessment of their reliability helps illuminate both why this incident received serious attention at the time and why it remains debated today.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 105 UFO sighting</span><span class="citation-popover-snippet">Flight 105 UFO sighting</span></span></span>
-
 
 <img src="{{ "/assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_crew_testi_0ca4de-Illustration-1-dark.svg" | relative_url }}" alt="Crew Testimony illustration 1" data-theme-src-dark="{{ "/assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_crew_testi_0ca4de-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_crew_testi_0ca4de-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Timeline of the Sighting and Testimony
@@ -263,7 +262,6 @@ The core of the eyewitness testimony comes from what Smith, Stevens, and Morrow 
 
 Pilot Smith highlighted that he and his crew were not speculating about exotic origins and that they lacked precise details — such as exact size or distance — but emphasised that the shapes bore no resemblance to conventional aircraft or known phenomena at the time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947: UAL Flight 105, July 4, 1947 - Capt E. J. Smith...</span><span class="citation-popover-meta">Published: July 4, 1947</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rQs2NL7hcDA" title="The &quot;Tic Tac&quot; UFO: Can This Sighting Be Explained? | NOVA | PBS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rQs2NL7hcDA" target="_blank" rel="noopener noreferrer">The &quot;Tic Tac&quot; UFO: Can This Sighting Be Explained? | NOVA | PBS</a></p><p class="youtube-embed-meta">Channel: NOVA PBS Official &middot; Views: 63.5K &middot; Uploaded: January 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rQs2NL7hcDA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rQs2NL7hcDA">Open on YouTube</a></p></div></div></div>
 
 ## Assessing Pilot and Crew Credibility
@@ -274,12 +272,10 @@ One reason this sighting carried more weight than many contemporaneous reports w
 
 Dr. James E. McDonald, an atmospheric physicist who later cited this case in congressional hearings, emphasised that the clear weather conditions, duration of observation, and multiple experienced observers made this sighting notably more credible than the mass of brief anthology reports circulating at the same time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947: UAL Flight 105, July 4, 1947 - Capt E. J. Smith...</span><span class="citation-popover-meta">Published: July 4, 1947</span></span></span>
 
+<img src="{{ "/assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_crew_testi_0ca4de-Illustration-2-dark.svg" | relative_url }}" alt="Crew Testimony illustration 2" data-theme-src-dark="{{ "/assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_crew_testi_0ca4de-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_crew_testi_0ca4de-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Internal Consistency and Third‑Party Corroboration
 
 The agreement between the two pilots and the stewardess adds weight to the testimony, as does the consistency in how they described the sequences of sightings and the objects’ appearance. This internal corroboration reduces the likelihood that a single observer misperceived a conventional object. Moreover, news accounts noted that Smith’s comments to reporters were cautious: he refrained from concluding what the objects were, emphasising uncertainty about exact shape or distance rather than offering fanciful interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 105 UFO sighting</span><span class="citation-popover-snippet">Flight 105 UFO sighting</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MJp-YR34XBs" title="The First UFO Sighting In America | UFOs: The Lost Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MJp-YR34XBs" target="_blank" rel="noopener noreferrer">The First UFO Sighting In America | UFOs: The Lost Evidence</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 182.5K &middot; Uploaded: December 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MJp-YR34XBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MJp-YR34XBs">Open on YouTube</a></p></div></div></div>
 
 ### Constraints and Limits of Testimony
 
@@ -287,12 +283,13 @@ Notwithstanding the credibility tied to professional status, there are important
 
 The absence of independent ground confirmation or radar data leaves the observed phenomena based solely on human perception. This inherently introduces uncertainty, as optical ambiguities, angle of view, and atmospheric effects can influence eyewitness accounts, even those from trained observers. Official assessments at the time noted that conditions at sunset could produce illusory effects and that conventional [explanations]({{ 'explanations-195d80/' | relative_url }}) could not be fully ruled out.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 105 UFO sighting</span><span class="citation-popover-snippet">Flight 105 UFO sighting</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MJp-YR34XBs" title="The First UFO Sighting In America | UFOs: The Lost Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MJp-YR34XBs" target="_blank" rel="noopener noreferrer">The First UFO Sighting In America | UFOs: The Lost Evidence</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 182.5K &middot; Uploaded: December 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MJp-YR34XBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MJp-YR34XBs">Open on YouTube</a></p></div></div></div>
+
 ## Role of Corroborating Witnesses and Public Reception
 
 Morrow’s sighting as a corroborating witness was explicitly included in contemporary reporting and in subsequent case files — a significant factor in how the sighting was publicised. The reported agreement among multiple crew members contributed to widespread media coverage and a presumption among some that this was not a mere misidentification. Newspapers emphasised that these were experienced and credible aircrew, and the story was quickly syndicated nationally and internationally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 105 UFO sighting</span><span class="citation-popover-snippet">Flight 105 UFO sighting</span></span></span>
 
 However, the inability of ground observers or other aircraft contacted by radio to see the same objects highlights a common limitation in UFO eyewitness cases: corroboration beyond the primary witnesses is absent. The public response at the time tended to lean on the authority of pilots as “credible witnesses,” but later analyses and official reports stressed that even credible eyewitnesses can misinterpret unfamiliar stimuli under certain conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 105 UFO sighting</span><span class="citation-popover-snippet">Flight 105 UFO sighting</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KR5hzBQGzLQ" title="Elite Witness Testimonies! | TOP 25 UFO ENCOUNTERS BY ASTRONAUTS, PILOTS AND MILITARY OFFICIALS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KR5hzBQGzLQ" target="_blank" rel="noopener noreferrer">Elite Witness Testimonies! | TOP 25 UFO ENCOUNTERS BY ASTRONAUTS, PILOTS AND MILITARY OFFICIALS</a></p><p class="youtube-embed-meta">Channel: FilmIsNow Movies &middot; Views: 5.8K &middot; Uploaded: March 2025 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KR5hzBQGzLQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KR5hzBQGzLQ">Open on YouTube</a></p></div></div></div>
 
@@ -300,354 +297,92 @@ However, the inability of ground observers or other aircraft contacted by radio 
 
 The **E J Smith sighting** remains a key case in UFO history largely because of the firsthand testimony from professional aircrew who described unusual aerial phenomena. Their accounts, corroborated within the flight crew and widely reported, gave the incident a degree of perceived credibility that many other 1947 reports lacked. At the same time, the testimony did not include definitive physical measurements or independent verification, and contemporaneous official assessments emphasised the potential for optical illusion or misidentification given the conditions. This tension — credible witnesses providing cautious but compelling observations, met by careful scepticism from investigators — defines both the value and the limits of eyewitness testimony in this case.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 105 UFO sighting</span><span class="citation-popover-snippet">Flight 105 UFO sighting</span></span></span>
 
+<img src="{{ "/assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_crew_testi_0ca4de-Illustration-3-dark.svg" | relative_url }}" alt="Crew Testimony illustration 3" data-theme-src-dark="{{ "/assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_crew_testi_0ca4de-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/E_J_Smith_sighting_1_b2b2e6_flight105_crew_testi_0ca4de-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Flight 105 Crew Described the Mysterious Objects, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Flight 105 Crew Described the Mysterious Objects. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Emil J Smith guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Emil+J+Smith+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Directly evaluates the professional credentials of Captain Emil J. Smith, First Officer Ralph Stevens, and Marty Morrow.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">United Air Lines guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=United+Air+Lines+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Documents the 21:04 MST Boise climb sequence, the five disc-shaped objects formation, and the landing light flashing logs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Boise Idaho guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Boise+Idaho+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Tracks how civilian aviation infrastructure cooperated with defense networks to log corroborating regional witnesses.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Details why internally consistent reporting by trained personnel requires cross-examination against conventional data lines.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="crew-testimony-how-flight-105-crew-described-the-mysterious-objects-e-j-smith-sighting-1947-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function localeMatches() {
-    var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
-    try {
-      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
-      else if (navigator.language) languages = [navigator.language];
-    } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
-      var normalized = normalize(languages[i]);
-      if (!normalized) continue;
-      if (localeMarketMap[normalized]) {
-        exactMarket = localeMarketMap[normalized];
-        break;
-      }
-      var languageOnly = normalized.split('-')[0];
-      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
-    }
-    return { exact: exactMarket, language: languageMarket };
-  }
-  function inferFromLocale() {
-    var matches = localeMatches();
-    return matches.exact || matches.language || '';
-  }
-  function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
-      var rule = timezoneRules[i] || {};
-      try {
-        if (new RegExp(rule.pattern).test(tz)) return rule.market;
-      } catch (err) {}
-    }
-    return '';
-  }
-  function inferMarket(available, options) {
-    available = Array.isArray(available) ? available : [];
-    options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
-    try {
-      var saved = window.localStorage && localStorage.getItem(storageKey);
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var timezoneMarket = inferFromTimezone();
-    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
-    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
-    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
-  }
-  window.PhoenixAffiliateLocation = {
-    normalize: normalize,
-    inferMarket: inferMarket,
-    inferFromLocale: inferFromLocale,
-    inferFromTimezone: inferFromTimezone
-  };
-})();
-</script>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-localized-links]');
-  if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
-  function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
-  }
-  function buildUrl(query, reference, marketId) {
-    var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
-    var params = [];
-    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
-    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
-    params.push('mkevt=1');
-    params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
-    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
-    return url + joiner + params.join('&');
-  }
-  function domainLabel(marketId) {
-    var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
-  }
-  function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function closeMenu(section) {
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var picker = section.querySelector('.fr-ebay-market-picker');
-    if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
-    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
-  }
-  function availableMarkets(section) {
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select) {
-      return Array.prototype.slice.call(select.options)
-        .map(function (option) { return option.value; })
-        .filter(function (marketId) { return !!markets[marketId]; });
-    }
-    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
-      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
-      .filter(function (marketId) { return !!markets[marketId]; });
-  }
-  function applyMarket(section, marketId, persist) {
-    var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
-      link.setAttribute('href', buildUrl(query, reference, marketId));
-    });
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
-    var selectedText = marketId;
-    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-      label.textContent = selectedText;
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-      flag.className = flagClass(marketId);
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-      label.textContent = selectedText;
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
-      label.textContent = domainLabel(marketId);
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
-      var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
-    });
-    section.setAttribute('data-ebay-selected-market', marketId);
-    if (persist) {
-      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
-    }
-    closeMenu(section);
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
-    var available = availableMarkets(section);
-    var marketId = defaultMarket;
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: defaultMarket
-      });
-    } else if (available.indexOf(defaultMarket) < 0) {
-      marketId = available[0] || defaultMarket;
-    }
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select) {
-      select.addEventListener('change', function () {
-        applyMarket(section, select.value, true);
-      });
-    }
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    if (trigger && menu) {
-      trigger.addEventListener('click', function (event) {
-        event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
-        menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-        var picker = trigger.closest('.fr-ebay-market-picker');
-        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
-      });
-      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.addEventListener('click', function (event) {
-          event.stopPropagation();
-          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
-        });
-      });
-      document.addEventListener('click', function () { closeMenu(section); });
-    }
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
-      button.addEventListener('click', function () {
-        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
-      });
-    });
-    applyMarket(section, marketId, false);
-  });
-})();
-</script>
 </section>
 
 ## Endnotes
@@ -655,47 +390,47 @@ The **E J Smith sighting** remains a key case in UFO history largely because
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Flight 105 UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Flight_105_UFO_sighting](https://en.wikipedia.org/wiki/Flight_105_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_105_UFO_sighting</a>  
 
 2. <a id="endnote-2"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/fig/ual105.htm](https://www.project1947.com/fig/ual105.htm)  
+   Link: <a href="https://www.project1947.com/fig/ual105.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/ual105.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947PROJECT 1947: UAL Flight 105, July 4, 1947 - Capt E. J. Smith...</p></details>
    Published: July 4, 1947  
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
    Title: 470704emmett e  
-   Link: [https://www.nicap.org/reports/470704emmett_e.htm](https://www.nicap.org/reports/470704emmett_e.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAP470704e...</p></details>
+   Link: <a href="https://www.nicap.org/reports/470704emmett_e.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/470704emmett_e.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>470704e...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/articles/flying750.htm](https://www.project1947.com/articles/flying750.htm)  
+   Link: <a href="https://www.project1947.com/articles/flying750.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/articles/flying750.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July, 1950The light from the object was so brilliant, indeed, that it caused “lightning blindness” to both pilots. They had to turn up th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: project1947.com  
-   Link: [https://project1947.com/fig/1950a.htm](https://project1947.com/fig/1950a.htm)  
+   Link: <a href="https://project1947.com/fig/1950a.htm" target="_blank" rel="noopener noreferrer nofollow">https://project1947.com/fig/1950a.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>He did not, however, see any form of a ship. The light from the object was so brilliant, indeed, that it caused &quot;lightning blindnes...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: douglasdc3.com  
    Title: dc3ufo* * * AIRLINE CREW REPORTS WINGLESS DISCS Boise, Idaho  
-   Link: [https://www.douglasdc3.com/dc3ufo/dc3ufo.htm](https://www.douglasdc3.com/dc3ufo/dc3ufo.htm)  
+   Link: <a href="https://www.douglasdc3.com/dc3ufo/dc3ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.douglasdc3.com/dc3ufo/dc3ufo.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rainier sighting by private pilot Kenneth Arnold, a United Air Lines DC-3 crew sighted t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
    Title: UF O Report  
-   Link: [https://www.nicap.org/Good_Cases/470704emmett_dir.htm](https://www.nicap.org/Good_Cases/470704emmett_dir.htm)  
+   Link: <a href="https://www.nicap.org/Good_Cases/470704emmett_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/Good_Cases/470704emmett_dir.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportJuly 4, 1947 — Category 11 Case Directory SIGHTINGS FROM AIRCRAFT Preliminary Rating: 5 | | Image AVCAT is a special project be...</p></details>
    Published: July 4, 1947  
 
 8. <a id="endnote-8"></a>
    Source: ufo-folkore.fandom.com  
    Title: E.J. Smith  
-   Link: [https://ufo-folkore.fandom.com/wiki/E.J._Smith](https://ufo-folkore.fandom.com/wiki/E.J._Smith)  
+   Link: <a href="https://ufo-folkore.fandom.com/wiki/E.J._Smith" target="_blank" rel="noopener noreferrer nofollow">https://ufo-folkore.fandom.com/wiki/E.J._Smith</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smith | UFO Folkore Wiki | FandomE.J. SMITH Sign in to edit * History * Purge * Talk (0) * United Airlines Capt. E. J. Smith had aerial s...</p></details>
 
 ### Additional References
@@ -703,62 +438,62 @@ The **E J Smith sighting** remains a key case in UFO history largely because
 9. <a id="endnote-9"></a>
    Source: thinkaboutitdocs.com  
    Title: 1947 united airlines flight 105 pilots witness disc shaped objects  
-   Link: [https://www.thinkaboutitdocs.com/1947-united-airlines-flight-105-pilots-witness-disc-shaped-objects/](https://www.thinkaboutitdocs.com/1947-united-airlines-flight-105-pilots-witness-disc-shaped-objects/)  
+   Link: <a href="https://www.thinkaboutitdocs.com/1947-united-airlines-flight-105-pilots-witness-disc-shaped-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/1947-united-airlines-flight-105-pilots-witness-disc-shaped-objects/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1947: United Airlines Flight 105 pilots witness disc-shaped objects – Think AboutIts1947: UNITED AIRLINES FLIGHT 105 PILOTS WITNESS DISC...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arewealoneinthisuniverse.fandom.com  
    Title: Flight 105 UFO sighting  
-   Link: [https://arewealoneinthisuniverse.fandom.com/wiki/Flight_105_UFO_sighting](https://arewealoneinthisuniverse.fandom.com/wiki/Flight_105_UFO_sighting)  
+   Link: <a href="https://arewealoneinthisuniverse.fandom.com/wiki/Flight_105_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://arewealoneinthisuniverse.fandom.com/wiki/Flight_105_UFO_sighting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>105 UFO sighting | Are_We_Alone Wiki | FandomFLIGHT 105 UFO SIGHTING Sign In to Save Save Edit * History * Purge * Talk (0) iframe On Jul...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=01sVLTO8xmo](https://www.youtube.com/watch?v=01sVLTO8xmo)  
+   Link: <a href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=01sVLTO8xmo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Tic Tac&quot; UFO: Can This Sighting Be Explained? | NOVA | PBS...</p></details>
    Published: June 1947  
 
 12. <a id="endnote-12"></a>
    Source: ufosightingsdaily.com  
    Title: Rainier sighting by pr  
-   Link: [https://www.ufosightingsdaily.com/p/pilot-sightings-49.html](https://www.ufosightingsdaily.com/p/pilot-sightings-49.html)  
+   Link: <a href="https://www.ufosightingsdaily.com/p/pilot-sightings-49.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufosightingsdaily.com/p/pilot-sightings-49.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Daily: Pilot Sightings (49)United Airlines Flight 105 pilots witness formation of disc-shaped objects Date: July 4, 1947 Lo...</p></details>
    Published: July 4, 1947  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The "Tic Tac" UFO: Can This Sighting Be Explained? | NOVA | PBS  
-   Link: [https://www.youtube.com/watch?v=rQs2NL7hcDA](https://www.youtube.com/watch?v=rQs2NL7hcDA)  
+   Link: <a href="https://www.youtube.com/watch?v=rQs2NL7hcDA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rQs2NL7hcDA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Elite Witness Testimonies! | TOP 25 UFO ENCOUNTERS BY ASTRONAUTS, PILOTS AND MILITARY OFFICIALS...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: The First UFO Sighting In America | UFOs: The Lost Evidence  
-   Link: [https://www.youtube.com/watch?v=MJp-YR34XBs](https://www.youtube.com/watch?v=MJp-YR34XBs)  
+   Link: <a href="https://www.youtube.com/watch?v=MJp-YR34XBs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MJp-YR34XBs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold...</p></details>
    Published: June 1947  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Kenneth Arnold and the First UFOs  
-   Link: [https://www.youtube.com/watch?v=qdXNAOxs6mo](https://www.youtube.com/watch?v=qdXNAOxs6mo)  
+   Link: <a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdXNAOxs6mo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The First UFO Sighting In America | UFOs: The Lost Evidence...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: saturdaynightuforia.com  
-   Link: [https://www.saturdaynightuforia.com/html/articles/articlehtml/airpursuit48.html](https://www.saturdaynightuforia.com/html/articles/articlehtml/airpursuit48.html)  
+   Link: <a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/airpursuit48.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/airpursuit48.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Smith Above: A July 6, 1947 wire photo of United Airlines pilot E.J. Smith, who along with his copilot and stewardess had witnessed flyin...</p></details>
    Published: July 6, 1947  
 
 17. <a id="endnote-17"></a>
    Source: rr0.org  
    Title: Emil J  
-   Link: [https://rr0.org/people/s/SmithEmilJ/](https://rr0.org/people/s/SmithEmilJ/)  
+   Link: <a href="https://rr0.org/people/s/SmithEmilJ/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/people/s/SmithEmilJ/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SmithMay 4, 2025 — EMIL J. SMITH Image: Emil J. SmithSmith tenant une assiette à l&#x27;envers en expliquant à l&#x27;hôtesse Marty Morrow quel étr...</p></details>
    Published: May 4, 2025  
 
 18. <a id="endnote-18"></a>
    Source: cufon.org  
-   Link: [https://www.cufon.org/cufon/mcdon3.htm](https://www.cufon.org/cufon/mcdon3.htm)  
+   Link: <a href="https://www.cufon.org/cufon/mcdon3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/mcdon3.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Page 1July 29, 1968 — Information on some of these, as well as on smaller American groups, can be found in the two important books by...</p></details>
-   Published: July 29, 1968  
+   Published: July 29, 1968

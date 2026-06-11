@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /kelly-hopkinsville-incident-1955/
 nav_short_title: Evidence
 title: What Evidence Supports the Story?
-title_full: What Evidence Supports the Story? | Kelly Hopkinsville
+title_full: What Evidence Supports the Story?
 display_title_short: Evidence
 display_title: Evidence
 heading_title: What Evidence Supports the Story?
@@ -233,7 +233,7 @@ next_link:
   permalink: /owl-theory/
   short_title: Owl Theory
   heading_title: Could Owls Explain the Goblins?
-date: '2026-06-08 23:30:39 '
+date: '2026-06-11 13:18:33 '
 header:
   og_image: /assets/images/Kelly-Hopkinsville_i_de664d_witness_evidence_e7cf2e-Illustration-1-social.jpg
   preview_image: /assets/images/Kelly-Hopkinsville_i_de664d_witness_evidence_e7cf2e-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Kelly-Hopkinsville_i_de664d_witness_evidence_e7cf2e-Illust
 
 ## Introduction
 
-The Kelly-Hopkinsville incident remains one of the strongest UFO-era cases for immediate witness reaction and one of the weakest for physical proof. In August 1955, nearly a dozen people arrived at the Hopkinsville police station visibly frightened, claiming that small glowing-eyed creatures had surrounded a farmhouse for hours. Police officers found evidence that guns had been fired repeatedly, and they took the witnesses seriously enough to inspect the property during the night. Yet the investigation produced none of the physical traces that usually strengthen extraordinary claims: no bodies, footprints, photographs, blood, landing marks, or independently verified debris. The case therefore sits in a difficult middle ground. It is harder to dismiss than a casual rumour because of the number of witnesses and the speed with which authorities became involved, but it is equally difficult to treat as proof of anything beyond a frightening and confusing event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">HistoryHow the &#x27;Little Green Men&#x27; Phenomenon Began on a...Jan 2, 2020 — There, investigators found shell casings from the gun shots, but...</span></span></span>
-
+The Kelly-Hopkinsville incident remains one of the strongest UFO-era cases for immediate witness reaction and one of the weakest for physical proof. In August 1955, nearly a dozen people arrived at the Hopkinsville police station visibly frightened, claiming that small glowing-eyed creatures had surrounded a farmhouse for hours. Police officers found evidence that guns had been fired repeatedly, and they took the witnesses seriously enough to inspect the property during the night. Yet the investigation produced none of the physical traces that usually strengthen extraordinary claims: no bodies, footprints, photographs, blood, landing marks, or independently verified debris. The case therefore sits in a difficult middle ground. It is harder to dismiss than a casual rumour because of the number of witnesses and the speed with which authorities became involved, but it is equally difficult to treat as proof of anything beyond a frightening and confusing event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">How the &#x27;Little Green Men&#x27; Phenomenon Began on a...Jan 2, 2020 — There, investigators found shell casings from the gun shots, but...</span></span></span>
 
 <img src="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_witness_evidence_e7cf2e-Illustration-1-dark.svg" | relative_url }}" alt="Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_witness_evidence_e7cf2e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_witness_evidence_e7cf2e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the witness testimony still attracts attention
@@ -256,7 +255,7 @@ Several aspects of the testimony continue to stand out:
 * Multiple adults and children described similar-looking beings.
 * The witnesses consistently described the creatures as small, glowing-eyed, and oddly mobile.
 * The family claimed to have fired repeatedly at close range.
-* The witnesses appeared frightened rather than amused or celebratory when they reached authorities. Wikipedia History UFO researchers later argued that this combination gave the case unusual weight compared with isolated <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">HistoryHow the &#x27;Little Green Men&#x27; Phenomenon Began on a...Jan 2, 2020 — There, investigators found shell casings from the gun shots, but...</span></span></span>“light in the sky” reports. Even sceptical commentators generally accept that the family genuinely believed something threatening was outside the house. The debate centres less on whether the witnesses were distressed and more on what actually caused that distress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chloe_Kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chloe Kelly</span><span class="citation-popover-snippet">Chloe KellyChloe Maggie Kelly (born 15 January 1998) is an English professional footballer who plays as a forward for Women&#x27;s Super Le...</span><span class="citation-popover-meta">Published: January 1998</span></span></span>
+* The witnesses appeared frightened rather than amused or celebratory when they reached authorities. Wikipedia History UFO researchers later argued that this combination gave the case unusual weight compared with isolated <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">How the &#x27;Little Green Men&#x27; Phenomenon Began on a...Jan 2, 2020 — There, investigators found shell casings from the gun shots, but...</span></span></span>“light in the sky” reports. Even sceptical commentators generally accept that the family genuinely believed something threatening was outside the house. The debate centres less on whether the witnesses were distressed and more on what actually caused that distress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chloe_Kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chloe Kelly</span><span class="citation-popover-snippet">Chloe KellyChloe Maggie Kelly (born 15 January 1998) is an English professional footballer who plays as a forward for Women&#x27;s Super Le...</span><span class="citation-popover-meta">Published: January 1998</span></span></span>
 
 Another reason the testimony survives in UFO literature is that the descriptions were unusually vivid. Witnesses described creatures with large eyes, pointed ears or protrusions, thin limbs, claw-like hands, and a metallic or glowing appearance. Some accounts said the figures floated or drifted rather than walked normally. These details became culturally influential and helped create the later “Hopkinsville Goblins” image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
 
@@ -270,8 +269,7 @@ The timing of the reports also complicates the idea of completely separate testi
 
 Still, there are elements that prevent the case from collapsing into an obvious fabrication. Investigators and journalists noted that the witnesses did not appear heavily intoxicated, despite later rumours that alcohol explained the incident. Both contemporary reporting and later reviews noted that police found no clear evidence of drunkenness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chloe_Kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chloe Kelly</span><span class="citation-popover-snippet">Chloe KellyChloe Maggie Kelly (born 15 January 1998) is an English professional footballer who plays as a forward for Women&#x27;s Super Le...</span><span class="citation-popover-meta">Published: January 1998</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-concludes-our-three-part-series-seeing-stranger-/1313212974173528/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Today, the Kentucky State Police concludes our threeThere, investigators found shell casings from the gun shots, but no other evidence. N...</span></span></span>
 
-The family also subjected themselves to ridicule by going public. National media attention quickly turned the farmhouse into a spectacle. Crowds arrived, reporters mocked the family, and curiosity seekers descended on the property. That aftermath does not prove honesty, but it weakens the idea of a carefully planned hoax designed for prestige or profit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">HistoryHow the &#x27;Little Green Men&#x27; Phenomenon Began on a...Jan 2, 2020 — There, investigators found shell casings from the gun shots, but...</span></span></span>
-
+The family also subjected themselves to ridicule by going public. National media attention quickly turned the farmhouse into a spectacle. Crowds arrived, reporters mocked the family, and curiosity seekers descended on the property. That aftermath does not prove honesty, but it weakens the idea of a carefully planned hoax designed for prestige or profit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">How the &#x27;Little Green Men&#x27; Phenomenon Began on a...Jan 2, 2020 — There, investigators found shell casings from the gun shots, but...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w8wIqJQ36Zs" title="Hopkinsville - The Alien Goblins | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w8wIqJQ36Zs" target="_blank" rel="noopener noreferrer">Hopkinsville - The Alien Goblins | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Mediatime Network &middot; Views: 66.7K &middot; Uploaded: April 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w8wIqJQ36Zs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w8wIqJQ36Zs">Open on YouTube</a></p></div></div></div>
 
@@ -279,7 +277,7 @@ The family also subjected themselves to ridicule by going public. National media
 
 The strongest confirmed physical evidence was not evidence of creatures. It was evidence that frightened people had fired guns around a farmhouse.
 
-Police investigators reported finding spent shell casings, damaged window screens, and signs consistent with repeated gunfire. These details are important because they confirm that the household was not inventing the claim days later from memory alone. Something had happened intense enough for armed men to fire multiple rounds around the property. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">HistoryHow the &#x27;Little Green Men&#x27; Phenomenon Began on a...Jan 2, 2020 — There, investigators found shell casings from the gun shots, but...</span></span></span>, the same evidence cuts both ways.
+Police investigators reported finding spent shell casings, damaged window screens, and signs consistent with repeated gunfire. These details are important because they confirm that the household was not inventing the claim days later from memory alone. Something had happened intense enough for armed men to fire multiple rounds around the property. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-snippet">How the &#x27;Little Green Men&#x27; Phenomenon Began on a...Jan 2, 2020 — There, investigators found shell casings from the gun shots, but...</span></span></span>, the same evidence cuts both ways.
 
 The shell casings demonstrate panic and shooting, but they do not identify a target. The damaged screens and windows may have resulted from the witnesses themselves firing at shapes or movements outside the house. No bullets were recovered from unknown bodies or objects. No unusual metal fragments, biological material, or impact traces established that anything extraordinary had been struck. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chloe_Kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chloe Kelly</span><span class="citation-popover-snippet">Chloe KellyChloe Maggie Kelly (born 15 January 1998) is an English professional footballer who plays as a forward for Women&#x27;s Super Le...</span><span class="citation-popover-meta">Published: January 1998</span></span></span>
 
@@ -287,14 +285,12 @@ This distinction matters because many later retellings unintentionally blur the 
 
 Some UFO-oriented accounts emphasised claims that bullets sounded as though they struck metal or had no visible effect on the creatures. But these reports remained anecdotal and unverified. No recovered object ever demonstrated unusual ballistic resistance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chloe_Kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chloe Kelly</span><span class="citation-popover-snippet">Chloe KellyChloe Maggie Kelly (born 15 January 1998) is an English professional footballer who plays as a forward for Women&#x27;s Super Le...</span><span class="citation-popover-meta">Published: January 1998</span></span></span>
 
-
 <img src="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_witness_evidence_e7cf2e-Illustration-3-dark.svg" | relative_url }}" alt="Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_witness_evidence_e7cf2e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_witness_evidence_e7cf2e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The missing corroboration problem
 
 The central weakness of the case is not that investigators found contradictory physical evidence. It is that they found almost nothing at all.
 
 Researchers and sceptics repeatedly return to the same missing items:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,7 +301,7 @@ Researchers and sceptics repeatedly return to the same missing items:
 * No bodies or captured entities.
 * No independently recovered debris.
 * No reliable radar or aviation confirmation.
-* No nearby witnesses reporting the same creatures away from the farmhouse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/550821hopkinsville_hendry.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPThe Sutton (Kelly/Hopkinsville) EncounterThe most telling criticism of the incident, however, is that there is absolutely no physica...</span></span></span>
+* No nearby witnesses reporting the same creatures away from the farmhouse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/550821hopkinsville_hendry.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The Sutton (Kelly/Hopkinsville) EncounterThe most telling criticism of the incident, however, is that there is absolutely no physica...</span></span></span>
 
 </div>
 
@@ -313,8 +309,7 @@ This absence becomes more striking because the alleged encounter was so prolonge
 
 The lack of independent sightings is especially important. UFO incidents become more evidentially powerful when unrelated observers report matching events from different locations. In the Kelly-Hopkinsville case, the story remained overwhelmingly confined to the household itself. Although some reports mentioned strange lights in the sky that evening, no broader wave of corroborated creature sightings emerged around Christian County. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chloe_Kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chloe Kelly</span><span class="citation-popover-snippet">Chloe KellyChloe Maggie Kelly (born 15 January 1998) is an English professional footballer who plays as a forward for Women&#x27;s Super Le...</span><span class="citation-popover-meta">Published: January 1998</span></span></span>
 
-Allan Hendry, a prominent UFO investigator often sympathetic to careful witness reports, summarised the problem bluntly in a NICAP archive: there was “absolutely no physical evidence whatsoever” confirming that the entities themselves existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/550821hopkinsville_hendry.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPThe Sutton (Kelly/Hopkinsville) EncounterThe most telling criticism of the incident, however, is that there is absolutely no physica...</span></span></span>
-
+Allan Hendry, a prominent UFO investigator often sympathetic to careful witness reports, summarised the problem bluntly in a NICAP archive: there was “absolutely no physical evidence whatsoever” confirming that the entities themselves existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/550821hopkinsville_hendry.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The Sutton (Kelly/Hopkinsville) EncounterThe most telling criticism of the incident, however, is that there is absolutely no physica...</span></span></span>
 
 <img src="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_witness_evidence_e7cf2e-Illustration-2-dark.svg" | relative_url }}" alt="Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_witness_evidence_e7cf2e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_witness_evidence_e7cf2e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why sceptics focus on owls and perception
@@ -324,7 +319,6 @@ The most widely discussed sceptical explanation combines misidentified owls, dar
 Investigators such as Joe Nickell argued that great horned owls fit several reported features surprisingly well. Owls are nocturnal, capable of silent flight, reflective-eyed under bright light, and aggressive when disturbed near nesting territory. Their upright posture and ear tufts can appear humanoid under poor viewing conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chloe_Kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chloe Kelly</span><span class="citation-popover-snippet">Chloe KellyChloe Maggie Kelly (born 15 January 1998) is an English professional footballer who plays as a forward for Women&#x27;s Super Le...</span><span class="citation-popover-meta">Published: January 1998</span></span></span>
 
 Sceptics also point to environmental conditions that night:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -339,7 +333,6 @@ Importantly, the [owl theory]({{ 'owl-theory/' | relative_url }}) does not need 
 
 Even some UFO researchers have acknowledged that the owl explanation accounts for more details than many believers initially admit. French ufologist Renaud Leclet eventually argued that owls were the best overall explanation for the reported beings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chloe_Kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chloe Kelly</span><span class="citation-popover-snippet">Chloe KellyChloe Maggie Kelly (born 15 January 1998) is an English professional footballer who plays as a forward for Women&#x27;s Super Le...</span><span class="citation-popover-meta">Published: January 1998</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W5v_H2L7ZMY" title="Kentucky Goblins! Kelly-Hopkinsville UFO Encounter - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W5v_H2L7ZMY" target="_blank" rel="noopener noreferrer">Kentucky Goblins! Kelly-Hopkinsville UFO Encounter - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 13.9K &middot; Uploaded: February 2026 &middot; Length: 1 hour 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W5v_H2L7ZMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W5v_H2L7ZMY">Open on YouTube</a></p></div></div></div>
 
 ## What the evidence actually supports
@@ -350,53 +343,93 @@ First, a frightened group of people genuinely believed something threatening was
 
 Second, official responders found physical signs of panic and shooting but did not discover evidence confirming unknown creatures or a landed craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chloe_Kelly" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chloe Kelly</span><span class="citation-popover-snippet">Chloe KellyChloe Maggie Kelly (born 15 January 1998) is an English professional footballer who plays as a forward for Women&#x27;s Super Le...</span><span class="citation-popover-meta">Published: January 1998</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/KentuckyStatePolice/posts/seventy-years-ago-the-kentucky-state-police-responded-to-whats-now-considered-on/1333830122111813/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Kentucky State PoliceTo some, the Kelly-Hopkinsville encounter provides compelling evidence of alien contact. Others see it as an overrea...</span></span></span>
 
-Third, the case’s strongest feature and weakest feature are closely connected. The witness testimony is unusually immediate, detailed, and multi-person. Yet because the case depends almost entirely on testimony, every missing physical trace becomes more significant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/550821hopkinsville_hendry.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPThe Sutton (Kelly/Hopkinsville) EncounterThe most telling criticism of the incident, however, is that there is absolutely no physica...</span></span></span>
+Third, the case’s strongest feature and weakest feature are closely connected. The witness testimony is unusually immediate, detailed, and multi-person. Yet because the case depends almost entirely on testimony, every missing physical trace becomes more significant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/550821hopkinsville_hendry.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">The Sutton (Kelly/Hopkinsville) EncounterThe most telling criticism of the incident, however, is that there is absolutely no physica...</span></span></span>
 
 That tension explains why the incident continues to divide opinion decades later. Believers see sincere witnesses reacting to something extraordinary. Sceptics see a vivid example of how fear, darkness, expectation, and group reinforcement can create a compelling story without leaving verifiable evidence behind.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mPSxIbgQdck" title="The Hopkinsville Goblin Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mPSxIbgQdck" target="_blank" rel="noopener noreferrer">The Hopkinsville Goblin Incident</a></p><p class="youtube-embed-meta">Channel: lil WaterBill &middot; Views: 9.3K &middot; Uploaded: August 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mPSxIbgQdck" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mPSxIbgQdck">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Evidence Supports the Story?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Evidence Supports the Story?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Details the immediate involvement of state troopers and Fort Campbell military police, contrasting witness panic against a total lack of...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches readers how to evaluate shell casings and house blast marks without blindly endorsing extraordinary creature explanations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Explores how a large group of adults and children can independently corroborate identical details of glowing-eyed creatures without physi...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Reviews the complete lack of blood, tissue, or landing scars at the Sutton farm site despite heavy defensive gunfire.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -433,15 +466,15 @@ That tension explains why the incident continues to divide opinion decades later
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -449,15 +482,15 @@ That tension explains why the incident continues to divide opinion decades later
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -465,15 +498,15 @@ That tension explains why the incident continues to divide opinion decades later
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,15 +514,15 @@ That tension explains why the incident continues to divide opinion decades later
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,7 +530,7 @@ That tension explains why the incident continues to divide opinion decades later
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-899fe7-what-evidence-supports-the-story-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -713,108 +746,108 @@ That tension explains why the incident continues to divide opinion decades later
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kelly–Hopkinsville encounter  
-   Link: [https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter](https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter</a>  
 
 2. <a id="endnote-2"></a>
    Source: history.com  
-   Link: [https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly](https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryHow the &#x27;Little Green Men&#x27; Phenomenon Began on a...Jan 2, 2020 — There, investigators found shell casings from the gun shots, but...</p></details>
+   Link: <a href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How the &#x27;Little Green Men&#x27; Phenomenon Began on a...Jan 2, 2020 — There, investigators found shell casings from the gun shots, but...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/550821hopkinsville_hendry.htm](https://www.nicap.org/reports/550821hopkinsville_hendry.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPThe Sutton (Kelly/Hopkinsville) EncounterThe most telling criticism of the incident, however, is that there is absolutely no physica...</p></details>
+   Link: <a href="https://www.nicap.org/reports/550821hopkinsville_hendry.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/550821hopkinsville_hendry.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sutton (Kelly/Hopkinsville) EncounterThe most telling criticism of the incident, however, is that there is absolutely no physica...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-concludes-our-three-part-series-seeing-stranger-/1313212974173528/](https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-concludes-our-three-part-series-seeing-stranger-/1313212974173528/)  
+   Link: <a href="https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-concludes-our-three-part-series-seeing-stranger-/1313212974173528/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-concludes-our-three-part-series-seeing-stranger-/1313212974173528/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Today, the Kentucky State Police concludes our threeThere, investigators found shell casings from the gun shots, but no other evidence. N...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KentuckyStatePolice/posts/seventy-years-ago-the-kentucky-state-police-responded-to-whats-now-considered-on/1333830122111813/](https://www.facebook.com/KentuckyStatePolice/posts/seventy-years-ago-the-kentucky-state-police-responded-to-whats-now-considered-on/1333830122111813/)  
+   Link: <a href="https://www.facebook.com/KentuckyStatePolice/posts/seventy-years-ago-the-kentucky-state-police-responded-to-whats-now-considered-on/1333830122111813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KentuckyStatePolice/posts/seventy-years-ago-the-kentucky-state-police-responded-to-whats-now-considered-on/1333830122111813/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kentucky State PoliceTo some, the Kelly-Hopkinsville encounter provides compelling evidence of alien contact. Others see it as an overrea...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e witnesses never changed their story. One of the most...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: Around 11 p.m  
-   Link: [https://www.facebook.com/OldPhotoArchive/posts/around-11-pm-on-the-night-of-august-21-1955-eight-people-showed-up-at-the-hopkin/1410813970610876/](https://www.facebook.com/OldPhotoArchive/posts/around-11-pm-on-the-night-of-august-21-1955-eight-people-showed-up-at-the-hopkin/1410813970610876/)  
+   Link: <a href="https://www.facebook.com/OldPhotoArchive/posts/around-11-pm-on-the-night-of-august-21-1955-eight-people-showed-up-at-the-hopkin/1410813970610876/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OldPhotoArchive/posts/around-11-pm-on-the-night-of-august-21-1955-eight-people-showed-up-at-the-hopkin/1410813970610876/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the night of August 21, 1955, eight...To some, the Kelly-Hopkinsville encounter provides compelling evidence of alien contact.... no...</p></details>
    Published: August 21, 1955  
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-continues-our-three-part-series-seeing-stranger-/1309099267918232/](https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-continues-our-three-part-series-seeing-stranger-/1309099267918232/)  
+   Link: <a href="https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-continues-our-three-part-series-seeing-stranger-/1309099267918232/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-continues-our-three-part-series-seeing-stranger-/1309099267918232/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kentucky State PoliceSkeptics were quick to dismiss the story, attributing the incident to a combination of misidentified animals, such a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Chloe Kelly  
-   Link: [https://en.wikipedia.org/wiki/Chloe_Kelly](https://en.wikipedia.org/wiki/Chloe_Kelly)  
+   Link: <a href="https://en.wikipedia.org/wiki/Chloe_Kelly" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chloe_Kelly</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chloe KellyChloe Maggie Kelly (born 15 January 1998) is an English professional footballer who plays as a forward for Women&#x27;s Super Le...</p></details>
    Published: January 1998  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=w8wIqJQ36Zs](https://www.youtube.com/watch?v=w8wIqJQ36Zs)  
+   Link: <a href="https://www.youtube.com/watch?v=w8wIqJQ36Zs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w8wIqJQ36Zs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Goblins | Full DocumentaryHopkinsville - The Alien Goblins (2023). Full documentary. SYNOPSIS A family fights off goblin-aliens...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: kellyservices.com  
-   Link: [https://www.kellyservices.com/about-kelly/](https://www.kellyservices.com/about-kelly/)  
+   Link: <a href="https://www.kellyservices.com/about-kelly/" target="_blank" rel="noopener noreferrer nofollow">https://www.kellyservices.com/about-kelly/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About KellyKelly helps companies recruit and manage skilled workers and helps job seekers find great work in industries such as accountin...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: kelly.co.uk  
-   Link: [https://www.kelly.co.uk/](https://www.kelly.co.uk/)  
+   Link: <a href="https://www.kelly.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.kelly.co.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelly Group: Building Networks, Connecting PeopleKelly Group is renowned for building telecommunication and utility networks in collabora...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/blankies/comments/1iritxc/the_kellyhopkinsville_case_aliens/](https://www.reddit.com/r/blankies/comments/1iritxc/the_kellyhopkinsville_case_aliens/)  
+   Link: <a href="https://www.reddit.com/r/blankies/comments/1iritxc/the_kellyhopkinsville_case_aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/blankies/comments/1iritxc/the_kellyhopkinsville_case_aliens/</a>  
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/wu4dxu/the_kellyhopkinsville_encounter/](https://www.reddit.com/r/HighStrangeness/comments/wu4dxu/the_kellyhopkinsville_encounter/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/wu4dxu/the_kellyhopkinsville_encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/wu4dxu/the_kellyhopkinsville_encounter/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kelly/Hopkinsville Encounter: r/HighStrangeness21 Aug 2022 — Today is the 67th anniversary of the Kelly/Hopkinsville Goblin encounter...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: completely-kentucky.fandom.com  
    Title: Completely Kentucky Kelly-Hopkinsville Encounter  
-   Link: [https://completely-kentucky.fandom.com/wiki/Kelly-Hopkinsville_Encounter](https://completely-kentucky.fandom.com/wiki/Kelly-Hopkinsville_Encounter)  
+   Link: <a href="https://completely-kentucky.fandom.com/wiki/Kelly-Hopkinsville_Encounter" target="_blank" rel="noopener noreferrer nofollow">https://completely-kentucky.fandom.com/wiki/Kelly-Hopkinsville_Encounter</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Completely KentuckyKelly-Hopkinsville Encounter - Completely Kentucky WikiCommittee for Skeptical Inquiry member and skeptic Joe Nickell...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: razs-midnight-macabre.com  
-   Title: myths and legends [kelly hopkinsville](&#123;&#123; 'kelly-hopkinsville-incident-1955/' | relative_url &#125;&#125;) encounter  
-   Link: [https://razs-midnight-macabre.com/2017/07/10/myths-and-legends-kelly-hopkinsville-encounter/](https://razs-midnight-macabre.com/2017/07/10/myths-and-legends-kelly-hopkinsville-encounter/)  
+   Title: myths and legends kelly hopkinsville encounter  
+   Link: <a href="https://razs-midnight-macabre.com/2017/07/10/myths-and-legends-kelly-hopkinsville-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://razs-midnight-macabre.com/2017/07/10/myths-and-legends-kelly-hopkinsville-encounter/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Myths And Legends: Kelly – Hopkinsville Encounter10 Jul 2017 — Two of the adults, Elmer Sutton and Billy Ray Taylor, claimed they had bee...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/Cx6gFi3MaG0/](https://www.instagram.com/p/Cx6gFi3MaG0/)  
+   Link: <a href="https://www.instagram.com/p/Cx6gFi3MaG0/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/Cx6gFi3MaG0/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>searchers one of the most thoroughly documented close-...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>With the termination of Project Blue Book, the Air...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: historicmysteries.com  
    Title: Historic Mysteries An Alien Encounter?  
-   Link: [https://www.historicmysteries.com/unexplained-mysteries/hopkinsville-goblins/30759/](https://www.historicmysteries.com/unexplained-mysteries/hopkinsville-goblins/30759/)  
+   Link: <a href="https://www.historicmysteries.com/unexplained-mysteries/hopkinsville-goblins/30759/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicmysteries.com/unexplained-mysteries/hopkinsville-goblins/30759/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of the Hopkinsville Goblins18 Feb 2023 — Professional ufologists eventually came to investigate and were torn. All agreed tha...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: find-and-update.company-information.service.gov.uk  
    Title: company-information.service.gov.uk KELL Y (UK) LIMITED overview  
-   Link: [https://find-and-update.company-information.service.gov.uk/company/04275769](https://find-and-update.company-information.service.gov.uk/company/04275769)  
+   Link: <a href="https://find-and-update.company-information.service.gov.uk/company/04275769" target="_blank" rel="noopener noreferrer nofollow">https://find-and-update.company-information.service.gov.uk/company/04275769</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(UK) LIMITED overview - Companies House - GOV.UKKELLY (UK) LIMITED - Free company information from Companies House including registered o...</p></details>

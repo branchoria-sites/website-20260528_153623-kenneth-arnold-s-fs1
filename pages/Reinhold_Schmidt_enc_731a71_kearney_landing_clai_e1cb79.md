@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /reinhold-schmidt-encounter-1957/
 nav_short_title: The Claim
 title: What Did Schmidt Say He Saw?
-title_full: What Did Schmidt Say He Saw? | Schmidt Encounter
+title_full: What Did Schmidt Say He Saw?
 display_title_short: The Claim
 display_title: The Claim
 heading_title: What Did Schmidt Say He Saw?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /paper-trail/
   short_title: Paper Trail
   heading_title: How Did Officials Handle the Report?
-date: '2026-06-08 23:35:16 '
+date: '2026-06-11 13:20:47 '
 header:
   og_image: /assets/images/Reinhold_Schmidt_enc_731a71_kearney_landing_clai_e1cb79-Illustration-1-social.jpg
   preview_image: /assets/images/Reinhold_Schmidt_enc_731a71_kearney_landing_clai_e1cb79-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Reinhold_Schmidt_enc_731a71_kearney_landing_clai_e1cb79-Il
 
 ## Introduction
 
-On 5 November 1957, Nebraska grain buyer [Reinhold Schmidt]({{ 'reinhold-schmidt-encounter-1957/' | relative_url }}) claimed he encountered a landed flying craft near Kearney after his car began malfunctioning on a rural road. According to Schmidt, he was taken aboard the object by human-looking occupants who spoke among themselves in what he described as “High German”. The story quickly became one of the better-known American contactee cases of the late 1950s because it combined several elements that fascinated Cold War UFO audiences: a grounded craft, stalled machinery, apparently friendly occupants, and references to space technology during the Sputnik era. Yet the case also became controversial almost immediately. Local police doubted Schmidt’s account, investigators found mundane items near the alleged landing site, and Schmidt’s later embellishments and fraud convictions badly damaged his credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kearneyhub.com/news/local/article_38e1ce8a-687f-11ee-883a-67c89b62a280.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kearneyhub.com">[2kearneyhub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kearneyhub.com</span><span class="citation-popover-snippet">5, 1957, and Reinhold Schmidt, a grain dealer, was driving on Highway 10 three miles southeast of Kearney, hunting for...Read more...</span></span></span>
-
+On 5 November 1957, Nebraska grain buyer Reinhold Schmidt claimed he encountered a landed flying craft near Kearney after his car began malfunctioning on a rural road. According to Schmidt, he was taken aboard the object by human-looking occupants who spoke among themselves in what he described as “High German”. The story quickly became one of the better-known American contactee cases of the late 1950s because it combined several elements that fascinated Cold War UFO audiences: a grounded craft, stalled machinery, apparently friendly occupants, and references to space technology during the Sputnik era. Yet the case also became controversial almost immediately. Local police doubted Schmidt’s account, investigators found mundane items near the alleged landing site, and Schmidt’s later embellishments and fraud convictions badly damaged his credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kearneyhub.com/news/local/article_38e1ce8a-687f-11ee-883a-67c89b62a280.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kearneyhub.com">[2kearneyhub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kearneyhub.com</span><span class="citation-popover-snippet">5, 1957, and Reinhold Schmidt, a grain dealer, was driving on Highway 10 three miles southeast of Kearney, hunting for...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_kearney_landing_clai_e1cb79-Illustration-1-dark.svg" | relative_url }}" alt="The Claim illustration 1" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_kearney_landing_clai_e1cb79-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_kearney_landing_clai_e1cb79-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What keeps the Kearney incident historically interesting is not strong physical evidence, but the way Schmidt’s original story evolved. Early accounts focused on a single roadside encounter near the Platte River. Later retellings expanded into claims about extraterrestrial missions, repeated contacts, secret knowledge, and lecture tours. The gap between the original report and the later mythology is central to understanding the case.
@@ -258,7 +257,6 @@ Schmidt claimed the men escorted him aboard the craft, where he encountered seve
 
 One of the most unusual aspects of the story was its conversational tone. Schmidt did not describe panic, restraint, or physical examination. Instead, he portrayed the occupants as curious observers interested in Earth affairs and especially in contemporary space developments.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z4p1vLMgOxE" title="UAP Investigator Reveals the SHOCKING Truth About Project Blue Book!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z4p1vLMgOxE" target="_blank" rel="noopener noreferrer">UAP Investigator Reveals the SHOCKING Truth About Project Blue Book!</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 1.6K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z4p1vLMgOxE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z4p1vLMgOxE">Open on YouTube</a></p></div></div></div>
 
 ## The German Language Detail Became the Story’s Signature
@@ -270,7 +268,6 @@ This detail mattered because it made the story feel oddly specific. In the atmos
 The language claim also distinguished Schmidt’s story from many contemporary UFO reports. Instead of incomprehensible sounds or telepathy, he described recognisable human speech. For believers, this added realism. For sceptics, it suggested a culturally shaped narrative drawing on post-war fascination with German engineering, rocket science, and former Nazi scientists working in both the United States and Soviet Union.
 
 Accounts differ on what the occupants allegedly told Schmidt about their origin. Early reports often connected them to Venus, a common destination in 1950s contactee lore. Later versions shifted toward Saturn or other locations. The inconsistency became one of the clearest signs that the narrative was evolving over time rather than remaining fixed around a single remembered event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PZjlDzQctA0" title="Reinhold Schmidt | Interferenze Aliene | L’incontro sulla strada deserta" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PZjlDzQctA0" target="_blank" rel="noopener noreferrer">Reinhold Schmidt | Interferenze Aliene | L’incontro sulla strada deserta</a></p><p class="youtube-embed-meta">Channel: Neuronic Channel &middot; Views: 75 &middot; Uploaded: December 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PZjlDzQctA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PZjlDzQctA0">Open on YouTube</a></p></div></div></div>
 
@@ -284,14 +281,12 @@ Schmidt’s behaviour and background also raised concerns among authorities. He 
 
 Despite official scepticism, the story spread quickly through radio interviews, UFO newsletters, and contactee lecture networks. The timing mattered enormously. November 1957 was already a period of heightened UFO interest in the United States because of the wider national anxiety surrounding Sputnik and a wave of UFO reports across the country, including the famous Levelland sightings in Texas involving stalled vehicles. Schmidt’s account fit neatly into that atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesaucersthattimeforgot.blogspot.com">[The Saucers That Time Forgot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesaucersthattimeforgot.blogspot.com</span><span class="citation-popover-title">the trial of ufo gold digger</span><span class="citation-popover-snippet">occupants of a flying saucer near Kearney, Nebraska. Schultz also... Sagan thought the whole story was impossible since it hinged on peo...</span></span></span>
 
-
 <img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_kearney_landing_clai_e1cb79-Illustration-2-dark.svg" | relative_url }}" alt="The Claim illustration 2" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_kearney_landing_clai_e1cb79-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_kearney_landing_clai_e1cb79-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Story Changed Over Time
 
 The earliest versions of the Kearney account were comparatively restrained. Schmidt described one encounter, a landed object, several occupants, and a conversation. Over time, however, the narrative expanded dramatically.
 
-By 1958, Schmidt had entered the UFO lecture circuit alongside other contactee figures. He published a booklet titled *The Kearney Incident Up To Now*, presenting his experience as authentic and increasingly elaborate. The story evolved further in later publications and appearances connected to the film *Edge of Tomorrow*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/doc/256686133/THE-KEARNEY-INCIDENT-UP-TO-NOW-The-Report-of-Reinhold-Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">ScribdTHE KEARNEY INCIDENT - UP TO NOW, The Report of...Mr Schmidt&#x27;s alleged contact with German-speaking occupants of a landed flying s...</span></span></span> Several important changes appeared in these later retellings:
-
+By 1958, Schmidt had entered the UFO lecture circuit alongside other contactee figures. He published a booklet titled *The Kearney Incident Up To Now*, presenting his experience as authentic and increasingly elaborate. The story evolved further in later publications and appearances connected to the film *Edge of Tomorrow*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/doc/256686133/THE-KEARNEY-INCIDENT-UP-TO-NOW-The-Report-of-Reinhold-Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">THE KEARNEY INCIDENT - UP TO NOW, The Report of...Mr Schmidt&#x27;s alleged contact with German-speaking occupants of a landed flying s...</span></span></span> Several important changes appeared in these later retellings:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +298,6 @@ By 1958, Schmidt had entered the UFO lecture circuit alongside other contactee f
 </div>
 
 These developments are important because they changed how researchers evaluated the original Kearney claim. Some UFO historians argue that whatever Schmidt initially reported became inseparable from later self-promotion and commercialisation. His involvement in paid lectures, publications, and eventually mining schemes tied to supposed extraterrestrial information made it difficult to separate the original testimony from later inventions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zjF52HHXw9Q" title="Reinhold O. Schmidt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zjF52HHXw9Q" target="_blank" rel="noopener noreferrer">Reinhold O. Schmidt</a></p><p class="youtube-embed-meta">Channel: WikiReader &middot; Views: 155 &middot; Uploaded: April 2022 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zjF52HHXw9Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zjF52HHXw9Q">Open on YouTube</a></p></div></div></div>
 
@@ -317,7 +311,6 @@ For many researchers, this later history retroactively damaged the credibility o
 
 Others take a narrower view. Some UFO historians note that a witness’s later behaviour does not automatically disprove every earlier statement. From that perspective, the key question becomes whether the original roadside incident can be evaluated independently from Schmidt’s later contactee career. The problem is that the surviving evidence is too limited to resolve the issue conclusively.
 
-
 <img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_kearney_landing_clai_e1cb79-Illustration-3-dark.svg" | relative_url }}" alt="The Claim illustration 3" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_kearney_landing_clai_e1cb79-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_kearney_landing_clai_e1cb79-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Kearney Story Still Gets Discussed
 
@@ -328,44 +321,86 @@ The case also captures a very specific historical mood. Schmidt’s references t
 Today, the strongest historical value of the Kearney incident lies less in evidence for extraterrestrial visitation than in what it reveals about late-1950s UFO culture. Schmidt’s story shows how quickly a dramatic personal account could move from local police scrutiny to national media attention, lecture tours, published pamphlets, and eventually outright scandal.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Did Schmidt Say He Saw?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Did Schmidt Say He Saw?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Reinhold Schmidt fraud guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Reinhold+Schmidt+fraud+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Tracks how simple roadside visual encounters near rural rivers gradually expand over years into elaborate extraterrestrial mythology.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Reinhold Schmidt guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Reinhold+Schmidt+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers+by+Orfeo+Angelucci&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret of the Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LUk4zgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Secret of the Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers+by+Orfeo+Angelucci&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret of the Saucers">The Secret of the Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Orfeo Angelucci</p>
+        
+        <p class="fr-book-desc">Illustrates the exact narrative template of human-looking spacecraft occupants that heavily structured Schmidt&#x27;s &#x27;High German&#x27; crew claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers+by+Orfeo+Angelucci&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Kearney oil can guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Kearney+oil+can+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Establishes how federal investigators audited roadside engine failures, car trouble reports, and claimed grounded crafts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Provides tools to analyze the massive gap that separates raw initial encounter reports from subsequent promotional books.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret of the Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -402,15 +437,15 @@ Today, the strongest historical value of the Kearney incident lies less in evide
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -418,15 +453,15 @@ Today, the strongest historical value of the Kearney incident lies less in evide
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -434,15 +469,15 @@ Today, the strongest historical value of the Kearney incident lies less in evide
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -450,15 +485,15 @@ Today, the strongest historical value of the Kearney incident lies less in evide
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -466,7 +501,7 @@ Today, the strongest historical value of the Kearney incident lies less in evide
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-claim-what-did-schmidt-say-he-saw-reinhold-schmidt-encounter-1957-ufo-poster-series-television-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -682,109 +717,109 @@ Today, the strongest historical value of the Kearney incident lies less in evide
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Reinhold O. Schmidt  
-   Link: [https://en.wikipedia.org/wiki/Reinhold_O._Schmidt](https://en.wikipedia.org/wiki/Reinhold_O._Schmidt)  
+   Link: <a href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reinhold_O._Schmidt</a>  
 
 2. <a id="endnote-2"></a>
    Source: kearneyhub.com  
-   Link: [https://kearneyhub.com/news/local/article_38e1ce8a-687f-11ee-883a-67c89b62a280.html](https://kearneyhub.com/news/local/article_38e1ce8a-687f-11ee-883a-67c89b62a280.html)  
+   Link: <a href="https://kearneyhub.com/news/local/article_38e1ce8a-687f-11ee-883a-67c89b62a280.html" target="_blank" rel="noopener noreferrer nofollow">https://kearneyhub.com/news/local/article_38e1ce8a-687f-11ee-883a-67c89b62a280.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>5, 1957, and Reinhold Schmidt, a grain dealer, was driving on Highway 10 three miles southeast of Kearney, hunting for...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ia802800.us.archive.org  
    Title: Reinhold Schmidt  
-   Link: [https://ia802800.us.archive.org/16/items/reinholdschmidtthekearneyincident/Reinhold%20Schmidt-%20The%20Kearney%20Incident.pdf](https://ia802800.us.archive.org/16/items/reinholdschmidtthekearneyincident/Reinhold%20Schmidt-%20The%20Kearney%20Incident.pdf)  
+   Link: <a href="https://ia802800.us.archive.org/16/items/reinholdschmidtthekearneyincident/Reinhold%20Schmidt-%20The%20Kearney%20Incident.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802800.us.archive.org/16/items/reinholdschmidtthekearneyincident/Reinhold%20Schmidt-%20The%20Kearney%20Incident.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Schmidt - The Kearney Incidentby the name of Reinhold Schmidt reported having boarded a mysterious. &quot;ship&quot; for thirty minutes and having...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: bibliotecapleyades.net  
-   Link: [https://www.bibliotecapleyades.net/vida_alien/alien_contact65.htm](https://www.bibliotecapleyades.net/vida_alien/alien_contact65.htm)  
+   Link: <a href="https://www.bibliotecapleyades.net/vida_alien/alien_contact65.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/vida_alien/alien_contact65.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Extraterrestrials from Venus Make Contact in 1952?12 Dec 2017 — Schmidt described meeting with the occupants of a flying saucer that...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: they-are-here.com  
    Title: The Pentagon's UFO files, indexed and audited — they-are  
-   Link: [https://they-are-here.com/](https://they-are-here.com/)  
+   Link: <a href="https://they-are-here.com/" target="_blank" rel="noopener noreferrer nofollow">https://they-are-here.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book... 1957 Wave (Levelland, Reinhold Schmidt). Official: 65_HS1-834228961_62-HQ-83894_Section_9. Section 9 (late 1957-195...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/256686133/THE-KEARNEY-INCIDENT-UP-TO-NOW-The-Report-of-Reinhold-Schmidt](https://www.scribd.com/doc/256686133/THE-KEARNEY-INCIDENT-UP-TO-NOW-The-Report-of-Reinhold-Schmidt)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdTHE KEARNEY INCIDENT - UP TO NOW, The Report of...Mr Schmidt&#x27;s alleged contact with German-speaking occupants of a landed flying s...</p></details>
+   Link: <a href="https://www.scribd.com/doc/256686133/THE-KEARNEY-INCIDENT-UP-TO-NOW-The-Report-of-Reinhold-Schmidt" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/256686133/THE-KEARNEY-INCIDENT-UP-TO-NOW-The-Report-of-Reinhold-Schmidt</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE KEARNEY INCIDENT - UP TO NOW, The Report of...Mr Schmidt&#x27;s alleged contact with German-speaking occupants of a landed flying s...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Reinhold O. Schmidt  
-   Link: [https://www.youtube.com/watch?v=zjF52HHXw9Q](https://www.youtube.com/watch?v=zjF52HHXw9Q)  
+   Link: <a href="https://www.youtube.com/watch?v=zjF52HHXw9Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zjF52HHXw9Q</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reinhold Schmidt | Interferenze Aliene | L’incontro sulla strada deserta...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Reinhold Schmidt | Interferenze Aliene | L’incontro sulla strada deserta  
-   Link: [https://www.youtube.com/watch?v=PZjlDzQctA0](https://www.youtube.com/watch?v=PZjlDzQctA0)  
+   Link: <a href="https://www.youtube.com/watch?v=PZjlDzQctA0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PZjlDzQctA0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski: The Original Contactee and His Cosmic Encounters...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: thesaucersthattimeforgot.blogspot.com  
    Title: the trial of ufo gold digger  
-   Link: [https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html](https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html)  
+   Link: <a href="https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html" target="_blank" rel="noopener noreferrer nofollow">https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>occupants of a flying saucer near Kearney, Nebraska. Schultz also... Sagan thought the whole story was impossible since it hinged on peo...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...A full report was made at the time to Project Blue Book. Col. Headrick... &quot; November 5, 1957...</p></details>
    Published: November 5, 1957  
 
 11. <a id="endnote-11"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/project-moon-dust-beyond-roswell-exposing-the-governments-covert-investigations-and-cover-ups.html](https://dokumen.pub/download/project-moon-dust-beyond-roswell-exposing-the-governments-covert-investigations-and-cover-ups.html)  
+   Link: <a href="https://dokumen.pub/download/project-moon-dust-beyond-roswell-exposing-the-governments-covert-investigations-and-cover-ups.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/project-moon-dust-beyond-roswell-exposing-the-governments-covert-investigations-and-cover-ups.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Moon Dust: Beyond Roswell26 Apr 2026 — In the official report on file at the Air Force&#x27;s Project Blue Book... reports came from...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: gala.gre.ac.uk  
-   Link: [https://gala.gre.ac.uk/id/eprint/43021/1/43021_BANWELL_Nonspeciesist_criminology_and_the_war_against_nonhuman_animals_ABSTRACTS.pdf](https://gala.gre.ac.uk/id/eprint/43021/1/43021_BANWELL_Nonspeciesist_criminology_and_the_war_against_nonhuman_animals_ABSTRACTS.pdf)  
+   Link: <a href="https://gala.gre.ac.uk/id/eprint/43021/1/43021_BANWELL_Nonspeciesist_criminology_and_the_war_against_nonhuman_animals_ABSTRACTS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gala.gre.ac.uk/id/eprint/43021/1/43021_BANWELL_Nonspeciesist_criminology_and_the_war_against_nonhuman_animals_ABSTRACTS.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gre.ac.uk77th Annual Meetingby S Banwell · 2022 — American Society of Criminology embodies the following objectives: 1. To bring together...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: in 1954 an oak park housewife announced that aliens from the planet clarion had  
-   Link: [https://www.facebook.com/ChicagoMagazine/posts/in-1954-an-oak-park-housewife-announced-that-aliens-from-the-planet-clarion-had-/10158196802402145/](https://www.facebook.com/ChicagoMagazine/posts/in-1954-an-oak-park-housewife-announced-that-aliens-from-the-planet-clarion-had-/10158196802402145/)  
+   Link: <a href="https://www.facebook.com/ChicagoMagazine/posts/in-1954-an-oak-park-housewife-announced-that-aliens-from-the-planet-clarion-had-/10158196802402145/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChicagoMagazine/posts/in-1954-an-oak-park-housewife-announced-that-aliens-from-the-planet-clarion-had-/10158196802402145/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Schmidt On November 5, 1957, German-American farmer Reinhold O. Schmidt allegedly stumbled upon a balloon-like UFO in a remote...Read more...</p></details>
    Published: November 5, 1957  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/sunday.roast.media/posts/confessing-to-something-shocking-on-ones-deathbed-is-an-old-literary-trope-but-d/743707364427415/](https://www.facebook.com/sunday.roast.media/posts/confessing-to-something-shocking-on-ones-deathbed-is-an-old-literary-trope-but-d/743707364427415/)  
+   Link: <a href="https://www.facebook.com/sunday.roast.media/posts/confessing-to-something-shocking-on-ones-deathbed-is-an-old-literary-trope-but-d/743707364427415/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sunday.roast.media/posts/confessing-to-something-shocking-on-ones-deathbed-is-an-old-literary-trope-but-d/743707364427415/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 5, 1957, German-American farmer Reinhold O.... “My own experience talking to people has made it clear the ETs had...Read more...</p></details>
    Published: November 5, 1957  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GerryAndersonOfficial/posts/dont-panic-alec-ufo-star-george-sewell-was-born-100-years-ago-today/907521921410264/](https://www.facebook.com/GerryAndersonOfficial/posts/dont-panic-alec-ufo-star-george-sewell-was-born-100-years-ago-today/907521921410264/)  
+   Link: <a href="https://www.facebook.com/GerryAndersonOfficial/posts/dont-panic-alec-ufo-star-george-sewell-was-born-100-years-ago-today/907521921410264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GerryAndersonOfficial/posts/dont-panic-alec-ufo-star-george-sewell-was-born-100-years-ago-today/907521921410264/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 5, 1957, German-American farmer Reinhold O. Schmidt allegedly stumbled upon a balloon-like UFO in a remote...</p></details>
    Published: November 5, 1957  
 
 16. <a id="endnote-16"></a>
    Source: unariunwisdom.com  
-   Link: [https://www.unariunwisdom.com/wp-content/uploads/2021/05/Edge-Of-Tomorrow-by-Reinhold-O-Schmidt.pdf](https://www.unariunwisdom.com/wp-content/uploads/2021/05/Edge-Of-Tomorrow-by-Reinhold-O-Schmidt.pdf)  
+   Link: <a href="https://www.unariunwisdom.com/wp-content/uploads/2021/05/Edge-Of-Tomorrow-by-Reinhold-O-Schmidt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unariunwisdom.com/wp-content/uploads/2021/05/Edge-Of-Tomorrow-by-Reinhold-O-Schmidt.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Another question which is frequently asked is why the occupants of the ship spoke...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: Buck Nelson encounters space aliens again | Mountain  
-   Link: [https://www.facebook.com/groups/342207959638340/posts/2260946744431109/](https://www.facebook.com/groups/342207959638340/posts/2260946744431109/)  
+   Link: <a href="https://www.facebook.com/groups/342207959638340/posts/2260946744431109/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/342207959638340/posts/2260946744431109/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 1, 1955 – Buck Nelson of Mountain View reported that the space aliens had returned to visit him again, as they had promised...</p></details>
    Published: February 1, 1955  
 
 18. <a id="endnote-18"></a>
    Source: tapesearch.com  
-   Link: [https://www.tapesearch.com/episode/ep-27-the-kearney-encounter/iubntDxGipiFkerqzxX2jJ](https://www.tapesearch.com/episode/ep-27-the-kearney-encounter/iubntDxGipiFkerqzxX2jJ)  
+   Link: <a href="https://www.tapesearch.com/episode/ep-27-the-kearney-encounter/iubntDxGipiFkerqzxX2jJ" target="_blank" rel="noopener noreferrer nofollow">https://www.tapesearch.com/episode/ep-27-the-kearney-encounter/iubntDxGipiFkerqzxX2jJ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep.27 The Kearney Encounter - UFO Chronicles Podcast...or objects on the horizon, but people, regular people, reporting physical encount...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nebraskalife.com  
    Title: is there anybody out there  
-   Link: [https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOoo_4H2_t8sAVZ21CL8zkm8RhSFlBSEiZt5CF-FKso7eRR5eT2xs](https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOoo_4H2_t8sAVZ21CL8zkm8RhSFlBSEiZt5CF-FKso7eRR5eT2xs)  
+   Link: <a href="https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOoo_4H2_t8sAVZ21CL8zkm8RhSFlBSEiZt5CF-FKso7eRR5eT2xs" target="_blank" rel="noopener noreferrer nofollow">https://www.nebraskalife.com/blog/post/is-there-anybody-out-there?srsltid=AfmBOoo_4H2_t8sAVZ21CL8zkm8RhSFlBSEiZt5CF-FKso7eRR5eT2xs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?6 Jun 2025 — Tales of UFO sightings have circulated in Nebraska since at least the mid-1800s. Hastings residents witnessed a 30-foot-lon...</p></details>

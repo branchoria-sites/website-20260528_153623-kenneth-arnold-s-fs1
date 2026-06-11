@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /linda-cortile-abduction-1989/
 nav_short_title: Hopkins
 title: How Hopkins Shaped the Case
-title_full: How Hopkins Shaped the Case | Cortile Case
+title_full: How Hopkins Shaped the Case
 display_title_short: Hopkins
 display_title: Hopkins
 heading_title: How Hopkins Shaped the Case
@@ -233,7 +233,7 @@ next_link:
   permalink: /implant/
   short_title: Implant
   heading_title: Was There Any Physical Evidence?
-date: '2026-06-08 23:28:08 '
+date: '2026-06-11 13:17:07 '
 header:
   og_image: /assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-1-social.jpg
   preview_image: /assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illust
 
 ## Introduction
 
-The Linda Cortile, later Linda Napolitano, abduction case became famous not only because of the extraordinary claims attached to it, but because of the way UFO investigator Budd Hopkins constructed and defended the narrative around it. Hopkins was already the most influential promoter of alien-abduction accounts in the United States when Napolitano approached him in 1989. By the time he published *Witnessed: The True Story of the Brooklyn Bridge UFO Abductions* in 1997, he had turned the case into what supporters called the “abduction of the century”. Critics, however, argued that the case also exposed the weaknesses of hypnosis-based UFO investigation, including suggestive questioning, confirmation bias, anonymous [witnesses]({{ 'witnesses-011357/' | relative_url }}), and the blending of therapy-like methods with paranormal belief systems. Wikipedia Time The controversy surrounding Hopkins is therefore larger than the question of whether Napolitano experienced something unusual. It concerns ho <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the manhattan alien abduction netflix true story</span><span class="citation-popover-snippet">TimeThe Manhattan Alien Abduction: True Story Behind Netflix...Oct 31, 2024 — The three-part series presents conflicting accounts of the...</span></span></span> w memories were elicited, how witness testimony was validated, and whether an investigator deeply committed to the reality of alien abductions could reliably separate evidence from narrative reinforcement. The Cortile/Napolitano case remains one of the clearest examples of that debate.
-
+The Linda Cortile, later Linda Napolitano, abduction case became famous not only because of the extraordinary claims attached to it, but because of the way UFO investigator Budd Hopkins constructed and defended the narrative around it. Hopkins was already the most influential promoter of alien-abduction accounts in the United States when Napolitano approached him in 1989. By the time he published *Witnessed: The True Story of the Brooklyn Bridge UFO Abductions* in 1997, he had turned the case into what supporters called the “abduction of the century”. Critics, however, argued that the case also exposed the weaknesses of hypnosis-based UFO investigation, including suggestive questioning, confirmation bias, anonymous [witnesses]({{ 'witnesses-011357/' | relative_url }}), and the blending of therapy-like methods with paranormal belief systems. Wikipedia Time The controversy surrounding Hopkins is therefore larger than the question of whether Napolitano experienced something unusual. It concerns ho <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[time.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the manhattan alien abduction netflix true story</span><span class="citation-popover-snippet">The Manhattan Alien Abduction: True Story Behind Netflix...Oct 31, 2024 — The three-part series presents conflicting accounts of the...</span></span></span> w memories were elicited, how witness testimony was validated, and whether an investigator deeply committed to the reality of alien abductions could reliably separate evidence from narrative reinforcement. The Cortile/Napolitano case remains one of the clearest examples of that debate.
 
 <img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-1-dark.svg" | relative_url }}" alt="Hopkins illustration 1" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Hopkins Entered the Case
@@ -253,7 +252,6 @@ Before the Manhattan incident, Hopkins had already become a central figure in mo
 Napolitano contacted Hopkins months before the alleged November 1989 abduction. According to later accounts, she had described an earlier encounter in the Catskills and soon began attending Hopkins’s abductee support group in Manhattan. This detail became important to sceptics because it meant she was already immersed in Hopkins’s abduction framework before the most dramatic claims emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Recovered-memory_therapy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Recovered-memory therapy</span><span class="citation-popover-snippet">Recovered-memory therapy</span></span></span>
 
 Hopkins interpreted the later Manhattan incident through patterns he believed appeared repeatedly in abduction testimony:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -276,7 +274,6 @@ He frequently described abductees as trauma victims whose memories had been deli
 
 This framework mattered enormously in the Napolitano case because many of the most dramatic details were not presented as ordinary eyewitness recollections. Instead, they emerged through:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * hypnotic regression sessions,
@@ -296,8 +293,7 @@ The case also expanded in ways that intensified scepticism. Hopkins eventually p
 * telepathic communication,
 * and a supposed [implant]({{ 'implant/' | relative_url }}) discovered in Napolitano’s nose.
 
-To believers, the complexity suggested authenticity because the story became stranger and harder to fabricate. To critics, the escalating layers resembled narrative embellishment rather than disciplined investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tricksterbook.com/ArticlesOnline/LindaCase.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tricksterbook.com">[tricksterbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tricksterbook.com</span><span class="citation-popover-snippet">Linda also claimed that in subsequent hypnotic regressions she...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the manhattan alien abduction netflix true story</span><span class="citation-popover-snippet">TimeThe Manhattan Alien Abduction: True Story Behind Netflix...Oct 31, 2024 — The three-part series presents conflicting accounts of the...</span></span></span>
-
+To believers, the complexity suggested authenticity because the story became stranger and harder to fabricate. To critics, the escalating layers resembled narrative embellishment rather than disciplined investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tricksterbook.com/ArticlesOnline/LindaCase.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tricksterbook.com">[tricksterbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tricksterbook.com</span><span class="citation-popover-snippet">Linda also claimed that in subsequent hypnotic regressions she...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the manhattan alien abduction netflix true story</span><span class="citation-popover-snippet">The Manhattan Alien Abduction: True Story Behind Netflix...Oct 31, 2024 — The three-part series presents conflicting accounts of the...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BVytd28dTYU" title="714: The Manhattan Alien Abduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BVytd28dTYU" target="_blank" rel="noopener noreferrer">714: The Manhattan Alien Abduction</a></p><p class="youtube-embed-meta">Channel: Morbid | Podcast &middot; Views: 6.4K &middot; Uploaded: October 2025 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BVytd28dTYU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BVytd28dTYU">Open on YouTube</a></p></div></div></div>
 
@@ -313,7 +309,6 @@ Hopkins rejected these criticisms. He insisted he avoided leading questions and 
 
 However, sceptics pointed to several recurring problems:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * abductees often entered sessions already familiar with alien-abduction imagery, <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Manhattan Alien Abduction</span><span class="citation-popover-snippet">Rainey recalled that she initially believed Napolitano&#x27;s story, and they became friends.Read more...</span></span></span>
@@ -327,7 +322,6 @@ Psychologist Elizabeth Loftus, one of the best-known researchers on false memory
 
 The concern was not necessarily deliberate fraud. The larger issue was whether sincere investigators could unintentionally create increasingly vivid but unreliable memories through repeated reinforcement.
 
-
 <img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-2-dark.svg" | relative_url }}" alt="Hopkins illustration 2" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Support Groups and Reinforcement Effects
 
@@ -336,7 +330,6 @@ Hopkins’s abductee groups became another major point of contention.
 He described the meetings as supportive environments where traumatised experiencers could speak openly without ridicule. Participants reportedly included professionals, teachers, police officers, and others who believed they had undergone unexplained events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Manhattan Alien Abduction</span><span class="citation-popover-snippet">Rainey recalled that she initially believed Napolitano&#x27;s story, and they became friends.Read more...</span></span></span>
 
 Critics argued that these gatherings risked producing collective reinforcement rather than objective investigation. Participants shared strikingly similar stories, terminology, and imagery. Sceptics believed this could create a feedback loop:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -351,17 +344,15 @@ The Napolitano case became especially vulnerable to this criticism because she w
 
 This does not automatically disprove her claims, but it complicates arguments that the case represented an isolated, independently emerging event.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4TQIiVlHYxY" title="The Brooklyn Bridge UFO | The Weirdest Story You&#x27;ll Ever Hear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4TQIiVlHYxY" target="_blank" rel="noopener noreferrer">The Brooklyn Bridge UFO | The Weirdest Story You&#x27;ll Ever Hear</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 4.3M &middot; Uploaded: January 2023 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4TQIiVlHYxY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4TQIiVlHYxY">Open on YouTube</a></p></div></div></div>
 
 ## The Problem of Anonymous Witnesses
 
 Hopkins’s credibility became tied not just to hypnosis, but to his handling of witnesses.
 
-The Cortile/Napolitano case depended heavily on alleged observers who either remained anonymous or communicated indirectly through letters. The most famous were “Dan” and “Richard”, supposedly security personnel who claimed they saw Napolitano floating through the sky near the Brooklyn Bridge while escorting a high-ranking international official. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the manhattan alien abduction netflix true story</span><span class="citation-popover-snippet">TimeThe Manhattan Alien Abduction: True Story Behind Netflix...Oct 31, 2024 — The three-part series presents conflicting accounts of the...</span></span></span>
+The Cortile/Napolitano case depended heavily on alleged observers who either remained anonymous or communicated indirectly through letters. The most famous were “Dan” and “Richard”, supposedly security personnel who claimed they saw Napolitano floating through the sky near the Brooklyn Bridge while escorting a high-ranking international official. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the manhattan alien abduction netflix true story</span><span class="citation-popover-snippet">The Manhattan Alien Abduction: True Story Behind Netflix...Oct 31, 2024 — The three-part series presents conflicting accounts of the...</span></span></span>
 
 Hopkins regarded the correspondence as compelling corroboration. Critics argued the opposite:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -374,15 +365,14 @@ Hopkins regarded the correspondence as compelling corroboration. Critics argued 
 
 Sceptical investigators also questioned whether Hopkins became emotionally invested in preserving the case’s significance. By the early 1990s, he had publicly presented the incident as perhaps the strongest abduction case ever documented. That commitment, critics said, may have reduced his willingness to aggressively challenge weak or contradictory evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tricksterbook.com/ArticlesOnline/LindaCase.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tricksterbook.com">[tricksterbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tricksterbook.com</span><span class="citation-popover-snippet">Linda also claimed that in subsequent hypnotic regressions she...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-3-dark.svg" | relative_url }}" alt="Hopkins illustration 3" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f_hopkins_hypnosis_47c88d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Carol Rainey’s Later Doubts
 
 The most damaging criticism came from inside Hopkins’s own circle.
 
-Carol Rainey, filmmaker and later Hopkins’s wife, initially supported the investigation and helped document aspects of the Napolitano case. Over time, however, she became increasingly sceptical of both the evidence and Hopkins’s investigative methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the manhattan alien abduction netflix true story</span><span class="citation-popover-snippet">TimeThe Manhattan Alien Abduction: True Story Behind Netflix...Oct 31, 2024 — The three-part series presents conflicting accounts of the...</span></span></span> Netflix Rainey later argued that Hopkins ignored warning signs that undermined the story. According to her later interviews and essays <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[netflix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-title">the manhattan alien abduction release date news</span><span class="citation-popover-snippet">The Manhattan Alien Abduction: True Story and Plot...Oct 30, 2024 — Hopkins, who used hypnosis techniques to help Napolitano recover mem...</span></span></span>, she believed he became too emotionally committed to the case and too willing to dismiss inconsistencies. She also criticised what she regarded as poor evidentiary standards within abduction research more broadly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/monicamercuri/2024/11/04/the-true-story-behind-netflixs-the-manhattan-alien-abduction-and-linda-napolitano/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">ForbesThe True Story Behind Netflix&#x27;s &#x27;The Manhattan Alien...Nov 4, 2024 — In the docuseries, she explained how Hopkins hypnotized sever...</span></span></span>
+Carol Rainey, filmmaker and later Hopkins’s wife, initially supported the investigation and helped document aspects of the Napolitano case. Over time, however, she became increasingly sceptical of both the evidence and Hopkins’s investigative methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the manhattan alien abduction netflix true story</span><span class="citation-popover-snippet">The Manhattan Alien Abduction: True Story Behind Netflix...Oct 31, 2024 — The three-part series presents conflicting accounts of the...</span></span></span> Netflix Rainey later argued that Hopkins ignored warning signs that undermined the story. According to her later interviews and essays <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[netflix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-title">the manhattan alien abduction release date news</span><span class="citation-popover-snippet">The Manhattan Alien Abduction: True Story and Plot...Oct 30, 2024 — Hopkins, who used hypnosis techniques to help Napolitano recover mem...</span></span></span>, she believed he became too emotionally committed to the case and too willing to dismiss inconsistencies. She also criticised what she regarded as poor evidentiary standards within abduction research more broadly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/monicamercuri/2024/11/04/the-true-story-behind-netflixs-the-manhattan-alien-abduction-and-linda-napolitano/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">The True Story Behind Netflix&#x27;s &#x27;The Manhattan Alien...Nov 4, 2024 — In the docuseries, she explained how Hopkins hypnotized sever...</span></span></span>
 
-In the 2024 Netflix series *The Manhattan Alien Abduction*, Rainey’s archival interviews became central to the sceptical interpretation of the case. She alleged that Napolitano displayed behaviour during hypnosis that appeared performative rather than spontaneous and claimed the investigation overlooked signs of fabrication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the manhattan alien abduction netflix true story</span><span class="citation-popover-snippet">TimeThe Manhattan Alien Abduction: True Story Behind Netflix...Oct 31, 2024 — The three-part series presents conflicting accounts of the...</span></span></span> Netflix Supporters of Napolitano responded that Rainey’s criticisms were shaped by personal conflicts and retrospective reinterpretation. The dispute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[netflix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-title">the manhattan alien abduction release date news</span><span class="citation-popover-snippet">The Manhattan Alien Abduction: True Story and Plot...Oct 30, 2024 — Hopkins, who used hypnosis techniques to help Napolitano recover mem...</span></span></span> became intensely personal, extending into public legal conflict decades after the original events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Manhattan Alien Abduction</span><span class="citation-popover-snippet">Rainey recalled that she initially believed Napolitano&#x27;s story, and they became friends.Read more...</span></span></span>
+In the 2024 Netflix series *The Manhattan Alien Abduction*, Rainey’s archival interviews became central to the sceptical interpretation of the case. She alleged that Napolitano displayed behaviour during hypnosis that appeared performative rather than spontaneous and claimed the investigation overlooked signs of fabrication. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">the manhattan alien abduction netflix true story</span><span class="citation-popover-snippet">The Manhattan Alien Abduction: True Story Behind Netflix...Oct 31, 2024 — The three-part series presents conflicting accounts of the...</span></span></span> Netflix Supporters of Napolitano responded that Rainey’s criticisms were shaped by personal conflicts and retrospective reinterpretation. The dispute <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[netflix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-title">the manhattan alien abduction release date news</span><span class="citation-popover-snippet">The Manhattan Alien Abduction: True Story and Plot...Oct 30, 2024 — Hopkins, who used hypnosis techniques to help Napolitano recover mem...</span></span></span> became intensely personal, extending into public legal conflict decades after the original events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Manhattan Alien Abduction</span><span class="citation-popover-snippet">Rainey recalled that she initially believed Napolitano&#x27;s story, and they became friends.Read more...</span></span></span>
 
 ## Why the Hopkins Debate Still Matters
 
@@ -394,49 +384,89 @@ For believers, Hopkins remains a pioneering investigator who took traumatised wi
 
 That unresolved tension is one reason the case still attracts attention decades later. The debate is no longer only about whether Linda Napolitano floated from a Manhattan window. It is also about how people construct certainty around experiences that cannot easily be tested, reproduced, or independently confirmed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dpoHdjDxCwQ" title="Linda Napolitano: The Manhattan Alien Abduction Story - Lights Out Podcast #13" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dpoHdjDxCwQ" target="_blank" rel="noopener noreferrer">Linda Napolitano: The Manhattan Alien Abduction Story - Lights Out Podcast #13</a></p><p class="youtube-embed-meta">Channel: Lights Out &middot; Views: 375.2K &middot; Uploaded: July 2020 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dpoHdjDxCwQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dpoHdjDxCwQ">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Hopkins Shaped the Case, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Hopkins Shaped the Case. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Manhattan UFO guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Manhattan+UFO+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+        </h4>
+        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+        
+        <p class="fr-book-desc">Explains the clinical mechanics of confirmation bias and how suggestive questioning inadvertantly structures anonymous witness letters.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witnessed+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witnessed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OxtLPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witnessed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Witnessed+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witnessed">Witnessed</a>
+        </h4>
+        <p class="fr-book-author">By Budd Hopkins</p>
+        
+        <p class="fr-book-desc">Presents the core text outlining how Hopkins filtered the 1989 Manhattan case records through his personal abduction framework.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Witnessed+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+        </h4>
+        <p class="fr-book-author">By John E. Mack, Mack</p>
+        
+        <p class="fr-book-desc">Reviews the complex investigator-witness dynamics that turn unverified bedroom memories into celebrated national news stories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=immWvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Missing Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+        </h4>
+        <p class="fr-book-author">By Budd Hopkins</p>
+        
+        <p class="fr-book-desc">Outlines the foundational belief systems regarding repressed memories that Hopkins used to evaluate Linda Napolitano.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witnessed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witnessed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -473,15 +503,15 @@ That unresolved tension is one reason the case still attracts attention decades 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -489,15 +519,15 @@ That unresolved tension is one reason the case still attracts attention decades 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,15 +535,15 @@ That unresolved tension is one reason the case still attracts attention decades 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -521,15 +551,15 @@ That unresolved tension is one reason the case still attracts attention decades 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -537,7 +567,7 @@ That unresolved tension is one reason the case still attracts attention decades 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hopkins-how-hopkins-shaped-the-case-linda-cortile-abduction-1989-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -753,132 +783,132 @@ That unresolved tension is one reason the case still attracts attention decades 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Budd Hopkins  
-   Link: [https://en.wikipedia.org/wiki/Budd_Hopkins](https://en.wikipedia.org/wiki/Budd_Hopkins)  
+   Link: <a href="https://en.wikipedia.org/wiki/Budd_Hopkins" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Budd_Hopkins</a>  
 
 2. <a id="endnote-2"></a>
    Source: time.com  
    Title: the manhattan alien abduction netflix true story  
-   Link: [https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/](https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TimeThe Manhattan Alien Abduction: True Story Behind Netflix...Oct 31, 2024 — The three-part series presents conflicting accounts of the...</p></details>
+   Link: <a href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Manhattan Alien Abduction: True Story Behind Netflix...Oct 31, 2024 — The three-part series presents conflicting accounts of the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/wgbh/nova/aliens/buddhopkins.html](https://www.pbs.org/wgbh/nova/aliens/buddhopkins.html)  
+   Link: <a href="https://www.pbs.org/wgbh/nova/aliens/buddhopkins.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/nova/aliens/buddhopkins.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOVA Online/Kidnapped by UFOs/Budd HopkinsHOPKINS: I had a daytime UFO sighting on Cape Cod. It lasted about three minutes. The object se...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: tricksterbook.com  
-   Link: [https://www.tricksterbook.com/ArticlesOnline/LindaCase.htm](https://www.tricksterbook.com/ArticlesOnline/LindaCase.htm)  
+   Link: <a href="https://www.tricksterbook.com/ArticlesOnline/LindaCase.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.tricksterbook.com/ArticlesOnline/LindaCase.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Linda also claimed that in subsequent hypnotic regressions she...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Recovered-memory therapy  
-   Link: [https://en.wikipedia.org/wiki/Recovered-memory_therapy](https://en.wikipedia.org/wiki/Recovered-memory_therapy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Recovered-memory_therapy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Recovered-memory_therapy</a>  
 
 6. <a id="endnote-6"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/wgbh/nova/aliens/cases.html](https://www.pbs.org/wgbh/nova/aliens/cases.html)  
+   Link: <a href="https://www.pbs.org/wgbh/nova/aliens/cases.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/nova/aliens/cases.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOVA Online/Kidnapped by UFOs/Budd Hopkins&#x27; CasesNOVA Online: Kidnapped By UFOs? Excerpts from interview with Budd Hopkins His cases—peop...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: netflix.com  
    Title: the manhattan alien abduction release date news  
-   Link: [https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news](https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news)  
+   Link: <a href="https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Manhattan Alien Abduction: True Story and Plot...Oct 30, 2024 — Hopkins, who used hypnosis techniques to help Napolitano recover mem...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/monicamercuri/2024/11/04/the-true-story-behind-netflixs-the-manhattan-alien-abduction-and-linda-napolitano/](https://www.forbes.com/sites/monicamercuri/2024/11/04/the-true-story-behind-netflixs-the-manhattan-alien-abduction-and-linda-napolitano/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForbesThe True Story Behind Netflix&#x27;s &#x27;The Manhattan Alien...Nov 4, 2024 — In the docuseries, she explained how Hopkins hypnotized sever...</p></details>
+   Link: <a href="https://www.forbes.com/sites/monicamercuri/2024/11/04/the-true-story-behind-netflixs-the-manhattan-alien-abduction-and-linda-napolitano/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/monicamercuri/2024/11/04/the-true-story-behind-netflixs-the-manhattan-alien-abduction-and-linda-napolitano/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The True Story Behind Netflix&#x27;s &#x27;The Manhattan Alien...Nov 4, 2024 — In the docuseries, she explained how Hopkins hypnotized sever...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: The Manhattan Alien Abduction  
-   Link: [https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction](https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rainey recalled that she initially believed Napolitano&#x27;s story, and they became friends.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: people.com  
-   Link: [https://people.com/the-manhattan-alien-abduction-where-is-linda-napolitano-now-8739603](https://people.com/the-manhattan-alien-abduction-where-is-linda-napolitano-now-8739603)  
+   Link: <a href="https://people.com/the-manhattan-alien-abduction-where-is-linda-napolitano-now-8739603" target="_blank" rel="noopener noreferrer nofollow">https://people.com/the-manhattan-alien-abduction-where-is-linda-napolitano-now-8739603</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, filmmaker Carol Rainey, Hopkins&#x27; ex-wife, argued the incident was a hoax, casting doubts in the 2024 Netflix docuseries &quot;The Man...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Brooklyn Bridge UFO | The Weirdest Story You'll Ever Hear  
-   Link: [https://www.youtube.com/watch?v=4TQIiVlHYxY](https://www.youtube.com/watch?v=4TQIiVlHYxY)  
+   Link: <a href="https://www.youtube.com/watch?v=4TQIiVlHYxY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4TQIiVlHYxY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>714: The Manhattan Alien Abduction...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: 714: The Manhattan Alien Abduction  
-   Link: [https://www.youtube.com/watch?v=BVytd28dTYU](https://www.youtube.com/watch?v=BVytd28dTYU)  
+   Link: <a href="https://www.youtube.com/watch?v=BVytd28dTYU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BVytd28dTYU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Manhattan Alien Abduction | Official Trailer | Netflix...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Manhattan Alien Abduction | Official Trailer | Netflix  
-   Link: [https://www.youtube.com/watch?v=s1xdJC4YB7M](https://www.youtube.com/watch?v=s1xdJC4YB7M)  
+   Link: <a href="https://www.youtube.com/watch?v=s1xdJC4YB7M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s1xdJC4YB7M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Witnessed Alien Abduction? Linda Napolitano Floats over the Brooklyn Bridge...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: imdb.com  
    Title: Kidnapped by UFOs?  
-   Link: [https://www.imdb.com/title/tt0976073/](https://www.imdb.com/title/tt0976073/)  
+   Link: <a href="https://www.imdb.com/title/tt0976073/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt0976073/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The True Story of Alien AbductionsNOVA searches for the truth behind real-life stories, worthy of The X-Files, describing late-night visi...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/38734707/A_Critique_of_Budd_Hopkins_Case_of_the_UFO_Abduction_of](https://www.academia.edu/38734707/A_Critique_of_Budd_Hopkins_Case_of_the_UFO_Abduction_of)  
+   Link: <a href="https://www.academia.edu/38734707/A_Critique_of_Budd_Hopkins_Case_of_the_UFO_Abduction_of" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/38734707/A_Critique_of_Budd_Hopkins_Case_of_the_UFO_Abduction_of</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Critique of Budd Hopkins&#x27; Case of the UFO Abduction ofBudd Hopkins has made a number of public presentations of a purported UFO abducti...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Witnessed-Story-Brooklyn-Bridge-Abduction/dp/0747531935](https://www.amazon.co.uk/Witnessed-Story-Brooklyn-Bridge-Abduction/dp/0747531935)  
+   Link: <a href="https://www.amazon.co.uk/Witnessed-Story-Brooklyn-Bridge-Abduction/dp/0747531935" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Witnessed-Story-Brooklyn-Bridge-Abduction/dp/0747531935</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Witnessed: True Story of the Brooklyn Bridge Abduction:...But when Linda Cortile first reported her abduction, Budd Hopkins, an authorit...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: linda napolitano says she was abducted by aliens in 1989 and her story attracted  
-   Link: [https://www.facebook.com/NewsNationNow/posts/linda-napolitano-says-she-was-abducted-by-aliens-in-1989-and-her-story-attracted/573693635037658/](https://www.facebook.com/NewsNationNow/posts/linda-napolitano-says-she-was-abducted-by-aliens-in-1989-and-her-story-attracted/573693635037658/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/linda-napolitano-says-she-was-abducted-by-aliens-in-1989-and-her-story-attracted/573693635037658/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/linda-napolitano-says-she-was-abducted-by-aliens-in-1989-and-her-story-attracted/573693635037658/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Linda Napolitano says she was abducted by aliens in 1989...The Linda Cortile (also known as Linda Napolitano) abduction case is one of t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: screenrant.com  
    Title: manhattan alien abduction true story linda napolitano  
-   Link: [https://screenrant.com/manhattan-alien-abduction-true-story-linda-napolitano/](https://screenrant.com/manhattan-alien-abduction-true-story-linda-napolitano/)  
+   Link: <a href="https://screenrant.com/manhattan-alien-abduction-true-story-linda-napolitano/" target="_blank" rel="noopener noreferrer nofollow">https://screenrant.com/manhattan-alien-abduction-true-story-linda-napolitano/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Manhattan Alien Abduction True Story30 Oct 2024 — Hopkins&#x27; book attracted significant skepticism over Mrs Napolitano&#x27;s claims but als...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thebestnetflix/posts/in-an-upcoming-documentary-series-netflix-linda-napolitano-has-shared-her-experi/1287867402467324/](https://www.facebook.com/thebestnetflix/posts/in-an-upcoming-documentary-series-netflix-linda-napolitano-has-shared-her-experi/1287867402467324/)  
+   Link: <a href="https://www.facebook.com/thebestnetflix/posts/in-an-upcoming-documentary-series-netflix-linda-napolitano-has-shared-her-experi/1287867402467324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thebestnetflix/posts/in-an-upcoming-documentary-series-netflix-linda-napolitano-has-shared-her-experi/1287867402467324/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>o&#x27;s story in the 1997 book Witnessed: The True Story of the...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
    Title: what is everyones opinion of the 1989 linda  
-   Link: [https://www.reddit.com/r/ufo/comments/1dcokeg/what_is_everyones_opinion_of_the_1989_linda/](https://www.reddit.com/r/ufo/comments/1dcokeg/what_is_everyones_opinion_of_the_1989_linda/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1dcokeg/what_is_everyones_opinion_of_the_1989_linda/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1dcokeg/what_is_everyones_opinion_of_the_1989_linda/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is everyone&#x27;s opinion of the 1989 Linda Napolitano...An extremely compelling and controversial case of alien abduction is that of L...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
    Title: Just finished Alien Abduction in Manhattan  
-   Link: [https://www.reddit.com/r/netflix/comments/1ggweji/just_finished_alien_abduction_in_manhattan_im_on/](https://www.reddit.com/r/netflix/comments/1ggweji/just_finished_alien_abduction_in_manhattan_im_on/)  
+   Link: <a href="https://www.reddit.com/r/netflix/comments/1ggweji/just_finished_alien_abduction_in_manhattan_im_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/netflix/comments/1ggweji/just_finished_alien_abduction_in_manhattan_im_on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m on Carol&#x27;s...They go through all the stuff Bud Hopkins chose to leave out of the book. Linda claimed she had immortal red blood cell...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: gregsandow.com  
-   Link: [https://gregsandow.com/ufo/Contents/From_IUR_--_An_Analysis_of_the/from_iur_--_an_analysis_of_the.htm](https://gregsandow.com/ufo/Contents/From_IUR_--_An_Analysis_of_the/from_iur_--_an_analysis_of_the.htm)  
+   Link: <a href="https://gregsandow.com/ufo/Contents/From_IUR_--_An_Analysis_of_the/from_iur_--_an_analysis_of_the.htm" target="_blank" rel="noopener noreferrer nofollow">https://gregsandow.com/ufo/Contents/From_IUR_--_An_Analysis_of_the/from_iur_--_an_analysis_of_the.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>And who were the witnesses? One, Hopkins says, was a...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qnY2tq8S6WI](https://www.youtube.com/watch?v=qnY2tq8S6WI)  
+   Link: <a href="https://www.youtube.com/watch?v=qnY2tq8S6WI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qnY2tq8S6WI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Men In Black &amp; The Terrifying Brooklyn Bridge Alien Abduction of Linda Napolitano...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dpoHdjDxCwQ](https://www.youtube.com/watch?v=dpoHdjDxCwQ)  
+   Link: <a href="https://www.youtube.com/watch?v=dpoHdjDxCwQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dpoHdjDxCwQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e well-known and respected Budd Hopkins. Linda claimed that she...</p></details>

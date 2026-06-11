@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /nash-and-fortenberry-sighting-1952/
 nav_short_title: Skepticism
 title: Were the Speeds Ever Really Measured?
-title_full: Were the Speeds Ever Really Measured? | Nash Fortenberry
+title_full: Were the Speeds Ever Really Measured?
 display_title_short: Skepticism
 display_title: Skepticism
 heading_title: Were the Speeds Ever Really Measured?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /pilot-report/
   short_title: Pilot Report
   heading_title: What Did the Pilots Actually See?
-date: '2026-06-08 23:26:20 '
+date: '2026-06-11 13:16:20 '
 header:
   og_image: /assets/images/Nash_and_Fortenberry_0a9bf2_speed_skepticism_d928eb-Illustration-1-social.jpg
   preview_image: /assets/images/Nash_and_Fortenberry_0a9bf2_speed_skepticism_d928eb-Illustration-1.webp
@@ -242,16 +242,14 @@ image: /assets/images/Nash_and_Fortenberry_0a9bf2_speed_skepticism_d928eb-Illust
 
 ## Introduction
 
-The dramatic speed claims in the 1952 [Nash and Fortenberry]({{ 'nash-and-fortenberry-sighting-1952/' | relative_url }}) sighting have always depended on one crucial assumption: that the pilots correctly judged how far away the objects were. If that assumption fails, the famous estimates of thousands of miles per hour collapse with it. This is the centre of the sceptical argument. Critics do not necessarily deny that the pilots saw unusual lights. Instead, they argue that the sighting became extraordinary only after uncertain visual impressions were converted into precise-looking measurements of speed, size, and manoeuvrability. Wikipedia Academia That distinction matters because the Nash and Fortenberry case is often cited as one of the strongest <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaRevisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span>“pilot sightings” in UFO history. Yet even experienced aviators can struggle to estimate range and velocity at night when observing unfamiliar lights without fixed reference points. Skeptics therefore focus less on witness sincerity and more on the mechanics of human perception under night-flying conditions.
-
+The dramatic speed claims in the 1952 Nash and Fortenberry sighting have always depended on one crucial assumption: that the pilots correctly judged how far away the objects were. If that assumption fails, the famous estimates of thousands of miles per hour collapse with it. This is the centre of the sceptical argument. Critics do not necessarily deny that the pilots saw unusual lights. Instead, they argue that the sighting became extraordinary only after uncertain visual impressions were converted into precise-looking measurements of speed, size, and manoeuvrability. Wikipedia Academia That distinction matters because the Nash and Fortenberry case is often cited as one of the strongest <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Revisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span>“pilot sightings” in UFO history. Yet even experienced aviators can struggle to estimate range and velocity at night when observing unfamiliar lights without fixed reference points. Skeptics therefore focus less on witness sincerity and more on the mechanics of human perception under night-flying conditions.
 
 <img src="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_speed_skepticism_d928eb-Illustration-1-dark.svg" | relative_url }}" alt="Skepticism illustration 1" data-theme-src-dark="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_speed_skepticism_d928eb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_speed_skepticism_d928eb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Were the Speeds Ever Really Measured?
 
-The celebrated speed figures were not instrument readings. They were calculations derived from estimated distance travelled during an estimated viewing time. Nash and Fortenberry later reconstructed the event after landing and concluded that the objects may have covered roughly 50 miles in about 15 seconds, producing estimates around 12,000 miles per hour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaRevisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/sightings/nash-fortenberry-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">nash fortenberry ufo</span><span class="citation-popover-snippet">The Nash-Fortenberry UFO Sighting9 Jun 2019 — Two pilots of this flight observed eight unidentified objects vicinity Langley Field. Estim...</span></span></span>
+The celebrated speed figures were not instrument readings. They were calculations derived from estimated distance travelled during an estimated viewing time. Nash and Fortenberry later reconstructed the event after landing and concluded that the objects may have covered roughly 50 miles in about 15 seconds, producing estimates around 12,000 miles per hour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Revisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/sightings/nash-fortenberry-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">nash fortenberry ufo</span><span class="citation-popover-snippet">The Nash-Fortenberry UFO Sighting9 Jun 2019 — Two pilots of this flight observed eight unidentified objects vicinity Langley Field. Estim...</span></span></span>
 
 Sceptics argue that every step in that chain involved assumptions rather than direct measurement:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -275,14 +273,13 @@ The first claim is difficult to dispute. The second depends heavily on visual es
 
 Night observation creates a fundamental problem for human perception: isolated lights in darkness provide very little depth information. Without clear landmarks, the brain struggles to judge distance reliably.
 
-Nash and Fortenberry believed the objects were below their aircraft and above the ground, which seemed to provide a useful frame of reference. Supporters of the case argue this made the estimates more reliable than many UFO reports occurring against an empty sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaRevisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span>
+Nash and Fortenberry believed the objects were below their aircraft and above the ground, which seemed to provide a useful frame of reference. Supporters of the case argue this made the estimates more reliable than many UFO reports occurring against an empty sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Revisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span>
 
 Sceptics counter that this confidence may itself be misleading. Even trained pilots usually estimate range by comparing an object with familiar aircraft shapes, known navigation lights, runway references, or atmospheric perspective. The Nash and Fortenberry objects had none of those features. They were glowing red-orange forms seen briefly at night during a startling encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/66639/pg66639-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">pg66639 images</span><span class="citation-popover-snippet">Project GutenbergThe World of Flying Saucers... estimates indicated a probable speed of 5000 to 9000 miles an hour.... A Possible Explan...</span></span></span>
 
 The key sceptical point is not that pilots are incompetent observers. It is that the visual system has limited tools for judging the distance of unfamiliar luminous phenomena in darkness. A small nearby light and a large distant light can appear nearly identical.
 
 This problem is amplified by several known perceptual effects:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,7 +296,7 @@ Sceptics therefore argue that the extraordinary speed estimates tell us more abo
 
 The sceptical literature on the case divides broadly into two categories: explanations involving atmospheric or astronomical phenomena, and explanations involving optical reflections or perceptual distortions.
 
-Donald Menzel initially explored the possibility that the pilots had seen reflections in cockpit windows or lights distorted by atmospheric haze. He was particularly interested in the reported instantaneous reversal of direction, which he regarded as physically implausible for any solid craft moving at the claimed velocities. Academia Nash strongly rejected the reflection hypothesis <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaRevisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span>, arguing that the lights were observed through multiple cockpit windows and appeared externally located. Critics of Menzel’s explanation agree that simple internal reflections do not comfortably fit every detail of the testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaRevisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span>
+Donald Menzel initially explored the possibility that the pilots had seen reflections in cockpit windows or lights distorted by atmospheric haze. He was particularly interested in the reported instantaneous reversal of direction, which he regarded as physically implausible for any solid craft moving at the claimed velocities. Academia Nash strongly rejected the reflection hypothesis <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Revisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span>, arguing that the lights were observed through multiple cockpit windows and appeared externally located. Critics of Menzel’s explanation agree that simple internal reflections do not comfortably fit every detail of the testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Revisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span>
 
 Later sceptics proposed other possibilities. Steuart Campbell suggested that the sighting may have involved a mirage effect associated with Venus, though this explanation has also been disputed because the witnesses described multiple moving objects rather than a single celestial source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nash-Fortenberry UFO sighting</span><span class="citation-popover-snippet">Nash-Fortenberry UFO sighting</span></span></span>
 
@@ -307,14 +304,12 @@ Even sceptics who reject specific explanations often retain the broader critique
 
 This matters because the reported manoeuvre was one of the most dramatic parts of the encounter. According to the pilots, the objects seemed to reverse formation and turn sharply without slowing. Supporters interpret this as evidence of unconventional propulsion. Sceptics argue that if the observers misjudged distance and geometry, then apparent impossible manoeuvres could emerge naturally from changing viewing angles, shifting brightness, or the motion of nearby luminous sources relative to the aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/66639/pg66639-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">pg66639 images</span><span class="citation-popover-snippet">Project GutenbergThe World of Flying Saucers... estimates indicated a probable speed of 5000 to 9000 miles an hour.... A Possible Explan...</span></span></span>
 
-
 <img src="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_speed_skepticism_d928eb-Illustration-2-dark.svg" | relative_url }}" alt="Skepticism illustration 2" data-theme-src-dark="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_speed_skepticism_d928eb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_speed_skepticism_d928eb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “Impossible Speed” Became the Core Debate
 
 The sighting gained legendary status largely because of the calculated velocities. Without those calculations, the case becomes a report of unusual lights observed by credible witnesses rather than apparent proof of technology beyond known aviation capabilities.
 
 Sceptics therefore focus intensely on the transition from observation to calculation. The pilots did not directly measure:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -325,13 +320,11 @@ Sceptics therefore focus intensely on the transition from observation to calcula
 
 </div>
 
-Instead, they reconstructed those quantities afterwards from memory and estimation. Critics argue that this reconstruction process can unintentionally harden impressions into seemingly precise numbers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaRevisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span>
+Instead, they reconstructed those quantities afterwards from memory and estimation. Critics argue that this reconstruction process can unintentionally harden impressions into seemingly precise numbers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Revisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span>
 
 This is not unique to the Nash and Fortenberry case. Many classic UFO incidents involve a similar pattern:
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jI03Bglh_bY" title="UFO sightings in Oregon skies baffle some commercial pilots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jI03Bglh_bY" target="_blank" rel="noopener noreferrer">UFO sightings in Oregon skies baffle some commercial pilots</a></p><p class="youtube-embed-meta">Channel: KGW News &middot; Views: 468.4K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jI03Bglh_bY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jI03Bglh_bY">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=jI03Bglh_bY" target="_blank" rel="noopener noreferrer">Link</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jI03Bglh_bY" target="_blank" rel="noopener noreferrer">Link</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jI03Bglh_bY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jI03Bglh_bY">Open on YouTube</a></p></div></div></div>
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -352,11 +345,10 @@ The sceptical interpretation does explain several otherwise puzzling aspects of 
 
 If the objects were closer and smaller than assumed, their apparent rapid motion no longer requires hypersonic craft. The most extraordinary claim in the case therefore becomes less secure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/66639/pg66639-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">pg66639 images</span><span class="citation-popover-snippet">Project GutenbergThe World of Flying Saucers... estimates indicated a probable speed of 5000 to 9000 miles an hour.... A Possible Explan...</span></span></span>
 
-
 <img src="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_speed_skepticism_d928eb-Illustration-3-dark.svg" | relative_url }}" alt="Skepticism illustration 3" data-theme-src-dark="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_speed_skepticism_d928eb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2_speed_skepticism_d928eb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The abrupt directional changes
 
-Perceptual effects can create the appearance of sudden reversals or impossible turns, especially with luminous points observed against darkness. Sceptics regard this as more plausible than literal instantaneous high-speed reversals by large solid vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaRevisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span>
+Perceptual effects can create the appearance of sudden reversals or impossible turns, especially with luminous points observed against darkness. Sceptics regard this as more plausible than literal instantaneous high-speed reversals by large solid vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Revisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span>
 
 ### The lack of hard physical evidence
 
@@ -366,53 +358,95 @@ No photographs, radar data directly tied to the sighting, or physical traces con
 
 Even critics of the speed claims often acknowledge that the sighting remains difficult in some respects.
 
-The witnesses were experienced commercial pilots accustomed to observing aircraft at night. Their immediate reaction was that the objects did not behave like ordinary aircraft. The encounter also appears to have been emotionally striking enough that both men remained convinced for years afterward that they had seen something genuinely anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaRevisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span>
+The witnesses were experienced commercial pilots accustomed to observing aircraft at night. Their immediate reaction was that the objects did not behave like ordinary aircraft. The encounter also appears to have been emotionally striking enough that both men remained convinced for years afterward that they had seen something genuinely anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Revisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span>
 
-Some sceptical explanations also struggle with the reported formation behaviour and the number of objects observed. Reflection theories in particular have been criticised as insufficiently matching the detailed testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaRevisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span>
+Some sceptical explanations also struggle with the reported formation behaviour and the number of objects observed. Reflection theories in particular have been criticised as insufficiently matching the detailed testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Revisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</span></span></span>
 
 As a result, the sceptical position on the Nash and Fortenberry case is often more limited than popular summaries suggest. Many sceptics do not claim to know exactly what the pilots saw. Instead, they argue that the famous “12,000 mph” conclusion was never securely established in the first place.
 
 That narrower claim has become one of the enduring lessons of the case. In UFO investigations, eyewitness confidence and numerical certainty are not always the same thing.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Were the Speeds Ever Really Measured?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Were the Speeds Ever Really Measured?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Nash Fortenberry guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Nash+Fortenberry+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides an objective case-file entry documenting the Nash and Fortenberry sighting, summarizing the speed claims and the skeptical criti...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Nash Fortenberry books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Nash+Fortenberry+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Details why speed and distance estimation by pilots, while sincere, is notoriously unreliable when navigating unfamiliar night conditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Introduction Fortenberry Necessarily</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Introduction+Fortenberry+Necessarily&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches investigative methodology to distinguish between objective measurement and subjective estimation in night-flight observations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Contextualizes the bureaucratic and technical challenges of investigating pilot-based sighting reports during the Cold War.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -449,15 +483,15 @@ That narrower claim has become one of the enduring lessons of the case. In UFO i
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -465,15 +499,15 @@ That narrower claim has become one of the enduring lessons of the case. In UFO i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,15 +515,15 @@ That narrower claim has become one of the enduring lessons of the case. In UFO i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +531,15 @@ That narrower claim has become one of the enduring lessons of the case. In UFO i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,7 +547,7 @@ That narrower claim has become one of the enduring lessons of the case. In UFO i
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skepticism-were-the-speeds-ever-really-measured-nash-and-fortenberry-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=were-the-speeds-ever-really-measured-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="were-the-speeds-ever-really-measured-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -729,92 +763,92 @@ That narrower claim has become one of the enduring lessons of the case. In UFO i
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Nash-Fortenberry UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting](https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nash-Fortenberry_UFO_sighting</a>  
 
 2. <a id="endnote-2"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952](https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaRevisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</p></details>
+   Link: <a href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revisiting One of the Classics: The Nash/Fortenberry UFO...In the 1960s, the sighting was scrutinized again—this time by astroph...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: gutenberg.org  
    Title: pg66639 images  
-   Link: [https://www.gutenberg.org/cache/epub/66639/pg66639-images.html](https://www.gutenberg.org/cache/epub/66639/pg66639-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/66639/pg66639-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/66639/pg66639-images.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe World of Flying Saucers... estimates indicated a probable speed of 5000 to 9000 miles an hour.... A Possible Explan...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject [BLUE BOOK](&amp;#123;&amp;#123; &#x27;blue-book-d80295/&#x27; | relative_url &amp;#125;&amp;#125;) - Unidentified Flying ObjectsAugust 15, 2016 — Project BLUE BOOK has been declassified and the records...</p></details>
    Published: August 15, 2016  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 6. <a id="endnote-6"></a>
    Source: ufoinsight.com  
    Title: nash fortenberry ufo  
-   Link: [https://www.ufoinsight.com/ufos/sightings/nash-fortenberry-ufo](https://www.ufoinsight.com/ufos/sightings/nash-fortenberry-ufo)  
+   Link: <a href="https://www.ufoinsight.com/ufos/sightings/nash-fortenberry-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/nash-fortenberry-ufo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Nash-Fortenberry UFO Sighting9 Jun 2019 — Two pilots of this flight observed eight unidentified objects vicinity Langley Field. Estim...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jI03Bglh_bY](https://www.youtube.com/watch?v=jI03Bglh_bY)  
+   Link: <a href="https://www.youtube.com/watch?v=jI03Bglh_bY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jI03Bglh_bY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in Oregon skies baffle some commercial pilotsAt least four commercial pilots reported mysterious Bright Lights zipping thro...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: scribd.com  
    Title: WE FLEW ABOVE FLYING SAUCERS By William B Nash William H Fortenberry  
-   Link: [https://www.scribd.com/doc/314719463/WE-FLEW-ABOVE-FLYING-SAUCERS-By-William-B-Nash-William-H-Fortenberry](https://www.scribd.com/doc/314719463/WE-FLEW-ABOVE-FLYING-SAUCERS-By-William-B-Nash-William-H-Fortenberry)  
+   Link: <a href="https://www.scribd.com/doc/314719463/WE-FLEW-ABOVE-FLYING-SAUCERS-By-William-B-Nash-William-H-Fortenberry" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/314719463/WE-FLEW-ABOVE-FLYING-SAUCERS-By-William-B-Nash-William-H-Fortenberry</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WE FLEW ABOVE FLYING SAUCERS by William B. Nash...Nash &amp; William H. Fortenberry. From TRUE magazine, Volume 31, Number 185, October 1952...</p></details>
    Published: October 1952  
 
 9. <a id="endnote-9"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: [https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf](https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO book: encyclopedia of the extraterrestrialThe UFO Book is a creative work fully protected by all applicable copyright laws, as well...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>estimated speed of 600 to 900 mph. In his report to the Air Force, the astronomer stated: &quot;The remarkably sudden ascent convinced me it w...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: the 1952 nashfortenberry case when two pilots saw  
-   Link: [https://www.reddit.com/r/UFOB/comments/rtld7x/the_1952_nashfortenberry_case_when_two_pilots_saw/](https://www.reddit.com/r/UFOB/comments/rtld7x/the_1952_nashfortenberry_case_when_two_pilots_saw/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/rtld7x/the_1952_nashfortenberry_case_when_two_pilots_saw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/rtld7x/the_1952_nashfortenberry_case_when_two_pilots_saw/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 Nash-Fortenberry case. When two pilots saw 8...When two pilots saw 8 UFOs making a turn at 12000 MPH while flying above the Che...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: the 1952 nashfortenberry sighting was a blue book  
-   Link: [https://www.reddit.com/r/ufo/comments/ibx6k5/the_1952_nashfortenberry_sighting_was_a_blue_book/](https://www.reddit.com/r/ufo/comments/ibx6k5/the_1952_nashfortenberry_sighting_was_a_blue_book/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/ibx6k5/the_1952_nashfortenberry_sighting_was_a_blue_book/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ibx6k5/the_1952_nashfortenberry_sighting_was_a_blue_book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 Nash-Fortenberry sighting was a Blue Book...The 1952 Nash-Fortenberry sighting was a Blue Book “unknown” and NICAP&#x27;s favorite c...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PAAMUSEUM/posts/though-we-dont-know-what-they-were-what-they-were-doing-or-where-they-came-from-/1244531289222587/](https://www.facebook.com/PAAMUSEUM/posts/though-we-dont-know-what-they-were-what-they-were-doing-or-where-they-came-from-/1244531289222587/)  
+   Link: <a href="https://www.facebook.com/PAAMUSEUM/posts/though-we-dont-know-what-they-were-what-they-were-doing-or-where-they-came-from-/1244531289222587/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PAAMUSEUM/posts/though-we-dont-know-what-they-were-what-they-were-doing-or-where-they-came-from-/1244531289222587/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>o explain the phenomenon and what Captain Nash had seen was...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: iheart.com  
    Title: How Project Blue Book Worked, Pt II  
-   Link: [https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/](https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/)  
+   Link: <a href="https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/1119-stuff-you-should-know-26940277/episode/how-project-blue-book-worked-pt-51294396/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stuff You Should KnowA rash of UFO sightings kicks off a new spike in America&#x27;s UFO fever and new headaches for the Air Force, which cont...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR1 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf](https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/3/3b/Project_Blue_Book%2C_BBA-PBSR1-300.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United. States Air Force inve...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: documents.theblackvault.com  
    Title: A703 580 1 1 Part 7 646548  
-   Link: [https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%207_646548.pdf](https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%207_646548.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%207_646548.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/A703_580-1-1_Part%207_646548.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comA703_580-1-1_Part 7_646548.pdfEnclosed herewith is a copy of a lecture given by. Professor James E. McDONALD in WASHINGT...</p></details>

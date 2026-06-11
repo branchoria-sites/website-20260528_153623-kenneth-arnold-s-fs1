@@ -360,9 +360,9 @@ sibling_links:
   permalink: /charles-l-moody-abduction-1975/
   short_title: Moody Abduction
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -396,9 +396,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -436,9 +436,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -746,36 +746,40 @@ prev_link:
   short_title: Moody Abduction
 next_link:
   basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
-date: '2026-06-08 23:20:04 '
+  short_title: Cisco Grove 1964
+date: '2026-06-11 13:12:17 '
 header:
   og_image: /assets/images/Chiles_and_Whitted_s_33732b-overview-social.jpg
   preview_image: /assets/images/Chiles_and_Whitted_s_33732b-overview.webp
 image: /assets/images/Chiles_and_Whitted_s_33732b-overview-social.jpg
 ---
 
-## What the pilots said happened
+## Introduction
 
-Chiles and Whitted were flying an Eastern Air Lines DC-3 on a scheduled route from Houston towards Atlanta, with intermediate stops, when the event occurred near Montgomery. Edward J. Ruppelt, later head of Project Blue Book, placed the aircraft about 20 miles south-west of Montgomery at about 2:45 a.m., when Chiles saw a light ahead and closing rapidly. Chiles initially thought it might be a jet, but the apparent closing speed seemed too great; he alerted Whitted, and the object passed to the right of the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3</span></span></span>
-
+The Chiles and Whitted sighting was a celebrated early UFO case in which two Eastern Air Lines [pilots]({{ 'pilots/' | relative_url }}), Captain Clarence S. Chiles and First Officer John B. Whitted, reported a fast, glowing, cigar-shaped object passing close to their DC-3 near Montgomery, Alabama, in the early hours of 24 July 1948. It mattered because it arrived at a formative moment in the United States Air Force’s first UFO investigations: [Project Sign]({{ 'project-sign/' | relative_url }}) had only begun that year, and this case became one of the reports that pushed some investigators towards the view that at least a few sightings involved real, unconventional craft. Later Air Force and sceptical analyses, however, treated the case very differently, arguing that the pilots probably saw a brilliant meteor or fragmenting fireball rather than a machine. The result is a case that remains historically important less because it proves one interpretation, and more because it shows how pilot testimony, official intelligence work, public expectation and later reanalysis could pull the same event in sharply different directions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3</span></span></span>
 
 <img src="{{ "/assets/images/Chiles_and_Whitted_s_33732b-overview.webp" | relative_url }}" alt="Overview image for Chiles and Whitted sighting 1948" loading="eager" decoding="sync" fetchpriority="high">
-The most quoted description is dramatic but specific: the [pilots]({{ 'pilots/' | relative_url }}) described something like a B-29 fuselage, with a deep blue glow underneath, two rows of bright “windows”, and an orange-red flame or trail from the rear. Ruppelt’s account says Whitted saw it pull up after passing the aircraft, while one passenger, C. L. McKelvie, reported only a strange, intense streak of light and did not see the detailed structure reported from the cockpit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Chapter 5</span><span class="citation-popover-snippet">Chapter 5</span></span></span>
+## What the pilots said happened
+
+Chiles and Whitted were flying an Eastern Air Lines DC-3 on a scheduled route from Houston towards Atlanta, with intermediate stops, when the event occurred near Montgomery. Edward J. Ruppelt, later head of Project Blue Book, placed the aircraft about 20 miles south-west of Montgomery at about 2:45 a.m., when Chiles saw a light ahead and closing rapidly. Chiles initially thought it might be a jet, but the apparent closing speed seemed too great; he alerted Whitted, and the object passed to the right of the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Chapter 5</span><span class="citation-popover-snippet">Chapter 5</span></span></span>
+
+The most quoted description is dramatic but specific: the pilots described something like a B-29 fuselage, with a deep blue glow underneath, two rows of bright “windows”, and an orange-red flame or trail from the rear. Ruppelt’s account says Whitted saw it pull up after passing the aircraft, while one passenger, C. L. McKelvie, reported only a strange, intense streak of light and did not see the detailed structure reported from the cockpit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3</span></span></span>
 
 That difference is important. The strongest pro-UFO version of the case rests on the pilots’ status as experienced aviators and their reported close-range view. The weakest part is that the only passenger witness saw a much less detailed phenomenon, closer to a bright streak than to a structured craft. Later case summaries also note tensions over whether the DC-3 was disturbed by wake or turbulence: some popular accounts included it, while case directories and later commentary point out that official interviews reportedly produced denials of noise or wake effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/480724montgomery_docs1b.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">480724montgomery docs1b</span><span class="citation-popover-snippet">480724montgomery docs1b</span></span></span>
 
+<img src="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-1-dark.svg" | relative_url }}" alt="Chiles and Whitted sighting 1948 illustration 1" data-theme-src-dark="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Project Sign took the case seriously
 
 The Chiles-Whitted report landed in an official climate already primed for concern. The National Archives summarises the early Air Force sequence as Project Sign from December 1947 to February 1949, followed by Project Grudge and then Project Blue Book from 1952 to 1969. Project Sign was created to collect and evaluate sightings that might matter to national security; its February 1949 report was inconclusive, stating that no definite evidence yet proved or disproved the existence of unconventional aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Within that setting, the case had three features that made it unusually influential. First, the witnesses were professional airline pilots, not casual ground observers. Second, they reported a close pass rather than a distant light. Third, investigators believed there might be corroboration from other sightings that night, including a report from a crew chief at Robins Air Force Base near Macon, Georgia, who saw a bright, fast-moving light, and another pilot who reported a bright shooting-star-like object in the broader direction of Montgomery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">The Report on Unidentified Flying Objects/Chapter 3</span><span class="citation-popover-snippet">The Report on Unidentified Flying Objects/Chapter 3</span></span></span>
+Within that setting, the case had three features that made it unusually influential. First, the witnesses were professional airline pilots, not casual ground observers. Second, they reported a close pass rather than a distant light. Third, investigators believed there might be corroboration from other sightings that night, including a report from a crew chief at Robins Air Force Base near Macon, Georgia, who saw a bright, fast-moving light, and another pilot who reported a bright shooting-star-like object in the broader direction of Montgomery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Chapter 5</span><span class="citation-popover-snippet">Chapter 5</span></span></span>
 
 Ruppelt later wrote that the case “shook” Air Technical Intelligence Center personnel more than the Mantell incident because, in their view, two reliable sources had been close enough to give a detailed description. He also tied the case to Project Sign’s famous “Estimate of the Situation”, the reportedly top-secret document that argued UFOs were interplanetary. Ruppelt’s account says that document was prepared shortly after the DC-3 case; later summaries emphasise that the conclusion was rejected higher up because the evidence was judged insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Chapter 5</span><span class="citation-popover-snippet">Chapter 5</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tjsKXhQeez4" title="Project Blue Book: Declassified – The True Story of the Chiles-Whitted Incident | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Chiles-Whitted Incident | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 29.2K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tjsKXhQeez4">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-1-dark.svg" | relative_url }}" alt="Chiles and Whitted sighting 1948 illustration 1" data-theme-src-dark="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The documentary record is stronger than usual, but not clean
 
 For a 1948 UFO case, Chiles and Whitted has a relatively rich documentary trail. A declassified Air Intelligence Information Report dated 20 December 1948 identifies the subject as an “Unidentified Flying Object” over Alabama, Georgia and Virginia, and says detailed interrogations had been completed for persons reporting sightings on 24 and 26 July. The report states that the analysis was intended to determine whether the objects were of domestic origin, alien origin, or natural phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/480724chiles_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
@@ -786,9 +790,7 @@ Yet the record is messy in the way old sighting records often are. Case listings
 
 The physical evidence is also thin. There was no radar track, no photograph, no recovered material, and no instrument record from the aircraft. The case therefore stands or falls on testimony, cross-comparison of witness accounts, and the plausibility of competing explanations. That does not make it worthless, but it does make it vulnerable to disagreement about perception, memory, apparent distance, and the interpretation of a brief night-time event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/mock.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tjsKXhQeez4" title="Project Blue Book: Declassified – The True Story of the Chiles-Whitted Incident | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Chiles-Whitted Incident | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 29.2K &middot; Uploaded: February 2019 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tjsKXhQeez4">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-2-dark.svg" | relative_url }}" alt="Chiles and Whitted sighting 1948 illustration 2" data-theme-src-dark="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The meteor and fireball explanation
 
 The main conventional explanation is that Chiles and Whitted saw a brilliant meteor or fragmenting fireball. This view was associated with J. Allen Hynek in Air Force-related analysis and was developed in later sceptical treatments by Donald Menzel and others. The basic argument is that a very bright meteor seen from an aircraft at night can appear far closer, lower, larger and more structured than it really is, especially if it fragments into a line of glowing pieces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Chiles-Whitted UFO encounter</span><span class="citation-popover-snippet">Chiles-Whitted UFO encounter</span></span></span>
@@ -799,8 +801,8 @@ Shough’s later analysis defends a refined version of the fireball model rather
 
 The fireball explanation is not a perfect fit. The pilots described a near-collision course and a structured object at roughly their altitude, not a distant astronomical event. They also reported a pull-up or climb, which critics of the meteor explanation regard as the case’s most difficult feature. The sceptical reply is that apparent motion in a brief, startling, night-time event can be badly misjudged, especially when the true distance is unknown and the observer has only seconds to interpret an unfamiliar light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/books/mcdonaldhcsa68pilots.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RNQf3h74IbI" title="The Most Bizarre UFO Sightings That Even NASA Can’t Explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RNQf3h74IbI" target="_blank" rel="noopener noreferrer">The Most Bizarre UFO Sightings That Even NASA Can’t Explain</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10 &middot; Views: 4.9K &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RNQf3h74IbI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RNQf3h74IbI">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-2-dark.svg" | relative_url }}" alt="Chiles and Whitted sighting 1948 illustration 2" data-theme-src-dark="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why some investigators rejected the meteor answer
 
 The best-known anti-meteor critique came from atmospheric physicist James E. McDonald, who interviewed both pilots in 1968. McDonald stressed their experience, noting that Chiles had about 8,500 flying hours and that both pilots had wartime military flying backgrounds. He reported that both men still described the object as a vehicle, with no wings or tail, two rows of bright window-like openings, a bluish underside and an orange-red exhaust or wake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufologie.patrickgross.org/books/mcdonaldhcsa68pilots.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -809,9 +811,7 @@ McDonald’s strongest point was manoeuvre. In his account, both pilots saw the 
 
 This critique remains the core reason the case is still cited in UFO literature. It does not rely merely on “pilots are reliable”, but on a more specific claim: that the reported geometry, altitude, structure and final motion are incompatible with a meteor. The problem is that each of those points depends on human estimates made during a very brief event. The pilots could report what the object looked like from their cockpit; they could not independently measure its distance, altitude, speed or size. That distinction is central to any fair assessment of the case.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RNQf3h74IbI" title="The Most Bizarre UFO Sightings That Even NASA Can’t Explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RNQf3h74IbI" target="_blank" rel="noopener noreferrer">The Most Bizarre UFO Sightings That Even NASA Can’t Explain</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10 &middot; Views: 4.9K &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RNQf3h74IbI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RNQf3h74IbI">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-3-dark.svg" | relative_url }}" alt="Chiles and Whitted sighting 1948 illustration 3" data-theme-src-dark="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to weigh the case today
 
 The Chiles and Whitted sighting is best understood as a high-quality witness case with low-quality physical evidence. It is high-quality in the sense that the principal witnesses were experienced pilots, the report was investigated quickly, related witnesses and traffic checks were pursued, and surviving records show official attention rather than casual dismissal. It is low-quality in the evidential sense that there is no independent instrumental record, no photograph, no physical trace and no unambiguous multi-angle reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/ufoe/section_11.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">section_11(No details reported</span><span class="citation-popover-snippet">section_11(No details reported</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/grudge/Project_Grudge_UFO%26G.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Project Grudge UFO&amp;G</span><span class="citation-popover-snippet">Project Grudge UFO&amp;G</span></span></span>
@@ -820,57 +820,95 @@ A balanced reading gives real weight to the pilots’ sincerity and observationa
 
 The later Air Force position must also be read in institutional context. Project Blue Book eventually ended with the Air Force stating that no investigated UFO had shown evidence of a national security threat, technology beyond known science, or extraterrestrial vehicles; the National Archives records that 12,618 sightings were reported, with 701 left unidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Those broad conclusions do not by themselves solve the Chiles-Whitted case, but they show the official framework into which the meteor classification ultimately fitted.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dgroqLFDaW0" title="FBI UFO Files Reveal Chilling 1948 Encounters Near Military Bases | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer">FBI UFO Files Reveal Chilling 1948 Encounters Near Military Bases | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 2.3K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dgroqLFDaW0">Open on YouTube</a></p></div></div></div>
 
-<img src="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-3-dark.svg" | relative_url }}" alt="Chiles and Whitted sighting 1948 illustration 3" data-theme-src-dark="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Chiles_and_Whitted_s_33732b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case really shows
 
 The lasting value of the Chiles and Whitted sighting is not that it delivers a decisive answer. It does not. It shows how a brief aerial observation can become historically powerful when it combines credible witnesses, vivid description, Cold War anxieties, official uncertainty and later disagreement among analysts. For believers in anomalous craft, it remains a classic pilot case because the witnesses reported a structured, manoeuvring object at close range. For sceptics, it is a classic perception case: a brilliant fireball, seen suddenly at night, may have been interpreted as a machine because the human visual system tried to impose structure on a line of lights.
 
 That tension is why the case still deserves attention within a Chiles and Whitted dossier. It is neither a simple proof of extraordinary technology nor an easy throwaway mistake. The most defensible conclusion is narrower: two experienced airline pilots reported a striking near-encounter in July 1948; official investigators treated it as important; later Air Force and sceptical analysts found a meteor or fragmenting fireball plausible; and the unresolved disagreement rests mainly on whether the pilots’ perceived structure and manoeuvre were accurate observations of an object or interpretations of a short-lived luminous event.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dgroqLFDaW0" title="FBI UFO Files Reveal Chilling 1948 Encounters Near Military Bases | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer">FBI UFO Files Reveal Chilling 1948 Encounters Near Military Bases | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 2.3K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dgroqLFDaW0">Open on YouTube</a></p></div></div></div>
-
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Passed the DC 3 That Night?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Passed the DC 3 That Night?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Contains direct first-hand accounts of the Project Sign investigation into Chiles and Whitted&#x27;s 1948 Montgomery DC-3 sighting.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Evaluates how official intelligence agencies weigh professional cockpit testimony against popular astronomical and military explanations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Examines how the 1948 Eastern Air Lines report pushed internal Project Sign investigators to draft the controversial &#x27;Estimate of the Sit...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Deconstructs why eyewitness testimony from highly trained witnesses must still be evaluated alongside environmental data.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -907,15 +945,15 @@ That tension is why the case still deserves attention within a Chiles and Whitte
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -923,15 +961,15 @@ That tension is why the case still deserves attention within a Chiles and Whitte
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -939,31 +977,15 @@ That tension is why the case still deserves attention within a Chiles and Whitte
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -971,7 +993,7 @@ That tension is why the case still deserves attention within a Chiles and Whitte
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="chiles-and-whitted-sighting-1948-what-really-passed-the-dc-3-that-night-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1186,177 +1208,177 @@ That tension is why the case still deserves attention within a Chiles and Whitte
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 2. <a id="endnote-2"></a>
    Source: en.wikisource.org  
    Title: The Report on Unidentified Flying Objects/Chapter 3  
-   Link: [https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3](https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3)  
+   Link: <a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_3</a>  
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
    Title: 480724montgomery docs1b  
-   Link: [https://www.nicap.org/docs/480724montgomery_docs1b.pdf](https://www.nicap.org/docs/480724montgomery_docs1b.pdf)  
+   Link: <a href="https://www.nicap.org/docs/480724montgomery_docs1b.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/480724montgomery_docs1b.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: [https://www.nicap.org/480724chiles_dir.htm](https://www.nicap.org/480724chiles_dir.htm)  
+   Link: <a href="https://www.nicap.org/480724chiles_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/480724chiles_dir.htm</a>  
 
 5. <a id="endnote-5"></a>
    Source: nicap.org  
    Title: 480724montgomery shough  
-   Link: [https://www.nicap.org/reports/480724montgomery_shough.pdf](https://www.nicap.org/reports/480724montgomery_shough.pdf)  
+   Link: <a href="https://www.nicap.org/reports/480724montgomery_shough.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/480724montgomery_shough.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Chiles-Whitted UFO encounter  
-   Link: [https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter](https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter)  
+   Link: <a href="https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Chiles-Whitted_UFO_encounter</a>  
 
 8. <a id="endnote-8"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/480724arep.htm](https://www.nicap.org/reports/480724arep.htm)  
+   Link: <a href="https://www.nicap.org/reports/480724arep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/480724arep.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: nicap.org  
-   Link: [https://nicap.org/docs/loedd/loedd_conclusion.htm](https://nicap.org/docs/loedd/loedd_conclusion.htm)  
+   Link: <a href="https://nicap.org/docs/loedd/loedd_conclusion.htm" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/docs/loedd/loedd_conclusion.htm</a>  
 
 10. <a id="endnote-10"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/mock.htm](https://www.nicap.org/mock.htm)  
+   Link: <a href="https://www.nicap.org/mock.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/mock.htm</a>  
 
 11. <a id="endnote-11"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/rufo/rufo-03.htm](https://www.nicap.org/rufo/rufo-03.htm)  
+   Link: <a href="https://www.nicap.org/rufo/rufo-03.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/rufo/rufo-03.htm</a>  
 
 12. <a id="endnote-12"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1948fullrep.htm](https://www.nicap.org/chronos/1948fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1948fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1948fullrep.htm</a>  
 
 13. <a id="endnote-13"></a>
    Source: nicap.org  
    Title: section_11(No details reported)  
-   Link: [https://www.nicap.org/ufoe/section_11.htm](https://www.nicap.org/ufoe/section_11.htm)  
+   Link: <a href="https://www.nicap.org/ufoe/section_11.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/section_11.htm</a>  
 
 14. <a id="endnote-14"></a>
    Source: nicap.org  
    Title: Project Grudge UFO&G  
-   Link: [https://www.nicap.org/grudge/Project_Grudge_UFO%26G.htm](https://www.nicap.org/grudge/Project_Grudge_UFO%26G.htm)  
+   Link: <a href="https://www.nicap.org/grudge/Project_Grudge_UFO%26G.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/grudge/Project_Grudge_UFO%26G.htm</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Mantell UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Mantell_UFO_incident](https://en.wikipedia.org/wiki/Mantell_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mantell_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mantell_UFO_incident</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 17. <a id="endnote-17"></a>
    Source: en.wikisource.org  
    Title: Chapter 5  
-   Link: [https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_5](https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_5)  
+   Link: <a href="https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/The_Report_on_Unidentified_Flying_Objects/Chapter_5</a>  
 
 18. <a id="endnote-18"></a>
    Source: war.gov  
    Title: 18 6369445 general 1948 vol 1  
-   Link: [https://www.war.gov/medialink/ufo/release_1/18_6369445_general_1948_vol_1.pdf](https://www.war.gov/medialink/ufo/release_1/18_6369445_general_1948_vol_1.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/18_6369445_general_1948_vol_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/18_6369445_general_1948_vol_1.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=tjsKXhQeez4](https://www.youtube.com/watch?v=tjsKXhQeez4)  
+   Link: <a href="https://www.youtube.com/watch?v=tjsKXhQeez4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tjsKXhQeez4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUE BOOK | &quot;Operation Paperclips&quot; Sneak Peek...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: PROJECT BLUE BOOK | "Operation Paperclips" Sneak Peek  
-   Link: [https://www.youtube.com/watch?v=RbE3arOv3n8](https://www.youtube.com/watch?v=RbE3arOv3n8)  
+   Link: <a href="https://www.youtube.com/watch?v=RbE3arOv3n8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RbE3arOv3n8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Bizarre UFO Sightings That Even NASA Can&#x27;t Explain...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://www.ufologie.patrickgross.org/books/mcdonaldhcsa68pilots.htm](https://www.ufologie.patrickgross.org/books/mcdonaldhcsa68pilots.htm)  
+   Link: <a href="https://www.ufologie.patrickgross.org/books/mcdonaldhcsa68pilots.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/books/mcdonaldhcsa68pilots.htm</a>  
 
 22. <a id="endnote-22"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://www.ufologie.patrickgross.org/htm/dc348f.htm](https://www.ufologie.patrickgross.org/htm/dc348f.htm)  
+   Link: <a href="https://www.ufologie.patrickgross.org/htm/dc348f.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/dc348f.htm</a>  
 
 23. <a id="endnote-23"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://www.ufologie.patrickgross.org/books/fsar08.htm](https://www.ufologie.patrickgross.org/books/fsar08.htm)  
+   Link: <a href="https://www.ufologie.patrickgross.org/books/fsar08.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/books/fsar08.htm</a>  
 
 24. <a id="endnote-24"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/mcdonaldca.htm](https://ufologie.patrickgross.org/htm/mcdonaldca.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/mcdonaldca.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/mcdonaldca.htm</a>  
 
 25. <a id="endnote-25"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/ruppeltwhoiswho.htm](https://ufologie.patrickgross.org/htm/ruppeltwhoiswho.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/ruppeltwhoiswho.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/ruppeltwhoiswho.htm</a>  
 
 26. <a id="endnote-26"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/arnoldreppratt.htm](https://ufologie.patrickgross.org/htm/arnoldreppratt.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/arnoldreppratt.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/arnoldreppratt.htm</a>  
 
 27. <a id="endnote-27"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/lifemag52.htm](https://ufologie.patrickgross.org/htm/lifemag52.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/lifemag52.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/lifemag52.htm</a>  
 
 28. <a id="endnote-28"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/true50mc01.htm](https://ufologie.patrickgross.org/htm/true50mc01.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/true50mc01.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/true50mc01.htm</a>  
 
 29. <a id="endnote-29"></a>
    Source: maryevans.com  
    Title: chiles-whitted case  
-   Link: [https://www.maryevans.com/explore-contributor-collections/geo/chiles-whitted-case-46530518.html](https://www.maryevans.com/explore-contributor-collections/geo/chiles-whitted-case-46530518.html)  
+   Link: <a href="https://www.maryevans.com/explore-contributor-collections/geo/chiles-whitted-case-46530518.html" target="_blank" rel="noopener noreferrer nofollow">https://www.maryevans.com/explore-contributor-collections/geo/chiles-whitted-case-46530518.html</a>  
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dgroqLFDaW0](https://www.youtube.com/watch?v=dgroqLFDaW0)  
+   Link: <a href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dgroqLFDaW0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US pilots saw cigar-shaped UFO but government destroyed the files...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: The Most Bizarre UFO Sightings That Even NASA Can't Explain  
-   Link: [https://www.youtube.com/watch?v=RNQf3h74IbI](https://www.youtube.com/watch?v=RNQf3h74IbI)  
+   Link: <a href="https://www.youtube.com/watch?v=RNQf3h74IbI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RNQf3h74IbI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI UFO Files Reveal Chilling 1948 Encounters Near Military Bases | WION Podcast...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
 33. <a id="endnote-33"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 34. <a id="endnote-34"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/129803577/A_Concise_History_of_the_USAF_UFO_Programs](https://www.academia.edu/129803577/A_Concise_History_of_the_USAF_UFO_Programs)  
+   Link: <a href="https://www.academia.edu/129803577/A_Concise_History_of_the_USAF_UFO_Programs" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/129803577/A_Concise_History_of_the_USAF_UFO_Programs</a>  
 
 36. <a id="endnote-36"></a>
    Source: military-history.fandom.com  
-   Link: [https://military-history.fandom.com/wiki/Estimate_of_the_Situation](https://military-history.fandom.com/wiki/Estimate_of_the_Situation)  
+   Link: <a href="https://military-history.fandom.com/wiki/Estimate_of_the_Situation" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Estimate_of_the_Situation</a>  
 
 37. <a id="endnote-37"></a>
    Source: wyominghistoryday.org  
-   Link: [https://www.wyominghistoryday.org/theme-topics/collections/richard-f-haines](https://www.wyominghistoryday.org/theme-topics/collections/richard-f-haines)  
+   Link: <a href="https://www.wyominghistoryday.org/theme-topics/collections/richard-f-haines" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/richard-f-haines</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100076011920518/posts/the-green-fireballs-of-new-mexico-are-one-of-the-few-ufo-phenomena-that-were-tak/877495744794148/](https://www.facebook.com/100076011920518/posts/the-green-fireballs-of-new-mexico-are-one-of-the-few-ufo-phenomena-that-were-tak/877495744794148/)  
+   Link: <a href="https://www.facebook.com/100076011920518/posts/the-green-fireballs-of-new-mexico-are-one-of-the-few-ufo-phenomena-that-were-tak/877495744794148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100076011920518/posts/the-green-fireballs-of-new-mexico-are-one-of-the-few-ufo-phenomena-that-were-tak/877495744794148/</a>  
 
 39. <a id="endnote-39"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/fsar/fsar09.htm](https://sacred-texts.com/ufo/fsar/fsar09.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/fsar/fsar09.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/fsar/fsar09.htm</a>

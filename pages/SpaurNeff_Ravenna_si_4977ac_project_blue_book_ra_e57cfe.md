@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /spaur-neff-ravenna-sighting-1966/
 nav_short_title: Official Report
 title: What Did Project Blue Book Conclude About Ravenna?
-title_full: What Did Project Blue Book Conclude About Ravenna? | Ravenna UFO
+title_full: What Did Project Blue Book Conclude About Ravenna?
 display_title_short: Official Report
 display_title: Official Report
 heading_title: What Did Project Blue Book Conclude About Ravenna?
@@ -233,7 +233,7 @@ next_link:
   permalink: /photograph-debate/
   short_title: Photograph Debate
   heading_title: Do the Ravenna UFO Photographs Prove an Unknown Object?
-date: '2026-06-08 23:34:35 '
+date: '2026-06-11 13:20:34 '
 header:
   og_image: /assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-1-social.jpg
   preview_image: /assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-1.webp
@@ -244,29 +244,26 @@ image: /assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Il
 
 In the aftermath of the early‑morning **17 April 1966 Ravenna/Mantua (Ohio) sighting**, the U.S. Air Force’s **Project Blue Book** — its official UFO investigation programme — produced a formal case file and attempted to account for the extraordinary reports by police officers. The resulting Blue Book conclusion remains one of the central controversies in this incident’s history, precisely because the official explanations (satellite, Venus, and photographic defects) appear to diverge sharply from the detailed observations and alarms expressed by law‑enforcement witnesses. This page examines **what Project Blue Book concluded about Ravenna**, how those explanations were derived, and how they were received publicly and critically within the UFO research community.
 
-
 <img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-1-dark.svg" | relative_url }}" alt="Official Report illustration 1" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Blue Book Case 7104469: The Official File
 
-Project Blue Book’s **Case 7104469** records the Portage County chase and related witness material in a 90‑page document archived in the U.S. National Archives. The sighting reports were submitted by Deputy Sheriffs **Dale F. Spaur** and **Wilbur L. Neff**, along with additional eyewitness statements and a civilian photograph taken by Mantua Police Chief **Gerald F. Buchert**. The file documents a multi‑hour event in which officers reported tracking a bright, silvery object that moved at varying speed and altitude over an extended route from Ohio into Pennsylvania. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoscans.com">[UFOScans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoscans.com</span><span class="citation-popover-title">1966 04 7104469 ravenna mantua ohio</span><span class="citation-popover-snippet">Project 10073 Record: UFO Sighting 17 April 1966, Ravenna, Mantua, Ohio | UFOScans.comApril 17, 1966...</span><span class="citation-popover-meta">Published: April 17, 1966</span></span></span>
+Project Blue Book’s **Case 7104469** records the Portage County chase and related witness material in a 90‑page document archived in the U.S. National Archives. The sighting reports were submitted by Deputy Sheriffs **Dale F. Spaur** and **Wilbur L. Neff**, along with additional eyewitness statements and a civilian photograph taken by Mantua Police Chief **Gerald F. Buchert**. The file documents a multi‑hour event in which officers reported tracking a bright, silvery object that moved at varying speed and altitude over an extended route from Ohio into Pennsylvania. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoscans.com">[UFOScans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoscans.com</span><span class="citation-popover-title">1966 04 7104469 ravenna mantua ohio</span><span class="citation-popover-snippet">Project 10073 Record: UFO Sighting 17 April 1966, Ravenna, Mantua, Ohio &#124; UFOScans.comApril 17, 1966...</span><span class="citation-popover-meta">Published: April 17, 1966</span></span></span>
 
-Within this official file, Blue Book’s summary sheet lists three strands in the Air Force conclusion: **“PHOTO: (PROCESSING DEFECTS)”, “SATELLITE”, and “Astro (VENUS)”.** This combination is reflected in later secondary summaries of the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoscans.com">[UFOScans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoscans.com</span><span class="citation-popover-title">1966 04 7104469 ravenna mantua ohio</span><span class="citation-popover-snippet">Project 10073 Record: UFO Sighting 17 April 1966, Ravenna, Mantua, Ohio | UFOScans.comApril 17, 1966...</span><span class="citation-popover-meta">Published: April 17, 1966</span></span></span>
+Within this official file, Blue Book’s summary sheet lists three strands in the Air Force conclusion: **“PHOTO: (PROCESSING DEFECTS)”, “SATELLITE”, and “Astro (VENUS)”.** This combination is reflected in later secondary summaries of the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoscans.com">[UFOScans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoscans.com</span><span class="citation-popover-title">1966 04 7104469 ravenna mantua ohio</span><span class="citation-popover-snippet">Project 10073 Record: UFO Sighting 17 April 1966, Ravenna, Mantua, Ohio &#124; UFOScans.comApril 17, 1966...</span><span class="citation-popover-meta">Published: April 17, 1966</span></span></span>
 
 ### Satellite Followed by Venus
 
-Blue Book’s probable cause determination — as summarised by the Project 10073 record — states that Spaur likely first observed **the passage of a satellite over northeastern Ohio**. As that satellite moved out of a favourable viewing position, the investigation concluded, Spaur’s attention shifted to the planet **Venus** as a bright astronomical object in the sky. This two‑part explanation attempted to account for the varying appearance of the object in the witnesses’ accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoscans.com">[UFOScans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoscans.com</span><span class="citation-popover-title">1966 04 7104469 ravenna mantua ohio</span><span class="citation-popover-snippet">Project 10073 Record: UFO Sighting 17 April 1966, Ravenna, Mantua, Ohio | UFOScans.comApril 17, 1966...</span><span class="citation-popover-meta">Published: April 17, 1966</span></span></span>
+Blue Book’s probable cause determination — as summarised by the Project 10073 record — states that Spaur likely first observed **the passage of a satellite over northeastern Ohio**. As that satellite moved out of a favourable viewing position, the investigation concluded, Spaur’s attention shifted to the planet **Venus** as a bright astronomical object in the sky. This two‑part explanation attempted to account for the varying appearance of the object in the witnesses’ accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoscans.com">[UFOScans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoscans.com</span><span class="citation-popover-title">1966 04 7104469 ravenna mantua ohio</span><span class="citation-popover-snippet">Project 10073 Record: UFO Sighting 17 April 1966, Ravenna, Mantua, Ohio &#124; UFOScans.comApril 17, 1966...</span><span class="citation-popover-meta">Published: April 17, 1966</span></span></span>
 
 This classification mirrors Blue Book’s broader closure criteria: most reports were ultimately attributed to conventional phenomena such as stars, planets, or aircraft after analysis. The Air Force’s own final summary of Project Blue Book held that no investigated UFO indicated a national security threat and that sightings generally had ordinary explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: secretsdeclassified.af.mil">[Secrets Declassified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">secretsdeclassified.af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UlmwakUTo3M" title="UFO Interview, 1966" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer">UFO Interview, 1966</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 688.0K &middot; Uploaded: September 2013 &middot; Length: 4 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UlmwakUTo3M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UlmwakUTo3M">Open on YouTube</a></p></div></div></div>
 
 ### Photographs Deemed Defective
 
-The photographic evidence submitted by Chief Buchert was another key factor in the case file. Blue Book analysts determined that the only usable photograph resulted not from capturing a physical craft but from **processing defects on old, fogged film**. Because of this, they categorised the photographic “object” as a non‑phenomenon rather than corroborative evidence of an unidentified aerial vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoscans.com">[UFOScans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoscans.com</span><span class="citation-popover-title">1966 04 7104469 ravenna mantua ohio</span><span class="citation-popover-snippet">Project 10073 Record: UFO Sighting 17 April 1966, Ravenna, Mantua, Ohio | UFOScans.comApril 17, 1966...</span><span class="citation-popover-meta">Published: April 17, 1966</span></span></span>
+The photographic evidence submitted by Chief Buchert was another key factor in the case file. Blue Book analysts determined that the only usable photograph resulted not from capturing a physical craft but from **processing defects on old, fogged film**. Because of this, they categorised the photographic “object” as a non‑phenomenon rather than corroborative evidence of an unidentified aerial vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoscans.com">[UFOScans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoscans.com</span><span class="citation-popover-title">1966 04 7104469 ravenna mantua ohio</span><span class="citation-popover-snippet">Project 10073 Record: UFO Sighting 17 April 1966, Ravenna, Mantua, Ohio &#124; UFOScans.comApril 17, 1966...</span><span class="citation-popover-meta">Published: April 17, 1966</span></span></span>
 
 This aspect of the official explanation illustrates how Project Blue Book often treated visual material that did not meet its internal criteria for analytical clarity: ambiguous photographs, unless clearly tied to an identifiable object, were frequently explained via technical flaws rather than unusual aerial phenomena.
-
 
 <img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-2-dark.svg" | relative_url }}" alt="Official Report illustration 2" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Hector Quintanilla’s Role and Blue Book’s Investigative Approach
@@ -275,21 +272,18 @@ At the time of the Ravenna sighting, **Major Hector Quintanilla** was director o
 
 In Ravenna’s case, only a **brief interview with one of the principal witnesses** was documented before Blue Book announced its conclusion that the officers observed a satellite and then Venus. Critics have noted that J. Allen Hynek, a scientific consultant to Blue Book, was not consulted on this case. In other well‑known summaries of Blue Book’s handling of Ravenna, Hynek is quoted as regarding the published conclusion as absurd given the officers’ detailed visual reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CImntZnz45Y" title="The Parajournal: UFO chase from Portage, Ohio, to Conway, Pa." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CImntZnz45Y" target="_blank" rel="noopener noreferrer">The Parajournal: UFO chase from Portage, Ohio, to Conway, Pa.</a></p><p class="youtube-embed-meta">Channel: The Beaver County Times &middot; Views: 9.1K &middot; Uploaded: October 2018 &middot; Length: 4 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CImntZnz45Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CImntZnz45Y">Open on YouTube</a></p></div></div></div>
 
 ## Public and Critical Reception of the Official Findings
 
-The Air Force explanation of a satellite and Venus — combined with a dismissal of the photograph as a processing error — was **widely derided both locally and within the UFO research community**. Local media and political figures expressed dissatisfaction, and correspondence from regional officials to members of Congress questioned the adequacy of the investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoscans.com">[UFOScans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoscans.com</span><span class="citation-popover-title">1966 04 7104469 ravenna mantua ohio</span><span class="citation-popover-snippet">Project 10073 Record: UFO Sighting 17 April 1966, Ravenna, Mantua, Ohio | UFOScans.comApril 17, 1966...</span><span class="citation-popover-meta">Published: April 17, 1966</span></span></span>
+The Air Force explanation of a satellite and Venus — combined with a dismissal of the photograph as a processing error — was **widely derided both locally and within the UFO research community**. Local media and political figures expressed dissatisfaction, and correspondence from regional officials to members of Congress questioned the adequacy of the investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoscans.com">[UFOScans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoscans.com</span><span class="citation-popover-title">1966 04 7104469 ravenna mantua ohio</span><span class="citation-popover-snippet">Project 10073 Record: UFO Sighting 17 April 1966, Ravenna, Mantua, Ohio &#124; UFOScans.comApril 17, 1966...</span><span class="citation-popover-meta">Published: April 17, 1966</span></span></span>
 
 Within UFO research circles, the Ravenna case has been repeatedly cited as an example of **Project Blue Book’s overly rapid or unsatisfactory closure practices**, especially when confronting credible witnesses such as police officers. Analysts have contrasted the rich, detailed testimony and apparent movement characteristics with the simplicity of the official identification, noting that a fixed astronomical object like Venus could not account for the range of observed behaviours reported by Spaur and his colleagues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
-
 
 <img src="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-3-dark.svg" | relative_url }}" alt="Official Report illustration 3" data-theme-src-dark="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/SpaurNeff_Ravenna_si_4977ac_project_blue_book_ra_e57cfe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official Explanation versus Witness Claims
 
 Blue Book’s “satellite followed by Venus” explanation, alongside a photographic defect ruling, represents the Air Force’s attempt to reconcile the incident within known natural and man‑made phenomena. However, this official account remains contested because:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -299,57 +293,388 @@ Blue Book’s “satellite followed by Venus” explanation, alongside a photogr
 
 </div>
 
-These points of tension have cemented Case 7104469 as one of the more debated files in the Project Blue Book archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoscans.com">[UFOScans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoscans.com</span><span class="citation-popover-title">1966 04 7104469 ravenna mantua ohio</span><span class="citation-popover-snippet">Project 10073 Record: UFO Sighting 17 April 1966, Ravenna, Mantua, Ohio | UFOScans.comApril 17, 1966...</span><span class="citation-popover-meta">Published: April 17, 1966</span></span></span>
-
+These points of tension have cemented Case 7104469 as one of the more debated files in the Project Blue Book archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoscans.com">[UFOScans.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoscans.com</span><span class="citation-popover-title">1966 04 7104469 ravenna mantua ohio</span><span class="citation-popover-snippet">Project 10073 Record: UFO Sighting 17 April 1966, Ravenna, Mantua, Ohio &#124; UFOScans.comApril 17, 1966...</span><span class="citation-popover-meta">Published: April 17, 1966</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GcOCIabFnLE" title="Project Blue Book UFO Interview USAF (1966)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Interview USAF (1966)</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 783 &middot; Uploaded: November 2025 &middot; Length: 4 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GcOCIabFnLE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GcOCIabFnLE">Open on YouTube</a></p></div></div></div>
 
 ## Legacy of the Official Record
 
-Although Project Blue Book itself was terminated in 1969 and its records archived, the Ravenna case file continues to be a **reference point in discussions about official UFO investigations**. Its combination of detailed law‑enforcement testimony with an official explanation that many observers find inadequate highlights enduring questions about how UFO reports were evaluated and classified. The archived Blue Book record persists as a primary source for understanding both the event and the Air Force’s analytical frameworks during this period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">Do Records Show Proof of UFOs? | National Archives</span><span class="citation-popover-snippet">July 24, 2023...</span><span class="citation-popover-meta">Published: July 24, 2023</span></span></span>
+Although Project Blue Book itself was terminated in 1969 and its records archived, the Ravenna case file continues to be a **reference point in discussions about official UFO investigations**. Its combination of detailed law‑enforcement testimony with an official explanation that many observers find inadequate highlights enduring questions about how UFO reports were evaluated and classified. The archived Blue Book record persists as a primary source for understanding both the event and the Air Force’s analytical frameworks during this period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[archives.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">Do Records Show Proof of UFOs? &#124; National Archives</span><span class="citation-popover-snippet">July 24, 2023...</span><span class="citation-popover-meta">Published: July 24, 2023</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Did Project Blue Book Conclude About Ravenna?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Did Project Blue Book Conclude About Ravenna?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Details the declassified contents of Case 7104469, outlining the 90-page National Archives record file on the Ohio chase.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Traces how the Air Force summary sheet derived its triple conclusion combining a satellite track, the planet Venus, and processing defects.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Documents why the official program systematically relied on quick, cumulative astronomical tables to close active files.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Examines why the deep tension between detailed pilot descriptions and non-exotic military findings triggers long-running societal myth bl...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-television+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -television -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pages From An Autograph Book UK memorabilia Autographed"><img src="{{ '/assets/images/marketplace-covers/6f91cef20514718c8de9.jpg' | relative_url }}" alt="Listing image for UFO Pages From An Autograph Book UK memorabilia Autographed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-television+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -television -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis" target="_blank" rel="sponsored noopener noreferrer">UFO Pages From An Autograph Book UK memorabilia Autographed</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-television+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -television -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-television+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -television -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-television+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -television -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-television+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -television -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-television+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -television -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-television+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -television -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-television+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -television -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-television+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -television -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-television+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -television -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-television+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -television -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+memorabilia+-television+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo memorabilia -television -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="official-report-what-did-project-blue-book-conclude-about-ravenna-spaur-neff-ravenna-sighting-19-ufo-memorabilia-televis" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
 </section>
 
 ## Endnotes
@@ -357,47 +682,47 @@ Although Project Blue Book itself was terminated in 1969 and its records archive
 1. <a id="endnote-1"></a>
    Source: ufoscans.com  
    Title: 1966 04 7104469 ravenna mantua ohio  
-   Link: [https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/](https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/)  
+   Link: <a href="https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoscans.com/1966-04-7104469-ravenna-mantua-ohio/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 10073 Record: UFO Sighting 17 April 1966, Ravenna, Mantua, Ohio | UFOScans.comApril 17, 1966...</p></details>
    Published: April 17, 1966  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: Do Records Show Proof of UFOs? | National Archives  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 24, 2023...</p></details>
    Published: July 24, 2023  
 
 4. <a id="endnote-4"></a>
    Source: everything.explained.today  
-   Link: [https://everything.explained.today/Project_Blue_Book/](https://everything.explained.today/Project_Blue_Book/)  
+   Link: <a href="https://everything.explained.today/Project_Blue_Book/" target="_blank" rel="noopener noreferrer nofollow">https://everything.explained.today/Project_Blue_Book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book ExplainedPROJECT BLUE BOOK EXPLAINED Project Blue Book was the code name for the systematic study of unidentified flying object...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: secretsdeclassified.af.mil  
-   Link: [https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/](https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/)  
+   Link: <a href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/</a>  
 
 6. <a id="endnote-6"></a>
    Source: cufos.org  
    Title: Project Blue Book  
-   Link: [https://cufos.org/resources/project-blue-book/](https://cufos.org/resources/project-blue-book/)  
+   Link: <a href="https://cufos.org/resources/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/resources/project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>14, as edited by Leon Davidson, July 1966The United States Air Force managed three UFO projects, from 1948 to 1969. The first w...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: military-history.fandom.com  
    Title: Project Blue Book  
-   Link: [https://military-history.fandom.com/wiki/Project_Blue_Book](https://military-history.fandom.com/wiki/Project_Blue_Book)  
+   Link: <a href="https://military-history.fandom.com/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>He largely continued the debunking efforts, and it was under his direction that Blue Book received...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: en.ikwipedia.org  
    Title: Project Blue Book  
-   Link: [https://en.ikwipedia.org/wiki/Project_Blue_Book](https://en.ikwipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.ikwipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.ikwipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book - IkwipediaPROJECT BLUE BOOK Project Blue Book, complete status reports (1 to 12 and 14), including Project Grudge data, and up...</p></details>
 
 ### Additional References
@@ -405,63 +730,63 @@ Although Project Blue Book itself was terminated in 1969 and its records archive
 9. <a id="endnote-9"></a>
    Source: commons.wikimedia.org  
    Title: File:Project Blue Book report 1966 04 7104469 Ravenna Mantua Ohio  
-   Link: [https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-04-7104469-Ravenna-Mantua-Ohio.pdf](https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-04-7104469-Ravenna-Mantua-Ohio.pdf)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-04-7104469-Ravenna-Mantua-Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AProject_Blue_Book_report_-_1966-04-7104469-Ravenna-Mantua-Ohio.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Project Blue Book report - 1966-04-7104469-Ravenna-Mantua-Ohio.pdf - Wikimedia CommonsApril 1, 1966 — FILE:PROJECT BLUE...</p></details>
    Published: April 1, 1966  
 
 10. <a id="endnote-10"></a>
    Source: medium.com  
    Title: The UFO Chase You Saw in 'Close Encounters' | Point of Contact  
-   Link: [https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267](https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267)  
+   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/the-ufo-chase-you-saw-in-close-encounters-649637923267</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hector Quintanilla Jr., commander of Project Blue Book at Wright-Patterson Air Force Base in Dayton, Ohio, releases the government’s offi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theblackvault.com  
    Title: The Black Vault Project Blue Book: Ravenna, Mantua, Ohio —  
-   Link: [https://www.theblackvault.com/documentarchive/project-blue-book-ravenna-mantua-ohio-april-17-1966/](https://www.theblackvault.com/documentarchive/project-blue-book-ravenna-mantua-ohio-april-17-1966/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/project-blue-book-ravenna-mantua-ohio-april-17-1966/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/project-blue-book-ravenna-mantua-ohio-april-17-1966/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Ravenna, Mantua, Ohio — April 17, 1966 - The Black VaultAugust 17, 2021 — PROJECT BLUE BOOK: RAVENNA, MANTUA, OHIO — A...</p></details>
    Published: April 17, 1966  
 
 12. <a id="endnote-12"></a>
    Source: eidolonstation.com  
    Title: Dale F. Spaur, Badge #15, Portage County Sheriff  
-   Link: [https://eidolonstation.com/eidolon_posts/ravenna-ufo/](https://eidolonstation.com/eidolon_posts/ravenna-ufo/)  
+   Link: <a href="https://eidolonstation.com/eidolon_posts/ravenna-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://eidolonstation.com/eidolon_posts/ravenna-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ravenna UFO - Eidolon Station* * Image: Image of Ravenna UFOImage: Image of Ravenna UFO RAVENNA UFO From the Project Blue Book report: “A...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: en-academic.com  
-   Link: [https://en-academic.com/dic.nsf/enwiki/287496/](https://en-academic.com/dic.nsf/enwiki/287496/)  
+   Link: <a href="https://en-academic.com/dic.nsf/enwiki/287496/" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/287496/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book’s explanation was widely criticized as inaccurat...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: alienbluebook.com  
    Title: ufo police chase portage county ohio  
-   Link: [https://alienbluebook.com/2023/09/06/ufo-police-chase-portage-county-ohio/](https://alienbluebook.com/2023/09/06/ufo-police-chase-portage-county-ohio/)  
+   Link: <a href="https://alienbluebook.com/2023/09/06/ufo-police-chase-portage-county-ohio/" target="_blank" rel="noopener noreferrer nofollow">https://alienbluebook.com/2023/09/06/ufo-police-chase-portage-county-ohio/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Police Chase, Portage County Ohio – ALIEN BLUE BOOKSeptember 6, 2023 — UFO POLICE CHASE, PORTAGE COUNTY OHIO Posted on September 6, 2...</p></details>
    Published: September 6, 2023  
 
 15. <a id="endnote-15"></a>
    Source: fold3.com  
    Title: Page 45 in US, Project Blue Book  
-   Link: [https://www.fold3.com/document/7105078/ravenna-mantua-ohio-blank-page-45-us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/document/7105078/ravenna-mantua-ohio-blank-page-45-us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/document/7105078/ravenna-mantua-ohio-blank-page-45-us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/document/7105078/ravenna-mantua-ohio-blank-page-45-us-project-blue-book-ufo-investigations-1947-1969</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Investigations, 1947-1969 - Fold3PAGE 45: US, PROJECT BLUE BOOK, 1947-1969 Free Image Record Publication: US, Project Blue Book, 1947...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: osi.af.mil  
    Title: (U.S. Air Force Projects Grudge  
-   Link: [https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/](https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/)  
+   Link: <a href="https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Features/Display/Article/2302429/project-blue-book-part-1-ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book Part 1 (UFO Reports) &gt; Office of Special Investigations &gt; DisplayAugust 6, 2020 — * Image: Reports 1-12 were monthly classified...</p></details>
    Published: August 6, 2020  
 
 17. <a id="endnote-17"></a>
    Source: commons.wikimedia.org  
    Title: * Project Blue Book report  
-   Link: [https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Ohio](https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Ohio)  
+   Link: <a href="https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Ohio" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/Category%3AUFO_sightings_in_Ohio</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgCategory:UFO sightings in Ohio - Wikimedia CommonsJune 10, 2023 — CATEGORY:UFO SIGHTINGS IN OHIO MEDIA IN CATEGORY &quot;UFO SIGH...</p></details>
    Published: June 10, 2023  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Parajournal: UFO chase from Portage, Ohio, to Conway, Pa  
-   Link: [https://www.youtube.com/watch?v=CImntZnz45Y](https://www.youtube.com/watch?v=CImntZnz45Y)  
+   Link: <a href="https://www.youtube.com/watch?v=CImntZnz45Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CImntZnz45Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ohio Mysteries: Backroads Episode 4. The Portage County, Ohio UFO Chase...</p></details>

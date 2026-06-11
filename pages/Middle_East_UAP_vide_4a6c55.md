@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Muroc Saucers
   permalink: /muroc-field-sightings-1947/
   short_title: Muroc Saucers
-date: '2026-06-08 23:42:46 '
+date: '2026-06-11 13:26:20 '
 header:
   og_image: /assets/images/Middle_East_UAP_vide_4a6c55-overview-social.jpg
   preview_image: /assets/images/Middle_East_UAP_vide_4a6c55-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Middle_East_UAP_vide_4a6c55-overview-social.jpg
 ## What the video actually shows
 
 The official DVIDS release is titled “Middle East Object”. It lists the location as undisclosed, the date taken as 12 July 2022, the date posted as 19 April 2023, and the length as 24 seconds. Its description says Dr Sean Kirkpatrick, then director of AARO, showed the clip during a Senate Armed Services Committee hearing; the clip depicts an apparent silver, orb-like object crossing the sensor’s field of view, recorded by an MQ-9 in the Middle East. DVIDS also states AARO did not assess the object as exhibiting anomalous behaviour, but that it remained unidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Middle_East_UAP_vide_4a6c55-overview.webp" | relative_url }}" alt="Overview image for Middle East UAP video 2022" loading="eager" decoding="sync" fetchpriority="high">
 That distinction is central. In ordinary UFO culture, “unidentified” is often treated as a dramatic category. In the AARO framing, it can simply mean the data package is too thin to make a defensible identification. The DVIDS summary says the video is representative of many cases AARO receives where limited surrounding data prevents resolution; such cases are kept in an “active archive” pending additional information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -774,7 +773,6 @@ ABC News reported that the Pentagon released two videos at the hearing: the Midd
 
 The same hearing also gave the public a wider frame. Kirkpatrick said AARO was reviewing more than 650 UAP incidents reported by military personnel, but that only a small percentage showed signatures that could reasonably be described as anomalous. He also said most unidentified objects reported to AARO showed mundane characteristics associated with balloons, drones, clutter, natural phenomena, or other explainable sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Pentagon&#x27;s &#x27;UFO&#x27; tracking efforts still find no alien origins</span><span class="citation-popover-snippet">ABC News Pentagon&#x27;s &#x27;UFO&#x27; tracking efforts still find no alien origins</span></span></span>
 
-
 <img src="{{ "/assets/images/Middle_East_UAP_vide_4a6c55-Illustration-1-dark.svg" | relative_url }}" alt="Middle East UAP video 2022 illustration 1" data-theme-src-dark="{{ "/assets/images/Middle_East_UAP_vide_4a6c55-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Middle_East_UAP_vide_4a6c55-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The official assessment is unresolved, not exotic
 
@@ -783,7 +781,6 @@ AARO’s public posture on the Middle East object is best summarised as: visible
 NASA’s independent UAP study later used an image from the same Middle East object as an example of the data problem. The report caption described “footage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East” and said that, because of limited data, the object remained unidentified. On the same page, NASA’s panel argued that artificial intelligence and machine learning could help investigate UAP only if better-quality data were available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That is the practical lesson of the case. The video is interesting less because it proves something unusual and more because it shows why a single camera view can fail to resolve a sighting. A camera can record an object without establishing its range. Without range, speed and size become estimates rather than measurements. Without independent corroboration, a “metallic orb” can remain a visual description rather than a physical diagnosis.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j6qTR_Lxe1Q" title="Orb-shaped UFO seen over Iraq in stunning video released by Pentagon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j6qTR_Lxe1Q" target="_blank" rel="noopener noreferrer">Orb-shaped UFO seen over Iraq in stunning video released by Pentagon</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 392.9K &middot; Uploaded: April 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j6qTR_Lxe1Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j6qTR_Lxe1Q">Open on YouTube</a></p></div></div></div>
 
@@ -797,7 +794,6 @@ The key optical issue is parallax: when a moving observer looks past a nearby ob
 
 Bellingcat’s balloon hypothesis is not a formal government resolution, and it depends on assumptions about drone motion, distance, and wind. But it is a plausible public explanation because it accounts for the main visible features without invoking exotic performance: a small, spherical, reflective object; apparent fast motion over the ground; and no demonstrated propulsion, exhaust, or manoeuvre that would require novel technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn’t That A Balloon? Deflating a Do D UFO Video</span><span class="citation-popover-snippet">Isn’t That A Balloon? Deflating a Do D UFO Video</span></span></span>
 
-
 <img src="{{ "/assets/images/Middle_East_UAP_vide_4a6c55-Illustration-2-dark.svg" | relative_url }}" alt="Middle East UAP video 2022 illustration 2" data-theme-src-dark="{{ "/assets/images/Middle_East_UAP_vide_4a6c55-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Middle_East_UAP_vide_4a6c55-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What counts as corroboration here?
 
@@ -806,7 +802,6 @@ For this case, the most credible “witness” is not a person at ground level b
 The missing corroboration is just as important as the footage itself. Publicly available material does not show a second independent viewing angle, radar track, recovered object, pilot visual confirmation, full telemetry, or environmental reconstruction from AARO. ABC reported Kirkpatrick’s broader point that unresolved cases often remain unresolved because there is not enough available data to support a high-standard conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Pentagon&#x27;s &#x27;UFO&#x27; tracking efforts still find no alien origins</span><span class="citation-popover-snippet">ABC News Pentagon&#x27;s &#x27;UFO&#x27; tracking efforts still find no alien origins</span></span></span>
 
 This is why the Middle East object sits in a grey zone. It is stronger than a vague anecdote because there is official video provenance. It is weaker than a solved aviation incident because the public evidence does not include enough context to calculate range, speed, or object type reliably.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BvO5BUTJ-SA" title="Pentagon reveals flying orb during UFO Senate hearing as 650 unknown objects tracked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BvO5BUTJ-SA" target="_blank" rel="noopener noreferrer">Pentagon reveals flying orb during UFO Senate hearing as 650 unknown objects tracked</a></p><p class="youtube-embed-meta">Channel: The Independent &middot; Views: 44.8K &middot; Uploaded: April 2023 &middot; Length: 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BvO5BUTJ-SA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BvO5BUTJ-SA">Open on YouTube</a></p></div></div></div>
 
@@ -818,7 +813,6 @@ It does not support stronger claims often attached to UAP clips online. It does 
 
 It also does not conclusively prove the balloon explanation. The sceptical case is plausible and evidence-based, but it remains an inference from public imagery, geolocation, size estimation, wind context, and camera-motion geometry. A definitive resolution would require data that has not been made public, or may not exist in the original report.
 
-
 <img src="{{ "/assets/images/Middle_East_UAP_vide_4a6c55-Illustration-3-dark.svg" | relative_url }}" alt="Middle East UAP video 2022 illustration 3" data-theme-src-dark="{{ "/assets/images/Middle_East_UAP_vide_4a6c55-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Middle_East_UAP_vide_4a6c55-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this case belongs with other “metallic orb” reports, but should not be merged with them
 
@@ -828,49 +822,89 @@ That makes the Middle East object relevant to sibling dossier branches on orb-li
 
 The disciplined reading is narrower and more useful: this clip is an official, unresolved MQ-9 video that illustrates the limits of single-sensor UAP evidence. Its public record is real; its interpretation remains contested; and the most economical explanation currently available is a small balloon or balloon-like object whose apparent motion is amplified by sensor perspective.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CFMRuMDNwKI" title="Pentagon declassified UFO footage shows mystery ‘metal orb’ moving eerily" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CFMRuMDNwKI" target="_blank" rel="noopener noreferrer">Pentagon declassified UFO footage shows mystery ‘metal orb’ moving eerily</a></p><p class="youtube-embed-meta">Channel: The Sun &middot; Views: 172.1K &middot; Uploaded: April 2023 &middot; Length: 1 minute 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CFMRuMDNwKI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CFMRuMDNwKI">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Did the Middle East Orb Show?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Did the Middle East Orb Show?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Presents an objective file entry on the drone-captured imagery, summarizing the AARO findings and the technical status of the case.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Reviews how military analysts historically scrutinized imagery against sensor reports, a process that continues today.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches the methodology used to audit modern sensor footage, explaining common sources of optical artifacts and parallax.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Documents how institutions balance sensor-data analysis against official government UAP classification protocols.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -907,15 +941,15 @@ The disciplined reading is narrower and more useful: this clip is an official, u
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/f9f1edc22056df8c40fe.jpg' | relative_url }}" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -923,15 +957,15 @@ The disciplined reading is narrower and more useful: this clip is an official, u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Happy Kawaii Style Flying Saucer Alien Embroidered Iron On Patch - UAP UFO"><img src="{{ '/assets/images/marketplace-covers/22528eb5b7bb3b2827d8.jpg' | relative_url }}" alt="Listing image for Cute Happy Kawaii Style Flying Saucer Alien Embroidered Iron On Patch - UAP UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro" target="_blank" rel="sponsored noopener noreferrer">Cute Happy Kawaii Style Flying Saucer Alien Embroidered Iron On Patch - UAP UFO</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -939,31 +973,15 @@ The disciplined reading is narrower and more useful: this clip is an official, u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P"><img src="{{ '/assets/images/marketplace-covers/563b16b2318956689f9b.jpg' | relative_url }}" alt="Listing image for Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro" target="_blank" rel="sponsored noopener noreferrer">Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -971,7 +989,7 @@ The disciplined reading is narrower and more useful: this clip is an official, u
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="middle-east-uap-video-2022-what-did-the-middle-east-orb-show-ufo-uap-patch-book-books-underwater-scuba-swimming-topps-ro" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1187,126 +1205,126 @@ The disciplined reading is narrower and more useful: this clip is an official, u
 1. <a id="endnote-1"></a>
    Source: bellingcat.com  
    Title: Isn’t That A Balloon? Deflating a Do D UFO Video  
-   Link: [https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/](https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/)  
+   Link: <a href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
 
 2. <a id="endnote-2"></a>
    Source: armed-services.senate.gov  
-   Link: [https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office](https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office)  
+   Link: <a href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office</a>  
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: AARO Brief to SASC DoD UAP Mission April 19 2023 508  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_to_SASC-DoD_UAP_Mission-April_19_2023_508.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_to_SASC-DoD_UAP_Mission-April_19_2023_508.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_to_SASC-DoD_UAP_Mission-April_19_2023_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Brief_to_SASC-DoD_UAP_Mission-April_19_2023_508.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf](https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 10. <a id="endnote-10"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/880273/middle-east-object](https://www.dvidshub.net/video/880273/middle-east-object)  
+   Link: <a href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/880273/middle-east-object</a>  
 
 11. <a id="endnote-11"></a>
    Source: abcnews.com  
    Title: ABC News Pentagon's 'UFO' tracking efforts still find no alien origins  
-   Link: [https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663](https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663)  
+   Link: <a href="https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663</a>  
 
 12. <a id="endnote-12"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/video/98709433/](https://abcnews.com/video/98709433/)  
+   Link: <a href="https://abcnews.com/video/98709433/" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/video/98709433/</a>  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/GoodMorningAmerica/posts/abc-news-got-a-first-look-at-dozens-of-newly-declassified-ufo-videos-showing-inc/1365046402152471/](https://www.facebook.com/GoodMorningAmerica/posts/abc-news-got-a-first-look-at-dozens-of-newly-declassified-ufo-videos-showing-inc/1365046402152471/)  
+   Link: <a href="https://www.facebook.com/GoodMorningAmerica/posts/abc-news-got-a-first-look-at-dozens-of-newly-declassified-ufo-videos-showing-inc/1365046402152471/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GoodMorningAmerica/posts/abc-news-got-a-first-look-at-dozens-of-newly-declassified-ufo-videos-showing-inc/1365046402152471/</a>  
 
 14. <a id="endnote-14"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023](https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023)  
+   Link: <a href="https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023</a>  
 
 15. <a id="endnote-15"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/885193/western-us-objects](https://www.dvidshub.net/video/885193/western-us-objects)  
+   Link: <a href="https://www.dvidshub.net/video/885193/western-us-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/885193/western-us-objects</a>  
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYHzFjLDyyl/](https://www.instagram.com/reel/DYHzFjLDyyl/)  
+   Link: <a href="https://www.instagram.com/reel/DYHzFjLDyyl/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYHzFjLDyyl/</a>  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: UAP Video  
-   Link: [https://www.youtube.com/watch?v=M2eQxMtzYO4](https://www.youtube.com/watch?v=M2eQxMtzYO4)  
+   Link: <a href="https://www.youtube.com/watch?v=M2eQxMtzYO4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M2eQxMtzYO4</a>  
 
 18. <a id="endnote-18"></a>
    Source: abcnews.go.com  
-   Link: [https://abcnews.go.com/US/video/pentagons-ufo-tracking-efforts-find-alien-origins-98709433?userab=abcn_du_cat_topic_feature_holdout-474%2Avariant_b_redesign-1939%2Cabcn_popular_reads_exp-497%2Avariant_c_3days_filter-2078%2Cabcn_ad_cadence-481%2Acontrol-a-1962%2Cabcn_news_for_you_exp-496%2Avariant_a_control-2074](https://abcnews.go.com/US/video/pentagons-ufo-tracking-efforts-find-alien-origins-98709433?userab=abcn_du_cat_topic_feature_holdout-474%2Avariant_b_redesign-1939%2Cabcn_popular_reads_exp-497%2Avariant_c_3days_filter-2078%2Cabcn_ad_cadence-481%2Acontrol-a-1962%2Cabcn_news_for_you_exp-496%2Avariant_a_control-2074)  
+   Link: <a href="https://abcnews.go.com/US/video/pentagons-ufo-tracking-efforts-find-alien-origins-98709433?userab=abcn_du_cat_topic_feature_holdout-474%2Avariant_b_redesign-1939%2Cabcn_popular_reads_exp-497%2Avariant_c_3days_filter-2078%2Cabcn_ad_cadence-481%2Acontrol-a-1962%2Cabcn_news_for_you_exp-496%2Avariant_a_control-2074" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.go.com/US/video/pentagons-ufo-tracking-efforts-find-alien-origins-98709433?userab=abcn_du_cat_topic_feature_holdout-474%2Avariant_b_redesign-1939%2Cabcn_popular_reads_exp-497%2Avariant_c_3days_filter-2078%2Cabcn_ad_cadence-481%2Acontrol-a-1962%2Cabcn_news_for_you_exp-496%2Avariant_a_control-2074</a>  
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Congress Fell for a BALLOON? | MICK WEST Breaks Down The Hellfire Missile UFO  
-   Link: [https://www.youtube.com/watch?v=FY4aRfx17vQ](https://www.youtube.com/watch?v=FY4aRfx17vQ)  
+   Link: <a href="https://www.youtube.com/watch?v=FY4aRfx17vQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FY4aRfx17vQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The SHOCKING Math Error Behind Viral UFO Videos | Mick West...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=BvO5BUTJ-SA](https://www.youtube.com/watch?v=BvO5BUTJ-SA)  
+   Link: <a href="https://www.youtube.com/watch?v=BvO5BUTJ-SA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BvO5BUTJ-SA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon shares newly-declassified UFO videos...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: DECLASSIFIED VIDEO: UFO FILES  
-   Link: [https://www.youtube.com/watch?v=h08VAydTJ_A](https://www.youtube.com/watch?v=h08VAydTJ_A)  
+   Link: <a href="https://www.youtube.com/watch?v=h08VAydTJ_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h08VAydTJ_A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Congress Fell for a BALLOON? | MICK WEST Breaks Down The Hellfire Missile UFO...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/ufo/](https://www.war.gov/ufo/)  
+   Link: <a href="https://www.war.gov/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/ufo/</a>  
 
 23. <a id="endnote-23"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 24. <a id="endnote-24"></a>
    Source: dni.gov  
    Title: 3733 2023 consolidated annual report on unidentified anomalous phenomena  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewsNationNow/posts/a-house-subcommittee-hearing-unveiled-never-before-seen-video-appearing-to-show-/801980962208923/](https://www.facebook.com/NewsNationNow/posts/a-house-subcommittee-hearing-unveiled-never-before-seen-video-appearing-to-show-/801980962208923/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-house-subcommittee-hearing-unveiled-never-before-seen-video-appearing-to-show-/801980962208923/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-house-subcommittee-hearing-unveiled-never-before-seen-video-appearing-to-show-/801980962208923/</a>  
 
 26. <a id="endnote-26"></a>
    Source: greydynamics.com  
-   Link: [https://greydynamics.com/all-domain-anomaly-resolution-office-pentagons-alien-hunters/](https://greydynamics.com/all-domain-anomaly-resolution-office-pentagons-alien-hunters/)  
+   Link: <a href="https://greydynamics.com/all-domain-anomaly-resolution-office-pentagons-alien-hunters/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/all-domain-anomaly-resolution-office-pentagons-alien-hunters/</a>  
 
 27. <a id="endnote-27"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYHOll0lHhj/](https://www.instagram.com/reel/DYHOll0lHhj/)  
+   Link: <a href="https://www.instagram.com/reel/DYHOll0lHhj/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYHOll0lHhj/</a>  
 
 28. <a id="endnote-28"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYqBD6DEvGw/](https://www.instagram.com/reel/DYqBD6DEvGw/)  
+   Link: <a href="https://www.instagram.com/reel/DYqBD6DEvGw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYqBD6DEvGw/</a>

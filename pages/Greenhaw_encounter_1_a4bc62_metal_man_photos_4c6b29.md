@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /greenhaw-encounter-1973/
 nav_short_title: Photos
 title: Do the Metal Man Photos Prove Anything?
-title_full: Do the Metal Man Photos Prove Anything? | Falkville Metal Man
+title_full: Do the Metal Man Photos Prove Anything?
 display_title_short: Photos
 display_title: Photos
 heading_title: Do the Metal Man Photos Prove Anything?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /greenhaw/
   short_title: Greenhaw
   heading_title: Was Jeff Greenhaw a Reliable Witness?
-date: '2026-06-08 23:27:59 '
+date: '2026-06-11 13:17:02 '
 header:
   og_image: /assets/images/Greenhaw_encounter_1_a4bc62_metal_man_photos_4c6b29-Illustration-1-social.jpg
   preview_image: /assets/images/Greenhaw_encounter_1_a4bc62_metal_man_photos_4c6b29-Illustration-1.webp
@@ -242,20 +242,18 @@ image: /assets/images/Greenhaw_encounter_1_a4bc62_metal_man_photos_4c6b29-Illust
 
 ## Introduction
 
-The Falkville “Metal Man” case remains famous largely because Jeff [Greenhaw]({{ 'greenhaw/' | relative_url }}) did something most UFO witnesses never do: he produced photographs. On 17 October 1973, the Falkville, Alabama police chief used a Polaroid camera to take four flash photographs of a reflective humanoid figure he encountered on a dark roadside. Those images became the centrepiece of the entire [Greenhaw encounter]({{ 'greenhaw-encounter-1973/' | relative_url }}). They are also the reason the case remains debated decades later.
-
+The Falkville “Metal Man” case remains famous largely because Jeff [Greenhaw]({{ 'greenhaw/' | relative_url }}) did something most UFO witnesses never do: he produced photographs. On 17 October 1973, the Falkville, Alabama police chief used a Polaroid camera to take four flash photographs of a reflective humanoid figure he encountered on a dark roadside. Those images became the centrepiece of the entire Greenhaw encounter. They are also the reason the case remains debated decades later.
 
 <img src="{{ "/assets/images/Greenhaw_encounter_1_a4bc62_metal_man_photos_4c6b29-Illustration-1-dark.svg" | relative_url }}" alt="Photos illustration 1" data-theme-src-dark="{{ "/assets/images/Greenhaw_encounter_1_a4bc62_metal_man_photos_4c6b29-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Greenhaw_encounter_1_a4bc62_metal_man_photos_4c6b29-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The photographs do prove a few narrow things. They show that Greenhaw photographed a humanoid-looking figure at night and that the figure appeared highly reflective under flash illumination. They also suggest the encounter was not invented entirely after the fact. But the images do not prove the figure was extraterrestrial, mechanical, non-human, or even especially unusual in physical terms. The core dispute is not whether the photographs exist, but what kind of object or person they actually depict. Critics argue the images are fully compatible with a human in a reflective costume, while believers point to the circumstances of the encounter and Greenhaw’s behaviour as reasons not to dismiss them outright. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPfalkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
+The photographs do prove a few narrow things. They show that Greenhaw photographed a humanoid-looking figure at night and that the figure appeared highly reflective under flash illumination. They also suggest the encounter was not invented entirely after the fact. But the images do not prove the figure was extraterrestrial, mechanical, non-human, or even especially unusual in physical terms. The core dispute is not whether the photographs exist, but what kind of object or person they actually depict. Critics argue the images are fully compatible with a human in a reflective costume, while believers point to the circumstances of the encounter and Greenhaw’s behaviour as reasons not to dismiss them outright. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
 
 ## What the Four Polaroids Actually Show
 
-The surviving reproductions of the photographs are grainy, high-contrast night images taken with flash photography. In most versions circulated publicly, the figure appears humanoid, upright and reflective, with little visible detail beyond a bright metallic-looking surface. The photographs do not show a spacecraft, unusual light source, or surrounding physical disturbance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPfalkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
+The surviving reproductions of the photographs are grainy, high-contrast night images taken with flash photography. In most versions circulated publicly, the figure appears humanoid, upright and reflective, with little visible detail beyond a bright metallic-looking surface. The photographs do not show a spacecraft, unusual light source, or surrounding physical disturbance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
 
 Greenhaw described the figure as more than six feet tall and covered in a smooth, bright material “like rubbing mercury on nickel”. He also said the head and neck seemed merged together and that the figure moved in a jerky or spring-like fashion. Those details are often projected back onto the photographs by later retellings, but the images themselves do not clearly display most of them. The “robotic” appearance is largely interpretive rather than visually undeniable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://strangeco.blogspot.com/2025/01/jeff-and-metal-man.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: strangeco.blogspot.com">[strangeco.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">strangeco.blogspot.com</span><span class="citation-popover-title">jeff and metal man</span><span class="citation-popover-snippet">Jeff and the Metal Man13 Jan 2025 — I don&#x27;t believe it was aluminum foil” It moved in an odd, robotic manner that reminded Jeff of someth...</span></span></span>
 
 The four images mainly establish three points:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -266,7 +264,6 @@ The four images mainly establish three points:
 </div>
 
 They do not establish:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -280,7 +277,6 @@ They do not establish:
 
 This distinction matters because many retellings quietly transform the photographs from “evidence that something was there” into “evidence of a non-human entity”. The photographs themselves do not make that leap.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/utFe5EWj8FA" title="The Falkville Metal Man — one quiet night, one strange photograph" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=utFe5EWj8FA" target="_blank" rel="noopener noreferrer">The Falkville Metal Man — one quiet night, one strange photograph</a></p><p class="youtube-embed-meta">Channel: Richard Barron &middot; Views: 225 &middot; Uploaded: December 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=utFe5EWj8FA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=utFe5EWj8FA">Open on YouTube</a></p></div></div></div>
 
 ## Why Night Flash Images Are Easy to Overread
@@ -291,9 +287,9 @@ That matters because the figure’s apparent strangeness depends heavily on refl
 
 The photographs also lack environmental reference points. There are no clear objects beside the figure that firmly establish scale or distance. A smaller person closer to the camera can appear larger and more imposing. Likewise, the darkness beyond the flash range removes contextual clues that might otherwise make the figure seem ordinary.
 
-Sceptical investigators have repeatedly noted that the photographs are compatible with a prank involving a reflective suit. NICAP’s later archive summary concluded the incident was “most assuredly” a hoax, though possibly a hoax played on Greenhaw rather than perpetrated by him. The same archive specifically describes the figure as appearing to be “a human form in a silver suit”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPfalkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
+Sceptical investigators have repeatedly noted that the photographs are compatible with a prank involving a reflective suit. NICAP’s later archive summary concluded the incident was “most assuredly” a hoax, though possibly a hoax played on Greenhaw rather than perpetrated by him. The same archive specifically describes the figure as appearing to be “a human form in a silver suit”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
 
-Some later summaries mention suggestions ranging from aluminium foil to an aluminised fire-protection suit. None of these explanations has been conclusively demonstrated, but they remain plausible because the photographs do not contain enough technical detail to rule them out. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Alabama_Metal_Man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[unsolvedmysteries.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Alabama Metal Man | Unsolved Mysteries Wiki</span><span class="citation-popover-snippet">However, the alternate possibility is that he was the...Read more...</span></span></span>
+Some later summaries mention suggestions ranging from aluminium foil to an aluminised fire-protection suit. None of these explanations has been conclusively demonstrated, but they remain plausible because the photographs do not contain enough technical detail to rule them out. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Alabama_Metal_Man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[unsolvedmysteries.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Alabama Metal Man &#124; Unsolved Mysteries Wiki</span><span class="citation-popover-snippet">However, the alternate possibility is that he was the...Read more...</span></span></span>
 
 ## What the Photos Cannot Demonstrate
 
@@ -301,12 +297,10 @@ One of the most persistent misunderstandings about the Falkville case is the ass
 
 The Metal Man images cannot independently verify Greenhaw’s most dramatic claims:
 
+<img src="{{ "/assets/images/Greenhaw_encounter_1_a4bc62_metal_man_photos_4c6b29-Illustration-2-dark.svg" | relative_url }}" alt="Photos illustration 2" data-theme-src-dark="{{ "/assets/images/Greenhaw_encounter_1_a4bc62_metal_man_photos_4c6b29-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Greenhaw_encounter_1_a4bc62_metal_man_photos_4c6b29-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Speed and movement
 
 Greenhaw said the figure moved faster than he could pursue in his vehicle and appeared to run with a spring-like gait. The photographs provide no evidence of this. They are static images with no motion sequence capable of demonstrating extraordinary movement. The claim rests entirely on testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">Before he took the photos, he did speak...Read more...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9EDCm-mRAVA" title="Metal Man of Alabama - Extraterrestrial, Cryptid, or Hoax? Aliens and UFOs in Falkville, AL?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9EDCm-mRAVA" target="_blank" rel="noopener noreferrer">Metal Man of Alabama - Extraterrestrial, Cryptid, or Hoax? Aliens and UFOs in Falkville, AL?</a></p><p class="youtube-embed-meta">Channel: Steven Is Here &middot; Views: 4.8K &middot; Uploaded: February 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9EDCm-mRAVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9EDCm-mRAVA">Open on YouTube</a></p></div></div></div>
 
 ### Non-human anatomy
 
@@ -316,20 +310,23 @@ The photographs do not clearly show facial structure, skin texture, eyes, joints
 
 No spacecraft appears in the photographs. No radiation traces, landing marks, biological residue or corroborating instrument readings were documented publicly. Even if the photographs are authentic depictions of a real encounter, they do not identify the subject’s origin.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9EDCm-mRAVA" title="Metal Man of Alabama - Extraterrestrial, Cryptid, or Hoax? Aliens and UFOs in Falkville, AL?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9EDCm-mRAVA" target="_blank" rel="noopener noreferrer">Metal Man of Alabama - Extraterrestrial, Cryptid, or Hoax? Aliens and UFOs in Falkville, AL?</a></p><p class="youtube-embed-meta">Channel: Steven Is Here &middot; Views: 4.8K &middot; Uploaded: February 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9EDCm-mRAVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9EDCm-mRAVA">Open on YouTube</a></p></div></div></div>
+
 ### Mechanical or robotic nature
 
 The “robotic” interpretation depends heavily on Greenhaw’s account of movement and appearance. The photographs alone do not prove a machine, robot or advanced suit. Viewers often perceive a robot-like quality because the reflective surface obscures normal body contours.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cGYG-FS32VM" title="The Mystery of The Metal Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cGYG-FS32VM" target="_blank" rel="noopener noreferrer">The Mystery of The Metal Man</a></p><p class="youtube-embed-meta">Channel: This Paranormal Life &middot; Views: 6.1K &middot; Uploaded: February 2025 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cGYG-FS32VM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cGYG-FS32VM">Open on YouTube</a></p></div></div></div>
 
 ## Chain of Custody and Missing Technical Analysis
 
 The case’s evidential weaknesses become more serious when the handling of the photographs is examined. Unlike modern digital image investigations, the Metal Man case never produced a widely available technical forensic report with reproducible analysis.
 
-Some accounts state that investigators associated with UFO organisations examined the photographs and found no evidence of darkroom tampering. That is a limited conclusion. A photograph can be untampered and still depict a staged event. “Not faked photographically” is not the same as “not a hoax”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Alabama_Metal_Man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[unsolvedmysteries.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Alabama Metal Man | Unsolved Mysteries Wiki</span><span class="citation-popover-snippet">However, the alternate possibility is that he was the...Read more...</span></span></span>
+Some accounts state that investigators associated with UFO organisations examined the photographs and found no evidence of darkroom tampering. That is a limited conclusion. A photograph can be untampered and still depict a staged event. “Not faked photographically” is not the same as “not a hoax”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Alabama_Metal_Man" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[unsolvedmysteries.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Alabama Metal Man &#124; Unsolved Mysteries Wiki</span><span class="citation-popover-snippet">However, the alternate possibility is that he was the...Read more...</span></span></span>
 
 The original Polaroids themselves became another point of uncertainty. Greenhaw later claimed the photographs were stolen during a burglary roughly a decade after the incident. He also reported missing firearms from the same break-in. Because the originals disappeared, later analysis has depended largely on copies and reproductions of uncertain quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">Before he took the photos, he did speak...Read more...</span></span></span>
 
 That missing chain of custody creates several long-term problems:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -343,58 +340,98 @@ That missing chain of custody creates several long-term problems:
 
 This is why the case remains frozen in ambiguity. The photographs are famous enough to keep the encounter alive, but not robust enough to settle it.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cGYG-FS32VM" title="The Mystery of The Metal Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cGYG-FS32VM" target="_blank" rel="noopener noreferrer">The Mystery of The Metal Man</a></p><p class="youtube-embed-meta">Channel: This Paranormal Life &middot; Views: 6.1K &middot; Uploaded: February 2025 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cGYG-FS32VM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cGYG-FS32VM">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Greenhaw_encounter_1_a4bc62_metal_man_photos_4c6b29-Illustration-3-dark.svg" | relative_url }}" alt="Photos illustration 3" data-theme-src-dark="{{ "/assets/images/Greenhaw_encounter_1_a4bc62_metal_man_photos_4c6b29-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Greenhaw_encounter_1_a4bc62_metal_man_photos_4c6b29-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Images Still Matter
 
-Even sceptics usually concede that the Falkville photographs are unusual within the broader landscape of 1970s UFO reports. Most humanoid encounter stories rely entirely on testimony. Greenhaw at least produced contemporaneous images tied to a named witness with law-enforcement status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPfalkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
+Even sceptics usually concede that the Falkville photographs are unusual within the broader landscape of 1970s UFO reports. Most humanoid encounter stories rely entirely on testimony. Greenhaw at least produced contemporaneous images tied to a named witness with law-enforcement status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span>
 
 That does not make the photographs conclusive, but it explains their cultural staying power. The pictures create a stronger emotional impression than a written statement alone. They also capture a particular moment in the 1973 UFO wave, when public fascination with humanoid encounters, robots and extraterrestrial imagery was unusually high.
 
 The images are therefore important less because they prove alien contact and more because they demonstrate how ambiguous visual evidence can sustain a mystery for decades. Believers see a metallic being behaving unlike a human. Sceptics see a reflective costume photographed under ideal conditions for confusion. The photographs themselves never decisively settle the argument.
 
-The strongest evidence-based conclusion is narrower and less dramatic: the Polaroids probably document a real figure encountered by Greenhaw that night, but they do not establish what the figure actually was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPfalkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">Before he took the photos, he did speak...Read more...</span></span></span>
+The strongest evidence-based conclusion is narrower and less dramatic: the Polaroids probably document a real figure encountered by Greenhaw that night, but they do not establish what the figure actually was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cullmantribune.com">[The Cullman Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cullmantribune.com</span><span class="citation-popover-title">do you believe in the metal man</span><span class="citation-popover-snippet">Before he took the photos, he did speak...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Do the Metal Man Photos Prove Anything?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Do the Metal Man Photos Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Falkville Metal Man guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Falkville+Metal+Man+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Reproduces the classic case data detailing the highly reflective humanoid image surface captured on the dark roadside.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Jeff Greenhaw guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Jeff+Greenhaw+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches readers how a standard human in a reflective foil costume looks identical to the Falkville photographic trail.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Night Photography guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Night+Photography+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Provides structural methodologies to help readers distinguish between the proven existence of a Polaroid frame vs. proof of an alien.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Details why the lack of independent scale context, technical negatives, or physical landing traces undermines image validation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -431,15 +468,15 @@ The strongest evidence-based conclusion is narrower and less dramatic: the Polar
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/12f46aa57a03b419cd19.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -447,15 +484,15 @@ The strongest evidence-based conclusion is narrower and less dramatic: the Polar
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/bd6934eaba82fb5a9f41.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -463,15 +500,15 @@ The strongest evidence-based conclusion is narrower and less dramatic: the Polar
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/4c3880f38b00ff87477b.jpg' | relative_url }}" alt="Listing image for UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,15 +516,15 @@ The strongest evidence-based conclusion is narrower and less dramatic: the Polar
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Antonia Ellis 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/2847c8ac5f521e77be42.jpg' | relative_url }}" alt="Listing image for UFO (TV) Antonia Ellis 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Antonia Ellis 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,7 +532,7 @@ The strongest evidence-based conclusion is narrower and less dramatic: the Polar
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="photos-86a63a-do-the-metal-man-photos-prove-anything-greenhaw-encounter-1973-ufo-photo-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -710,89 +747,89 @@ The strongest evidence-based conclusion is narrower and less dramatic: the Polar
 
 1. <a id="endnote-1"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/falkville731017dir.htm](https://www.nicap.org/falkville731017dir.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPfalkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</p></details>
+   Link: <a href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/falkville731017dir.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>falkville oct 17, 1973 GreenhawAlthough this may not have been a hoax BY Greenhaw, it most assuredly was a hoax, possibly ON any pas...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: strangeco.blogspot.com  
    Title: jeff and metal man  
-   Link: [https://strangeco.blogspot.com/2025/01/jeff-and-metal-man.html](https://strangeco.blogspot.com/2025/01/jeff-and-metal-man.html)  
+   Link: <a href="https://strangeco.blogspot.com/2025/01/jeff-and-metal-man.html" target="_blank" rel="noopener noreferrer nofollow">https://strangeco.blogspot.com/2025/01/jeff-and-metal-man.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jeff and the Metal Man13 Jan 2025 — I don&#x27;t believe it was aluminum foil” It moved in an odd, robotic manner that reminded Jeff of someth...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Alabama Metal Man | Unsolved Mysteries Wiki  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Alabama_Metal_Man](https://unsolvedmysteries.fandom.com/wiki/Alabama_Metal_Man)  
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Alabama_Metal_Man" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Alabama_Metal_Man</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, the alternate possibility is that he was the...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: cryptidz.fandom.com  
    Title: Metal Man  
-   Link: [https://cryptidz.fandom.com/wiki/Metal_Man](https://cryptidz.fandom.com/wiki/Metal_Man)  
+   Link: <a href="https://cryptidz.fandom.com/wiki/Metal_Man" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Metal_Man</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Man | Cryptid Wiki - FandomThe &quot;tinfoil&quot; alien was clad in a suit fabricated from or similar to thick aluminum foil, intensely bright and...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cullmantribune.com  
    Title: do you believe in the metal man  
-   Link: [https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/](https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/)  
+   Link: <a href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow">https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before he took the photos, he did speak...Read more...</p></details>
 
 ### Additional References
 
 6. <a id="endnote-6"></a>
    Source: chestercountyindependent.com  
-   Link: [https://chestercountyindependent.com/stories/ramblins-from-the-hills-hollers-tin-foil-alien-photos-and-story-had-staying-power%2C3177](https://chestercountyindependent.com/stories/ramblins-from-the-hills-hollers-tin-foil-alien-photos-and-story-had-staying-power%2C3177)  
+   Link: <a href="https://chestercountyindependent.com/stories/ramblins-from-the-hills-hollers-tin-foil-alien-photos-and-story-had-staying-power%2C3177" target="_blank" rel="noopener noreferrer nofollow">https://chestercountyindependent.com/stories/ramblins-from-the-hills-hollers-tin-foil-alien-photos-and-story-had-staying-power%2C3177</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramblins&#x27; from the Hills &amp; Hollers: Tin Foil Alien photos...16 Aug 2019 — Jeff Greenhaw was the photographer and sole person to encounte...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: urbanlegendsmysteryandmyth.com  
    Title: falkville metal man what did alabamas police chief photograph in 1973  
-   Link: [https://urbanlegendsmysteryandmyth.com/2026/05/falkville-metal-man-what-did-alabamas-police-chief-photograph-in-1973.html](https://urbanlegendsmysteryandmyth.com/2026/05/falkville-metal-man-what-did-alabamas-police-chief-photograph-in-1973.html)  
+   Link: <a href="https://urbanlegendsmysteryandmyth.com/2026/05/falkville-metal-man-what-did-alabamas-police-chief-photograph-in-1973.html" target="_blank" rel="noopener noreferrer nofollow">https://urbanlegendsmysteryandmyth.com/2026/05/falkville-metal-man-what-did-alabamas-police-chief-photograph-in-1973.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falkville Metal Man: What Did Alabama&#x27;s Police Chief...10 May 2026 — In 1973, after several UFO reports, an Alabama police chief photogr...</p></details>
    Published: May 2026  
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: These images were taken by police chief Jeff Greenhaw  
-   Link: [https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/](https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/)  
+   Link: <a href="https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CryptozoologyFacts/posts/these-images-were-taken-by-police-chief-jeff-greenhaw-the-entity-has-been-called/1357301373072701/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The “Metal Man of Falkville” became Alabama&#x27;s own X-Files mystery. Some said it was an alien, others a prank, but the photos still creep...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: 51st anniversary of the Falkville Metal Man photos  
-   Link: [https://www.reddit.com/r/aliens/comments/1g5wbgc/51st_anniversary_of_the_falkville_metal_man/](https://www.reddit.com/r/aliens/comments/1g5wbgc/51st_anniversary_of_the_falkville_metal_man/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1g5wbgc/51st_anniversary_of_the_falkville_metal_man/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1g5wbgc/51st_anniversary_of_the_falkville_metal_man/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is...Upon arriving at the scene, Greenhaw encountered a humanoid figure clad in a reflective, metallic suit. He managed to take sev...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/e8aq57/jeff_greenhaw_the_officer_who_snapped_a_photo_of/](https://www.reddit.com/r/HighStrangeness/comments/e8aq57/jeff_greenhaw_the_officer_who_snapped_a_photo_of/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/e8aq57/jeff_greenhaw_the_officer_who_snapped_a_photo_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/e8aq57/jeff_greenhaw_the_officer_who_snapped_a_photo_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he realised that the creature was wearing a metallic body-suit...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: metacast.app  
    Title: The Falkville Metal Man  
-   Link: [https://metacast.app/podcast/mostly-true-alien-stories/jM1Brt2V/the-falkville-metal-man---alabama-s-strangest-alien-encounter/ppwB9dkV](https://metacast.app/podcast/mostly-true-alien-stories/jM1Brt2V/the-falkville-metal-man---alabama-s-strangest-alien-encounter/ppwB9dkV)  
+   Link: <a href="https://metacast.app/podcast/mostly-true-alien-stories/jM1Brt2V/the-falkville-metal-man---alabama-s-strangest-alien-encounter/ppwB9dkV" target="_blank" rel="noopener noreferrer nofollow">https://metacast.app/podcast/mostly-true-alien-stories/jM1Brt2V/the-falkville-metal-man---alabama-s-strangest-alien-encounter/ppwB9dkV</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alabama&#x27;s Strangest Alien...16 Apr 2025 — Neal and Andrew walk through the chilling details of that eerie night, analyze the infamous Po...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/episode/0iM3U7GTIAzFDP4bURg9xI](https://open.spotify.com/episode/0iM3U7GTIAzFDP4bURg9xI)  
+   Link: <a href="https://open.spotify.com/episode/0iM3U7GTIAzFDP4bURg9xI" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/0iM3U7GTIAzFDP4bURg9xI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com#18: Falkville Metal Man - The Cryptonaut PodcastIn October of 1973 the police chief of Falkville, Alabama Jeff Greenhaw inves...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: podscripts.co  
    Title: This Paranormal Life  
-   Link: [https://podscripts.co/podcasts/this-paranormal-life/407-the-mystery-of-the-metal-man](https://podscripts.co/podcasts/this-paranormal-life/407-the-mystery-of-the-metal-man)  
+   Link: <a href="https://podscripts.co/podcasts/this-paranormal-life/407-the-mystery-of-the-metal-man" target="_blank" rel="noopener noreferrer nofollow">https://podscripts.co/podcasts/this-paranormal-life/407-the-mystery-of-the-metal-man</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#407 The Mystery of The Metal Man...25 Feb 2025 — In 1973, a young Falkville Chief of Police, Jeff Greenhaw was called out to investigat...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Falkville Metal Man — one quiet night, one strange photograph  
-   Link: [https://www.youtube.com/watch?v=utFe5EWj8FA](https://www.youtube.com/watch?v=utFe5EWj8FA)  
+   Link: <a href="https://www.youtube.com/watch?v=utFe5EWj8FA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=utFe5EWj8FA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Metal Man of Alabama - Extraterrestrial, Cryptid, or Hoax? Aliens and UFOs in Falkville, AL?...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Metal Man of Alabama  
-   Link: [https://www.youtube.com/watch?v=9EDCm-mRAVA](https://www.youtube.com/watch?v=9EDCm-mRAVA)  
+   Link: <a href="https://www.youtube.com/watch?v=9EDCm-mRAVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9EDCm-mRAVA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alabama Metal Man- A Classic Alien Encounter Case...</p></details>

@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /flight-19-incident-1945/
 nav_short_title: Radio Trail
 title: How Did Flight 19 Get Lost?
-title_full: How Did Flight 19 Get Lost? | Flight 19
+title_full: How Did Flight 19 Get Lost?
 display_title_short: Radio Trail
 display_title: Radio Trail
 heading_title: How Did Flight 19 Get Lost?
@@ -239,7 +239,7 @@ next_link:
   permalink: /rescue-plane/
   short_title: Rescue Plane
   heading_title: What Happened to the Rescue Plane?
-date: '2026-06-08 23:27:21 '
+date: '2026-06-11 13:16:45 '
 header:
   og_image: /assets/images/Flight_19_incident_1_5cc889_radio_navigation_bre_fdefd8-Illustration-1-social.jpg
   preview_image: /assets/images/Flight_19_incident_1_5cc889_radio_navigation_bre_fdefd8-Illustration-1.webp
@@ -248,8 +248,7 @@ image: /assets/images/Flight_19_incident_1_5cc889_radio_navigation_bre_fdefd8-Il
 
 ## Introduction
 
-Flight 19’s disappearance on 5 December 1945 became famous because five U.S. Navy aircraft vanished without confirmed wreckage, but the most important evidence is not supernatural. It is the radio traffic. The surviving transmissions reveal a prolonged navigation failure in which Lieutenant Charles C. Taylor, leading a routine overwater training exercise, became uncertain of his position, mistrusted his compasses, argued over headings with pilots in his own formation, and struggled to maintain coherent radio contact as daylight faded and weather worsened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flight_19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 19</span><span class="citation-popover-snippet">Flight 19</span></span></span> Ibiblio The radio trail matters because it turns the incident from a sudden mystery into a visible process. Instead of a clean disappearance <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[ibiblio.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">IbiblioFindings of the Board of Investigation Into the Loss of Flight...Board of Investigation Into 5 missing TBM airplanes and one PBM...</span></span></span>, the record shows confusion building step by step: mistaken land identification, disputed assumptions about location, fading signals, missed opportunities to take radio bearings, and repeated heading changes that may have carried the aircraft farther into the Atlantic. Later Bermuda Triangle retellings often compressed this into dramatic fragments about “strange skies” or failed instruments, but the surviving evidence points far more strongly towards navigational disorientation and command breakdown under pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flight_19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 19</span><span class="citation-popover-snippet">Flight 19</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-snippet">navy.milH-057-4: The Disappearance of Flight 197 Jan 2021 — Fragmentary radio communications indicated compass failure and... The instru...</span></span></span>
-
+Flight 19’s disappearance on 5 December 1945 became famous because five U.S. Navy aircraft vanished without confirmed wreckage, but the most important evidence is not supernatural. It is the radio traffic. The surviving transmissions reveal a prolonged navigation failure in which Lieutenant Charles C. Taylor, leading a routine overwater training exercise, became uncertain of his position, mistrusted his compasses, argued over headings with pilots in his own formation, and struggled to maintain coherent radio contact as daylight faded and weather worsened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flight_19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 19</span><span class="citation-popover-snippet">Flight 19</span></span></span> Ibiblio The radio trail matters because it turns the incident from a sudden mystery into a visible process. Instead of a clean disappearance <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[ibiblio.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Findings of the Board of Investigation Into the Loss of Flight...Board of Investigation Into 5 missing TBM airplanes and one PBM...</span></span></span>, the record shows confusion building step by step: mistaken land identification, disputed assumptions about location, fading signals, missed opportunities to take radio bearings, and repeated heading changes that may have carried the aircraft farther into the Atlantic. Later Bermuda Triangle retellings often compressed this into dramatic fragments about “strange skies” or failed instruments, but the surviving evidence points far more strongly towards navigational disorientation and command breakdown under pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flight_19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 19</span><span class="citation-popover-snippet">Flight 19</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-snippet">navy.milH-057-4: The Disappearance of Flight 197 Jan 2021 — Fragmentary radio communications indicated compass failure and... The instru...</span></span></span>
 
 <img src="{{ "/assets/images/Flight_19_incident_1_5cc889_radio_navigation_bre_fdefd8-Illustration-1-dark.svg" | relative_url }}" alt="Radio Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Flight_19_incident_1_5cc889_radio_navigation_bre_fdefd8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Flight_19_incident_1_5cc889_radio_navigation_bre_fdefd8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Did the Flight Begin to Go Wrong?
@@ -266,7 +265,7 @@ This was the turning point. In overwater navigation during the 1940s, pilots rel
 
 ## Taylor’s Mistaken Location Changed Everything
 
-The central problem in the Flight 19 radio record is that Taylor appears to have believed the formation was somewhere it was not. According to the Navy investigation, he thought the aircraft had crossed the Florida Keys and were over the Gulf of Mexico. In reality, investigators concluded the flight was probably east or north-east of the Bahamas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flight_19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 19</span><span class="citation-popover-snippet">Flight 19</span></span></span> Ibiblio That mistaken assumption transformed the meaning of every compass heading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[ibiblio.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">IbiblioFindings of the Board of Investigation Into the Loss of Flight...Board of Investigation Into 5 missing TBM airplanes and one PBM...</span></span></span>
+The central problem in the Flight 19 radio record is that Taylor appears to have believed the formation was somewhere it was not. According to the Navy investigation, he thought the aircraft had crossed the Florida Keys and were over the Gulf of Mexico. In reality, investigators concluded the flight was probably east or north-east of the Bahamas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flight_19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 19</span><span class="citation-popover-snippet">Flight 19</span></span></span> Ibiblio That mistaken assumption transformed the meaning of every compass heading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[ibiblio.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Findings of the Board of Investigation Into the Loss of Flight...Board of Investigation Into 5 missing TBM airplanes and one PBM...</span></span></span>
 
 If Taylor truly believed he was south-west of Florida near the Keys, then turning north-east could seem logical because it would theoretically bring the formation back across the peninsula. But if the aircraft were actually east of Florida over the Atlantic, the same heading would carry them farther out to sea.
 
@@ -277,7 +276,6 @@ This explains one of the most famous moments in the radio transcripts. A frustra
 The comment is significant because it suggests at least some subordinate pilots believed they were east of Florida and understood that a westward heading would eventually reach land. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flight_19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 19</span><span class="citation-popover-snippet">Flight 19</span></span></span>
 
 The Navy’s later reconstruction strongly supported that interpretation. Investigators concluded Taylor repeatedly misidentified Bahamian islands as the Florida Keys and therefore rejected the simplest recovery procedure known to local naval aviators: fly due west until landfall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flight_19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 19</span><span class="citation-popover-snippet">Flight 19</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hJ7J5wB93Bs" title="Flight 19: The Disappearance That Started the Bermuda Triangle Legend | Forgotten History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hJ7J5wB93Bs" target="_blank" rel="noopener noreferrer">Flight 19: The Disappearance That Started the Bermuda Triangle Legend | Forgotten History</a></p><p class="youtube-embed-meta">Channel: FORGOTTEN HISTORY &middot; Views: 23.7K &middot; Uploaded: August 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hJ7J5wB93Bs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hJ7J5wB93Bs">Open on YouTube</a></p></div></div></div>
 
@@ -305,7 +303,6 @@ Investigators later argued that if the formation had continued steadily west, th
 
 The confusion also grew because sunset approached quickly. Visibility worsened, cloud layers increased, and roughening seas reduced the chances of visually identifying coastlines or islands. A pilot already uncertain of position could easily begin mistrusting both instruments and external visual cues.
 
-
 <img src="{{ "/assets/images/Flight_19_incident_1_5cc889_radio_navigation_bre_fdefd8-Illustration-2-dark.svg" | relative_url }}" alt="Radio Trail illustration 2" data-theme-src-dark="{{ "/assets/images/Flight_19_incident_1_5cc889_radio_navigation_bre_fdefd8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Flight_19_incident_1_5cc889_radio_navigation_bre_fdefd8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Radio Bearings Could Not Save the Flight
 
@@ -323,7 +320,6 @@ Remaining on the original frequency created interference and reduced the ability
 
 The signals themselves also became progressively weaker. That suggested the aircraft were moving farther offshore and possibly flying at low altitude beneath unstable weather conditions. By the early evening, transmissions were intermittent and often difficult to understand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/the-mysterious-disappearance-of-flight-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY TV Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">the mysterious disappearance of flight 19</span><span class="citation-popover-snippet">HISTORY TV NederlandThe Mysterious Disappearance of Flight 194 Dec 2015 — Flight 19&#x27;s radio transmissions soon became increasingly faint...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RXBA0wLokug" title="Lost Cargo: The Mystery of Flight 19" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RXBA0wLokug" target="_blank" rel="noopener noreferrer">Lost Cargo: The Mystery of Flight 19</a></p><p class="youtube-embed-meta">Channel: FreightWaves &middot; Views: 1.1K &middot; Uploaded: September 2023 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RXBA0wLokug" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RXBA0wLokug">Open on YouTube</a></p></div></div></div>
 
 ### Bearings Were Slow and Imprecise
@@ -340,7 +336,6 @@ The Navy investigation and later reconstructions consistently describe deteriora
 
 In those conditions, even experienced aviators could become spatially disoriented. The radio messages increasingly sound less like a crew confronting a single catastrophic event and more like exhausted pilots trapped in a worsening navigation spiral.
 
-
 <img src="{{ "/assets/images/Flight_19_incident_1_5cc889_radio_navigation_bre_fdefd8-Illustration-3-dark.svg" | relative_url }}" alt="Radio Trail illustration 3" data-theme-src-dark="{{ "/assets/images/Flight_19_incident_1_5cc889_radio_navigation_bre_fdefd8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Flight_19_incident_1_5cc889_radio_navigation_bre_fdefd8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Final Messages and Fuel Crisis
 
@@ -356,15 +351,13 @@ The phrase also reveals the practical logic still operating within the formation
 
 After that, the radio signals faded into static. No confirmed transmission from Flight 19 was ever received again. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/the-mysterious-disappearance-of-flight-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY TV Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">the mysterious disappearance of flight 19</span><span class="citation-popover-snippet">HISTORY TV NederlandThe Mysterious Disappearance of Flight 194 Dec 2015 — Flight 19&#x27;s radio transmissions soon became increasingly faint...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qOj5PJMi8Vs" title="A Brief History of: Flight 19" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qOj5PJMi8Vs" target="_blank" rel="noopener noreferrer">A Brief History of: Flight 19</a></p><p class="youtube-embed-meta">Channel: Plainly Difficult &middot; Views: 103.2K &middot; Uploaded: June 2017 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qOj5PJMi8Vs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qOj5PJMi8Vs">Open on YouTube</a></p></div></div></div>
 
 ## What the Radio Record Really Suggests
 
-The surviving communications are important precisely because they are incomplete. They do not provide a perfect minute-by-minute map of Flight 19’s final hours, and some quoted transmissions survive only through testimony or partial records. That ambiguity helped later myth-making. Yet the broad pattern is remarkably consistent across Navy documents, later naval histories, and modern reconstructions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">IbiblioFindings of the Board of Investigation Into the Loss of Flight...Board of Investigation Into 5 missing TBM airplanes and one PBM...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-snippet">navy.milH-057-4: The Disappearance of Flight 197 Jan 2021 — Fragmentary radio communications indicated compass failure and... The instru...</span></span></span>
+The surviving communications are important precisely because they are incomplete. They do not provide a perfect minute-by-minute map of Flight 19’s final hours, and some quoted transmissions survive only through testimony or partial records. That ambiguity helped later myth-making. Yet the broad pattern is remarkably consistent across Navy documents, later naval histories, and modern reconstructions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-snippet">Findings of the Board of Investigation Into the Loss of Flight...Board of Investigation Into 5 missing TBM airplanes and one PBM...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-snippet">navy.milH-057-4: The Disappearance of Flight 197 Jan 2021 — Fragmentary radio communications indicated compass failure and... The instru...</span></span></span>
 
 The evidence points towards several interacting failures rather than one impossible event:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -380,44 +373,86 @@ The evidence points towards several interacting failures rather than one impossi
 This is why the radio trail remains the core of the Flight 19 case. It transforms the disappearance from a sudden supernatural mystery into a documented navigation breakdown unfolding in real time. The most haunting aspect is not silence, but the fact that the crews kept talking for hours while becoming steadily more lost.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Did Flight 19 Get Lost?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Did Flight 19 Get Lost?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Gulf of Mexico guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Gulf+of+Mexico+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Deconstructs why popular triangle lore systematically excises the radio transcripts to manufacture an illusion of an instantaneous vanish...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">TBM Avenger guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=TBM+Avenger+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Field+Guide+to+Fly+Fishing+by+Dennis+Bitton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Field Guide to Fly Fishing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TudBvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Field Guide to Fly Fishing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Field+Guide+to+Fly+Fishing+by+Dennis+Bitton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Field Guide to Fly Fishing">A Field Guide to Fly Fishing</a>
+        </h4>
+        <p class="fr-book-author">By Dennis Bitton</p>
+        
+        <p class="fr-book-desc">Tracks the entire flight corridor sequence, from the Hens and Chickens Shoals bombing run to the fateful, mistaken land identification logs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Field+Guide+to+Fly+Fishing+by+Dennis+Bitton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Gulf of Mexico books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Gulf+of+Mexico+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Bermuda+Triangle+Mystery+-+Solved+Lawrence+David+Kusche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bermuda Triangle Mystery - Solved on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+Mystery+-+Solved+Lawrence+David+Kusche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bermuda Triangle Mystery - Solved">The Bermuda Triangle Mystery - Solved</a>
+        </h4>
+        <p class="fr-book-author">By Lawrence David Kusche</p>
+        
+        <p class="fr-book-desc">Examines how fading radio signals, missed direction-finding bearings, and worsening weather forced the planes out into the open Atlantic.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+Mystery+-+Solved+Lawrence+David+Kusche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Planes%2C+Names+%26+Dames%3A+1940-1945+by+Larry+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Planes, Names &amp; Dames: 1940-1945 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Planes%2C+Names+%26+Dames%3A+1940-1945+by+Larry+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Planes, Names &amp; Dames: 1940-1945">Planes, Names &amp; Dames: 1940-1945</a>
+        </h4>
+        <p class="fr-book-author">By Larry Davis</p>
+        
+        <p class="fr-book-desc">Breaks down the mechanical operation of the TBM Avenger&#x27;s instrumentation, highlighting how orientation errors multiply in heavy cloud la...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Planes%2C+Names+%26+Dames%3A+1940-1945+by+Larry+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Field+to+Fly+Fishing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Field to Fly Fishing books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Bermuda+Triangle+Mystery+Solved&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Bermuda Triangle Mystery Solved</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -454,15 +489,15 @@ This is why the radio trail remains the core of the Flight 19 case. It transform
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hasegawa Grumman TBF/TBM Avenger Eggplane Non-scale Model Aircraft Kit TH28-601"><img src="{{ '/assets/images/marketplace-covers/dd4319fd5be42d3fb448.jpg' | relative_url }}" alt="Listing image for Hasegawa Grumman TBF/TBM Avenger Eggplane Non-scale Model Aircraft Kit TH28-601" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer">Hasegawa Grumman TBF/TBM Avenger Eggplane Non-scale Model Aircraft Kit TH28-601</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for TBM Avenger model">Search <span data-ebay-domain-label>eBay.co.uk</span>: TBM Avenger model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -470,15 +505,15 @@ This is why the radio trail remains the core of the Flight 19 case. It transform
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy Grumman TBM-3 Avenger 1:48 Scale Model Kit USS Bunker Hill Pro Built"><img src="{{ '/assets/images/marketplace-covers/6d74a47a338fc6da1212.jpg' | relative_url }}" alt="Listing image for Academy Grumman TBM-3 Avenger 1:48 Scale Model Kit USS Bunker Hill Pro Built" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer">Academy Grumman TBM-3 Avenger 1:48 Scale Model Kit USS Bunker Hill Pro Built</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for TBM Avenger model">Search <span data-ebay-domain-label>eBay.co.uk</span>: TBM Avenger model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -486,31 +521,15 @@ This is why the radio trail remains the core of the Flight 19 case. It transform
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bravo Delta Models TBM Avenger Desk Model Aircraft RCN Fleet Air Arm Display"><img src="{{ '/assets/images/marketplace-covers/446d2a65ee4841da1674.jpg' | relative_url }}" alt="Listing image for Bravo Delta Models TBM Avenger Desk Model Aircraft RCN Fleet Air Arm Display" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer">Bravo Delta Models TBM Avenger Desk Model Aircraft RCN Fleet Air Arm Display</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for TBM Avenger model">Search <span data-ebay-domain-label>eBay.co.uk</span>: TBM Avenger model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,7 +537,7 @@ This is why the radio trail remains the core of the Flight 19 case. It transform
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=TBM+Avenger+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="TBM Avenger model" data-ebay-reference="radio-trail-how-did-flight-19-get-lost-flight-19-incident-1945-tbm-avenger-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -734,110 +753,110 @@ This is why the radio trail remains the core of the Flight 19 case. It transform
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Flight 19  
-   Link: [https://en.wikipedia.org/wiki/Flight_19](https://en.wikipedia.org/wiki/Flight_19)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flight_19" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_19</a>  
 
 2. <a id="endnote-2"></a>
    Source: ibiblio.org  
-   Link: [https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html](https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IbiblioFindings of the Board of Investigation Into the Loss of Flight...Board of Investigation Into 5 missing TBM airplanes and one PBM...</p></details>
+   Link: <a href="https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Findings of the Board of Investigation Into the Loss of Flight...Board of Investigation Into 5 missing TBM airplanes and one PBM...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: usni.org  
    Title: mysterious disappearance flight 19  
-   Link: [https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19](https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19)  
+   Link: <a href="https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval InstituteThe Mysterious Disappearance of Flight 19A radio message was intercepted from the flight at around 1600 hours, recording a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html](https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html)  
+   Link: <a href="https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milH-057-4: The Disappearance of Flight 197 Jan 2021 — Fragmentary radio communications indicated compass failure and... The instru...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: history.com  
    Title: the mysterious disappearance of flight 19  
-   Link: [https://www.history.com/articles/the-mysterious-disappearance-of-flight-19](https://www.history.com/articles/the-mysterious-disappearance-of-flight-19)  
+   Link: <a href="https://www.history.com/articles/the-mysterious-disappearance-of-flight-19" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/the-mysterious-disappearance-of-flight-19</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY TV NederlandThe Mysterious Disappearance of Flight 194 Dec 2015 — Flight 19&#x27;s radio transmissions soon became increasingly faint...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: history.com  
-   Link: [https://www.history.com/this-day-in-history/december-5/aircraft-squadron-lost-in-the-bermuda-triangle](https://www.history.com/this-day-in-history/december-5/aircraft-squadron-lost-in-the-bermuda-triangle)  
+   Link: <a href="https://www.history.com/this-day-in-history/december-5/aircraft-squadron-lost-in-the-bermuda-triangle" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/december-5/aircraft-squadron-lost-in-the-bermuda-triangle</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY TV NederlandAircraft squadron disappears in the Bermuda TriangleAfter two more hours of confused messages from the fliers, a dist...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/l/lost-patrol.html](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/l/lost-patrol.html)  
+   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/l/lost-patrol.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/l/lost-patrol.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval History and Heritage CommandLost Patrol - Naval History and Heritage Command - Navy.milThe following account is based on the offici...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/flight-19.html](https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/flight-19.html)  
+   Link: <a href="https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/flight-19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/disasters-and-phenomena/flight-19.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Loss of Flight 19 - Naval History and Heritage Command30 Jan 2024 — The Navy launched an investigation into the incident, but nothing con...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: fearoflanding.com  
    Title: flight 19 the point of no return  
-   Link: [https://fearoflanding.com/history/flight-19-the-point-of-no-return/](https://fearoflanding.com/history/flight-19-the-point-of-no-return/)  
+   Link: <a href="https://fearoflanding.com/history/flight-19-the-point-of-no-return/" target="_blank" rel="noopener noreferrer nofollow">https://fearoflanding.com/history/flight-19-the-point-of-no-return/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight 19: The Point of No Return7 Feb 2020 — At 18:04, Taylor was heard again on the radio. “Holding 270°, didn&#x27;t fly far enough east, w...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: historyhit.com  
    Title: the mysterious disappearance of flight 19  
-   Link: [https://www.historyhit.com/the-mysterious-disappearance-of-flight-19/](https://www.historyhit.com/the-mysterious-disappearance-of-flight-19/)  
+   Link: <a href="https://www.historyhit.com/the-mysterious-disappearance-of-flight-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyhit.com/the-mysterious-disappearance-of-flight-19/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Feb 2023 — Radio transmissions slowly fell silent, and Flight 19 eventually disappeared from radar.... Both of the compasses on Taylor...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/topics/earhart](https://www.archives.gov/news/topics/earhart)  
+   Link: <a href="https://www.archives.gov/news/topics/earhart" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/topics/earhart</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Relating to Amelia EarhartInclude among the records of the Air Officer, Hawaiian Department, the proceedings of a board of office...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nasflmuseum.com  
-   Link: [https://www.nasflmuseum.com/flight-19.html](https://www.nasflmuseum.com/flight-19.html)  
+   Link: <a href="https://www.nasflmuseum.com/flight-19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nasflmuseum.com/flight-19.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight 19 the Lost AvengersThis conversation was uncovered in the Board of Investigation records. The last transmission from Flight 19 to...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: journals.flvc.org  
-   Link: [https://journals.flvc.org/browardlegacy/article/download/77009/74536/](https://journals.flvc.org/browardlegacy/article/download/77009/74536/)  
+   Link: <a href="https://journals.flvc.org/browardlegacy/article/download/77009/74536/" target="_blank" rel="noopener noreferrer nofollow">https://journals.flvc.org/browardlegacy/article/download/77009/74536/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>flight 19by I JI — In fact, all that is really known comes from the transcripts of the planes&#x27; radio transmissions, and even these are no...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: militaryhistorynow.com  
-   Link: [https://militaryhistorynow.com/2023/12/03/the-disappearance-of-flight-19-shedding-light-on-the-mystery-of-the-missing-torpedo-bombers/](https://militaryhistorynow.com/2023/12/03/the-disappearance-of-flight-19-shedding-light-on-the-mystery-of-the-missing-torpedo-bombers/)  
+   Link: <a href="https://militaryhistorynow.com/2023/12/03/the-disappearance-of-flight-19-shedding-light-on-the-mystery-of-the-missing-torpedo-bombers/" target="_blank" rel="noopener noreferrer nofollow">https://militaryhistorynow.com/2023/12/03/the-disappearance-of-flight-19-shedding-light-on-the-mystery-of-the-missing-torpedo-bombers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disappearance of Flight 19 — Shedding Light on...3 Dec 2023 — The group of five Grumman TBF Avenger torpedo bombers that vanished du...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: historymeetsai on december 5 1945 flight 19 with five us navy avenger torpedo bo  
-   Link: [https://www.facebook.com/TimesofIndia/posts/historymeetsai-on-december-5-1945-flight-19-with-five-us-navy-avenger-torpedo-bo/975075337999987/](https://www.facebook.com/TimesofIndia/posts/historymeetsai-on-december-5-1945-flight-19-with-five-us-navy-avenger-torpedo-bo/975075337999987/)  
+   Link: <a href="https://www.facebook.com/TimesofIndia/posts/historymeetsai-on-december-5-1945-flight-19-with-five-us-navy-avenger-torpedo-bo/975075337999987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/posts/historymeetsai-on-december-5-1945-flight-19-with-five-us-navy-avenger-torpedo-bo/975075337999987/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On December 5, 1945, Flight 19, with five U.S. Navy...After two more hours of confused messages from the fliers, a distorted radio trans...</p></details>
    Published: December 5, 1945  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: the disappearance of flight 19 lost squadron of the bermuda triangle december 5  
-   Link: [https://www.facebook.com/lukerichardsonauthor/posts/the-disappearance-of-flight-19-lost-squadron-of-the-bermuda-triangle-december-5-/1364333469034859/](https://www.facebook.com/lukerichardsonauthor/posts/the-disappearance-of-flight-19-lost-squadron-of-the-bermuda-triangle-december-5-/1364333469034859/)  
+   Link: <a href="https://www.facebook.com/lukerichardsonauthor/posts/the-disappearance-of-flight-19-lost-squadron-of-the-bermuda-triangle-december-5-/1364333469034859/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lukerichardsonauthor/posts/the-disappearance-of-flight-19-lost-squadron-of-the-bermuda-triangle-december-5-/1364333469034859/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lost Squadron of the Bermuda Triangle December 5, 1945Flight 19&#x27;s radio transmissions soon became increasingly faint as it meandered out...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dannyechase.com  
-   Link: [https://dannyechase.com/blog/flight19/](https://dannyechase.com/blog/flight19/)  
+   Link: <a href="https://dannyechase.com/blog/flight19/" target="_blank" rel="noopener noreferrer nofollow">https://dannyechase.com/blog/flight19/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>So what went wrong? Here&#x27;s what we know: Flight 19 was led by US Navy Lieutenant Charles Carroll Taylor.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: e-telescope.gr  
    Title: Bermuda Triangle, Flight 19 Radio communications Can you read us?  
-   Link: [https://www.e-telescope.gr/images/41_articles_attachments/bermuda_f19_dialogues.pdf](https://www.e-telescope.gr/images/41_articles_attachments/bermuda_f19_dialogues.pdf)  
+   Link: <a href="https://www.e-telescope.gr/images/41_articles_attachments/bermuda_f19_dialogues.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.e-telescope.gr/images/41_articles_attachments/bermuda_f19_dialogues.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>16.25 FT28: Affirmative. We have just passed over small island. We have no other land in sight. Visibility is 10 to 12 miles. 16.26 FT28...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: thebermudian.com  
    Title: mysteries of the bermuda triangle the lost flight 19  
-   Link: [https://www.thebermudian.com/culture/our-bermuda/mysteries-of-the-bermuda-triangle-the-lost-flight-19/](https://www.thebermudian.com/culture/our-bermuda/mysteries-of-the-bermuda-triangle-the-lost-flight-19/)  
+   Link: <a href="https://www.thebermudian.com/culture/our-bermuda/mysteries-of-the-bermuda-triangle-the-lost-flight-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.thebermudian.com/culture/our-bermuda/mysteries-of-the-bermuda-triangle-the-lost-flight-19/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries of the Bermuda Triangle: The Lost Flight 19Jul 21, 2025 — The official Navy report listed “causes or reasons unknown,” though s...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: discoveryuk.com  
-   Link: [https://www.discoveryuk.com/mysteries/lost-in-the-bermuda-triangle-the-disappearance-of-flight-19/](https://www.discoveryuk.com/mysteries/lost-in-the-bermuda-triangle-the-disappearance-of-flight-19/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/lost-in-the-bermuda-triangle-the-disappearance-of-flight-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/lost-in-the-bermuda-triangle-the-disappearance-of-flight-19/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lost in the Bermuda Triangle: The Disappearance of Flight...18 Sept 2023 — Subsequent radio transmissions revealed the pilots were disor...</p></details>

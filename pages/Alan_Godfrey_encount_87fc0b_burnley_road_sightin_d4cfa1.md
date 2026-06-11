@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /alan-godfrey-encounter-1980/
 nav_short_title: Road Sighting
 title: How Strong Is the Burnley Road Sighting?
-title_full: How Strong Is the Burnley Road Sighting? | Godfrey Encounter
+title_full: How Strong Is the Burnley Road Sighting?
 display_title_short: Road Sighting
 display_title: Road Sighting
 heading_title: How Strong Is the Burnley Road Sighting?
@@ -239,7 +239,7 @@ next_link:
   permalink: /todmorden-link/
   short_title: Todmorden Link
   heading_title: Did Adamski's Death Change the UFO Story?
-date: '2026-06-08 23:28:44 '
+date: '2026-06-11 13:17:27 '
 header:
   og_image: /assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-1-social.jpg
   preview_image: /assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-1.webp
@@ -250,7 +250,6 @@ image: /assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Il
 
 The Burnley Road sighting is the core of the Alan Godfrey case. Everything that followed — the missing-time claims, [hypnosis]({{ 'hypnosis-e97dd3/' | relative_url }}) sessions, alleged abduction memories, and decades of speculation — depends on whether the original road encounter in Todmorden was accurately observed, correctly timed, and reliably documented. Unlike many UFO reports built around distant lights, Godfrey described a close-range object obstructing the road during a police patrol in the early hours of late November 1980. The strongest part of the case is therefore not the later alien narrative, but the immediate sequence of events: what he claimed to see, what he recorded at the time, what physical traces were allegedly noticed afterwards, and how consistent the chronology remained as the story spread. The problem is that several details became less stable over time, especially regarding timing, distances, and when certain observations were first documented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calderdalecompanion.co.uk/mmg222.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calderdalecompanion.co.uk">[Calderdale Companion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calderdalecompanion.co.uk</span><span class="citation-popover-snippet">Calderdale CompanionPC Alan GodfreyIn the early hours of 28th November 1980, PC Alan Godfrey was driving his patrol car at Todmorden, whe...</span><span class="citation-popover-meta">Published: November 1980</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calderdalelocalstudies.blog/post/alan-godfrey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calderdalelocalstudies.blog">[Calderdale Local Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calderdalelocalstudies.blog</span><span class="citation-popover-title">alan godfrey</span><span class="citation-popover-snippet">Calderdale Local Studies40 Years of Mystery: the strange tale of Alan Godfrey27 Nov 2020 — Godfrey tried to radio the local police statio...</span></span></span>
 
-
 <img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-1-dark.svg" | relative_url }}" alt="Road Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Strong Is the Burnley Road Sighting?
 
@@ -258,7 +257,7 @@ The encounter is usually dated to the early hours of 28 November 1980, although 
 
 What makes the sighting more notable than a routine UFO claim is the level of physical detail Godfrey described almost immediately afterwards. He said the object was hovering low above the road, roughly twenty feet wide and fourteen feet high, with a rotating lower section and a row of illuminated panels or windows. He repeatedly stressed that it appeared solid rather than ghostly or distant. In one later recollection he said it looked substantial enough that “if I’d got out of my car and thrown a brick at it, it would have made a clang.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calderdalecompanion.co.uk/mmg222.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calderdalecompanion.co.uk">[Calderdale Companion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calderdalecompanion.co.uk</span><span class="citation-popover-snippet">Calderdale CompanionPC Alan GodfreyIn the early hours of 28th November 1980, PC Alan Godfrey was driving his patrol car at Todmorden, whe...</span><span class="citation-popover-meta">Published: November 1980</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scaredycatskeptic.co.uk">[Scaredy Cat Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scaredycatskeptic.co.uk</span><span class="citation-popover-snippet">Scaredy Cat SkepticThe Bizarre Case of the Todmorden UFO AbductionOn Friday 28th November 1980, Alan Godfrey, our trusty bobby, was on ni...</span><span class="citation-popover-meta">Published: November 1980</span></span></span>
 
-The witness profile also shaped the case’s reputation. Godfrey was not anonymous, intoxicated, or reporting an object seen briefly in the sky from a garden or pub car park. He was an on-duty police officer in a marked patrol car, describing an encounter at road level while performing a routine task. That gave the report a degree of seriousness in British media coverage that many civilian UFO accounts never receive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gold.ac.uk/calendar/?id=3234" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-snippet">Goldsmiths, University of London*** CANCELLED *** The Unextraordinary Oddity of Alan...18 May 2010 — The &#x27;abduction by aliens&#x27; of police...</span><span class="citation-popover-meta">Published: May 2010</span></span></span>
+The witness profile also shaped the case’s reputation. Godfrey was not anonymous, intoxicated, or reporting an object seen briefly in the sky from a garden or pub car park. He was an on-duty police officer in a marked patrol car, describing an encounter at road level while performing a routine task. That gave the report a degree of seriousness in British media coverage that many civilian UFO accounts never receive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gold.ac.uk/calendar/?id=3234" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-snippet">smiths, University of London*** CANCELLED *** The Unextraordinary Oddity of Alan...18 May 2010 — The &#x27;abduction by aliens&#x27; of police...</span><span class="citation-popover-meta">Published: May 2010</span></span></span>
 
 At the same time, the entire event still rests overwhelmingly on a single witness account. No surviving photograph, dispatch recording, radio log, or independently preserved police notebook has publicly emerged to settle the key factual disputes. The case therefore sits in an awkward middle ground: more detailed and grounded than a vague light-in-the-sky report, but lacking the documentary support needed to move beyond testimony.
 
@@ -272,7 +271,6 @@ The description itself changed subtly over the years. Some retellings call the o
 
 Another important issue is duration. Godfrey did not describe a fleeting glimpse lasting a few seconds. He claimed enough time elapsed for him to stop the vehicle, assess the object, attempt radio communication, and sketch what he saw. That extended interaction is one reason believers regard the Burnley Road event as stronger than many British UFO cases. Critics, however, argue that the same extended duration should have produced more reliable corroboration if a large glowing structure had truly been hovering above a main road.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F3xk49sxLqw" title="UKs strangest ALIEN ABDUCTION case! Zigmund Adamski and the Alan Godfrey story / UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F3xk49sxLqw" target="_blank" rel="noopener noreferrer">UKs strangest ALIEN ABDUCTION case! Zigmund Adamski and the Alan Godfrey story / UFO</a></p><p class="youtube-embed-meta">Channel: Days of Horror &middot; Views: 16.9K &middot; Uploaded: October 2024 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F3xk49sxLqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F3xk49sxLqw">Open on YouTube</a></p></div></div></div>
 
 ## The Sketch, Radio, and Road Patch
@@ -283,14 +281,13 @@ That sketch matters because it is presented as contemporaneous evidence rather t
 
 However, the evidential strength of the sketch is limited by access and provenance. The drawing has been reproduced in books, television programmes, and later articles, but the original notebook and chain of custody have never been publicly documented in a rigorous forensic sense. Researchers therefore rely mostly on secondary reproductions and recollections. The sketch supports sincerity more strongly than it supports the extraterrestrial interpretation itself.
 
-The reported radio failure is another persistent element. Godfrey said he attempted to contact police headquarters but could not transmit. Some retellings add that the patrol car itself briefly malfunctioned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umbrellamagazine.co.uk">[Umbrella Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umbrellamagazine.co.uk</span><span class="citation-popover-title">Driving down Burnley Rd he saw</span><span class="citation-popover-snippet">Umbrella MagazineChance encounters: Alien abduction in the Pennines15 Dec 2021 — PC Alan Godfrey was on duty when he was called to a repo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gold.ac.uk/calendar/?id=3234" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-snippet">Goldsmiths, University of London*** CANCELLED *** The Unextraordinary Oddity of Alan...18 May 2010 — The &#x27;abduction by aliens&#x27; of police...</span><span class="citation-popover-meta">Published: May 2010</span></span></span>
+The reported radio failure is another persistent element. Godfrey said he attempted to contact police headquarters but could not transmit. Some retellings add that the patrol car itself briefly malfunctioned. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: umbrellamagazine.co.uk">[Umbrella Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">umbrellamagazine.co.uk</span><span class="citation-popover-title">Driving down Burnley Rd he saw</span><span class="citation-popover-snippet">Umbrella MagazineChance encounters: Alien abduction in the Pennines15 Dec 2021 — PC Alan Godfrey was on duty when he was called to a repo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gold.ac.uk/calendar/?id=3234" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-snippet">smiths, University of London*** CANCELLED *** The Unextraordinary Oddity of Alan...18 May 2010 — The &#x27;abduction by aliens&#x27; of police...</span><span class="citation-popover-meta">Published: May 2010</span></span></span>
 
 Electrical interference is a common feature in close-encounter UFO stories, but in the Burnley Road case the supporting records are unclear. No publicly available radio engineering report or preserved communications log has emerged showing unexplained disruption at the relevant moment. The claim therefore remains anecdotal rather than technically verified.
 
 The alleged “dry patch” on the road is more difficult still. According to later accounts, rain had fallen earlier, yet the section of road beneath the hovering object was supposedly dry when Godfrey returned to inspect it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Most compelling evidence of alien existence. Godfrey made a quick sketch of the object in his notebook and then grabbed his police radio...</span></span></span>
 
 This detail is often repeated because it sounds like physical trace evidence, but the evidential chain is weak. There are no known photographs, meteorological measurements, or contemporaneous forensic examinations. Even sympathetic researchers usually treat the road patch as an anecdotal observation rather than hard evidence.
-
 
 <img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-2-dark.svg" | relative_url }}" alt="Road Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the Timeline Becomes Uncertain
@@ -305,8 +302,7 @@ Some details also appear to have entered the public narrative gradually rather t
 
 Another complication is retrospective contamination. Once the case became nationally famous, later interviews often blended the original Burnley Road encounter with hypnosis-derived memories, folklore about Todmorden, and the separate Zigmund Adamski mystery. That layering makes it difficult to isolate the immediate road event from the mythology that accumulated around it over subsequent decades.
 
-The uncertainty extends to corroboration. Supporters often point to reports of strange lights seen elsewhere around Todmorden that night by other officers or residents. Skeptics counter that these sightings were not necessarily simultaneous, did not all describe the same phenomenon, and may have become linked only after media coverage intensified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gold.ac.uk/calendar/?id=3234" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-snippet">Goldsmiths, University of London*** CANCELLED *** The Unextraordinary Oddity of Alan...18 May 2010 — The &#x27;abduction by aliens&#x27; of police...</span><span class="citation-popover-meta">Published: May 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://forums.digitalspy.com/discussion/1757825/the-strange-case-of-alan-godfrey/p6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forums.digitalspy.com">[Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forums.digitalspy.com</span><span class="citation-popover-title">Digital Spy The strange case of Alan Godfrey</span><span class="citation-popover-snippet">problems even in their...Read more...</span></span></span>
-
+The uncertainty extends to corroboration. Supporters often point to reports of strange lights seen elsewhere around Todmorden that night by other officers or residents. Skeptics counter that these sightings were not necessarily simultaneous, did not all describe the same phenomenon, and may have become linked only after media coverage intensified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gold.ac.uk/calendar/?id=3234" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gold.ac.uk">[Goldsmiths, University of London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gold.ac.uk</span><span class="citation-popover-snippet">smiths, University of London*** CANCELLED *** The Unextraordinary Oddity of Alan...18 May 2010 — The &#x27;abduction by aliens&#x27; of police...</span><span class="citation-popover-meta">Published: May 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://forums.digitalspy.com/discussion/1757825/the-strange-case-of-alan-godfrey/p6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forums.digitalspy.com">[Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forums.digitalspy.com</span><span class="citation-popover-title">Digital Spy The strange case of Alan Godfrey</span><span class="citation-popover-snippet">problems even in their...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0Lg1j9wAh6g" title="The Todmorden Triangle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0Lg1j9wAh6g" target="_blank" rel="noopener noreferrer">The Todmorden Triangle</a></p><p class="youtube-embed-meta">Channel: Hebden Bridge Web &middot; Views: 376 &middot; Uploaded: June 2020 &middot; Length: 3 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0Lg1j9wAh6g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0Lg1j9wAh6g">Open on YouTube</a></p></div></div></div>
 
@@ -317,7 +313,6 @@ The main skeptical interpretations concentrate less on deliberate fabrication an
 One line of criticism argues that Godfrey may have experienced a microsleep, vivid dream state, or exhaustion-related hallucination near the end of a night shift. Researcher and writer Paul Weatherhead has argued that the encounter fits a broader pattern of unusual experiences and possible hallucinatory episodes described elsewhere in Godfrey’s life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://paulweatherhead.com/2022/01/10/on-seeing-things/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paulweatherhead.com">[Paul Weatherhead]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paulweatherhead.com</span><span class="citation-popover-title">on seeing things</span><span class="citation-popover-snippet">Paul WeatherheadOn Seeing Things…10 Jan 2022 — On the 29 November 1980 PC Alan Godfrey was near the end of his nightshift and driving thr...</span><span class="citation-popover-meta">Published: November 1980</span></span></span>
 
 This interpretation attempts to explain several otherwise puzzling elements simultaneously:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -332,7 +327,6 @@ Critics also note that hypnosis is highly vulnerable to suggestion and confabula
 
 Even some researchers interested in UFO phenomena separate the initial sighting from the abduction account for that reason. The roadside observation can be treated as a sincere unexplained experience without accepting every later hypnotic detail as factual memory.
 
-
 <img src="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-3-dark.svg" | relative_url }}" alt="Road Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alan_Godfrey_encount_87fc0b_burnley_road_sightin_d4cfa1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Burnley Road Segment Still Matters
 
@@ -342,49 +336,89 @@ At the same time, the evidential ceiling is lower than enthusiasts sometimes sug
 
 That leaves the Burnley Road sighting in a narrow but enduring category: a potentially sincere and unusually detailed witness report that never acquired the documentary support needed to settle whether anything objectively extraordinary occurred on that road in November 1980.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BkuRqikJjhA" title="The Bizarre Death of Zigmund Adamski: UFO Cover-Up or Cold Case?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BkuRqikJjhA" target="_blank" rel="noopener noreferrer">The Bizarre Death of Zigmund Adamski: UFO Cover-Up or Cold Case?</a></p><p class="youtube-embed-meta">Channel: The Tape Library &middot; Views: 323.4K &middot; Uploaded: May 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BkuRqikJjhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BkuRqikJjhA">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Strong Is the Burnley Road Sighting?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Strong Is the Burnley Road Sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Alan Godfrey guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Alan+Godfrey+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Plato+at+the+Googleplex+by+Rebecca+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Plato at the Googleplex on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aWGODQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Plato at the Googleplex" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Plato+at+the+Googleplex+by+Rebecca+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Plato at the Googleplex">Plato at the Googleplex</a>
+        </h4>
+        <p class="fr-book-author">By Rebecca Goldstein</p>
+        
+        <p class="fr-book-desc">Captures the profound psychological impact and community rumors generated when an official witness encounters a bizarre road anomaly.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Plato+at+the+Googleplex+by+Rebecca+Goldstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Burnley Road guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Burnley+Road+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Real+Men+In+Black+by+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Real Men In Black on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=m91EDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Real Men In Black" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Real+Men+In+Black+by+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Real Men In Black">The Real Men In Black</a>
+        </h4>
+        <p class="fr-book-author">By Nick Redfern</p>
+        
+        <p class="fr-book-desc">Covers the systemic harassment and timeline shifts that police officers like Godfrey faced from official channels after filing reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Real+Men+In+Black+by+Nick+Redfern&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Police Constable guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Police+Constable+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Pennine+UFO+Mystery+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pennine UFO Mystery on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Pennine+UFO+Mystery+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pennine UFO Mystery">The Pennine UFO Mystery</a>
+        </h4>
+        <p class="fr-book-author">By Jenny Randles</p>
+        
+        <p class="fr-book-desc">Features the exact physical dimensions, radio failure logs, and road-surface tire marks noted immediately after the patrol shift.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Pennine+UFO+Mystery+by+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO%3A+The+Search+for+Truth+Alan+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO: The Search for Truth on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFO%3A+The+Search+for+Truth+Alan+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO: The Search for Truth">UFO: The Search for Truth</a>
+        </h4>
+        <p class="fr-book-author">By Alan Godfrey</p>
+        
+        <p class="fr-book-desc">Provides the explicit, ground-level description of approaching the &#x27;bus-like&#x27; object, drawing the sketch, and checking the car radio.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFO%3A+The+Search+for+Truth+Alan+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Plato+at+the+Googleplex&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Plato at the Googleplex</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Real+Men+In+Black&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Real Men In Black</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pennine+UFO+Mystery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pennine UFO Mystery</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -421,15 +455,15 @@ That leaves the Burnley Road sighting in a narrow but enduring category: a poten
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -437,15 +471,15 @@ That leaves the Burnley Road sighting in a narrow but enduring category: a poten
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -453,15 +487,15 @@ That leaves the Burnley Road sighting in a narrow but enduring category: a poten
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -469,15 +503,15 @@ That leaves the Burnley Road sighting in a narrow but enduring category: a poten
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -485,7 +519,7 @@ That leaves the Burnley Road sighting in a narrow but enduring category: a poten
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -cd" data-ebay-reference="road-sighting-how-strong-is-the-burnley-road-sighting-alan-godfrey-encounter-1980-ufo-wall-art-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -700,99 +734,99 @@ That leaves the Burnley Road sighting in a narrow but enduring category: a poten
 
 1. <a id="endnote-1"></a>
    Source: calderdalecompanion.co.uk  
-   Link: [https://www.calderdalecompanion.co.uk/mmg222.html](https://www.calderdalecompanion.co.uk/mmg222.html)  
+   Link: <a href="https://www.calderdalecompanion.co.uk/mmg222.html" target="_blank" rel="noopener noreferrer nofollow">https://www.calderdalecompanion.co.uk/mmg222.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calderdale CompanionPC Alan GodfreyIn the early hours of 28th November 1980, PC Alan Godfrey was driving his patrol car at Todmorden, whe...</p></details>
    Published: November 1980  
 
 2. <a id="endnote-2"></a>
    Source: calderdalelocalstudies.blog  
    Title: alan godfrey  
-   Link: [https://www.calderdalelocalstudies.blog/post/alan-godfrey](https://www.calderdalelocalstudies.blog/post/alan-godfrey)  
+   Link: <a href="https://www.calderdalelocalstudies.blog/post/alan-godfrey" target="_blank" rel="noopener noreferrer nofollow">https://www.calderdalelocalstudies.blog/post/alan-godfrey</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calderdale Local Studies40 Years of Mystery: the strange tale of Alan Godfrey27 Nov 2020 — Godfrey tried to radio the local police statio...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: umbrellamagazine.co.uk  
    Title: Driving down Burnley Rd he saw  
-   Link: [https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines](https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines)  
+   Link: <a href="https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines" target="_blank" rel="noopener noreferrer nofollow">https://www.umbrellamagazine.co.uk/feature/chance-encounters-alien-abduction-in-the-pennines</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Umbrella MagazineChance encounters: Alien abduction in the Pennines15 Dec 2021 — PC Alan Godfrey was on duty when he was called to a repo...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: history.co.uk  
-   Link: [https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire](https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire)  
+   Link: <a href="https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/the-todmorden-ufo-mystery-a-close-encounter-in-west-yorkshire</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most compelling evidence of alien existence. Godfrey made a quick sketch of the object in his notebook and then grabbed his police radio...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: scaredycatskeptic.co.uk  
-   Link: [https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/](https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/)  
+   Link: <a href="https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://scaredycatskeptic.co.uk/todmorden-ufo-abduction/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaredy Cat SkepticThe Bizarre Case of the Todmorden UFO AbductionOn Friday 28th November 1980, Alan Godfrey, our trusty bobby, was on ni...</p></details>
    Published: November 1980  
 
 6. <a id="endnote-6"></a>
    Source: paulweatherhead.com  
    Title: on seeing things  
-   Link: [https://paulweatherhead.com/2022/01/10/on-seeing-things/](https://paulweatherhead.com/2022/01/10/on-seeing-things/)  
+   Link: <a href="https://paulweatherhead.com/2022/01/10/on-seeing-things/" target="_blank" rel="noopener noreferrer nofollow">https://paulweatherhead.com/2022/01/10/on-seeing-things/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul WeatherheadOn Seeing Things…10 Jan 2022 — On the 29 November 1980 PC Alan Godfrey was near the end of his nightshift and driving thr...</p></details>
    Published: November 1980  
 
 7. <a id="endnote-7"></a>
    Source: gold.ac.uk  
-   Link: [https://www.gold.ac.uk/calendar/?id=3234](https://www.gold.ac.uk/calendar/?id=3234)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goldsmiths, University of London*** CANCELLED *** The Unextraordinary Oddity of Alan...18 May 2010 — The &#x27;abduction by aliens&#x27; of police...</p></details>
+   Link: <a href="https://www.gold.ac.uk/calendar/?id=3234" target="_blank" rel="noopener noreferrer nofollow">https://www.gold.ac.uk/calendar/?id=3234</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>smiths, University of London*** CANCELLED *** The Unextraordinary Oddity of Alan...18 May 2010 — The &#x27;abduction by aliens&#x27; of police...</p></details>
    Published: May 2010  
 
 8. <a id="endnote-8"></a>
    Source: forums.digitalspy.com  
    Title: Digital Spy The strange case of Alan Godfrey  
-   Link: [https://forums.digitalspy.com/discussion/1757825/the-strange-case-of-alan-godfrey/p6](https://forums.digitalspy.com/discussion/1757825/the-strange-case-of-alan-godfrey/p6)  
+   Link: <a href="https://forums.digitalspy.com/discussion/1757825/the-strange-case-of-alan-godfrey/p6" target="_blank" rel="noopener noreferrer nofollow">https://forums.digitalspy.com/discussion/1757825/the-strange-case-of-alan-godfrey/p6</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>problems even in their...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: blaze.tv  
-   Link: [https://www.blaze.tv/series/todmorden-ufo-sighting-britains-roswell](https://www.blaze.tv/series/todmorden-ufo-sighting-britains-roswell)  
+   Link: <a href="https://www.blaze.tv/series/todmorden-ufo-sighting-britains-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.blaze.tv/series/todmorden-ufo-sighting-britains-roswell</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Todmorden UFO Sighting: Britain&#x27;s RoswellIn November &#x27;80, police officer Alan Godfrey was called to a minor incident in the town: som...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: forums.digitalspy.com  
    Title: Digital Spy The strange case of Alan Godfrey  
-   Link: [https://forums.digitalspy.com/discussion/1757825/the-strange-case-of-alan-godfrey/p5](https://forums.digitalspy.com/discussion/1757825/the-strange-case-of-alan-godfrey/p5)  
+   Link: <a href="https://forums.digitalspy.com/discussion/1757825/the-strange-case-of-alan-godfrey/p5" target="_blank" rel="noopener noreferrer nofollow">https://forums.digitalspy.com/discussion/1757825/the-strange-case-of-alan-godfrey/p5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital SpyThe strange case of Alan Godfrey - Page 511 Nov 2012 —... Alan was a school caretaker and police special constable opening th...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: paulweatherhead.com  
    Title: alan godfrey  
-   Link: [https://paulweatherhead.com/tag/alan-godfrey/](https://paulweatherhead.com/tag/alan-godfrey/)  
+   Link: <a href="https://paulweatherhead.com/tag/alan-godfrey/" target="_blank" rel="noopener noreferrer nofollow">https://paulweatherhead.com/tag/alan-godfrey/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul WeatherheadAlan GodfreyThe first alien abduction case in the UK is usually considered to be that of PC Alan Godfrey in 1980. He was...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=F3xk49sxLqw](https://www.youtube.com/watch?v=F3xk49sxLqw)  
+   Link: <a href="https://www.youtube.com/watch?v=F3xk49sxLqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3xk49sxLqw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Abduction of Policeman Alan Godfrey. 1980. Todmorden UFO Files. Part 2...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Most Amazing Alien Abduction Ever! | Paranormal Files E1 | Sci-Fi Central  
-   Link: [https://www.youtube.com/watch?v=l8iEOpVCRDU](https://www.youtube.com/watch?v=l8iEOpVCRDU)  
+   Link: <a href="https://www.youtube.com/watch?v=l8iEOpVCRDU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l8iEOpVCRDU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UKs strangest ALIEN ABDUCTION case! Zigmund Adamski and the Alan Godfrey story / UFO...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Bizarre Death of Zigmund Adamski: UFO Cover-Up or Cold Case?  
-   Link: [https://www.youtube.com/watch?v=BkuRqikJjhA](https://www.youtube.com/watch?v=BkuRqikJjhA)  
+   Link: <a href="https://www.youtube.com/watch?v=BkuRqikJjhA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BkuRqikJjhA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Most Amazing Alien Abduction Ever! | Paranormal Files E1 | Sci-Fi Central...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=48JJ7zwKusc](https://www.youtube.com/watch?v=48JJ7zwKusc)  
+   Link: <a href="https://www.youtube.com/watch?v=48JJ7zwKusc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=48JJ7zwKusc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Todmorden Triangle...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom](https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Todmorden Triangle  
-   Link: [https://www.youtube.com/watch?v=0Lg1j9wAh6g](https://www.youtube.com/watch?v=0Lg1j9wAh6g)  
+   Link: <a href="https://www.youtube.com/watch?v=0Lg1j9wAh6g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0Lg1j9wAh6g</a>

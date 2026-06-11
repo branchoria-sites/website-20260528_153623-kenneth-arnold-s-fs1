@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /charles-l-moody-abduction-1975/
 nav_short_title: Timeline
 title: How the Missing Time Story Unfolded
-title_full: How the Missing Time Story Unfolded | Moody Abduction
+title_full: How the Missing Time Story Unfolded
 display_title_short: Timeline
 display_title: Timeline
 heading_title: How the Missing Time Story Unfolded
@@ -233,7 +233,7 @@ prev_link:
   permalink: /hypnosis-85ef9d/
   short_title: Hypnosis
   heading_title: Can Hypnosis Explain the Abduction Story?
-date: '2026-06-08 23:39:57 '
+date: '2026-06-11 13:23:08 '
 header:
   og_image: /assets/images/Charles_L_Moody_abdu_780173_missing_time_timelin_d41833-Illustration-1-social.jpg
   preview_image: /assets/images/Charles_L_Moody_abdu_780173_missing_time_timelin_d41833-Illustration-1.webp
@@ -244,7 +244,6 @@ image: /assets/images/Charles_L_Moody_abdu_780173_missing_time_timelin_d41833-Il
 
 On the night of **13 August 1975** in the New Mexico desert near **Alamogordo**, Sergeant **Charles L. Moody** reported an encounter that has become a distinct narrative within UFO abduction lore. The core of his claim centres on seeing an unusual craft, experiencing a sudden physical numbness, and later discovering a **missing‑time interval of roughly 90 minutes** — a hallmark feature in many alleged abduction testimonies. The sequence of events Moody described — from the **hovering disc and stalled car** to the **claimed gap in conscious memory** — makes this case a frequently discussed example within UFO and abduction literature, despite a lack of archival documentation or authoritative verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">1975, UFO Encounter; Abduction of Air Force Sergeant Charles L. Moody, UFO Casebook Files...</span></span></span>
 
-
 <img src="{{ "/assets/images/Charles_L_Moody_abdu_780173_missing_time_timelin_d41833-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Charles_L_Moody_abdu_780173_missing_time_timelin_d41833-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_L_Moody_abdu_780173_missing_time_timelin_d41833-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Meteor‑Shower Trip Near Alamogordo
 
@@ -252,13 +251,11 @@ According to accounts circulating in UFO‑themed sources, Moody, then a 32‑ye
 
 Moody is said to have attempted to leave by car, only to find the **engine would not start** — a detail that recurs in many abduction narratives involving supposed electromagnetic interference. While the craft hovered roughly **70 feet away**, he noticed what looked like humanoid shadows through a **rectangular window**. Then, as the sound ceased, **a numbness spread over his body**, rendering him immobile — a sensory detail that Moody later linked to the onset of his missing‑time experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">1975, UFO Encounter; Abduction of Air Force Sergeant Charles L. Moody, UFO Casebook Files...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YXJRQVT57jw" title="Aliens की इन घटनाओं ने सबके होश उड़ा दिए | UFO Sightings | Alien Mystery |Are Aliens Real" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YXJRQVT57jw" target="_blank" rel="noopener noreferrer">Aliens की इन घटनाओं ने सबके होश उड़ा दिए | UFO Sightings | Alien Mystery |Are Aliens Real</a></p><p class="youtube-embed-meta">Channel: Shyam Tomar &middot; Views: 316.9K &middot; Uploaded: February 2021 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YXJRQVT57jw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YXJRQVT57jw">Open on YouTube</a></p></div></div></div>
 
 ## The Hovering Disc and Stalled Car
 
 The moment when Moody’s car wouldn’t start is central to the encounter timeline. In most retellings, the sequence unfolds as follows:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -271,7 +268,6 @@ The moment when Moody’s car wouldn’t start is central to the encounter timel
 
 These elements — stalled vehicles, unexplained physical sensations, and auditory phenomena — are often highlighted by proponents as suggestive of an interaction beyond conventional experience. Critics, however, note that such patterns also appear in widely varying anecdotal reports, making them intriguing but not conclusive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.toptenz.net/top-10-creepiest-alien-abductions.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: toptenz.net">[Toptenz.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">toptenz.net</span><span class="citation-popover-title">Top 10 Creepiest Alien Abductions</span><span class="citation-popover-snippet">31, 2014...</span></span></span>
 
-
 <img src="{{ "/assets/images/Charles_L_Moody_abdu_780173_missing_time_timelin_d41833-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Charles_L_Moody_abdu_780173_missing_time_timelin_d41833-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_L_Moody_abdu_780173_missing_time_timelin_d41833-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Claimed 90‑Minute Gap
 
@@ -279,62 +275,101 @@ When Moody eventually managed to start his car and drove home, he was **astonish
 
 In the days following the incident, Moody reportedly experienced **back pain and a rash**, which he interpreted as physical aftereffects linked to the episode. At a doctor’s suggestion, he began **self‑[hypnosis]({{ 'hypnosis-85ef9d/' | relative_url }})** to attempt to recover memory of the lost period. Over subsequent weeks, fragmented recollections were said to coalesce into a narrative involving beings approaching his car, a struggle, unconsciousness, and an experience aboard the craft itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">1975, UFO Encounter; Abduction of Air Force Sergeant Charles L. Moody, UFO Casebook Files...</span></span></span>
 
-The missing‑time interval and its recovery through hypnosis have become focal points in discussions of the Moody case. Proponents see this as indicative of a genuine encounter that temporarily disrupted ordinary consciousness, while sceptics point out the **lack of verifiable records, physical evidence, or independently documented data** supporting such temporal loss. Without sealed records or contemporaneous reporting, the gap remains grounded in Moody’s retrospective account rather than corroborated fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomatrix.org">[UFO Matrix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomatrix.org</span><span class="citation-popover-title">charles moody ufo abduction 1975 new</span><span class="citation-popover-snippet">UFO Matrix | The Disclosure AgesCharles Moody UFO Abduction – 1975, New Mexico...</span></span></span> | The Disclosure Ages
-
+The missing‑time interval and its recovery through hypnosis have become focal points in discussions of the Moody case. Proponents see this as indicative of a genuine encounter that temporarily disrupted ordinary consciousness, while sceptics point out the **lack of verifiable records, physical evidence, or independently documented data** supporting such temporal loss. Without sealed records or contemporaneous reporting, the gap remains grounded in Moody’s retrospective account rather than corroborated fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomatrix.org">[UFO Matrix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomatrix.org</span><span class="citation-popover-title">charles moody ufo abduction 1975 new</span><span class="citation-popover-snippet">UFO Matrix &#124; The Disclosure AgesCharles Moody UFO Abduction – 1975, New Mexico...</span></span></span> | The Disclosure Ages
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gkk5W-PbIho" title="UFO History | ASMR Sleep Stories | Cozy Bedtime Tales Of UFO&#x27;s &amp; Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gkk5W-PbIho" target="_blank" rel="noopener noreferrer">UFO History | ASMR Sleep Stories | Cozy Bedtime Tales Of UFO&#x27;s &amp; Aliens</a></p><p class="youtube-embed-meta">Channel: Good Knights Sleep &middot; Views: 86.7K &middot; Uploaded: December 2023 &middot; Length: 4 hours 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gkk5W-PbIho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gkk5W-PbIho">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RZ_k2JVUjFQ" title="The Most Famous Alien Abduction Case of All Time | Travis Walton Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RZ_k2JVUjFQ" target="_blank" rel="noopener noreferrer">The Most Famous Alien Abduction Case of All Time | Travis Walton Incident</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 11.5K &middot; Uploaded: June 2025 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RZ_k2JVUjFQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RZ_k2JVUjFQ">Open on YouTube</a></p></div></div></div>
 
 ## Position Within Abduction Narratives
 
-In UFO literature, missing time is often cited as a structural motif of abduction reports, distinguishing them from sightings without memory anomalies. Moody’s claim predates some of the more famous alleged abductions popularised in the late 1970s and early 1980s, placing it as an early entry in what would become a larger cultural and narrative pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomatrix.org">[UFO Matrix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomatrix.org</span><span class="citation-popover-title">charles moody ufo abduction 1975 new</span><span class="citation-popover-snippet">UFO Matrix | The Disclosure AgesCharles Moody UFO Abduction – 1975, New Mexico...</span></span></span> | The Disclosure Ages
+In UFO literature, missing time is often cited as a structural motif of abduction reports, distinguishing them from sightings without memory anomalies. Moody’s claim predates some of the more famous alleged abductions popularised in the late 1970s and early 1980s, placing it as an early entry in what would become a larger cultural and narrative pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomatrix.org">[UFO Matrix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomatrix.org</span><span class="citation-popover-title">charles moody ufo abduction 1975 new</span><span class="citation-popover-snippet">UFO Matrix &#124; The Disclosure AgesCharles Moody UFO Abduction – 1975, New Mexico...</span></span></span> | The Disclosure Ages
 
 However, the Moody case has not entered the mainstream documentation of the phenomenon in the same way as the **Betty and Barney Hill** or **Travis Walton** accounts, partly due to the **absence of physical evidence, official military acknowledgment, or widespread media coverage**. As a result, it is typically discussed within specialised UFO forums and compilations, anchored by the **missing‑time timeline** and the dramatic details of the desert encounter itself rather than external validation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocasebook.com">[ufocasebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocasebook.com</span><span class="citation-popover-snippet">1975, UFO Encounter; Abduction of Air Force Sergeant Charles L. Moody, UFO Casebook Files...</span></span></span>
-
 
 <img src="{{ "/assets/images/Charles_L_Moody_abdu_780173_missing_time_timelin_d41833-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Charles_L_Moody_abdu_780173_missing_time_timelin_d41833-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_L_Moody_abdu_780173_missing_time_timelin_d41833-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How the Missing Time Story Unfolded, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How the Missing Time Story Unfolded. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO Casebook guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+Casebook+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+        </h4>
+        <p class="fr-book-author">By John E. Mack, Mack</p>
+        
+        <p class="fr-book-desc">Deals extensively with the classic structural markers of missing time, high-pitched humming sounds, and temporary physical paralysis.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+        </h4>
+        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+        
+        <p class="fr-book-desc">Demonstrates why a 1:15 AM meteor-shower trip ending in a 90-minute gap represents a classic template for retroactive narrative formation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alien Abduction Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1C4MgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alien Abduction Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alien Abduction Files">The Alien Abduction Files</a>
+        </h4>
+        <p class="fr-book-author">By Kathleen Marden, Denise Stoner</p>
+        
+        <p class="fr-book-desc">Reviews the precise external details of the August 13 Alamogordo desert timeline, focusing on the stalled car and hovering metallic disc...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+        </h4>
+        <p class="fr-book-author">By Budd Hopkins</p>
+        
+        <p class="fr-book-desc">Analyzes the chronological puzzle of late-night desert trips ending in sudden bodily numbness and a claimed 90-minute gap in conscious me...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alien Abduction Files</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -371,15 +406,15 @@ However, the Moody case has not entered the mainstream documentation of the phen
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -387,15 +422,15 @@ However, the Moody case has not entered the mainstream documentation of the phen
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -403,15 +438,15 @@ However, the Moody case has not entered the mainstream documentation of the phen
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -419,15 +454,15 @@ However, the Moody case has not entered the mainstream documentation of the phen
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -435,7 +470,7 @@ However, the Moody case has not entered the mainstream documentation of the phen
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timeline-5e60b1-how-the-missing-time-story-unfolded-charles-l-moody-abduction-1975-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -650,25 +685,25 @@ However, the Moody case has not entered the mainstream documentation of the phen
 
 1. <a id="endnote-1"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/moody.html](https://www.ufocasebook.com/moody.html)  
+   Link: <a href="https://www.ufocasebook.com/moody.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/moody.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1975, UFO Encounter; Abduction of Air Force Sergeant Charles L. Moody, UFO Casebook Files...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ufomatrix.org  
    Title: charles moody ufo abduction 1975 new  
-   Link: [https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html](https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html)  
+   Link: <a href="https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomatrix.org/2025/07/charles-moody-ufo-abduction-1975-new.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Matrix | The Disclosure AgesCharles Moody UFO Abduction – 1975, New Mexico...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: conexaoufo.com  
    Title: The Case of the Abducted US Air Force Sergeant  
-   Link: [https://conexaoufo.com/en/the-case-of-the-abducted-us-air-force-sergeant/](https://conexaoufo.com/en/the-case-of-the-abducted-us-air-force-sergeant/)  
+   Link: <a href="https://conexaoufo.com/en/the-case-of-the-abducted-us-air-force-sergeant/" target="_blank" rel="noopener noreferrer nofollow">https://conexaoufo.com/en/the-case-of-the-abducted-us-air-force-sergeant/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conexão UFO...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: toptenz.net  
    Title: Top 10 Creepiest Alien Abductions  
-   Link: [https://www.toptenz.net/top-10-creepiest-alien-abductions.php](https://www.toptenz.net/top-10-creepiest-alien-abductions.php)  
+   Link: <a href="https://www.toptenz.net/top-10-creepiest-alien-abductions.php" target="_blank" rel="noopener noreferrer nofollow">https://www.toptenz.net/top-10-creepiest-alien-abductions.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>31, 2014...</p></details>
 
 ### Additional References
@@ -676,66 +711,66 @@ However, the Moody case has not entered the mainstream documentation of the phen
 5. <a id="endnote-5"></a>
    Source: medium.com  
    Title: Air Force Sergeant Abducted In New Mexico | by Johnmooner-chief | Medium  
-   Link: [https://medium.com/%40/air-force-sergeant-abducted-in-new-mexico-8592b8fcaf95](https://medium.com/%40/air-force-sergeant-abducted-in-new-mexico-8592b8fcaf95)  
+   Link: <a href="https://medium.com/%40/air-force-sergeant-abducted-in-new-mexico-8592b8fcaf95" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40/air-force-sergeant-abducted-in-new-mexico-8592b8fcaf95</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — AIR FORCE SERGEANT ABDUCTED IN NEW MEXICO Johnmooner-chief 3 min read May 21, 2023 8–13–1975 ALAMOGORDO NEW MEXICO Alamogo...</p></details>
    Published: May 21, 2023  
 
 6. <a id="endnote-6"></a>
    Source: ufoinsight.com  
    Title: One strange detail at Skinwalker Ranch is the presence of bizarre, b  
-   Link: [https://www.ufoinsight.com/ufos/close-encounters/ufos-black-boxes-unknown-connection](https://www.ufoinsight.com/ufos/close-encounters/ufos-black-boxes-unknown-connection)  
+   Link: <a href="https://www.ufoinsight.com/ufos/close-encounters/ufos-black-boxes-unknown-connection" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/ufos-black-boxes-unknown-connection</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs And Ominous Black Boxes: The Unknown Connection - UFO InsightNovember 25, 2017 — Animals (including pets) have disappeared literally...</p></details>
    Published: November 25, 2017  
 
 7. <a id="endnote-7"></a>
    Source: connectparanormal.net  
    Title: Charles Moody's UFO Encounter: A Detailed Account  
-   Link: [https://connectparanormal.net/2024/06/29/charles-moodys-ufo-encounter-a-detailed-account/](https://connectparanormal.net/2024/06/29/charles-moodys-ufo-encounter-a-detailed-account/)  
+   Link: <a href="https://connectparanormal.net/2024/06/29/charles-moodys-ufo-encounter-a-detailed-account/" target="_blank" rel="noopener noreferrer nofollow">https://connectparanormal.net/2024/06/29/charles-moodys-ufo-encounter-a-detailed-account/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Connect Paranormal BlogJune 29, 2024 — Image: UFO landing in the New Mexico Desert CHARLES MOODY’S UFO ENCOUNTER: A DETAILED ACCOUNT Air...</p></details>
    Published: June 29, 2024  
 
 8. <a id="endnote-8"></a>
    Source: reccom.org  
    Title: UF O abduction: la misteriosa scatola nera  
-   Link: [https://reccom.org/ufo-abduction-la-misteriosa-scatola-nera/](https://reccom.org/ufo-abduction-la-misteriosa-scatola-nera/)  
+   Link: <a href="https://reccom.org/ufo-abduction-la-misteriosa-scatola-nera/" target="_blank" rel="noopener noreferrer nofollow">https://reccom.org/ufo-abduction-la-misteriosa-scatola-nera/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO abduction: la misteriosa scatola nera - reccom.orgJuly 19, 2023 — UFO ABDUCTION: LA MISTERIOSA SCATOLA NERA In diverse storie di rapi...</p></details>
    Published: July 19, 2023  
 
 9. <a id="endnote-9"></a>
    Source: ufoac.com  
    Title: Abduction of airborne Sergeant Charles L  
-   Link: [https://ufoac.com/abduction-of-airborne-sergeant-charles-moody.html](https://ufoac.com/abduction-of-airborne-sergeant-charles-moody.html)  
+   Link: <a href="https://ufoac.com/abduction-of-airborne-sergeant-charles-moody.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/abduction-of-airborne-sergeant-charles-moody.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MoodyABDUCTION OF AIRBORNE SERGEANT CHARLES L. MOODY Report UFO sightings UFOlogist&#x27;s tools Send messages to extraterrestrials * UFOs and...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: infinityexplorers.com  
    Title: Here is the story of the strang  
-   Link: [https://www.infinityexplorers.com/the-alien-abduction-of-air-force-sergeant-charles-l-moody](https://www.infinityexplorers.com/the-alien-abduction-of-air-force-sergeant-charles-l-moody)  
+   Link: <a href="https://www.infinityexplorers.com/the-alien-abduction-of-air-force-sergeant-charles-l-moody" target="_blank" rel="noopener noreferrer nofollow">https://www.infinityexplorers.com/the-alien-abduction-of-air-force-sergeant-charles-l-moody</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Abduction Of Air Force Sergeant Charles L MoodyOctober 18, 2021 — THE ALIEN ABDUCTION OF AIR FORCE SERGEANT CHARLES L MOODY Aks...</p></details>
    Published: October 18, 2021  
 
 11. <a id="endnote-11"></a>
    Source: skool.com  
    Title: 🛸 The Abduction of Charles L  
-   Link: [https://www.skool.com/taken-by-aliens-7287/the-abduction-of-charles-l-moody-part-1](https://www.skool.com/taken-by-aliens-7287/the-abduction-of-charles-l-moody-part-1)  
+   Link: <a href="https://www.skool.com/taken-by-aliens-7287/the-abduction-of-charles-l-moody-part-1" target="_blank" rel="noopener noreferrer nofollow">https://www.skool.com/taken-by-aliens-7287/the-abduction-of-charles-l-moody-part-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moody: Part 1 👽 · Taken By Aliens🛸 The Abduction of Charles L. Moody: Part 1 👽 On the night of August 13, 1975, something extraordinary h...</p></details>
    Published: August 13, 1975  
 
 12. <a id="endnote-12"></a>
    Source: scribd.com  
    Title: Nightmare Alley Abductions  
-   Link: [https://www.scribd.com/document/909518580/Nightmare-Alley-Abductions](https://www.scribd.com/document/909518580/Nightmare-Alley-Abductions)  
+   Link: <a href="https://www.scribd.com/document/909518580/Nightmare-Alley-Abductions" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/909518580/Nightmare-Alley-Abductions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MOODY Alamogordo, New Mexico would be the location of a UFO encounter involving Air Force Sergeant Charles L. Moody on August 13, 1975. M...</p></details>
    Published: August 13, 1975  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Most Famous Alien Abduction Case of All Time | Travis Walton Incident  
-   Link: [https://www.youtube.com/watch?v=RZ_k2JVUjFQ](https://www.youtube.com/watch?v=RZ_k2JVUjFQ)  
+   Link: <a href="https://www.youtube.com/watch?v=RZ_k2JVUjFQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RZ_k2JVUjFQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lonnie Zamora UFO Incident (Socorro, New Mexico; Aliens?) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Lonnie Zamora UFO Incident (Socorro, New Mexico; Aliens?)  
-   Link: [https://www.youtube.com/watch?v=r1FOPCs8Kps](https://www.youtube.com/watch?v=r1FOPCs8Kps)  
+   Link: <a href="https://www.youtube.com/watch?v=r1FOPCs8Kps" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=r1FOPCs8Kps</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind the Travis Walton UFO Abduction | Crimes Of...</p></details>

@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Rendlesham
   permalink: /rendlesham-forest-incident-1980/
   short_title: Rendlesham
-date: '2026-06-08 23:35:11 '
+date: '2026-06-11 13:20:43 '
 header:
   og_image: /assets/images/Reinhold_Schmidt_enc_731a71-overview-social.jpg
   preview_image: /assets/images/Reinhold_Schmidt_enc_731a71-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Reinhold_Schmidt_enc_731a71-overview-social.jpg
 ## What Schmidt said happened near Kearney
 
 Schmidt’s core story was that, while driving through a rural area near Kearney on 5 November 1957, his car developed trouble and he noticed a large object resting in a field. Later summaries describe the object as blimp-shaped, cigar-shaped, or saucer-like, but the consistent point is that Schmidt claimed it was landed rather than merely seen in the sky. He said two men came from the craft and brought him aboard, where he encountered a crew of human-looking occupants, usually described as four men and two women. Accounts of the occupants vary on whether they claimed Venus or Saturn as their home, a discrepancy that reflects the way Schmidt’s story shifted as it passed through later retellings and his own publicity material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span>
-
 
 <img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-overview.webp" | relative_url }}" alt="Overview image for Reinhold Schmidt encounter 1957" loading="eager" decoding="sync" fetchpriority="high">
 One striking feature of the tale was language. Schmidt claimed the crew spoke what he called “High German” among themselves and German-accented English to him. In contactee culture, this detail made the case feel more personal and less monstrous than later abduction narratives: the alleged visitors were not insect-like or grotesque beings but calm, human-looking “space people” who asked about Earth affairs. Black Vault’s summary of the FBI file says the alleged Saturnians were interested in the Soviet Sputniks and United States satellite-launching plans, placing the story squarely inside the space-race anxiety of November 1957. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/fbi-files-the-paranormal-collection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault FBI Files: The Paranormal Collection</span><span class="citation-popover-snippet">The Black Vault FBI Files: The Paranormal Collection</span></span></span>
@@ -774,7 +773,6 @@ Project Blue Book, the United States Air Force UFO investigation programme, is p
 
 That official conclusion does not, by itself, solve the Schmidt case in a narrow evidential sense; it gives the wider institutional setting. The more important point for this case is that the Air Force record did not turn Schmidt’s story into a substantiated landing event. Instead, the case survived as an example of the period’s mixture of public fascination, official filing, local scepticism, and contactee self-promotion.
 
-
 <img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-1-dark.svg" | relative_url }}" alt="Reinhold Schmidt encounter 1957 illustration 1" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The physical evidence was weak
 
@@ -783,7 +781,6 @@ The reported landing-site evidence was never strong. Later summaries say that a 
 There was also no independent crew witness, no verified photograph of the landed object, and no recovered artefact shown to be of non-human manufacture. The strongest “evidence” was Schmidt’s own testimony, followed by the fact that officials and journalists took enough notice to check the site and preserve the story in public and official channels. That is not nothing, but it is far short of corroboration.
 
 The case therefore sits in a different evidential category from a multi-witness aerial sighting or a radar-visual incident. It is primarily a single-witness contact claim with disputed physical traces and a rapidly expanding narrative. For readers comparing sibling branches of the same case dossier, this distinction matters: the strongest part of the file is provenance and chronology, not physical proof.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_jclUlNXAhA" title="Long John Nebel - The Flying Saucer Story (George Adamski Interview) [1960s UFO Interview]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_jclUlNXAhA" target="_blank" rel="noopener noreferrer">Long John Nebel - The Flying Saucer Story (George Adamski Interview) [1960s UFO Interview]</a></p><p class="youtube-embed-meta">Channel: ThriftStoreVinyl &middot; Views: 10.5K &middot; Uploaded: September 2018 &middot; Length: 4 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_jclUlNXAhA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_jclUlNXAhA">Open on YouTube</a></p></div></div></div>
 
@@ -795,7 +792,6 @@ What damaged him more was what happened next. Schmidt did not simply report the 
 
 His self-published and republished material also shows how the story became a product. A scanned later booklet, Edge of Tomorrow, presents itself as “The Reinhold O. Schmidt Story” and “A True Account of Experiences With Visitors From Another Planet,” while an antiquarian listing identifies the earlier 1958 booklet The Kearney Incident — Up to Now as a 16-page publication by the Spacecraft Research Association. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unariunwisdom.com/wp-content/uploads/2021/05/Edge-Of-Tomorrow-by-Reinhold-O-Schmidt.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unariunwisdom.com">[Unariun Wisdom]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unariunwisdom.com</span><span class="citation-popover-snippet">Unariun Wisdom</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abebooks.co.uk/Kearney-Incident--Up-Now---Reinhold-Schmidt-Phoenix/31327158618/bd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abebooks.co.uk">[AbeBooks UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abebooks.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-2-dark.svg" | relative_url }}" alt="Reinhold Schmidt encounter 1957 illustration 2" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From reported encounter to contactee career
 
@@ -804,7 +800,6 @@ By 1958, Schmidt was on the contactee circuit. The Saucers That Time Forgot repo
 [The claim]({{ 'the-claim/' | relative_url }}) also expanded beyond the original Kearney incident. The UNK history notice says that “a year later” Schmidt claimed the UFO picked him up in Elm Creek, and that he then made a career of “The Kearney Incident” by travelling across the country with the story. This later expansion is important because it makes the original report harder to isolate: the 5 November claim became embedded in an increasingly elaborate mythology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unknews.unk.edu/2023/10/03/fact-or-fiction-you-decide-during-ufos-over-the-platte-river-presentation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unknews.unk.edu">[UNK NEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unknews.unk.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Film added another layer. According to The Saucers That Time Forgot, Schmidt became involved with June and Ron Ormond, and the resulting film Edge of Tomorrow was based on his story. The same account says the film was shown at saucer conventions and later even appeared in the context of his trial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesaucersthattimeforgot.blogspot.com">[The Saucers That Time Forgot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesaucersthattimeforgot.blogspot.com</span><span class="citation-popover-title">the trial of ufo gold digger</span><span class="citation-popover-snippet">the trial of ufo gold digger</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zjF52HHXw9Q" title="Reinhold O. Schmidt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zjF52HHXw9Q" target="_blank" rel="noopener noreferrer">Reinhold O. Schmidt</a></p><p class="youtube-embed-meta">Channel: WikiReader &middot; Views: 155 &middot; Uploaded: April 2022 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zjF52HHXw9Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zjF52HHXw9Q">Open on YouTube</a></p></div></div></div>
 
@@ -818,7 +813,6 @@ A later Los Angeles-area account, reprinted in UFO circles and discussed by The 
 
 For the encounter dossier, the key point is not simply “Schmidt was convicted, therefore the UFO story is false.” The better assessment is narrower and stronger: Schmidt’s later conduct shows he was willing to monetise and elaborate his contact claims in deceptive ways, so his uncorroborated 1957 testimony carries very low evidential weight.
 
-
 <img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-3-dark.svg" | relative_url }}" alt="Reinhold Schmidt encounter 1957 illustration 3" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official and sceptical readings make of the case
 
@@ -827,7 +821,6 @@ The official Air Force posture toward UFOs, as later summarised, was that no Pro
 Civilian UFO organisations and writers also treated the case unevenly. The CIA Reading Room’s copy of NICAP-related material, visible in search snippets, refers to Kearney, Nebraska and Reinhold Schmidt, and says the Kearney incident and a White Sands sighting were labelled hoaxes, adding that the first case “no doubt was a hoax.” That is a strong sceptical judgement from within a UFO-interested source base rather than from a blanket anti-UFO position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The most plausible sceptical interpretation is therefore a staged or invented contactee claim, possibly helped by ordinary physical materials at the site and amplified by the publicity climate of late 1957. The strongest unresolved point is not a technical mystery about a craft; it is why Schmidt told the story in the first place and whether the initial report began as a prank, a publicity move, a sincere but mistaken experience, or the first step in a deliberate con. The subsequent fraud conviction makes the deliberate-con reading hard to dismiss.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zsnO7pR36Ks" title="Brown Bag Series: Dr. Nathan Tye" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zsnO7pR36Ks" target="_blank" rel="noopener noreferrer">Brown Bag Series: Dr. Nathan Tye</a></p><p class="youtube-embed-meta">Channel: Kearney Public Library &middot; Views: 104 &middot; Uploaded: October 2023 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zsnO7pR36Ks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zsnO7pR36Ks">Open on YouTube</a></p></div></div></div>
 
@@ -838,44 +831,86 @@ The Reinhold Schmidt encounter remains useful because it connects several themes
 For a case dossier, the best way to classify the Schmidt encounter is as a historically well-traceable but weakly corroborated contactee claim. Its chronology is reasonably clear; its source trail is unusually visible; its physical evidence is poor; its witness credibility is badly compromised; and its later commercial afterlife is more revealing than the alleged encounter itself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened Near Kearney?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened Near Kearney?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Details the 1957 encounter, the subsequent contactee career, and the eventual legal/fraud investigations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Situates the Schmidt case within the history of contactee movements, emphasizing the narrative and folklore dimensions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Details why individual contact claims, however vivid, are prone to narrative reinforcement and commercial adaptation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches investigative standards to evaluate individual narratives and analyze the impact of commercial/fraud motivations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -912,15 +947,15 @@ For a case dossier, the best way to classify the Schmidt encounter is as a histo
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia"><img src="https://i.ebayimg.com/images/g/hHsAAeSw3GJpJve3/s-l225.jpg" alt="Listing image for Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Dr Who - Dalek Invasion of Earth 2150 Flying Saucer - Display Model Memorabilia</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -928,15 +963,15 @@ For a case dossier, the best way to classify the Schmidt encounter is as a histo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !"><img src="https://i.ebayimg.com/images/g/5lUAAeSwXgpo~0lB/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Light Up Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Light Up Desktop Model !</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -944,15 +979,15 @@ For a case dossier, the best way to classify the Schmidt encounter is as a histo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Desktop Model ! (B)"><img src="https://i.ebayimg.com/images/g/rYEAAeSwX3lnzul9/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Desktop Model ! (B)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Desktop Model ! (B)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -960,15 +995,15 @@ For a case dossier, the best way to classify the Schmidt encounter is as a histo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small"><img src="https://i.ebayimg.com/images/g/iQIAAOSwqSZm7mOi/s-l225.jpg" alt="Listing image for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -976,7 +1011,7 @@ For a case dossier, the best way to classify the Schmidt encounter is as a histo
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reinhold-schmidt-encounter-1957-what-really-happened-near-kearney-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-near-kearney-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-really-happened-near-kearney-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1191,127 +1226,127 @@ For a case dossier, the best way to classify the Schmidt encounter is as a histo
 
 1. <a id="endnote-1"></a>
    Source: unknews.unk.edu  
-   Link: [https://unknews.unk.edu/2023/10/03/fact-or-fiction-you-decide-during-ufos-over-the-platte-river-presentation/](https://unknews.unk.edu/2023/10/03/fact-or-fiction-you-decide-during-ufos-over-the-platte-river-presentation/)  
+   Link: <a href="https://unknews.unk.edu/2023/10/03/fact-or-fiction-you-decide-during-ufos-over-the-platte-river-presentation/" target="_blank" rel="noopener noreferrer nofollow">https://unknews.unk.edu/2023/10/03/fact-or-fiction-you-decide-during-ufos-over-the-platte-river-presentation/</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Reinhold O. Schmidt  
-   Link: [https://en.wikipedia.org/wiki/Reinhold_O._Schmidt](https://en.wikipedia.org/wiki/Reinhold_O._Schmidt)  
+   Link: <a href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reinhold_O._Schmidt</a>  
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/bluebook/1950s.zip/](https://archive.org/download/bluebook/1950s.zip/)  
+   Link: <a href="https://archive.org/download/bluebook/1950s.zip/" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/bluebook/1950s.zip/</a>  
 
 4. <a id="endnote-4"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: unariunwisdom.com  
    Title: Unariun Wisdom  
-   Link: [https://www.unariunwisdom.com/wp-content/uploads/2021/05/Edge-Of-Tomorrow-by-Reinhold-O-Schmidt.pdf](https://www.unariunwisdom.com/wp-content/uploads/2021/05/Edge-Of-Tomorrow-by-Reinhold-O-Schmidt.pdf)  
+   Link: <a href="https://www.unariunwisdom.com/wp-content/uploads/2021/05/Edge-Of-Tomorrow-by-Reinhold-O-Schmidt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unariunwisdom.com/wp-content/uploads/2021/05/Edge-Of-Tomorrow-by-Reinhold-O-Schmidt.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 7. <a id="endnote-7"></a>
    Source: archive.org  
    Title: DTIC AD0688332 djvu.txt  
-   Link: [https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt](https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt)  
+   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
 
 8. <a id="endnote-8"></a>
    Source: ia601904.us.archive.org  
-   Link: [https://ia601904.us.archive.org/30/items/429171208-searching-for-the-string-selected-writings-of-john-a-keel-john-a-keel/429171208-Searching-for-the-String-Selected-Writings-of-John-a-Keel-John-a-Keel.pdf](https://ia601904.us.archive.org/30/items/429171208-searching-for-the-string-selected-writings-of-john-a-keel-john-a-keel/429171208-Searching-for-the-String-Selected-Writings-of-John-a-Keel-John-a-Keel.pdf)  
+   Link: <a href="https://ia601904.us.archive.org/30/items/429171208-searching-for-the-string-selected-writings-of-john-a-keel-john-a-keel/429171208-Searching-for-the-String-Selected-Writings-of-John-a-Keel-John-a-Keel.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601904.us.archive.org/30/items/429171208-searching-for-the-string-selected-writings-of-john-a-keel-john-a-keel/429171208-Searching-for-the-String-Selected-Writings-of-John-a-Keel-John-a-Keel.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt](https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Nazi UFOs  
-   Link: [https://en.wikipedia.org/wiki/Nazi_UFOs](https://en.wikipedia.org/wiki/Nazi_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nazi_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nazi_UFOs</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Reinhold O. Schmidt  
-   Link: [https://fr.wikipedia.org/wiki/Reinhold_O._Schmidt](https://fr.wikipedia.org/wiki/Reinhold_O._Schmidt)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Reinhold_O._Schmidt</a>  
 
 12. <a id="endnote-12"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1957fullrep.htm](https://www.nicap.org/chronos/1957fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1957fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1957fullrep.htm</a>  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Reinhold O. Schmidt  
-   Link: [https://www.youtube.com/watch?v=zjF52HHXw9Q](https://www.youtube.com/watch?v=zjF52HHXw9Q)  
+   Link: <a href="https://www.youtube.com/watch?v=zjF52HHXw9Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zjF52HHXw9Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brown Bag Series: Dr. Nathan Tye...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theblackvault.com  
    Title: The Black Vault FBI Files: The Paranormal Collection  
-   Link: [https://www.theblackvault.com/documentarchive/fbi-files-the-paranormal-collection/](https://www.theblackvault.com/documentarchive/fbi-files-the-paranormal-collection/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/fbi-files-the-paranormal-collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/fbi-files-the-paranormal-collection/</a>  
 
 15. <a id="endnote-15"></a>
    Source: thesaucersthattimeforgot.blogspot.com  
    Title: the trial of ufo gold digger  
-   Link: [https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html](https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html)  
+   Link: <a href="https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html" target="_blank" rel="noopener noreferrer nofollow">https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: governmentattic.org  
    Title: UFOsRelatedSubjBiblio Catoe 1969  
-   Link: [https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf](https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf)  
+   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: abebooks.co.uk  
-   Link: [https://www.abebooks.co.uk/Kearney-Incident--Up-Now---Reinhold-Schmidt-Phoenix/31327158618/bd](https://www.abebooks.co.uk/Kearney-Incident--Up-Now---Reinhold-Schmidt-Phoenix/31327158618/bd)  
+   Link: <a href="https://www.abebooks.co.uk/Kearney-Incident--Up-Now---Reinhold-Schmidt-Phoenix/31327158618/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/Kearney-Incident--Up-Now---Reinhold-Schmidt-Phoenix/31327158618/bd</a>  
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=atttEDOY97U](https://www.youtube.com/watch?v=atttEDOY97U)  
+   Link: <a href="https://www.youtube.com/watch?v=atttEDOY97U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=atttEDOY97U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Long John Nebel - The Flying Saucer Story (George Adamski Interview) [1960s UFO Interview]...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Long John Nebel  
-   Link: [https://www.youtube.com/watch?v=_jclUlNXAhA](https://www.youtube.com/watch?v=_jclUlNXAhA)  
+   Link: <a href="https://www.youtube.com/watch?v=_jclUlNXAhA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_jclUlNXAhA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Brown Bag Series: Dr. Nathan Tye  
-   Link: [https://www.youtube.com/watch?v=zsnO7pR36Ks](https://www.youtube.com/watch?v=zsnO7pR36Ks)  
+   Link: <a href="https://www.youtube.com/watch?v=zsnO7pR36Ks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zsnO7pR36Ks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries and Monsters: Mountain of God UFO Cult | Episode 5 | The George Adamski Story...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/](https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/)  
+   Link: <a href="https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/usnationalarchives/posts/after-investigating-a-possible-ufo-sighting-theunited-states-air-force-would-pla/10156582716052994/</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/achickinthecockpit/posts/im-often-asked-if-ive-seen-anything-weird-up-there-nope-ive-seen-objects-move-in/1395048878662772/](https://www.facebook.com/achickinthecockpit/posts/im-often-asked-if-ive-seen-anything-weird-up-there-nope-ive-seen-objects-move-in/1395048878662772/)  
+   Link: <a href="https://www.facebook.com/achickinthecockpit/posts/im-often-asked-if-ive-seen-anything-weird-up-there-nope-ive-seen-objects-move-in/1395048878662772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/achickinthecockpit/posts/im-often-asked-if-ive-seen-anything-weird-up-there-nope-ive-seen-objects-move-in/1395048878662772/</a>  
 
 23. <a id="endnote-23"></a>
    Source: galaksija.info  
-   Link: [https://galaksija.info/literatura/jk_oth.pdf](https://galaksija.info/literatura/jk_oth.pdf)  
+   Link: <a href="https://galaksija.info/literatura/jk_oth.pdf" target="_blank" rel="noopener noreferrer nofollow">https://galaksija.info/literatura/jk_oth.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/870486901/Reinhold-Schmidt-The-Kearney-Incident-text](https://www.scribd.com/document/870486901/Reinhold-Schmidt-The-Kearney-Incident-text)  
+   Link: <a href="https://www.scribd.com/document/870486901/Reinhold-Schmidt-The-Kearney-Incident-text" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/870486901/Reinhold-Schmidt-The-Kearney-Incident-text</a>  
 
 25. <a id="endnote-25"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/499904453/Ufos-Alien-Contact-Two-Centuries-of-Mystery](https://www.scribd.com/document/499904453/Ufos-Alien-Contact-Two-Centuries-of-Mystery)  
+   Link: <a href="https://www.scribd.com/document/499904453/Ufos-Alien-Contact-Two-Centuries-of-Mystery" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/499904453/Ufos-Alien-Contact-Two-Centuries-of-Mystery</a>  
 
 26. <a id="endnote-26"></a>
    Source: upload.wikimedia.org  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/8/8a/Project_Blue_Book_report_-_1957-11-7230046-Kearney-Nebraska.pdf](https://upload.wikimedia.org/wikipedia/commons/8/8a/Project_Blue_Book_report_-_1957-11-7230046-Kearney-Nebraska.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/8/8a/Project_Blue_Book_report_-_1957-11-7230046-Kearney-Nebraska.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/8/8a/Project_Blue_Book_report_-_1957-11-7230046-Kearney-Nebraska.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheBlackVault/posts/reinhold-schmidt-was-a-1950s-era-ufo-contactee-who-claimed-he-hitched-a-ride-on-/4715272301880976/](https://www.facebook.com/TheBlackVault/posts/reinhold-schmidt-was-a-1950s-era-ufo-contactee-who-claimed-he-hitched-a-ride-on-/4715272301880976/)  
+   Link: <a href="https://www.facebook.com/TheBlackVault/posts/reinhold-schmidt-was-a-1950s-era-ufo-contactee-who-claimed-he-hitched-a-ride-on-/4715272301880976/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBlackVault/posts/reinhold-schmidt-was-a-1950s-era-ufo-contactee-who-claimed-he-hitched-a-ride-on-/4715272301880976/</a>

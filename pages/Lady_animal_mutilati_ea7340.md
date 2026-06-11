@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Lakenheath
   permalink: /lakenheath-episode-1956/
   short_title: Lakenheath
-date: '2026-06-08 23:27:23 '
+date: '2026-06-11 13:16:45 '
 header:
   og_image: /assets/images/Lady_animal_mutilati_ea7340-overview-social.jpg
   preview_image: /assets/images/Lady_animal_mutilati_ea7340-overview.webp
@@ -760,7 +760,6 @@ image: /assets/images/Lady_animal_mutilati_ea7340-overview-social.jpg
 
 The case still matters because it became a template. Later cattle mutilation narratives borrowed several of its features: missing tissue, alleged absence of blood, claimed strange marks nearby, rumoured radiation, and a conflict between local witness impressions and sceptical veterinary explanations. Its evidential value, however, is weakened by delayed examination, scene contamination, changing press details, and the fact that several of the strangest observations were transient and never independently verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.denverlibrary.org">[Denver Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.denverlibrary.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Lady_animal_mutilati_ea7340-overview.webp" | relative_url }}" alt="Overview image for Lady animal mutilation 1966" loading="eager" decoding="sync" fetchpriority="high">
 ## What happened near Alamosa in September 1967?
 
@@ -770,7 +769,6 @@ Accounts then added details that made the death seem less like an ordinary lives
 
 The case entered public consciousness through newspapers and wire-service retellings. A later Colorado Springs Gazette account summarised how the mare’s real name was Lady, while “Snippy” became the catchy public name attached to the story; the same article notes that the press version spread with language about a “flying saucer” or “radioactive surgeon”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazette.com">[Colorado Springs Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazette.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Lady_animal_mutilati_ea7340-Illustration-1-dark.svg" | relative_url }}" alt="Lady animal mutilation 1966 illustration 1" data-theme-src-dark="{{ "/assets/images/Lady_animal_mutilati_ea7340-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lady_animal_mutilati_ea7340-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Lady, Snippy, and the naming confusion
 
@@ -779,7 +777,6 @@ The name problem is not a trivial footnote, because it shows how quickly the cas
 This confusion matters for chronology and source provenance. Once the press name became fixed, it was repeated in UFO books, local tourism, sceptical commentary, and cattle mutilation histories. The Colorado Springs Gazette likewise states that the mare’s name was Lady and that Snippy was the more memorable name picked up internationally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazette.com">[Colorado Springs Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazette.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For a case dossier, the safest wording is therefore: the incident concerns a mare named Lady, widely known as Snippy. Calling it only the “1966 Lady mutilation” risks two errors: the year appears to be 1967 in the strongest available accounts, and the public record is overwhelmingly indexed under “Snippy”.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XmuI58iiK1U" title="Snippy the horse owner Nellie Lewis talks about the bizarre early cattle mutilation case, 1967" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XmuI58iiK1U" target="_blank" rel="noopener noreferrer">Snippy the horse owner Nellie Lewis talks about the bizarre early cattle mutilation case, 1967</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 10.9K &middot; Uploaded: October 2022 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XmuI58iiK1U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XmuI58iiK1U">Open on YouTube</a></p></div></div></div>
 
@@ -793,7 +790,6 @@ Radiation was another part of the lore. The Condon investigators interviewed the
 
 The wider UFO setting was real in the sense that people in the region reported unusual lights and objects. The Condon report listed several local sightings, including older and fall-1967 reports, but concluded that none were current or strange enough to justify detailed investigation. One reported “explosion” of lights was checked for possible satellite re-entry, but the data did not establish a UFO cause for the horse’s death. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case32.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 32: Horse Death</span><span class="citation-popover-snippet">Files Condon Report, Case 32: Horse Death</span></span></span>
 
-
 <img src="{{ "/assets/images/Lady_animal_mutilati_ea7340-Illustration-2-dark.svg" | relative_url }}" alt="Lady animal mutilation 1966 illustration 2" data-theme-src-dark="{{ "/assets/images/Lady_animal_mutilati_ea7340-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lady_animal_mutilati_ea7340-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What did investigators and veterinarians find?
 
@@ -804,7 +800,6 @@ The veterinary interpretation was mundane but important. The carcass was old for
 The scavenger explanation was specific. Magpies and other birds generally cannot peck through intact horse skin, but if they gain access through an opening they can remove accessible flesh and skin. In this case, the Condon report argued, birds could have used the neck cut to strip the head and neck before the carcass was discovered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case32.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Case 32: Horse Death</span><span class="citation-popover-snippet">Files Condon Report, Case 32: Horse Death</span></span></span>
 
 Later accounts introduced another veterinary theory involving bullet wounds. Denver Public Library reports that local veterinarian Wallace Leary, who acquired the carcass for display, found two small-calibre bullet wounds in the right flank and treated them as a possible source of infection. The Colorado Springs Gazette quotes Leary’s theory that.22-calibre shots could have frightened the mare, after which she may have run through wire that cut tissue cleanly. This remains a theory rather than a complete reconstruction, but it gives a naturalistic path from injury to infection, flight, cutting, and scavenging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.denverlibrary.org">[Denver Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.denverlibrary.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1ryEktN2CVA" title="What Happened To Snippy? | Unsolved &amp; Unkempt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1ryEktN2CVA" target="_blank" rel="noopener noreferrer">What Happened To Snippy? | Unsolved &amp; Unkempt</a></p><p class="youtube-embed-meta">Channel: Raleigh Link &middot; Views: 59.9K &middot; Uploaded: May 2023 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1ryEktN2CVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1ryEktN2CVA">Open on YouTube</a></p></div></div></div>
 
@@ -818,7 +813,6 @@ The UFO interpretation faces a further problem: the sightings and the carcass ev
 
 A fair assessment is therefore mixed. The case was unusual in appearance, emotionally powerful, and historically influential. It was not, on the available evidence, a strong demonstration of extraterrestrial involvement, covert surgery, or a technology leaving measurable traces.
 
-
 <img src="{{ "/assets/images/Lady_animal_mutilati_ea7340-Illustration-3-dark.svg" | relative_url }}" alt="Lady animal mutilation 1966 illustration 3" data-theme-src-dark="{{ "/assets/images/Lady_animal_mutilati_ea7340-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lady_animal_mutilati_ea7340-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why did the case become so influential?
 
@@ -827,7 +821,6 @@ Lady/Snippy became influential because it gave later animal mutilation stories a
 The timing also mattered. The late 1960s were already saturated with UFO interest, and the University of Colorado Condon study was operating in that atmosphere. A Library of Congress annotated bibliography entry for the NICAP article “Colorado horse death ruled no UFO case” says Dr Robert Adams of Colorado State University found nothing bizarre and thought the horse probably died from a severe hind-leg infection. The same bibliography also records paired 1968 Fate articles arguing both sides of the “Appaloosa from Alamosa” controversy, showing that the debate was already polarised soon after the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">DTIC AD0688332 djvu.txt</span><span class="citation-popover-snippet">DTIC AD0688332 djvu.txt</span></span></span>
 
 The story then survived because it became part of place identity. The mare’s skeleton moved through local display and collector history; by 2022, reporting placed it at the UFO Watchtower near Hooper, Colorado, as a roadside attraction. That afterlife helps explain why the case remains visible even though the technical evidence is thin: it is simultaneously a livestock death, a UFO legend, a local tourism artefact, and a reference point for later cattle mutilation claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazette.com">[Colorado Springs Gazette]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazette.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O7LpyU1KoSA" title="Horse abducted by aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O7LpyU1KoSA" target="_blank" rel="noopener noreferrer">Horse abducted by aliens</a></p><p class="youtube-embed-meta">Channel: Adam Knapik &middot; Views: 4.5K &middot; Uploaded: January 2009 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O7LpyU1KoSA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O7LpyU1KoSA">Open on YouTube</a></p></div></div></div>
 
@@ -840,44 +833,86 @@ That does not mean every detail is neatly resolved. The exact sequence — injur
 Within the broader UFO case dossier, Lady/Snippy is best treated as a landmark in the history of animal mutilation belief rather than as a high-quality physical-evidence case. Its importance lies less in what it proves and more in what it launched: a durable pattern of claims in which ranch losses, incomplete forensic work, strange lights, local rumour, and distrust of official explanations become fused into a single mystery narrative.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened to Lady the Horse?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened to Lady the Horse?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides the essential baseline for the &#x27;Snippy/Lady&#x27; incident, summarizing the official investigation findings and the subsequent mutila...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Situates rural animal death reports within the longer history of cultural folklore and modern UFO-myth formation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches how to distinguish between natural animal pathology, scavenger activity, and anomalous mutilation claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides context on how scientific studies, like the Condon Report, historically addressed strange livestock death cases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -890,7 +925,7 @@ Within the broader UFO case dossier, Lady/Snippy is best treated as a landmark i
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -914,15 +949,15 @@ Within the broader UFO case dossier, Lady/Snippy is best treated as a landmark i
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Piebald Black &amp; White Cob ornament Leonardo coloured horse pony lover gift boxed"><img src="https://i.ebayimg.com/images/g/hCMAAOSwu9Jb1Jfm/s-l225.jpg" alt="Listing image for Piebald Black &amp; White Cob ornament Leonardo coloured horse pony lover gift boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" target="_blank" rel="sponsored noopener noreferrer">Piebald Black &amp; White Cob ornament Leonardo coloured horse pony lover gift boxed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for horse figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: horse figurine</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -930,15 +965,15 @@ Within the broader UFO case dossier, Lady/Snippy is best treated as a landmark i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black &amp; White horse Cob ornament (Large 25cm) Leonardo coloured horse pony gift"><img src="https://i.ebayimg.com/images/g/-EgAAOSwjZFduys9/s-l225.jpg" alt="Listing image for Black &amp; White horse Cob ornament (Large 25cm) Leonardo coloured horse pony gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" target="_blank" rel="sponsored noopener noreferrer">Black &amp; White horse Cob ornament (Large 25cm) Leonardo coloured horse pony gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for horse figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: horse figurine</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -946,15 +981,15 @@ Within the broader UFO case dossier, Lady/Snippy is best treated as a landmark i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cob horse ornament Piebald Brown &amp; White Figurine - Gypsy Cob Horse Statue"><img src="https://i.ebayimg.com/images/g/ycwAAOSwTYBkN-mT/s-l225.jpg" alt="Listing image for Cob horse ornament Piebald Brown &amp; White Figurine - Gypsy Cob Horse Statue" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" target="_blank" rel="sponsored noopener noreferrer">Cob horse ornament Piebald Brown &amp; White Figurine - Gypsy Cob Horse Statue</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for horse figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: horse figurine</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -962,15 +997,15 @@ Within the broader UFO case dossier, Lady/Snippy is best treated as a landmark i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Shire Cart Horse in harness ornament figurine model Leonardo large (length 22cm)"><img src="https://i.ebayimg.com/images/g/fhIAAOSw9Ydc0w53/s-l225.jpg" alt="Listing image for Shire Cart Horse in harness ornament figurine model Leonardo large (length 22cm)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" target="_blank" rel="sponsored noopener noreferrer">Shire Cart Horse in harness ornament figurine model Leonardo large (length 22cm)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for horse figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: horse figurine</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -978,7 +1013,7 @@ Within the broader UFO case dossier, Lady/Snippy is best treated as a landmark i
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="lady-animal-mutilation-1966-what-really-happened-to-lady-the-horse-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-to-lady-the-horse-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="horse figurine" data-ebay-reference="what-really-happened-to-lady-the-horse-horse-figurine" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1194,90 +1229,90 @@ Within the broader UFO case dossier, Lady/Snippy is best treated as a landmark i
 1. <a id="endnote-1"></a>
    Source: files.ncas.org  
    Title: Files Condon Report, Case 32: Horse Death  
-   Link: [https://files.ncas.org/condon/text/case32.htm](https://files.ncas.org/condon/text/case32.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case32.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case32.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: gazette.com  
-   Link: [https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/](https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/)  
+   Link: <a href="https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/" target="_blank" rel="noopener noreferrer nofollow">https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/</a>  
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
    Title: DTIC AD0688332 djvu.txt  
-   Link: [https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt](https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt)  
+   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
 
 4. <a id="endnote-4"></a>
    Source: archive.org  
    Title: Scientific+Study+Of+Unidentified+Flying+Objects djvu.txt  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
 5. <a id="endnote-5"></a>
    Source: archive.org  
    Title: 412589424 Ufos and the Extraterrestrial Contact Movement v1 djvu.txt  
-   Link: [https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt](https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt)  
+   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
 
 6. <a id="endnote-6"></a>
    Source: history.com  
    Title: cattle mutilation 1970s skinwalker ranch ufos  
-   Link: [https://www.history.com/articles/cattle-mutilation-1970s-skinwalker-ranch-ufos](https://www.history.com/articles/cattle-mutilation-1970s-skinwalker-ranch-ufos)  
+   Link: <a href="https://www.history.com/articles/cattle-mutilation-1970s-skinwalker-ranch-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/cattle-mutilation-1970s-skinwalker-ranch-ufos</a>  
 
 7. <a id="endnote-7"></a>
    Source: history.denverlibrary.org  
-   Link: [https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy](https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy)  
+   Link: <a href="https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Cattle mutilation  
-   Link: [https://en.wikipedia.org/wiki/Cattle_mutilation](https://en.wikipedia.org/wiki/Cattle_mutilation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cattle_mutilation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cattle_mutilation</a>  
 
 9. <a id="endnote-9"></a>
    Source: vault.fbi.gov  
    Title: Animal Mutilation  
-   Link: [https://vault.fbi.gov/Animal%20Mutilation](https://vault.fbi.gov/Animal%20Mutilation)  
+   Link: <a href="https://vault.fbi.gov/Animal%20Mutilation" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Animal%20Mutilation</a>  
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=XmuI58iiK1U](https://www.youtube.com/watch?v=XmuI58iiK1U)  
+   Link: <a href="https://www.youtube.com/watch?v=XmuI58iiK1U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XmuI58iiK1U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Snippy the Horse: America&#x27;s First Alien Mutilation with Katie Paige | CITD 2025...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=XDs8P-JrQgs](https://www.youtube.com/watch?v=XDs8P-JrQgs)  
+   Link: <a href="https://www.youtube.com/watch?v=XDs8P-JrQgs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XDs8P-JrQgs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Mystery of Snippy the Horse: UFO&#x27;s or Natural Causes?...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Unsolved Mystery of Snippy the Horse: UFO's or Natural Causes?  
-   Link: [https://www.youtube.com/watch?v=zuDtNsMCXKA](https://www.youtube.com/watch?v=zuDtNsMCXKA)  
+   Link: <a href="https://www.youtube.com/watch?v=zuDtNsMCXKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zuDtNsMCXKA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Snippy The Horse That Went Viral Unexplained Animal Mutilations...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Horse abducted by aliens  
-   Link: [https://www.youtube.com/watch?v=O7LpyU1KoSA](https://www.youtube.com/watch?v=O7LpyU1KoSA)  
+   Link: <a href="https://www.youtube.com/watch?v=O7LpyU1KoSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O7LpyU1KoSA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Snippy the horse mutilation 1967 Snippy The Horse That Went Viral Unexplained Animal Mutilations One Spark...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/7newsSpotlight/posts/following-on-from-the-7news-spotlight-special-the-ufo-phenomenon-ross-coulthart-/4976948858982655/](https://www.facebook.com/7newsSpotlight/posts/following-on-from-the-7news-spotlight-special-the-ufo-phenomenon-ross-coulthart-/4976948858982655/)  
+   Link: <a href="https://www.facebook.com/7newsSpotlight/posts/following-on-from-the-7news-spotlight-special-the-ufo-phenomenon-ross-coulthart-/4976948858982655/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7newsSpotlight/posts/following-on-from-the-7news-spotlight-special-the-ufo-phenomenon-ross-coulthart-/4976948858982655/</a>  
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database](https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database)  
+   Link: <a href="https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/51179838/UFOlogy-The-Book-NICAP-Database</a>  
 
 16. <a id="endnote-16"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/872217522/Howe-L-M-An-Alien-Harvest-2nd-ed](https://www.scribd.com/document/872217522/Howe-L-M-An-Alien-Harvest-2nd-ed)  
+   Link: <a href="https://www.scribd.com/document/872217522/Howe-L-M-An-Alien-Harvest-2nd-ed" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/872217522/Howe-L-M-An-Alien-Harvest-2nd-ed</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/591315219471234/posts/1390343069568441/](https://www.facebook.com/groups/591315219471234/posts/1390343069568441/)  
+   Link: <a href="https://www.facebook.com/groups/591315219471234/posts/1390343069568441/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/591315219471234/posts/1390343069568441/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ufoupdates/posts/10158793823526790/](https://www.facebook.com/groups/ufoupdates/posts/10158793823526790/)  
+   Link: <a href="https://www.facebook.com/groups/ufoupdates/posts/10158793823526790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufoupdates/posts/10158793823526790/</a>  
 
 19. <a id="endnote-19"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/horror/free-range-organic-terror-the-mystery-of-cattle-mutilations](https://vocal.media/horror/free-range-organic-terror-the-mystery-of-cattle-mutilations)  
+   Link: <a href="https://vocal.media/horror/free-range-organic-terror-the-mystery-of-cattle-mutilations" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/horror/free-range-organic-terror-the-mystery-of-cattle-mutilations</a>

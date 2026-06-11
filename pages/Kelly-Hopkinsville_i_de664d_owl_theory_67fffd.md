@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /kelly-hopkinsville-incident-1955/
 nav_short_title: Owl Theory
 title: Could Owls Explain the Goblins?
-title_full: Could Owls Explain the Goblins? | Kelly Hopkinsville
+title_full: Could Owls Explain the Goblins?
 display_title_short: Owl Theory
 display_title: Owl Theory
 heading_title: Could Owls Explain the Goblins?
@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline-0a7953/
   short_title: Timeline
   heading_title: How Did the Night Unfold?
-date: '2026-06-08 23:30:37 '
+date: '2026-06-11 13:18:32 '
 header:
   og_image: /assets/images/Kelly-Hopkinsville_i_de664d_owl_theory_67fffd-Illustration-1-social.jpg
   preview_image: /assets/images/Kelly-Hopkinsville_i_de664d_owl_theory_67fffd-Illustration-1.webp
@@ -250,7 +250,6 @@ image: /assets/images/Kelly-Hopkinsville_i_de664d_owl_theory_67fffd-Illustration
 
 The most widely discussed sceptical explanation for the Kelly-Hopkinsville incident argues that the witnesses encountered ordinary but frightening natural stimuli that became transformed, through darkness and fear, into “goblins” or alien beings. In this reading, the case does not require a hoax or deliberate fabrication. Instead, it proposes a chain reaction: an unusual light in the sky created expectation and alarm, large nocturnal owls were misidentified at close range, and escalating panic reshaped ambiguous sights and sounds into a sustained siege narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/331" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid This]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">The Kelly-Hopkinsville Encounter9 Oct 2012 —... Kelly incident is easily explained by a meteor and a pair of territorial owls. What a ho...</span></span></span>“owl theory” became especially influential because it tries to explain details that simple dismissal cannot. The Sutton-Lankford group genuinely appeared frightened when they arrived at the Hopkinsville police station. Police found [evidence]({{ 'evidence-899fe7/' | relative_url }}) of heavy gunfire and agitation, but no physical trace of unknown creatures. Sceptics therefore focused less on proving deception and more on explaining how sincere witnesses could misinterpret events under stressful conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span>
 
-
 <img src="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_owl_theory_67fffd-Illustration-1-dark.svg" | relative_url }}" alt="Owl Theory illustration 1" data-theme-src-dark="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_owl_theory_67fffd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_owl_theory_67fffd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Meteor or Sky Trigger
 
@@ -260,7 +259,6 @@ This matters because expectation strongly shapes perception. Once Taylor believe
 
 The meteor explanation also fits the chronology better than theories requiring a landed craft. Witnesses described a luminous object crossing the sky and disappearing beyond the trees, not a clearly observed landing. The later “creatures” appeared separately and under far poorer viewing conditions. Sceptics argue that these two phases were psychologically connected by the witnesses even if they had different natural causes. https <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wbko.com">[www.wbko.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wbko.com</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: August 22, 2025</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KhLc07CEZuE" title="Was This Farmhouse Terrorized by Goblins or Aliens? | Kelly-Hopkinsville Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KhLc07CEZuE" target="_blank" rel="noopener noreferrer">Was This Farmhouse Terrorized by Goblins or Aliens? | Kelly-Hopkinsville Encounter</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 10.7K &middot; Uploaded: February 2025 &middot; Length: 1 hour 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KhLc07CEZuE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KhLc07CEZuE">Open on YouTube</a></p></div></div></div>
 
 ## Could Great Horned Owls Match the Descriptions?
@@ -268,7 +266,6 @@ The meteor explanation also fits the chronology better than theories requiring a
 The owl theory is most closely associated with sceptical investigator Joe Nickell, though similar ideas were later endorsed by other writers and even some UFO researchers. The proposed culprit is usually the great horned owl, a large nocturnal predator common in Kentucky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://razs-midnight-macabre.com/2017/07/10/myths-and-legends-kelly-hopkinsville-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: razs-midnight-macabre.com">[Raz&#x27;s Midnight Macabre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">razs-midnight-macabre.com</span><span class="citation-popover-title">myths and legends kelly hopkinsville encounter</span><span class="citation-popover-snippet">Myths And Legends: Kelly – Hopkinsville Encounter10 Jul 2017 — CSI member and skeptic Joe Nickell notes that the family could have miside...</span></span></span>
 
 Several reported features of the “goblins” overlap surprisingly well with owl characteristics:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -285,7 +282,6 @@ Witness descriptions included creatures peering through windows, appearing in tr
 
 Some reconstructions also note that gunfire itself could have intensified the confusion. Missed shots striking metal objects, trees, or roofing might produce the reported “pinging” sounds later remembered as bullets bouncing harmlessly off creatures. In panic conditions, witnesses may also overestimate how directly they hit a moving target in darkness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beastsoflegend.com/bestiary/cryptids/true-story-hopkinsville-goblins/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beastsoflegend.com">[Beasts of Legend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beastsoflegend.com</span><span class="citation-popover-title">true story hopkinsville goblins</span><span class="citation-popover-snippet">Beasts of LegendThe True Story of the Hopkinsville Goblins8 Jan 2026 — Skeptical analyses propose that large owls with prominent ear tuft...</span></span></span>
 
-
 <img src="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_owl_theory_67fffd-Illustration-2-dark.svg" | relative_url }}" alt="Owl Theory illustration 2" data-theme-src-dark="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_owl_theory_67fffd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_owl_theory_67fffd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Fear and Darkness Matter
 
@@ -296,7 +292,6 @@ The Hopkinsville witnesses were not calmly observing an object from a distance. 
 Psychologists Rodney Schmaltz and Scott Lilienfeld later used the incident as a teaching example for critical thinking and pseudoscience, arguing that emotionally charged group experiences can produce confident but mistaken testimony. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCusing pseudoscience to teach scientific thinking</span><span class="citation-popover-snippet">The “aliens” were in fact, Great Horned Owls, and the eyewitnesses were probably intoxicated...</span></span></span>
 
 Importantly, the sceptical interpretation does not require “mass hallucination” in the clinical sense. A simpler explanation is collective misinterpretation. One frightened person sees something ambiguous, describes it as threatening, and others begin perceiving the same stimulus through that description. In isolated rural darkness, where visibility is poor and adrenaline is high, this process can become self-reinforcing very quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.org.uk/2024/01/the-kentucky-alien-invasion-putting-to-bed-the-myths-and-mysteries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">the kentucky alien invasion putting to bed the myths and mysteries</span><span class="citation-popover-snippet">The SkepticThe Kentucky Alien Invasion: putting to bed the myths and...29 Jan 2024 — One possibility is that if we accept Nickell&#x27;s idea...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A24YEOdnMvI" title="The Kentucky Goblins - Part One | Visitors" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A24YEOdnMvI" target="_blank" rel="noopener noreferrer">The Kentucky Goblins - Part One | Visitors</a></p><p class="youtube-embed-meta">Channel: Bedtime Stories &middot; Views: 1.2M &middot; Uploaded: October 2019 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A24YEOdnMvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A24YEOdnMvI">Open on YouTube</a></p></div></div></div>
 
@@ -310,7 +305,6 @@ Another issue is consistency. Witnesses described claw-like hands, glowing eyes,
 
 There is also debate over intoxication claims. Some later sceptical summaries suggested alcohol may have contributed to the confusion, but contemporary reports stated that officials found no clear evidence of drinking. Because the witnesses included children and multiple adults, stronger intoxication claims remain controversial and weakly evidenced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kelly–Hopkinsville encounter</span><span class="citation-popover-snippet">Kelly–Hopkinsville encounter</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mcccagora.com/2021/02/24/cryptid-corner-the-hopkinsville-goblins/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mcccagora.com">[Mcccagora Finally]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mcccagora.com</span><span class="citation-popover-title">cryptid corner the hopkinsville goblins</span><span class="citation-popover-snippet">Cryptid Corner: The Hopkinsville Goblins24 Feb 2021 — Skeptic Joe Nickell points toward this fact and states that the residents of the ho...</span></span></span>, critics of the owl theory note that it can become overly elastic: whenever a detail seems difficult to explain, another environmental factor is added, such as meteors, foxfire, shadows, or ricochets. Supporters respond that real-world events are often messy combinations of causes rather than single neat explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.org.uk/2024/01/the-kentucky-alien-invasion-putting-to-bed-the-myths-and-mysteries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.org.uk">[The Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.org.uk</span><span class="citation-popover-title">the kentucky alien invasion putting to bed the myths and mysteries</span><span class="citation-popover-snippet">The SkepticThe Kentucky Alien Invasion: putting to bed the myths and...29 Jan 2024 — One possibility is that if we accept Nickell&#x27;s idea...</span></span></span>
 
-
 <img src="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_owl_theory_67fffd-Illustration-3-dark.svg" | relative_url }}" alt="Owl Theory illustration 3" data-theme-src-dark="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_owl_theory_67fffd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kelly-Hopkinsville_i_de664d_owl_theory_67fffd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Owl Theory Endured
 
@@ -322,49 +316,89 @@ Even some UFO researchers eventually accepted that owls were at least part of th
 
 The result is a case that remains culturally powerful precisely because neither side fully closes it. Believers point to multiple witnesses and intense fear. Sceptics point to the lack of evidence and the striking overlap with known nocturnal wildlife and human perceptual error. The owl theory sits at the centre of that debate because it offers a mechanism that is mundane, psychologically plausible, and still strange enough to explain why the night felt terrifying to the people who lived through it.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zh2D1n62G_o" title="The Alien Encounter That Led To A Shootout • Mystery Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zh2D1n62G_o" target="_blank" rel="noopener noreferrer">The Alien Encounter That Led To A Shootout • Mystery Files</a></p><p class="youtube-embed-meta">Channel: Watcher &middot; Views: 1.6M &middot; Uploaded: March 2025 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zh2D1n62G_o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zh2D1n62G_o">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TewA_K0m2hE" title="Hopkinsville Goblins: The TRUTH behind Kentucky’s “Little Grey Men”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TewA_K0m2hE" target="_blank" rel="noopener noreferrer">Hopkinsville Goblins: The TRUTH behind Kentucky’s “Little Grey Men”</a></p><p class="youtube-embed-meta">Channel: Cryptids Across the Atlas &middot; Views: 776 &middot; Uploaded: February 2023 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TewA_K0m2hE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TewA_K0m2hE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Could Owls Explain the Goblins?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Could Owls Explain the Goblins?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Kelly Hopkinsville guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Kelly+Hopkinsville+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spinning+the+Law+by+Kendall+Coffey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spinning the Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0s1aSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spinning the Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Spinning+the+Law+by+Kendall+Coffey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spinning the Law">Spinning the Law</a>
+        </h4>
+        <p class="fr-book-author">By Kendall Coffey</p>
+        
+        <p class="fr-book-desc">Deconstructs the exact behavioral profile of the aggressive great horned owl, evaluating how fear and low lighting distorted it into glow...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Spinning+the+Law+by+Kendall+Coffey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Great Horned Owl guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Great+Horned+Owl+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides an encyclopedic overview of the Kentucky incident, tracing the history of the owl theory from its earliest investigative origin.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Shooting Star guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Shooting+Star+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Addresses how escalating panic, night shadows, and heavy gun fire damage skew immediate sensory memories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches the essential behavioral tracking steps to isolate a factual astronomical event from subsequent group panic responses.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spinning+the+Law&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spinning the Law</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -401,15 +435,15 @@ The result is a case that remains culturally powerful precisely because neither 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -417,15 +451,15 @@ The result is a case that remains culturally powerful precisely because neither 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -433,15 +467,15 @@ The result is a case that remains culturally powerful precisely because neither 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -449,15 +483,15 @@ The result is a case that remains culturally powerful precisely because neither 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -465,7 +499,7 @@ The result is a case that remains culturally powerful precisely because neither 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="owl-theory-could-owls-explain-the-goblins-kelly-hopkinsville-incident-1955-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -681,130 +715,130 @@ The result is a case that remains culturally powerful precisely because neither 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kelly–Hopkinsville encounter  
-   Link: [https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter](https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kelly%E2%80%93Hopkinsville_encounter</a>  
 
 2. <a id="endnote-2"></a>
    Source: skeptoid.com  
-   Link: [https://skeptoid.com/episodes/331](https://skeptoid.com/episodes/331)  
+   Link: <a href="https://skeptoid.com/episodes/331" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/331</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kelly-Hopkinsville Encounter9 Oct 2012 —... Kelly incident is easily explained by a meteor and a pair of territorial owls. What a ho...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: wbko.com  
-   Link: [https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/](https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/)  
+   Link: <a href="https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.wbko.com70](https://www.wbko.com70) years later: Revisiting the Kelly-Hopkinsville EncounterAugust 22, 2025 — 21 Aug 2025 — Initially, the family thou...</p></details>
    Published: August 22, 2025  
 
 4. <a id="endnote-4"></a>
    Source: hangar1publishing.com  
    Title: This theory  
-   Link: [https://hangar1publishing.com/blogs/cryptids/kelly-hopkinsville-encounter?srsltid=AfmBOoqXdXwv_2MQktSEJT3UCpFOMRiCtY_lt_uZNsPjvu0xA3tuiITL](https://hangar1publishing.com/blogs/cryptids/kelly-hopkinsville-encounter?srsltid=AfmBOoqXdXwv_2MQktSEJT3UCpFOMRiCtY_lt_uZNsPjvu0xA3tuiITL)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hangar1publishingThe Mysterious Kelly–Hopkinsville Encounter: Alien or Owl?On the skeptical side, one of the most popular explanations fo...</p></details>
+   Link: <a href="https://hangar1publishing.com/blogs/cryptids/kelly-hopkinsville-encounter?srsltid=AfmBOoqXdXwv_2MQktSEJT3UCpFOMRiCtY_lt_uZNsPjvu0xA3tuiITL" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/cryptids/kelly-hopkinsville-encounter?srsltid=AfmBOoqXdXwv_2MQktSEJT3UCpFOMRiCtY_lt_uZNsPjvu0xA3tuiITL</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Kelly–Hopkinsville Encounter: Alien or Owl?On the skeptical side, one of the most popular explanations fo...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: mcccagora.com  
    Title: cryptid corner the hopkinsville goblins  
-   Link: [https://mcccagora.com/2021/02/24/cryptid-corner-the-hopkinsville-goblins/](https://mcccagora.com/2021/02/24/cryptid-corner-the-hopkinsville-goblins/)  
+   Link: <a href="https://mcccagora.com/2021/02/24/cryptid-corner-the-hopkinsville-goblins/" target="_blank" rel="noopener noreferrer nofollow">https://mcccagora.com/2021/02/24/cryptid-corner-the-hopkinsville-goblins/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptid Corner: The Hopkinsville Goblins24 Feb 2021 — Skeptic Joe Nickell points toward this fact and states that the residents of the ho...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/cryptids/kelly-hopkinsville-encounter?srsltid=AfmBOopYEgSxun4ffV0e71xpPDwlJAE_JG0Mq6P7dk-LH3hiDylqjOyl](https://hangar1publishing.com/blogs/cryptids/kelly-hopkinsville-encounter?srsltid=AfmBOopYEgSxun4ffV0e71xpPDwlJAE_JG0Mq6P7dk-LH3hiDylqjOyl)  
+   Link: <a href="https://hangar1publishing.com/blogs/cryptids/kelly-hopkinsville-encounter?srsltid=AfmBOopYEgSxun4ffV0e71xpPDwlJAE_JG0Mq6P7dk-LH3hiDylqjOyl" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/cryptids/kelly-hopkinsville-encounter?srsltid=AfmBOopYEgSxun4ffV0e71xpPDwlJAE_JG0Mq6P7dk-LH3hiDylqjOyl</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Kelly–Hopkinsville Encounter: Alien or Owl?On the skeptical side, one of the most popular explanations for the Kelly-Hopki...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/cryptids/kelly-hopkinsville-encounter?srsltid=AfmBOorvY5J6nt1xKyC-E-SQ8Bm4k6LkoiT0U3_Y-jkKcUw9ksBW1gaP](https://hangar1publishing.com/blogs/cryptids/kelly-hopkinsville-encounter?srsltid=AfmBOorvY5J6nt1xKyC-E-SQ8Bm4k6LkoiT0U3_Y-jkKcUw9ksBW1gaP)  
+   Link: <a href="https://hangar1publishing.com/blogs/cryptids/kelly-hopkinsville-encounter?srsltid=AfmBOorvY5J6nt1xKyC-E-SQ8Bm4k6LkoiT0U3_Y-jkKcUw9ksBW1gaP" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/cryptids/kelly-hopkinsville-encounter?srsltid=AfmBOorvY5J6nt1xKyC-E-SQ8Bm4k6LkoiT0U3_Y-jkKcUw9ksBW1gaP</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Kelly–Hopkinsville Encounter: Alien or Owl?On the skeptical side, one of the most popular explanations for the Kelly-Hopki...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: history.com  
    Title: little green men origins aliens hopkinsville kelly  
-   Link: [https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly](https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly)  
+   Link: <a href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the &#x27;Little Green Men&#x27; Phenomenon Began on a...2 Jan 2020 — The mythology began, in part, on the night of August 21, 1955, when a la...</p></details>
    Published: August 21, 1955  
 
 9. <a id="endnote-9"></a>
    Source: thehistorybandits.com  
-   Link: [https://thehistorybandits.com/2016/02/26/the-kelly-hopkinsville-encounter-a-historical-perspective/](https://thehistorybandits.com/2016/02/26/the-kelly-hopkinsville-encounter-a-historical-perspective/)  
+   Link: <a href="https://thehistorybandits.com/2016/02/26/the-kelly-hopkinsville-encounter-a-historical-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://thehistorybandits.com/2016/02/26/the-kelly-hopkinsville-encounter-a-historical-perspective/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The History BanditsThe Kelly-Hopkinsville Encounter: A Historical Perspective26 Feb 2016 — And great horned owls, which are very common t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: skeptic.org.uk  
    Title: the kentucky alien invasion putting to bed the myths and mysteries  
-   Link: [https://www.skeptic.org.uk/2024/01/the-kentucky-alien-invasion-putting-to-bed-the-myths-and-mysteries/](https://www.skeptic.org.uk/2024/01/the-kentucky-alien-invasion-putting-to-bed-the-myths-and-mysteries/)  
+   Link: <a href="https://www.skeptic.org.uk/2024/01/the-kentucky-alien-invasion-putting-to-bed-the-myths-and-mysteries/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2024/01/the-kentucky-alien-invasion-putting-to-bed-the-myths-and-mysteries/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The SkepticThe Kentucky Alien Invasion: putting to bed the myths and...29 Jan 2024 — One possibility is that if we accept Nickell&#x27;s idea...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: skeptic.org.uk  
    Title: and miss what's really  
-   Link: [https://www.skeptic.org.uk/2021/04/what-links-the-flatwoods-monster-the-kelly-hopkinsville-alien-encounter-and-mothman/](https://www.skeptic.org.uk/2021/04/what-links-the-flatwoods-monster-the-kelly-hopkinsville-alien-encounter-and-mothman/)  
+   Link: <a href="https://www.skeptic.org.uk/2021/04/what-links-the-flatwoods-monster-the-kelly-hopkinsville-alien-encounter-and-mothman/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2021/04/what-links-the-flatwoods-monster-the-kelly-hopkinsville-alien-encounter-and-mothman/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The SkepticWhat links the Flatwoods Monster, the Kelly–Hopkinsville...23 Apr 2021 — The connection between three legendary paranormal si...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: razs-midnight-macabre.com  
-   Title: myths and legends [kelly hopkinsville](&#123;&#123; 'kelly-hopkinsville-incident-1955/' | relative_url &#125;&#125;) encounter  
-   Link: [https://razs-midnight-macabre.com/2017/07/10/myths-and-legends-kelly-hopkinsville-encounter/](https://razs-midnight-macabre.com/2017/07/10/myths-and-legends-kelly-hopkinsville-encounter/)  
+   Title: myths and legends kelly hopkinsville encounter  
+   Link: <a href="https://razs-midnight-macabre.com/2017/07/10/myths-and-legends-kelly-hopkinsville-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://razs-midnight-macabre.com/2017/07/10/myths-and-legends-kelly-hopkinsville-encounter/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Myths And Legends: Kelly – Hopkinsville Encounter10 Jul 2017 — CSI member and skeptic Joe Nickell notes that the family could have miside...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: beastsoflegend.com  
    Title: true story hopkinsville goblins  
-   Link: [https://beastsoflegend.com/bestiary/cryptids/true-story-hopkinsville-goblins/](https://beastsoflegend.com/bestiary/cryptids/true-story-hopkinsville-goblins/)  
+   Link: <a href="https://beastsoflegend.com/bestiary/cryptids/true-story-hopkinsville-goblins/" target="_blank" rel="noopener noreferrer nofollow">https://beastsoflegend.com/bestiary/cryptids/true-story-hopkinsville-goblins/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Beasts of LegendThe True Story of the Hopkinsville Goblins8 Jan 2026 — Skeptical analyses propose that large owls with prominent ear tuft...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1002571683091379/posts/7534258233255992/](https://www.facebook.com/groups/1002571683091379/posts/7534258233255992/)  
+   Link: <a href="https://www.facebook.com/groups/1002571683091379/posts/7534258233255992/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1002571683091379/posts/7534258233255992/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hopkinsville Goblin sighting explanationGreat Horned Owls: Skeptics argue frightened owls may have been misidentified.... Most researche...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: strangeandtwisted.com  
-   Link: [https://strangeandtwisted.com/blogs/stories/the-hopkinsville-goblins-unraveling-kentuckys-most-terrifying-1955-ufo-case-and-its-eerie-folklore?srsltid=AfmBOorpMv57amk85DZw6nl8UbYvkGvmghQ8lC0oDaQVzD0rNVq85Pnu](https://strangeandtwisted.com/blogs/stories/the-hopkinsville-goblins-unraveling-kentuckys-most-terrifying-1955-ufo-case-and-its-eerie-folklore?srsltid=AfmBOorpMv57amk85DZw6nl8UbYvkGvmghQ8lC0oDaQVzD0rNVq85Pnu)  
+   Link: <a href="https://strangeandtwisted.com/blogs/stories/the-hopkinsville-goblins-unraveling-kentuckys-most-terrifying-1955-ufo-case-and-its-eerie-folklore?srsltid=AfmBOorpMv57amk85DZw6nl8UbYvkGvmghQ8lC0oDaQVzD0rNVq85Pnu" target="_blank" rel="noopener noreferrer nofollow">https://strangeandtwisted.com/blogs/stories/the-hopkinsville-goblins-unraveling-kentuckys-most-terrifying-1955-ufo-case-and-its-eerie-folklore?srsltid=AfmBOorpMv57amk85DZw6nl8UbYvkGvmghQ8lC0oDaQVzD0rNVq85Pnu</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hopkinsville Goblins: America&#x27;s Strangest Alien Encounter23 Oct 2025 — Skeptics have diligently proposed various rational explanation...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-continues-our-three-part-series-seeing-stranger-/1309099267918232/](https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-continues-our-three-part-series-seeing-stranger-/1309099267918232/)  
+   Link: <a href="https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-continues-our-three-part-series-seeing-stranger-/1309099267918232/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KentuckyStatePolice/posts/today-the-kentucky-state-police-continues-our-three-part-series-seeing-stranger-/1309099267918232/</a>  
 
 17. <a id="endnote-17"></a>
    Source: discoveryuk.com  
    Title: the kelly hopkinsville encounter a close extraterrestrial call  
-   Link: [https://www.discoveryuk.com/mysteries/the-kelly-hopkinsville-encounter-a-close-extraterrestrial-call/](https://www.discoveryuk.com/mysteries/the-kelly-hopkinsville-encounter-a-close-extraterrestrial-call/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/the-kelly-hopkinsville-encounter-a-close-extraterrestrial-call/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-kelly-hopkinsville-encounter-a-close-extraterrestrial-call/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kelly-Hopkinsville Encounter: A Close Extraterrestrial...14 Dec 2023 — Another theory posits that the family might have seen meteors...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: librarianofcelaeno.substack.com  
    Title: Library of Celaeno When Goblins Attack!  
-   Link: [https://librarianofcelaeno.substack.com/p/when-goblins-attack](https://librarianofcelaeno.substack.com/p/when-goblins-attack)  
+   Link: <a href="https://librarianofcelaeno.substack.com/p/when-goblins-attack" target="_blank" rel="noopener noreferrer nofollow">https://librarianofcelaeno.substack.com/p/when-goblins-attack</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Library of CelaenoWhen Goblins Attack! - by Librarian of CelaenoThe Skeptoid piece follows Nickell in positing that the best explanation...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCusing pseudoscience to teach scientific thinking  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The “aliens” were in fact, Great Horned Owls, and the eyewitnesses were probably intoxicated...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/2grp8v/the_kellyhopkinsville_alien_encounter/](https://www.reddit.com/r/UnresolvedMysteries/comments/2grp8v/the_kellyhopkinsville_alien_encounter/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/2grp8v/the_kellyhopkinsville_alien_encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/2grp8v/the_kellyhopkinsville_alien_encounter/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>they came back outside to investigate it, they...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: countryliving.com  
    Title: eclipseville hopkinsville ky history  
-   Link: [https://www.countryliving.com/life/a44064/eclipseville-hopkinsville-ky-history/](https://www.countryliving.com/life/a44064/eclipseville-hopkinsville-ky-history/)  
+   Link: <a href="https://www.countryliving.com/life/a44064/eclipseville-hopkinsville-ky-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.countryliving.com/life/a44064/eclipseville-hopkinsville-ky-history/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hopkinsville, Kentucky&#x27;s Historic UFO Sighting21 Jul 2017 — The Kelly-Hopkinsville encounter of Aug. 21, 1955 is where the term “little g...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: atlasobscura.com  
    Title: But gradually he came  
-   Link: [https://www.atlasobscura.com/articles/column-hopkinsville-goblins-spielberg](https://www.atlasobscura.com/articles/column-hopkinsville-goblins-spielberg)  
+   Link: <a href="https://www.atlasobscura.com/articles/column-hopkinsville-goblins-spielberg" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/articles/column-hopkinsville-goblins-spielberg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Long, Surprising Legacy of the Hopkinsville Goblins8 Feb 2024 — Hynek started out as a skeptic, and helped the Air Force come up with...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: completely-kentucky.fandom.com  
    Title: Completely Kentucky Kelly-Hopkinsville Encounter  
-   Link: [https://completely-kentucky.fandom.com/wiki/Kelly-Hopkinsville_Encounter](https://completely-kentucky.fandom.com/wiki/Kelly-Hopkinsville_Encounter)  
+   Link: <a href="https://completely-kentucky.fandom.com/wiki/Kelly-Hopkinsville_Encounter" target="_blank" rel="noopener noreferrer nofollow">https://completely-kentucky.fandom.com/wiki/Kelly-Hopkinsville_Encounter</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>explanation of the case is great horned owls. UFOlogist Jerome Clark...Read more...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /day-family-abduction-fe300b-index/
 description: Focused pages that expand on Day family abduction 1974.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Day_family_abduction_fe300b
 parent_title: Day family abduction 1974

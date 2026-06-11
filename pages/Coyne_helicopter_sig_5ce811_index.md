@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /coyne-helicopter-sig-5ce811-index/
 description: Focused pages that expand on Coyne helicopter sighting 1973.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Coyne_helicopter_sig_5ce811
 parent_title: Coyne helicopter sighting 1973

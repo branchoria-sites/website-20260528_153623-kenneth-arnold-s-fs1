@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /gemini-4-sighting-1965/
 nav_short_title: Timeline
 title: When Did the Gemini Sighting Happen?
-title_full: When Did the Gemini Sighting Happen? | Gemini 4 Sighting
+title_full: When Did the Gemini Sighting Happen?
 display_title_short: Timeline
 display_title: Timeline
 heading_title: When Did the Gemini Sighting Happen?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /photo-evidence/
   short_title: Photo Evidence
   heading_title: Did the Photo Prove Anything?
-date: '2026-06-08 23:23:14 '
+date: '2026-06-11 13:14:17 '
 header:
   og_image: /assets/images/Gemini_4_sighting_19_9c351d_sighting_timeline_e09e7d-Illustration-1-social.jpg
   preview_image: /assets/images/Gemini_4_sighting_19_9c351d_sighting_timeline_e09e7d-Illustration-1.webp
@@ -242,12 +242,10 @@ image: /assets/images/Gemini_4_sighting_19_9c351d_sighting_timeline_e09e7d-Illus
 
 ## Introduction
 
-James McDivitt’s [Gemini 4 sighting]({{ 'gemini-4-sighting-1965/' | relative_url }}) is often retold as an isolated “astronaut UFO encounter”, but the timing of the event changes how the episode is understood. The report did not happen during a calm observational exercise. It occurred inside one of NASA’s busiest early orbital missions: a four-day flight involving rendezvous attempts, spacecraft manoeuvring, tracking experiments, photography tasks, and recovery from the exhaustion and operational strain that followed America’s first spacewalk. When the sighting is placed back into that sequence, the event looks less like a clean mystery and more like a fleeting observation made in a cluttered orbital environment where astronauts were already searching for, tracking, and visually estimating nearby hardware. NASA <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/19670095754/downloads/19670095754.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerGEMINI/PROGRAM MISSION REPORT JUNE 1965by CD MENT · 1965 — The major objectives of the Gemini IV mission wer...</span></span></span>
-
+James McDivitt’s Gemini 4 sighting is often retold as an isolated “astronaut UFO encounter”, but the timing of the event changes how the episode is understood. The report did not happen during a calm observational exercise. It occurred inside one of NASA’s busiest early orbital missions: a four-day flight involving rendezvous attempts, spacecraft manoeuvring, tracking experiments, photography tasks, and recovery from the exhaustion and operational strain that followed America’s first spacewalk. When the sighting is placed back into that sequence, the event looks less like a clean mystery and more like a fleeting observation made in a cluttered orbital environment where astronauts were already searching for, tracking, and visually estimating nearby hardware. NASA <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/19670095754/downloads/19670095754.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerGEMINI/PROGRAM MISSION REPORT JUNE 1965by CD MENT · 1965 — The major objectives of the Gemini IV mission wer...</span></span></span>
 
 <img src="{{ "/assets/images/Gemini_4_sighting_19_9c351d_sighting_timeline_e09e7d-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Gemini_4_sighting_19_9c351d_sighting_timeline_e09e7d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gemini_4_sighting_19_9c351d_sighting_timeline_e09e7d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The chronology matters because many later retellings compress the mission into a simple narrative: McDivitt saw a strange object and photographed it. Contemporary mission records instead show a rapidly evolving operational context in which NASA itself was discussing possible identifications almost immediately, including the Pegasus satellite and hardware associated with Gemini IV’s own launch sequence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2026/01/gt04-pao.pdf?emrc=70d6cf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">gt04 pao</span><span class="citation-popover-snippet">NASATape 1, Page 1 This is Gemini Control Houston. Good...Jan 29, 2026 — 4 day flight mission of Gemini IV. The spacecraft is now over S...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gemini_4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gemini 4</span><span class="citation-popover-snippet">Gemini 4</span></span></span>
-
+The chronology matters because many later retellings compress the mission into a simple narrative: McDivitt saw a strange object and photographed it. Contemporary mission records instead show a rapidly evolving operational context in which NASA itself was discussing possible identifications almost immediately, including the Pegasus satellite and hardware associated with Gemini IV’s own launch sequence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2026/01/gt04-pao.pdf?emrc=70d6cf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">gt04 pao</span><span class="citation-popover-snippet">Tape 1, Page 1 This is Gemini Control Houston. Good...Jan 29, 2026 — 4 day flight mission of Gemini IV. The spacecraft is now over S...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gemini_4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gemini 4</span><span class="citation-popover-snippet">Gemini 4</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Uzu0abuj0p4" title="Manned Space History | Launch of Gemini IV | 60th Anniversary | June 3 1965" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Uzu0abuj0p4" target="_blank" rel="noopener noreferrer">Manned Space History | Launch of Gemini IV | 60th Anniversary | June 3 1965</a></p><p class="youtube-embed-meta">Channel: Manned Space &middot; Views: 467 &middot; Uploaded: June 2025 &middot; Length: 4 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Uzu0abuj0p4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Uzu0abuj0p4">Open on YouTube</a></p></div></div></div>
 
@@ -263,7 +261,6 @@ This matters because the sighting occurred after the crew had already spent hour
 
 The mission also became physically demanding very quickly. Ed White’s historic spacewalk on 3 June lasted around 23 minutes and generated enormous excitement, but it also disrupted timelines, increased workload, and consumed crew energy. NASA histories describe the mission as an operationally intense flight in which the astronauts struggled with fatigue, heat, workload management, and the still-primitive realities of long-duration orbital flight. Springer By the time the sighting occurred <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/content/pdf/10.1007/978-3-319-76675-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">An Astronaut Steps into the Void</span><span class="citation-popover-snippet">Pilot Edward H. White II (left) is accompanied by Command Pilot...Read more...</span></span></span>, Gemini IV was already a mission under strain rather than a controlled observational platform.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e7mVTFAspPk" title="Gemini 4 EVA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e7mVTFAspPk" target="_blank" rel="noopener noreferrer">Gemini 4 EVA</a></p><p class="youtube-embed-meta">Channel: lunarmodule5 &middot; Views: 39.9K &middot; Uploaded: May 2010 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e7mVTFAspPk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e7mVTFAspPk">Open on YouTube</a></p></div></div></div>
 
 ## The near-real-time mission commentary
@@ -272,16 +269,15 @@ A key feature of the Gemini IV case is that the sighting entered the public reco
 
 According to the transcript, McDivitt described an object with protrusions or “arms” extending from it. He also reported difficulty keeping it in view because of the Sun’s angle and the rapid viewing geometry involved in orbital flight. He attempted to photograph or film the object, but the viewing opportunity was brief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2026/01/gt09a2-p.pdf?emrc=cc6d72" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">gt09a2 p</span><span class="citation-popover-snippet">&amp;MINI g-A/MISSION COMMENTARY 6/3/66, 3:35 a.m....29 Jan 2026 — The Gemini Launch Vehicle was fueled last night in an operation that took...</span></span></span>
 
-The timing within the mission is important. McDivitt later stated that Ed White was asleep during the observation, leaving no second eyewitness inside the capsule at the crucial moment. Later interviews also described the spacecraft drifting quietly with systems minimised when the object appeared in the window. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/108cfh7/gemini_and_apollo_astronaut_jim_mcdivitt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditGemini and Apollo astronaut Jim McDivitt recounting his...January 10, 2023 — Gemini and Apollo astronaut Jim McDivitt recounting h...</span><span class="citation-popover-meta">Published: January 10, 2023</span></span></span>
+The timing within the mission is important. McDivitt later stated that Ed White was asleep during the observation, leaving no second eyewitness inside the capsule at the crucial moment. Later interviews also described the spacecraft drifting quietly with systems minimised when the object appeared in the window. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/108cfh7/gemini_and_apollo_astronaut_jim_mcdivitt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Gemini and Apollo astronaut Jim McDivitt recounting his...January 10, 2023 — Gemini and Apollo astronaut Jim McDivitt recounting h...</span><span class="citation-popover-meta">Published: January 10, 2023</span></span></span>
 
-Yet even in near-real time, mission controllers did not treat the sighting as evidence of an unknown craft. The transcript shows personnel immediately trying to correlate the report with known orbital objects. NASA commentators referred to consultations with Goddard Space Flight Center and NORAD, eventually leaning toward Pegasus as the most likely identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2026/01/gt04-pao.pdf?emrc=70d6cf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">gt04 pao</span><span class="citation-popover-snippet">NASATape 1, Page 1 This is Gemini Control Houston. Good...Jan 29, 2026 — 4 day flight mission of Gemini IV. The spacecraft is now over S...</span></span></span>
+Yet even in near-real time, mission controllers did not treat the sighting as evidence of an unknown craft. The transcript shows personnel immediately trying to correlate the report with known orbital objects. NASA commentators referred to consultations with Goddard Space Flight Center and NORAD, eventually leaning toward Pegasus as the most likely identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2026/01/gt04-pao.pdf?emrc=70d6cf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">gt04 pao</span><span class="citation-popover-snippet">Tape 1, Page 1 This is Gemini Control Houston. Good...Jan 29, 2026 — 4 day flight mission of Gemini IV. The spacecraft is now over S...</span></span></span>
 
 That response reveals how normal object sightings already were becoming during Gemini operations. Controllers were not entering a “first contact” scenario; they were performing orbital traffic identification.
 
 Another revealing detail is that Pegasus tracking itself was part of ongoing mission activity. Gemini IV had explicit tracking tasks related to the Pegasus micrometeoroid satellite programme, and mission commentary shows discussion of viewing geometry, slant range, and observational opportunities associated with Pegasus. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/19670095754/downloads/19670095754.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerGEMINI/PROGRAM MISSION REPORT JUNE 1965by CD MENT · 1965 — The major objectives of the Gemini IV mission wer...</span></span></span>
 
 This meant McDivitt’s observation happened during a mission phase where astronauts and controllers were already discussing where artificial objects should appear relative to Gemini IV.
-
 
 <img src="{{ "/assets/images/Gemini_4_sighting_19_9c351d_sighting_timeline_e09e7d-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Gemini_4_sighting_19_9c351d_sighting_timeline_e09e7d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gemini_4_sighting_19_9c351d_sighting_timeline_e09e7d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why timing changes the interpretation
@@ -290,7 +286,7 @@ The strongest argument for placing the sighting back into mission chronology is 
 
 In many UFO retellings, the story is simplified into a trained astronaut unexpectedly encountering a structured object in otherwise empty space. The operational reality was much messier. Gemini IV existed in an orbit crowded with known hardware: the Titan II second stage, orbital debris, possible insulation material, the Pegasus satellite programme, and other reflective objects whose appearance could change radically with sunlight angle and spacecraft orientation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/19670095754/downloads/19670095754.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerGEMINI/PROGRAM MISSION REPORT JUNE 1965by CD MENT · 1965 — The major objectives of the Gemini IV mission wer...</span></span></span>
 
-The timing also explains why McDivitt’s description varied in certainty. He consistently maintained that he saw a real object, but later comments often became more cautious about what the object actually was. In later interviews he suggested it might have been some form of debris or man-made material rather than an extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/y8ioy1/gemini_iv_astronaut_james_mcdivitt_discusses_his/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">gemini iv astronaut james mcdivitt discusses his</span><span class="citation-popover-snippet">RedditGemini IV astronaut James McDivitt discusses his UFO...20 Oct 2022 — Gemini IV astronaut James McDivitt&#x27;s UFO sighting in space...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/18u7mmw/commander_jim_mcdivitt_spotting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">commander jim mcdivitt spotting</span><span class="citation-popover-snippet">r/UFOsIt was during Gemini IV in 1965 when McDivitt witnessed his UFO, while Ed White was asleep, which he later suspected was a prosaic...</span></span></span>
+The timing also explains why McDivitt’s description varied in certainty. He consistently maintained that he saw a real object, but later comments often became more cautious about what the object actually was. In later interviews he suggested it might have been some form of debris or man-made material rather than an extraordinary craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/y8ioy1/gemini_iv_astronaut_james_mcdivitt_discusses_his/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">gemini iv astronaut james mcdivitt discusses his</span><span class="citation-popover-snippet">Gemini IV astronaut James McDivitt discusses his UFO...20 Oct 2022 — Gemini IV astronaut James McDivitt&#x27;s UFO sighting in space...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/18u7mmw/commander_jim_mcdivitt_spotting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">commander jim mcdivitt spotting</span><span class="citation-popover-snippet">r/UFOsIt was during Gemini IV in 1965 when McDivitt witnessed his UFO, while Ed White was asleep, which he later suspected was a prosaic...</span></span></span>
 
 That evolution makes more sense when viewed against the mission context. McDivitt was not observing from a stable laboratory setting. He was operating inside a rapidly moving spacecraft after major mission tasks, while trying to interpret fleeting visual information through spacecraft windows under difficult lighting conditions.
 
@@ -304,7 +300,6 @@ In practical terms, the sighting timeline points toward three broad interpretati
 
 What the timeline does not support is the idea of a prolonged, independently verified encounter with a clearly structured extraterrestrial craft.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NOfwg2Wj2HA" title="Google Gemini 4: The AI That Understands the World Like Never Before" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NOfwg2Wj2HA" target="_blank" rel="noopener noreferrer">Google Gemini 4: The AI That Understands the World Like Never Before</a></p><p class="youtube-embed-meta">Channel: BitBiasedAI &middot; Views: 34.9K &middot; Uploaded: December 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NOfwg2Wj2HA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NOfwg2Wj2HA">Open on YouTube</a></p></div></div></div>
 
 ## The mission setting versus later UFO mythology
@@ -317,48 +312,89 @@ Seen in that light, McDivitt’s report becomes historically valuable not becaus
 
 That operational context is the key to understanding why the Gemini IV sighting remains famous while also remaining unresolved.
 
-
 <img src="{{ "/assets/images/Gemini_4_sighting_19_9c351d_sighting_timeline_e09e7d-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Gemini_4_sighting_19_9c351d_sighting_timeline_e09e7d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gemini_4_sighting_19_9c351d_sighting_timeline_e09e7d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for When Did the Gemini Sighting Happen?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to When Did the Gemini Sighting Happen?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Titan II stage guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Titan+II+stage+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Explains the psychological factors that cause flash observations inside a cluttered environment to be misconstrued as structured crafts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">NASA mission report guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=NASA+mission+report+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Examines how official agencies evaluate real-time mission logs to separate hardware components from anomalous targets.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">James Mc Divitt guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=James+Mc+Divitt+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Space+Debris+by+Heiner+Klinkrad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Space Debris on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EqD4h59KUXgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Space Debris" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Space+Debris+by+Heiner+Klinkrad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space Debris">Space Debris</a>
+        </h4>
+        <p class="fr-book-author">By Heiner Klinkrad</p>
+        
+        <p class="fr-book-desc">Provides tracking data parameters for early hardware components floating alongside multi-stage launch capsules.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Space+Debris+by+Heiner+Klinkrad&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=On+the+Shoulders+of+Titans%3A+A+History+of+Project+Gemini+Barton+C.+Hacker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On the Shoulders of Titans: A History of Project Gemini on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=On+the+Shoulders+of+Titans%3A+A+History+of+Project+Gemini+Barton+C.+Hacker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Shoulders of Titans: A History of Project Gemini">On the Shoulders of Titans: A History of Project Gemini</a>
+        </h4>
+        <p class="fr-book-author">By Barton C. Hacker</p>
+        
+        <p class="fr-book-desc">Details the precise timeline of America&#x27;s first spacewalk, the subsequent crew exhaustion, and the orbital rendezvous practice context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=On+the+Shoulders+of+Titans%3A+A+History+of+Project+Gemini+Barton+C.+Hacker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Space+Debris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Space Debris</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -395,15 +431,15 @@ That operational context is the key to understanding why the Gemini IV sighting 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA North America From Satellite Earth Photograph Extra Large Art Poster"><img src="{{ '/assets/images/marketplace-covers/abf16d1c0e82bbd33312.jpg' | relative_url }}" alt="Listing image for Space NASA North America From Satellite Earth Photograph Extra Large Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Space NASA North America From Satellite Earth Photograph Extra Large Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA space poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -411,15 +447,15 @@ That operational context is the key to understanding why the Gemini IV sighting 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA SPACE TRAVEL POSTERS Wall Art Print Poster Galaxy Holiday Retro Tourism"><img src="{{ '/assets/images/marketplace-covers/dc92bd4eb6cee821beab.jpg' | relative_url }}" alt="Listing image for NASA SPACE TRAVEL POSTERS Wall Art Print Poster Galaxy Holiday Retro Tourism" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">NASA SPACE TRAVEL POSTERS Wall Art Print Poster Galaxy Holiday Retro Tourism</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA space poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -427,15 +463,15 @@ That operational context is the key to understanding why the Gemini IV sighting 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/4a818993d7f5d223dd20.jpg' | relative_url }}" alt="Listing image for Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA space poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -443,15 +479,15 @@ That operational context is the key to understanding why the Gemini IV sighting 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Earth Space Oasis NASA Space Tours Travel XL Giant Panel Poster (8 Sections)"><img src="{{ '/assets/images/marketplace-covers/6601eb9149449c7f26c3.jpg' | relative_url }}" alt="Listing image for Earth Space Oasis NASA Space Tours Travel XL Giant Panel Poster (8 Sections)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Earth Space Oasis NASA Space Tours Travel XL Giant Panel Poster (8 Sections)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA space poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -459,7 +495,7 @@ That operational context is the key to understanding why the Gemini IV sighting 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="timeline-01a648-when-did-the-gemini-sighting-happen-gemini-4-sighting-1965-nasa-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -675,168 +711,168 @@ That operational context is the key to understanding why the Gemini IV sighting 
 1. <a id="endnote-1"></a>
    Source: nasa.gov  
    Title: gt04 pao  
-   Link: [https://www.nasa.gov/wp-content/uploads/2026/01/gt04-pao.pdf?emrc=70d6cf](https://www.nasa.gov/wp-content/uploads/2026/01/gt04-pao.pdf?emrc=70d6cf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASATape 1, Page 1 This is Gemini Control Houston. Good...Jan 29, 2026 — 4 day flight mission of Gemini IV. The spacecraft is now over S...</p></details>
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2026/01/gt04-pao.pdf?emrc=70d6cf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2026/01/gt04-pao.pdf?emrc=70d6cf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tape 1, Page 1 This is Gemini Control Houston. Good...Jan 29, 2026 — 4 day flight mission of Gemini IV. The spacecraft is now over S...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19670095754/downloads/19670095754.pdf](https://ntrs.nasa.gov/api/citations/19670095754/downloads/19670095754.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19670095754/downloads/19670095754.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19670095754/downloads/19670095754.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerGEMINI/PROGRAM MISSION REPORT JUNE 1965by CD MENT · 1965 — The major objectives of the Gemini IV mission wer...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Gemini 4  
-   Link: [https://en.wikipedia.org/wiki/Gemini_4](https://en.wikipedia.org/wiki/Gemini_4)  
+   Link: <a href="https://en.wikipedia.org/wiki/Gemini_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gemini_4</a>  
 
 4. <a id="endnote-4"></a>
    Source: nasa.gov  
    Title: gemini iv  
-   Link: [https://www.nasa.gov/mission/gemini-iv/](https://www.nasa.gov/mission/gemini-iv/)  
+   Link: <a href="https://www.nasa.gov/mission/gemini-iv/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/mission/gemini-iv/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 22, 2015 — McDivitt Oral History. Transcript of the June 29, 1999 oral history interview with Jim McDivitt. Keep Exploring. Discover...</p></details>
    Published: May 22, 2015  
 
 5. <a id="endnote-5"></a>
    Source: link.springer.com  
    Title: An Astronaut Steps into the Void  
-   Link: [https://link.springer.com/content/pdf/10.1007/978-3-319-76675-1.pdf](https://link.springer.com/content/pdf/10.1007/978-3-319-76675-1.pdf)  
+   Link: <a href="https://link.springer.com/content/pdf/10.1007/978-3-319-76675-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/content/pdf/10.1007/978-3-319-76675-1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot Edward H. White II (left) is accompanied by Command Pilot...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nasa.gov  
    Title: mission transcripts mercury gemini and apollo  
-   Link: [https://www.nasa.gov/history/mission-transcripts-mercury-gemini-and-apollo/](https://www.nasa.gov/history/mission-transcripts-mercury-gemini-and-apollo/)  
+   Link: <a href="https://www.nasa.gov/history/mission-transcripts-mercury-gemini-and-apollo/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/mission-transcripts-mercury-gemini-and-apollo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mission Transcripts: Mercury, Gemini, and Apollo30 Jan 2026 — The Mission Transcript Collection includes scanned transcripts from recordi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/108cfh7/gemini_and_apollo_astronaut_jim_mcdivitt/](https://www.reddit.com/r/UFOs/comments/108cfh7/gemini_and_apollo_astronaut_jim_mcdivitt/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditGemini and Apollo astronaut Jim McDivitt recounting his...January 10, 2023 — Gemini and Apollo astronaut Jim McDivitt recounting h...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/108cfh7/gemini_and_apollo_astronaut_jim_mcdivitt/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/108cfh7/gemini_and_apollo_astronaut_jim_mcdivitt/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gemini and Apollo astronaut Jim McDivitt recounting his...January 10, 2023 — Gemini and Apollo astronaut Jim McDivitt recounting h...</p></details>
    Published: January 10, 2023  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: gemini iv astronaut james mcdivitt discusses his  
-   Link: [https://www.reddit.com/r/UFOs/comments/y8ioy1/gemini_iv_astronaut_james_mcdivitt_discusses_his/](https://www.reddit.com/r/UFOs/comments/y8ioy1/gemini_iv_astronaut_james_mcdivitt_discusses_his/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditGemini IV astronaut James McDivitt discusses his UFO...20 Oct 2022 — Gemini IV astronaut James McDivitt&#x27;s UFO sighting in space...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/y8ioy1/gemini_iv_astronaut_james_mcdivitt_discusses_his/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/y8ioy1/gemini_iv_astronaut_james_mcdivitt_discusses_his/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gemini IV astronaut James McDivitt discusses his UFO...20 Oct 2022 — Gemini IV astronaut James McDivitt&#x27;s UFO sighting in space...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: commander jim mcdivitt spotting  
-   Link: [https://www.reddit.com/r/UFOs/comments/18u7mmw/commander_jim_mcdivitt_spotting/](https://www.reddit.com/r/UFOs/comments/18u7mmw/commander_jim_mcdivitt_spotting/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/18u7mmw/commander_jim_mcdivitt_spotting/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18u7mmw/commander_jim_mcdivitt_spotting/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOsIt was during Gemini IV in 1965 when McDivitt witnessed his UFO, while Ed White was asleep, which he later suspected was a prosaic...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: UFO sightings in outer space  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space](https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in outer spaceDuring the Gemini 4 mission, pilot Jim McDivitt spotted an object that he... &quot;The Gemini 4 UFO&quot;. UFO Repo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: James Mc Divitt  
-   Link: [https://en.wikipedia.org/wiki/James_McDivitt](https://en.wikipedia.org/wiki/James_McDivitt)  
+   Link: <a href="https://en.wikipedia.org/wiki/James_McDivitt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/James_McDivitt</a>  
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/px593c/official_nasa_ufo_sighting_from_gemini_mission/](https://www.reddit.com/r/ufo/comments/px593c/official_nasa_ufo_sighting_from_gemini_mission/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/px593c/official_nasa_ufo_sighting_from_gemini_mission/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/px593c/official_nasa_ufo_sighting_from_gemini_mission/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Official NASA UFO sighting from Gemini missionJames McDivitt Gemini UFO Photograph - June 1965 · possible ufo sighting · NASA has many Hi...</p></details>
    Published: June 1965  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: James Mc Divitt Gemini UFO Photograph  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/px8hjc/james_mcdivitt_gemini_ufo_photograph_june_1965/](https://www.reddit.com/r/HighStrangeness/comments/px8hjc/james_mcdivitt_gemini_ufo_photograph_june_1965/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/px8hjc/james_mcdivitt_gemini_ufo_photograph_june_1965/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/px8hjc/james_mcdivitt_gemini_ufo_photograph_june_1965/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James McDivitt Gemini UFO Photograph - June 1965June 4, 1965, second day of the 4-day orbital mission, Gemini-4, astronaut McDivitt repor...</p></details>
    Published: June 4, 1965  
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: "Well it was a UFO  
-   Link: [https://www.reddit.com/r/UFOs/comments/xu40rf/gemini_iv_astronaut_james_mcdivitt_talks_about/](https://www.reddit.com/r/UFOs/comments/xu40rf/gemini_iv_astronaut_james_mcdivitt_talks_about/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/xu40rf/gemini_iv_astronaut_james_mcdivitt_talks_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/xu40rf/gemini_iv_astronaut_james_mcdivitt_talks_about/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gemini IV astronaut James McDivitt talks about his UFO...3 Oct 2022 — Gemini IV astronaut James McDivitt talks about his UFO sighting in...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/1o6zwv9/gemini_4_astronaut_james_mcdivitt_cylindrical_ufo/](https://www.reddit.com/r/HighStrangeness/comments/1o6zwv9/gemini_4_astronaut_james_mcdivitt_cylindrical_ufo/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1o6zwv9/gemini_4_astronaut_james_mcdivitt_cylindrical_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1o6zwv9/gemini_4_astronaut_james_mcdivitt_cylindrical_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gemini 4 Astronaut James McDivitt Cylindrical UFO Seen...This is Evidence that NASA is in fact withholding [photo evidence](&amp;#123;&amp;#123; &#x27;photo-evidence/&#x27; | relative_url &amp;#125;&amp;#125;) of UFO encount...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: gemini.com  
-   Link: [https://www.gemini.com/](https://www.gemini.com/)  
+   Link: <a href="https://www.gemini.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.gemini.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gemini ExchangeThe crypto super app for trading, predicting, and earning. Buy 90+ cryptos, trade prediction markets, and earn with stakin...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nasa.gov  
    Title: gt09a2 p  
-   Link: [https://www.nasa.gov/wp-content/uploads/2026/01/gt09a2-p.pdf?emrc=cc6d72](https://www.nasa.gov/wp-content/uploads/2026/01/gt09a2-p.pdf?emrc=cc6d72)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2026/01/gt09a2-p.pdf?emrc=cc6d72" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2026/01/gt09a2-p.pdf?emrc=cc6d72</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp;MINI g-A/MISSION COMMENTARY 6/3/66, 3:35 a.m....29 Jan 2026 — The Gemini Launch Vehicle was fueled last night in an operation that took...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: epizodsspace.airbase.ru  
    Title: Epizods Spacegemini 4  
-   Link: [https://epizodsspace.airbase.ru/bibl/inostr-yazyki/nasa/Gemini_4_A_Walk_in_Space-_EP-26.pdf](https://epizodsspace.airbase.ru/bibl/inostr-yazyki/nasa/Gemini_4_A_Walk_in_Space-_EP-26.pdf)  
+   Link: <a href="https://epizodsspace.airbase.ru/bibl/inostr-yazyki/nasa/Gemini_4_A_Walk_in_Space-_EP-26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://epizodsspace.airbase.ru/bibl/inostr-yazyki/nasa/Gemini_4_A_Walk_in_Space-_EP-26.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>extravehicular activity - a walk in spaceMcDivitt as command pilot, and. Astronaut White as pilot, began at 11:16 a.m. EDT on June 3 from...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: military-history.fandom.com  
    Title: James Mc Divitt  
-   Link: [https://military-history.fandom.com/wiki/James_McDivitt](https://military-history.fandom.com/wiki/James_McDivitt)  
+   Link: <a href="https://military-history.fandom.com/wiki/James_McDivitt" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/James_McDivitt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>McDivittIt occurred in 1965, when James McDivitt and Ed White were passing over Hawaii in Gemini 4 and spotted what McDivitt described as...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheWorldsofDavidDarling/posts/ed-white-photographed-by-commander-jim-mcdivitt-during-the-gemini-4-mission-in-j/1387566983172186/](https://www.facebook.com/TheWorldsofDavidDarling/posts/ed-white-photographed-by-commander-jim-mcdivitt-during-the-gemini-4-mission-in-j/1387566983172186/)  
+   Link: <a href="https://www.facebook.com/TheWorldsofDavidDarling/posts/ed-white-photographed-by-commander-jim-mcdivitt-during-the-gemini-4-mission-in-j/1387566983172186/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWorldsofDavidDarling/posts/ed-white-photographed-by-commander-jim-mcdivitt-during-the-gemini-4-mission-in-j/1387566983172186/</a>  
 
 21. <a id="endnote-21"></a>
    Source: epizodsspace.airbase.ru  
-   Link: [https://epizodsspace.airbase.ru/bibl/inostr-yazyki/nasa/NASA_MSC_Gemini_4.pdf](https://epizodsspace.airbase.ru/bibl/inostr-yazyki/nasa/NASA_MSC_Gemini_4.pdf)  
+   Link: <a href="https://epizodsspace.airbase.ru/bibl/inostr-yazyki/nasa/NASA_MSC_Gemini_4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://epizodsspace.airbase.ru/bibl/inostr-yazyki/nasa/NASA_MSC_Gemini_4.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Epizods Spacegemini 4 flightMcDivitt started by discussing the launch and first orbit, during which an effort was made to stay with the s...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: honeysucklecreek.net  
-   Link: [https://honeysucklecreek.net/other_stations/carnarvon/GT4_audio.html](https://honeysucklecreek.net/other_stations/carnarvon/GT4_audio.html)  
+   Link: <a href="https://honeysucklecreek.net/other_stations/carnarvon/GT4_audio.html" target="_blank" rel="noopener noreferrer nofollow">https://honeysucklecreek.net/other_stations/carnarvon/GT4_audio.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gemini IV audio recorded at CarnarvonGemini IV audio as recorded at Carnarvon. Hamish Lindsay (who manned the Voice Receivers at Carnarvo...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXXNLLuDtCX/?hl=en](https://www.instagram.com/reel/DXXNLLuDtCX/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DXXNLLuDtCX/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXXNLLuDtCX/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mission control in Houston his sighting of an unidentified object...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DEyTw1XJYm6/?hl=en](https://www.instagram.com/reel/DEyTw1XJYm6/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DEyTw1XJYm6/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DEyTw1XJYm6/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 6, 1966, was...Using real-time updates, animations, and expert commentary, CBS made the technical complexities of the mission acces...</p></details>
    Published: June 6, 1966  
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Uzu0abuj0p4](https://www.youtube.com/watch?v=Uzu0abuj0p4)  
+   Link: <a href="https://www.youtube.com/watch?v=Uzu0abuj0p4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Uzu0abuj0p4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>B. General James McDivitt&#x27;s testimony of Gemini IV UFO/UAP sighting - Join my NEW channel for more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: instagram.com  
    Title: He described it as a white,  
-   Link: [https://www.instagram.com/reels/DL-IQI3hE6v/](https://www.instagram.com/reels/DL-IQI3hE6v/)  
+   Link: <a href="https://www.instagram.com/reels/DL-IQI3hE6v/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reels/DL-IQI3hE6v/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>During the 1965 Gemini IV mission, NASA astronaut...During the 1965 Gemini IV mission, NASA astronaut James McDivitt reported seeing an...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: [https://www.esa.int/ESA_Multimedia/Videos/Undated/The_Four_Days_of_Gemini_42](https://www.esa.int/ESA_Multimedia/Videos/Undated/The_Four_Days_of_Gemini_42)  
+   Link: <a href="https://www.esa.int/ESA_Multimedia/Videos/Undated/The_Four_Days_of_Gemini_42" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/ESA_Multimedia/Videos/Undated/The_Four_Days_of_Gemini_42</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - The Four Days of Gemini 4The mission was launched on June 3, 1965 and landed on June 7, 1965. The crew: James...</p></details>
    Published: June 3, 1965  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: "LAUNCH OF GEMINI IV  
-   Link: [https://www.youtube.com/watch?v=l6wzZTbYHRg](https://www.youtube.com/watch?v=l6wzZTbYHRg)  
+   Link: <a href="https://www.youtube.com/watch?v=l6wzZTbYHRg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l6wzZTbYHRg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 3, 1965&quot; - multiple angles...Gemini 4 (officially Gemini IV)[3] was the second crewed spaceflight in NASA&#x27;s Project Gemini, occurri...</p></details>
    Published: June 3, 1965  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/ancientsecrets/posts/659464076315532/](https://www.facebook.com/groups/ancientsecrets/posts/659464076315532/)  
+   Link: <a href="https://www.facebook.com/groups/ancientsecrets/posts/659464076315532/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ancientsecrets/posts/659464076315532/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He Saw And Photographed Gemini 4 UFO (Video...Eyewitness states:- In June 1965, Major James McDivitt witnessed, filmed, and photographed...</p></details>
-   Published: June 1965  
+   Published: June 1965

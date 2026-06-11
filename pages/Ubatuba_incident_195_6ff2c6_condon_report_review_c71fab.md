@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /ubatuba-incident-1957/
 nav_short_title: Official Review
 title: How Official Investigators Read the Ubatuba Evidence
-title_full: How Official Investigators Read the Ubatuba Evidence | Ubatuba
+title_full: How Official Investigators Read the Ubatuba Evidence
 display_title_short: Official Review
 display_title: Official Review
 heading_title: How Official Investigators Read the Ubatuba Evidence
@@ -239,7 +239,7 @@ next_link:
   permalink: /witness-trail/
   short_title: Witness Trail
   heading_title: Who Really Saw the Ubatuba Explosion?
-date: '2026-06-08 23:23:25 '
+date: '2026-06-11 13:14:23 '
 header:
   og_image: /assets/images/Ubatuba_incident_195_6ff2c6_condon_report_review_c71fab-Illustration-1-social.jpg
   preview_image: /assets/images/Ubatuba_incident_195_6ff2c6_condon_report_review_c71fab-Illustration-1.webp
@@ -249,7 +249,6 @@ image: /assets/images/Ubatuba_incident_195_6ff2c6_condon_report_review_c71fab-Il
 ## Introduction
 
 The Ubatuba fragments became one of the few UFO-related materials to receive something resembling formal scientific scrutiny during the late 1960s. That scrutiny mattered because the case had already acquired a reputation for involving “ultra-pure” magnesium supposedly beyond ordinary industrial capability in 1957. When investigators associated with the University of Colorado UFO study — commonly called the Condon Report project — examined the material, they did not confirm the strongest claims. Instead, their work complicated the story. The samples still appeared unusual enough to attract attention, but neutron activation testing and impurity analysis weakened the idea that the fragments represented an impossibly pure or obviously non-terrestrial metal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">NCAS FilesCondon Report Section III, Chapter 3: Direct Physical...The neutron activation analysis also was utilized as a means of checki...</span></span></span> NICAP The official-style review therefore shifted the debate. Before the Colorado investigation <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/ubatuba/WALKER-JOHNSON-JUFOS%20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">ject (Condon Committee). The basis for...Read more...</span></span></span>, advocates often emphasised the magnesium’s apparent purity and density anomalies. Afterward, the argument became narrower and more cautious: the fragments were real magnesium specimens with an uncertain origin, incomplete chain of custody, and ambiguous laboratory results that did not justify an extraterrestrial conclusion. The case survived as a scientific curiosity rather than a confirmed technological mystery.
-
 
 <img src="{{ "/assets/images/Ubatuba_incident_195_6ff2c6_condon_report_review_c71fab-Illustration-1-dark.svg" | relative_url }}" alt="Official Review illustration 1" data-theme-src-dark="{{ "/assets/images/Ubatuba_incident_195_6ff2c6_condon_report_review_c71fab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ubatuba_incident_195_6ff2c6_condon_report_review_c71fab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Colorado project examined the sample
@@ -268,12 +267,11 @@ The resulting examination represented one of the most institutionalised reviews 
 
 One reason the Ubatuba fragments gained notoriety was the repeated assertion that the magnesium was purer than commercially available material from the 1950s. However, the Colorado-associated analysis significantly weakened that claim.
 
-According to later summaries of the Colorado work, investigators compared the Ubatuba material against high-purity magnesium samples produced by Dow Chemical through triple sublimation techniques. The implication was important: industrially refined magnesium of very high purity already existed on Earth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scirp.org/journal/paperinformation?paperid=149827" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scirp.org">[SCIRP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scirp.org</span><span class="citation-popover-snippet">SCIRPVery High-Temperature Superconductivity of Pure Mg...February 28, 2026 — Since they used neutron activation and gamma ray spectrosc...</span><span class="citation-popover-meta">Published: February 28, 2026</span></span></span>
+According to later summaries of the Colorado work, investigators compared the Ubatuba material against high-purity magnesium samples produced by Dow Chemical through triple sublimation techniques. The implication was important: industrially refined magnesium of very high purity already existed on Earth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scirp.org/journal/paperinformation?paperid=149827" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scirp.org">[SCIRP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scirp.org</span><span class="citation-popover-snippet">Very High-Temperature Superconductivity of Pure Mg...February 28, 2026 — Since they used neutron activation and gamma ray spectrosc...</span><span class="citation-popover-meta">Published: February 28, 2026</span></span></span>
 
 The Colorado review also subjected the fragment to neutron activation analysis, a method used to identify trace elements by irradiating a sample and measuring resulting radioactive signatures. That testing reportedly revealed multiple impurities that earlier examinations had missed. Rather than finding a chemically impossible specimen, investigators found a magnesium sample containing detectable contaminant elements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">NCAS FilesCondon Report Section III, Chapter 3: Direct Physical...The neutron activation analysis also was utilized as a means of checki...</span></span></span>
 
 This mattered because the mythology surrounding Ubatuba depended heavily on the idea of near-perfect purity. Once impurities became measurable, the fragments looked less like an artefact beyond human metallurgy and more like a specialised industrial product of uncertain provenance.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cYPCKIL7oVw" title="UFOTV Presents UFOs OUT OF THE BLUE - A James Fox Film" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cYPCKIL7oVw" target="_blank" rel="noopener noreferrer">UFOTV Presents UFOs OUT OF THE BLUE - A James Fox Film</a></p><p class="youtube-embed-meta">Channel: UFO CENTRAL &middot; Views: 9.2M &middot; Uploaded: November 2011 &middot; Length: 1 hour 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cYPCKIL7oVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cYPCKIL7oVw">Open on YouTube</a></p></div></div></div>
 
@@ -295,7 +293,6 @@ That ambiguity helped preserve the case within UFO literature. Critics could poi
 
 The debate therefore shifted from “impossible metal” to “unusual but explainable metal versus unusual and still unresolved metal”. The Colorado study did not end discussion of Ubatuba, but it narrowed the range of scientifically defensible claims.
 
-
 <img src="{{ "/assets/images/Ubatuba_incident_195_6ff2c6_condon_report_review_c71fab-Illustration-2-dark.svg" | relative_url }}" alt="Official Review illustration 2" data-theme-src-dark="{{ "/assets/images/Ubatuba_incident_195_6ff2c6_condon_report_review_c71fab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ubatuba_incident_195_6ff2c6_condon_report_review_c71fab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the official-style review could not resolve
 
@@ -307,7 +304,6 @@ No official investigator succeeded in identifying the anonymous individual who s
 
 That distinction is central to understanding why the case remained unresolved. Laboratory analysis can establish what a sample is made of, but not necessarily where it came from.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jEUnBEKEKCs" title="ASTEROIDS! | Animated 360 VR Special [HD] | Elizabeth Banks, INVASION SEQUEL!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jEUnBEKEKCs" target="_blank" rel="noopener noreferrer">ASTEROIDS! | Animated 360 VR Special [HD] | Elizabeth Banks, INVASION SEQUEL!</a></p><p class="youtube-embed-meta">Channel: Baobab Studios &middot; Views: 491.8K &middot; Uploaded: December 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jEUnBEKEKCs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jEUnBEKEKCs">Open on YouTube</a></p></div></div></div>
 
 ### The review did not prove a hoax either
@@ -318,7 +314,6 @@ This is one reason the Ubatuba fragments continued to circulate through scientif
 
 The overall trajectory of official-style scrutiny therefore produced a mixed outcome:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The strongest extraordinary claims weakened under laboratory testing.
@@ -327,7 +322,6 @@ The overall trajectory of official-style scrutiny therefore produced a mixed out
 * Yet the material was not fully explained in historical context, and the origin story remained unresolved rather than conclusively disproven.
 
 </div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SZ0fKW5PttM" title="INVASION! | Animated 360 VR Movie [HD] | Ethan Hawke" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SZ0fKW5PttM" target="_blank" rel="noopener noreferrer">INVASION! | Animated 360 VR Movie [HD] | Ethan Hawke</a></p><p class="youtube-embed-meta">Channel: Baobab Studios &middot; Views: 2.0M &middot; Uploaded: December 2016 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SZ0fKW5PttM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SZ0fKW5PttM">Open on YouTube</a></p></div></div></div>
 
@@ -343,48 +337,89 @@ Second, the Colorado findings imposed limits on what advocates could plausibly c
 
 In that sense, the official-style scrutiny did not solve the Ubatuba mystery so much as redefine it. The enduring question ceased to be whether scientists had found alien metal and became instead whether an oddly sourced [magnesium fragment]({{ 'metal-tests/' | relative_url }}) from 1957 reflected misunderstood industrial material, contamination and legend-building, or a genuinely anomalous object whose history can no longer be reconstructed with confidence.
 
-
 <img src="{{ "/assets/images/Ubatuba_incident_195_6ff2c6_condon_report_review_c71fab-Illustration-3-dark.svg" | relative_url }}" alt="Official Review illustration 3" data-theme-src-dark="{{ "/assets/images/Ubatuba_incident_195_6ff2c6_condon_report_review_c71fab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ubatuba_incident_195_6ff2c6_condon_report_review_c71fab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Official Investigators Read the Ubatuba Evidence, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Official Investigators Read the Ubatuba Evidence. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Condon Report guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Condon+Report+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Tracks why Edward Condon&#x27;s project selected specific physical trace cases to determine if scientific resources were being spent wisely.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Ubatuba Magnesium guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Ubatuba+Magnesium+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Details why academic research teams must focus on precision impurity tracking rather than endorsing sensational public narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Ubatuba Case guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Ubatuba+Case+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Deconstructs the severe pitfalls that unfold when an incomplete chain of custody surrounds a real, unusual magnesium specimen.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Logan&#x27;s Run on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Logan&#x27;s Run">Logan&#x27;s Run</a>
+        </h4>
+        <p class="fr-book-author">By William F. Nolan, George Clayton Johnson</p>
+        
+        <p class="fr-book-desc">Details the neutron activation testing and impurity analysis that systematically weakened the &#x27;ultra-pure&#x27; magnesium claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -421,15 +456,15 @@ In that sense, the official-style scrutiny did not solve the Ubatuba mystery so 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -437,15 +472,15 @@ In that sense, the official-style scrutiny did not solve the Ubatuba mystery so 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -453,15 +488,15 @@ In that sense, the official-style scrutiny did not solve the Ubatuba mystery so 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -469,15 +504,15 @@ In that sense, the official-style scrutiny did not solve the Ubatuba mystery so 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -485,7 +520,7 @@ In that sense, the official-style scrutiny did not solve the Ubatuba mystery so 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="official-review-how-official-investigators-read-the-ubatuba-evidence-ubatuba-incident-1957-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -700,60 +735,60 @@ In that sense, the official-style scrutiny did not solve the Ubatuba mystery so 
 
 1. <a id="endnote-1"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/s3chap03.htm](https://files.ncas.org/condon/text/s3chap03.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap03.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCAS FilesCondon Report Section III, Chapter 3: Direct Physical...The neutron activation analysis also was utilized as a means of checki...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/ubatuba/WALKER-JOHNSON-JUFOS%20.pdf](https://www.nicap.org/reports/ubatuba/WALKER-JOHNSON-JUFOS%20.pdf)  
+   Link: <a href="https://www.nicap.org/reports/ubatuba/WALKER-JOHNSON-JUFOS%20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/ubatuba/WALKER-JOHNSON-JUFOS%20.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ject (Condon Committee). The basis for...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium](https://www.researchgate.net/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium)  
+   Link: <a href="https://www.researchgate.net/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Composition Analysis of the Brazil MagnesiumThis analysis indicates that the existing Brazil samples are not as pure as magne- sium speci...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: scirp.org  
-   Link: [https://www.scirp.org/journal/paperinformation?paperid=149827](https://www.scirp.org/journal/paperinformation?paperid=149827)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SCIRPVery High-Temperature Superconductivity of Pure Mg...February 28, 2026 — Since they used neutron activation and gamma ray spectrosc...</p></details>
+   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=149827" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=149827</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Very High-Temperature Superconductivity of Pure Mg...February 28, 2026 — Since they used neutron activation and gamma ray spectrosc...</p></details>
    Published: February 28, 2026  
 
 5. <a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/Plot-of-the-determination-of-the-isotope-ratios-25-Mg-24-Mg-and-26-Mg-24-Mg-From_fig1_360788800](https://www.researchgate.net/figure/Plot-of-the-determination-of-the-isotope-ratios-25-Mg-24-Mg-and-26-Mg-24-Mg-From_fig1_360788800)  
+   Link: <a href="https://www.researchgate.net/figure/Plot-of-the-determination-of-the-isotope-ratios-25-Mg-24-Mg-and-26-Mg-24-Mg-From_fig1_360788800" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Plot-of-the-determination-of-the-isotope-ratios-25-Mg-24-Mg-and-26-Mg-24-Mg-From_fig1_360788800</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Plot of the determination of the isotope ratios 25 MgHe performed careful measurements of the chemical composition of Ubatuba Mg for samp...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf](https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Peter_Sturrock/publication/237233241_Composition_Analysis_of_the_Brazil_Magnesium/links/5474a9cb0cf29afed60f8e5c/Composition-Analysis-of-the-Brazil-Magnesium.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Composition Analysis of the Brazil MagnesiumWe see that the isotopic composi- tions of these four specimens are indistinguishable: the is...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/360788800_Isotope_Ratios_and_Chemical_Analysis_of_the_1957_Brazilian_Ubatuba_Fragment](https://www.researchgate.net/publication/360788800_Isotope_Ratios_and_Chemical_Analysis_of_the_1957_Brazilian_Ubatuba_Fragment)  
+   Link: <a href="https://www.researchgate.net/publication/360788800_Isotope_Ratios_and_Chemical_Analysis_of_the_1957_Brazilian_Ubatuba_Fragment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360788800_Isotope_Ratios_and_Chemical_Analysis_of_the_1957_Brazilian_Ubatuba_Fragment</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Isotope Ratios and Chemical Analysis of the 1957 Brazilian...A sample from the Ubatuba fragment collected in Brazil in 1957 was tested w...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
    Title: Peter STURROCK  
-   Link: [https://www.researchgate.net/profile/Peter-Sturrock](https://www.researchgate.net/profile/Peter-Sturrock)  
+   Link: <a href="https://www.researchgate.net/profile/Peter-Sturrock" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Peter-Sturrock</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Applied PhysicsPeter A. Sturrock, Analysis of Homestake, Gallex and GNO measurements reveals evidence of variability of pre...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf](https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Final Report of the. Scienti fj c Study of Un;,dentified Flying Objects condllcted by the &#x27;in:&#x27;,ers i ty of Colorado under contract to t~...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: uap-blog.com  
-   Link: [https://uap-blog.com/wordpress/wp-content/uploads/2022/01/What_do_we_Know_about_the_Material_Compo.pdf](https://uap-blog.com/wordpress/wp-content/uploads/2022/01/What_do_we_Know_about_the_Material_Compo.pdf)  
+   Link: <a href="https://uap-blog.com/wordpress/wp-content/uploads/2022/01/What_do_we_Know_about_the_Material_Compo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uap-blog.com/wordpress/wp-content/uploads/2022/01/What_do_we_Know_about_the_Material_Compo.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP et autres UFOWHAT DO WE KNOW - UAP et autres UFOJanuary 27, 2022 — If the sample was entirely composed of Mg26 the density would be 1...</p></details>
    Published: January 27, 2022  
 
 11. <a id="endnote-11"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/2415/1565](https://journalofscientificexploration.org/index.php/jse/article/view/2415/1565)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2415/1565" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2415/1565</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationIsotope Ratios and Chemical Analysis of the 1957 Brazilian...22 May 2022 — A sample from the Ubatuba fr...</p></details>
    Published: May 2022  
 
@@ -762,55 +797,55 @@ In that sense, the official-style scrutiny did not solve the Ubatuba mystery so 
 12. <a id="endnote-12"></a>
    Source: gizmodo.com  
    Title: pentagon publishes report on material from a reported alien aircraft 2000469433  
-   Link: [https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433](https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433)  
+   Link: <a href="https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Publishes Report on Material From an Alleged...11 Jul 2024 — Oak Ridge National Laboratory scientists studied the scrap of meta...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: academia.edu  
    Title: Isotope Ratios and Chemical Analysis of the 1957 Brazilian Ubatuba Fragment  
-   Link: [https://www.academia.edu/130231629/Isotope_Ratios_and_Chemical_Analysis_of_the_1957_Brazilian_Ubatuba_Fragment](https://www.academia.edu/130231629/Isotope_Ratios_and_Chemical_Analysis_of_the_1957_Brazilian_Ubatuba_Fragment)  
+   Link: <a href="https://www.academia.edu/130231629/Isotope_Ratios_and_Chemical_Analysis_of_the_1957_Brazilian_Ubatuba_Fragment" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/130231629/Isotope_Ratios_and_Chemical_Analysis_of_the_1957_Brazilian_Ubatuba_Fragment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Isotope Ratios and Chemical Analysis of the 1957 Brazilian...A sample from the Ubatuba fragment collected in Brazil in 1957 was tested w...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: archive.org  
    Title: Full text of "Scientific Study Of Unidentified Flying Objects  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon &amp; Walter Sullivan Condon Report, University of Colorado Submission... The quantity of Mg^^ isotope produced by neutron activation...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...In 2022, The All-domain Anomaly Resolution Office (AARO) contracted with Oak Ridge...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/gezuyj/analysis_of_the_ubatuba_material_by_robert_powell/](https://www.reddit.com/r/ufo/comments/gezuyj/analysis_of_the_ubatuba_material_by_robert_powell/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAnalysis of the &quot;Ubatuba&quot; material by Robert Powell: r/ufoIt consists of magnesium (~99%), barium, strontium, zinc, and copper...</p></details>
+   Link: <a href="https://www.reddit.com/r/ufo/comments/gezuyj/analysis_of_the_ubatuba_material_by_robert_powell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/gezuyj/analysis_of_the_ubatuba_material_by_robert_powell/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of the &quot;Ubatuba&quot; material by Robert Powell: r/ufoIt consists of magnesium (~99%), barium, strontium, zinc, and copper...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/387231512950059/posts/1307515824254952/](https://www.facebook.com/groups/387231512950059/posts/1307515824254952/)  
+   Link: <a href="https://www.facebook.com/groups/387231512950059/posts/1307515824254952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/387231512950059/posts/1307515824254952/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4.37% magnesium-26 to magnesium-27 abundance, whereas &quot;...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/37136826/What_do_we_Know_about_the_Material_Composition_of_UFOs](https://www.academia.edu/37136826/What_do_we_Know_about_the_Material_Composition_of_UFOs)  
+   Link: <a href="https://www.academia.edu/37136826/What_do_we_Know_about_the_Material_Composition_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/37136826/What_do_we_Know_about_the_Material_Composition_of_UFOs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tested at Oak Ridge, Dow Chemical...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Condon Report and University of Colorado UFO Study  
-   Link: [https://www.youtube.com/watch?v=SZ0fKW5PttM](https://www.youtube.com/watch?v=SZ0fKW5PttM)  
+   Link: <a href="https://www.youtube.com/watch?v=SZ0fKW5PttM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SZ0fKW5PttM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book and Official Scientific Scrutiny...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Physical Evidence Analysis in Historical UFO Cases  
-   Link: [https://www.youtube.com/watch?v=FMU0jd2IUks](https://www.youtube.com/watch?v=FMU0jd2IUks)  
+   Link: <a href="https://www.youtube.com/watch?v=FMU0jd2IUks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FMU0jd2IUks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Laboratory Testing of Anomalous Materials and Fragments...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Project Blue Book and Official Scientific Scrutiny  
-   Link: [https://www.youtube.com/watch?v=jEUnBEKEKCs](https://www.youtube.com/watch?v=jEUnBEKEKCs)  
+   Link: <a href="https://www.youtube.com/watch?v=jEUnBEKEKCs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jEUnBEKEKCs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Evidence Analysis in Historical UFO Cases...</p></details>

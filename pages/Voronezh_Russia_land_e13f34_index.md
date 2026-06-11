@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /voronezh-russia-land-e13f34-index/
 description: Focused pages that expand on Voronezh Russia landing 1989.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Voronezh_Russia_land_e13f34
 parent_title: Voronezh Russia landing 1989

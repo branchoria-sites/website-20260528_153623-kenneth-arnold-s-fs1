@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /alexander-hamilton-airship-1897/
 nav_short_title: Credibility
 title: Why Did People Believe Hamilton At First?
-title_full: Why Did People Believe Hamilton At First? | Hamilton Airship
+title_full: Why Did People Believe Hamilton At First?
 display_title_short: Credibility
 display_title: Credibility
 heading_title: Why Did People Believe Hamilton At First?
@@ -233,7 +233,7 @@ next_link:
   permalink: /hoax-claims/
   short_title: Hoax Claims
   heading_title: How Did A Tall Tale Become UFO Folklore?
-date: '2026-06-08 23:22:33 '
+date: '2026-06-11 13:13:52 '
 header:
   og_image: /assets/images/Alexander_Hamilton_a_75e894_reputation_affidavit_b2c637-Illustration-1-social.jpg
   preview_image: /assets/images/Alexander_Hamilton_a_75e894_reputation_affidavit_b2c637-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Alexander_Hamilton_a_75e894_reputation_affidavit_b2c637-Il
 
 ## Introduction
 
-The [Alexander Hamilton]({{ 'alexander-hamilton-airship-1897/' | relative_url }}) airship story gained unusual credibility in 1897 not because of hard evidence, but because of Hamilton’s social standing and a widely quoted affidavit signed by eleven local men. For many readers at the time, that combination seemed persuasive. Hamilton was not presented as a drifter or anonymous storyteller. He was a respected Woodson County stockman, lawyer, former public official and early Kansas settler whose reputation carried weight in rural south-eastern Kansas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksgenweb.org/archives/allen/history/1901/h/hamilton_alexander.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksgenweb.org">[KSGenWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksgenweb.org</span><span class="citation-popover-title">KSGen Web Alexander Hamilton</span><span class="citation-popover-snippet">Woodson County figures as one of the most attractive, progressive and prosperous divisions of the state of Kansas, justly claiming a...R...</span></span></span>
-
+The Alexander Hamilton airship story gained unusual credibility in 1897 not because of hard evidence, but because of Hamilton’s social standing and a widely quoted affidavit signed by eleven local men. For many readers at the time, that combination seemed persuasive. Hamilton was not presented as a drifter or anonymous storyteller. He was a respected Woodson County stockman, lawyer, former public official and early Kansas settler whose reputation carried weight in rural south-eastern Kansas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksgenweb.org/archives/allen/history/1901/h/hamilton_alexander.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksgenweb.org">[KSGenWeb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksgenweb.org</span><span class="citation-popover-title">KSGen Web Alexander Hamilton</span><span class="citation-popover-snippet">Woodson County figures as one of the most attractive, progressive and prosperous divisions of the state of Kansas, justly claiming a...R...</span></span></span>
 
 <img src="{{ "/assets/images/Alexander_Hamilton_a_75e894_reputation_affidavit_b2c637-Illustration-1-dark.svg" | relative_url }}" alt="Credibility illustration 1" data-theme-src-dark="{{ "/assets/images/Alexander_Hamilton_a_75e894_reputation_affidavit_b2c637-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alexander_Hamilton_a_75e894_reputation_affidavit_b2c637-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Yet the same factor that helped the story spread also created one of its central problems. The affidavit attached to the report did not verify that an airship had appeared, that a cow had been carried away, or that physical traces had been examined independently. It only vouched for Hamilton’s character. Later researchers argued that the distinction was crucial and that the case demonstrates how social credibility can be mistaken for evidential corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
@@ -260,10 +259,9 @@ This matters because witness credibility rarely operates in isolation. Hamilton�
 
 ## Hamilton’s Local Status in Woodson County
 
-Hamilton’s standing became part of the story itself. Later UFO writers repeatedly highlighted his prominence as evidence that the report deserved serious attention. Some retellings described him as a former legislator or influential rancher, reinforcing the impression that respectable men would not risk public embarrassment with a fabricated tale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-snippet">Travel KansasAirship Alert! | KANSAS! MagazineThe alien airship swooped down on Vernon, Kansas, at about 10:30 pm on April 12, 1897. The...</span><span class="citation-popover-meta">Published: April 12, 1897</span></span></span>
+Hamilton’s standing became part of the story itself. Later UFO writers repeatedly highlighted his prominence as evidence that the report deserved serious attention. Some retellings described him as a former legislator or influential rancher, reinforcing the impression that respectable men would not risk public embarrassment with a fabricated tale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-snippet">Travel KansasAirship Alert! &#124; KANSAS! MagazineThe alien airship swooped down on Vernon, Kansas, at about 10:30 pm on April 12, 1897. The...</span><span class="citation-popover-meta">Published: April 12, 1897</span></span></span>
 
 The problem is that social prominence does not automatically guarantee factual reliability. Local prestige can increase a witness’s influence without increasing the quality of the underlying evidence. In Hamilton’s case, almost every supposedly persuasive feature of the story depended on trust in his honesty:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -279,7 +277,6 @@ None of these claims were documented through photographs, preserved material evi
 
 The distinction between “credible person” and “verified event” is one of the central analytical issues in the case. Hamilton’s supporters often blurred the two together.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DoJUsaTknNw" title="Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer">Airship Mystery of 1896 and 1897 (Mystery Airships, UFOs) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 17.6K &middot; Uploaded: October 2023 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DoJUsaTknNw">Open on YouTube</a></p></div></div></div>
 
 ## What the Eleven-Man Affidavit Actually Claimed
@@ -291,7 +288,6 @@ According to later reproductions discussed in UFO histories, the signatories sta
 That distinction changes the evidential value of the affidavit dramatically.
 
 A true corroborative statement would have included things such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,14 +303,12 @@ Instead, the affidavit essentially argued that Hamilton was the sort of man who 
 
 This was not meaningless. In a small rural community in 1897, such endorsements carried real social force. A banker, postmaster, sheriff or justice of the peace publicly supporting Hamilton would naturally influence readers. But from an investigative standpoint, the affidavit offered no independent verification of the extraordinary claims themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
 
-
 <img src="{{ "/assets/images/Alexander_Hamilton_a_75e894_reputation_affidavit_b2c637-Illustration-2-dark.svg" | relative_url }}" alt="Credibility illustration 2" data-theme-src-dark="{{ "/assets/images/Alexander_Hamilton_a_75e894_reputation_affidavit_b2c637-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alexander_Hamilton_a_75e894_reputation_affidavit_b2c637-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Reputation Is Not Corroboration
 
 Modern discussions of the case often treat the affidavit as stronger evidence than it actually was. This reflects a common problem in extraordinary-claim investigations: witness credibility and empirical evidence become fused together.
 
 A respected witness can still:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -328,10 +322,9 @@ A respected witness can still:
 
 None of those possibilities are eliminated by social standing alone.
 
-Hamilton’s case became especially vulnerable because the physical evidence was weak even within the original narrative. The alleged remains of the heifer were never subjected to any documented examination. No preserved artefacts survive. No technical description of the supposed cable exists beyond narrative claims. The account depends almost entirely on storytelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">HowStuffWorksThe 1897 Cow Abduction HoaxHamilton belonged to a local liars&#x27; club that delighted in the concoction of outrageous tall tale...</span></span></span>
+Hamilton’s case became especially vulnerable because the physical evidence was weak even within the original narrative. The alleged remains of the heifer were never subjected to any documented examination. No preserved artefacts survive. No technical description of the supposed cable exists beyond narrative claims. The account depends almost entirely on storytelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">The 1897 Cow Abduction HoaxHamilton belonged to a local liars&#x27; club that delighted in the concoction of outrageous tall tale...</span></span></span>
 
-This weakness became more significant after later allegations that Hamilton belonged to a local “Liars’ Club” or “Ananias Club”, groups devoted to inventing extravagant tales for amusement. Research cited by Jerome Clark and repeated in later summaries argued that Hamilton himself admitted the story was a fabrication connected to such local storytelling traditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span> HowStuffWorks Even though some details of the later debunking accounts remain second-hand and imperfectly documented <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">HowStuffWorksThe 1897 Cow Abduction HoaxHamilton belonged to a local liars&#x27; club that delighted in the concoction of outrageous tall tale...</span></span></span>, they shifted the credibility balance sharply. Once the possibility of intentional invention entered the historical record, the affidavit lost much of its persuasive force because it had never independently verified the event in the first place.
-
+This weakness became more significant after later allegations that Hamilton belonged to a local “Liars’ Club” or “Ananias Club”, groups devoted to inventing extravagant tales for amusement. Research cited by Jerome Clark and repeated in later summaries argued that Hamilton himself admitted the story was a fabrication connected to such local storytelling traditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span> HowStuffWorks Even though some details of the later debunking accounts remain second-hand and imperfectly documented <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">The 1897 Cow Abduction HoaxHamilton belonged to a local liars&#x27; club that delighted in the concoction of outrageous tall tale...</span></span></span>, they shifted the credibility balance sharply. Once the possibility of intentional invention entered the historical record, the affidavit lost much of its persuasive force because it had never independently verified the event in the first place.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_KWnz9JZkVA" title="Phantom Airships of the 19th Century | The Dark Histories Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_KWnz9JZkVA" target="_blank" rel="noopener noreferrer">Phantom Airships of the 19th Century | The Dark Histories Podcast</a></p><p class="youtube-embed-meta">Channel: Dark Histories &middot; Views: 12.4K &middot; Uploaded: March 2021 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_KWnz9JZkVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_KWnz9JZkVA">Open on YouTube</a></p></div></div></div>
 
@@ -340,7 +333,6 @@ This weakness became more significant after later allegations that Hamilton belo
 The Hamilton affair became a classic example of how UFO stories can survive primarily through social reinforcement rather than physical evidence.
 
 Several features helped preserve the story for decades:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -356,7 +348,6 @@ Because the story was memorable and emotionally vivid, the affidavit was often c
 
 That distinction remains central to historical evaluation of the case. The affidavit explains why many people initially believed Hamilton. It does not independently establish that the airship incident occurred.
 
-
 <img src="{{ "/assets/images/Alexander_Hamilton_a_75e894_reputation_affidavit_b2c637-Illustration-3-dark.svg" | relative_url }}" alt="Credibility illustration 3" data-theme-src-dark="{{ "/assets/images/Alexander_Hamilton_a_75e894_reputation_affidavit_b2c637-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alexander_Hamilton_a_75e894_reputation_affidavit_b2c637-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Historians and Skeptics Now Read the Affidavit
 
@@ -368,49 +359,89 @@ From that perspective, Hamilton’s affidavit was part of a credibility performa
 
 That is why the affidavit continues to occupy an important place in discussions of the Alexander Hamilton airship case. It demonstrates how extraordinary claims can acquire durability through trust networks and local prestige long before any physical proof is established.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FFkhH7t7e0w" title="UFO Sightings in 1897 Arkansas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FFkhH7t7e0w" target="_blank" rel="noopener noreferrer">UFO Sightings in 1897 Arkansas</a></p><p class="youtube-embed-meta">Channel: Old State House Museum &middot; Views: 4.6K &middot; Uploaded: November 2015 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FFkhH7t7e0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FFkhH7t7e0w">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why Did People Believe Hamilton At First?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why Did People Believe Hamilton At First?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Alexander Hamilton guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Alexander+Hamilton+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fads+and+Fallacies+in+the+Name+of+Science+by+Martin+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fads and Fallacies in the Name of Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d61kDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fads and Fallacies in the Name of Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fads+and+Fallacies+in+the+Name+of+Science+by+Martin+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fads and Fallacies in the Name of Science">Fads and Fallacies in the Name of Science</a>
+        </h4>
+        <p class="fr-book-author">By Martin Gardner</p>
+        
+        <p class="fr-book-desc">Discusses how social credibility and community consensus can create powerful, lasting legends even without evidentiary corroboration.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fads+and+Fallacies+in+the+Name+of+Science+by+Martin+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Woodson County guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Woodson+County+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles early airship legends and clarifies how social status influenced the public acceptance of initial reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Kansas Airship guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Kansas+Airship+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s a Horse&#x27;s Life! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=swoVJIlrzmgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for It&#x27;s a Horse&#x27;s Life!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s a Horse&#x27;s Life!">It&#x27;s a Horse&#x27;s Life!</a>
+        </h4>
+        <p class="fr-book-author">By Joanne Friedman</p>
+        
+        <p class="fr-book-desc">Details the specific Kansas airship wave and the role of local affidavits in bolstering newspaper-born UFO mysteries.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cold+War+Culture+by+Richard+Alan+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cold War Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6mUssPcOR4MC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cold War Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cold+War+Culture+by+Richard+Alan+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cold War Culture">Cold War Culture</a>
+        </h4>
+        <p class="fr-book-author">By Richard Alan Schwartz</p>
+        
+        <p class="fr-book-desc">Places 19th-century regional hoaxes into the broader American cultural tradition of sensationalist newspaper storytelling.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cold+War+Culture+by+Richard+Alan+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fads+and+Fallacies+in+the+Name+of+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fads and Fallacies in the Name of Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s a Horse&#x27;s Life!</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -447,15 +478,15 @@ That is why the affidavit continues to occupy an important place in discussions 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Detailed Silver Airship Zeppelin Desk Top Display 1/500 Model 17 Inch"><img src="{{ '/assets/images/marketplace-covers/645c75cbaabc8310988e.jpg' | relative_url }}" alt="Listing image for Detailed Silver Airship Zeppelin Desk Top Display 1/500 Model 17 Inch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">Detailed Silver Airship Zeppelin Desk Top Display 1/500 Model 17 Inch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for zeppelin model">Search <span data-ebay-domain-label>eBay.co.uk</span>: zeppelin model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -463,15 +494,15 @@ That is why the affidavit continues to occupy an important place in discussions 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zeppelin Airship Laser Cut Wooden - Steampunk Air Ship - 3D Model/Puzzle Kit"><img src="{{ '/assets/images/marketplace-covers/d131895dc73fc49f2eec.jpg' | relative_url }}" alt="Listing image for Zeppelin Airship Laser Cut Wooden - Steampunk Air Ship - 3D Model/Puzzle Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">Zeppelin Airship Laser Cut Wooden - Steampunk Air Ship - 3D Model/Puzzle Kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for zeppelin model">Search <span data-ebay-domain-label>eBay.co.uk</span>: zeppelin model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,31 +510,15 @@ That is why the affidavit continues to occupy an important place in discussions 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zeppelin Metal Model Graf Zeppelin Aircraft 3D Laser Cut Model Kit Hobbies Gift"><img src="{{ '/assets/images/marketplace-covers/7b9d91bb743342de298a.jpg' | relative_url }}" alt="Listing image for Zeppelin Metal Model Graf Zeppelin Aircraft 3D Laser Cut Model Kit Hobbies Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">Zeppelin Metal Model Graf Zeppelin Aircraft 3D Laser Cut Model Kit Hobbies Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for zeppelin model">Search <span data-ebay-domain-label>eBay.co.uk</span>: zeppelin model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,7 +526,7 @@ That is why the affidavit continues to occupy an important place in discussions 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="credibility-why-did-people-believe-hamilton-at-first-alexander-hamilton-airship-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -727,91 +742,91 @@ That is why the affidavit continues to occupy an important place in discussions 
 1. <a id="endnote-1"></a>
    Source: ksgenweb.org  
    Title: KSGen Web Alexander Hamilton  
-   Link: [https://www.ksgenweb.org/archives/allen/history/1901/h/hamilton_alexander.html](https://www.ksgenweb.org/archives/allen/history/1901/h/hamilton_alexander.html)  
+   Link: <a href="https://www.ksgenweb.org/archives/allen/history/1901/h/hamilton_alexander.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ksgenweb.org/archives/allen/history/1901/h/hamilton_alexander.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Woodson County figures as one of the most attractive, progressive and prosperous divisions of the state of Kansas, justly claiming a...R...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: [https://en.wikipedia.org/wiki/Mystery_airship](https://en.wikipedia.org/wiki/Mystery_airship)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
 
 3. <a id="endnote-3"></a>
    Source: science.howstuffworks.com  
    Title: cow abduction  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm](https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HowStuffWorksThe 1897 Cow Abduction HoaxHamilton belonged to a local liars&#x27; club that delighted in the concoction of outrageous tall tale...</p></details>
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1897 Cow Abduction HoaxHamilton belonged to a local liars&#x27; club that delighted in the concoction of outrageous tall tale...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: travelks.com  
-   Link: [https://www.travelks.com/kansas-magazine/articles/post/airship-alert/](https://www.travelks.com/kansas-magazine/articles/post/airship-alert/)  
+   Link: <a href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.travelks.com/kansas-magazine/articles/post/airship-alert/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travel KansasAirship Alert! | KANSAS! MagazineThe alien airship swooped down on Vernon, Kansas, at about 10:30 pm on April 12, 1897. The...</p></details>
    Published: April 12, 1897  
 
 5. <a id="endnote-5"></a>
    Source: americanheritage.com  
    Title: American Heritage Close Encounters Of The Earliest Kind  
-   Link: [https://www.americanheritage.com/close-encounters-earliest-kind](https://www.americanheritage.com/close-encounters-earliest-kind)  
+   Link: <a href="https://www.americanheritage.com/close-encounters-earliest-kind" target="_blank" rel="noopener noreferrer nofollow">https://www.americanheritage.com/close-encounters-earliest-kind</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>American HeritageClose Encounters Of The Earliest Kind - AMERICAN HERITAGEThe mysterious airship came in for a good deal of raillery in t...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nesri.commons.gc.cuny.edu  
    Title: alexander hamilton enslaver  
-   Link: [https://nesri.commons.gc.cuny.edu/alexander-hamilton-enslaver/](https://nesri.commons.gc.cuny.edu/alexander-hamilton-enslaver/)  
+   Link: <a href="https://nesri.commons.gc.cuny.edu/alexander-hamilton-enslaver/" target="_blank" rel="noopener noreferrer nofollow">https://nesri.commons.gc.cuny.edu/alexander-hamilton-enslaver/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hamilton - Enslaver?Until recently, the New York Slavery Records Index did not list Alexander Hamilton as an enslaver because we had no r...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: spaceshipsofezekiel.com  
-   Link: [https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html](https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html)  
+   Link: <a href="https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Kansas Cownapping Airship HoaxHowever, finding out now that two witnesses confirmed that it was well-known that Hamilton belong...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KansasTravel/posts/there-were-many-reports-of-unusual-airship-sightings-in-kansas-in-the-spring-of-/1256683146465841/](https://www.facebook.com/KansasTravel/posts/there-were-many-reports-of-unusual-airship-sightings-in-kansas-in-the-spring-of-/1256683146465841/)  
+   Link: <a href="https://www.facebook.com/KansasTravel/posts/there-were-many-reports-of-unusual-airship-sightings-in-kansas-in-the-spring-of-/1256683146465841/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KansasTravel/posts/there-were-many-reports-of-unusual-airship-sightings-in-kansas-in-the-spring-of-/1256683146465841/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>There were many reports of unusual airship sightings in...THE ALEXANDER HAMILTON AIRSHIP HOAX - April 19, 1897: A farmer from LeRoy, Kan...</p></details>
    Published: April 19, 1897  
 
 9. <a id="endnote-9"></a>
    Source: magazine.atavist.com  
-   Link: [https://magazine.atavist.com/feed](https://magazine.atavist.com/feed)  
+   Link: <a href="https://magazine.atavist.com/feed" target="_blank" rel="noopener noreferrer nofollow">https://magazine.atavist.com/feed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frank Bolan of the LAPD told the Santa Rosa Press Democrat that Asher Montandon was shot “in the lung and aorta” during a “robbery attemp...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sites.cs.ucsb.edu  
-   Link: [https://sites.cs.ucsb.edu/~mikec/cs16/misc/demos/savitch10pgms/Chapter07/words.txt](https://sites.cs.ucsb.edu/~mikec/cs16/misc/demos/savitch10pgms/Chapter07/words.txt)  
+   Link: <a href="https://sites.cs.ucsb.edu/~mikec/cs16/misc/demos/savitch10pgms/Chapter07/words.txt" target="_blank" rel="noopener noreferrer nofollow">https://sites.cs.ucsb.edu/~mikec/cs16/misc/demos/savitch10pgms/Chapter07/words.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ucsb.eduwords.txt... affidavit affidavits affiliate affiliated affiliates affinities affinity... airship airships airsick airspace airsp...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/Mystify2010/posts/27623155260607013/](https://www.facebook.com/groups/Mystify2010/posts/27623155260607013/)  
+   Link: <a href="https://www.facebook.com/groups/Mystify2010/posts/27623155260607013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Mystify2010/posts/27623155260607013/</a>  
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: mystery airship sightings for 8 months between  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/i6e7yn/mystery_airship_sightings_for_8_months_between/](https://www.reddit.com/r/HighStrangeness/comments/i6e7yn/mystery_airship_sightings_for_8_months_between/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/i6e7yn/mystery_airship_sightings_for_8_months_between/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/i6e7yn/mystery_airship_sightings_for_8_months_between/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Mystery Airship&quot; Sightings: For 8 months between 1896-97, people...August 9, 2020 — In 1896 and 7, hundreds of western American newspap...</p></details>
    Published: August 9, 2020  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: the 1897 le roy ks airship story a classic ufo  
-   Link: [https://www.reddit.com/r/UFOs/comments/1nhpgsh/the_1897_le_roy_ks_airship_story_a_classic_ufo/](https://www.reddit.com/r/UFOs/comments/1nhpgsh/the_1897_le_roy_ks_airship_story_a_classic_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1nhpgsh/the_1897_le_roy_ks_airship_story_a_classic_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1nhpgsh/the_1897_le_roy_ks_airship_story_a_classic_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1897 Le Roy, KS &#x27;Airship&#x27; story: A classic UFO case...The Corroboration: Hamilton produced a notarized affidavit attesting to his ch...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DoJUsaTknNw](https://www.youtube.com/watch?v=DoJUsaTknNw)  
+   Link: <a href="https://www.youtube.com/watch?v=DoJUsaTknNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DoJUsaTknNw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mailbag: Drug Names, Cow Abductions, and the “Ass-Intensifier” | Decoder Ring...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: truewestmagazine.com  
    Title: the heart of cowboys aliens  
-   Link: [https://www.truewestmagazine.com/article/the-heart-of-cowboys-aliens/](https://www.truewestmagazine.com/article/the-heart-of-cowboys-aliens/)  
+   Link: <a href="https://www.truewestmagazine.com/article/the-heart-of-cowboys-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.truewestmagazine.com/article/the-heart-of-cowboys-aliens/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The “Heart” of Cowboys &amp; Aliens29 Aug 2011 — Kansas farmer Alexander Hamilton lost a heifer to a spaceship right in front of his eyes, in...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: clements.umich.edu  
    Title: print quarto boxcar test  
-   Link: [https://clements.umich.edu/print-quarto-boxcar-test/](https://clements.umich.edu/print-quarto-boxcar-test/)  
+   Link: <a href="https://clements.umich.edu/print-quarto-boxcar-test/" target="_blank" rel="noopener noreferrer nofollow">https://clements.umich.edu/print-quarto-boxcar-test/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quarto - Boxcar Test - UM Clements LibraryThis issue of The Quarto is a companion to the upcoming Clements Library exhibit that takes up...</p></details>

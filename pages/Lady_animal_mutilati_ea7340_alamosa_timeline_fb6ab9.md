@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /lady-animal-mutilation-1966/
 nav_short_title: Timeline
 title: How the Snippy Story Took Shape
-title_full: How the Snippy Story Took Shape | Snippy
+title_full: How the Snippy Story Took Shape
 display_title_short: Timeline
 display_title: Timeline
 heading_title: How the Snippy Story Took Shape
@@ -233,7 +233,7 @@ prev_link:
   permalink: /folklore-impact/
   short_title: Folklore Impact
   heading_title: Why Did Snippy Become a UFO Template?
-date: '2026-06-08 23:27:25 '
+date: '2026-06-11 13:16:47 '
 header:
   og_image: /assets/images/Lady_animal_mutilati_ea7340_alamosa_timeline_fb6ab9-Illustration-1-social.jpg
   preview_image: /assets/images/Lady_animal_mutilati_ea7340_alamosa_timeline_fb6ab9-Illustration-1.webp
@@ -244,14 +244,12 @@ image: /assets/images/Lady_animal_mutilati_ea7340_alamosa_timeline_fb6ab9-Illust
 
 The “Snippy” case became famous so quickly that later retellings often blur together events that unfolded over several weeks in September and October 1967. Reconstructing the timeline matters because many of the story’s most dramatic claims did not appear all at once. Some details emerged only after newspaper syndication, UFO investigators, and later paranormal writers added interpretation to an already unusual livestock death near Alamosa, Colorado.
 
-
 <img src="{{ "/assets/images/Lady_animal_mutilati_ea7340_alamosa_timeline_fb6ab9-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Lady_animal_mutilati_ea7340_alamosa_timeline_fb6ab9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lady_animal_mutilati_ea7340_alamosa_timeline_fb6ab9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The underlying incident was comparatively simple at first: a young Appaloosa mare disappeared from the Harry King Ranch area in early September 1967 and was found dead two days later. What transformed the event into an international UFO mystery was the layering of claims about surgical cuts, missing blood, strange odours, radiation, landing marks, and unexplained lights. At the same time, even the horse’s identity became confused. The mare was apparently named Lady, while “Snippy” either referred to another horse or became a press nickname that permanently attached itself to the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.denverlibrary.org">[Denver Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.denverlibrary.org</span><span class="citation-popover-title">ufos and horse called snippy</span><span class="citation-popover-snippet">Denver Public LibraryUFOs and a Horse Called Snippy20 Oct 2020 — Oddly, in her book Howe reveals that Snippy was actually the mother and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gazette.com">[Colorado]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gazette.com</span><span class="citation-popover-title">“Oh,” she sighs, “dear Snippy.” Snippy is long gone, dead 55</span><span class="citation-popover-snippet">Colorado Springs GazetteUFO legend: Horse found dead and mutilated 55 years ago...22 May 2022 — Analyzing the mysterious corpse of the h...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
 ## The Mare’s Disappearance and Discovery
 
 The core chronology begins on 7 September 1967. According to repeated press accounts and later summaries, the three-year-old Appaloosa mare failed to return to the ranch for water or shelter that evening. The property was associated with Harry King near Alamosa in Colorado’s San Luis Valley. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.denverlibrary.org">[Denver Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.denverlibrary.org</span><span class="citation-popover-title">ufos and horse called snippy</span><span class="citation-popover-snippet">Denver Public LibraryUFOs and a Horse Called Snippy20 Oct 2020 — Oddly, in her book Howe reveals that Snippy was actually the mother and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Two days later]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mutilation of &quot;Snippy&quot; the horse</span><span class="citation-popover-snippet">Mutilation of &quot;Snippy&quot; the horse</span></span></span>, on 9 September, the mare’s remains were discovered roughly a quarter-mile from the ranch house. Early descriptions focused on the head and neck area. Flesh was reportedly stripped from the skull and upper neck while the rest of the carcass appeared comparatively intact. Witnesses described exposed bone that looked unnaturally pale or “bleached”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.denverlibrary.org">[Denver Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.denverlibrary.org</span><span class="citation-popover-title">ufos and horse called snippy</span><span class="citation-popover-snippet">Denver Public LibraryUFOs and a Horse Called Snippy20 Oct 2020 — Oddly, in her book Howe reveals that Snippy was actually the mother and...</span></span></span> Wikipedia Several claims that later became central to the UFO narrative also appear in the earliest press wave: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mutilation of &quot;Snippy&quot; the horse</span><span class="citation-popover-snippet">Mutilation of &quot;Snippy&quot; the horse</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -272,7 +270,6 @@ One important source-trail problem is that modern summaries often compress all l
 
 The earliest widely distributed newspaper stories in October 1967 emphasised three elements above all:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. missing tissue around the head and neck
@@ -284,7 +281,6 @@ The earliest widely distributed newspaper stories in October 1967 emphasised thr
 More elaborate claims — such as radiation anomalies, glowing material, “cauterised” wounds, or toxic residues — became more prominent as UFO investigators and paranormal writers revisited the story over subsequent years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cattle_mutilation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cattle mutilation</span><span class="citation-popover-snippet">Cattle mutilationSnippy was Lady&#x27;s sire and belonged to Nellie&#x27;s husband, Berle Lewis...</span></span></span>
 
 The Denver Public Library’s historical review is especially useful because it separates enduring claims from temporary observations that could never later be verified. It notes that reports about pink bones, itchy skin reactions, sticky tissue, and strange smells were transient and inconsistently described. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.denverlibrary.org">[Denver Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.denverlibrary.org</span><span class="citation-popover-title">ufos and horse called snippy</span><span class="citation-popover-snippet">Denver Public LibraryUFOs and a Horse Called Snippy20 Oct 2020 — Oddly, in her book Howe reveals that Snippy was actually the mother and...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1ryEktN2CVA" title="What Happened To Snippy? | Unsolved &amp; Unkempt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1ryEktN2CVA" target="_blank" rel="noopener noreferrer">What Happened To Snippy? | Unsolved &amp; Unkempt</a></p><p class="youtube-embed-meta">Channel: Raleigh Link &middot; Views: 59.9K &middot; Uploaded: May 2023 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1ryEktN2CVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1ryEktN2CVA">Open on YouTube</a></p></div></div></div>
 
@@ -306,7 +302,6 @@ When the Alamosa story appeared, reporters immediately linked it to existing fly
 
 The source trail shows a feedback loop:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * local ranch death
@@ -318,7 +313,6 @@ The source trail shows a feedback loop:
 </div>
 
 By the 1970s and 1980s, the case was no longer treated merely as a strange horse death. It had become the prototype for later “cattle mutilation” mythology across the American West.
-
 
 <img src="{{ "/assets/images/Lady_animal_mutilati_ea7340_alamosa_timeline_fb6ab9-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Lady_animal_mutilati_ea7340_alamosa_timeline_fb6ab9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lady_animal_mutilati_ea7340_alamosa_timeline_fb6ab9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The First Official and Semi-Official Responses
@@ -334,7 +328,6 @@ The committee’s assessment differed sharply from the popular press narrative. 
 One especially important later development involved veterinary examination of the remains. According to later summaries, preparation of the skeleton revealed small-calibre bullet wounds in the animal’s flank. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.denverlibrary.org">[Denver Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.denverlibrary.org</span><span class="citation-popover-title">ufos and horse called snippy</span><span class="citation-popover-snippet">Denver Public LibraryUFOs and a Horse Called Snippy20 Oct 2020 — Oddly, in her book Howe reveals that Snippy was actually the mother and...</span></span></span>
 
 That discovery complicated the mythology considerably. It did not automatically explain every reported oddity, but it weakened the idea that the death showed impossible or surgically inexplicable features.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XmuI58iiK1U" title="Snippy the horse owner Nellie Lewis talks about the bizarre early cattle mutilation case, 1967" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XmuI58iiK1U" target="_blank" rel="noopener noreferrer">Snippy the horse owner Nellie Lewis talks about the bizarre early cattle mutilation case, 1967</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 10.9K &middot; Uploaded: October 2022 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XmuI58iiK1U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XmuI58iiK1U">Open on YouTube</a></p></div></div></div>
 
@@ -357,7 +350,6 @@ Another escalation involved the language of cutting and dissection.
 Initial accounts described tissue removal that looked unusually clean. Later versions increasingly used phrases like “laser-like”, “cauterised”, or “surgical”. Yet the available evidence came from a carcass exposed outdoors for days, examined by multiple visitors, and subject to environmental degradation and scavenging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.denverlibrary.org">[Denver Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.denverlibrary.org</span><span class="citation-popover-title">ufos and horse called snippy</span><span class="citation-popover-snippet">Denver Public LibraryUFOs and a Horse Called Snippy20 Oct 2020 — Oddly, in her book Howe reveals that Snippy was actually the mother and...</span></span></span>
 
 The progression from “unusual wound” to “precision surgery” reflects the way retellings intensified the mystery.
-
 
 <img src="{{ "/assets/images/Lady_animal_mutilati_ea7340_alamosa_timeline_fb6ab9-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Lady_animal_mutilati_ea7340_alamosa_timeline_fb6ab9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lady_animal_mutilati_ea7340_alamosa_timeline_fb6ab9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Timeline Itself Became Distorted
@@ -386,49 +378,89 @@ Several layers can still be separated with reasonable confidence:
 
 The strongest historical evidence supports the existence of an unusual and emotionally disturbing animal death, not a clearly documented extraterrestrial event. What made the case culturally important was not decisive proof, but the way the story spread through newspapers, UFO organisations, ranch folklore, and later paranormal publishing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.denverlibrary.org">[Denver Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.denverlibrary.org</span><span class="citation-popover-title">ufos and horse called snippy</span><span class="citation-popover-snippet">Denver Public LibraryUFOs and a Horse Called Snippy20 Oct 2020 — Oddly, in her book Howe reveals that Snippy was actually the mother and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cattle_mutilation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cattle mutilation</span><span class="citation-popover-snippet">Cattle mutilationSnippy was Lady&#x27;s sire and belonged to Nellie&#x27;s husband, Berle Lewis...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O7LpyU1KoSA" title="Horse abducted by aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O7LpyU1KoSA" target="_blank" rel="noopener noreferrer">Horse abducted by aliens</a></p><p class="youtube-embed-meta">Channel: Adam Knapik &middot; Views: 4.5K &middot; Uploaded: January 2009 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O7LpyU1KoSA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O7LpyU1KoSA">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How the Snippy Story Took Shape, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How the Snippy Story Took Shape. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Alamosa horse guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Alamosa+horse+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides the foundational chronology of the September 1967 incident and documents the evolution of media coverage.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Alamosa Sheriff guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Alamosa+Sheriff+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches investigative standards for verifying timelines to detect narrative amplification versus original event data.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Snippy horse guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Snippy+horse+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Discusses the importance of identifying how reports evolve from simple facts into complex media-driven myths over time.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides institutional background on how sighting and mutilation cases were logged during the 1960s.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sister States, Enemy States</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -441,7 +473,7 @@ The strongest historical evidence supports the existence of an unusual and emoti
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -465,15 +497,15 @@ The strongest historical evidence supports the existence of an unusual and emoti
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beswick Rare Appaloosa Stallion Gloss by Arthur Gredington No. 1772 #1495"><img src="https://i.ebayimg.com/images/g/fJwAAeSwxTxqKD-K/s-l225.jpg" alt="Listing image for Beswick Rare Appaloosa Stallion Gloss by Arthur Gredington No. 1772 #1495" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" target="_blank" rel="sponsored noopener noreferrer">Beswick Rare Appaloosa Stallion Gloss by Arthur Gredington No. 1772 #1495</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Appaloosa horse figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: Appaloosa horse figurine</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,15 +513,15 @@ The strongest historical evidence supports the existence of an unusual and emoti
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Royal Doulton Horse Figurine Appaloosa Model With Tag 8.25&quot; Tall Perfect"><img src="https://i.ebayimg.com/images/g/PLMAAeSwcg9p1jRY/s-l225.jpg" alt="Listing image for Royal Doulton Horse Figurine Appaloosa Model With Tag 8.25&quot; Tall Perfect" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" target="_blank" rel="sponsored noopener noreferrer">Royal Doulton Horse Figurine Appaloosa Model With Tag 8.25&quot; Tall Perfect</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Appaloosa horse figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: Appaloosa horse figurine</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,15 +529,15 @@ The strongest historical evidence supports the existence of an unusual and emoti
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROYAL WORCESTER HORSE APPALOOSA STALLION RW3869 - DORIS LINDNER - PERFECT"><img src="https://i.ebayimg.com/images/g/6sAAAeSwJ6NqHftt/s-l225.jpg" alt="Listing image for ROYAL WORCESTER HORSE APPALOOSA STALLION RW3869 - DORIS LINDNER - PERFECT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" target="_blank" rel="sponsored noopener noreferrer">ROYAL WORCESTER HORSE APPALOOSA STALLION RW3869 - DORIS LINDNER - PERFECT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Appaloosa horse figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: Appaloosa horse figurine</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,15 +545,15 @@ The strongest historical evidence supports the existence of an unusual and emoti
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Royal Doulton Horse and Foal Collection Appaloosa Foal Figurine RDA35"><img src="https://i.ebayimg.com/images/g/GEUAAeSwmhpqHFP~/s-l225.jpg" alt="Listing image for Vintage Royal Doulton Horse and Foal Collection Appaloosa Foal Figurine RDA35" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" target="_blank" rel="sponsored noopener noreferrer">Vintage Royal Doulton Horse and Foal Collection Appaloosa Foal Figurine RDA35</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Appaloosa horse figurine">Search <span data-ebay-domain-label>eBay.co.uk</span>: Appaloosa horse figurine</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,7 +561,7 @@ The strongest historical evidence supports the existence of an unusual and emoti
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-084401-how-the-snippy-story-took-shape-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Appaloosa+horse+figurine&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-snippy-story-took-shape-appaloosa-horse-figurine&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Appaloosa horse figurine" data-ebay-reference="how-the-snippy-story-took-shape-appaloosa-horse-figurine" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -745,99 +777,99 @@ The strongest historical evidence supports the existence of an unusual and emoti
 1. <a id="endnote-1"></a>
    Source: gazette.com  
    Title: “Oh,” she sighs, “dear Snippy.” Snippy is long gone, dead 55  
-   Link: [https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/](https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/)  
+   Link: <a href="https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/" target="_blank" rel="noopener noreferrer nofollow">https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Colorado Springs GazetteUFO legend: Horse found dead and mutilated 55 years ago...22 May 2022 — Analyzing the mysterious corpse of the h...</p></details>
    Published: May 2022  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Mutilation of "Snippy" the horse  
-   Link: [https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse](https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Cattle mutilation  
-   Link: [https://en.wikipedia.org/wiki/Cattle_mutilation](https://en.wikipedia.org/wiki/Cattle_mutilation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cattle_mutilation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cattle_mutilation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cattle mutilationSnippy was Lady&#x27;s sire and belonged to Nellie&#x27;s husband, Berle Lewis...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: history.denverlibrary.org  
    Title: ufos and horse called snippy  
-   Link: [https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy](https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy)  
+   Link: <a href="https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Denver Public LibraryUFOs and a Horse Called Snippy20 Oct 2020 — Oddly, in her book Howe reveals that Snippy was actually the mother and...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: denvergazette.com  
-   Link: [https://www.denvergazette.com/2021/11/24/looking-back-ufo-blamed-for-horse-mutilation-in-colorado-3011fe21-575b-5545-a2b6-7d5ef9c93601/](https://www.denvergazette.com/2021/11/24/looking-back-ufo-blamed-for-horse-mutilation-in-colorado-3011fe21-575b-5545-a2b6-7d5ef9c93601/)  
+   Link: <a href="https://www.denvergazette.com/2021/11/24/looking-back-ufo-blamed-for-horse-mutilation-in-colorado-3011fe21-575b-5545-a2b6-7d5ef9c93601/" target="_blank" rel="noopener noreferrer nofollow">https://www.denvergazette.com/2021/11/24/looking-back-ufo-blamed-for-horse-mutilation-in-colorado-3011fe21-575b-5545-a2b6-7d5ef9c93601/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LOOKING BACK: UFO blamed for horse mutilation in...24 Nov 2021 — The horse was initially referred to as Snippy by media, though signs po...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: history.denverlibrary.org  
-   Link: [https://history.denverlibrary.org/tags/snippy](https://history.denverlibrary.org/tags/snippy)  
+   Link: <a href="https://history.denverlibrary.org/tags/snippy" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/tags/snippy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and a Horse Called Snippy · Subscribe to Snippy. Locations &amp; Hours. Special Collections and Archives Central Library 10 W. 14th Ave. Pkwy...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: coloradolifemagazine.com  
-   Link: [https://www.coloradolifemagazine.com/blog/post/the-legend-of-snippy-the-horse?srsltid=AfmBOoogBhrgk_tvqtnSiHf2JgzrneE_hKk5VBPNYx7vg6nlxo-itMk1](https://www.coloradolifemagazine.com/blog/post/the-legend-of-snippy-the-horse?srsltid=AfmBOoogBhrgk_tvqtnSiHf2JgzrneE_hKk5VBPNYx7vg6nlxo-itMk1)  
+   Link: <a href="https://www.coloradolifemagazine.com/blog/post/the-legend-of-snippy-the-horse?srsltid=AfmBOoogBhrgk_tvqtnSiHf2JgzrneE_hKk5VBPNYx7vg6nlxo-itMk1" target="_blank" rel="noopener noreferrer nofollow">https://www.coloradolifemagazine.com/blog/post/the-legend-of-snippy-the-horse?srsltid=AfmBOoogBhrgk_tvqtnSiHf2JgzrneE_hKk5VBPNYx7vg6nlxo-itMk1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Saga of SnippyOriginally named Lady, the horse belonged to Nellie Lewis of Alamosa. She had spent three peaceful years on Lewis&#x27; brot...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: writing.colostate.edu  
-   Link: [https://writing.colostate.edu/gallery/mckinney/snippy.htm](https://writing.colostate.edu/gallery/mckinney/snippy.htm)  
+   Link: <a href="https://writing.colostate.edu/gallery/mckinney/snippy.htm" target="_blank" rel="noopener noreferrer nofollow">https://writing.colostate.edu/gallery/mckinney/snippy.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>was Maga&#x27;s horse when she was a child. In September of 1967, witnesses (including Maga) at the King Ranch saw bright lights and heard pan...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/VisitAlamosaColorado/posts/snippy-the-horse-has-sparked-intrigue-and-interest-in-the-mystic-san-luis-valley/1083832217086470/](https://www.facebook.com/VisitAlamosaColorado/posts/snippy-the-horse-has-sparked-intrigue-and-interest-in-the-mystic-san-luis-valley/1083832217086470/)  
+   Link: <a href="https://www.facebook.com/VisitAlamosaColorado/posts/snippy-the-horse-has-sparked-intrigue-and-interest-in-the-mystic-san-luis-valley/1083832217086470/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VisitAlamosaColorado/posts/snippy-the-horse-has-sparked-intrigue-and-interest-in-the-mystic-san-luis-valley/1083832217086470/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visit AlamosaThe case of Lady Snippy!! Photos and footage are not always sufficient evidence for the truth about UFOs! But something hap...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/sdcnha/posts/sdcnhas-scary-stories-folklores-and-legends-no-7-a-horse-named-snippy-one-of-the/489833166509298/](https://www.facebook.com/sdcnha/posts/sdcnhas-scary-stories-folklores-and-legends-no-7-a-horse-named-snippy-one-of-the/489833166509298/)  
+   Link: <a href="https://www.facebook.com/sdcnha/posts/sdcnhas-scary-stories-folklores-and-legends-no-7-a-horse-named-snippy-one-of-the/489833166509298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sdcnha/posts/sdcnhas-scary-stories-folklores-and-legends-no-7-a-horse-named-snippy-one-of-the/489833166509298/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On that day a three-year-old Appaloosa named Snippy did not return home to the fence behind a ranch...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1ryEktN2CVA](https://www.youtube.com/watch?v=1ryEktN2CVA)  
+   Link: <a href="https://www.youtube.com/watch?v=1ryEktN2CVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1ryEktN2CVA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Happened To Snippy? | Unsolved &amp; UnkemptThis is my all-time favorite horse mystery abduction story. I doubt that we&#x27;re gonna solve i...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/Snippy-Horse-Mutilations-Cover-Up-Colorados/dp/B0G64VNDPP](https://www.amazon.com/Snippy-Horse-Mutilations-Cover-Up-Colorados/dp/B0G64VNDPP)  
+   Link: <a href="https://www.amazon.com/Snippy-Horse-Mutilations-Cover-Up-Colorados/dp/B0G64VNDPP" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Snippy-Horse-Mutilations-Cover-Up-Colorados/dp/B0G64VNDPP</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 5, 1967, with an impact felt around the world. Nellie and Berle Lewis&#x27;s tragic horse mutilation...</p></details>
    Published: October 5, 1967  
 
 13. <a id="endnote-13"></a>
    Source: centerpostdispatch.com  
    Title: mystery horse on display at ufo watchtower,5354  
-   Link: [https://www.centerpostdispatch.com/stories/mystery-horse-on-display-at-ufo-watchtower%2C5354](https://www.centerpostdispatch.com/stories/mystery-horse-on-display-at-ufo-watchtower%2C5354)  
+   Link: <a href="https://www.centerpostdispatch.com/stories/mystery-horse-on-display-at-ufo-watchtower%2C5354" target="_blank" rel="noopener noreferrer nofollow">https://www.centerpostdispatch.com/stories/mystery-horse-on-display-at-ufo-watchtower%2C5354</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery horse on display at UFO Watchtower1 Sept 2022 — Blanca in 1967, the body of Snippy the horse has had a long journey over the deca...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: alamosanews.com  
    Title: after 50 years snippy still a mystery,36843  
-   Link: [https://www.alamosanews.com/stories/after-50-years-snippy-still-a-mystery%2C36843](https://www.alamosanews.com/stories/after-50-years-snippy-still-a-mystery%2C36843)  
+   Link: <a href="https://www.alamosanews.com/stories/after-50-years-snippy-still-a-mystery%2C36843" target="_blank" rel="noopener noreferrer nofollow">https://www.alamosanews.com/stories/after-50-years-snippy-still-a-mystery%2C36843</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>After 50 years, Snippy still a mystery29 Sept 2017 — The diary of an old family friend says it took place on Sept. 27, 1967, while other...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=XmuI58iiK1U](https://www.youtube.com/watch?v=XmuI58iiK1U)  
+   Link: <a href="https://www.youtube.com/watch?v=XmuI58iiK1U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XmuI58iiK1U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs &amp; The Snippy Mystery: Why Costilla County is a Paranormal Hotspot 🛸🐄...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Horse abducted by aliens  
-   Link: [https://www.youtube.com/watch?v=O7LpyU1KoSA](https://www.youtube.com/watch?v=O7LpyU1KoSA)  
+   Link: <a href="https://www.youtube.com/watch?v=O7LpyU1KoSA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=O7LpyU1KoSA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Snippy horse Alamosa 1967 Snippy the horse owner Nellie Lewis talks about the bizarre early cattle mutilation case, 1967 Eyes On Cinema...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/CyI7Ct_sxXk/](https://www.instagram.com/p/CyI7Ct_sxXk/)  
+   Link: <a href="https://www.instagram.com/p/CyI7Ct_sxXk/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CyI7Ct_sxXk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mstances surrounding her deathRead more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/C9hlQ9cpFKl/](https://www.instagram.com/reel/C9hlQ9cpFKl/)  
+   Link: <a href="https://www.instagram.com/reel/C9hlQ9cpFKl/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C9hlQ9cpFKl/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>has maps of Denver and Colorado...</p></details>

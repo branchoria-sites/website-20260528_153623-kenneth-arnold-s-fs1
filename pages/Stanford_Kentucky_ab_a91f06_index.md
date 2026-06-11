@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /stanford-kentucky-ab-a91f06-index/
 description: Focused pages that expand on Stanford Kentucky abduction 1976.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Stanford_Kentucky_ab_a91f06
 parent_title: Stanford Kentucky abduction 1976

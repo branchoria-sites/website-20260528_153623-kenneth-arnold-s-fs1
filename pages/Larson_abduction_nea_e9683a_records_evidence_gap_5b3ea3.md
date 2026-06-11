@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /larson-abduction-near-fargo-1975/
 nav_short_title: Records Gap
 title: Why the Larson Case Remains Unverified
-title_full: Why the Larson Case Remains Unverified | Larson Abduction
+title_full: Why the Larson Case Remains Unverified
 display_title_short: Records Gap
 display_title: Records Gap
 heading_title: Why the Larson Case Remains Unverified
@@ -233,7 +233,7 @@ prev_link:
   permalink: /i-94-timeline/
   short_title: I 94 Timeline
   heading_title: The Missing Hour on Interstate 94
-date: '2026-06-08 23:40:18 '
+date: '2026-06-11 13:23:20 '
 header:
   og_image: /assets/images/Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3-Illustration-1-social.jpg
   preview_image: /assets/images/Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3-Il
 
 ## Introduction
 
-Despite its persistent place in UFO‑abduction narratives, the **[Larson abduction]({{ 'larson-abduction-near-fargo-1975/' | relative_url }}) near Fargo (26 August 1975)** remains an unverified episode in the broader cultural history of alleged extraterrestrial encounters. Unlike a small number of high‑profile alleged abduction reports, neither U.S. federal agencies, mainstream scientific institutions, nor public archival catalogues hold substantial official records corroborating physical evidence or rigorous investigation outcomes for the Larson case itself. This report examines *what official documentation is (and isn’t) available*, why there is a notable **evidence gap**, and how this gap shapes both scholarly and popular treatment of the incident.
-
+Despite its persistent place in UFO‑abduction narratives, the **Larson abduction near Fargo (26 August 1975)** remains an unverified episode in the broader cultural history of alleged extraterrestrial encounters. Unlike a small number of high‑profile alleged abduction reports, neither U.S. federal agencies, mainstream scientific institutions, nor public archival catalogues hold substantial official records corroborating physical evidence or rigorous investigation outcomes for the Larson case itself. This report examines *what official documentation is (and isn’t) available*, why there is a notable **evidence gap**, and how this gap shapes both scholarly and popular treatment of the incident.
 
 <img src="{{ "/assets/images/Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3-Illustration-1-dark.svg" | relative_url }}" alt="Records Gap illustration 1" data-theme-src-dark="{{ "/assets/images/Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The End of Official UFO Investigations and Its Implications
@@ -251,7 +250,6 @@ Despite its persistent place in UFO‑abduction narratives, the **[Larson abduct
 By the late 1960s, formal **United States Air Force investigations into UFOs**, epitomised by Projects Sign, Grudge, and **Blue Book**, had concluded that there was *no indication of national security threats or technology beyond known phenomena*, leading to the formal closure of Project Blue Book in 1970. Afterward, conventional Air Force UFO files were largely shelved, transferred to archival holdings, or managed under routine intelligence channels rather than as a public UFO programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>
 
 This institutional context matters for the Larson claim: when its alleged date of occurrence (1975) post‑dates the closure of Blue Book, the primary official lens through which mid‑century UFO reports were investigated had already vanished. Subsequent government interest in unidentified phenomena did not routinely produce *case‑specific* public investigation files unless there was clear evidence of intrusions into controlled airspace or defence operations, which the Larson incident lacks. The result is a broad *archival gap* rather than a narrowly contested missing document.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xbT407C6cfA" title="Josh Gates Investigates The Controversial 1975 UFO Abduction! | Expedition Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xbT407C6cfA" target="_blank" rel="noopener noreferrer">Josh Gates Investigates The Controversial 1975 UFO Abduction! | Expedition Files</a></p><p class="youtube-embed-meta">Channel: Discovery UK &middot; Views: 21.3K &middot; Uploaded: August 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xbT407C6cfA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xbT407C6cfA">Open on YouTube</a></p></div></div></div>
 
@@ -261,8 +259,7 @@ Modern public archival repositories such as the **National Archives and Records 
 
 However, a review of standard UFO‑archive indices shows that while records exist for many official programmes and thematic documentation (e.g. Project Blue Book elements retained as **RG 64 textual and microfilm records**), **there is no specific declassified official file on the Larson abduction event itself** within those publicly catalogued collections. Oral or press accounts of the Larson experience — such as a Dakota Datebook community history piece — **are not archival official investigation records** and do not amount to contemporaneous documentation preserved by any federal department. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Lights in the Sky</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: June 2, 2022</span></span></span>
 
-Specialised third‑party indexes like *AlienCatalog*, which aim to aggregate publicly released government data, likewise list official materials by source and identifier but do not show *asserted physical evidence or agency investigation records tied to the Larson incident*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aliencatalog.com">[AlienCatalog.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aliencatalog.com</span><span class="citation-popover-title">Alien Catalog.com Alien Catalog | Alien Catalog.com Official UFO and UAP Records</span><span class="citation-popover-snippet">Alien Catalog | AlienCatalog.com Official UFO and UAP Records...</span></span></span>
-
+Specialised third‑party indexes like *AlienCatalog*, which aim to aggregate publicly released government data, likewise list official materials by source and identifier but do not show *asserted physical evidence or agency investigation records tied to the Larson incident*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aliencatalog.com">[AlienCatalog.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aliencatalog.com</span><span class="citation-popover-title">Alien Catalog.com Alien Catalog &#124; Alien Catalog.com Official UFO and UAP Records</span><span class="citation-popover-snippet">Alien Catalog &#124; AlienCatalog.com Official UFO and UAP Records...</span></span></span>
 
 <img src="{{ "/assets/images/Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3-Illustration-2-dark.svg" | relative_url }}" alt="Records Gap illustration 2" data-theme-src-dark="{{ "/assets/images/Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Constitutes Evidence in Official Terms — The Gap
@@ -270,7 +267,6 @@ Specialised third‑party indexes like *AlienCatalog*, which aim to aggregate pu
 In the context of UFO research, **official documentation** typically includes one or more of the following: contemporaneous reports filed by trained observers (e.g., radar, aviation, military personnel), agency internal correspondence, formal agency investigations or assessments, and verified physical trace data (radar logs, sensor readings, material samples). For older claims like Roswell or the mid‑century sightings catalogued under Project Blue Book, contemporaneous military or agency correspondence survives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Investigation of UFO reports by the United States government</span><span class="citation-popover-snippet">Investigation of UFO reports by the United States government</span></span></span>
 
 For the Larson narrative, **none of these categories are publicly substantiated**:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -282,15 +278,13 @@ For the Larson narrative, **none of these categories are publicly substantiated*
 
 The apparent absence of these items in public archives underscores an *evidence gap* that is not unique to the Larson claim but common to many abduction narratives that originate outside institutional reporting channels.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/odW83jmLRY0" title="Secret ‘90s government meeting on UFOs — researcher shares evidence | Elizabeth Vargas Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=odW83jmLRY0" target="_blank" rel="noopener noreferrer">Secret ‘90s government meeting on UFOs — researcher shares evidence | Elizabeth Vargas Reports</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 128.8K &middot; Uploaded: April 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=odW83jmLRY0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=odW83jmLRY0">Open on YouTube</a></p></div></div></div>
 
 ## Hypnosis, Personal Accounts, and the Limits of Documentation
 
-The most detailed versions of the Larson incident — involving alleged [hypnosis]({{ 'hypnosis-dc4a64/' | relative_url }}) sessions with psychologist R. Leo Sprinkle and recounted altered memories — derive from secondary UFO field literature rather than official reporting. These accounts, while vivid in narrative, reflect *recovered memory techniques* that mainstream psychological fields do not regard as reliable physical evidence, and they do not generate official file trails akin to agency investigation reports. Scholars have often noted the **problem of suggestibility and evidentiary standard** in such cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">ScribdUFOs and Popular Culture James Lewis | PDFSee Also: Alien-Abduction Narratives; Captivity Tales; Close Encounters; Fantasy-Prone Pe...</span></span></span>
+The most detailed versions of the Larson incident — involving alleged [hypnosis]({{ 'hypnosis-dc4a64/' | relative_url }}) sessions with psychologist R. Leo Sprinkle and recounted altered memories — derive from secondary UFO field literature rather than official reporting. These accounts, while vivid in narrative, reflect *recovered memory techniques* that mainstream psychological fields do not regard as reliable physical evidence, and they do not generate official file trails akin to agency investigation reports. Scholars have often noted the **problem of suggestibility and evidentiary standard** in such cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">UFOs and Popular Culture James Lewis &#124; PDFSee Also: Alien-Abduction Narratives; Captivity Tales; Close Encounters; Fantasy-Prone Pe...</span></span></span>
 
 Personal narratives of this sort are typically preserved in UFO community compilations, books, or local media archives rather than institutional record collections. The lack of independent, contemporaneous testimony from each witness in signed official forms compounds the problem.
-
 
 <img src="{{ "/assets/images/Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3-Illustration-3-dark.svg" | relative_url }}" alt="Records Gap illustration 3" data-theme-src-dark="{{ "/assets/images/Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Larson_abduction_nea_e9683a_records_evidence_gap_5b3ea3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Scholarly and Archival Perspectives on UFO Evidence
@@ -299,7 +293,6 @@ Academic and archival authorities emphasise that **archival UFO holdings do not 
 
 The absence of Larson case files in major archival repositories — such as public NARA UFO/UAP textual holdings or British and Canadian government collections — reflects a broader phenomenon where individual abduction claims, especially those emerging outside military or aviation reporting channels, remain **absent from official public records**.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/slLm4WhYhq0" title="David Grusch Claims Government Found &#x27;Nonhuman Biologics&#x27; On Crashed UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=slLm4WhYhq0" target="_blank" rel="noopener noreferrer">David Grusch Claims Government Found &#x27;Nonhuman Biologics&#x27; On Crashed UFOs</a></p><p class="youtube-embed-meta">Channel: Newsweek &middot; Views: 233.5K &middot; Uploaded: July 2023 &middot; Length: 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=slLm4WhYhq0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=slLm4WhYhq0">Open on YouTube</a></p></div></div></div>
 
 ## Minimal Official Record, Maximal Narrative Presence
@@ -307,44 +300,86 @@ The absence of Larson case files in major archival repositories — such as publ
 In summary, the **Larson abduction near Fargo** occupies a place in UFO literature that is *rich in narrative detail* yet *poor in official documentary evidence*. The reasons are structural as much as evidentiary: formal U.S. government UFO investigations had largely ceased by 1970, leaving later claims outside systematic archival reporting; no contemporaneous agency reports appear in public repositories; and the most elaborate aspects of the case arise from later, privately archived narratives rather than official documentation. These factors together produce an **evidence gap**: a significant discrepancy between narrative prominence in abduction lore and the lack of verifiable agency records or independently corroborated physical evidence. The result is that Larson remains, in archival terms, an **unverified account** rather than a documented official case.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why the Larson Case Remains Unverified, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why the Larson Case Remains Unverified. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Directly evaluates the 1970 closure of Project Blue Book, explaining why post-1975 civilian incidents completely lack official case-speci...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Provides structural forensic guidelines to evaluate what missing physical trace evidence shows about a close encounter&#x27;s validity.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Establishes the formal operational boundaries of Project Blue Book, outlining the baseline criteria needed for case validation before clo...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Catalogs how the 1975 Larson report evolved inside commercial UFO literature despite completely lacking independent institutional verific...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -381,15 +416,15 @@ In summary, the **Larson abduction near Fargo** occupies a place in UFO literatu
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Calvine UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gift"><img src="{{ '/assets/images/marketplace-covers/0077cf775cd1852f7313.jpg' | relative_url }}" alt="Listing image for Calvine UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Calvine UFO Photo Model – 3D Printed UAP Collectible – Retro Sci-Fi Geek Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -397,15 +432,15 @@ In summary, the **Larson abduction near Fargo** occupies a place in UFO literatu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur"><img src="{{ '/assets/images/marketplace-covers/16d7257b5b6fa9c07f55.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO / UAP Model - S4 Sports Model -UFO Collectible - Project Gravitaur</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -413,15 +448,15 @@ In summary, the **Larson abduction near Fargo** occupies a place in UFO literatu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible"><img src="{{ '/assets/images/marketplace-covers/c69c50419429aba53ee5.jpg' | relative_url }}" alt="Listing image for Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Model | S4 Sports Model Cutaway | Sci-Fi Display Collectible</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -429,15 +464,15 @@ In summary, the **Larson abduction near Fargo** occupies a place in UFO literatu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO"><img src="{{ '/assets/images/marketplace-covers/804a6ca65be816e4a5d9.jpg' | relative_url }}" alt="Listing image for Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" target="_blank" rel="sponsored noopener noreferrer">Cash-Landrum UFO Model With Stand - UFO Collectible Geek Gift - Replica UAP/UFO</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -445,7 +480,7 @@ In summary, the **Larson abduction near Fargo** occupies a place in UFO literatu
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+-book+-books+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible -book -books -gerry -anderson -series -television -band -concert -tour -album -cd" data-ebay-reference="records-gap-why-the-larson-case-remains-unverified-larson-abduction-near-fargo-1975-ufo-collectible-book-books-gerry-and" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -661,156 +696,156 @@ In summary, the **Larson abduction near Fargo** occupies a place in UFO literatu
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Investigation of UFO reports by the United States government  
-   Link: [https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government](https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government)  
+   Link: <a href="https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Investigation_of_UFO_reports_by_the_United_States_government</a>  
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/topics/ufos](https://www.archives.gov/news/topics/ufos)  
+   Link: <a href="https://www.archives.gov/news/topics/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/topics/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesRecords Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archiv...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/textual-and-microfilm](https://www.archives.gov/research/topics/uaps/textual-and-microfilm)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/textual-and-microfilm" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/textual-and-microfilm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and Unidentified Anomalous Phenomena (UAPs) at the National Archives: Textual and M...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aliencatalog.com  
    Title: Alien Catalog.com Alien Catalog | Alien Catalog.com Official UFO and UAP Records  
-   Link: [https://www.aliencatalog.com/](https://www.aliencatalog.com/)  
+   Link: <a href="https://www.aliencatalog.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.aliencatalog.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Catalog | AlienCatalog.com Official UFO and UAP Records...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis](https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdUFOs and Popular Culture James Lewis | PDFSee Also: Alien-Abduction Narratives; Captivity Tales; Close Encounters; Fantasy-Prone Pe...</p></details>
+   Link: <a href="https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/133967296/116465673-UFOs-and-Popular-Culture-James-Lewis</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Popular Culture James Lewis | PDFSee Also: Alien-Abduction Narratives; Captivity Tales; Close Encounters; Fantasy-Prone Pe...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: National Archives Do Records Show Proof of UFOs? | National Archives  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesDo Records Show Proof of UFOs? | National ArchivesJuly 24, 2023...</p></details>
    Published: July 24, 2023  
 
 8. <a id="endnote-8"></a>
    Source: alien.net  
-   Link: [https://alien.net/](https://alien.net/)  
+   Link: <a href="https://alien.net/" target="_blank" rel="noopener noreferrer nofollow">https://alien.net/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>is a searchable archive of official UAP releases. The government drops these in scattered documents, videos, and agency reports...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ecord Group or Collection | National ArchivesDecember 12, 2025 — RECORDS RELATED TO UNIDENTIFIED FLYING OBJECTS (UFOS) AND UNIDENTIFIED A...</p></details>
    Published: December 12, 2025  
 
 10. <a id="endnote-10"></a>
    Source: history.com  
    Title: Experts say there are ho  
-   Link: [https://www.history.com/news/ufo-dogfight-gorman-us-plane-fargo](https://www.history.com/news/ufo-dogfight-gorman-us-plane-fargo)  
+   Link: <a href="https://www.history.com/news/ufo-dogfight-gorman-us-plane-fargo" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/news/ufo-dogfight-gorman-us-plane-fargo</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings in the United States  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings_in_the_United_States</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO abduction report. April 24, 1964, Socorro · New Mexico · Lonnie Zamora incident... Travis Walton claims to have been abducted by a U...</p></details>
    Published: April 24, 1964  
 
 12. <a id="endnote-12"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: [https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf](https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFINITIVE CASEBOOKroad, obscuring it just outside their home village. They also appeared to enter a &#x27;cone of silence&#x27;, a commonly report...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scribd.com  
    Title: Mysteries of The Unknown  
-   Link: [https://www.scribd.com/doc/115289067/Mysteries-of-the-Unknown-The-UFO-Phenomenon](https://www.scribd.com/doc/115289067/Mysteries-of-the-Unknown-The-UFO-Phenomenon)  
+   Link: <a href="https://www.scribd.com/doc/115289067/Mysteries-of-the-Unknown-The-UFO-Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/115289067/Mysteries-of-the-Unknown-The-UFO-Phenomenon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Topics include alien encounters, the Roswell incident, and...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: news.prairiepublic.org  
    Title: Prairie Public Lights in the Sky  
-   Link: [https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky](https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky)  
+   Link: <a href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Prairie PublicLights in the SkyJune 2, 2022 — 2 Jun 2022 — Aliens-UFOs. &quot;[http://www.alien-ufos.com/personal-ufo-alien-experiences-dreams/...&quot;](http://www.alien-ufos.com/personal-ufo-alien-experiences-dreams/...&quot;)...</p></details>
    Published: June 2, 2022  
 
 15. <a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOS This is a brief guide to researching records of UFOs. The surviving records consist mainly of documents relating to official policy...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nationalarchives.gov.uk  
    Title: UF O reports  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Ministry of Defence has kept records of them since the 1960s, which we now hold. Most o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/ufo](https://vault.fbi.gov/ufo)  
+   Link: <a href="https://vault.fbi.gov/ufo" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Although the newly formed U.S. Air Force was the primary investigator of these sightings, the F...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: anomalydesk.com  
-   Link: [https://anomalydesk.com/](https://anomalydesk.com/)  
+   Link: <a href="https://anomalydesk.com/" target="_blank" rel="noopener noreferrer nofollow">https://anomalydesk.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A working archive. Every case opened with what&#x27;s actually known — documents, witnesses, timelines — and closed only where the ev...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ufoevidence.org  
    Title: They stand as a monument to the limitations of our underst  
-   Link: [https://www.ufoevidence.org/cases/ufocaseshome.asp](https://www.ufoevidence.org/cases/ufocaseshome.asp)  
+   Link: <a href="https://www.ufoevidence.org/cases/ufocaseshome.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/ufocaseshome.asp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Selected UFO Cases - UFO Evidence* * * * * * # Selected UFO Cases &quot;We have, on one hand, the facts -- thousands of unexplained observatio...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: David Grusch Claims Government Found 'Nonhuman Biologics' On Crashed UFOs  
-   Link: [http://www.youtube.com/watch?v=slLm4WhYhq0](http://www.youtube.com/watch?v=slLm4WhYhq0)  
+   Link: <a href="http://www.youtube.com/watch?v=slLm4WhYhq0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=slLm4WhYhq0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO government records national archives evidence gap Global UFO Files — What Government Releases Reveal and Why They Remain Incomplete U...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/1975-Untold-Story-Behind-Invasion/dp/B0F8BG9DRT](https://www.amazon.co.uk/1975-Untold-Story-Behind-Invasion/dp/B0F8BG9DRT)  
+   Link: <a href="https://www.amazon.co.uk/1975-Untold-Story-Behind-Invasion/dp/B0F8BG9DRT" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/1975-Untold-Story-Behind-Invasion/dp/B0F8BG9DRT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1975: The Untold Story Behind a Real UFO Invasion1975: The Untold Story Behind a Real UFO Invasion · Opens the same content in full screen...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: fbi.gov  
    Title: ufos and the guy hottel memo  
-   Link: [https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo](https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FBIMarch 25, 2013 — UFOS AND THE GUY HOTTEL MEMO News * Stories * News Blog * Press Releases * Podcasts * Videos * Speeches and Testimony...</p></details>
+   Link: <a href="https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/stories/ufos-and-the-guy-hottel-memo</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 25, 2013 — UFOS AND THE GUY HOTTEL MEMO News * Stories * News Blog * Press Releases * Podcasts * Videos * Speeches and Testimony...</p></details>
    Published: March 25, 2013  
 
 23. <a id="endnote-23"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html](https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html)  
+   Link: <a href="https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Abductions: Challenging the Borders of...UFOs and Abductions All would agree that UFO and abduction reporting is truly a global...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: isaackoi.com  
    Title: This incident is Case 96 in Isaac Ko  
-   Link: [https://isaackoi.com/ufo-history/ufo/19750826-larson-abduction/](https://isaackoi.com/ufo-history/ufo/19750826-larson-abduction/)  
+   Link: <a href="https://isaackoi.com/ufo-history/ufo/19750826-larson-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://isaackoi.com/ufo-history/ufo/19750826-larson-abduction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1975.0826 Larson abduction | Isaac Koi ArchiveImage needed On 26 August 1975, there was an alleged abduction involving Jackie Larson, Sa...</p></details>
    Published: August 1975  
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=odW83jmLRY0](http://www.youtube.com/watch?v=odW83jmLRY0)  
+   Link: <a href="http://www.youtube.com/watch?v=odW83jmLRY0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=odW83jmLRY0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As Trump orders release of UFO files, some ask: What would aliens think of us?...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: conspirafy.com  
    Title: travis walton incident 1975  
-   Link: [https://conspirafy.com/conspiracies/travis-walton-incident-1975](https://conspirafy.com/conspiracies/travis-walton-incident-1975)  
+   Link: <a href="https://conspirafy.com/conspiracies/travis-walton-incident-1975" target="_blank" rel="noopener noreferrer nofollow">https://conspirafy.com/conspiracies/travis-walton-incident-1975</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Walton abduction (Arizona, 5 Nov 1975)May 12, 2026 — PHYSICAL EVIDENCE No physical evidence of the encounter has been produced: no...</p></details>
    Published: May 12, 2026  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: As Trump orders release of UFO files, some ask: What would aliens think of us?  
-   Link: [http://www.youtube.com/watch?v=CtdAOFgJPVY](http://www.youtube.com/watch?v=CtdAOFgJPVY)  
+   Link: <a href="http://www.youtube.com/watch?v=CtdAOFgJPVY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=CtdAOFgJPVY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing: Whistleblower says he&#x27;s witnessed harm by &quot;non-human&quot; entities...</p></details>

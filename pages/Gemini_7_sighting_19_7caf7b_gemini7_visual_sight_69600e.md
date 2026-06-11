@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /gemini-7-sighting-1965/
 nav_short_title: Visual Sighting
 title: 'The Gemini 7 ''Bogey'': Astronaut Visual Observations Explained'
-title_full: 'The Gemini 7 ''Bogey'': Astronaut Visual Observations Explained | Gemini7Sighting'
+title_full: 'The Gemini 7 ''Bogey'': Astronaut Visual Observations Explained'
 display_title_short: Visual Sighting
 display_title: Visual Sighting
 heading_title: 'The Gemini 7 ''Bogey'': Astronaut Visual Observations Explained'
@@ -197,20 +197,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Gemini7Sighting
+parent_title: Gemini 7 Sighting
 parent_permalink: /gemini-7-sighting-1965/
-parent_nav_short_title: Gemini7Sighting
+parent_nav_short_title: Gemini 7 Sighting
 parent_heading_title: What Did Gemini 7 Astronauts Really See in 1965?
 ancestor_links:
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 breadcrumb_links:
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 sibling_links:
 - basename: Gemini_7_sighting_19_7caf7b_gemini7_transcripts_0be6fd
   title: Mission Records | What Did Gemini 7 Astronauts Really See in 1965?
@@ -224,16 +224,16 @@ sibling_links:
   heading_title: Debris or UFO? Expert Analyses of Gemini 7 Sighting
 up_link:
   basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 prev_link:
   basename: Gemini_7_sighting_19_7caf7b_gemini7_skeptical_an_04c120
   title: Skeptical Analysis | What Did Gemini 7 Astronauts Really See in 1965?
   permalink: /skeptical-analysis/
   short_title: Skeptical Analysis
   heading_title: Debris or UFO? Expert Analyses of Gemini 7 Sighting
-date: '2026-06-08 23:36:59 '
+date: '2026-06-11 13:21:35 '
 header:
   og_image: /assets/images/Gemini_7_sighting_19_7caf7b_gemini7_visual_sight_69600e-Illustration-1-social.jpg
   preview_image: /assets/images/Gemini_7_sighting_19_7caf7b_gemini7_visual_sight_69600e-Illustration-1.webp
@@ -244,7 +244,6 @@ image: /assets/images/Gemini_7_sighting_19_7caf7b_gemini7_visual_sight_69600e-Il
 
 During NASA’s *Gemini 7* mission in December 1965, astronauts Frank Borman and Jim Lovell made a series of visual observations from low Earth orbit that later surfaced in newly declassified government records in 2026. Roughly four hours into the flight on 5 December, Borman radioed to mission control that he had a “bogey” — a term borrowed from military aviation for an unidentified contact — and went on to describe swarms of small particles passing near the spacecraft. Lovell also reported seeing a separate bright object against the blackness of space with numerous surrounding particles. These observations, captured in the mission transcript and audio, have been cited in UFO‑related analyses and historical reviews as a rare instance of astronaut‑reported unidentified in‑orbit visuals that remained unexplained in the released documents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d3-gemini-7-transcript-1965.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Gemini 7 Transcript</span><span class="citation-popover-snippet">U.S. Department of WarGemini 7 TranscriptMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>(#endnote-1 "Snippet: U.S. Department of WarGemini 7 TranscriptMay 7, 2026")
 
-
 <img src="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_visual_sight_69600e-Illustration-1-dark.svg" | relative_url }}" alt="Visual Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_visual_sight_69600e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_visual_sight_69600e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Bogey Report Description
 
@@ -253,7 +252,6 @@ At about 4 hours and 24 minutes after launch, commander Frank Borman radioed
 Pilot Jim Lovell then added his own observation of what was described as a “brilliant body in the sun against a black background with trillions of particles on it,” located ahead of the spacecraft at roughly the two o’clock position and “slowly tumbling” in orbit. Lovell’s language emphasises visual contrast — sunlight on a bright object against the darkness of space — and quantifies the surrounding particles as abundant, though no size estimates or instrumental measurements accompany these visual descriptors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d3-gemini-7-transcript-1965.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Gemini 7 Transcript</span><span class="citation-popover-snippet">U.S. Department of WarGemini 7 TranscriptMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>(#endnote-1 "Snippet: U.S. Department of WarGemini 7 TranscriptMay 7, 2026")
 
 The dialogue in the transcript reflects a series of clarifying questions from mission control about the nature of what was seen, including the relative positions, distances, and whether the observations could be tied to known mission hardware. While the crew reaffirmed visibility of the booster and described the additional phenomena in visual terms, the transcript itself does not contain any definitive conclusion about the identity or origin of the bogey or particles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shorenewsnetwork.com/gemini-7-astronauts-reported-bogey-during-1965-spaceflight-unclassified-transcript-shows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shorenewsnetwork.com">[Shore News Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shorenewsnetwork.com</span><span class="citation-popover-snippet">Shore News NetworkGemini 7 Astronauts Reported ‘Bogey’ During 1965 Spaceflight, Unclassified Transcript Shows...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uLuxG3_g8mE" title="New Pentagon UFO Files Released, Analysts Say No Extraterrestrial Proof | APT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uLuxG3_g8mE" target="_blank" rel="noopener noreferrer">New Pentagon UFO Files Released, Analysts Say No Extraterrestrial Proof | APT</a></p><p class="youtube-embed-meta">Channel: APT &middot; Views: 1.5K &middot; Uploaded: May 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uLuxG3_g8mE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uLuxG3_g8mE">Open on YouTube</a></p></div></div></div>
 
@@ -265,7 +263,6 @@ These visual particle observations — lacking concurrent radar, photographic, o
 
 In orbit, small particles can originate from a variety of expected sources: ice crystals shed from spacecraft systems, remnants of booster or fairing separation, or existing micrometeoroid and debris populations illuminated by sunlight against dark space. Without corroborating data from radar, cameras, or subsequent tracking, assessing whether the particles described were anomalous remains speculative. The transcript itself does not document any follow‑up tracking by ground radar or onboard instruments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shorenewsnetwork.com/gemini-7-astronauts-reported-bogey-during-1965-spaceflight-unclassified-transcript-shows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shorenewsnetwork.com">[Shore News Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shorenewsnetwork.com</span><span class="citation-popover-snippet">Shore News NetworkGemini 7 Astronauts Reported ‘Bogey’ During 1965 Spaceflight, Unclassified Transcript Shows...</span></span></span>
 
-
 <img src="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_visual_sight_69600e-Illustration-2-dark.svg" | relative_url }}" alt="Visual Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_visual_sight_69600e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_visual_sight_69600e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Relative Motion and Positioning
 
@@ -275,9 +272,7 @@ Mission control’s questions in the transcript demonstrate an effort to disting
 
 However, the absence of simultaneous sensor data — such as radar plots or guided imaging — means that independent reconstruction of relative motion and precise positioning for the bogey or particles is not possible from the available transcript. As a result, the visual observations remain a unique witness account without the analytical weight that multi‑sensor tracking would provide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.shorenewsnetwork.com/gemini-7-astronauts-reported-bogey-during-1965-spaceflight-unclassified-transcript-shows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shorenewsnetwork.com">[Shore News Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shorenewsnetwork.com</span><span class="citation-popover-snippet">Shore News NetworkGemini 7 Astronauts Reported ‘Bogey’ During 1965 Spaceflight, Unclassified Transcript Shows...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gQ8KtPx4cYo" title="පිටසක්වල වස්තූන් ගැන U.S.A වාර්තා | NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gQ8KtPx4cYo" target="_blank" rel="noopener noreferrer">පිටසක්වල වස්තූන් ගැන U.S.A වාර්තා | NASA-UAP-D003A, Gemini 7 Audio Excerpt, 1965</a></p><p class="youtube-embed-meta">Channel: Chandu Sampriya &middot; Views: 29 &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gQ8KtPx4cYo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gQ8KtPx4cYo">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y5Che8rWBGE" title="&#x27;Unknown Object Closing In&#x27;: NASA Astronauts First UFO Scare On Cam? Gemini 7 Crew &amp; A ‘Bogey’ Call" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y5Che8rWBGE" target="_blank" rel="noopener noreferrer">&#x27;Unknown Object Closing In&#x27;: NASA Astronauts First UFO Scare On Cam? Gemini 7 Crew &amp; A ‘Bogey’ Call</a></p><p class="youtube-embed-meta">Channel: Times Of India &middot; Views: 5.0K &middot; Uploaded: May 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y5Che8rWBGE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y5Che8rWBGE">Open on YouTube</a></p></div></div></div>
 
@@ -285,48 +280,89 @@ However, the absence of simultaneous sensor data — such as radar plots or guid
 
 The Gemini 7 visual observations of an unidentified “bogey” and extensive particles in orbit derive exclusively from Borman’s and Lovell’s reported communications with mission control, captured in the 1965 transcript and declassified in 2026. Their descriptions convey an unusual scene distinct from the known booster, with multiple small particles and a bright object in sunlight. While these observations have attracted attention in public and UFO‑related coverage, the underlying data remain limited to astronaut visuals without corroborating instrumentation. Consequently, though the sighting is historic and documented, its interpretation — whether mundane debris, optical phenomena, or truly unexplained — remains open within the constraints of the released evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d3-gemini-7-transcript-1965.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">U.S. Department of War Gemini 7 Transcript</span><span class="citation-popover-snippet">U.S. Department of WarGemini 7 TranscriptMay 7, 2026...</span><span class="citation-popover-meta">Published: May 7, 2026</span></span></span>(#endnote-1 "Snippet: U.S. Department of WarGemini 7 TranscriptMay 7, 2026")
 
-
 <img src="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_visual_sight_69600e-Illustration-3-dark.svg" | relative_url }}" alt="Visual Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_visual_sight_69600e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gemini_7_sighting_19_7caf7b_gemini7_visual_sight_69600e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for The Gemini 7 &#x27;Bogey&#x27; Astronaut Visual Observations Explained, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to The Gemini 7 &#x27;Bogey&#x27; Astronaut Visual Observations Explained. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">War.gov Transcript guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=War.gov+Transcript+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Presents a balanced record of how flight personnel document close-range relative tracking loops in early capsules.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">War.gov Transcript books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=War.gov+Transcript+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Explains why spoken reports that completely lack independent sensor data are easily absorbed into modern flying saucer lore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Gemini 7 transcript guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Gemini+7+transcript+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Space+Debris+by+Heiner+Klinkrad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Space Debris on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EqD4h59KUXgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Space Debris" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Space+Debris+by+Heiner+Klinkrad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Space Debris">Space Debris</a>
+        </h4>
+        <p class="fr-book-author">By Heiner Klinkrad</p>
+        
+        <p class="fr-book-desc">Provides structural physics modeling explaining how ice crystals, propellant flakes, and insulation swarms drift in orbit.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Space+Debris+by+Heiner+Klinkrad&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=On+the+Shoulders+of+Titans%3A+A+History+of+Project+Gemini+Barton+C.+Hacker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On the Shoulders of Titans: A History of Project Gemini on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=On+the+Shoulders+of+Titans%3A+A+History+of+Project+Gemini+Barton+C.+Hacker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Shoulders of Titans: A History of Project Gemini">On the Shoulders of Titans: A History of Project Gemini</a>
+        </h4>
+        <p class="fr-book-author">By Barton C. Hacker</p>
+        
+        <p class="fr-book-desc">Chronicles the exact 4 hours and 24 minutes mission marker where commander Borman reported the particle field vectors.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=On+the+Shoulders+of+Titans%3A+A+History+of+Project+Gemini+Barton+C.+Hacker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Space+Debris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Space Debris</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -363,15 +399,15 @@ The Gemini 7 visual observations of an unidentified “bogey” and extensive 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/4a818993d7f5d223dd20.jpg' | relative_url }}" alt="Listing image for Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" target="_blank" rel="sponsored noopener noreferrer">Space NASA Apollo 11 Rocket Launch Lift Off Photo Canvas Wall Art Print Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA space poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -379,15 +415,15 @@ The Gemini 7 visual observations of an unidentified “bogey” and extensive 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor"><img src="{{ '/assets/images/marketplace-covers/44f55c98489085bcc0fc.jpg' | relative_url }}" alt="Listing image for Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" target="_blank" rel="sponsored noopener noreferrer">Earthrise Apollo 11 Moon Poster | NASA Space Print Wall Art Print Gift Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA space poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -395,15 +431,15 @@ The Gemini 7 visual observations of an unidentified “bogey” and extensive 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA James Webb Space Telescope Deep Field Stars Galaxies Poster 3 Pack 18X24 In"><img src="{{ '/assets/images/marketplace-covers/951565a4e4af7f1f59cc.jpg' | relative_url }}" alt="Listing image for NASA James Webb Space Telescope Deep Field Stars Galaxies Poster 3 Pack 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" target="_blank" rel="sponsored noopener noreferrer">NASA James Webb Space Telescope Deep Field Stars Galaxies Poster 3 Pack 18X24 In</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA space poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -411,15 +447,15 @@ The Gemini 7 visual observations of an unidentified “bogey” and extensive 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Earth Space Oasis NASA Space Tours Travel XL Giant Panel Poster (8 Sections)"><img src="{{ '/assets/images/marketplace-covers/6601eb9149449c7f26c3.jpg' | relative_url }}" alt="Listing image for Earth Space Oasis NASA Space Tours Travel XL Giant Panel Poster (8 Sections)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" target="_blank" rel="sponsored noopener noreferrer">Earth Space Oasis NASA Space Tours Travel XL Giant Panel Poster (8 Sections)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA space poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -427,7 +463,7 @@ The Gemini 7 visual observations of an unidentified “bogey” and extensive 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA space poster -book -books" data-ebay-reference="visual-sighting-the-gemini-7-bogey-astronaut-visual-observations-explained-gemini-7-sighting-196-nasa-space-poster-book" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -643,86 +679,86 @@ The Gemini 7 visual observations of an unidentified “bogey” and extensive 
 1. <a id="endnote-1"></a>
    Source: war.gov  
    Title: U.S. Department of War Gemini 7 Transcript  
-   Link: [https://www.war.gov/medialink/ufo/release_1/nasa-uap-d3-gemini-7-transcript-1965.pdf](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d3-gemini-7-transcript-1965.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d3-gemini-7-transcript-1965.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/nasa-uap-d3-gemini-7-transcript-1965.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarGemini 7 TranscriptMay 7, 2026...</p></details>
    Published: May 7, 2026  
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: Frank F. Borman and James A. Lovel  
-   Link: [https://www.nasa.gov/mission/gemini-vii/](https://www.nasa.gov/mission/gemini-vii/)  
+   Link: <a href="https://www.nasa.gov/mission/gemini-vii/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/mission/gemini-vii/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gemini VII - NASANovember 18, 2025 — Image: Gemini VII patch GEMINI VII Occurred 60 years ago Gemini VII, launched before the Gemini VI-A...</p></details>
    Published: November 18, 2025  
 
 3. <a id="endnote-3"></a>
    Source: shorenewsnetwork.com  
-   Link: [https://www.shorenewsnetwork.com/gemini-7-astronauts-reported-bogey-during-1965-spaceflight-unclassified-transcript-shows/](https://www.shorenewsnetwork.com/gemini-7-astronauts-reported-bogey-during-1965-spaceflight-unclassified-transcript-shows/)  
+   Link: <a href="https://www.shorenewsnetwork.com/gemini-7-astronauts-reported-bogey-during-1965-spaceflight-unclassified-transcript-shows/" target="_blank" rel="noopener noreferrer nofollow">https://www.shorenewsnetwork.com/gemini-7-astronauts-reported-bogey-during-1965-spaceflight-unclassified-transcript-shows/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shore News NetworkGemini 7 Astronauts Reported ‘Bogey’ During 1965 Spaceflight, Unclassified Transcript Shows...</p></details>
 
 ### Additional References
 
 4. <a id="endnote-4"></a>
    Source: aol.com  
-   Link: [https://www.aol.com/articles/gemini-7-astronauts-spotted-brilliant-152348298.html](https://www.aol.com/articles/gemini-7-astronauts-spotted-brilliant-152348298.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AOLMay 8, 2026 — GEMINI 7 ASTRONAUTS SPOTTED ‘BRILLIANT BODY’ WITH ‘TRILLIONS OF PARTICLES’ IN SPACE MORE THAN 60 YEARS AGO Emily Crane...</p></details>
+   Link: <a href="https://www.aol.com/articles/gemini-7-astronauts-spotted-brilliant-152348298.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/articles/gemini-7-astronauts-spotted-brilliant-152348298.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — GEMINI 7 ASTRONAUTS SPOTTED ‘BRILLIANT BODY’ WITH ‘TRILLIONS OF PARTICLES’ IN SPACE MORE THAN 60 YEARS AGO Emily Crane...</p></details>
    Published: May 8, 2026  
 
 5. <a id="endnote-5"></a>
    Source: radaronline.com  
    Title: Chilling Audio of Gemini 7 Astronauts Claiming They Saw 'UFO' in Space  
-   Link: [https://radaronline.com/p/gemini-7-astronauts-ufo-particles-space-audio-released/](https://radaronline.com/p/gemini-7-astronauts-ufo-particles-space-audio-released/)  
+   Link: <a href="https://radaronline.com/p/gemini-7-astronauts-ufo-particles-space-audio-released/" target="_blank" rel="noopener noreferrer nofollow">https://radaronline.com/p/gemini-7-astronauts-ufo-particles-space-audio-released/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — CHILLING AUDIO OF GEMINI 7 ASTRONAUTS CLAIMING THEY SAW &#x27;BRILLIANT BODY&#x27; SPEWING &#x27;TRILLIONS OF PARTICLES&#x27; THROUGH SPACE IS...</p></details>
    Published: May 8, 2026  
 
 6. <a id="endnote-6"></a>
    Source: greekreporter.com  
-   Link: [https://greekreporter.com/2026/05/10/ufo-files-reveal-astronauts-unidentified-objects-space/](https://greekreporter.com/2026/05/10/ufo-files-reveal-astronauts-unidentified-objects-space/)  
+   Link: <a href="https://greekreporter.com/2026/05/10/ufo-files-reveal-astronauts-unidentified-objects-space/" target="_blank" rel="noopener noreferrer nofollow">https://greekreporter.com/2026/05/10/ufo-files-reveal-astronauts-unidentified-objects-space/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Released UFO Files Reveal Astronauts Saw Unidentified Objects in Space - GreekReporter.comMay 10, 2026 — RELEASED UFO FILES REVEAL ASTRON...</p></details>
    Published: May 10, 2026  
 
 7. <a id="endnote-7"></a>
    Source: alien.net  
    Title: r01 021 nasa uap d3a gemini 7 audio excerpt 1965  
-   Link: [https://alien.net/cases/r01-021-nasa-uap-d3a-gemini-7-audio-excerpt-1965](https://alien.net/cases/r01-021-nasa-uap-d3a-gemini-7-audio-excerpt-1965)  
+   Link: <a href="https://alien.net/cases/r01-021-nasa-uap-d3a-gemini-7-audio-excerpt-1965" target="_blank" rel="noopener noreferrer nofollow">https://alien.net/cases/r01-021-nasa-uap-d3a-gemini-7-audio-excerpt-1965</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA-UAP-D3A, Gemini 7 Audio Excerpt, 1965 | alien.netMay 8, 2026 — NASA-UAP-D3A, GEMINI 7 AUDIO EXCERPT, 1965 UNKNOWN VIDEO Incident: 20...</p></details>
    Published: May 8, 2026  
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yy8C5kwXu_s](https://www.youtube.com/watch?v=yy8C5kwXu_s)  
+   Link: <a href="https://www.youtube.com/watch?v=yy8C5kwXu_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yy8C5kwXu_s</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;We just saw BOGEY &amp; BRILLIANT space object…&#x27;: UFO files reveal Gemini 7 astronauts&#x27; 1965 sighting...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theforestawakening.com  
    Title: nasa uap d3 gemini 7 transcript 1965 48e4bc1b  
-   Link: [https://theforestawakening.com/incidents/nasa-uap-d3-gemini-7-transcript-1965-48e4bc1b](https://theforestawakening.com/incidents/nasa-uap-d3-gemini-7-transcript-1965-48e4bc1b)  
+   Link: <a href="https://theforestawakening.com/incidents/nasa-uap-d3-gemini-7-transcript-1965-48e4bc1b" target="_blank" rel="noopener noreferrer nofollow">https://theforestawakening.com/incidents/nasa-uap-d3-gemini-7-transcript-1965-48e4bc1b</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gemini 7 Bogey and Particle Field, 1965 | Forest AwakeningDecember 5, 2065 — GEMINI 7 BOGEY AND PARTICLE FIELD, 1965 Astronauts Borman an...</p></details>
    Published: December 5, 2065  
 
 10. <a id="endnote-10"></a>
    Source: alien.net  
    Title: r01 020 nasa uap d3 gemini 7 transcript 1965  
-   Link: [https://alien.net/cases/r01-020-nasa-uap-d3-gemini-7-transcript-1965](https://alien.net/cases/r01-020-nasa-uap-d3-gemini-7-transcript-1965)  
+   Link: <a href="https://alien.net/cases/r01-020-nasa-uap-d3-gemini-7-transcript-1965" target="_blank" rel="noopener noreferrer nofollow">https://alien.net/cases/r01-020-nasa-uap-d3-gemini-7-transcript-1965</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA-UAP-D3, Gemini 7 Transcript, 1965 | alien.netMay 8, 2026 — Case file · wargov-r01-020-nasa-uap-d3-gemini-7-transcript-1965 NASA-UAP...</p></details>
    Published: May 8, 2026  
 
 11. <a id="endnote-11"></a>
    Source: spookstack.io  
    Title: 6042 nasa uap d3 gemini 7 transcript 1965  
-   Link: [https://spookstack.io/documents/6042-nasa-uap-d3-gemini-7-transcript-1965/](https://spookstack.io/documents/6042-nasa-uap-d3-gemini-7-transcript-1965/)  
+   Link: <a href="https://spookstack.io/documents/6042-nasa-uap-d3-gemini-7-transcript-1965/" target="_blank" rel="noopener noreferrer nofollow">https://spookstack.io/documents/6042-nasa-uap-d3-gemini-7-transcript-1965/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA-UAP-D3, Gemini 7 Transcript, 1965 — SpookStackMay 10, 2026 — NASA-UAP-D3, GEMINI 7 TRANSCRIPT, 1965 4 pages · May 10, 2026 · Broad t...</p></details>
    Published: May 10, 2026  
 
 12. <a id="endnote-12"></a>
    Source: excelsior.com.mx  
    Title: El misterio que marcó una misión espacial  
-   Link: [https://www.excelsior.com.mx/internacional/misterio-que-marco-mision-espacial](https://www.excelsior.com.mx/internacional/misterio-que-marco-mision-espacial)  
+   Link: <a href="https://www.excelsior.com.mx/internacional/misterio-que-marco-mision-espacial" target="_blank" rel="noopener noreferrer nofollow">https://www.excelsior.com.mx/internacional/misterio-que-marco-mision-espacial</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 9, 2026 — EL MISTERIO QUE MARCÓ UNA MISIÓN ESPACIAL UN AUDIO HISTÓRICO DE LA MISIÓN GEMINI 7 REGISTRA EL MOMENTO EN QUE EL ASTRONAUTA...</p></details>
    Published: May 9, 2026  
 
 13. <a id="endnote-13"></a>
    Source: pursueufotracker.com  
    Title: nasa uap d3a gemini 7 audio excerpt 1965  
-   Link: [https://pursueufotracker.com/files/nasa-uap-d3a-gemini-7-audio-excerpt-1965](https://pursueufotracker.com/files/nasa-uap-d3a-gemini-7-audio-excerpt-1965)  
+   Link: <a href="https://pursueufotracker.com/files/nasa-uap-d3a-gemini-7-audio-excerpt-1965" target="_blank" rel="noopener noreferrer nofollow">https://pursueufotracker.com/files/nasa-uap-d3a-gemini-7-audio-excerpt-1965</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA-UAP-D3A, Gemini 7 Audio Excerpt, 1965 | PURSUE UFO TrackerMay 8, 2026 — NASA-UAP-D3A, GEMINI 7 AUDIO EXCERPT, 1965 Agency NASA Categ...</p></details>
-   Published: May 8, 2026  
+   Published: May 8, 2026

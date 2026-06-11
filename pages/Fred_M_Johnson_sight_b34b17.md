@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -436,9 +436,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Wilcox UFO
   permalink: /gary-wilcox-encounter-1964/
   short_title: Wilcox UFO
-date: '2026-06-08 23:33:09 '
+date: '2026-06-11 13:20:01 '
 header:
   og_image: /assets/images/Fred_M_Johnson_sight_b34b17-overview-social.jpg
   preview_image: /assets/images/Fred_M_Johnson_sight_b34b17-overview.webp
@@ -760,25 +760,22 @@ image: /assets/images/Fred_M_Johnson_sight_b34b17-overview-social.jpg
 
 Johnson’s own letter is the most valuable surviving account because it preserves the case before decades of retelling. In the Project 1947 transcription, he wrote that he had seen a Portland newspaper article about whether the “so called flying disc” reports had any basis in fact, and said he had been in the Mount Adams district on 24 June 1947, the same day Kenneth Arnold reported seeing a formation of flying discs. Johnson stated that he saw “the same flying objects at about the same time”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/johns47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Fred_M_Johnson_sight_b34b17-overview.webp" | relative_url }}" alt="Overview image for Fred M Johnson sighting 1947" loading="eager" decoding="sync" fetchpriority="high">
 His description was more detailed than a simple “lights in the sky” report. He said he had a telescope with him, that the objects did not pass very high over his position, and estimated their height at “probably” about 1,000 feet. He described them as round, about 30 feet in diameter, tapering sharply to a point at the leading end, with a bright top surface, and said he heard no aircraft-like noise. The same letter also includes the striking claim that there was something in the tail area which looked like “a big hand of a clock” shifting from side to side “like a big magnet”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/johns47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Later summaries usually compress this into the better-known “prospector compass incident”. Ted Bloecher’s 1967 *Report on the UFO Wave of 1947* describes Johnson as seeing a loose group of five or six “round, metallic-looking discs” in the Cascade Mountains, with tails or fins visible as the objects banked in sunlight. Bloecher adds that Johnson turned his telescope on one object, noticed his compass needle weaving wildly while the objects were overhead, and said the effect stopped after the objects moved off to the south-east; the reported viewing time was 45 to 60 seconds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/report-on-the-ufo-wave-of-1947.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">report on the ufo wave of 1947</span><span class="citation-popover-snippet">report on the ufo wave of 1947</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DiVB5ZpEib0" title="UFO Files #1: IL PRIMO UFO: Il caso Keneth Arnold - 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DiVB5ZpEib0" target="_blank" rel="noopener noreferrer">UFO Files #1: IL PRIMO UFO: Il caso Keneth Arnold - 1947</a></p><p class="youtube-embed-meta">Channel: Massimo Polidoro &middot; Views: 34.6K &middot; Uploaded: July 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DiVB5ZpEib0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DiVB5ZpEib0">Open on YouTube</a></p></div></div></div>
 
 ## Why the Case Became Attached to Kenneth Arnold
 
-The case matters mainly because of timing. Arnold’s 24 June 1947 report near Mount Rainier is widely treated as the spark for the modern “flying saucer” wave. A recent historical overview notes that Arnold’s report was followed by official interest and that the 1940s flying saucer craze led into Project Sign, Project Grudge and later Project Blue Book. <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">Origins The Air Force Investigation into UFOs | Origins</span><span class="citation-popover-snippet">Origins The Air Force Investigation into UFOs | Origins</span></span></span>
+The case matters mainly because of timing. Arnold’s 24 June 1947 report near Mount Rainier is widely treated as the spark for the modern “flying saucer” wave. A recent historical overview notes that Arnold’s report was followed by official interest and that the 1940s flying saucer craze led into Project Sign, Project Grudge and later Project Blue Book. <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">Origins The Air Force Investigation into UFOs &#124; Origins</span><span class="citation-popover-snippet">Origins The Air Force Investigation into UFOs &#124; Origins</span></span></span>
 
 Johnson’s report appears to describe objects on the same day, in the same broad Pacific Northwest region, and in a mountain setting close enough to invite comparison. That is why some UFO writers have argued that Johnson may have seen the same flight or a related group of objects after Arnold lost sight of them. NICAP’s case page, for example, frames the incident as occurring “just about the time that Kenneth Arnold lost sight of his objects” and says Johnson reported five or six disc-shaped craft over the Cascades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/470624cascades_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
 
 That link is intriguing but not clean. Johnson’s letter says “Mount Adams district”, while later listings vary between Cascade Mountains in Oregon, Mount Adams in Washington, and Portland, Oregon. Isaac Koi’s archive notes that the incident is listed in official material as Project Sign Incident Number 68 and Project Blue Book Case Number 12, while NICAP cautions that “Portland, Oregon” appears to reflect Johnson’s residence rather than the sighting location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19470624-fred-johnson-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19470624 fred johnson sighting</span><span class="citation-popover-snippet">19470624 fred johnson sighting</span></span></span>
 
 The timing is also not perfectly stable across summaries. Bloecher calls it a morning sighting, while NICAP’s page gives “Afternoon” and ties it closely to Arnold’s observation. Johnson’s own wording, “about the same time”, is less precise than later reconstructions. That does not disprove the case, but it does mean the Arnold-Johnson linkage should be treated as a plausible comparison rather than a fully established shared event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/johns47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 2dokumen.pub
-
 
 <img src="{{ "/assets/images/Fred_M_Johnson_sight_b34b17-Illustration-1-dark.svg" | relative_url }}" alt="Fred M Johnson sighting 1947 illustration 1" data-theme-src-dark="{{ "/assets/images/Fred_M_Johnson_sight_b34b17-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fred_M_Johnson_sight_b34b17-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Compass Detail Is the Case’s Strongest and Weakest Feature
@@ -789,7 +786,6 @@ But the same feature is also where the evidence is most fragile. The case does n
 
 The wording also shifts between sources. Johnson’s own letter, as transcribed by Project 1947, describes an object or motion “in the tail” like a clock hand or magnet; later versions often describe a compass needle or compass hand on a watch. This may reflect details from the official file not fully visible in the short letter excerpt, or it may reflect how later writers standardised the story. Either way, careful readers should separate Johnson’s direct letter from later paraphrases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/johns47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 2dokumen.pub
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qlP1BZqyS-E" title="FRED: The Movie - Official UK Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qlP1BZqyS-E" target="_blank" rel="noopener noreferrer">FRED: The Movie - Official UK Trailer</a></p><p class="youtube-embed-meta">Channel: FRED &middot; Views: 3.2M &middot; Uploaded: November 2010 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qlP1BZqyS-E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qlP1BZqyS-E">Open on YouTube</a></p></div></div></div>
 
 ## Official Handling and Blue Book Status
@@ -798,10 +794,9 @@ The Johnson sighting entered the official UFO record early. Isaac Koi’s archiv
 
 The case is commonly described as one of Project Blue Book’s “unknowns”. Bloecher states that the Air Force classified Johnson’s sighting as “Unidentified”, and NICAP similarly says the case is listed as one of Blue Book’s unknowns, while clarifying the location confusion around Portland and the Cascades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">Open source on dokumen.pub.</span></span></span>
 
-That classification should not be overread. In Blue Book usage, “unidentified” did not mean “alien” or “proved extraordinary”; it meant the investigators did not assign a conventional explanation from the available information. The wider Air Force programme eventually concluded that UFO reports did not show a national-security threat, did not reveal unexplained advanced technology, and did not provide evidence that reported sightings were extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">Origins The Air Force Investigation into UFOs | Origins</span><span class="citation-popover-snippet">Origins The Air Force Investigation into UFOs | Origins</span></span></span>
+That classification should not be overread. In Blue Book usage, “unidentified” did not mean “alien” or “proved extraordinary”; it meant the investigators did not assign a conventional explanation from the available information. The wider Air Force programme eventually concluded that UFO reports did not show a national-security threat, did not reveal unexplained advanced technology, and did not provide evidence that reported sightings were extraterrestrial vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-title">Origins The Air Force Investigation into UFOs &#124; Origins</span><span class="citation-popover-snippet">Origins The Air Force Investigation into UFOs &#124; Origins</span></span></span>
 
 The official context therefore cuts both ways. On one hand, Johnson’s case was not merely a later folklore item; it was recorded in official UFO case material. On the other hand, official retention and an “unidentified” label do not by themselves establish that the objects were unconventional craft. They establish that the report survived in the files and resisted, or at least did not receive, a firm prosaic identification.
-
 
 <img src="{{ "/assets/images/Fred_M_Johnson_sight_b34b17-Illustration-2-dark.svg" | relative_url }}" alt="Fred M Johnson sighting 1947 illustration 2" data-theme-src-dark="{{ "/assets/images/Fred_M_Johnson_sight_b34b17-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fred_M_Johnson_sight_b34b17-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Plausible Readings of the Case
@@ -814,7 +809,6 @@ The sceptical position is strengthened by the lack of corroborating physical evi
 
 The strongest unresolved point is the combination of apparent proximity, object shape, and compass behaviour. The weakest point is evidential isolation. The case is interesting precisely because it sits between those two poles: too specific to dismiss as a meaningless rumour, but too thinly documented to bear the weight often placed on it as firm corroboration of Arnold.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jqJzZ-V5Jv8" title="1947: The Kenneth Arnold Sighting | Weird History Ep. #5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jqJzZ-V5Jv8" target="_blank" rel="noopener noreferrer">1947: The Kenneth Arnold Sighting | Weird History Ep. #5</a></p><p class="youtube-embed-meta">Channel: Stupid Beyond Belief &middot; Views: 6.2K &middot; Uploaded: December 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jqJzZ-V5Jv8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jqJzZ-V5Jv8">Open on YouTube</a></p></div></div></div>
 
 ## What Can Be Said With Confidence
@@ -823,50 +817,91 @@ Johnson’s report is a historically real part of the 1947 flying-disc wave, not
 
 The most defensible summary is this: on 24 June 1947, Fred M Johnson, a Portland prospector in the Mount Adams/Cascade Mountains area, reported seeing several round, metallic-looking objects, one or more of which he viewed through a telescope, and later accounts say his compass needle behaved abnormally during the sighting. The Air Force record is reported by later researchers as leaving the case unidentified, and UFO writers often treat it as possible support for Kenneth Arnold’s same-day sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/johns47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 2dokumen.pub
 
-The limits are just as important. The exact time, precise location, and wording of the [compass effect]({{ 'compass-claim/' | relative_url }}) vary across accounts; the sighting rests mainly on Johnson’s testimony; and the “unidentified” status does not prove an extraterrestrial, experimental, or otherwise exotic explanation. As a case page within a larger 1947 dossier, its value is strongest when read alongside the Kenneth Arnold sighting and other same-day Pacific Northwest reports, but it should remain labelled as a single-witness, officially filed, unresolved report rather than definitive corroboration.
-
+The limits are just as important. The exact time, precise location, and wording of the compass effect vary across accounts; the sighting rests mainly on Johnson’s testimony; and the “unidentified” status does not prove an extraterrestrial, experimental, or otherwise exotic explanation. As a case page within a larger 1947 dossier, its value is strongest when read alongside the Kenneth Arnold sighting and other same-day Pacific Northwest reports, but it should remain labelled as a single-witness, officially filed, unresolved report rather than definitive corroboration.
 
 <img src="{{ "/assets/images/Fred_M_Johnson_sight_b34b17-Illustration-3-dark.svg" | relative_url }}" alt="Fred M Johnson sighting 1947 illustration 3" data-theme-src-dark="{{ "/assets/images/Fred_M_Johnson_sight_b34b17-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fred_M_Johnson_sight_b34b17-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Did Johnson See Arnold&#x27;s Flying Discs?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Did Johnson See Arnold&#x27;s Flying Discs?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Fred M. Johnson sighting and places it in the context of the early 1947 saucer wave.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Details the early 1947 saucer era and the official response to early witness reports like Johnson&#x27;s.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Addresses why witness accounts without corroborated instrument data are historically difficult to confirm as anomalous.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches investigative methodology for analyzing reports based solely on testimony, including claims of magnetic interference.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -903,15 +938,15 @@ The limits are just as important. The exact time, precise location, and wording 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -919,15 +954,15 @@ The limits are just as important. The exact time, precise location, and wording 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -935,15 +970,15 @@ The limits are just as important. The exact time, precise location, and wording 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -951,15 +986,15 @@ The limits are just as important. The exact time, precise location, and wording 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -967,7 +1002,7 @@ The limits are just as important. The exact time, precise location, and wording 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fred-m-johnson-sighting-1947-did-johnson-see-arnold-s-flying-discs-ufo-poster-series-television-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1182,168 +1217,168 @@ The limits are just as important. The exact time, precise location, and wording 
 
 1. <a id="endnote-1"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/fig/johns47.htm](https://www.project1947.com/fig/johns47.htm)  
+   Link: <a href="https://www.project1947.com/fig/johns47.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/johns47.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: dokumen.pub  
    Title: report on the ufo wave of 1947  
-   Link: [https://dokumen.pub/report-on-the-ufo-wave-of-1947.html](https://dokumen.pub/report-on-the-ufo-wave-of-1947.html)  
+   Link: <a href="https://dokumen.pub/report-on-the-ufo-wave-of-1947.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/report-on-the-ufo-wave-of-1947.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: [https://www.nicap.org/470624cascades_dir.htm](https://www.nicap.org/470624cascades_dir.htm)  
+   Link: <a href="https://www.nicap.org/470624cascades_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/470624cascades_dir.htm</a>  
 
 4. <a id="endnote-4"></a>
    Source: gutenberg.org  
    Title: Project Gutenberg  
-   Link: [https://www.gutenberg.org/files/66639/66639-h/66639-h.htm](https://www.gutenberg.org/files/66639/66639-h/66639-h.htm)  
+   Link: <a href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/66639/66639-h/66639-h.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The World of Flying Saucers, by Donald H. Menzel and Lyle G. Boyd—A Project Gutenberg eBook...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nicap.org  
    Title: ReportUFOWave1947 SectionIV  
-   Link: [https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm](https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm)  
+   Link: <a href="https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm</a>  
 
 6. <a id="endnote-6"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/470624arnold.htm](https://www.nicap.org/reports/470624arnold.htm)  
+   Link: <a href="https://www.nicap.org/reports/470624arnold.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/470624arnold.htm</a>  
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
    Title: 11/30/12 Category 03  
-   Link: [https://www.nicap.org/NSID_DBListingbyCat3.pdf](https://www.nicap.org/NSID_DBListingbyCat3.pdf)  
+   Link: <a href="https://www.nicap.org/NSID_DBListingbyCat3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID_DBListingbyCat3.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: nicap.org  
    Title: NSID DBListingby City  
-   Link: [https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf](https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf)  
+   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: nicap.org  
    Title: NSID DBListingby Date  
-   Link: [https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf](https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf)  
+   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyDate.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: nicap.org  
    Title: NSID DBListingby Category  
-   Link: [https://www.nicap.org/NSID/NSID_DBListingbyCategory.pdf](https://www.nicap.org/NSID/NSID_DBListingbyCategory.pdf)  
+   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyCategory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyCategory.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: project1947.com  
    Title: “Unusual Aerial Sightings”  
-   Link: [https://www.project1947.com/kbcat/kb_uasgov.htm](https://www.project1947.com/kbcat/kb_uasgov.htm)  
+   Link: <a href="https://www.project1947.com/kbcat/kb_uasgov.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kb_uasgov.htm</a>  
 
 12. <a id="endnote-12"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/shg/proceedings/shgproceed1.pdf](https://www.project1947.com/shg/proceedings/shgproceed1.pdf)  
+   Link: <a href="https://www.project1947.com/shg/proceedings/shgproceed1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/shg/proceedings/shgproceed1.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: project1947.com  
    Title: SOUT H AUSTRALIAN UFO REPORTS LISTING  
-   Link: [https://www.project1947.com/kbcat/kbsaufo05-1.htm](https://www.project1947.com/kbcat/kbsaufo05-1.htm)  
+   Link: <a href="https://www.project1947.com/kbcat/kbsaufo05-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/kbcat/kbsaufo05-1.htm</a>  
 
 14. <a id="endnote-14"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/presidential-libraries](https://www.archives.gov/research/topics/uaps/presidential-libraries)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
 
 15. <a id="endnote-15"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: [https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf](https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/FS195812/FS_1958_12_djvu.txt](https://archive.org/stream/FS195812/FS_1958_12_djvu.txt)  
+   Link: <a href="https://archive.org/stream/FS195812/FS_1958_12_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/FS195812/FS_1958_12_djvu.txt</a>  
 
 17. <a id="endnote-17"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/Hilltop_News_1953/Hilltop_News_1953.pdf](https://archive.org/download/Hilltop_News_1953/Hilltop_News_1953.pdf)  
+   Link: <a href="https://archive.org/download/Hilltop_News_1953/Hilltop_News_1953.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/Hilltop_News_1953/Hilltop_News_1953.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: dokumen.pub  
    Title: ufos and abductions challenging the borders of knowledge 0700610324  
-   Link: [https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html](https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html)  
+   Link: <a href="https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html](https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html)  
+   Link: <a href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html</a>  
 
 20. <a id="endnote-20"></a>
    Source: dokumen.pub  
    Title: behind the flying saucers 1985019817 9781985019812  
-   Link: [https://dokumen.pub/behind-the-flying-saucers-1985019817-9781985019812.html](https://dokumen.pub/behind-the-flying-saucers-1985019817-9781985019812.html)  
+   Link: <a href="https://dokumen.pub/behind-the-flying-saucers-1985019817-9781985019812.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/behind-the-flying-saucers-1985019817-9781985019812.html</a>  
 
 21. <a id="endnote-21"></a>
    Source: fred.com  
-   Link: [https://www.fred.com/](https://www.fred.com/)  
+   Link: <a href="https://www.fred.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.fred.com/</a>  
 
 22. <a id="endnote-22"></a>
    Source: origins.osu.edu  
    Title: Origins The Air Force Investigation into UFOs | Origins  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
 23. <a id="endnote-23"></a>
    Source: isaackoi.com  
    Title: 19470624 fred johnson sighting  
-   Link: [https://isaackoi.com/ufo-history/ufo/19470624-fred-johnson-sighting/](https://isaackoi.com/ufo-history/ufo/19470624-fred-johnson-sighting/)  
+   Link: <a href="https://isaackoi.com/ufo-history/ufo/19470624-fred-johnson-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://isaackoi.com/ufo-history/ufo/19470624-fred-johnson-sighting/</a>  
 
 24. <a id="endnote-24"></a>
    Source: mail.isaackoi.com  
    Title: 19470624 fred johnson sighting  
-   Link: [https://mail.isaackoi.com/ufo/19470624-fred-johnson-sighting.html](https://mail.isaackoi.com/ufo/19470624-fred-johnson-sighting.html)  
+   Link: <a href="https://mail.isaackoi.com/ufo/19470624-fred-johnson-sighting.html" target="_blank" rel="noopener noreferrer nofollow">https://mail.isaackoi.com/ufo/19470624-fred-johnson-sighting.html</a>  
 
 25. <a id="endnote-25"></a>
    Source: fred.stlouisfed.org  
-   Link: [https://fred.stlouisfed.org/docs/api/fred/](https://fred.stlouisfed.org/docs/api/fred/)  
+   Link: <a href="https://fred.stlouisfed.org/docs/api/fred/" target="_blank" rel="noopener noreferrer nofollow">https://fred.stlouisfed.org/docs/api/fred/</a>  
 
 26. <a id="endnote-26"></a>
    Source: articles.ufo-track.com  
    Title: kenneth arnold  
-   Link: [https://articles.ufo-track.com/kenneth-arnold/](https://articles.ufo-track.com/kenneth-arnold/)  
+   Link: <a href="https://articles.ufo-track.com/kenneth-arnold/" target="_blank" rel="noopener noreferrer nofollow">https://articles.ufo-track.com/kenneth-arnold/</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 2  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_2.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jqJzZ-V5Jv8](https://www.youtube.com/watch?v=jqJzZ-V5Jv8)  
+   Link: <a href="https://www.youtube.com/watch?v=jqJzZ-V5Jv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jqJzZ-V5Jv8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: UFO Files #1: The First UFO: The Keneth Arnold Case  
-   Link: [https://www.youtube.com/watch?v=DiVB5ZpEib0](https://www.youtube.com/watch?v=DiVB5ZpEib0)  
+   Link: <a href="https://www.youtube.com/watch?v=DiVB5ZpEib0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DiVB5ZpEib0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1947: The Kenneth Arnold Sighting | Weird History Ep. #5...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/](https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/lawandcrime/posts/air-force-general-linked-to-ufo-research-disappears/1214006754230132/](https://www.facebook.com/lawandcrime/posts/air-force-general-linked-to-ufo-research-disappears/1214006754230132/)  
+   Link: <a href="https://www.facebook.com/lawandcrime/posts/air-force-general-linked-to-ufo-research-disappears/1214006754230132/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lawandcrime/posts/air-force-general-linked-to-ufo-research-disappears/1214006754230132/</a>  
 
 32. <a id="endnote-32"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood](https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood)  
+   Link: <a href="https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood</a>  
 
 33. <a id="endnote-33"></a>
    Source: bahaistudies.net  
-   Link: [https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf](https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf)  
+   Link: <a href="https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/zrowqo/kenneth_arnold_and_his_description_of_ufos/](https://www.reddit.com/r/UFOs/comments/zrowqo/kenneth_arnold_and_his_description_of_ufos/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/zrowqo/kenneth_arnold_and_his_description_of_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zrowqo/kenneth_arnold_and_his_description_of_ufos/</a>  
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/vhee5w/kenneth_arnold_most_likely_did_see_flying_discs/](https://www.reddit.com/r/ufo/comments/vhee5w/kenneth_arnold_most_likely_did_see_flying_discs/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/vhee5w/kenneth_arnold_most_likely_did_see_flying_discs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/vhee5w/kenneth_arnold_most_likely_did_see_flying_discs/</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MontanaHistoricalSociety/posts/on-july-7-1947-the-state-was-abuzz-with-speculation-about-flying-saucers-on-july/895125292653932/](https://www.facebook.com/MontanaHistoricalSociety/posts/on-july-7-1947-the-state-was-abuzz-with-speculation-about-flying-saucers-on-july/895125292653932/)  
+   Link: <a href="https://www.facebook.com/MontanaHistoricalSociety/posts/on-july-7-1947-the-state-was-abuzz-with-speculation-about-flying-saucers-on-july/895125292653932/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MontanaHistoricalSociety/posts/on-july-7-1947-the-state-was-abuzz-with-speculation-about-flying-saucers-on-july/895125292653932/</a>

@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /maury-island-incident-1947/
 nav_short_title: Witness Claims
 title: How Strong Were the Original Witness Claims?
-title_full: How Strong Were the Original Witness Claims? | Maury Island
+title_full: How Strong Were the Original Witness Claims?
 display_title_short: Witness Claims
 display_title: Witness Claims
 heading_title: How Strong Were the Original Witness Claims?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /debris-trail/
   short_title: Debris Trail
   heading_title: Was the Maury Island Debris Ever Evidence?
-date: '2026-06-08 23:20:32 '
+date: '2026-06-11 13:12:33 '
 header:
   og_image: /assets/images/Maury_Island_inciden_ec4432_dahl_crisman_claims_d45067-Illustration-1-social.jpg
   preview_image: /assets/images/Maury_Island_inciden_ec4432_dahl_crisman_claims_d45067-Illustration-1.webp
@@ -242,18 +242,16 @@ image: /assets/images/Maury_Island_inciden_ec4432_dahl_crisman_claims_d45067-Ill
 
 ## Introduction
 
-The Maury Island incident depended almost entirely on the testimony of two men: Harold Dahl and Fred Crisman. Their claims introduced some of the most enduring motifs in UFO culture — mysterious debris, vanished evidence, threats from a stranger in a dark suit, and suspicions of a military cover-up — yet the underlying evidence quickly became unstable under scrutiny. Even many early UFO investigators concluded that the story changed too often, relied too heavily on unsupported assertions, and failed basic tests of corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury Island incident</span><span class="citation-popover-snippet">Maury Island incident</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
-
+The Maury Island incident depended almost entirely on the testimony of two men: Harold Dahl and Fred Crisman. Their claims introduced some of the most enduring motifs in UFO culture — mysterious debris, vanished evidence, threats from a stranger in a dark suit, and suspicions of a military cover-up — yet the underlying evidence quickly became unstable under scrutiny. Even many early UFO investigators concluded that the story changed too often, relied too heavily on unsupported assertions, and failed basic tests of corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury Island incident</span><span class="citation-popover-snippet">Maury Island incident</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
 <img src="{{ "/assets/images/Maury_Island_inciden_ec4432_dahl_crisman_claims_d45067-Illustration-1-dark.svg" | relative_url }}" alt="Witness Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Maury_Island_inciden_ec4432_dahl_crisman_claims_d45067-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maury_Island_inciden_ec4432_dahl_crisman_claims_d45067-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The central problem was not merely that extraordinary claims were made. It was that key details repeatedly shifted: photographs allegedly existed and then disappeared; debris was presented as unusual and later judged ordinary; witness timelines evolved after the national “flying saucer” craze erupted in late June 1947; and Dahl himself reportedly alternated between defending the story and calling it a hoax. Those contradictions became the foundation for later sceptical assessments of the Maury Island case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_%28talk_show%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury (talk show</span><span class="citation-popover-snippet">Maury (talk show)Maury is an American daytime talk show that was hosted by Maury Povich. The show ran in syndication for thirty-one se...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://crystalinks.com/mauryisland1947.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crystalinks.com">[Crystalinks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crystalinks.com</span><span class="citation-popover-snippet">CrystalinksMaury Island UFO Incident, Kenneth ArnoldDahl would later claim the UFO sighting was a hoax, but has also claimed the... Dahl...</span></span></span>
+The central problem was not merely that extraordinary claims were made. It was that key details repeatedly shifted: photographs allegedly existed and then disappeared; debris was presented as unusual and later judged ordinary; witness timelines evolved after the national “flying saucer” craze erupted in late June 1947; and Dahl himself reportedly alternated between defending the story and calling it a hoax. Those contradictions became the foundation for later sceptical assessments of the Maury Island case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_%28talk_show%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury (talk show</span><span class="citation-popover-snippet">Maury (talk show)Maury is an American daytime talk show that was hosted by Maury Povich. The show ran in syndication for thirty-one se...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://crystalinks.com/mauryisland1947.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crystalinks.com">[Crystalinks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crystalinks.com</span><span class="citation-popover-snippet">Maury Island UFO Incident, Kenneth ArnoldDahl would later claim the UFO sighting was a hoax, but has also claimed the... Dahl...</span></span></span>
 
 ## Dahl’s Boat Story and the Problem of Verification
 
 Harold Dahl’s account was dramatic from the beginning. He claimed that on 21 June 1947 he was aboard a patrol or salvage boat near Maury Island with crew members, his teenage son, and a dog when six doughnut-shaped craft appeared overhead. According to Dahl, one object malfunctioned and began shedding metallic fragments and darker rock-like material onto the boat and surrounding water. He said the falling debris injured his son, damaged the vessel, and killed the dog. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_Povich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury Povich</span><span class="citation-popover-snippet">Maury PovichMaurice Richard Povich (born January 17, 1939) is an American former television personality, best known for hosting the ta...</span><span class="citation-popover-meta">Published: January 17, 1939</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Flying Saucers in WashingtonFeb 6, 1999 — The FBI investigated and Dahl and Crissman confessed to fabricating the “Maury Island Mystery.”...</span></span></span>
 
 The story immediately faced evidential weaknesses:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -266,10 +264,9 @@ The story immediately faced evidential weaknesses:
 
 These gaps mattered because the incident was supposedly physical rather than purely visual. Dahl was not merely reporting lights in the sky; he was claiming that tangible material fell onto his boat in daylight. Yet the supporting physical evidence never became secure enough for scientific or military examination.
 
-The missing photographs became especially damaging to credibility. Dahl initially claimed the images had been ruined or marked by strange white spots. In later tellings, the photographs allegedly vanished from his vehicle entirely. The shifting explanation made critics suspect the photographs either never existed or were unusable from the start. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://crystalinks.com/mauryisland1947.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crystalinks.com">[Crystalinks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crystalinks.com</span><span class="citation-popover-snippet">CrystalinksMaury Island UFO Incident, Kenneth ArnoldDahl would later claim the UFO sighting was a hoax, but has also claimed the... Dahl...</span></span></span>
+The missing photographs became especially damaging to credibility. Dahl initially claimed the images had been ruined or marked by strange white spots. In later tellings, the photographs allegedly vanished from his vehicle entirely. The shifting explanation made critics suspect the photographs either never existed or were unusable from the start. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://crystalinks.com/mauryisland1947.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crystalinks.com">[Crystalinks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crystalinks.com</span><span class="citation-popover-snippet">Maury Island UFO Incident, Kenneth ArnoldDahl would later claim the UFO sighting was a hoax, but has also claimed the... Dahl...</span></span></span>
 
 Another issue involved timing. The alleged Maury Island event supposedly occurred three days before Kenneth Arnold’s famous Mount Rainier sighting on 24 June 1947. However, the Maury Island story only gained attention after Arnold’s report triggered nationwide fascination with “flying saucers”. Critics argued that this sequence suggested Dahl and Crisman may have adapted a local salvage-and-debris tale into a flying-disc narrative after seeing public excitement grow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury Island incident</span><span class="citation-popover-snippet">Maury Island incident</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m6n5jqfb_xg" title="I Cheated with Our Cousin ... Is He The Father? | Maury S11 EP135 | Full Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m6n5jqfb_xg" target="_blank" rel="noopener noreferrer">I Cheated with Our Cousin ... Is He The Father? | Maury S11 EP135 | Full Episode</a></p><p class="youtube-embed-meta">Channel: Nosey &middot; Views: 115.4K &middot; Uploaded: November 2025 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m6n5jqfb_xg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m6n5jqfb_xg">Open on YouTube</a></p></div></div></div>
 
@@ -280,7 +277,6 @@ Fred Crisman complicated the case more than any other figure. He was not present
 According to later accounts, Dahl brought debris to Crisman shortly after the incident. Crisman then reportedly inspected the area himself and claimed to have seen unusual craft. He also became deeply involved in communicating the story to outsiders, including people connected to early flying-saucer publicity networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_%28talk_show%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury (talk show</span><span class="citation-popover-snippet">Maury (talk show)Maury is an American daytime talk show that was hosted by Maury Povich. The show ran in syndication for thirty-one se...</span></span></span>
 
 Sceptics later focused on several credibility problems surrounding Crisman:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -293,10 +289,9 @@ Sceptics later focused on several credibility problems surrounding Crisman:
 
 The FBI investigation proved especially damaging. Bureau records concluded that Dahl and Crisman had attempted to generate publicity around the story and potentially profit from it through magazine deals. One FBI summary stated that the pair contacted publications in hopes of building interest around the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_Povich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury Povich</span><span class="citation-popover-snippet">Maury PovichMaurice Richard Povich (born January 17, 1939) is an American former television personality, best known for hosting the ta...</span><span class="citation-popover-meta">Published: January 17, 1939</span></span></span>
 
-The debris itself also weakened Crisman’s reliability. When Kenneth Arnold and airline pilot E. J. Smith examined fragments shown by Crisman, they reportedly regarded them as mundane material inconsistent with the sensational claims attached to them. Later investigations characterised the debris as common scrap metal and pumice collected from the shoreline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_Povich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury Povich</span><span class="citation-popover-snippet">Maury PovichMaurice Richard Povich (born January 17, 1939) is an American former television personality, best known for hosting the ta...</span><span class="citation-popover-meta">Published: January 17, 1939</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
+The debris itself also weakened Crisman’s reliability. When Kenneth Arnold and airline pilot E. J. Smith examined fragments shown by Crisman, they reportedly regarded them as mundane material inconsistent with the sensational claims attached to them. Later investigations characterised the debris as common scrap metal and pumice collected from the shoreline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_Povich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury Povich</span><span class="citation-popover-snippet">Maury PovichMaurice Richard Povich (born January 17, 1939) is an American former television personality, best known for hosting the ta...</span><span class="citation-popover-meta">Published: January 17, 1939</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
-Crisman’s later notoriety further blurred the historical picture. In subsequent decades he became loosely linked to a variety of conspiracy narratives, including speculative connections to intelligence work and even the Kennedy assassination. Those later myths often overshadowed the original evidential problems in the Maury Island case itself. Yet none of those later rumours solved the central issue: the original 1947 claims still lacked reliable corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.muckrock.com/news/archives/2016/dec/05/fbis-real-x-files-documents-strange-connection-bet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muckrock.com">[MuckRock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muckrock.com</span><span class="citation-popover-title">fbis real x files documents strange connection bet</span><span class="citation-popover-snippet">MuckRockFBI&#x27;s real-life &quot;X-Files&quot; documents strange connection...5 Dec 2016 —... Maury Island Incident. The FBI file on Crisman indicat...</span></span></span>
-
+Crisman’s later notoriety further blurred the historical picture. In subsequent decades he became loosely linked to a variety of conspiracy narratives, including speculative connections to intelligence work and even the Kennedy assassination. Those later myths often overshadowed the original evidential problems in the Maury Island case itself. Yet none of those later rumours solved the central issue: the original 1947 claims still lacked reliable corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.muckrock.com/news/archives/2016/dec/05/fbis-real-x-files-documents-strange-connection-bet/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muckrock.com">[MuckRock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muckrock.com</span><span class="citation-popover-title">fbis real x files documents strange connection bet</span><span class="citation-popover-snippet">FBI&#x27;s real-life &quot;X-Files&quot; documents strange connection...5 Dec 2016 —... Maury Island Incident. The FBI file on Crisman indicat...</span></span></span>
 
 <img src="{{ "/assets/images/Maury_Island_inciden_ec4432_dahl_crisman_claims_d45067-Illustration-2-dark.svg" | relative_url }}" alt="Witness Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Maury_Island_inciden_ec4432_dahl_crisman_claims_d45067-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maury_Island_inciden_ec4432_dahl_crisman_claims_d45067-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Missing Photographs and Weak Physical Evidence
@@ -305,20 +300,18 @@ For a case centred on alleged falling debris, the evidential trail was remarkabl
 
 The photographs were the most obvious missing element. Dahl repeatedly claimed he had photographed the objects or the aftermath, but no verifiable images survived. Different explanations emerged over time:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The film had been damaged.
 * Strange marks appeared on the negatives.
-* The photographs disappeared from a glove compartment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://crystalinks.com/mauryisland1947.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crystalinks.com">[crystalinks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crystalinks.com</span><span class="citation-popover-snippet">CrystalinksMaury Island UFO Incident, Kenneth ArnoldDahl would later claim the UFO sighting was a hoax, but has also claimed the... Dahl...</span></span></span>
+* The photographs disappeared from a glove compartment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://crystalinks.com/mauryisland1947.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crystalinks.com">[crystalinks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crystalinks.com</span><span class="citation-popover-snippet">Maury Island UFO Incident, Kenneth ArnoldDahl would later claim the UFO sighting was a hoax, but has also claimed the... Dahl...</span></span></span>
 * The evidence was lost before investigators could examine it.
 
 </div>
 
 Because the explanation changed, critics saw the photo story as a sign that the witnesses were improvising rather than recounting a stable memory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.crystalinks.com/mauryisland1947.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crystalinks.com">[Crystalinks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crystalinks.com</span><span class="citation-popover-title">Maury Island UFO Incident, Kenneth Arnold In spite of the threat, Dahl had reported the incident to his employee at his sawmill operation</span><span class="citation-popover-snippet">Maury Island UFO Incident, Kenneth ArnoldIn spite of the threat, Dahl had reported the incident to his employee at his sawmill operation,...</span></span></span>
 
-The debris evidence was equally problematic. Arnold and military intelligence officers collected samples, but the material reportedly resembled ordinary industrial refuse and natural pumice rather than advanced technology. Later retellings sometimes exaggerated the significance of the debris because two Air Force officers died in a B-25 crash shortly after leaving Tacoma. That tragedy became fuel for cover-up theories, even though official investigations attributed the crash to engine failure rather than sabotage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span> HistoryLink This distinction became crucial in later UFO lore. Supporters of the mystery often treated the plane crash as indirect proof that authorities <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[historylink.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span> were transporting important evidence. Sceptics argued the opposite: the debris had already appeared unimpressive before the crash occurred, and the accident itself did not strengthen the underlying witness testimony.
-
+The debris evidence was equally problematic. Arnold and military intelligence officers collected samples, but the material reportedly resembled ordinary industrial refuse and natural pumice rather than advanced technology. Later retellings sometimes exaggerated the significance of the debris because two Air Force officers died in a B-25 crash shortly after leaving Tacoma. That tragedy became fuel for cover-up theories, even though official investigations attributed the crash to engine failure rather than sabotage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span> HistoryLink This distinction became crucial in later UFO lore. Supporters of the mystery often treated the plane crash as indirect proof that authorities <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[historylink.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span> were transporting important evidence. Sceptics argued the opposite: the debris had already appeared unimpressive before the crash occurred, and the accident itself did not strengthen the underlying witness testimony.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/isizjCOkppo" title="The Maury Island Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=isizjCOkppo" target="_blank" rel="noopener noreferrer">The Maury Island Incident</a></p><p class="youtube-embed-meta">Channel: Pretty Gritty Tours &middot; Views: 11.3K &middot; Uploaded: April 2022 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=isizjCOkppo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=isizjCOkppo">Open on YouTube</a></p></div></div></div>
 
@@ -334,14 +327,12 @@ Even decades later, accounts remained contradictory. Some retellings claimed Dah
 
 What remained consistent, however, was the absence of independent verification. No reliable photographs emerged. No extraordinary material survived scientific scrutiny. No unrelated witnesses provided decisive corroboration. The case ultimately depended on confidence in Dahl and Crisman themselves — and that confidence steadily eroded as the story evolved.
 
-
 <img src="{{ "/assets/images/Maury_Island_inciden_ec4432_dahl_crisman_claims_d45067-Illustration-3-dark.svg" | relative_url }}" alt="Witness Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Maury_Island_inciden_ec4432_dahl_crisman_claims_d45067-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maury_Island_inciden_ec4432_dahl_crisman_claims_d45067-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Witness Problems Matter in UFO History
 
 The weaknesses in the Dahl and Crisman testimony shaped the Maury Island incident’s reputation for decades. Even influential UFO writers who treated other sightings sympathetically often regarded Maury Island as deeply compromised. Air Force officer Edward J. Ruppelt later called it “the dirtiest hoax in UFO history”, reflecting how badly the witness claims had deteriorated under investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_Povich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury Povich</span><span class="citation-popover-snippet">Maury PovichMaurice Richard Povich (born January 17, 1939) is an American former television personality, best known for hosting the ta...</span><span class="citation-popover-meta">Published: January 17, 1939</span></span></span>
 
 Yet the story remained historically important because it introduced themes that later became central to UFO mythology:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -355,49 +346,89 @@ Yet the story remained historically important because it introduced themes that 
 
 Those motifs survived even while the credibility of the original witnesses weakened. In that sense, Dahl and Crisman influenced UFO culture less by proving anything extraordinary and more by helping establish the narrative template later UFO stories would repeatedly follow.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Hvz8yjZngmc" title="TOSC -Shadows Over Puget Sound: The Maury Island UFO Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Hvz8yjZngmc" target="_blank" rel="noopener noreferrer">TOSC -Shadows Over Puget Sound: The Maury Island UFO Mystery</a></p><p class="youtube-embed-meta">Channel: Highline Heritage Museum &middot; Views: 311 &middot; Uploaded: April 2025 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Hvz8yjZngmc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Hvz8yjZngmc">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Strong Were the Original Witness Claims?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Strong Were the Original Witness Claims?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Maury Island incident guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Maury+Island+incident+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Maps out the chronology of the Maury Island claims, detailing the witness shifts and the investigative skepticism.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Maury Island hoax guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Maury+Island+hoax+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Cross-references the sequential reports from military intelligence on Dahl and Crisman.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Harold Dahl guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Harold+Dahl+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches skills for auditing how witness testimony evolves between initial contact and formal questioning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Documents how investigative bureaus processed multiple reports for consistency during early-era incident audits.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -434,15 +465,15 @@ Those motifs survived even while the credibility of the original witnesses weake
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -450,15 +481,15 @@ Those motifs survived even while the credibility of the original witnesses weake
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -466,31 +497,15 @@ Those motifs survived even while the credibility of the original witnesses weake
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,7 +513,7 @@ Those motifs survived even while the credibility of the original witnesses weake
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="witness-claims-2d8b50-how-strong-were-the-original-witness-claims-maury-island-incident-1947-ufo-poster-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -714,114 +729,114 @@ Those motifs survived even while the credibility of the original witnesses weake
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Maury Island incident  
-   Link: [https://en.wikipedia.org/wiki/Maury_Island_incident](https://en.wikipedia.org/wiki/Maury_Island_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maury_Island_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: historylink.org  
-   Link: [https://www.historylink.org/File/2068](https://www.historylink.org/File/2068)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</p></details>
+   Link: <a href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/2068</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — The “debris” consisted of bits of scrap and pumice from...</p></details>
    Published: June 21, 1947  
 
 3. <a id="endnote-3"></a>
    Source: history.com  
    Title: men in black real origins  
-   Link: [https://www.history.com/articles/men-in-black-real-origins](https://www.history.com/articles/men-in-black-real-origins)  
+   Link: <a href="https://www.history.com/articles/men-in-black-real-origins" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/men-in-black-real-origins</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>deemed it a hoax after Dahl and Crimson later admitted as much. In particular, the mention of the man in the black suit would evolve into...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: crystalinks.com  
-   Link: [https://crystalinks.com/mauryisland1947.html](https://crystalinks.com/mauryisland1947.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CrystalinksMaury Island UFO Incident, Kenneth ArnoldDahl would later claim the UFO sighting was a hoax, but has also claimed the... Dahl...</p></details>
+   Link: <a href="https://crystalinks.com/mauryisland1947.html" target="_blank" rel="noopener noreferrer nofollow">https://crystalinks.com/mauryisland1947.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maury Island UFO Incident, Kenneth ArnoldDahl would later claim the UFO sighting was a hoax, but has also claimed the... Dahl...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: muckrock.com  
    Title: fbis real x files documents strange connection bet  
-   Link: [https://www.muckrock.com/news/archives/2016/dec/05/fbis-real-x-files-documents-strange-connection-bet/](https://www.muckrock.com/news/archives/2016/dec/05/fbis-real-x-files-documents-strange-connection-bet/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MuckRockFBI&#x27;s real-life &quot;X-Files&quot; documents strange connection...5 Dec 2016 —... Maury Island Incident. The FBI file on Crisman indicat...</p></details>
+   Link: <a href="https://www.muckrock.com/news/archives/2016/dec/05/fbis-real-x-files-documents-strange-connection-bet/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/news/archives/2016/dec/05/fbis-real-x-files-documents-strange-connection-bet/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FBI&#x27;s real-life &quot;X-Files&quot; documents strange connection...5 Dec 2016 —... Maury Island Incident. The FBI file on Crisman indicat...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: historylink.org  
-   Link: [https://www.historylink.org/file/2067](https://www.historylink.org/file/2067)  
+   Link: <a href="https://www.historylink.org/file/2067" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/file/2067</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers in WashingtonFeb 6, 1999 — The FBI investigated and Dahl and Crissman confessed to fabricating the “Maury Island Mystery.”...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: muckrock.com  
    Title: fred crisman 24634  
-   Link: [https://www.muckrock.com/foi/united-states-of-america-10/fred-crisman-24634/](https://www.muckrock.com/foi/united-states-of-america-10/fred-crisman-24634/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MuckRockFred CrismanApr 1, 2016 — Please include records relating to the June 1947 hoax known as the Maury Island Incident, which refers...</p></details>
+   Link: <a href="https://www.muckrock.com/foi/united-states-of-america-10/fred-crisman-24634/" target="_blank" rel="noopener noreferrer nofollow">https://www.muckrock.com/foi/united-states-of-america-10/fred-crisman-24634/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fred CrismanApr 1, 2016 — Please include records relating to the June 1947 hoax known as the Maury Island Incident, which refers...</p></details>
    Published: June 1947  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Maury (talk show)  
-   Link: [https://en.wikipedia.org/wiki/Maury_%28talk_show%29](https://en.wikipedia.org/wiki/Maury_%28talk_show%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Maury_%28talk_show%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maury_%28talk_show%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maury (talk show)Maury is an American daytime talk show that was hosted by Maury Povich. The show ran in syndication for thirty-one se...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Maury Povich  
-   Link: [https://en.wikipedia.org/wiki/Maury_Povich](https://en.wikipedia.org/wiki/Maury_Povich)  
+   Link: <a href="https://en.wikipedia.org/wiki/Maury_Povich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maury_Povich</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Maury PovichMaurice Richard Povich (born January 17, 1939) is an American former television personality, best known for hosting the ta...</p></details>
    Published: January 17, 1939  
 
 11. <a id="endnote-11"></a>
    Source: twinpeaks.fandom.com  
    Title: Twin Peaks Wiki Harold Dahl  
-   Link: [https://twinpeaks.fandom.com/wiki/Harold_Dahl](https://twinpeaks.fandom.com/wiki/Harold_Dahl)  
+   Link: <a href="https://twinpeaks.fandom.com/wiki/Harold_Dahl" target="_blank" rel="noopener noreferrer nofollow">https://twinpeaks.fandom.com/wiki/Harold_Dahl</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Twin Peaks WikiHarold Dahl - Twin Peaks Wiki - FandomDahl later moved away from Tacoma and, until his death in 1982, maintained that the...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: historicmysteries.com  
    Title: maury island incident  
-   Link: [https://www.historicmysteries.com/unexplained-mysteries/maury-island-incident/28783/](https://www.historicmysteries.com/unexplained-mysteries/maury-island-incident/28783/)  
+   Link: <a href="https://www.historicmysteries.com/unexplained-mysteries/maury-island-incident/28783/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicmysteries.com/unexplained-mysteries/maury-island-incident/28783/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Maury Island Incident: Debris from a UFO?19 Nov 2022 — Two men, Harold Dahl and Fred Crisman, described seeing debris that had fallen...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40steveedmistonQ45/when-is-a-hoax-not-a-hoax-a-75th-anniversary-reassessment-of-the-maury-island-incident-4a70d83a95b8](https://medium.com/%40steveedmistonQ45/when-is-a-hoax-not-a-hoax-a-75th-anniversary-reassessment-of-the-maury-island-incident-4a70d83a95b8)  
+   Link: <a href="https://medium.com/%40steveedmistonQ45/when-is-a-hoax-not-a-hoax-a-75th-anniversary-reassessment-of-the-maury-island-incident-4a70d83a95b8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40steveedmistonQ45/when-is-a-hoax-not-a-hoax-a-75th-anniversary-reassessment-of-the-maury-island-incident-4a70d83a95b8</a>  
 
 14. <a id="endnote-14"></a>
    Source: seattlesouthside.com  
-   Link: [https://www.seattlesouthside.com/welcome-back-aliens/ufo-history/](https://www.seattlesouthside.com/welcome-back-aliens/ufo-history/)  
+   Link: <a href="https://www.seattlesouthside.com/welcome-back-aliens/ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.seattlesouthside.com/welcome-back-aliens/ufo-history/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It was a typical day on the water for Harold Dahl, his son, and their dog, Sparky, boating between Des Moines and Maury Island.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/%40Maury](https://www.youtube.com/%40Maury)  
+   Link: <a href="https://www.youtube.com/%40Maury" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40Maury</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Maury ShowMaury Show · Guests Caught in the Messiest Love Triangles! | Maury · Past live streams · WHERE ARE THEY NOW | MAURY · YOU ARE N...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/playlist?list=PLK3fvZctq6am8vEOSIdFI8J3UcZyE5O2-](https://www.youtube.com/playlist?list=PLK3fvZctq6am8vEOSIdFI8J3UcZyE5O2-)  
+   Link: <a href="https://www.youtube.com/playlist?list=PLK3fvZctq6am8vEOSIdFI8J3UcZyE5O2-" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PLK3fvZctq6am8vEOSIdFI8J3UcZyE5O2-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Maury Show | Full EpisodesThe Maury Show | Full Episodes · I&#x27;m Hispanic... · Stop My 15-Year-Old From Having Her Second Baby! · Fami...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: mauryshow.com  
-   Link: [https://mauryshow.com/](https://mauryshow.com/)  
+   Link: <a href="https://mauryshow.com/" target="_blank" rel="noopener noreferrer nofollow">https://mauryshow.com/</a>  
 
 18. <a id="endnote-18"></a>
    Source: vocal.media  
-   Link: [https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate](https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate)  
+   Link: <a href="https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/history/the-maury-island-enigma-uf-os-men-in-black-and-the-shadowy-path-to-jfk-s-fate</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>self and even spots one of these crafts later-hovering silently, almost...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1j49yp4/came_across_this_mural_of_the_maury_island/](https://www.reddit.com/r/aliens/comments/1j49yp4/came_across_this_mural_of_the_maury_island/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1j49yp4/came_across_this_mural_of_the_maury_island/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1j49yp4/came_across_this_mural_of_the_maury_island/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ahl of falling debris and threats by men in black following...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SeattleSouthside/videos/maury-island-incident-seattle-southside-scenes/144513107673775/](https://www.facebook.com/SeattleSouthside/videos/maury-island-incident-seattle-southside-scenes/144513107673775/)  
+   Link: <a href="https://www.facebook.com/SeattleSouthside/videos/maury-island-incident-seattle-southside-scenes/144513107673775/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SeattleSouthside/videos/maury-island-incident-seattle-southside-scenes/144513107673775/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>down metallic substances in their boat off the coast of Des Moines...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/alien/comments/104aalr/the_maury_island_incident_refers_to_claims_made/](https://www.reddit.com/r/alien/comments/104aalr/the_maury_island_incident_refers_to_claims_made/)  
+   Link: <a href="https://www.reddit.com/r/alien/comments/104aalr/the_maury_island_incident_refers_to_claims_made/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/alien/comments/104aalr/the_maury_island_incident_refers_to_claims_made/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>l of falling debris and threats by men in black following...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/officialmauryshow/?hl=en-gb](https://www.instagram.com/officialmauryshow/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/officialmauryshow/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/officialmauryshow/?hl=en-gb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the conversation. A legend who proves that the best...</p></details>

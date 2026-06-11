@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /travis-walton-abduction-1975/
 nav_short_title: Witnesses
 title: How Strong Was the Crew's Story?
-title_full: How Strong Was the Crew's Story? | Walton
+title_full: How Strong Was the Crew's Story?
 display_title_short: Witnesses
 display_title: Witnesses
 heading_title: How Strong Was the Crew's Story?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /skeptics-b8ebac/
   short_title: Skeptics
   heading_title: Could the Walton Case Have Been Staged?
-date: '2026-06-08 23:20:15 '
+date: '2026-06-11 13:12:24 '
 header:
   og_image: /assets/images/Travis_Walton_abduct_612999_crew_testimony_e64831-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Walton_abduct_612999_crew_testimony_e64831-Illustration-1.webp
@@ -244,7 +244,6 @@ image: /assets/images/Travis_Walton_abduct_612999_crew_testimony_e64831-Illustra
 
 The Travis Walton case became far more influential than most UFO stories because it did not begin with a lone witness. Six other men from the logging crew told police they had seen a strange glowing object in the Arizona forest on 5 November 1975 and watched Walton collapse beneath a beam of light before disappearing. That collective testimony transformed the incident from a personal claim into a public credibility battle: either several working men independently described a traumatic event they genuinely believed they saw, or a group coordinated a false story under intense police and media scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Travis_Walton_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis Walton incident</span><span class="citation-popover-snippet">Travis Walton incident</span></span></span>
 
-
 <img src="{{ "/assets/images/Travis_Walton_abduct_612999_crew_testimony_e64831-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Walton_abduct_612999_crew_testimony_e64831-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Walton_abduct_612999_crew_testimony_e64831-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The strength of the crew’s testimony is also the central limit of the case. The witnesses only described the roadside encounter and Walton’s disappearance. None could verify the later alien-abduction narrative that Walton described after reappearing five days later. Understanding where the crew agreed, where sceptics found weaknesses, and how police interpreted the witnesses is essential to understanding why the Walton incident remains disputed decades later.
 
@@ -253,7 +252,6 @@ The strength of the crew’s testimony is also the central limit of the case. Th
 The logging crew consisted of Mike Rogers, Travis Walton, Steve Pierce, Allen Dalis, Ken Peterson, John Goulette and Dwayne Smith. According to their accounts, they were driving back from a thinning contract in the Apache-Sitgreaves National Forests after dark when they noticed a bright object through the trees near a clearing. Walton reportedly urged the others to stop the truck and then walked toward the object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Travis_Walton_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis Walton incident</span><span class="citation-popover-snippet">Travis Walton incident</span></span></span>
 
 The broad outline of the witnesses’ accounts remained remarkably stable over time:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -291,7 +289,6 @@ Believers often treat this longevity as evidence of sincerity. Maintaining a fab
 
 Critics, however, argue that consistency alone does not establish factual truth. Shared narratives can harden over time, especially after intense media attention and repeated retelling. Once a group publicly commits to an extraordinary account, social pressure and personal identity can reinforce it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rpA2AK_8HyM" title="Travis Walton: An Alien Abduction Story - Lights Out Podcast #3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rpA2AK_8HyM" target="_blank" rel="noopener noreferrer">Travis Walton: An Alien Abduction Story - Lights Out Podcast #3</a></p><p class="youtube-embed-meta">Channel: Lights Out &middot; Views: 332.9K &middot; Uploaded: May 2020 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rpA2AK_8HyM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rpA2AK_8HyM">Open on YouTube</a></p></div></div></div>
 
 ## Corroboration, fear, and police pressure
@@ -312,10 +309,9 @@ The result is a confusing public record in which both believers and sceptics sel
 
 ### Allen Dalis became an early weak point
 
-Allen Dalis is often cited by sceptics because his test results were not as clear as the others’. Some accounts suggest nervousness about unrelated legal or employment issues affected the examination. Believers therefore treat the inconclusive result as peripheral rather than damaging. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/on-the-trail-of-the-saucers/travis-waltons-five-missing-days-812f1f96f9cf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Travis Walton&#x27;s Five Days of Missing Time</span><span class="citation-popover-snippet">MediumSkeptics, notably Philip J. Klass, turned the Walton case into a vast conspiracy. Klass considered Walton&#x27;s story to be a hoax perp...</span></span></span>
+Allen Dalis is often cited by sceptics because his test results were not as clear as the others’. Some accounts suggest nervousness about unrelated legal or employment issues affected the examination. Believers therefore treat the inconclusive result as peripheral rather than damaging. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/on-the-trail-of-the-saucers/travis-waltons-five-missing-days-812f1f96f9cf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Travis Walton&#x27;s Five Days of Missing Time</span><span class="citation-popover-snippet">Skeptics, notably Philip J. Klass, turned the Walton case into a vast conspiracy. Klass considered Walton&#x27;s story to be a hoax perp...</span></span></span>
 
 Still, Dalis illustrates a broader problem with the witness evidence. The crew was not a perfectly unified body of testimony delivered under laboratory conditions. The men had different personalities, different levels of public engagement and varying tolerance for scrutiny.
-
 
 <img src="{{ "/assets/images/Travis_Walton_abduct_612999_crew_testimony_e64831-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Walton_abduct_612999_crew_testimony_e64831-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Walton_abduct_612999_crew_testimony_e64831-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Media attention changed the witness environment quickly
@@ -332,7 +328,6 @@ The strongest misunderstanding surrounding the Walton case is the assumption tha
 
 The logging crew only testified to the following:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * They saw an unusual luminous object.
@@ -346,7 +341,6 @@ The logging crew only testified to the following:
 Everything beyond that point came solely from Walton after he reappeared. The detailed claims about waking inside a craft, seeing non-human beings and interacting with humanoid figures were not witnessed by the crew. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Travis_Walton_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis Walton incident</span><span class="citation-popover-snippet">Travis Walton incident</span></span></span>
 
 This boundary is crucial because it divides the case into two different evidentiary questions:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RZ_k2JVUjFQ" title="The Most Famous Alien Abduction Case of All Time | Travis Walton Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RZ_k2JVUjFQ" target="_blank" rel="noopener noreferrer">The Most Famous Alien Abduction Case of All Time | Travis Walton Incident</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 11.5K &middot; Uploaded: June 2025 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RZ_k2JVUjFQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RZ_k2JVUjFQ">Open on YouTube</a></p></div></div></div>
 
@@ -365,7 +359,6 @@ Philip Klass and later sceptical writers argued that the event may have been sta
 
 The strongest point for sceptics is that every major element of the initial sighting depends entirely on human testimony. No verified physical evidence conclusively established the presence of an extraordinary craft.
 
-
 <img src="{{ "/assets/images/Travis_Walton_abduct_612999_crew_testimony_e64831-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Walton_abduct_612999_crew_testimony_e64831-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Walton_abduct_612999_crew_testimony_e64831-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Later inconsistencies and disputes
 
@@ -381,7 +374,6 @@ Steve Pierce later made comments that sceptics considered suspicious, including 
 
 These details do not prove fabrication, but they fed theories that preparations could have occurred before the reported sighting.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UItcMvdZDc8" title="The Truth Behind the Travis Walton UFO Abduction | Crimes Of..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UItcMvdZDc8" target="_blank" rel="noopener noreferrer">The Truth Behind the Travis Walton UFO Abduction | Crimes Of...</a></p><p class="youtube-embed-meta">Channel: Crime House &middot; Views: 20.9K &middot; Uploaded: December 2025 &middot; Length: 1 hour 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UItcMvdZDc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UItcMvdZDc8">Open on YouTube</a></p></div></div></div>
 
 ## Why the crew testimony still matters
@@ -389,7 +381,6 @@ These details do not prove fabrication, but they fed theories that preparations 
 Despite decades of sceptical criticism, the Walton witnesses remain important in UFO history because the case occupies an uncomfortable middle ground. The crew testimony is stronger than most anecdotal UFO stories but weaker than conclusive evidence.
 
 Several features continue to give the witnesses credibility in the eyes of supporters:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -412,44 +403,86 @@ At the same time, major limitations remain unresolved:
 That tension explains why the logging crew remains the real centre of the Travis Walton case. Walton’s later abduction story made the incident famous, but the reason people still debate it is that six other men claimed they were there when something happened in the Arizona forest.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Strong Was the Crew&#x27;s Story?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Strong Was the Crew&#x27;s Story?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Travis Walton guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Travis+Walton+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
+        </h4>
+        <p class="fr-book-author">By Travis Walton</p>
+        
+        <p class="fr-book-desc">Provides the detailed, ground-level context on what the six other logging crew members reported to the police on the night of the incident.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Logging Crew guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Logging+Crew+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides a comprehensive historical timeline of the Apache-Sitgreaves National Forest sighting and the subsequent police files.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Polygraph Tests guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Polygraph+Tests+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alien Abduction Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1C4MgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alien Abduction Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alien Abduction Files">The Alien Abduction Files</a>
+        </h4>
+        <p class="fr-book-author">By Kathleen Marden, Denise Stoner</p>
+        
+        <p class="fr-book-desc">Analyzes the shared group dynamic, examining the stability of the crew&#x27;s testimony under intense law-enforcement interrogation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+        </h4>
+        <p class="fr-book-author">By Philip J. Klass</p>
+        
+        <p class="fr-book-desc">Examines discrepancies in the crew&#x27;s timelines and outlines the skeptical case for a coordinated local fabrication.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alien Abduction Files</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -486,15 +519,15 @@ That tension explains why the logging crew remains the real centre of the Travis
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Movie Photo / Poster Up To 30&quot;"><img src="{{ '/assets/images/marketplace-covers/1bc2ddce555309e018c7.jpg' | relative_url }}" alt="Listing image for Alien Abduction Movie Photo / Poster Up To 30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Movie Photo / Poster Up To 30&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +535,15 @@ That tension explains why the logging crew remains the real centre of the Travis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;"><img src="{{ '/assets/images/marketplace-covers/2501a43cedfa1b44778d.jpg' | relative_url }}" alt="Listing image for Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +551,15 @@ That tension explains why the logging crew remains the real centre of the Travis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bcdcd82feb52eda5f467.jpg' | relative_url }}" alt="Listing image for Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +567,15 @@ That tension explains why the logging crew remains the real centre of the Travis
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed"><img src="{{ '/assets/images/marketplace-covers/14676aae3cb867bb0a6c.jpg' | relative_url }}" alt="Listing image for Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,7 +583,7 @@ That tension explains why the logging crew remains the real centre of the Travis
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="witnesses-0bd763-how-strong-was-the-crew-s-story-travis-walton-abduction-1975-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -766,35 +799,35 @@ That tension explains why the logging crew remains the real centre of the Travis
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Travis Walton incident  
-   Link: [https://en.wikipedia.org/wiki/Travis_Walton_incident](https://en.wikipedia.org/wiki/Travis_Walton_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Travis_Walton_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_Walton_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: medium.com  
    Title: The Stars In Our Lies  
-   Link: [https://medium.com/%40garethrhysdavies2/the-stars-in-our-lies-51eb309212f9](https://medium.com/%40garethrhysdavies2/the-stars-in-our-lies-51eb309212f9)  
+   Link: <a href="https://medium.com/%40garethrhysdavies2/the-stars-in-our-lies-51eb309212f9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40garethrhysdavies2/the-stars-in-our-lies-51eb309212f9</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The strange tale of Travis Walton...Therefore Rogers and the rest of the crew agreed to a polygraph test. With the exception of Allen Da...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt2418336/](https://www.imdb.com/title/tt2418336/)  
+   Link: <a href="https://www.imdb.com/title/tt2418336/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt2418336/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IMDb&quot;Paranormal Witness&quot; The Abduction (TV Episode 2012)All the key people involved in the most famous alien abduction case in history re...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: medium.com  
    Title: Travis Walton's Five Days of Missing Time  
-   Link: [https://medium.com/on-the-trail-of-the-saucers/travis-waltons-five-missing-days-812f1f96f9cf](https://medium.com/on-the-trail-of-the-saucers/travis-waltons-five-missing-days-812f1f96f9cf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumSkeptics, notably Philip J. Klass, turned the Walton case into a vast conspiracy. Klass considered Walton&#x27;s story to be a hoax perp...</p></details>
+   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/travis-waltons-five-missing-days-812f1f96f9cf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/travis-waltons-five-missing-days-812f1f96f9cf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptics, notably Philip J. Klass, turned the Walton case into a vast conspiracy. Klass considered Walton&#x27;s story to be a hoax perp...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: michaelshermer.com  
    Title: travis waltons alien abduction lie detection test  
-   Link: [https://michaelshermer.com/articles/travis-waltons-alien-abduction-lie-detection-test/](https://michaelshermer.com/articles/travis-waltons-alien-abduction-lie-detection-test/)  
+   Link: <a href="https://michaelshermer.com/articles/travis-waltons-alien-abduction-lie-detection-test/" target="_blank" rel="noopener noreferrer nofollow">https://michaelshermer.com/articles/travis-waltons-alien-abduction-lie-detection-test/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michael ShermerTravis Walton&#x27;s Alien Abduction Lie Detection Test14 Aug 2012 — Although Walton passed a polygraph test arranged by a UFO...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ufospensacolabeach.com  
    Title: the travis walton ufo incident  
-   Link: [https://www.ufospensacolabeach.com/the-travis-walton-ufo-incident/](https://www.ufospensacolabeach.com/the-travis-walton-ufo-incident/)  
+   Link: <a href="https://www.ufospensacolabeach.com/the-travis-walton-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufospensacolabeach.com/the-travis-walton-ufo-incident/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s Mini-Golf &amp; ArcadeThe Travis Walton UFO Incident7 Nov 2024 — Klass and Michael Shermer, have suggested the event was a hoax, possib...</p></details>
 
 ### Additional References
@@ -802,55 +835,55 @@ That tension explains why the logging crew remains the real centre of the Travis
 7. <a id="endnote-7"></a>
    Source: paranormalportaluk.com  
    Title: revisited series the travis walton abduction  
-   Link: [https://www.paranormalportaluk.com/post/revisited-series-the-travis-walton-abduction](https://www.paranormalportaluk.com/post/revisited-series-the-travis-walton-abduction)  
+   Link: <a href="https://www.paranormalportaluk.com/post/revisited-series-the-travis-walton-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalportaluk.com/post/revisited-series-the-travis-walton-abduction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Walton&#x27;s alien abduction: the true story behind...Nov 3, 2025 — All six crew members, including Mike Rogers (the crew leader), vo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: syfy.com  
    Title: episode recap the abduction  
-   Link: [https://www.syfy.com/paranormal-witness/season-2/blogs/episode-recap-the-abduction](https://www.syfy.com/paranormal-witness/season-2/blogs/episode-recap-the-abduction)  
+   Link: <a href="https://www.syfy.com/paranormal-witness/season-2/blogs/episode-recap-the-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/paranormal-witness/season-2/blogs/episode-recap-the-abduction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Episode Recap: The Abduction | Paranormal Witness BlogDec 16, 2014 — Travis cleared scrub and trees along with a crew of men: Mike Rogers...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: spreaker.com  
    Title: mike rogers interview the travis walton abduction mystery 66010864  
-   Link: [https://www.spreaker.com/episode/mike-rogers-interview-the-travis-walton-abduction-mystery--66010864](https://www.spreaker.com/episode/mike-rogers-interview-the-travis-walton-abduction-mystery--66010864)  
+   Link: <a href="https://www.spreaker.com/episode/mike-rogers-interview-the-travis-walton-abduction-mystery--66010864" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/mike-rogers-interview-the-travis-walton-abduction-mystery--66010864</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mike Rogers Interview: The Travis Walton Abduction Mystery9 May 2025 — In this gripping episode, we sit down with Mike Rogers, a key wit...</p></details>
    Published: November 5, 1975  
 
 10. <a id="endnote-10"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/gb/podcast/the-travis-walton-ufo-abduction-truth-hoax-or/id1744360946?i=1000749743458](https://podcasts.apple.com/gb/podcast/the-travis-walton-ufo-abduction-truth-hoax-or/id1744360946?i=1000749743458)  
+   Link: <a href="https://podcasts.apple.com/gb/podcast/the-travis-walton-ufo-abduction-truth-hoax-or/id1744360946?i=1000749743458" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/gb/podcast/the-travis-walton-ufo-abduction-truth-hoax-or/id1744360946?i=1000749743458</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Walton UFO Abductio…–Crime at Bedtime14 Feb 2026 — In 1975, 22-year-old Travis Walton vanished in the Arizona woods after a terrif...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TravelChannel/posts/by-the-time-he-had-tested-all-of-us-he-seemed-to-be-a-believer-stream-the-all-ne/10160052216198851/](https://www.facebook.com/TravelChannel/posts/by-the-time-he-had-tested-all-of-us-he-seemed-to-be-a-believer-stream-the-all-ne/10160052216198851/)  
+   Link: <a href="https://www.facebook.com/TravelChannel/posts/by-the-time-he-had-tested-all-of-us-he-seemed-to-be-a-believer-stream-the-all-ne/10160052216198851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TravelChannel/posts/by-the-time-he-had-tested-all-of-us-he-seemed-to-be-a-believer-stream-the-all-ne/10160052216198851/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Walton and his co-workers passed multiple polygraph tests, but some skeptics argue that the tests were flawed...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/166563453973502/posts/1501008377195663/](https://www.facebook.com/groups/166563453973502/posts/1501008377195663/)  
+   Link: <a href="https://www.facebook.com/groups/166563453973502/posts/1501008377195663/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/166563453973502/posts/1501008377195663/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Travis Walton Story and Alien AbductionThe Travis Walton story was crazy but electrifying! After reading Behold A Pale Horse by Willi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: lysator.liu.se  
-   Link: [https://www.lysator.liu.se/skeptical/newsletters/Georgia_Skeptic/GS06-02.TXT](https://www.lysator.liu.se/skeptical/newsletters/Georgia_Skeptic/GS06-02.TXT)  
+   Link: <a href="https://www.lysator.liu.se/skeptical/newsletters/Georgia_Skeptic/GS06-02.TXT" target="_blank" rel="noopener noreferrer nofollow">https://www.lysator.liu.se/skeptical/newsletters/Georgia_Skeptic/GS06-02.TXT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>liu.se[https://www.lysator.liu.se/skeptical/newsletters/G...Klass](https://www.lysator.liu.se/skeptical/newsletters/G...Klass), chairman of CSICOP&#x27;s UFO Subcommittee (which also includes such noted s...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: x.com  
    Title: "Phoenix body lab"  
-   Link: [https://x.com/search?f=live&q=%EF%BC%B0%EF%BD%88%EF%BD%8F%EF%BD%85%EF%BD%8E%EF%BD%89%EF%BD%98%E3%80%80%EF%BD%82%EF%BD%8F%EF%BD%84%EF%BD%99%E3%80%80%EF%BD%8C%EF%BD%81%EF%BD%82&vertical=default](https://x.com/search?f=live&q=%EF%BC%B0%EF%BD%88%EF%BD%8F%EF%BD%85%EF%BD%8E%EF%BD%89%EF%BD%98%E3%80%80%EF%BD%82%EF%BD%8F%EF%BD%84%EF%BD%99%E3%80%80%EF%BD%8C%EF%BD%81%EF%BD%82&vertical=default)  
+   Link: <a href="https://x.com/search?f=live&amp;q=%EF%BC%B0%EF%BD%88%EF%BD%8F%EF%BD%85%EF%BD%8E%EF%BD%89%EF%BD%98%E3%80%80%EF%BD%82%EF%BD%8F%EF%BD%84%EF%BD%99%E3%80%80%EF%BD%8C%EF%BD%81%EF%BD%82&amp;vertical=default" target="_blank" rel="noopener noreferrer nofollow">https://x.com/search?f=live&amp;q=%EF%BC%B0%EF%BD%88%EF%BD%8F%EF%BD%85%EF%BD%8E%EF%BD%89%EF%BD%98%E3%80%80%EF%BD%82%EF%BD%8F%EF%BD%84%EF%BD%99%E3%80%80%EF%BD%8C%EF%BD%81%EF%BD%82&amp;vertical=default</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Results on X | Live Posts &amp; Updates... Walton incident witnesses. No, there is no credible evidence that Mike Rogers made a deathbed conf...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
    Title: Travis Walton Part 1 MUFON Case File | PDF | Polygraphto support Klass  
-   Link: [https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File](https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File)  
+   Link: <a href="https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8. &quot;CORROBORATING WITNESSES&#x27; POLYGRAPH EXAMINATIONS&#x27;... was &#x27;under&#x27; media pressure on this incident, and all he had was conflictingRead...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOoq6sfIzjzcBAApPdm10jcd6gXiKGsBsJ4DiQXWBdKGkJhPUPvcC](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOoq6sfIzjzcBAApPdm10jcd6gXiKGsBsJ4DiQXWBdKGkJhPUPvcC)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOoq6sfIzjzcBAApPdm10jcd6gXiKGsBsJ4DiQXWBdKGkJhPUPvcC" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOoq6sfIzjzcBAApPdm10jcd6gXiKGsBsJ4DiQXWBdKGkJhPUPvcC</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Klass later investigated the case, they pointed to this timing as suspicious, suggesting the film might have...Read more...</p></details>

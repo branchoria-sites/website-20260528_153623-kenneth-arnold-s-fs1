@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Blackout UFO
   permalink: /the-northeast-blackout-1965/
   short_title: Blackout UFO
-date: '2026-06-08 23:27:36 '
+date: '2026-06-11 13:16:51 '
 header:
   og_image: /assets/images/Steven_Michalak_enco_1bbf94-overview-social.jpg
   preview_image: /assets/images/Steven_Michalak_enco_1bbf94-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Steven_Michalak_enco_1bbf94-overview-social.jpg
 ## What Michalak said happened near Falcon Lake
 
 Stefan, often rendered Steven, Michalak was an industrial mechanic and amateur prospector living in Winnipeg. On 20 May 1967, he went into the bush near Falcon Lake in Whiteshell Provincial Park, roughly 150 kilometres east of Winnipeg, looking for mineral samples. Library and Archives Canada’s later public account places him in the Canadian Shield landscape, chipping at quartz after a morning of prospecting when, according to his account, frightened geese drew his attention to two descending glowing objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">UFOs at LAC: The Falcon Lake incident, part 1</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 1</span></span></span>
-
 
 <img src="{{ "/assets/images/Steven_Michalak_enco_1bbf94-overview.webp" | relative_url }}" alt="Overview image for Steven Michalak encounter 1967" loading="eager" decoding="sync" fetchpriority="high">
 Michalak’s own published account, as reproduced in Library and Archives Canada’s transcript, described the objects as cigar-shaped at first, then more oval as they descended. One object reportedly hovered and left; the other allegedly landed on a rock outcrop about 160 feet away. Stan Michalak and Chris Rutkowski’s later account says Michalak thought the object might be an experimental Canadian or American vehicle rather than an alien craft, and that he approached it out of curiosity and concern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">UFOs at LAC: The Falcon Lake incident, part 2</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 2</span></span></span>
@@ -773,7 +772,6 @@ The first police contact matters because it is one of the few near-contemporaneo
 This is where the case begins to show its recurring pattern: a striking claim, a real-time record, and an immediate inconsistency. Michalak’s later manuscript portrayed the constable as unwilling to help, while the police account says Solotki offered to take him for treatment and Michalak declined. That does not prove either man lied; it does show why the case is difficult to treat as a clean evidential chain. The witness was reportedly ill and frightened, the officer was sceptical, and their accounts diverged on important details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">UFOs at LAC: The Falcon Lake incident, part 2</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 2</span></span></span>
 
 Michalak returned to Winnipeg by bus and was treated at Misericordia Hospital. The RCMP later recorded that he had burns on his abdomen and chest and had been treated as an outpatient; it also recorded symptoms including inability to eat, vomiting, headache, weight loss, and a persistent unpleasant taste in his mouth. Investigators who interviewed him on 23 May described him as physically uncomfortable and unable at that point to take them to the alleged site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bac-lac.gc.ca/eng/discover/unusual/ufo/Documents/1967-08-10.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bac-lac.gc.ca">[bac-lac.gc.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bac-lac.gc.ca</span><span class="citation-popover-snippet">Open source on gc.ca.</span></span></span>
-
 
 <img src="{{ "/assets/images/Steven_Michalak_enco_1bbf94-Illustration-1-dark.svg" | relative_url }}" alt="Steven Michalak encounter 1967 illustration 1" data-theme-src-dark="{{ "/assets/images/Steven_Michalak_enco_1bbf94-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Steven_Michalak_enco_1bbf94-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the burns remain central but not decisive
@@ -794,8 +792,7 @@ Library and Archives Canada’s later discussion summarises the unresolved statu
 
 That is the central evidential tension. Radioactivity gives the case a physical hook beyond testimony, but provenance is weak. Samples handled by the witness, collected after a delay, removed before official control, and later supplemented by unusual metal pieces cannot carry the same weight as uncontaminated evidence collected immediately from a secured site.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V14uQaRD1HE" title="The Strange Case Of The Falcon Lake Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V14uQaRD1HE" target="_blank" rel="noopener noreferrer">The Strange Case Of The Falcon Lake Incident</a></p><p class="youtube-embed-meta">Channel: BuzzFeed Unsolved Network &middot; Views: 481.4K &middot; Uploaded: September 2020 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V14uQaRD1HE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V14uQaRD1HE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0e6dKxkqbn8" title="Falcon Lake Incident: The Most Credible UFO Case in History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0e6dKxkqbn8" target="_blank" rel="noopener noreferrer">Falcon Lake Incident: The Most Credible UFO Case in History</a></p><p class="youtube-embed-meta">Channel: FORGOTTEN HISTORY &middot; Views: 67.2K &middot; Uploaded: February 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0e6dKxkqbn8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0e6dKxkqbn8">Open on YouTube</a></p></div></div></div>
 
 ## What official investigations did and did not conclude
 
@@ -804,7 +801,6 @@ The Falcon Lake incident was not ignored. It was examined by Canadian police and
 The most quoted official-style conclusion is cautious rather than triumphant. Library and Archives Canada’s transcript says that after the investigation the RCMP found “certain facts” including Michalak’s illness and burns and the evident circle at the site to be unexplained, and that radioactive contamination of rock and soil was found at the alleged site with undetermined origin. It also says no one could either prove or disprove Michalak’s claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">UFOs at LAC: The Falcon Lake incident, part 2</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 2</span></span></span>
 
 That wording is important. “Unexplained” in an investigative file does not mean “confirmed as extraterrestrial” or even “confirmed as a craft”. It means the available inquiry did not close every gap. In historical UFO cases, this distinction is often lost: a file can be genuinely unresolved without supporting the most dramatic interpretation.
-
 
 <img src="{{ "/assets/images/Steven_Michalak_enco_1bbf94-Illustration-3-dark.svg" | relative_url }}" alt="Steven Michalak encounter 1967 illustration 3" data-theme-src-dark="{{ "/assets/images/Steven_Michalak_enco_1bbf94-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Steven_Michalak_enco_1bbf94-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The best arguments for taking the case seriously
@@ -819,7 +815,6 @@ Three features make the case stronger than many UFO stories:
 
 Supporters also point to Michalak’s background and behaviour. He was not initially describing aliens; he seems to have thought in terms of an experimental aircraft. His son has argued that his story remained stable over the years, and Rutkowski has argued that the case’s combination of injuries, documents, site evidence and interviews makes it unusually substantial by UFO-report standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/1525" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[journalofscientificexploration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">When They Appeared Falcon Lake 1967: The inside story of a close encounter Stan Michalak &amp; Chris Rutkowski Plus the original story My Enc...</span></span></span>
 
-
 <img src="{{ "/assets/images/Steven_Michalak_enco_1bbf94-Illustration-2-dark.svg" | relative_url }}" alt="Steven Michalak encounter 1967 illustration 2" data-theme-src-dark="{{ "/assets/images/Steven_Michalak_enco_1bbf94-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Steven_Michalak_enco_1bbf94-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The best reasons for caution
 
@@ -829,8 +824,7 @@ Alcohol has often been raised as a possible factor, but the evidence is mixed. S
 
 The radioactive metal pieces are also problematic for both sides. To believers, they look like hard evidence. To sceptics, their unusual composition and uncertain collection history make them suspect. Rutkowski himself noted that the pitchblende-like material appeared attached to silver with a sticky substance and openly raised the possibility that someone fabricated or enhanced that part of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">UFOs at LAC: The Falcon Lake incident, part 2</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 2</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w7OTEIZsOG8" title="The Falcon Lake UFO Incident | Paranormal Portals: Gateway to the Unknown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w7OTEIZsOG8" target="_blank" rel="noopener noreferrer">The Falcon Lake UFO Incident | Paranormal Portals: Gateway to the Unknown</a></p><p class="youtube-embed-meta">Channel: Extreme Mysteries &middot; Views: 10.5K &middot; Uploaded: April 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w7OTEIZsOG8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w7OTEIZsOG8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dmc4nYKUBKM" title="Falcon Lake UFO Lecture, November 7, 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dmc4nYKUBKM" target="_blank" rel="noopener noreferrer">Falcon Lake UFO Lecture, November 7, 2019</a></p><p class="youtube-embed-meta">Channel: University of Manitoba Archives &amp; Special Collections &middot; Views: 17.9K &middot; Uploaded: November 2019 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dmc4nYKUBKM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dmc4nYKUBKM">Open on YouTube</a></p></div></div></div>
 
 ## Why the Condon connection matters
 
@@ -838,8 +832,7 @@ The case sits in a wider late-1960s official UFO context, but it should not be i
 
 Falcon Lake’s inclusion in that orbit shows that the case was regarded as worth examining, not that it was solved in Michalak’s favour. For readers comparing this page with sibling branches of the same case dossier, the Condon angle is best treated as a documentation-and-investigation branch: it helps explain why the case left unusually rich records, while the medical and physical-evidence branches remain the better places to evaluate the claim itself.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0e6dKxkqbn8" title="Falcon Lake Incident: The Most Credible UFO Case in History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0e6dKxkqbn8" target="_blank" rel="noopener noreferrer">Falcon Lake Incident: The Most Credible UFO Case in History</a></p><p class="youtube-embed-meta">Channel: FORGOTTEN HISTORY &middot; Views: 67.2K &middot; Uploaded: February 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0e6dKxkqbn8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0e6dKxkqbn8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w7OTEIZsOG8" title="The Falcon Lake UFO Incident | Paranormal Portals: Gateway to the Unknown" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w7OTEIZsOG8" target="_blank" rel="noopener noreferrer">The Falcon Lake UFO Incident | Paranormal Portals: Gateway to the Unknown</a></p><p class="youtube-embed-meta">Channel: Extreme Mysteries &middot; Views: 10.5K &middot; Uploaded: April 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w7OTEIZsOG8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w7OTEIZsOG8">Open on YouTube</a></p></div></div></div>
 
 ## How the case should be assessed today
 
@@ -848,44 +841,86 @@ The Steven Michalak encounter remains compelling because it resists both easy be
 But the responsible verdict is narrower than the legend. The case is best described as an unresolved injury-and-trace case attached to a single-witness UFO report. Its strongest evidence supports the claim that Michalak experienced or suffered something unusual; it does not securely establish that a manufactured craft landed, that its occupants were present, or that the object was non-human. The most durable mystery is therefore not simply “Was it a UFO?” but “What combination of event, injury, contamination, memory, investigation gaps and later retelling produced the Falcon Lake record that still survives?”
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened at Falcon Lake?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened at Falcon Lake?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Details the 1967 encounter, the documented physical burns, and the ongoing radiation-sample debates.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Details why physical burns and radiation claims, while striking, require independent medical and forensic corroboration.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches methodologies to audit physical trace evidence and evaluate medical report accuracy.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides necessary historical context on why trace-evidence and injury-based cases often remain unsolved archival reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -922,15 +957,15 @@ But the responsible verdict is narrower than the legend. The case is best descri
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Encounter Poster, Vintage Sci-Fi Wall Art Print, Retro Decor"><img src="{{ '/assets/images/marketplace-covers/73c8f8ee2051961ee714.jpg' | relative_url }}" alt="Listing image for Alien UFO Encounter Poster, Vintage Sci-Fi Wall Art Print, Retro Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Encounter Poster, Vintage Sci-Fi Wall Art Print, Retro Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -938,15 +973,15 @@ But the responsible verdict is narrower than the legend. The case is best descri
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/106fc453372cb1fd9ff5.jpg' | relative_url }}" alt="Listing image for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -954,15 +989,15 @@ But the responsible verdict is narrower than the legend. The case is best descri
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/834ee19f98df8bccfb55.jpg' | relative_url }}" alt="Listing image for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -970,15 +1005,15 @@ But the responsible verdict is narrower than the legend. The case is best descri
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Night Encounter Dark Aesthetic Poster"><img src="{{ '/assets/images/marketplace-covers/cc7898d1a32d21814bc0.jpg' | relative_url }}" alt="Listing image for UFO Night Encounter Dark Aesthetic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO Night Encounter Dark Aesthetic Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -986,7 +1021,7 @@ But the responsible verdict is narrower than the legend. The case is best descri
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="steven-michalak-encounter-1967-what-really-happened-at-falcon-lake-ufo-encounter-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1202,118 +1237,118 @@ But the responsible verdict is narrower than the legend. The case is best descri
 1. <a id="endnote-1"></a>
    Source: canada.ca  
    Title: UFOs at LAC: The Falcon Lake incident, part 1  
-   Link: [https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html](https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html)  
+   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: canada.ca  
    Title: UFOs at LAC: The Falcon Lake incident, part 2  
-   Link: [https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html](https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html)  
+   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/1525](https://journalofscientificexploration.org/index.php/jse/article/view/1525)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/1525" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/1525</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When They Appeared Falcon Lake 1967: The inside story of a close encounter Stan Michalak &amp; Chris Rutkowski Plus the original story My Enc...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: bac-lac.gc.ca  
-   Link: [https://www.bac-lac.gc.ca/eng/discover/unusual/ufo/Documents/1967-05-26.pdf](https://www.bac-lac.gc.ca/eng/discover/unusual/ufo/Documents/1967-05-26.pdf)  
+   Link: <a href="https://www.bac-lac.gc.ca/eng/discover/unusual/ufo/Documents/1967-05-26.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bac-lac.gc.ca/eng/discover/unusual/ufo/Documents/1967-05-26.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: bac-lac.gc.ca  
-   Link: [https://www.bac-lac.gc.ca/eng/discover/unusual/ufo/Documents/1967-08-10.pdf](https://www.bac-lac.gc.ca/eng/discover/unusual/ufo/Documents/1967-08-10.pdf)  
+   Link: <a href="https://www.bac-lac.gc.ca/eng/discover/unusual/ufo/Documents/1967-08-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bac-lac.gc.ca/eng/discover/unusual/ufo/Documents/1967-08-10.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: bac-lac.gc.ca  
-   Link: [https://www.bac-lac.gc.ca/eng/discover/unusual/ufo/Documents/1967-09-13.pdf](https://www.bac-lac.gc.ca/eng/discover/unusual/ufo/Documents/1967-09-13.pdf)  
+   Link: <a href="https://www.bac-lac.gc.ca/eng/discover/unusual/ufo/Documents/1967-09-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bac-lac.gc.ca/eng/discover/unusual/ufo/Documents/1967-09-13.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: colorado.edu  
-   Link: [https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study](https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study)  
+   Link: <a href="https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/coloradan/2021/11/05/condon-report-cu-boulders-historic-ufo-study</a>  
 
 8. <a id="endnote-8"></a>
    Source: space.com  
    Title: canadian ufo collection falcon lake incident  
-   Link: [https://www.space.com/canadian-ufo-collection-falcon-lake-incident.html](https://www.space.com/canadian-ufo-collection-falcon-lake-incident.html)  
+   Link: <a href="https://www.space.com/canadian-ufo-collection-falcon-lake-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/canadian-ufo-collection-falcon-lake-incident.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: unresolved.me  
    Title: the falcon lake incident  
-   Link: [https://unresolved.me/the-falcon-lake-incident](https://unresolved.me/the-falcon-lake-incident)  
+   Link: <a href="https://unresolved.me/the-falcon-lake-incident" target="_blank" rel="noopener noreferrer nofollow">https://unresolved.me/the-falcon-lake-incident</a>  
 
 10. <a id="endnote-10"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: [https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf](https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: universityaffairs.ca  
-   Link: [https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/](https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/)  
+   Link: <a href="https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/" target="_blank" rel="noopener noreferrer nofollow">https://universityaffairs.ca/news/the-university-of-manitobas-archive-of-the-paranormal-just-became-a-little-more-extraordinary/</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Falcon Lake Incident  
-   Link: [https://en.wikipedia.org/wiki/Falcon_Lake_Incident](https://en.wikipedia.org/wiki/Falcon_Lake_Incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falcon_Lake_Incident</a>  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LibraryArchives/photos/may-19-1967-ufo-encounter-in-falcon-lake-manitobaearly-in-the-afternoon-stephen-/1076238635755801/](https://www.facebook.com/LibraryArchives/photos/may-19-1967-ufo-encounter-in-falcon-lake-manitobaearly-in-the-afternoon-stephen-/1076238635755801/)  
+   Link: <a href="https://www.facebook.com/LibraryArchives/photos/may-19-1967-ufo-encounter-in-falcon-lake-manitobaearly-in-the-afternoon-stephen-/1076238635755801/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/photos/may-19-1967-ufo-encounter-in-falcon-lake-manitobaearly-in-the-afternoon-stephen-/1076238635755801/</a>  
 
 14. <a id="endnote-14"></a>
    Source: thediscoverblog.com  
-   Link: [https://thediscoverblog.com/tag/ufo/](https://thediscoverblog.com/tag/ufo/)  
+   Link: <a href="https://thediscoverblog.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://thediscoverblog.com/tag/ufo/</a>  
 
 15. <a id="endnote-15"></a>
    Source: lib-umanitoba.libcal.com  
-   Link: [https://lib-umanitoba.libcal.com/event/3525973](https://lib-umanitoba.libcal.com/event/3525973)  
+   Link: <a href="https://lib-umanitoba.libcal.com/event/3525973" target="_blank" rel="noopener noreferrer nofollow">https://lib-umanitoba.libcal.com/event/3525973</a>  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dmc4nYKUBKM](https://www.youtube.com/watch?v=dmc4nYKUBKM)  
+   Link: <a href="https://www.youtube.com/watch?v=dmc4nYKUBKM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dmc4nYKUBKM</a>  
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Falcon Lake Incident: The Most Credible UFO Case in History  
-   Link: [https://www.youtube.com/watch?v=0e6dKxkqbn8](https://www.youtube.com/watch?v=0e6dKxkqbn8)  
+   Link: <a href="https://www.youtube.com/watch?v=0e6dKxkqbn8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0e6dKxkqbn8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Season 2, Episode 6: The Falcon Lake Incident...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Season 2, Episode 6: The Falcon Lake Incident  
-   Link: [https://www.youtube.com/watch?v=KEvILlvq41M](https://www.youtube.com/watch?v=KEvILlvq41M)  
+   Link: <a href="https://www.youtube.com/watch?v=KEvILlvq41M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KEvILlvq41M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FALCON LAKE INCIDENT: UFO Attacks Witnesses to Cover Up Clues?...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Strange Case Of The Falcon Lake Incident  
-   Link: [https://www.youtube.com/watch?v=V14uQaRD1HE](https://www.youtube.com/watch?v=V14uQaRD1HE)  
+   Link: <a href="https://www.youtube.com/watch?v=V14uQaRD1HE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V14uQaRD1HE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon Lake Incident: The Most Credible UFO Case in History...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/333734566_When_They_Appeared_Falcon_Lake_1967_The_Inside_Story_of_a_Close_Encounter_by_Stan_Michalak_and_Chris_Rutkowski_Plus_the_original_story_My_Encounter_with_The_UFO_by_Stephen_Michalak](https://www.researchgate.net/publication/333734566_When_They_Appeared_Falcon_Lake_1967_The_Inside_Story_of_a_Close_Encounter_by_Stan_Michalak_and_Chris_Rutkowski_Plus_the_original_story_My_Encounter_with_The_UFO_by_Stephen_Michalak)  
+   Link: <a href="https://www.researchgate.net/publication/333734566_When_They_Appeared_Falcon_Lake_1967_The_Inside_Story_of_a_Close_Encounter_by_Stan_Michalak_and_Chris_Rutkowski_Plus_the_original_story_My_Encounter_with_The_UFO_by_Stephen_Michalak" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333734566_When_They_Appeared_Falcon_Lake_1967_The_Inside_Story_of_a_Close_Encounter_by_Stan_Michalak_and_Chris_Rutkowski_Plus_the_original_story_My_Encounter_with_The_UFO_by_Stephen_Michalak</a>  
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DV1QpamEfUd/](https://www.instagram.com/reel/DV1QpamEfUd/)  
+   Link: <a href="https://www.instagram.com/reel/DV1QpamEfUd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DV1QpamEfUd/</a>  
 
 23. <a id="endnote-23"></a>
    Source: themorbidlibrary.com  
-   Link: [https://themorbidlibrary.com/the-extraterrestrial-falcon-lake-incident/](https://themorbidlibrary.com/the-extraterrestrial-falcon-lake-incident/)  
+   Link: <a href="https://themorbidlibrary.com/the-extraterrestrial-falcon-lake-incident/" target="_blank" rel="noopener noreferrer nofollow">https://themorbidlibrary.com/the-extraterrestrial-falcon-lake-incident/</a>  
 
 24. <a id="endnote-24"></a>
    Source: themanitoban.com  
-   Link: [https://themanitoban.com/2019/11/extra-terrestrial-collection-touches-down/38556/](https://themanitoban.com/2019/11/extra-terrestrial-collection-touches-down/38556/)  
+   Link: <a href="https://themanitoban.com/2019/11/extra-terrestrial-collection-touches-down/38556/" target="_blank" rel="noopener noreferrer nofollow">https://themanitoban.com/2019/11/extra-terrestrial-collection-touches-down/38556/</a>  
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1bo29pk/falcon_lake_incident_in_canada_a_case_with_actual/](https://www.reddit.com/r/aliens/comments/1bo29pk/falcon_lake_incident_in_canada_a_case_with_actual/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1bo29pk/falcon_lake_incident_in_canada_a_case_with_actual/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1bo29pk/falcon_lake_incident_in_canada_a_case_with_actual/</a>  
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/canada/comments/cbgtr5/falcon_lake_incident_is_canadas_bestdocumented/](https://www.reddit.com/r/canada/comments/cbgtr5/falcon_lake_incident_is_canadas_bestdocumented/)  
+   Link: <a href="https://www.reddit.com/r/canada/comments/cbgtr5/falcon_lake_incident_is_canadas_bestdocumented/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canada/comments/cbgtr5/falcon_lake_incident_is_canadas_bestdocumented/</a>

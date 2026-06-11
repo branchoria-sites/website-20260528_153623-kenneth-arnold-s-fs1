@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /day-family-abduction-1974/
 nav_short_title: Timeline
 title: How the Missing Time Story Unfolded
-title_full: How the Missing Time Story Unfolded | Aveley Abduction
+title_full: How the Missing Time Story Unfolded
 display_title_short: Timeline
 display_title: Timeline
 heading_title: How the Missing Time Story Unfolded
@@ -233,7 +233,7 @@ prev_link:
   permalink: /hypnosis-ece153/
   short_title: Hypnosis
   heading_title: Can Hypnosis Prove an Alien Abduction?
-date: '2026-06-08 23:26:00 '
+date: '2026-06-11 13:16:10 '
 header:
   og_image: /assets/images/Day_family_abduction_fe300b_road_incident_timeli_2ddf72-Illustration-1-social.jpg
   preview_image: /assets/images/Day_family_abduction_fe300b_road_incident_timeli_2ddf72-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Day_family_abduction_fe300b_road_incident_timeli_2ddf72-Il
 
 ## Introduction
 
-The reported road incident near Aveley on 27 October 1974 is the foundation of the entire [Day family abduction]({{ 'day-family-abduction-1974/' | relative_url }}) story. Every later claim — the hypnotic regression sessions, descriptions of beings, alleged onboard experiences, and later paranormal after-effects — depends on whether the original journey genuinely involved an unexplained interruption and roughly three hours of missing time. The core account has remained broadly stable across decades of retellings: a late-night drive home through Essex, an unusual blue light, a spreading green mist, sudden car malfunctions, confusion and silence inside the vehicle, and a later shock when the family discovered they had arrived home far later than expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0005840377ff7fede4ff2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">John Spencer</span><span class="citation-popover-snippet">World Atlas of UFOsThere were many reports from the area over the next few days. NAME THE AVELEY ABDUCTION DATE 27 OCTOBER 1974 PLACE AVE...</span><span class="citation-popover-meta">Published: OCTOBER 1974</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yourthurrock.com/2012/02/10/ufos-and-alien-abduction-in-aveley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourthurrock.com">[Your Thurrock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourthurrock.com</span><span class="citation-popover-title">ufos and alien abduction in aveley</span><span class="citation-popover-snippet">UFO&#x27;s and alien abduction in Aveley?10 Feb 2012 — The alleged alien abduction that occurred near the village of Aveley, Essex, England, i...</span></span></span>
-
+The reported road incident near Aveley on 27 October 1974 is the foundation of the entire Day family abduction story. Every later claim — the hypnotic regression sessions, descriptions of beings, alleged onboard experiences, and later paranormal after-effects — depends on whether the original journey genuinely involved an unexplained interruption and roughly three hours of missing time. The core account has remained broadly stable across decades of retellings: a late-night drive home through Essex, an unusual blue light, a spreading green mist, sudden car malfunctions, confusion and silence inside the vehicle, and a later shock when the family discovered they had arrived home far later than expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0005840377ff7fede4ff2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">John Spencer</span><span class="citation-popover-snippet">World Atlas of UFOsThere were many reports from the area over the next few days. NAME THE AVELEY ABDUCTION DATE 27 OCTOBER 1974 PLACE AVE...</span><span class="citation-popover-meta">Published: OCTOBER 1974</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yourthurrock.com/2012/02/10/ufos-and-alien-abduction-in-aveley/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yourthurrock.com">[Your Thurrock]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yourthurrock.com</span><span class="citation-popover-title">ufos and alien abduction in aveley</span><span class="citation-popover-snippet">UFO&#x27;s and alien abduction in Aveley?10 Feb 2012 — The alleged alien abduction that occurred near the village of Aveley, Essex, England, i...</span></span></span>
 
 <img src="{{ "/assets/images/Day_family_abduction_fe300b_road_incident_timeli_2ddf72-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Day_family_abduction_fe300b_road_incident_timeli_2ddf72-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Day_family_abduction_fe300b_road_incident_timeli_2ddf72-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes the case notable in British UFO history is not the amount of hard [evidence]({{ 'evidence-08f2dd/' | relative_url }}), which is limited, but the structure of the timeline itself. The sequence combines several motifs that later became central to abduction narratives: electromagnetic interference, altered perception, missing time, fragmented memory, and retrospective reconstruction under [hypnosis]({{ 'hypnosis-ece153/' | relative_url }}). The chronology therefore matters more than any later dramatic detail. If the timing sequence breaks down, the broader abduction interpretation weakens considerably.
@@ -262,16 +261,15 @@ Published summaries differ slightly in wording and exact sequencing, but several
 * Mechanical interference affecting the vehicle and radio.
 * Confusion or partial disorientation inside the car.
 * Abrupt resumption of normal driving conditions.
-* Discovery of an unexpected time gap after reaching home. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0005840377ff7fede4ff2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">John Spencer</span><span class="citation-popover-snippet">World Atlas of UFOsThere were many reports from the area over the next few days. NAME THE AVELEY ABDUCTION DATE 27 OCTOBER 1974 PLACE AVE...</span><span class="citation-popover-meta">Published: OCTOBER 1974</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://forums.forteana.org/index.php?threads%2Fthe-aveley-abductions.70684%2F=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forums.forteana.org">[Fortean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forums.forteana.org</span><span class="citation-popover-snippet">Fortean Times ForumsThe Aveley Abductions | The Forteana Forums13 Aug 2023 — Suddenly a dense mist descended that appeared to have a very...</span></span></span>
+* Discovery of an unexpected time gap after reaching home. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0005840377ff7fede4ff2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">John Spencer</span><span class="citation-popover-snippet">World Atlas of UFOsThere were many reports from the area over the next few days. NAME THE AVELEY ABDUCTION DATE 27 OCTOBER 1974 PLACE AVE...</span><span class="citation-popover-meta">Published: OCTOBER 1974</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://forums.forteana.org/index.php?threads%2Fthe-aveley-abductions.70684%2F=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forums.forteana.org">[Fortean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forums.forteana.org</span><span class="citation-popover-snippet">Fortean Times ForumsThe Aveley Abductions &#124; The Forteana Forums13 Aug 2023 — Suddenly a dense mist descended that appeared to have a very...</span></span></span>
 
 One reason the chronology became so influential in British UFO writing is that the family allegedly remained inside the car for the entire remembered portion of the event. Unlike some later abduction stories that begin with bedroom encounters or isolated witnesses, the Aveley case was structured around a continuous family journey interrupted by a break in conscious memory.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XKzRI7DffWE" title="The Aveley Extraterrestrial Abduction | Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XKzRI7DffWE" target="_blank" rel="noopener noreferrer">The Aveley Extraterrestrial Abduction | Documentary</a></p><p class="youtube-embed-meta">Channel: The Paranormal Scholar &middot; Views: 856.4K &middot; Uploaded: August 2023 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XKzRI7DffWE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XKzRI7DffWE">Open on YouTube</a></p></div></div></div>
 
 ## Blue light, green fog, and car effects
 
-The most frequently repeated stage of the incident concerns the appearance of a strange atmospheric effect shortly before the family reached Aveley. Accounts describe the road becoming obscured by a dense greenish fog or mist that appeared to move across the roadway rather than behaving like ordinary weather. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0005840377ff7fede4ff2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">John Spencer</span><span class="citation-popover-snippet">World Atlas of UFOsThere were many reports from the area over the next few days. NAME THE AVELEY ABDUCTION DATE 27 OCTOBER 1974 PLACE AVE...</span><span class="citation-popover-meta">Published: OCTOBER 1974</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://forums.forteana.org/index.php?threads%2Fthe-aveley-abductions.70684%2F=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forums.forteana.org">[Fortean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forums.forteana.org</span><span class="citation-popover-snippet">Fortean Times ForumsThe Aveley Abductions | The Forteana Forums13 Aug 2023 — Suddenly a dense mist descended that appeared to have a very...</span></span></span>
+The most frequently repeated stage of the incident concerns the appearance of a strange atmospheric effect shortly before the family reached Aveley. Accounts describe the road becoming obscured by a dense greenish fog or mist that appeared to move across the roadway rather than behaving like ordinary weather. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0005840377ff7fede4ff2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">John Spencer</span><span class="citation-popover-snippet">World Atlas of UFOsThere were many reports from the area over the next few days. NAME THE AVELEY ABDUCTION DATE 27 OCTOBER 1974 PLACE AVE...</span><span class="citation-popover-meta">Published: OCTOBER 1974</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://forums.forteana.org/index.php?threads%2Fthe-aveley-abductions.70684%2F=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forums.forteana.org">[Fortean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forums.forteana.org</span><span class="citation-popover-snippet">Fortean Times ForumsThe Aveley Abductions &#124; The Forteana Forums13 Aug 2023 — Suddenly a dense mist descended that appeared to have a very...</span></span></span>
 
 The reported fog was important because witnesses later described several simultaneous sensory effects:
 
@@ -280,7 +278,7 @@ The reported fog was important because witnesses later described several simulta
 * The car radio crackled and, in some versions, emitted smoke.
 * The engine either faltered or temporarily died.
 * The vehicle shook or jerked violently.
-* John Day reportedly experienced dizziness or confusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0005840377ff7fede4ff2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">John Spencer</span><span class="citation-popover-snippet">World Atlas of UFOsThere were many reports from the area over the next few days. NAME THE AVELEY ABDUCTION DATE 27 OCTOBER 1974 PLACE AVE...</span><span class="citation-popover-meta">Published: OCTOBER 1974</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://forums.forteana.org/index.php?threads%2Fthe-aveley-abductions.70684%2F=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forums.forteana.org">[Fortean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forums.forteana.org</span><span class="citation-popover-snippet">Fortean Times ForumsThe Aveley Abductions | The Forteana Forums13 Aug 2023 — Suddenly a dense mist descended that appeared to have a very...</span></span></span>
+* John Day reportedly experienced dizziness or confusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0005840377ff7fede4ff2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">John Spencer</span><span class="citation-popover-snippet">World Atlas of UFOsThere were many reports from the area over the next few days. NAME THE AVELEY ABDUCTION DATE 27 OCTOBER 1974 PLACE AVE...</span><span class="citation-popover-meta">Published: OCTOBER 1974</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://forums.forteana.org/index.php?threads%2Fthe-aveley-abductions.70684%2F=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forums.forteana.org">[Fortean]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forums.forteana.org</span><span class="citation-popover-snippet">Fortean Times ForumsThe Aveley Abductions &#124; The Forteana Forums13 Aug 2023 — Suddenly a dense mist descended that appeared to have a very...</span></span></span>
 
 Several UFO writers later linked this “cone of silence” effect to similar reports in other close-encounter narratives. John Spencer’s summary in *World Atlas of UFOs* explicitly described the family entering an unnaturally quiet environment before losing coherent awareness of events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0005840377ff7fede4ff2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">John Spencer</span><span class="citation-popover-snippet">World Atlas of UFOsThere were many reports from the area over the next few days. NAME THE AVELEY ABDUCTION DATE 27 OCTOBER 1974 PLACE AVE...</span><span class="citation-popover-meta">Published: OCTOBER 1974</span></span></span>
 
@@ -288,19 +286,17 @@ The exact order of these experiences varies slightly depending on the source. So
 
 Even sympathetic investigators acknowledged that the timeline was reconstructed retrospectively rather than recorded contemporaneously. There were no police logs, timed roadside observations, photographs, or independent witnesses confirming the green fog or vehicle interference. The timeline therefore rests almost entirely on the family’s memory and later interviews.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9e4zBxgvpIQ" title="Chatter #269 - Andrew Collins - Origins of the Gods: Shamanism, Psychedelics, and UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9e4zBxgvpIQ" target="_blank" rel="noopener noreferrer">Chatter #269 - Andrew Collins - Origins of the Gods: Shamanism, Psychedelics, and UFOs</a></p><p class="youtube-embed-meta">Channel: Chatter &middot; Views: 2.0K &middot; Uploaded: July 2022 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9e4zBxgvpIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9e4zBxgvpIQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=9e4zBxgvpIQ" target="_blank" rel="noopener noreferrer">Link</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9e4zBxgvpIQ" target="_blank" rel="noopener noreferrer">Link</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9e4zBxgvpIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9e4zBxgvpIQ">Open on YouTube</a></p></div></div></div>
 
 ## The missing three hours
 
-The defining feature of the case is the alleged missing-time interval. According to the standard narrative, the family eventually emerged from the fog and found themselves apparently continuing their drive normally. There was no immediate awareness that a major period of time had elapsed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/aliens/comments/sbqati/this_abduction_case_from_1974_illustrates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">this abduction case from 1974 illustrates</span><span class="citation-popover-snippet">RedditThis abduction case from 1974 illustrates absurdity...January 24, 2022 — This abduction case from 1974 illustrates absurdity, symb...</span><span class="citation-popover-meta">Published: January 24, 2022</span></span></span>
+The defining feature of the case is the alleged missing-time interval. According to the standard narrative, the family eventually emerged from the fog and found themselves apparently continuing their drive normally. There was no immediate awareness that a major period of time had elapsed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/aliens/comments/sbqati/this_abduction_case_from_1974_illustrates/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">this abduction case from 1974 illustrates</span><span class="citation-popover-snippet">This abduction case from 1974 illustrates absurdity...January 24, 2022 — This abduction case from 1974 illustrates absurdity, symb...</span><span class="citation-popover-meta">Published: January 24, 2022</span></span></span>
 
 The shock reportedly came after arriving home. In the most commonly repeated version, the family attempted to switch on the television to watch a programme they had expected to catch that evening, only to discover that broadcasting had already ended for the night. Checking the clock allegedly revealed that it was around 1 am — more than three hours later than expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0005840377ff7fede4ff2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">John Spencer</span><span class="citation-popover-snippet">World Atlas of UFOsThere were many reports from the area over the next few days. NAME THE AVELEY ABDUCTION DATE 27 OCTOBER 1974 PLACE AVE...</span><span class="citation-popover-meta">Published: OCTOBER 1974</span></span></span>
 
 This detail became central to later UFO discussions because it transformed the incident from a strange sighting into a classic “missing time” case. During the 1970s, missing-time reports were becoming increasingly associated with emerging alien abduction narratives in the United States and Britain. The Aveley case therefore entered UFO culture at precisely the moment when investigators were beginning to interpret memory gaps as potential evidence of concealed encounters.
 
 However, the timing evidence itself was weak in a forensic sense. The estimated three-hour gap appears to have been reconstructed from expectation rather than documented timings. There are no surviving independent records establishing:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -313,7 +309,6 @@ However, the timing evidence itself was weak in a forensic sense. The estimated 
 </div>
 
 Because of this, sceptics have argued that the missing-time interval could reflect retrospective misremembering, fatigue, confusion about time, or narrative shaping after the event became interpreted through a UFO framework.
-
 
 <img src="{{ "/assets/images/Day_family_abduction_fe300b_road_incident_timeli_2ddf72-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Day_family_abduction_fe300b_road_incident_timeli_2ddf72-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Day_family_abduction_fe300b_road_incident_timeli_2ddf72-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the family said happened after arrival
@@ -331,7 +326,6 @@ Even some UFO researchers treated these layers differently. The road incident it
 
 The family also reportedly described later disturbances around their home, including unusual noises, anxiety, recurring dreams, and fears of surveillance or harassment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufoidentified.co.uk/articles/f/abduction-series---case-2---the-aveley-abduction?blogcategory=Articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoidentified.co.uk">[UFO Identified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoidentified.co.uk</span><span class="citation-popover-title">UFO Identified Case 2</span><span class="citation-popover-snippet">UFO IdentifiedCase 2 - The Aveley Abduction1 Apr 2021 — Strange buzzing and clicking noises were heard around the house, objects appeared...</span></span></span> These claims helped turn the Aveley case into a broader “aftermath” narrative rather than a single-night incident.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_Cs7AVPtnWg" title="The Avis Family Alien Abduction – The Night They Lost Three Hours [Eerie&#x27;s Vault Episode #33]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_Cs7AVPtnWg" target="_blank" rel="noopener noreferrer">The Avis Family Alien Abduction – The Night They Lost Three Hours [Eerie&#x27;s Vault Episode #33]</a></p><p class="youtube-embed-meta">Channel: Eerie&#x27;s Vault &middot; Views: 31.2K &middot; Uploaded: November 2024 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_Cs7AVPtnWg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_Cs7AVPtnWg">Open on YouTube</a></p></div></div></div>
 
 ## Why the chronology remains disputed
@@ -340,14 +334,13 @@ The road timeline has remained controversial because it contains both internally
 
 Supporters of the case often point to several features:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Multiple witnesses travelling together.
 * Consistency in the broad outline of the event.
 * The apparently ordinary setting of the journey.
 * The emotional sincerity of the witnesses.
-* Early publication by recognised British UFO investigators such as Andrew Collins and Barry King. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bookmate.com/authors/YrB5K3gP" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bookmate.com">[Bookmate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bookmate.com</span><span class="citation-popover-snippet">BookmateAndrew Collins — read the author&#x27;s books onlineAs a teenager, he became a UFO investigator. In 1977, he investigated the first-ev...</span></span></span>
+* Early publication by recognised British UFO investigators such as Andrew Collins and Barry King. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bookmate.com/authors/YrB5K3gP" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bookmate.com">[Bookmate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bookmate.com</span><span class="citation-popover-snippet">Andrew Collins — read the author&#x27;s books onlineAs a teenager, he became a UFO investigator. In 1977, he investigated the first-ev...</span></span></span>
 
 </div>
 
@@ -363,7 +356,6 @@ Another difficulty is that the case evolved over time. Early summaries concentra
 
 Yet despite those weaknesses, the original road incident still occupies an important place in British UFO history because it introduced a narrative structure that became familiar in later abduction reports: an ordinary journey interrupted by a brief sensory anomaly that somehow concealed a much larger missing interval.
 
-
 <img src="{{ "/assets/images/Day_family_abduction_fe300b_road_incident_timeli_2ddf72-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Day_family_abduction_fe300b_road_incident_timeli_2ddf72-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Day_family_abduction_fe300b_road_incident_timeli_2ddf72-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later retellings reshaped the timeline
 
@@ -374,44 +366,86 @@ That polished structure may partly reflect editorial shaping. The original event
 The timeline’s lasting influence therefore comes less from what can be conclusively proven and more from how effectively it matched the emerging template of the modern alien abduction story. The Aveley incident became one of the best-known British examples because the chronology itself already contained the essential ingredients that later investigators and readers associated with abduction cases: a family in transit, strange atmospheric conditions, electromagnetic interference, altered awareness, and a missing block of time that could not easily be explained away.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How the Missing Time Story Unfolded, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How the Missing Time Story Unfolded. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Missing Time guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Missing+Time+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Catalogs the Day family abduction case, documenting the timeline of the 1974 road encounter and the subsequent emergence of abduction nar...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">John Day guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=John+Day+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+        </h4>
+        <p class="fr-book-author">By John E. Mack, Mack</p>
+        
+        <p class="fr-book-desc">Examines the structural history of &#x27;missing time&#x27; cases, providing context for the Day family&#x27;s specific sequence of events.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Blue Light guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Blue+Light+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Situates late-night driving abduction claims within the historical continuum of folklore and cultural narrative building.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Explains how to verify witness chronologies by cross-referencing reports against environmental evidence and independent records.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -448,15 +482,15 @@ The timeline’s lasting influence therefore comes less from what can be conclus
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -464,15 +498,15 @@ The timeline’s lasting influence therefore comes less from what can be conclus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -480,15 +514,15 @@ The timeline’s lasting influence therefore comes less from what can be conclus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -496,15 +530,15 @@ The timeline’s lasting influence therefore comes less from what can be conclus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,7 +546,7 @@ The timeline’s lasting influence therefore comes less from what can be conclus
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-b81f76-how-the-missing-time-story-unfolded-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-missing-time-story-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-missing-time-story-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -728,43 +762,43 @@ The timeline’s lasting influence therefore comes less from what can be conclus
 1. <a id="endnote-1"></a>
    Source: calameo.com  
    Title: John Spencer  
-   Link: [https://www.calameo.com/books/0005840377ff7fede4ff2](https://www.calameo.com/books/0005840377ff7fede4ff2)  
+   Link: <a href="https://www.calameo.com/books/0005840377ff7fede4ff2" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/0005840377ff7fede4ff2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Atlas of UFOsThere were many reports from the area over the next few days. NAME THE AVELEY ABDUCTION DATE 27 OCTOBER 1974 PLACE AVE...</p></details>
    Published: OCTOBER 1974  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
    Title: this abduction case from 1974 illustrates  
-   Link: [https://www.reddit.com/r/aliens/comments/sbqati/this_abduction_case_from_1974_illustrates/](https://www.reddit.com/r/aliens/comments/sbqati/this_abduction_case_from_1974_illustrates/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThis abduction case from 1974 illustrates absurdity...January 24, 2022 — This abduction case from 1974 illustrates absurdity, symb...</p></details>
+   Link: <a href="https://www.reddit.com/r/aliens/comments/sbqati/this_abduction_case_from_1974_illustrates/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/sbqati/this_abduction_case_from_1974_illustrates/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This abduction case from 1974 illustrates absurdity...January 24, 2022 — This abduction case from 1974 illustrates absurdity, symb...</p></details>
    Published: January 24, 2022  
 
 3. <a id="endnote-3"></a>
    Source: bookmate.com  
-   Link: [https://bookmate.com/authors/YrB5K3gP](https://bookmate.com/authors/YrB5K3gP)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BookmateAndrew Collins — read the author&#x27;s books onlineAs a teenager, he became a UFO investigator. In 1977, he investigated the first-ev...</p></details>
+   Link: <a href="https://bookmate.com/authors/YrB5K3gP" target="_blank" rel="noopener noreferrer nofollow">https://bookmate.com/authors/YrB5K3gP</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Andrew Collins — read the author&#x27;s books onlineAs a teenager, he became a UFO investigator. In 1977, he investigated the first-ev...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: yourthurrock.com  
    Title: ufos and alien abduction in aveley  
-   Link: [https://www.yourthurrock.com/2012/02/10/ufos-and-alien-abduction-in-aveley/](https://www.yourthurrock.com/2012/02/10/ufos-and-alien-abduction-in-aveley/)  
+   Link: <a href="https://www.yourthurrock.com/2012/02/10/ufos-and-alien-abduction-in-aveley/" target="_blank" rel="noopener noreferrer nofollow">https://www.yourthurrock.com/2012/02/10/ufos-and-alien-abduction-in-aveley/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s and alien abduction in Aveley?10 Feb 2012 — The alleged alien abduction that occurred near the village of Aveley, Essex, England, i...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ufoidentified.co.uk  
    Title: UFO Identified Case 2  
-   Link: [https://ufoidentified.co.uk/articles/f/abduction-series---case-2---the-aveley-abduction?blogcategory=Articles](https://ufoidentified.co.uk/articles/f/abduction-series---case-2---the-aveley-abduction?blogcategory=Articles)  
+   Link: <a href="https://ufoidentified.co.uk/articles/f/abduction-series---case-2---the-aveley-abduction?blogcategory=Articles" target="_blank" rel="noopener noreferrer nofollow">https://ufoidentified.co.uk/articles/f/abduction-series---case-2---the-aveley-abduction?blogcategory=Articles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO IdentifiedCase 2 - The Aveley Abduction1 Apr 2021 — Strange buzzing and clicking noises were heard around the house, objects appeared...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: forums.forteana.org  
-   Link: [https://forums.forteana.org/index.php?threads%2Fthe-aveley-abductions.70684%2F=](https://forums.forteana.org/index.php?threads%2Fthe-aveley-abductions.70684%2F=)  
+   Link: <a href="https://forums.forteana.org/index.php?threads%2Fthe-aveley-abductions.70684%2F=" target="_blank" rel="noopener noreferrer nofollow">https://forums.forteana.org/index.php?threads%2Fthe-aveley-abductions.70684%2F=</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fortean Times ForumsThe Aveley Abductions | The Forteana Forums13 Aug 2023 — Suddenly a dense mist descended that appeared to have a very...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: johnjronline.wordpress.com  
    Title: the aveley extraterrestrial abduction documentary  
-   Link: [https://johnjronline.wordpress.com/2023/08/14/the-aveley-extraterrestrial-abduction-documentary/](https://johnjronline.wordpress.com/2023/08/14/the-aveley-extraterrestrial-abduction-documentary/)  
+   Link: <a href="https://johnjronline.wordpress.com/2023/08/14/the-aveley-extraterrestrial-abduction-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://johnjronline.wordpress.com/2023/08/14/the-aveley-extraterrestrial-abduction-documentary/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Additionally, they experienced three hours of missing time. In the...Read more...</p></details>
 
 ### Additional References
@@ -772,56 +806,56 @@ The timeline’s lasting influence therefore comes less from what can be conclus
 8. <a id="endnote-8"></a>
    Source: essexwi.org.uk  
    Title: fewi archive records  
-   Link: [https://essexwi.org.uk/about/fewi-archive-records/](https://essexwi.org.uk/about/fewi-archive-records/)  
+   Link: <a href="https://essexwi.org.uk/about/fewi-archive-records/" target="_blank" rel="noopener noreferrer nofollow">https://essexwi.org.uk/about/fewi-archive-records/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2023 we began a project to bring together lots of archive information of all the WIs that have ever belonged to Essex Federation...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: gitanos.org  
-   Link: [https://www.gitanos.org/documentos/1.1-KEN-his_HistoricalDictionaryoftheGypsies.pdf](https://www.gitanos.org/documentos/1.1-KEN-his_HistoricalDictionaryoftheGypsies.pdf)  
+   Link: <a href="https://www.gitanos.org/documentos/1.1-KEN-his_HistoricalDictionaryoftheGypsies.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gitanos.org/documentos/1.1-KEN-his_HistoricalDictionaryoftheGypsies.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>n a special series of Historical Dictionaries of Peo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: goodreads.com  
    Title: Flying Saucer Review  
-   Link: [https://www.goodreads.com/book/show/34671462-flying-saucer-review---vol-23-n-6](https://www.goodreads.com/book/show/34671462-flying-saucer-review---vol-23-n-6)  
+   Link: <a href="https://www.goodreads.com/book/show/34671462-flying-saucer-review---vol-23-n-6" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/34671462-flying-saucer-review---vol-23-n-6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vol. 23, N. 6: April 19788 Feb 2017 — A flying humanoid in Puerto Rico, Jenny Randles - &#x27;Humanoid Encounter at Rainford,&#x27; Peter Warringto...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DUvP-1siXzz/](https://www.instagram.com/reel/DUvP-1siXzz/)  
+   Link: <a href="https://www.instagram.com/reel/DUvP-1siXzz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUvP-1siXzz/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hothouse Flowers tonight with one of my favourite coversSomething amazing happens when Hothouse Flowers step onto the stage – something t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scribd.com  
    Title: AFU Book Library  
-   Link: [https://www.scribd.com/doc/138738940/AFU-Book-Library](https://www.scribd.com/doc/138738940/AFU-Book-Library)  
+   Link: <a href="https://www.scribd.com/doc/138738940/AFU-Book-Library" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/138738940/AFU-Book-Library</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AFU Library Acquisitions 1975-2006 | PDFCollins, Andy: The Aveley abduction. A UFOIN case report. Collins, Andy: The...): Flying Saucer...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scribd.com  
    Title: World Atlas of UFOs  
-   Link: [https://www.scribd.com/document/209785000/World-Atlas-of-UFOs-John-Spencer](https://www.scribd.com/document/209785000/World-Atlas-of-UFOs-John-Spencer)  
+   Link: <a href="https://www.scribd.com/document/209785000/World-Atlas-of-UFOs-John-Spencer" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/209785000/World-Atlas-of-UFOs-John-Spencer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>John Spencer | PDF | UfologyNAME THE AVELEY ABDUCTION. DATE 27 OCTOBER 1974. checking the time they were amazed. to discover it. KM) SOUT...</p></details>
    Published: OCTOBER 1974  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=XKzRI7DffWE](https://www.youtube.com/watch?v=XKzRI7DffWE)  
+   Link: <a href="https://www.youtube.com/watch?v=XKzRI7DffWE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XKzRI7DffWE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aveley Extraterrestrial Abduction | DocumentaryIn October 1974, an ordinary English family experienced the extraordinary - a strange...</p></details>
    Published: October 1974  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Chatter #269  
-   Link: [https://www.youtube.com/watch?v=9e4zBxgvpIQ](https://www.youtube.com/watch?v=9e4zBxgvpIQ)  
+   Link: <a href="https://www.youtube.com/watch?v=9e4zBxgvpIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9e4zBxgvpIQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Andrew Collins - Origins of the Gods...Andrew Collins was born in Bedford, England. He is a science and history writer, and the author o...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_Cs7AVPtnWg](https://www.youtube.com/watch?v=_Cs7AVPtnWg)  
+   Link: <a href="https://www.youtube.com/watch?v=_Cs7AVPtnWg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Cs7AVPtnWg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Avis Family Alien Abduction – The Night They Lost...In 1974, the Avis family from Aveley, Essex, experienced one of Britain&#x27;s most c...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1793411717469619/posts/3712750958869009/](https://www.facebook.com/groups/1793411717469619/posts/3712750958869009/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookOctober 27 1974 Time: 22:10 John Day, 32, his wife Sue...The car then entered a dense bank of green fog and began to jerk. This...</p></details>
+   Link: <a href="https://www.facebook.com/groups/1793411717469619/posts/3712750958869009/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1793411717469619/posts/3712750958869009/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 27 1974 Time: 22:10 John Day, 32, his wife Sue...The car then entered a dense bank of green fog and began to jerk. This...</p></details>

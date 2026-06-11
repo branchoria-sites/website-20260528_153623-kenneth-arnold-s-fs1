@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Snippy
   permalink: /lady-animal-mutilation-1966/
   short_title: Snippy
-date: '2026-06-08 23:28:09 '
+date: '2026-06-11 13:17:07 '
 header:
   og_image: /assets/images/Kinross_incident_195_2ebd01-overview-social.jpg
   preview_image: /assets/images/Kinross_incident_195_2ebd01-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Kinross_incident_195_2ebd01-overview-social.jpg
 ## Introduction
 
 The most evidence-based reading is that Moncla and Wilson were almost certainly lost in an aviation accident during a Cold War air-defence intercept, probably ending in Lake Superior. The case remains unresolved because the aircraft was never conclusively found, the official C-47 identification has unresolved problems, and the radar story was later amplified into a UFO legend by writers and retellings that often added details not present in the strongest documentary record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[2openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
-
 
 <img src="{{ "/assets/images/Kinross_incident_195_2ebd01-overview.webp" | relative_url }}" alt="Overview image for Kinross incident 1953" loading="eager" decoding="sync" fetchpriority="high">
 ## What happened on 23 November 1953?
@@ -773,7 +772,6 @@ At about 6:17 pm, radar operators at Calumet detected an aircraft over Lake Supe
 The intercept did not proceed smoothly. Radio reception between Avenger Red and ground control was poor, and the jet was transferred between NAPLES and PILLOW control. At 6:45 pm, Moncla reportedly asked whether the intercept should be called off because of poor radio signal, and was told to proceed at his discretion. Despite radio trouble, ground radar reportedly maintained a strong return from the F-89, along with its Identification Friend or Foe transponder signal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
 At 6:52 pm, Avenger Red was told the target was at its eleven o’clock position and ten miles away. At 6:55 pm, the F-89’s radar return and the unknown target converged into a single radar blip. Ground control expected the tracks to separate again, as might happen if the fighter had closed on the target or was flying close to it, but shortly afterwards Avenger Red’s IFF signal disappeared. Repeated radio calls went unanswered, and the last known position was given as 48.00N, 86.49W. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
-
 
 <img src="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-1-dark.svg" | relative_url }}" alt="Kinross incident 1953 illustration 1" data-theme-src-dark="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the “merged blips” became the centre of the mystery
@@ -794,7 +792,6 @@ Another problem is the later recollection attributed to Gerald Fosberg, the pilo
 
 A further complication is that some later claims say the Royal Canadian Air Force denied having an aircraft involved. The strongest available accounts are more nuanced than that: they point to uncertainty over whether a Canadian aircraft was actually “intercepted”, and to the possibility that the C-47 was contacted only after the F-89 had disappeared. That distinction matters. A Canadian C-47 could have been in the broad region without its crew ever being aware of, or physically close to, the final moments of Avenger Red. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wZTYhwwq4tc" title="The Creepy Missing F-89 Pilot - The Kinross UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wZTYhwwq4tc" target="_blank" rel="noopener noreferrer">The Creepy Missing F-89 Pilot - The Kinross UFO Incident</a></p><p class="youtube-embed-meta">Channel: Dark Docs &middot; Views: 1.3M &middot; Uploaded: February 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wZTYhwwq4tc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wZTYhwwq4tc">Open on YouTube</a></p></div></div></div>
 
 ## The search: extensive, difficult, and inconclusive
@@ -813,7 +810,6 @@ The Open Skies Project’s technical section argues that the F-89C had known rel
 
 That context does not prove Moncla’s aircraft failed mechanically. It does, however, make mechanical failure, loss of control, icing-related trouble, spatial disorientation, or a failed manoeuvre near the target much more credible than an interpretation based solely on the eerie image of two radar dots becoming one. The lack of a distress call is also not decisive: rapid failures, low-altitude descent, radio problems already reported during the intercept, or crew overload could all prevent a clear emergency transmission. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
-
 <img src="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-2-dark.svg" | relative_url }}" alt="Kinross incident 1953 illustration 2" data-theme-src-dark="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How a Cold War accident became a UFO case
 
@@ -823,7 +819,6 @@ The problem is that some of the most memorable UFO-story details appear to depen
 
 This does not mean every official statement should be accepted uncritically. It means that the UFO version must be held to the same standard as the official one. The alien-capture or collision interpretation depends heavily on reading the radar merge as a physical event, treating later narrative embellishments as evidence, and filling the absence of wreckage with speculation. The official aviation-accident interpretation has gaps, but it is better supported by the known setting: a difficult intercept, radio problems, poor weather, a problematic aircraft type, and a disappearance over deep cold water. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
-
 <img src="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-3-dark.svg" | relative_url }}" alt="Kinross incident 1953 illustration 3" data-theme-src-dark="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross_incident_195_2ebd01-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Later “discoveries” and false leads
 
@@ -832,7 +827,6 @@ The most credible later physical lead came in 1968, when aircraft wreckage was r
 The most notorious false lead came in 2006, when a supposed Great Lakes Dive Company claimed to have found the F-89 on the lakebed, with a mysterious metallic object nearby. The claim spread through UFO and paranormal circles, but it collapsed under scrutiny: researchers could not verify the company, the named individual, or the alleged restricted recovery site, and the website disappeared. Local historical accounts and the Open Skies Project treat the episode as a hoax rather than a serious discovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-title">Open Skies Project</span><span class="citation-popover-snippet">Open Skies Project</span></span></span>
 
 These later episodes show why the Kinross case is difficult to evaluate. Real gaps attract both sincere investigation and opportunistic myth-making. The 1968 debris story is potentially relevant but under-documented; the 2006 dive story is a cautionary example of how quickly a dramatic claim can become “evidence” in retellings before basic provenance has been checked.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IsUsdc-WCWY" title="The Super Rare Interceptor No One Wanted To See" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IsUsdc-WCWY" target="_blank" rel="noopener noreferrer">The Super Rare Interceptor No One Wanted To See</a></p><p class="youtube-embed-meta">Channel: Only Planes &middot; Views: 57.2K &middot; Uploaded: September 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IsUsdc-WCWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IsUsdc-WCWY">Open on YouTube</a></p></div></div></div>
 
@@ -844,49 +838,89 @@ The disputed points are also clear. The identity and position of the C-47 remain
 
 The unresolved core is narrower than many dramatic versions suggest: not “did a UFO abduct a jet?”, but “what caused Avenger Red to vanish immediately after or during its intercept attempt, and was the aircraft it intercepted really the C-47 identified in the official explanation?” On current public evidence, the most defensible answer is an unexplained military aviation loss, with mechanical failure, weather, intercept manoeuvring, radar limitations, or some combination of those factors more likely than an exotic explanation. The mystery persists because the decisive evidence — the aircraft itself, a confirmed debris trail, a full technical failure sequence, or an uncontested target identification — has never been recovered.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CPp9m09F04Q" title="Kinross Incident: Airmen &amp; Jet Go Missing in 1953 After UFO Encounter | Talking Strange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CPp9m09F04Q" target="_blank" rel="noopener noreferrer">Kinross Incident: Airmen &amp; Jet Go Missing in 1953 After UFO Encounter | Talking Strange</a></p><p class="youtube-embed-meta">Channel: Den of Geek &middot; Views: 2.5K &middot; Uploaded: November 2023 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CPp9m09F04Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CPp9m09F04Q">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened Over Lake Superior?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened Over Lake Superior?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Lake Superior guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Lake+Superior+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Examines the official intelligence logging files generated by ground-control intercept stations like Calumet and Sault Ste. Marie.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Calumet Air Force Station guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Calumet+Air+Force+Station+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Provides first-hand insight into how the Air Force program formally cataloged the convergence and disappearance of the F-89C Scorpion ove...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Cut River Bridge guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Cut+River+Bridge+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the historical transformation of the Moncla and Wilson disappearance from a military tragedy into a durable UFO legend.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Bristol+Fighter+in+Action+by+Peter+Cooksley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bristol Fighter in Action on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bristol+Fighter+in+Action+by+Peter+Cooksley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bristol Fighter in Action">Bristol Fighter in Action</a>
+        </h4>
+        <p class="fr-book-author">By Peter Cooksley</p>
+        
+        <p class="fr-book-desc">Provides structural details on the F-89C Scorpion interceptor, its radar observation components, and known mechanical vulnerabilities.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bristol+Fighter+in+Action+by+Peter+Cooksley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -923,15 +957,15 @@ The unresolved core is narrower than many dramatic versions suggest: not “did 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy Northrop F-89J Scorpion 1/72nd scale model kit. BNIB"><img src="{{ '/assets/images/marketplace-covers/8b36b8e18eaae2da422d.jpg' | relative_url }}" alt="Listing image for Academy Northrop F-89J Scorpion 1/72nd scale model kit. BNIB" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">Academy Northrop F-89J Scorpion 1/72nd scale model kit. BNIB</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-89 Scorpion model">Search <span data-ebay-domain-label>eBay.co.uk</span>: F-89 Scorpion model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -939,15 +973,15 @@ The unresolved core is narrower than many dramatic versions suggest: not “did 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed"><img src="{{ '/assets/images/marketplace-covers/5f0b90e9d3f46e13b4a8.jpg' | relative_url }}" alt="Listing image for W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-89 Scorpion model">Search <span data-ebay-domain-label>eBay.co.uk</span>: F-89 Scorpion model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -955,15 +989,15 @@ The unresolved core is narrower than many dramatic versions suggest: not “did 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed"><img src="{{ '/assets/images/marketplace-covers/119f143e23ba4650d52c.jpg' | relative_url }}" alt="Listing image for W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-89 Scorpion model">Search <span data-ebay-domain-label>eBay.co.uk</span>: F-89 Scorpion model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -971,15 +1005,15 @@ The unresolved core is narrower than many dramatic versions suggest: not “did 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell 1/48 Model Aircraft Northrop F-89 Scorpion Kit 05650"><img src="{{ '/assets/images/marketplace-covers/be04d2f1f572386b95b3.jpg' | relative_url }}" alt="Listing image for Revell 1/48 Model Aircraft Northrop F-89 Scorpion Kit 05650" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">Revell 1/48 Model Aircraft Northrop F-89 Scorpion Kit 05650</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-89 Scorpion model">Search <span data-ebay-domain-label>eBay.co.uk</span>: F-89 Scorpion model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -987,7 +1021,7 @@ The unresolved core is narrower than many dramatic versions suggest: not “did 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="kinross-incident-1953-what-really-happened-over-lake-superior-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1203,95 +1237,95 @@ The unresolved core is narrower than many dramatic versions suggest: not “did 
 1. <a id="endnote-1"></a>
    Source: openskiesproject.org  
    Title: Open Skies Project  
-   Link: [https://www.openskiesproject.org/news/kinross-incident](https://www.openskiesproject.org/news/kinross-incident)  
+   Link: <a href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.openskiesproject.org/news/kinross-incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: aviation-safety.net  
-   Link: [https://aviation-safety.net/wikibase/161691](https://aviation-safety.net/wikibase/161691)  
+   Link: <a href="https://aviation-safety.net/wikibase/161691" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/161691</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: The Flying Saucer Conspiracy  
-   Link: [https://en.wikipedia.org/wiki/The_Flying_Saucer_Conspiracy](https://en.wikipedia.org/wiki/The_Flying_Saucer_Conspiracy)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Flying_Saucer_Conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Flying_Saucer_Conspiracy</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Northrop F-89 Scorpion  
-   Link: [https://en.wikipedia.org/wiki/Northrop_F-89_Scorpion](https://en.wikipedia.org/wiki/Northrop_F-89_Scorpion)  
+   Link: <a href="https://en.wikipedia.org/wiki/Northrop_F-89_Scorpion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Northrop_F-89_Scorpion</a>  
 
 5. <a id="endnote-5"></a>
    Source: ufobc.ca  
-   Link: [https://www.ufobc.ca/kinross/otherAccounts/mingenbachsStatement.html](https://www.ufobc.ca/kinross/otherAccounts/mingenbachsStatement.html)  
+   Link: <a href="https://www.ufobc.ca/kinross/otherAccounts/mingenbachsStatement.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufobc.ca/kinross/otherAccounts/mingenbachsStatement.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Felix Moncla  
-   Link: [https://en.wikipedia.org/wiki/Felix_Moncla](https://en.wikipedia.org/wiki/Felix_Moncla)  
+   Link: <a href="https://en.wikipedia.org/wiki/Felix_Moncla" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Felix_Moncla</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Felix Moncla  
-   Link: [https://vi.wikipedia.org/wiki/Felix_Moncla](https://vi.wikipedia.org/wiki/Felix_Moncla)  
+   Link: <a href="https://vi.wikipedia.org/wiki/Felix_Moncla" target="_blank" rel="noopener noreferrer nofollow">https://vi.wikipedia.org/wiki/Felix_Moncla</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Donald Keyhoe  
-   Link: [https://en.wikipedia.org/wiki/Donald_Keyhoe](https://en.wikipedia.org/wiki/Donald_Keyhoe)  
+   Link: <a href="https://en.wikipedia.org/wiki/Donald_Keyhoe" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Donald_Keyhoe</a>  
 
 9. <a id="endnote-9"></a>
    Source: aviation-safety.net  
-   Link: [https://aviation-safety.net/asndb/type/no89](https://aviation-safety.net/asndb/type/no89)  
+   Link: <a href="https://aviation-safety.net/asndb/type/no89" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/asndb/type/no89</a>  
 
 10. <a id="endnote-10"></a>
    Source: history.com  
    Title: ufo fighter jet disappears over lake superior kinross incident  
-   Link: [https://www.history.com/articles/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident](https://www.history.com/articles/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident)  
+   Link: <a href="https://www.history.com/articles/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-fighter-jet-disappears-over-lake-superior-kinross-incident</a>  
 
 11. <a id="endnote-11"></a>
    Source: nationalmuseum.af.mil  
    Title: northrop f 89j scorpion  
-   Link: [https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198080/northrop-f-89j-scorpion/](https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198080/northrop-f-89j-scorpion/)  
+   Link: <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198080/northrop-f-89j-scorpion/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198080/northrop-f-89j-scorpion/</a>  
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Creepy Missing F-89 Pilot  
-   Link: [https://www.youtube.com/watch?v=wZTYhwwq4tc](https://www.youtube.com/watch?v=wZTYhwwq4tc)  
+   Link: <a href="https://www.youtube.com/watch?v=wZTYhwwq4tc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wZTYhwwq4tc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History of the Calumet Air Force Station and the Kinross Incident...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: skytamer.com  
-   Link: [https://www.skytamer.com/Northrop_1952_N-68_F-89D.html](https://www.skytamer.com/Northrop_1952_N-68_F-89D.html)  
+   Link: <a href="https://www.skytamer.com/Northrop_1952_N-68_F-89D.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skytamer.com/Northrop_1952_N-68_F-89D.html</a>  
 
 14. <a id="endnote-14"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Flying-Saucer-Conspiracy-Donald-Keyhoe/dp/B0007DQVJY](https://www.amazon.co.uk/Flying-Saucer-Conspiracy-Donald-Keyhoe/dp/B0007DQVJY)  
+   Link: <a href="https://www.amazon.co.uk/Flying-Saucer-Conspiracy-Donald-Keyhoe/dp/B0007DQVJY" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Flying-Saucer-Conspiracy-Donald-Keyhoe/dp/B0007DQVJY</a>  
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aircrashinvestigation/comments/1hdgasy/the_kinross_incident_one_of_canada_and_the_us_air/](https://www.reddit.com/r/aircrashinvestigation/comments/1hdgasy/the_kinross_incident_one_of_canada_and_the_us_air/)  
+   Link: <a href="https://www.reddit.com/r/aircrashinvestigation/comments/1hdgasy/the_kinross_incident_one_of_canada_and_the_us_air/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aircrashinvestigation/comments/1hdgasy/the_kinross_incident_one_of_canada_and_the_us_air/</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/lamontatlarge/posts/this-man-chased-a-ufo-and-was-never-seen-again-part-1-ufo-storytelling-grave-gra/947402801634754/](https://www.facebook.com/lamontatlarge/posts/this-man-chased-a-ufo-and-was-never-seen-again-part-1-ufo-storytelling-grave-gra/947402801634754/)  
+   Link: <a href="https://www.facebook.com/lamontatlarge/posts/this-man-chased-a-ufo-and-was-never-seen-again-part-1-ufo-storytelling-grave-gra/947402801634754/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lamontatlarge/posts/this-man-chased-a-ufo-and-was-never-seen-again-part-1-ufo-storytelling-grave-gra/947402801634754/</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/VisitKeweenaw/posts/today-is-world-ufo-day-kinross-incident-over-65-years-ago-off-the-coast-of-the-k/10156952094420081/](https://www.facebook.com/VisitKeweenaw/posts/today-is-world-ufo-day-kinross-incident-over-65-years-ago-off-the-coast-of-the-k/10156952094420081/)  
+   Link: <a href="https://www.facebook.com/VisitKeweenaw/posts/today-is-world-ufo-day-kinross-incident-over-65-years-ago-off-the-coast-of-the-k/10156952094420081/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VisitKeweenaw/posts/today-is-world-ufo-day-kinross-incident-over-65-years-ago-off-the-coast-of-the-k/10156952094420081/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AFmuseum/posts/view-this-historic-photo-of-the-northrop-f-89j-scorpion-at-the-museums-previous-/1091112453048639/](https://www.facebook.com/AFmuseum/posts/view-this-historic-photo-of-the-northrop-f-89j-scorpion-at-the-museums-previous-/1091112453048639/)  
+   Link: <a href="https://www.facebook.com/AFmuseum/posts/view-this-historic-photo-of-the-northrop-f-89j-scorpion-at-the-museums-previous-/1091112453048639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFmuseum/posts/view-this-historic-photo-of-the-northrop-f-89j-scorpion-at-the-museums-previous-/1091112453048639/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/urducoverofficial/posts/where-did-the-canadian-pilot-suddenly-disappear-the-mysterious-lake-superior-f-8/1290599589871947/?locale=af_ZA](https://www.facebook.com/urducoverofficial/posts/where-did-the-canadian-pilot-suddenly-disappear-the-mysterious-lake-superior-f-8/1290599589871947/?locale=af_ZA)  
+   Link: <a href="https://www.facebook.com/urducoverofficial/posts/where-did-the-canadian-pilot-suddenly-disappear-the-mysterious-lake-superior-f-8/1290599589871947/?locale=af_ZA" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/urducoverofficial/posts/where-did-the-canadian-pilot-suddenly-disappear-the-mysterious-lake-superior-f-8/1290599589871947/?locale=af_ZA</a>  
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DKcuSclNnGg/](https://www.instagram.com/reel/DKcuSclNnGg/)  
+   Link: <a href="https://www.instagram.com/reel/DKcuSclNnGg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DKcuSclNnGg/</a>  
 
 21. <a id="endnote-21"></a>
    Source: shortform.com  
-   Link: [https://www.shortform.com/podcast/episode/conspiracy-theories-2025-05-21-episode-summary-the-kinross-incident-did-a-ufo-abduct-an-entire-jet](https://www.shortform.com/podcast/episode/conspiracy-theories-2025-05-21-episode-summary-the-kinross-incident-did-a-ufo-abduct-an-entire-jet)  
+   Link: <a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2025-05-21-episode-summary-the-kinross-incident-did-a-ufo-abduct-an-entire-jet" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2025-05-21-episode-summary-the-kinross-incident-did-a-ufo-abduct-an-entire-jet</a>

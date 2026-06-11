@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Go Fast UAP
   permalink: /uss-theodore-roosevelt-go-fast-video/
   short_title: Go Fast UAP
-date: '2026-06-08 23:42:04 '
+date: '2026-06-11 13:25:33 '
 header:
   og_image: /assets/images/USS_Theodore_Rooseve_a4867d-overview-social.jpg
   preview_image: /assets/images/USS_Theodore_Rooseve_a4867d-overview.webp
@@ -758,22 +758,20 @@ image: /assets/images/USS_Theodore_Rooseve_a4867d-overview-social.jpg
 
 ## What the Gimbal clip actually shows
 
-The official public version of Gimbal is a short infrared video labelled by the US military as “GIMBAL - UAP”. DVIDS, the US military’s public imagery platform, lists it as a Naval Air Systems Command courtesy video, with a stated length of 00:00:34 and a “Date Taken” field of 1 January 2015. That exact date should be treated cautiously as public metadata rather than a fully explained operational chronology; other accounts and technical discussions generally place the event in January 2015 off the US east coast, often near Florida or Jacksonville. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/956955/gimbal-uap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics UFO Navy | UFO Videos | Navy Officially Releases UFO Videos</span><span class="citation-popover-snippet">Popular Mechanics UFO Navy | UFO Videos | Navy Officially Releases UFO Videos</span></span></span>
-
+The official public version of Gimbal is a short infrared video labelled by the US military as “GIMBAL - UAP”. DVIDS, the US military’s public imagery platform, lists it as a Naval Air Systems Command courtesy video, with a stated length of 00:00:34 and a “Date Taken” field of 1 January 2015. That exact date should be treated cautiously as public metadata rather than a fully explained operational chronology; other accounts and technical discussions generally place the event in January 2015 off the US east coast, often near Florida or Jacksonville. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/956955/gimbal-uap" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics UFO Navy &#124; UFO Videos &#124; Navy Officially Releases UFO Videos</span><span class="citation-popover-snippet">Popular Mechanics UFO Navy &#124; UFO Videos &#124; Navy Officially Releases UFO Videos</span></span></span>
 
 <img src="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-overview.webp" | relative_url }}" alt="Overview image for USS Theodore Roosevelt Gimbal video 2015" loading="eager" decoding="sync" fetchpriority="high">
 In the clip, a small hot object is tracked by the aircraft’s sensor. The cockpit audio is part of why the video became famous: the aircrew comment that the object appears to rotate and refer to other objects “going against the wind”. Because the footage is thermal imagery, the shape on screen is not necessarily the physical outline of a craft. It is a sensor image shaped by heat, optics, tracking, contrast processing, distance, and camera movement. That distinction matters because many popular retellings treat the image as if it were a daylight photograph of a solid object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">UFOs regularly spotted in restricted U.S. airspace, report on the phenomena due next month - 60 Minutes - CBS News...</span></span></span>
 
-The video is closely linked to the Roosevelt carrier strike group’s 2014-2015 encounters, but it should not be blended carelessly with the Nimitz “Tic Tac” case from 2004 or the separate “Go Fast” video. Gimbal and Go Fast are sibling Roosevelt-era cases; they involve the same broad east-coast training environment and similar public-release history, but each has its own evidential limits and technical issues. Popular Mechanics reported that Gimbal and Go Fast were captured in January 2015 by an F/A-18F using the Raytheon AN/ASQ-228 Advanced Targeting Forward-Looking Infrared pod. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics UFO Navy | UFO Videos | Navy Officially Releases UFO Videos</span><span class="citation-popover-snippet">Popular Mechanics UFO Navy | UFO Videos | Navy Officially Releases UFO Videos</span></span></span>
+The video is closely linked to the Roosevelt carrier strike group’s 2014-2015 encounters, but it should not be blended carelessly with the Nimitz “Tic Tac” case from 2004 or the separate “Go Fast” video. Gimbal and Go Fast are sibling Roosevelt-era cases; they involve the same broad east-coast training environment and similar public-release history, but each has its own evidential limits and technical issues. Popular Mechanics reported that Gimbal and Go Fast were captured in January 2015 by an F/A-18F using the Raytheon AN/ASQ-228 Advanced Targeting Forward-Looking Infrared pod. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics UFO Navy &#124; UFO Videos &#124; Navy Officially Releases UFO Videos</span><span class="citation-popover-snippet">Popular Mechanics UFO Navy &#124; UFO Videos &#124; Navy Officially Releases UFO Videos</span></span></span>
 
 ## How the video entered the public record
 
 Gimbal became widely known through the wave of reporting that began in late 2017 around the Pentagon’s Advanced Aerospace Threat Identification Program and Navy UAP videos. The clips circulated publicly before the Department of Defense formally authorised their release. In September 2019, Navy spokesperson Joseph Gradisher confirmed to Time that the three widely shared videos showed “unidentified aerial phenomena”, while also stressing that the footage had not originally been authorised for public release and that the Navy’s concern was framed around safety and security in military training ranges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Department of Defense formally released the three historical Navy videos in April 2020. Its statement was deliberately limited: after review, the department said the unclassified videos did not reveal sensitive capabilities or systems, and it released them to clear up whether the footage in circulation was real or whether more complete public versions existed. Crucially, the statement said the aerial phenomena in the videos remained characterised as “unidentified”, not that they were extraordinary, alien, or technologically impossible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release | U.S. Department of War...</span></span></span>(#endnote-2 "Snippet: Statement by the Department of Defense on the Release of Historical Navy Videos > U.S. Department of War > Release | U.S. Department of War")
+The Department of Defense formally released the three historical Navy videos in April 2020. Its statement was deliberately limited: after review, the department said the unclassified videos did not reveal sensitive capabilities or systems, and it released them to clear up whether the footage in circulation was real or whether more complete public versions existed. Crucially, the statement said the aerial phenomena in the videos remained characterised as “unidentified”, not that they were extraordinary, alien, or technologically impossible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(#endnote-2 "Snippet: Statement by the Department of Defense on the Release of Historical Navy Videos > U.S. Department of War > Release | U.S. Department of War")
 
 AARO, the All-domain Anomaly Resolution Office, now lists the Gimbal video under official UAP imagery as “NAVAIR - FOIA: Unresolved Case: GIMBAL Video”, describing it as video of a US Navy F/A-18 crew’s encounter with an unexplained anomalous phenomenon. That is the strongest current official status: authenticated, publicly released, and unresolved in the public-facing record. It is not a public finding that the object demonstrated non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
-
 
 <img src="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-1-dark.svg" | relative_url }}" alt="USS Theodore Roosevelt Gimbal video 2015 illustration 1" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why pilots took it seriously
@@ -783,7 +781,6 @@ The Gimbal video would be much less important if it were only a blurry clip with
 CBS’s account tied the Gimbal footage to Graves’s squadron, describing it as captured off Jacksonville, Florida in 2015. Graves told 60 Minutes the clip was “difficult” to explain and pointed to features such as apparent rotation, altitude, and propulsion uncertainty, while also saying he did not know what it was. That caution is important: the witness case is not simply “pilots saw aliens”; it is that trained military aviators and their systems encountered something they could not confidently identify in a controlled training environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">UFOs regularly spotted in restricted U.S. airspace, report on the phenomena due next month - 60 Minutes - CBS News...</span></span></span>
 
 The witness layer also includes claims beyond the public 34-second clip. A 2023 technical preprint by Yannick Peings and Marik von Rennenkampff summarised pilot-linked claims that the object was within 10 nautical miles, appeared on radar to stop and reverse direction with no turn radius, and was associated with a formation of four to six other unknown objects. Those claims, if correct, would make the event more anomalous than the public video alone can establish. But they also depend on information that is not fully available for independent public verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kZyNMqcpFm8" title="Unidentified: Naval Pilots Witness UFOs (Season 1) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kZyNMqcpFm8" target="_blank" rel="noopener noreferrer">Unidentified: Naval Pilots Witness UFOs (Season 1) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.9M &middot; Uploaded: September 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kZyNMqcpFm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kZyNMqcpFm8">Open on YouTube</a></p></div></div></div>
 
@@ -795,7 +792,6 @@ That limitation is not a minor technicality. In infrared targeting footage, an u
 
 The ODNI report also noted that many UAP reports involved multiple sensors and that some incidents appeared to show unusual movement or flight characteristics, but it did not publicly resolve Gimbal. It identified one UAP report with high confidence as a deflating balloon and said the others in its limited dataset lacked enough information for specific attribution. That broader official pattern fits Gimbal: serious enough to remain in the file, but too thin in the public record to support a definitive exotic conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
-
 <img src="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-2-dark.svg" | relative_url }}" alt="USS Theodore Roosevelt Gimbal video 2015 illustration 2" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The main sceptical explanation: glare and the camera gimbal
 
@@ -804,7 +800,6 @@ The most developed sceptical interpretation is that Gimbal shows infrared glare 
 This explanation has real strengths. It directly addresses the most eye-catching visual feature: the rotation. It also explains why the apparent object looks like a featureless blob rather than a clearly resolved aircraft, and why the “aura” or outline around it may be an image-processing effect rather than a physical field or envelope. Leonard David’s summary of West’s position quotes the core claim plainly: the Gimbal object is probably a plane, the visible form is infrared engine glare larger than the plane itself, and the rotation is an artefact of the camera system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[Leonard David]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">Leonard David Debunking Navy “UFO” Videos</span><span class="citation-popover-snippet">Leonard David Debunking Navy “UFO” Videos</span></span></span>
 
 The sceptical case does not need to prove that every pilot statement is wrong. It only needs to show that the public video, taken alone, is compatible with a mundane object and optical artefacts. That is a narrower but powerful point. If the most spectacular visual feature can be produced by the sensor system, then the video becomes weak evidence for extraordinary flight, even if the broader encounter remains unexplained.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dPrYVmYkL5w" title="Radar confirms UFO swarm around Navy warship" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dPrYVmYkL5w" target="_blank" rel="noopener noreferrer">Radar confirms UFO swarm around Navy warship</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 14.7M &middot; Uploaded: May 2021 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dPrYVmYkL5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dPrYVmYkL5w">Open on YouTube</a></p></div></div></div>
 
@@ -816,7 +811,6 @@ The key unresolved issue is range. If the object were close, the implied motion 
 
 There is also a provenance gap. Officials have authenticated the video and listed it as unresolved, but they have not released the full package of radar data, sensor logs, longer footage, pilot reports, or classified analysis that would allow an outside technical community to test the case from end to end. The ODNI report’s wider warning about limited and inconsistent UAP reporting applies directly here: without standardised, complete, multi-sensor records, a case can remain unresolved for evidential reasons rather than because it is inherently exotic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Director of National Intelligence</span></span></span>
 
-
 <img src="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-3-dark.svg" | relative_url }}" alt="USS Theodore Roosevelt Gimbal video 2015 illustration 3" data-theme-src-dark="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Theodore_Rooseve_a4867d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Best current assessment
 
@@ -826,358 +820,92 @@ The public video alone is not strong evidence of non-human technology. Its most 
 
 At the same time, it is too strong to say the entire event has been publicly solved. The official record still treats Gimbal as unresolved, and witness-linked claims about radar behaviour and additional objects remain outside what independent analysts can fully test from the released clip. The most honest conclusion is therefore mixed: Gimbal is a real and important military UAP record, but the released video is ambiguous, technically vulnerable to mundane interpretation, and insufficient on its own to carry the extraordinary claims often attached to it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wCT3HdHokaw" title="Gimbal UFO incident | Ryan Graves and Lex Fridman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wCT3HdHokaw" target="_blank" rel="noopener noreferrer">Gimbal UFO incident | Ryan Graves and Lex Fridman</a></p><p class="youtube-embed-meta">Channel: Lex Clips &middot; Views: 96.8K &middot; Uploaded: August 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wCT3HdHokaw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wCT3HdHokaw">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Does the Gimbal Video Really Show?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Does the Gimbal Video Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Details the incident and Ruppelt&#x27;s investigative notes that form the basis for the Blue Book classification.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Roosevelt incident, contrasting physical trace claims against the official military assessment of an unidentified object.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches methodology for evaluating cases that sit between dramatic eyewitness testimony and forensic &#x27;unidentified&#x27; verdicts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Documents how intelligence units handled 2010s cases that were eventually deemed inconclusive.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-theodore-roosevelt-gimbal-video-2015-what-does-the-gimbal-video-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function localeMatches() {
-    var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
-    try {
-      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
-      else if (navigator.language) languages = [navigator.language];
-    } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
-      var normalized = normalize(languages[i]);
-      if (!normalized) continue;
-      if (localeMarketMap[normalized]) {
-        exactMarket = localeMarketMap[normalized];
-        break;
-      }
-      var languageOnly = normalized.split('-')[0];
-      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
-    }
-    return { exact: exactMarket, language: languageMarket };
-  }
-  function inferFromLocale() {
-    var matches = localeMatches();
-    return matches.exact || matches.language || '';
-  }
-  function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
-      var rule = timezoneRules[i] || {};
-      try {
-        if (new RegExp(rule.pattern).test(tz)) return rule.market;
-      } catch (err) {}
-    }
-    return '';
-  }
-  function inferMarket(available, options) {
-    available = Array.isArray(available) ? available : [];
-    options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
-    try {
-      var saved = window.localStorage && localStorage.getItem(storageKey);
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var timezoneMarket = inferFromTimezone();
-    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
-    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
-    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
-  }
-  window.PhoenixAffiliateLocation = {
-    normalize: normalize,
-    inferMarket: inferMarket,
-    inferFromLocale: inferFromLocale,
-    inferFromTimezone: inferFromTimezone
-  };
-})();
-</script>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-localized-links]');
-  if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
-  function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
-  }
-  function buildUrl(query, reference, marketId) {
-    var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
-    var params = [];
-    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
-    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
-    params.push('mkevt=1');
-    params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
-    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
-    return url + joiner + params.join('&');
-  }
-  function domainLabel(marketId) {
-    var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
-  }
-  function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function closeMenu(section) {
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var picker = section.querySelector('.fr-ebay-market-picker');
-    if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
-    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
-  }
-  function availableMarkets(section) {
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select) {
-      return Array.prototype.slice.call(select.options)
-        .map(function (option) { return option.value; })
-        .filter(function (marketId) { return !!markets[marketId]; });
-    }
-    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
-      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
-      .filter(function (marketId) { return !!markets[marketId]; });
-  }
-  function applyMarket(section, marketId, persist) {
-    var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
-      link.setAttribute('href', buildUrl(query, reference, marketId));
-    });
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
-    var selectedText = marketId;
-    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-      label.textContent = selectedText;
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-      flag.className = flagClass(marketId);
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-      label.textContent = selectedText;
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
-      label.textContent = domainLabel(marketId);
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
-      var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
-    });
-    section.setAttribute('data-ebay-selected-market', marketId);
-    if (persist) {
-      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
-    }
-    closeMenu(section);
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
-    var available = availableMarkets(section);
-    var marketId = defaultMarket;
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: defaultMarket
-      });
-    } else if (available.indexOf(defaultMarket) < 0) {
-      marketId = available[0] || defaultMarket;
-    }
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select) {
-      select.addEventListener('change', function () {
-        applyMarket(section, select.value, true);
-      });
-    }
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    if (trigger && menu) {
-      trigger.addEventListener('click', function (event) {
-        event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
-        menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-        var picker = trigger.closest('.fr-ebay-market-picker');
-        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
-      });
-      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.addEventListener('click', function (event) {
-          event.stopPropagation();
-          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
-        });
-      });
-      document.addEventListener('click', function () { closeMenu(section); });
-    }
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
-      button.addEventListener('click', function () {
-        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
-      });
-    });
-    applyMarket(section, marketId, false);
-  });
-})();
-</script>
 </section>
 
 ## Endnotes
@@ -1185,176 +913,176 @@ At the same time, it is too strong to say the entire event has been publicly sol
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: defense.gov  
    Title: U.S. Department of War  
-   Link: [https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/](https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)  
+   Link: <a href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release | U.S. Department of War...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cbsnews.com  
    Title: CBS News  
-   Link: [https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/](https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/)  
+   Link: <a href="https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-military-intelligence-60-minutes-2021-05-16/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs regularly spotted in restricted U.S. airspace, report on the phenomena due next month - 60 Minutes - CBS News...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: time.com  
-   Link: [https://time.com/5680192/navy-confirms-ufo-videos-real/](https://time.com/5680192/navy-confirms-ufo-videos-real/)  
+   Link: <a href="https://time.com/5680192/navy-confirms-ufo-videos-real/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5680192/navy-confirms-ufo-videos-real/</a>  
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2306.08773](https://arxiv.org/abs/2306.08773)  
+   Link: <a href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.08773</a>  
 
 6. <a id="endnote-6"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: fy20 industrial capabilities report  
-   Link: [https://media.defense.gov/2021/Jan/14/2002565311/-1/-1/0/fy20-industrial-capabilities-report.pdf](https://media.defense.gov/2021/Jan/14/2002565311/-1/-1/0/fy20-industrial-capabilities-report.pdf)  
+   Link: <a href="https://media.defense.gov/2021/Jan/14/2002565311/-1/-1/0/fy20-industrial-capabilities-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2021/Jan/14/2002565311/-1/-1/0/fy20-industrial-capabilities-report.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: comptroller.defense.gov  
    Title: RDTE Vol3 OSD RDTE PB20 Justification Book  
-   Link: [https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2020/budget_justification/pdfs/03_RDT_and_E/RDTE_Vol3_OSD_RDTE_PB20_Justification_Book.pdf](https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2020/budget_justification/pdfs/03_RDT_and_E/RDTE_Vol3_OSD_RDTE_PB20_Justification_Book.pdf)  
+   Link: <a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2020/budget_justification/pdfs/03_RDT_and_E/RDTE_Vol3_OSD_RDTE_PB20_Justification_Book.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2020/budget_justification/pdfs/03_RDT_and_E/RDTE_Vol3_OSD_RDTE_PB20_Justification_Book.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: comptroller.defense.gov  
    Title: OSD PB2024  
-   Link: [https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2024/budget_justification/pdfs/03_RDT_and_E/OSD_PB2024.pdf](https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2024/budget_justification/pdfs/03_RDT_and_E/OSD_PB2024.pdf)  
+   Link: <a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2024/budget_justification/pdfs/03_RDT_and_E/OSD_PB2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2024/budget_justification/pdfs/03_RDT_and_E/OSD_PB2024.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: comptroller.defense.gov  
    Title: PB17 OSD 0400D Master J Book Final  
-   Link: [https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2017/budget_justification/pdfs/03_RDT_and_E/PB17_OSD_0400D_Master_J-Book_Final.pdf](https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2017/budget_justification/pdfs/03_RDT_and_E/PB17_OSD_0400D_Master_J-Book_Final.pdf)  
+   Link: <a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2017/budget_justification/pdfs/03_RDT_and_E/PB17_OSD_0400D_Master_J-Book_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2017/budget_justification/pdfs/03_RDT_and_E/PB17_OSD_0400D_Master_J-Book_Final.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: comptroller.defense.gov  
    Title: DARPA 0400D RDTE MasterJustificationBook Defense Advanced Research Project  
-   Link: [https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2017/budget_justification/pdfs/03_RDT_and_E/DARPA_0400D_RDTE_MasterJustificationBook_Defense_Advanced_Research_Project.pdf](https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2017/budget_justification/pdfs/03_RDT_and_E/DARPA_0400D_RDTE_MasterJustificationBook_Defense_Advanced_Research_Project.pdf)  
+   Link: <a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2017/budget_justification/pdfs/03_RDT_and_E/DARPA_0400D_RDTE_MasterJustificationBook_Defense_Advanced_Research_Project.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2017/budget_justification/pdfs/03_RDT_and_E/DARPA_0400D_RDTE_MasterJustificationBook_Defense_Advanced_Research_Project.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: media.defense.gov  
-   Link: [https://media.defense.gov/2023/Nov/28/2003348086/-1/-1/0/AF_SBIR_241_DP2_v2.PDF](https://media.defense.gov/2023/Nov/28/2003348086/-1/-1/0/AF_SBIR_241_DP2_v2.PDF)  
+   Link: <a href="https://media.defense.gov/2023/Nov/28/2003348086/-1/-1/0/AF_SBIR_241_DP2_v2.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2023/Nov/28/2003348086/-1/-1/0/AF_SBIR_241_DP2_v2.PDF</a>  
 
 13. <a id="endnote-13"></a>
    Source: comptroller.defense.gov  
    Title: A 10601111D8Z GICUR R 2(co) R 2a Feb 2004  
-   Link: [https://comptroller.defense.gov/Portals/45/documents/defbudget/fy2005/budget_justification/pdfs/03_RDT_and_E/OSD_BA1/A-10601111D8Z_GICUR__R-2%28co%29_R-2a__Feb_2004.pdf](https://comptroller.defense.gov/Portals/45/documents/defbudget/fy2005/budget_justification/pdfs/03_RDT_and_E/OSD_BA1/A-10601111D8Z_GICUR__R-2%28co%29_R-2a__Feb_2004.pdf)  
+   Link: <a href="https://comptroller.defense.gov/Portals/45/documents/defbudget/fy2005/budget_justification/pdfs/03_RDT_and_E/OSD_BA1/A-10601111D8Z_GICUR__R-2%28co%29_R-2a__Feb_2004.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/documents/defbudget/fy2005/budget_justification/pdfs/03_RDT_and_E/OSD_BA1/A-10601111D8Z_GICUR__R-2%28co%29_R-2a__Feb_2004.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: comptroller.defense.gov  
    Title: Defense Advanced Research Projects Agency PB 2014  
-   Link: [https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2014/budget_justification/pdf/03_RDT_and_E/Defense_Advanced_Research_Projects_Agency_PB_2014.pdf](https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2014/budget_justification/pdf/03_RDT_and_E/Defense_Advanced_Research_Projects_Agency_PB_2014.pdf)  
+   Link: <a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2014/budget_justification/pdf/03_RDT_and_E/Defense_Advanced_Research_Projects_Agency_PB_2014.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2014/budget_justification/pdf/03_RDT_and_E/Defense_Advanced_Research_Projects_Agency_PB_2014.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: comptroller.defense.gov  
    Title: RDTE DAs Vol 3A of 5 OSD FY19PB RDTE Exhibits BA1 3  
-   Link: [https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/RDTE_DAs_Vol_3A_of_5_OSD_FY19PB-RDTE_Exhibits_BA1-3.pdf](https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/RDTE_DAs_Vol_3A_of_5_OSD_FY19PB-RDTE_Exhibits_BA1-3.pdf)  
+   Link: <a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/RDTE_DAs_Vol_3A_of_5_OSD_FY19PB-RDTE_Exhibits_BA1-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/RDTE_DAs_Vol_3A_of_5_OSD_FY19PB-RDTE_Exhibits_BA1-3.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
 18. <a id="endnote-18"></a>
    Source: history.com  
    Title: uss roosevelt gofast ufo declassified video  
-   Link: [https://www.history.com/videos/uss-roosevelt-gofast-ufo-declassified-video](https://www.history.com/videos/uss-roosevelt-gofast-ufo-declassified-video)  
+   Link: <a href="https://www.history.com/videos/uss-roosevelt-gofast-ufo-declassified-video" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/uss-roosevelt-gofast-ufo-declassified-video</a>  
 
 19. <a id="endnote-19"></a>
    Source: history.com  
    Title: navy confirms ufo videos real  
-   Link: [https://www.history.com/articles/navy-confirms-ufo-videos-real](https://www.history.com/articles/navy-confirms-ufo-videos-real)  
+   Link: <a href="https://www.history.com/articles/navy-confirms-ufo-videos-real" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/navy-confirms-ufo-videos-real</a>  
 
 20. <a id="endnote-20"></a>
    Source: secnav.navy.mil  
    Title: mil UF O_Redacted  
-   Link: [https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/UFO_Redacted.pdf](https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/UFO_Redacted.pdf)  
+   Link: <a href="https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/UFO_Redacted.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UAP%20DOCUMENTS/UFO_Redacted.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: military.com  
    Title: ufo videos are footage real unidentified objects us navy acknowledges  
-   Link: [https://www.military.com/daily-news/2019/09/18/ufo-videos-are-footage-real-unidentified-objects-us-navy-acknowledges.html](https://www.military.com/daily-news/2019/09/18/ufo-videos-are-footage-real-unidentified-objects-us-navy-acknowledges.html)  
+   Link: <a href="https://www.military.com/daily-news/2019/09/18/ufo-videos-are-footage-real-unidentified-objects-us-navy-acknowledges.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2019/09/18/ufo-videos-are-footage-real-unidentified-objects-us-navy-acknowledges.html</a>  
 
 22. <a id="endnote-22"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/956955/gimbal-uap](https://www.dvidshub.net/video/956955/gimbal-uap)  
+   Link: <a href="https://www.dvidshub.net/video/956955/gimbal-uap" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/956955/gimbal-uap</a>  
 
 23. <a id="endnote-23"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics UFO Navy | UFO Videos | Navy Officially Releases UFO Videos  
-   Link: [https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/](https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/)  
+   Link: <a href="https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a32289669/navy-official-release-ufo-videos/</a>  
 
 24. <a id="endnote-24"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why](https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why)  
+   Link: <a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
 
 25. <a id="endnote-25"></a>
    Source: leonarddavid.com  
    Title: Leonard David Debunking Navy “UFO” Videos  
-   Link: [https://www.leonarddavid.com/debunking-navy-ufo-videos/](https://www.leonarddavid.com/debunking-navy-ufo-videos/)  
+   Link: <a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
 
 26. <a id="endnote-26"></a>
    Source: cbsnews.com  
    Title: pentagon solves 1 ufo mystery still probing other cases  
-   Link: [https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/](https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/)  
+   Link: <a href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/</a>  
 
 27. <a id="endnote-27"></a>
    Source: pocketmags.com  
-   Link: [https://pocketmags.com/us/skeptic-magazine/272/articles/the-gimbal-video?srsltid=AfmBOoqaL8O-V-bxuupHFaU17HfoHwWXye-RnMf35pflT2X8UeIih28i](https://pocketmags.com/us/skeptic-magazine/272/articles/the-gimbal-video?srsltid=AfmBOoqaL8O-V-bxuupHFaU17HfoHwWXye-RnMf35pflT2X8UeIih28i)  
+   Link: <a href="https://pocketmags.com/us/skeptic-magazine/272/articles/the-gimbal-video?srsltid=AfmBOoqaL8O-V-bxuupHFaU17HfoHwWXye-RnMf35pflT2X8UeIih28i" target="_blank" rel="noopener noreferrer nofollow">https://pocketmags.com/us/skeptic-magazine/272/articles/the-gimbal-video?srsltid=AfmBOoqaL8O-V-bxuupHFaU17HfoHwWXye-RnMf35pflT2X8UeIih28i</a>  
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Watch: UAP videos declassified by Pentagon and played in Congress  
-   Link: [https://www.youtube.com/watch?v=m-lj46iSCEU](https://www.youtube.com/watch?v=m-lj46iSCEU)  
+   Link: <a href="https://www.youtube.com/watch?v=m-lj46iSCEU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m-lj46iSCEU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Raytheon ATFLIR expert discusses Navy gimbal UFO/UAP video with Mick West...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Raytheon ATFLIR expert discusses Navy gimbal UFO/UAP video with Mick West  
-   Link: [https://www.youtube.com/watch?v=FGHeu5GeR-0](https://www.youtube.com/watch?v=FGHeu5GeR-0)  
+   Link: <a href="https://www.youtube.com/watch?v=FGHeu5GeR-0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FGHeu5GeR-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness UFO Encounters | Ryan Graves (Ep. 334)...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena)  
+   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Gn6jTF3fMho](https://www.youtube.com/watch?v=Gn6jTF3fMho)  
+   Link: <a href="https://www.youtube.com/watch?v=Gn6jTF3fMho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gn6jTF3fMho</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP videos declassified by Pentagon and played in Congress...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/](https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
 
 34. <a id="endnote-34"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UAP/comments/14w1uxd/has_there_been_a_response_to_the_mick_west_videos/](https://www.reddit.com/r/UAP/comments/14w1uxd/has_there_been_a_response_to_the_mick_west_videos/)  
+   Link: <a href="https://www.reddit.com/r/UAP/comments/14w1uxd/has_there_been_a_response_to_the_mick_west_videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UAP/comments/14w1uxd/has_there_been_a_response_to_the_mick_west_videos/</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/atomicmuseum.vegas/posts/joseph-gradisher-official-spokesperson-for-the-deputy-chief-of-naval-operations-/10156106489031910/](https://www.facebook.com/atomicmuseum.vegas/posts/joseph-gradisher-official-spokesperson-for-the-deputy-chief-of-naval-operations-/10156106489031910/)  
+   Link: <a href="https://www.facebook.com/atomicmuseum.vegas/posts/joseph-gradisher-official-spokesperson-for-the-deputy-chief-of-naval-operations-/10156106489031910/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/atomicmuseum.vegas/posts/joseph-gradisher-official-spokesperson-for-the-deputy-chief-of-naval-operations-/10156106489031910/</a>  
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/15fznjb/just_watched_mick_west_debunk_the_gimbal_video/](https://www.reddit.com/r/UFOs/comments/15fznjb/just_watched_mick_west_debunk_the_gimbal_video/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15fznjb/just_watched_mick_west_debunk_the_gimbal_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15fznjb/just_watched_mick_west_debunk_the_gimbal_video/</a>  
 
 37. <a id="endnote-37"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/14m3ki7/last_9_seconds_of_the_gimbal_video_stabilised_to/](https://www.reddit.com/r/UFOs/comments/14m3ki7/last_9_seconds_of_the_gimbal_video_stabilised_to/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/14m3ki7/last_9_seconds_of_the_gimbal_video_stabilised_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14m3ki7/last_9_seconds_of_the_gimbal_video_stabilised_to/</a>

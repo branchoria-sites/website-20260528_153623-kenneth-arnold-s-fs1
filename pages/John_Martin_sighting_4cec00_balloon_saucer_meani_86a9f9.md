@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /john-martin-sighting-1878/
 nav_short_title: Balloon or Saucer
 title: Balloon, Saucer, or Something Unresolved?
-title_full: Balloon, Saucer, or Something Unresolved? | Martin Sighting
+title_full: Balloon, Saucer, or Something Unresolved?
 display_title_short: Balloon or Saucer
 display_title: Balloon or Saucer
 heading_title: Balloon, Saucer, or Something Unresolved?
@@ -233,7 +233,7 @@ next_link:
   permalink: /source-trail/
   short_title: Source Trail
   heading_title: How Solid Is the 1878 Paper Trail?
-date: '2026-06-08 23:29:03 '
+date: '2026-06-11 13:17:45 '
 header:
   og_image: /assets/images/John_Martin_sighting_4cec00_balloon_saucer_meani_86a9f9-Illustration-1-social.jpg
   preview_image: /assets/images/John_Martin_sighting_4cec00_balloon_saucer_meani_86a9f9-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/John_Martin_sighting_4cec00_balloon_saucer_meani_86a9f9-Il
 
 ## Introduction
 
-The [John Martin sighting]({{ 'john-martin-sighting-1878/' | relative_url }}) became historically famous for two linked reasons that are often misunderstood. First, the original newspaper story suggested a balloon as the most ordinary explanation for what Martin saw over North Texas in January 1878. Second, the report used the word “saucer” decades before the modern “flying saucer” era began in 1947. Those two details are frequently pulled apart in later retellings, even though they appeared together in the same short account. The Portal to Texas History <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerEra of the Flying Saucersing that when he first noticed it, it was about the (comparative) size of an or- ange, but whe...</span></span></span>
-
+The John Martin sighting became historically famous for two linked reasons that are often misunderstood. First, the original newspaper story suggested a balloon as the most ordinary explanation for what Martin saw over North Texas in January 1878. Second, the report used the word “saucer” decades before the modern “flying saucer” era began in 1947. Those two details are frequently pulled apart in later retellings, even though they appeared together in the same short account. The Portal to Texas History <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerEra of the Flying Saucersing that when he first noticed it, it was about the (comparative) size of an or- ange, but whe...</span></span></span>
 
 <img src="{{ "/assets/images/John_Martin_sighting_4cec00_balloon_saucer_meani_86a9f9-Illustration-1-dark.svg" | relative_url }}" alt="Balloon or Saucer illustration 1" data-theme-src-dark="{{ "/assets/images/John_Martin_sighting_4cec00_balloon_saucer_meani_86a9f9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Martin_sighting_4cec00_balloon_saucer_meani_86a9f9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A careful reading of the surviving newspaper text shows that Martin did not describe a metallic disc-shaped craft in the modern UFO sense. The object was compared to a balloon in form, while “saucer” referred to apparent size from the observer’s perspective when the object passed overhead. That distinction matters because twentieth-century UFO culture dramatically changed what readers imagine when they encounter the word “saucer”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerEra of the Flying Saucersing that when he first noticed it, it was about the (comparative) size of an or- ange, but whe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasescapes.com/MikeCoxTexasTales/Denison-UFO.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasescapes.com">[Texas Escapes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasescapes.com</span><span class="citation-popover-snippet">Texas EscapesDenison UFOA careful reading of this 210-word story makes it clear that Martin did not say he saw a flying saucer, but an ob...</span></span></span>
@@ -258,7 +257,6 @@ The wording also suggests uncertainty rather than conviction. Martin reportedly 
 
 Several later commentators have pointed out that the newspaper itself treated the balloon explanation as the default interpretation rather than a dismissive debunking added decades later. Skeptical analyses therefore argue that the case only became a “UFO classic” because later readers retroactively imposed post-1947 imagery onto an otherwise ambiguous nineteenth-century sky sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasescapes.com/MikeCoxTexasTales/Denison-UFO.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasescapes.com">[Texas Escapes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasescapes.com</span><span class="citation-popover-snippet">Texas EscapesDenison UFOA careful reading of this 210-word story makes it clear that Martin did not say he saw a flying saucer, but an ob...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ap0whDDDU1Y" title="Where Did The Term &#x27;Flying Saucer&#x27; Come From? | Mossback&#x27;s Northwest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer">Where Did The Term &#x27;Flying Saucer&#x27; Come From? | Mossback&#x27;s Northwest</a></p><p class="youtube-embed-meta">Channel: Cascade PBS &middot; Views: 1.9K &middot; Uploaded: July 2019 &middot; Length: 4 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ap0whDDDU1Y">Open on YouTube</a></p></div></div></div>
 
 ## Why the speed report complicates the answer
@@ -271,7 +269,6 @@ The article itself hints at this uncertainty. Martin first saw the object as rou
 
 This is one reason the case remains unresolved rather than conclusively identified. The balloon explanation is plausible because the object supposedly resembled one and lacked detailed structure. But the brief newspaper report also lacks enough observational data to verify whether an ordinary balloon truly fits the reported motion. The ambiguity is genuine, even if the evidence is thin.
 
-
 <img src="{{ "/assets/images/John_Martin_sighting_4cec00_balloon_saucer_meani_86a9f9-Illustration-2-dark.svg" | relative_url }}" alt="Balloon or Saucer illustration 2" data-theme-src-dark="{{ "/assets/images/John_Martin_sighting_4cec00_balloon_saucer_meani_86a9f9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Martin_sighting_4cec00_balloon_saucer_meani_86a9f9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the phrase changed before 1947
 
@@ -283,7 +280,6 @@ Something similar happened in 1947 with Kenneth Arnold’s report. Arnold later 
 
 That parallel makes the John Martin case unusually valuable for historians of UFO language. Both episodes show how newspaper shorthand can reshape public imagination. In each case, a comparison involving a saucer evolved into a cultural image of disc-like craft, even though the original wording was more ambiguous.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3yXEFDdwdaY" title="How the term &#x27;Flying Saucer&#x27; was created in 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3yXEFDdwdaY" target="_blank" rel="noopener noreferrer">How the term &#x27;Flying Saucer&#x27; was created in 1947</a></p><p class="youtube-embed-meta">Channel: SAUCER &middot; Views: 216 &middot; Uploaded: June 2022 &middot; Length: 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3yXEFDdwdaY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3yXEFDdwdaY">Open on YouTube</a></p></div></div></div>
 
 ## Balloon or saucer in later UFO literature
@@ -293,7 +289,6 @@ Twentieth-century UFO writers often elevated the Martin sighting into a “first
 This gradual reframing changed the tone of the case. In the original article, the strange element was mainly speed and uncertainty. In later UFO retellings, the event became part of a larger mythology of mysterious aerial craft appearing throughout history.
 
 Modern historians and sceptical writers frequently push back against that interpretation. They note that the surviving text is only about two hundred words long and contains no explicit claim of extraterrestrial technology. The strongest historically defensible statement is narrower: the Martin report is an early newspaper account of an unexplained aerial object that used the word “saucer” descriptively long before the term “flying saucer” entered popular culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasescapes.com/MikeCoxTexasTales/Denison-UFO.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasescapes.com">[Texas Escapes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasescapes.com</span><span class="citation-popover-snippet">Texas EscapesDenison UFOA careful reading of this 210-word story makes it clear that Martin did not say he saw a flying saucer, but an ob...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p16.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Skeptical InquirerEra of the Flying Saucersing that when he first noticed it, it was about the (comparative) size of an or- ange, but whe...</span></span></span>
-
 
 <img src="{{ "/assets/images/John_Martin_sighting_4cec00_balloon_saucer_meani_86a9f9-Illustration-3-dark.svg" | relative_url }}" alt="Balloon or Saucer illustration 3" data-theme-src-dark="{{ "/assets/images/John_Martin_sighting_4cec00_balloon_saucer_meani_86a9f9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Martin_sighting_4cec00_balloon_saucer_meani_86a9f9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case actually demonstrates
@@ -308,49 +303,89 @@ Three features give the report lasting historical interest:
 
 That combination explains why the case still appears in UFO histories despite its weak evidential foundation. The mystery itself is limited, but the evolution of the language around it became culturally significant.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eyBoJRBhdoE" title="Before the Wright Brothers – UFO Sightings of the 1800s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eyBoJRBhdoE" target="_blank" rel="noopener noreferrer">Before the Wright Brothers – UFO Sightings of the 1800s</a></p><p class="youtube-embed-meta">Channel: UFOlogy &middot; Views: 16 &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eyBoJRBhdoE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eyBoJRBhdoE">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Balloon, Saucer, or Something Unresolved?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Balloon, Saucer, or Something Unresolved?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">John Martin guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=John+Martin+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the 1878 report and clarifies how &#x27;saucer&#x27; was used as a descriptive size reference.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Flying Saucer guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Flying+Saucer+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Explains the historical evolution of UFO-related terms and how language shapes expectation in sightings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Skeptical Inquirer guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Skeptical+Inquirer+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Deconstructs why &#x27;saucer&#x27; as a descriptor in 1878 is anachronistically interpreted as a spacecraft reference today.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches skills for identifying linguistic shifts in reports to avoid reading modern themes into historical texts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -387,15 +422,15 @@ That combination explains why the case still appears in UFO histories despite it
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -403,15 +438,15 @@ That combination explains why the case still appears in UFO histories despite it
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -419,15 +454,15 @@ That combination explains why the case still appears in UFO histories despite it
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -435,15 +470,15 @@ That combination explains why the case still appears in UFO histories despite it
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -451,7 +486,7 @@ That combination explains why the case still appears in UFO histories despite it
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-or-saucer-balloon-saucer-or-something-unresolved-john-martin-sighting-1878-ufo-poster-series-television-gerry-an" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -667,44 +702,44 @@ That combination explains why the case still appears in UFO histories despite it
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: [https://en.wikipedia.org/wiki/Flying_saucer](https://en.wikipedia.org/wiki/Flying_saucer)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
 2. <a id="endnote-2"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/files/5883/5883-h/5883-h.htm](https://www.gutenberg.org/files/5883/5883-h/5883-h.htm)  
+   Link: <a href="https://www.gutenberg.org/files/5883/5883-h/5883-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/5883/5883-h/5883-h.htm</a>  
 
 3. <a id="endnote-3"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/ebooks/5883.epub.images](https://www.gutenberg.org/ebooks/5883.epub.images)  
+   Link: <a href="https://www.gutenberg.org/ebooks/5883.epub.images" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/5883.epub.images</a>  
 
 4. <a id="endnote-4"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p16.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p16.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p16.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerEra of the Flying Saucersing that when he first noticed it, it was about the (comparative) size of an or- ange, but whe...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: texasescapes.com  
-   Link: [https://www.texasescapes.com/MikeCoxTexasTales/Denison-UFO.htm](https://www.texasescapes.com/MikeCoxTexasTales/Denison-UFO.htm)  
+   Link: <a href="https://www.texasescapes.com/MikeCoxTexasTales/Denison-UFO.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.texasescapes.com/MikeCoxTexasTales/Denison-UFO.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas EscapesDenison UFOA careful reading of this 210-word story makes it clear that Martin did not say he saw a flying saucer, but an ob...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sacred-texts.com  
    Title: Internet Sacred Text Archive The Flying Saucers Are Real: Chapter VII  
-   Link: [https://sacred-texts.com/ufo/fsar/fsar08.htm](https://sacred-texts.com/ufo/fsar/fsar08.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/fsar/fsar08.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/fsar/fsar08.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Martin, a farmer who lived near Denison, Texas. The Denison Daily News of January 25, 1878, gives the following account:... balloon...</p></details>
    Published: January 25, 1878  
 
 7. <a id="endnote-7"></a>
    Source: texascooppower.com  
    Title: the first flying saucer  
-   Link: [https://texascooppower.com/the-first-flying-saucer/](https://texascooppower.com/the-first-flying-saucer/)  
+   Link: <a href="https://texascooppower.com/the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://texascooppower.com/the-first-flying-saucer/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The First “Flying Saucer”According to a January 25, 1878, front-page report in the Denison Daily News—which was attributed to the Dallas...</p></details>
    Published: January 25, 1878  
 
 8. <a id="endnote-8"></a>
    Source: jhmovie.fandom.com  
    Title: Flying saucer  
-   Link: [https://jhmovie.fandom.com/wiki/Flying_saucer](https://jhmovie.fandom.com/wiki/Flying_saucer)  
+   Link: <a href="https://jhmovie.fandom.com/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Flying_saucer</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>saucer | JH Wiki Collection Wiki - FandomOn January 25, 1878, the Denison Daily News printed an article in which John Martin, a local far...</p></details>
    Published: January 25, 1878  
 
@@ -712,56 +747,56 @@ That combination explains why the case still appears in UFO histories despite it
 
 9. <a id="endnote-9"></a>
    Source: science.howstuffworks.com  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm](https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arrival of Flying SaucersOn the morning of January 22, farmer John Martin noted the swift passage, through the southern sky, of something...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: fanac.org  
-   Link: [https://fanac.org/fanzines/Saucer_News/saucer_news_20_v3n6_mosley_1956-10_ufous.pdf](https://fanac.org/fanzines/Saucer_News/saucer_news_20_v3n6_mosley_1956-10_ufous.pdf)  
+   Link: <a href="https://fanac.org/fanzines/Saucer_News/saucer_news_20_v3n6_mosley_1956-10_ufous.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fanac.org/fanzines/Saucer_News/saucer_news_20_v3n6_mosley_1956-10_ufous.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SAUCER NEWS&quot;If flying saucers exist they are interplanetary;There is no other explanation... about the size of a large saucer....&quot; So it...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: authentictexas.com  
-   Link: [https://authentictexas.com/unexplained-phenomena/](https://authentictexas.com/unexplained-phenomena/)  
+   Link: <a href="https://authentictexas.com/unexplained-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://authentictexas.com/unexplained-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained PhenomenaOne of the earliest published reports of a “flying saucer” came during a front-page report in the Denison Daily News...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ButtermilkJunction/posts/look-up-in-the-skytoday-in-ufo-history-on-todays-date-148-years-ago-friday-janua/1442463720573766/](https://www.facebook.com/ButtermilkJunction/posts/look-up-in-the-skytoday-in-ufo-history-on-todays-date-148-years-ago-friday-janua/1442463720573766/)  
+   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/look-up-in-the-skytoday-in-ufo-history-on-todays-date-148-years-ago-friday-janua/1442463720573766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/look-up-in-the-skytoday-in-ufo-history-on-todays-date-148-years-ago-friday-janua/1442463720573766/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>☞Look! Up In the Sky… ☞Today in UFO HistoryMartin kept watching the UFO until it moved completely out of view. A report about the sightin...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: experts believe the 1991 ufo explosion was predicted over 1000 years ago ufofile  
-   Link: [https://www.facebook.com/TheUnXplainedZone/posts/experts-believe-the-1991-ufo-explosion-was-predicted-over-1000-years-ago-ufofile/1186610677001696/](https://www.facebook.com/TheUnXplainedZone/posts/experts-believe-the-1991-ufo-explosion-was-predicted-over-1000-years-ago-ufofile/1186610677001696/)  
+   Link: <a href="https://www.facebook.com/TheUnXplainedZone/posts/experts-believe-the-1991-ufo-explosion-was-predicted-over-1000-years-ago-ufofile/1186610677001696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/posts/experts-believe-the-1991-ufo-explosion-was-predicted-over-1000-years-ago-ufofile/1186610677001696/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts believe the 1991 UFO explosion was predicted...Among the earlier UFO reports, as an example, may be the well-documented observat...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dokumen.pub  
    Title: The Real Cowboys & Aliens: UFO Encounters of the Old West  
-   Link: [https://dokumen.pub/download/the-real-cowboys-amp-aliens-2nd-edition-ufo-encounters-of-the-old-west-1477501894-9781477501894.html](https://dokumen.pub/download/the-real-cowboys-amp-aliens-2nd-edition-ufo-encounters-of-the-old-west-1477501894-9781477501894.html)  
+   Link: <a href="https://dokumen.pub/download/the-real-cowboys-amp-aliens-2nd-edition-ufo-encounters-of-the-old-west-1477501894-9781477501894.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/the-real-cowboys-amp-aliens-2nd-edition-ufo-encounters-of-the-old-west-1477501894-9781477501894.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>balloons.” The term “flying saucer” was not generally used for UFOs until the 1940s, but a Texas farmer who saw a UFO in 1878 described i...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: tumblr.com  
-   Link: [https://www.tumblr.com/bunker-secreto-de-lerezak/115076494131/newspaper-report-on-a-strange-airship-was-included](https://www.tumblr.com/bunker-secreto-de-lerezak/115076494131/newspaper-report-on-a-strange-airship-was-included)  
+   Link: <a href="https://www.tumblr.com/bunker-secreto-de-lerezak/115076494131/newspaper-report-on-a-strange-airship-was-included" target="_blank" rel="noopener noreferrer nofollow">https://www.tumblr.com/bunker-secreto-de-lerezak/115076494131/newspaper-report-on-a-strange-airship-was-included</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 25, 1878. A Texas farmer, John Martin, was...Read more...</p></details>
    Published: January 25, 1878  
 
 16. <a id="endnote-16"></a>
    Source: boxden.com  
-   Link: [https://boxden.com/showthread.php?t=2826279](https://boxden.com/showthread.php?t=2826279)  
+   Link: <a href="https://boxden.com/showthread.php?t=2826279" target="_blank" rel="noopener noreferrer nofollow">https://boxden.com/showthread.php?t=2826279</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(69 yrs Before UFO Pop Culture) January 1878, Denison...6 Jan 2020 — A report about the sighting appeared in the Denison Daily News on...</p></details>
    Published: January 1878  
 
 17. <a id="endnote-17"></a>
    Source: bartleby.com  
    Title: Ufo(Unidentified Flying Object)  
-   Link: [https://www.bartleby.com/essay/UfoUnidentified-Flying-Object-PKF9AAAX7KUEY](https://www.bartleby.com/essay/UfoUnidentified-Flying-Object-PKF9AAAX7KUEY)  
+   Link: <a href="https://www.bartleby.com/essay/UfoUnidentified-Flying-Object-PKF9AAAX7KUEY" target="_blank" rel="noopener noreferrer nofollow">https://www.bartleby.com/essay/UfoUnidentified-Flying-Object-PKF9AAAX7KUEY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1878, The Denison Daily News noted that John Martin, a local farmer, had reported seeing a large, dark, circular object resembling a ball...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: s3.us-west-1.wasabisys.com  
    Title: Vallee Anatomy of a phenomenon  
-   Link: [https://s3.us-west-1.wasabisys.com/luminist/EB/U%20-%20V/Vallee%20-%20Anatomy%20of%20a%20phenomenon.pdf](https://s3.us-west-1.wasabisys.com/luminist/EB/U%20-%20V/Vallee%20-%20Anatomy%20of%20a%20phenomenon.pdf)  
+   Link: <a href="https://s3.us-west-1.wasabisys.com/luminist/EB/U%20-%20V/Vallee%20-%20Anatomy%20of%20a%20phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-west-1.wasabisys.com/luminist/EB/U%20-%20V/Vallee%20-%20Anatomy%20of%20a%20phenomenon.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of a phenomenona large saucer and was evidently at a great height. John Martin seems to have been a true pioneer; seventy years later ano...</p></details>

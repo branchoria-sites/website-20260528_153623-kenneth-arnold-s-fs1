@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /cash-landrum-incident-1980/
 nav_short_title: Witnesses
 title: How Solid Is the Witness Timeline?
-title_full: How Solid Is the Witness Timeline? | Cash Landrum
+title_full: How Solid Is the Witness Timeline?
 display_title_short: Witnesses
 display_title: Witnesses
 heading_title: How Solid Is the Witness Timeline?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /illness-claims/
   short_title: Illness Claims
   heading_title: Was Cash Landrum Really Radiation Sickness?
-date: '2026-06-08 23:31:35 '
+date: '2026-06-11 13:19:18 '
 header:
   og_image: /assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-1-social.jpg
   preview_image: /assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illust
 ## Introduction
 
 The Cash/Landrum incident stands or falls on the reliability of three interconnected claims: where Betty Cash, Vickie Landrum and seven-year-old Colby Landrum were on the night of 29 December 1980, what they said they saw on FM 1485, and whether their timeline remained stable over time. Every later argument about helicopters, radiation, illness, military secrecy or UFOs depends on that sequence holding together. The witnesses consistently described a frightening roadside encounter involving a bright diamond-shaped object, extreme heat and multiple helicopters, but investigators and sceptics later argued that important details shifted or could not be independently fixed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cash–Landrum incident</span><span class="citation-popover-snippet">Cash–Landrum incident</span></span></span>
-
 
 <img src="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes the case unusually difficult is that the broad outline stayed remarkably consistent for years, while many of the specific details remained disputed. The trio agreed on the route, the fear, the heat and the helicopters. Yet questions persisted about the precise location, the exact timing, the number and type of aircraft, and even whether the object’s shape was clearly visible at the moment of the encounter. Those unresolved points became central not only to UFO debates but also to the failed federal lawsuit that followed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_Farm_to_Market_Roads_in_Texas_%281400%E2%80%931499%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of Farm to Market Roads in Texas (1400–1499</span><span class="citation-popover-snippet">List of Farm to Market Roads in Texas (1400–1499</span></span></span>
@@ -259,7 +258,6 @@ Most reconstructions place the core encounter somewhere along the FM 1485 and FM
 The witnesses described first noticing a distant light above the trees, initially assuming it was an ordinary aircraft approaching Houston Intercontinental Airport. Only later, after continuing along winding rural roads, did they conclude the light was unusually low, bright and stationary. That gradual escalation is one reason some researchers considered the account psychologically credible: the story did not begin with an immediate declaration of “a UFO”, but with uncertainty and reinterpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
 At the same time, sceptics pointed out that the timeline was reconstructed months later and filtered through repeated interviews, television appearances and UFO-investigator involvement. By the time formal Air Force interviews took place in August 1981, the story had already become nationally known within UFO circles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UzoOTCOUMKA" title="SHOCKING - THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY |" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer">SHOCKING - THE CASH LANDRUM INCIDENT | MOST CREDIBLE UFO CASE IN HISTORY |</a></p><p class="youtube-embed-meta">Channel: Amaze World &middot; Views: 10.3K &middot; Uploaded: January 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UzoOTCOUMKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UzoOTCOUMKA">Open on YouTube</a></p></div></div></div>
 
@@ -279,7 +277,6 @@ That detail immediately created problems. The CH-47 Chinook is primarily an Army
 
 Still, the helicopter element did receive limited partial corroboration. In 1982, a Dayton police officer and his wife reported seeing a group of Chinook-type helicopters in roughly the same region on the same night, although they did not report a UFO. Supporters argue this strengthens the witnesses’ broader account. Sceptics counter that helicopters in the region do not prove the existence of an anomalous craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
-
 <img src="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the exact roadside location remains disputed
 
@@ -294,7 +291,6 @@ The problem was compounded by the nature of rural Texas roads at the time. FM 14
 Another complication concerns direction of travel. Some reconstructions place the witnesses travelling southbound along the FM 1485/FM 2100 route, while others frame the movement differently depending on which interview or map is used. Small discrepancies in direction change the likely position of the object relative to intersections, tree lines and landmarks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente ovni Cash-Landrum</span><span class="citation-popover-snippet">Incidente ovni Cash-Landrum</span></span></span>
 
 The location dispute also affects the famous “road blocked by object” description. In some retellings, the object hovered directly over the roadway, forcing the car to stop. In others, it appears slightly off-road or above nearby trees. The emotional core of the story remained stable, but the physical geometry did not always remain exact across retellings.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j_3CfT4I9nk" title="Cash-Landrum UFO Encounter or Something Scarier?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer">Cash-Landrum UFO Encounter or Something Scarier?</a></p><p class="youtube-embed-meta">Channel: The Mysteria Archive &middot; Views: 4.6K &middot; Uploaded: December 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j_3CfT4I9nk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j_3CfT4I9nk">Open on YouTube</a></p></div></div></div>
 
@@ -312,7 +308,6 @@ The helicopter count also appears unstable. Twenty-three helicopters is the numb
 
 The emotional intensity of the encounter complicates credibility assessments. The witnesses did not present as detached observers carefully recording technical details. They described panic, confusion, prayer, heat and fear. Such conditions can strengthen sincerity while simultaneously weakening precision.
 
-
 <img src="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/CashLandrum_incident_7ad7d9_witness_timeline_d9cdc7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the timeline can and cannot establish
 
@@ -324,49 +319,89 @@ It does not conclusively identify the object. It does not prove military involve
 
 That ambiguity explains why the Cash/Landrum case remains influential decades later. The witness accounts are too detailed and emotionally compelling to dismiss casually, yet too uncertain and weakly corroborated to resolve cleanly. The FM 1485 timeline is therefore not simply a chronology. It is the fault line on which the entire case rests.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RVeOy9W8EUE" title="Terrifying Texas UFO Encounter - The Cash Landrum Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RVeOy9W8EUE" target="_blank" rel="noopener noreferrer">Terrifying Texas UFO Encounter - The Cash Landrum Incident</a></p><p class="youtube-embed-meta">Channel: Scary Mysteries &middot; Views: 48.5K &middot; Uploaded: June 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RVeOy9W8EUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RVeOy9W8EUE">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Solid Is the Witness Timeline?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Solid Is the Witness Timeline?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Cash Landrum incident guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Cash+Landrum+incident+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Useful for understanding why the presence of helicopters and military involvement in cases like Cash-Landrum complicates official explana...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Betty Cash guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Betty+Cash+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+        </h4>
+        <p class="fr-book-author">By Ross Coulthart</p>
+        
+        <p class="fr-book-desc">Contextualizes the Cash-Landrum case within a history of encounters involving potential military hardware or secret aerospace programs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Vickie Landrum guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Vickie+Landrum+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches the critical methodology for reconstructing timelines and evaluating how witness narratives can drift away from documented facts...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cash-Landrum UFO Incident on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cash-Landrum UFO Incident">The Cash-Landrum UFO Incident</a>
+        </h4>
+        <p class="fr-book-author">By John F. Schuessler</p>
+        
+        <p class="fr-book-desc">Provides the most thorough reconstruction of the witness route, restaurant stop, and the reported time window of the 1980 incident.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Cash-Landrum+UFO+Incident+by+John+F.+Schuessler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -403,15 +438,15 @@ That ambiguity explains why the Cash/Landrum case remains influential decades la
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -419,15 +454,15 @@ That ambiguity explains why the Cash/Landrum case remains influential decades la
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -435,15 +470,15 @@ That ambiguity explains why the Cash/Landrum case remains influential decades la
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -451,15 +486,15 @@ That ambiguity explains why the Cash/Landrum case remains influential decades la
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -467,7 +502,7 @@ That ambiguity explains why the Cash/Landrum case remains influential decades la
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-f77835-how-solid-is-the-witness-timeline-cash-landrum-incident-1980-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-solid-is-the-witness-timeline-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-solid-is-the-witness-timeline-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -683,72 +718,72 @@ That ambiguity explains why the Cash/Landrum case remains influential decades la
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cash–Landrum incident  
-   Link: [https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident](https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: List of Farm to Market Roads in Texas (1400–1499)  
-   Link: [https://en.wikipedia.org/wiki/List_of_Farm_to_Market_Roads_in_Texas_%281400%E2%80%931499%29](https://en.wikipedia.org/wiki/List_of_Farm_to_Market_Roads_in_Texas_%281400%E2%80%931499%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_Farm_to_Market_Roads_in_Texas_%281400%E2%80%931499%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Farm_to_Market_Roads_in_Texas_%281400%E2%80%931499%29</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Incidente ovni Cash-Landrum  
-   Link: [https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum](https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum)  
+   Link: <a href="https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_ovni_Cash-Landrum</a>  
 
 ### Additional References
 
 4. <a id="endnote-4"></a>
    Source: science.howstuffworks.com  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm](https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cash-landrum-ufo-incident.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cash-Landrum UFO IncidentThe Cash-Landrum case is unique due to its detailed witness accounts and the severe health effects reported afte...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: stateoftheunknown.com  
-   Link: [https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47](https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47)  
+   Link: <a href="https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47" target="_blank" rel="noopener noreferrer nofollow">https://stateoftheunknown.com/episode/the-cash-landrum-incident-the-night-the-sky-burned-over-texas-and-what-it-did-to-them-ep-47</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash–Landrum Incident | The Night the Sky Burned Over...24 Mar 2026 — On December 29, 1980, three witnesses driving along a rural ro...</p></details>
    Published: December 29, 1980  
 
 6. <a id="endnote-6"></a>
    Source: spreaker.com  
-   Link: [https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042](https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042)  
+   Link: <a href="https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/the-cash-landrum-incident-the-ufo-case-that-took-the-u-s-government-to-court--71677042</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: The UFO Case That Took...28 Apr 2026 — On December 29, 1980, Betty Cash, Vickie Landrum, and seven-year-old C...</p></details>
    Published: December 29, 1980  
 
 7. <a id="endnote-7"></a>
    Source: jimharold.com  
-   Title: the [cash landrum incident](&#123;&#123; 'cash-landrum-incident-1980/' | relative_url &#125;&#125;) a case for critical review micah hanks reports  
-   Link: [https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/](https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/)  
+   Title: the cash landrum incident a case for critical review micah hanks reports  
+   Link: <a href="https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/the-cash-landrum-incident-a-case-for-critical-review-micah-hanks-reports/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Case For Critical Review?7 Oct 2015 — Here, we are presented with a tale of three witnesses to some strange...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/](https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/)  
+   Link: <a href="https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-cash-landrum-incident-a-night-of-fire-and-mysterydecember-29-1980-betty-cash/1447818930333809/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Cash-Landrum Incident: A Night of Fire and Mystery...The witnesses counted 25 helicopters in all, with most of them being Chinooks...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: the unsolved cashlandrum incident of 1980 two  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/](https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/kdzdoh/the_unsolved_cashlandrum_incident_of_1980_two/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Cash-Landrum Incident of 1980, two women...Two women and a child receive radiation poisoning after witnessing military heli...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/](https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/7mv73c/unexplained_phenomena_37_years_ago_today_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>om the United States in 1980, which witnesses insist was...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: does disclosure mean that we will we finally  
-   Link: [https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/](https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/150wuv1/does_disclosure_mean_that_we_will_we_finally/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>learn what...The Unsolved Cash-Landrum Incident of 1980, two women and a child receive radiation poisoning after witnessing military hel...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: discoveryuk.com  
    Title: highway encounter the cash landrum incident  
-   Link: [https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/](https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/highway-encounter-the-cash-landrum-incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Highway Encounter: The Cash-Landrum Incident14 Apr 2026 — Was there a diamond shaped UFO over rural Texas in 1980? This is the astonishin...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/C3QU0u9LKy_/](https://www.instagram.com/reel/C3QU0u9LKy_/)  
+   Link: <a href="https://www.instagram.com/reel/C3QU0u9LKy_/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3QU0u9LKy_/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>object like an escort. Within hours, all three were sick. Betty...</p></details>

@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /magenta-italy-crash-1933/
 nav_short_title: Cabinet RS 33
 title: Who Was Behind Cabinet RS/33 and the Alleged Study of the Object?
-title_full: Who Was Behind Cabinet RS/33 and the Alleged Study of the Object? | Magenta Crash1933
+title_full: Who Was Behind Cabinet RS/33 and the Alleged Study of the Object?
 display_title_short: Cabinet RS 33
 display_title: Cabinet RS 33
 heading_title: Who Was Behind Cabinet RS/33 and the Alleged Study of the Object?
@@ -197,20 +197,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Magenta Crash1933
+parent_title: Magenta Crash 1933
 parent_permalink: /magenta-italy-crash-1933/
-parent_nav_short_title: Magenta Crash1933
+parent_nav_short_title: Magenta Crash 1933
 parent_heading_title: What Really Happened During the Magenta Italy UFO Crash?
 ancestor_links:
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 breadcrumb_links:
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 sibling_links:
 - basename: Magenta_Italy_crash_5ee1aa_magenta_documentary_ae06ee
   title: Evidence & Documents | What Really Happened During the Magenta Italy UFO Crash?
@@ -224,16 +224,16 @@ sibling_links:
   heading_title: How Did the Magenta Object Allegedly Reach the US?
 up_link:
   basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 next_link:
   basename: Magenta_Italy_crash_5ee1aa_magenta_documentary_ae06ee
   title: Evidence & Documents | What Really Happened During the Magenta Italy UFO Crash?
   permalink: /evidence-documents/
   short_title: Evidence & Documents
   heading_title: What Evidence Supports the Magenta Crash Claims?
-date: '2026-06-08 23:41:43 '
+date: '2026-06-11 13:24:39 '
 header:
   og_image: /assets/images/Magenta_Italy_crash_5ee1aa_cabinet_rs33_operati_1b86b0-Illustration-1-social.jpg
   preview_image: /assets/images/Magenta_Italy_crash_5ee1aa_cabinet_rs33_operati_1b86b0-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Magenta_Italy_crash_5ee1aa_cabinet_rs33_operati_1b86b0-Ill
 
 ## Introduction
 
-The **[Magenta Italy crash]({{ 'magenta-italy-crash-1933/' | relative_url }}) (1933)** narrative includes a recurring but highly contested element: the existence and operations of a secret Fascist‑era research body known as *Cabinet RS/33* (Gabinetto RS/33). Proponents claim this group was created by Benito Mussolini’s government to investigate and study an unconventional aerial object allegedly recovered near Magenta, Lombardy, in 1933. This page assesses the evidence and disputes surrounding RS/33’s purported formation, leadership, activities, and historical footprint, grounding analysis in available documentation and expert commentary.
-
+The **Magenta Italy crash (1933)** narrative includes a recurring but highly contested element: the existence and operations of a secret Fascist‑era research body known as *Cabinet RS/33* (Gabinetto RS/33). Proponents claim this group was created by Benito Mussolini’s government to investigate and study an unconventional aerial object allegedly recovered near Magenta, Lombardy, in 1933. This page assesses the evidence and disputes surrounding RS/33’s purported formation, leadership, activities, and historical footprint, grounding analysis in available documentation and expert commentary.
 
 <img src="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_cabinet_rs33_operati_1b86b0-Illustration-1-dark.svg" | relative_url }}" alt="Cabinet RS 33 illustration 1" data-theme-src-dark="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_cabinet_rs33_operati_1b86b0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_cabinet_rs33_operati_1b86b0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Claims About Cabinet RS/33’s Formation and Authorisation
@@ -256,7 +255,6 @@ Proponents locate RS/33’s authority at the highest levels of the regime: in th
 
 The existence of RS/33 rests on the so‑called *Fascist UFO Files*, a batch of telegrams, letters, and memoranda received by Italian ufologists **Roberto Pinotti** and **Alfredo Lissoni** in the 1990s.¹ These include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Telegram drafts bearing Mussolini’s name instructing press censorship and secrecy.³
@@ -268,7 +266,6 @@ The existence of RS/33 rests on the so‑called *Fascist UFO Files*, a batch of 
 Some advocates have pointed to *forensic dating* of the ink and paper as supporting 1930s origin, though full expert reports have not been publicly released.³
 
 Despite these claims, mainstream historians and sceptics emphasise that **no independent archival trail from the Mussolini era confirms RS/33’s existence**. The supposed fascist documents are known only from copies and second‑hand circulation; there is no verified entry in official Italian government archives for a cell by this name.¹⁻⁴ This absence of corroboration is central to historians’ caution about treating RS/33 as an established historical body.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eKZ2U3lkJ9o" title="Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer">Secret UFO Files of Fascist Italy | Mussolini&#x27;s UFO Cabinet RS/33 Revealed | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 4.4K &middot; Uploaded: August 2025 &middot; Length: 1 hour 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eKZ2U3lkJ9o">Open on YouTube</a></p></div></div></div>
 
@@ -284,14 +281,12 @@ However, there is **no independently verified contemporary documentation** placi
 
 Versions of the story circulating in ufological literature sometimes list additional names — engineers, mathematicians, and academics — purportedly involved with RS/33.¹ Yet these lists tend to vary between accounts and are not supported by primary archival evidence. Without verifiable personnel rosters or institutional references in fascist government records, the roster of RS/33 remains speculative.
 
-
 <img src="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_cabinet_rs33_operati_1b86b0-Illustration-2-dark.svg" | relative_url }}" alt="Cabinet RS 33 illustration 2" data-theme-src-dark="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_cabinet_rs33_operati_1b86b0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_cabinet_rs33_operati_1b86b0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Descriptions of RS/33’s Operation and Mission
 
 In popular accounts of the Magenta case, Cabinet RS/33 is described as a **covert multidisciplinary research body** tasked with examining recovered wreckage, analysing materials, and attempting to understand unconventional propulsion or construction.¹ Supporters of the narrative liken its mission to mid‑century “crash‑retrieval” programmes, suggesting early experimentation with reverse engineering.²
 
 The proposed operational arc of RS/33 encompasses:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +298,6 @@ The proposed operational arc of RS/33 encompasses:
 
 Sceptical analyses challenge the entire operational narrative on two fronts: the absence of verifiable records of RS/33 meetings or reports, and the lack of any authenticated government documentation — beyond copies of uncertain provenance — detailing its mandate or findings.¹⁻⁴
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ri8BHxcJYfw" title="The 1933 UFO Crash in Magenta, Italy w/ Michael Armentor | XK Podcast Ep. 013" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ri8BHxcJYfw" target="_blank" rel="noopener noreferrer">The 1933 UFO Crash in Magenta, Italy w/ Michael Armentor | XK Podcast Ep. 013</a></p><p class="youtube-embed-meta">Channel: Xpanded Knowledge &middot; Views: 253 &middot; Uploaded: October 2025 &middot; Length: 1 hour 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ri8BHxcJYfw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ri8BHxcJYfw">Open on YouTube</a></p></div></div></div>
 
 ## Institutional and Historical Context Skepticism
@@ -311,7 +305,6 @@ Sceptical analyses challenge the entire operational narrative on two fronts: the
 Experts emphasise that even if Mussolini’s regime had been interested in secret weapons or cutting‑edge aviation research — Italy was, after all, engaged in significant aeronautical development in the 1930s — there is **no indication in official records of a body like RS/33 tied to unexplained aerial objects.**¹⁻⁴ Historians familiar with fascist administration structures note that regime research often left bureaucratic traces — ministerial orders, budgets, correspondence — within existing archival collections, which are absent for RS/33.
 
 Critics argue that the notion of an ultra‑secret committee reporting directly to Mussolini contradicts the fascist state’s documented organisational complexity, which rarely operated completely outside formal channels.¹⁻⁴
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9t4J5h1Orxg" title="ROBERTO PINOTTI il più grande esperto di UFO al mondo. 1933 UFO caduto in Italia e portato in USA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9t4J5h1Orxg" target="_blank" rel="noopener noreferrer">ROBERTO PINOTTI il più grande esperto di UFO al mondo. 1933 UFO caduto in Italia e portato in USA</a></p><p class="youtube-embed-meta">Channel: RedRonnie &middot; Views: 49.9K &middot; Uploaded: March 2026 &middot; Length: 2 hours 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9t4J5h1Orxg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9t4J5h1Orxg">Open on YouTube</a></p></div></div></div>
 
@@ -329,48 +322,89 @@ Without independent confirmation from fascist era archives or corroborating test
 
 ⁴ Critical assessments highlight the lack of independent archival evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepijnvanerp.nl">[pepijnvanerp.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepijnvanerp.nl</span><span class="citation-popover-title">Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp</span><span class="citation-popover-snippet">June 6, 2023...</span><span class="citation-popover-meta">Published: June 6, 2023</span></span></span>
 
-
 <img src="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_cabinet_rs33_operati_1b86b0-Illustration-3-dark.svg" | relative_url }}" alt="Cabinet RS 33 illustration 3" data-theme-src-dark="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_cabinet_rs33_operati_1b86b0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_cabinet_rs33_operati_1b86b0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Who Was Behind Cabinet RS 33 and the Alleged Study of the Object?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Who Was Behind Cabinet RS 33 and the Alleged Study of the Object?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Fascist UFO files guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Fascist+UFO+files+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Details the structural traits of how mid-century defense regimes handled unconventional aircraft research and secret cabinet orders.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Catalogs the corporate claims regarding &#x27;Gabinetto RS/33&#x27;, reviewing the purported role of key figures like Guglielmo Marconi.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Details why political protection assertions and secret orders require robust archival provenance to count as historical evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Examines why the name &#x27;Special Researches 1933&#x27; rests almost entirely on anonymous files rather than verified state archives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -407,15 +441,15 @@ Without independent confirmation from fascist era archives or corroborating test
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -423,15 +457,15 @@ Without independent confirmation from fascist era archives or corroborating test
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -439,15 +473,15 @@ Without independent confirmation from fascist era archives or corroborating test
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -455,15 +489,15 @@ Without independent confirmation from fascist era archives or corroborating test
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -471,7 +505,7 @@ Without independent confirmation from fascist era archives or corroborating test
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cabinet-rs-33-who-was-behind-cabinet-rs-33-and-the-alleged-study-of-the-object-magenta-italy-cra-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -687,107 +721,107 @@ Without independent confirmation from fascist era archives or corroborating test
 1. <a id="endnote-1"></a>
    Source: coloradomufon.org  
    Title: the magenta case italys 1933 ufo mystery  
-   Link: [https://www.coloradomufon.org/the-magenta-case-italys-1933-ufo-mystery/](https://www.coloradomufon.org/the-magenta-case-italys-1933-ufo-mystery/)  
+   Link: <a href="https://www.coloradomufon.org/the-magenta-case-italys-1933-ufo-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://www.coloradomufon.org/the-magenta-case-italys-1933-ufo-mystery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Colorado MUFONThe Magenta Case: First Reported UFO Crash – Colorado MUFONMay 5, 2026...</p></details>
    Published: May 5, 2026  
 
 2. <a id="endnote-2"></a>
    Source: pepijnvanerp.nl  
    Title: Mussolini’s UFO – Cabinet RS/33 – Pepijn van Erp  
-   Link: [https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/](https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/)  
+   Link: <a href="https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/" target="_blank" rel="noopener noreferrer nofollow">https://www.pepijnvanerp.nl/2023/06/mussolinis-ufo-cabinet-rs-33/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>June 6, 2023...</p></details>
    Published: June 6, 2023  
 
 3. <a id="endnote-3"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9t4J5h1Orxg](https://www.youtube.com/watch?v=9t4J5h1Orxg)  
+   Link: <a href="https://www.youtube.com/watch?v=9t4J5h1Orxg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9t4J5h1Orxg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gabinetto RS 33...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: Gabinetto RS 33  
-   Link: [https://www.youtube.com/watch?v=FNIiPGdY238](https://www.youtube.com/watch?v=FNIiPGdY238)  
+   Link: <a href="https://www.youtube.com/watch?v=FNIiPGdY238" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FNIiPGdY238</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters: A Complete Timeline &amp; Comprehensive UFO Adjacent Rabbit Hole Guide...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ufofiles.net  
-   Link: [https://ufofiles.net/the-1933-magenta-case-italys-pre-roswell-crash-retrieval-claim-what-we-actually-know/](https://ufofiles.net/the-1933-magenta-case-italys-pre-roswell-crash-retrieval-claim-what-we-actually-know/)  
+   Link: <a href="https://ufofiles.net/the-1933-magenta-case-italys-pre-roswell-crash-retrieval-claim-what-we-actually-know/" target="_blank" rel="noopener noreferrer nofollow">https://ufofiles.net/the-1933-magenta-case-italys-pre-roswell-crash-retrieval-claim-what-we-actually-know/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO FilesThe 1933 “Magenta” Case: Italy’s Pre-Roswell Crash-Retrieval Claim—What We Actually Know - The UFO FilesSeptember 29, 2025...</p></details>
    Published: September 29, 2025  
 
 6. <a id="endnote-6"></a>
    Source: ufopedia.it  
    Title: Gabinetto RS/33  
-   Link: [https://www.ufopedia.it/Gabinetto_RS/33.html](https://www.ufopedia.it/Gabinetto_RS/33.html)  
+   Link: <a href="https://www.ufopedia.it/Gabinetto_RS/33.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufopedia.it/Gabinetto_RS/33.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vai a: navigazione, ricerca Il Gabinetto RS/33 è secondo un gruppo di ufologi italiani una presunta struttura creata da Benito Mussolini...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: alt3rnativa.altervista.org  
    Title: gabinetto rs33  
-   Link: [https://alt3rnativa.altervista.org/gabinetto-rs33/](https://alt3rnativa.altervista.org/gabinetto-rs33/)  
+   Link: <a href="https://alt3rnativa.altervista.org/gabinetto-rs33/" target="_blank" rel="noopener noreferrer nofollow">https://alt3rnativa.altervista.org/gabinetto-rs33/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OCCULTATO A VARESE A CAPO DEL GABINETTO RS/33 MUSSOLINI SCELSE GUGLIELMO MARCONI. Durò sette anni l’attività del Gabinetto RS/...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: infobae.com  
-   Link: [https://www.infobae.com/america/mundo/2023/07/03/un-ufologo-italiano-aseguro-que-el-primer-accidente-de-un-ovni-del-mundo-ocurrio-en-italia-en-1933-y-mussolini-busco-ocultarlo//](https://www.infobae.com/america/mundo/2023/07/03/un-ufologo-italiano-aseguro-que-el-primer-accidente-de-un-ovni-del-mundo-ocurrio-en-italia-en-1933-y-mussolini-busco-ocultarlo//)  
+   Link: <a href="https://www.infobae.com/america/mundo/2023/07/03/un-ufologo-italiano-aseguro-que-el-primer-accidente-de-un-ovni-del-mundo-ocurrio-en-italia-en-1933-y-mussolini-busco-ocultarlo//" target="_blank" rel="noopener noreferrer nofollow">https://www.infobae.com/america/mundo/2023/07/03/un-ufologo-italiano-aseguro-que-el-primer-accidente-de-un-ovni-del-mundo-ocurrio-en-italia-en-1933-y-mussolini-busco-ocultarlo//</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Un ufólogo italiano aseguró que el primer accidente de un OVNI del mundo ocurrió en Italia en 1933 y Mussolini buscó ocultarlo - InfobaeN...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: infobae.com  
-   Link: [https://www.infobae.com/america/mundo/2023/07/03/un-ufologo-italiano-aseguro-que-el-primer-accidente-de-un-ovni-del-mundo-ocurrio-en-italia-en-1933-y-mussolini-busco-ocultarlo/?outputType=amp-type](https://www.infobae.com/america/mundo/2023/07/03/un-ufologo-italiano-aseguro-que-el-primer-accidente-de-un-ovni-del-mundo-ocurrio-en-italia-en-1933-y-mussolini-busco-ocultarlo/?outputType=amp-type)  
+   Link: <a href="https://www.infobae.com/america/mundo/2023/07/03/un-ufologo-italiano-aseguro-que-el-primer-accidente-de-un-ovni-del-mundo-ocurrio-en-italia-en-1933-y-mussolini-busco-ocultarlo/?outputType=amp-type" target="_blank" rel="noopener noreferrer nofollow">https://www.infobae.com/america/mundo/2023/07/03/un-ufologo-italiano-aseguro-que-el-primer-accidente-de-un-ovni-del-mundo-ocurrio-en-italia-en-1933-y-mussolini-busco-ocultarlo/?outputType=amp-type</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Un ufólogo italiano aseguró que el primer accidente de un OVNI del mundo ocurrió en Italia en 1933 y Mussolini buscó ocultarlo - InfobaeJ...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: newsroom24.it  
    Title: il mistero dellufo di mussolini nel 1933 il primo recupero di un ufo al mondo  
-   Link: [https://newsroom24.it/notizia/2026/02/25/il-mistero-dellufo-di-mussolini-nel-1933-il-primo-recupero-di-un-ufo-al-mondo](https://newsroom24.it/notizia/2026/02/25/il-mistero-dellufo-di-mussolini-nel-1933-il-primo-recupero-di-un-ufo-al-mondo)  
+   Link: <a href="https://newsroom24.it/notizia/2026/02/25/il-mistero-dellufo-di-mussolini-nel-1933-il-primo-recupero-di-un-ufo-al-mondo" target="_blank" rel="noopener noreferrer nofollow">https://newsroom24.it/notizia/2026/02/25/il-mistero-dellufo-di-mussolini-nel-1933-il-primo-recupero-di-un-ufo-al-mondo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Il Mistero dell’UFO di Mussolini, nel 1933 il primo recupero di un Ufo al mondo - Newsroom ItaliaFebruary 25, 2026 — IL MISTERO DELL’UFO...</p></details>
    Published: February 25, 2026  
 
 11. <a id="endnote-11"></a>
    Source: spookyvalley.com  
-   Link: [https://spookyvalley.com/events/magenta-italy-ufo-crash-1933/](https://spookyvalley.com/events/magenta-italy-ufo-crash-1933/)  
+   Link: <a href="https://spookyvalley.com/events/magenta-italy-ufo-crash-1933/" target="_blank" rel="noopener noreferrer nofollow">https://spookyvalley.com/events/magenta-italy-ufo-crash-1933/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mussolini&#x27;s government reportedly formed RS/33, a secret cabinet overseen by Guglielmo Marconi, to...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: fringearchives.com  
    Title: 1933 magenta ufo incident the alleged first ufo crash  
-   Link: [https://www.fringearchives.com/1933-magenta-ufo-incident-the-alleged-first-ufo-crash/](https://www.fringearchives.com/1933-magenta-ufo-incident-the-alleged-first-ufo-crash/)  
+   Link: <a href="https://www.fringearchives.com/1933-magenta-ufo-incident-the-alleged-first-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.fringearchives.com/1933-magenta-ufo-incident-the-alleged-first-ufo-crash/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1933 Magenta UFO Incident: The Alleged First UFO CrashMay 28, 2025 — 1933 MAGENTA UFO INCIDENT: THE ALLEGED FIRST UFO CRASH UFOs May 28...</p></details>
    Published: May 28, 2025  
 
 13. <a id="endnote-13"></a>
    Source: theufochronicles.com  
    Title: the alleged 1933 italian ufo crash  
-   Link: [https://www.theufochronicles.com/2023/08/the-alleged-1933-italian-ufo-crash.html](https://www.theufochronicles.com/2023/08/the-alleged-1933-italian-ufo-crash.html)  
+   Link: <a href="https://www.theufochronicles.com/2023/08/the-alleged-1933-italian-ufo-crash.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2023/08/the-alleged-1933-italian-ufo-crash.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Under Scrutiny – Fascist UFO FilesAugust 31, 2023 — THURSDAY, AUGUST 31, 2023 THE ALLEGED 1933 ITALIAN UFO CRASH UNDER SCRUTINY – FASCIST...</p></details>
    Published: August 31, 2023  
 
 14. <a id="endnote-14"></a>
    Source: ufo.com.br  
    Title: documentos comprovam queda nave  
-   Link: [https://ufo.com.br/documentos-comprovam-queda-nave/](https://ufo.com.br/documentos-comprovam-queda-nave/)  
+   Link: <a href="https://ufo.com.br/documentos-comprovam-queda-nave/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/documentos-comprovam-queda-nave/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Documentos extraordinários comprovam queda de nave alienígena em 1933 - Revista UFOJuly 4, 2023 — DOCUMENTOS EXTRAORDINÁRIOS COMPROVAM QU...</p></details>
    Published: July 4, 2023  
 
 15. <a id="endnote-15"></a>
    Source: luxaliena.it  
    Title: Roberto Pinotti, esponente di  
-   Link: [https://www.luxaliena.it/dossier/ufo-di-mussolini/](https://www.luxaliena.it/dossier/ufo-di-mussolini/)  
+   Link: <a href="https://www.luxaliena.it/dossier/ufo-di-mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://www.luxaliena.it/dossier/ufo-di-mussolini/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>L&#x27;UFO di Mussolini (Magenta 1933): fatti, documenti, testimonianze | Lux AlienaDecember 25, 2025 — Dossier Casi UFO/UAP italiani, UFO Cra...</p></details>
    Published: December 25, 2025  
 
 16. <a id="endnote-16"></a>
    Source: newparadigminstitute.org  
    Title: case study magenta italy 1933  
-   Link: [https://newparadigminstitute.org/learn/library/case-study-magenta-italy-1933](https://newparadigminstitute.org/learn/library/case-study-magenta-italy-1933)  
+   Link: <a href="https://newparadigminstitute.org/learn/library/case-study-magenta-italy-1933" target="_blank" rel="noopener noreferrer nofollow">https://newparadigminstitute.org/learn/library/case-study-magenta-italy-1933</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Paradigm InstituteAugust 11, 2025 — Image: Magenta Italy Case Study New Learn CASE STUDY: THE ALLEGED MAGENTA, ITALY UFO ENCOUNTER OF...</p></details>
    Published: August 11, 2025  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Secret UFO Files of Fascist Italy | Mussolini's UFO Cabinet RS/33 Revealed  
-   Link: [https://www.youtube.com/watch?v=eKZ2U3lkJ9o](https://www.youtube.com/watch?v=eKZ2U3lkJ9o)  
+   Link: <a href="https://www.youtube.com/watch?v=eKZ2U3lkJ9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eKZ2U3lkJ9o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ROBERTO PINOTTI il più grande esperto di UFO al mondo. 1933 UFO caduto in Italia e portato in USA...</p></details>

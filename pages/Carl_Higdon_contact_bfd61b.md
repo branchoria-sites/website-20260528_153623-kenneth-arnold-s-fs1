@@ -360,9 +360,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -396,9 +396,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -436,9 +436,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Cash Landrum
   permalink: /cash-landrum-incident-1980/
   short_title: Cash Landrum
-date: '2026-06-08 23:31:57 '
+date: '2026-06-11 13:19:27 '
 header:
   og_image: /assets/images/Carl_Higdon_contact_bfd61b-overview-social.jpg
   preview_image: /assets/images/Carl_Higdon_contact_bfd61b-overview.webp
@@ -760,14 +760,12 @@ image: /assets/images/Carl_Higdon_contact_bfd61b-overview-social.jpg
 
 Everett “Carl” Higdon Jr. was a Rawlins, Wyoming oil-field foreman, a Korean War Air Force veteran, married with children, and described in later local reporting as a capable outdoorsman and experienced worker. On 25 October 1974, he borrowed a company truck, drove south towards McCarty Canyon in the Medicine Bow National Forest area, parked when the road became difficult, and continued on foot. Around 4 p.m., he said he saw five elk, raised a 7 mm magnum rifle, and fired at the bull. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span></span></span>
 
-
 <img src="{{ "/assets/images/Carl_Higdon_contact_bfd61b-overview.webp" | relative_url }}" alt="Overview image for Carl Higdon contact 1974" loading="eager" decoding="sync" fetchpriority="high">
 The first oddity in the story is the shot itself. Higdon later recalled that he felt no normal recoil and heard no proper rifle report; the bullet appeared to leave the gun in slow motion and fall to the ground roughly 50 feet ahead of him. His wife, Margery, later found a flattened, turned-out bullet in his clothing. Local and later accounts say ballistic experts could not explain the damage, although publicly accessible summaries rarely provide the full chain of custody, the laboratory reports, or enough technical detail to judge that claim independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span></span></span>
 
 The second core feature is missing time. Higdon’s next clear memory, in the basic public chronology, was being found at about 11:30 p.m. or shortly before midnight, dazed and incoherent, in his truck. He was taken to Carbon County Memorial Hospital, where accounts describe him as disoriented, unable at first to give his name or recognise his wife, with red, watering, light-sensitive eyes and poor equilibrium. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span></span></span>
 
 A third striking claim concerns the truck. Later retellings state that it was found roughly three miles from where Higdon had parked it, in rough ground that a two-wheel-drive vehicle should not easily have reached, with no obvious tyre tracks leading to it. This is one of the most important corroboration claims because it does not depend solely on what Higdon remembered; however, the strength of that point depends on details often missing in popular summaries: who mapped the original parking place, who inspected the route, what the ground conditions were, and whether any contemporaneous sheriff, search-party, or insurance documentation survives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SDx0uMPivJY" title="The Alien Abduction of Carl Higdon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SDx0uMPivJY" target="_blank" rel="noopener noreferrer">The Alien Abduction of Carl Higdon</a></p><p class="youtube-embed-meta">Channel: My Dark Path &middot; Views: 313.5K &middot; Uploaded: December 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SDx0uMPivJY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SDx0uMPivJY">Open on YouTube</a></p></div></div></div>
 
@@ -783,7 +781,6 @@ That gives the case a documented research trail, but not a simple evidential upg
 
 For the Higdon case, that means the basic field incident and the later “planet journey” should not be weighed equally. The stronger questions are: Was Higdon genuinely found disoriented? Was the truck in an anomalous position? Was the bullet physically unusual in a way that could not be produced conventionally? The weaker questions are the interstellar distance, tower, examination room, and detailed dialogue with Ausso One, because those details rely heavily on recovered or elaborated memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gideonreid.co.uk/carl-higdons-trip-up-above/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gideonreid.co.uk">[Gideon Reid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gideonreid.co.uk</span><span class="citation-popover-title">Gideon Reid Carl Higdon’s Trip Up Above</span><span class="citation-popover-snippet">Gideon Reid Carl Higdon’s Trip Up Above</span></span></span>
 
-
 <img src="{{ "/assets/images/Carl_Higdon_contact_bfd61b-Illustration-1-dark.svg" | relative_url }}" alt="Carl Higdon contact 1974 illustration 1" data-theme-src-dark="{{ "/assets/images/Carl_Higdon_contact_bfd61b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Carl_Higdon_contact_bfd61b-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The best evidence and its limits
 
@@ -795,7 +792,6 @@ The medical claims are also difficult to grade. Accounts say Higdon was disorien
 
 The truck-location claim may be the most practically testable element, but it is often repeated without the underlying terrain record. If a two-wheel-drive truck really appeared in a place it could not have reached, with no tracks, that would be a strong anomaly. If the route was merely difficult, if there were alternate access points, or if later memory compressed the search geography, the evidential weight drops sharply. The accessible record leaves this as a serious but unresolved corroboration point rather than a settled fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cowboystatedaily.com">[Cowboy State Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cowboystatedaily.com</span><span class="citation-popover-title">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span><span class="citation-popover-snippet">alien abductions of 2 wyoming men in the 1970s remain unexplainable</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gnC_jjAenFg" title="Man&#x27;s Shocking ALIEN ABDUCTION from Wyoming in 1974" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gnC_jjAenFg" target="_blank" rel="noopener noreferrer">Man&#x27;s Shocking ALIEN ABDUCTION from Wyoming in 1974</a></p><p class="youtube-embed-meta">Channel: Weird World &middot; Views: 46.8K &middot; Uploaded: August 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gnC_jjAenFg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gnC_jjAenFg">Open on YouTube</a></p></div></div></div>
 
 ## Official investigation versus private UFO research
@@ -805,7 +801,6 @@ A common misunderstanding is to treat every well-known American UFO case as if i
 That does not mean no one investigated Higdon. It means the known research trail is mainly private, local, journalistic, and ufological rather than a formal Air Force case file. The key named researcher was R. Leo Sprinkle, with references also to investigators Rick Kenyon and Robert Nantkes in summaries of the case literature. Sprinkle’s materials and related UFO conference recordings are represented in archival holdings, including a 1980 “Rocky Mountain UFO Conference on UFO Investigations” item mentioning Carl Higdon and Pat McGuire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span>
 
 This distinction matters. A private investigator can preserve testimony, organise interviews, and gather impressions, but a private case file does not carry the same evidential status as a transparent official investigation with published primary documents, laboratory appendices, and independent review. Conversely, the lack of a Blue Book file after 1969 should not be misread as debunking the incident; it mainly reflects the administrative reality that the U.S. Air Force had already ended that programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Carl_Higdon_contact_bfd61b-Illustration-2-dark.svg" | relative_url }}" alt="Carl Higdon contact 1974 illustration 2" data-theme-src-dark="{{ "/assets/images/Carl_Higdon_contact_bfd61b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Carl_Higdon_contact_bfd61b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sceptical readings: hoax, altered state, and cultural borrowing
@@ -818,7 +813,6 @@ A third line of sceptical analysis looks at science-fiction parallels. Writer Gi
 
 That cultural-borrowing argument is strongest against the later, story-like architecture of the case, not necessarily against the initial episode. Many UFO cases contain a mixture of immediate experience, later interpretation, investigator influence, and cultural vocabulary. Higdon’s case is especially vulnerable to this layered reading because it combines a physical outdoor incident with regression-derived cosmic travel details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gideonreid.co.uk/carl-higdons-trip-up-above/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gideonreid.co.uk">[Gideon Reid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gideonreid.co.uk</span><span class="citation-popover-title">Gideon Reid Carl Higdon’s Trip Up Above</span><span class="citation-popover-snippet">Gideon Reid Carl Higdon’s Trip Up Above</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zXvwYBEZH2I" title="Then and now Carl Higdon talks about his alien abduction during hunting, Wyoming, October 25, 1974" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zXvwYBEZH2I" target="_blank" rel="noopener noreferrer">Then and now Carl Higdon talks about his alien abduction during hunting, Wyoming, October 25, 1974</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 57.8K &middot; Uploaded: August 2022 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zXvwYBEZH2I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zXvwYBEZH2I">Open on YouTube</a></p></div></div></div>
 
 ## Why the case still holds attention
@@ -829,48 +823,89 @@ Its weakness is the same thing that makes it memorable: the narrative grows more
 
 For a case dossier, the Higdon contact belongs beside other close-encounter and abduction branches not because it proves alien contact, but because it shows how a UFO case can become evidentially complicated. It has more texture than a lone light in the sky, yet it also demonstrates why chronology, source provenance, hypnosis, and chain of custody are decisive. A fair assessment should neither dismiss Higdon as merely foolish nor accept the story whole. The defensible conclusion is narrower: something troubling appears to have happened to Carl Higdon during an elk hunt on 25 October 1974, but the available public evidence does not establish that the cause was an extraterrestrial abduction.
 
-
 <img src="{{ "/assets/images/Carl_Higdon_contact_bfd61b-Illustration-3-dark.svg" | relative_url }}" alt="Carl Higdon contact 1974 illustration 3" data-theme-src-dark="{{ "/assets/images/Carl_Higdon_contact_bfd61b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Carl_Higdon_contact_bfd61b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened in Mc Carty Canyon?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened in Mc Carty Canyon?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Sets the governing commercial and informational context for the official military disclosure process concerning unidentified drone encoun...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+        </h4>
+        <p class="fr-book-author">By Ross Coulthart</p>
+        
+        <p class="fr-book-desc">Provides broad context on the 2019-era incidents and the ongoing intelligence debate regarding naval security and unmanned aerial systems.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Movie EVERYONE Is Hillbillying About on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Movie EVERYONE Is Hillbillying About">The UFO Movie EVERYONE Is Hillbillying About</a>
+        </h4>
+        <p class="fr-book-author">By Mick West</p>
+        
+        
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Movie EVERYONE Is Hillbillying About</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -907,15 +942,15 @@ For a case dossier, the Higdon contact belongs beside other close-encounter and 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -923,15 +958,15 @@ For a case dossier, the Higdon contact belongs beside other close-encounter and 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -939,15 +974,15 @@ For a case dossier, the Higdon contact belongs beside other close-encounter and 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -955,15 +990,15 @@ For a case dossier, the Higdon contact belongs beside other close-encounter and 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -971,7 +1006,7 @@ For a case dossier, the Higdon contact belongs beside other close-encounter and 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="carl-higdon-contact-1974-what-really-happened-in-mc-carty-canyon-ufo-poster-series-television-gerry-anderson-band-concer" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1187,141 +1222,141 @@ For a case dossier, the Higdon contact belongs beside other close-encounter and 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/](https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/sb30zl/this_abduction_case_from_1974_might_be_the/</a>  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: carl higdons alien encounter of 1974 and its  
-   Link: [https://www.reddit.com/r/skeptic/comments/1iw7139/carl_higdons_alien_encounter_of_1974_and_its/](https://www.reddit.com/r/skeptic/comments/1iw7139/carl_higdons_alien_encounter_of_1974_and_its/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/1iw7139/carl_higdons_alien_encounter_of_1974_and_its/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1iw7139/carl_higdons_alien_encounter_of_1974_and_its/</a>  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/wsqdi8/honest_opinion_and_thoughts_from_skeptics_ufos/](https://www.reddit.com/r/skeptic/comments/wsqdi8/honest_opinion_and_thoughts_from_skeptics_ufos/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/wsqdi8/honest_opinion_and_thoughts_from_skeptics_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/wsqdi8/honest_opinion_and_thoughts_from_skeptics_ufos/</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 6. <a id="endnote-6"></a>
    Source: newspapers.com  
    Title: casper star tribune carl higdon ufo  
-   Link: [https://www.newspapers.com/article/casper-star-tribune-carl-higdon-ufo/32950536/](https://www.newspapers.com/article/casper-star-tribune-carl-higdon-ufo/32950536/)  
+   Link: <a href="https://www.newspapers.com/article/casper-star-tribune-carl-higdon-ufo/32950536/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/casper-star-tribune-carl-higdon-ufo/32950536/</a>  
 
 7. <a id="endnote-7"></a>
    Source: cowboystatedaily.com  
    Title: alien abductions of 2 wyoming men in the 1970s remain unexplainable  
-   Link: [https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/](https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/)  
+   Link: <a href="https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/" target="_blank" rel="noopener noreferrer nofollow">https://cowboystatedaily.com/2023/09/30/alien-abductions-of-2-wyoming-men-in-the-1970s-remain-unexplainable/</a>  
 
 8. <a id="endnote-8"></a>
    Source: gideonreid.co.uk  
    Title: Gideon Reid Carl Higdon’s Trip Up Above  
-   Link: [https://gideonreid.co.uk/carl-higdons-trip-up-above/](https://gideonreid.co.uk/carl-higdons-trip-up-above/)  
+   Link: <a href="https://gideonreid.co.uk/carl-higdons-trip-up-above/" target="_blank" rel="noopener noreferrer nofollow">https://gideonreid.co.uk/carl-higdons-trip-up-above/</a>  
 
 9. <a id="endnote-9"></a>
    Source: archiveswest.orbiscascade.org  
-   Link: [https://archiveswest.orbiscascade.org/ark%3A80444/xv805708](https://archiveswest.orbiscascade.org/ark%3A80444/xv805708)  
+   Link: <a href="https://archiveswest.orbiscascade.org/ark%3A80444/xv805708" target="_blank" rel="noopener noreferrer nofollow">https://archiveswest.orbiscascade.org/ark%3A80444/xv805708</a>  
 
 10. <a id="endnote-10"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1327196/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1327196/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1327196/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1327196/full</a>  
 
 11. <a id="endnote-11"></a>
    Source: gideonreid.co.uk  
    Title: science fiction and the carl higdon alien encounter story  
-   Link: [https://gideonreid.co.uk/science-fiction-and-the-carl-higdon-alien-encounter-story/](https://gideonreid.co.uk/science-fiction-and-the-carl-higdon-alien-encounter-story/)  
+   Link: <a href="https://gideonreid.co.uk/science-fiction-and-the-carl-higdon-alien-encounter-story/" target="_blank" rel="noopener noreferrer nofollow">https://gideonreid.co.uk/science-fiction-and-the-carl-higdon-alien-encounter-story/</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 13. <a id="endnote-13"></a>
    Source: cryptidz.fandom.com  
    Title: Ausso One  
-   Link: [https://cryptidz.fandom.com/wiki/Ausso_One](https://cryptidz.fandom.com/wiki/Ausso_One)  
+   Link: <a href="https://cryptidz.fandom.com/wiki/Ausso_One" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Ausso_One</a>  
 
 14. <a id="endnote-14"></a>
    Source: high-strangeness.fandom.com  
    Title: Ausso One  
-   Link: [https://high-strangeness.fandom.com/wiki/Ausso_One](https://high-strangeness.fandom.com/wiki/Ausso_One)  
+   Link: <a href="https://high-strangeness.fandom.com/wiki/Ausso_One" target="_blank" rel="noopener noreferrer nofollow">https://high-strangeness.fandom.com/wiki/Ausso_One</a>  
 
 15. <a id="endnote-15"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt](https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
 
 16. <a id="endnote-16"></a>
    Source: archive.org  
    Title: Project Blue Book Indexes  
-   Link: [https://archive.org/details/ProjectBlueBookIndexes](https://archive.org/details/ProjectBlueBookIndexes)  
+   Link: <a href="https://archive.org/details/ProjectBlueBookIndexes" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectBlueBookIndexes</a>  
 
 17. <a id="endnote-17"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 18. <a id="endnote-18"></a>
    Source: mcnallyjackson.com  
-   Link: [https://mcnallyjackson.com/book/9781981812899](https://mcnallyjackson.com/book/9781981812899)  
+   Link: <a href="https://mcnallyjackson.com/book/9781981812899" target="_blank" rel="noopener noreferrer nofollow">https://mcnallyjackson.com/book/9781981812899</a>  
 
 19. <a id="endnote-19"></a>
    Source: archiveswest.orbiscascade.org  
-   Link: [https://archiveswest.orbiscascade.org/ark%3A80444/xv805708?q=R.+Leo+Sprinkle](https://archiveswest.orbiscascade.org/ark%3A80444/xv805708?q=R.+Leo+Sprinkle)  
+   Link: <a href="https://archiveswest.orbiscascade.org/ark%3A80444/xv805708?q=R.+Leo+Sprinkle" target="_blank" rel="noopener noreferrer nofollow">https://archiveswest.orbiscascade.org/ark%3A80444/xv805708?q=R.+Leo+Sprinkle</a>  
 
 20. <a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=zXvwYBEZH2I](http://www.youtube.com/watch?v=zXvwYBEZH2I)  
+   Link: <a href="http://www.youtube.com/watch?v=zXvwYBEZH2I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zXvwYBEZH2I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Man&#x27;s Shocking ALIEN ABDUCTION from Wyoming in 1974...</p></details>
    Published: October 25, 1974  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Carl & Margery Higdon | The Carl Higdon Alien Abduction Story  
-   Link: [http://www.youtube.com/watch?v=789LVh-GF1Y](http://www.youtube.com/watch?v=789LVh-GF1Y)  
+   Link: <a href="http://www.youtube.com/watch?v=789LVh-GF1Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=789LVh-GF1Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Higdon abduction 1974 Carl Higdon Abduction, 1974 Think Anomalous...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: kpl.gov  
-   Link: [https://www.kpl.gov/catalog/item/?i=ent%3A%2F%2FERC_215_8682%2F0%2F215_8682%3AHOOPLA%3A18505238](https://www.kpl.gov/catalog/item/?i=ent%3A%2F%2FERC_215_8682%2F0%2F215_8682%3AHOOPLA%3A18505238)  
+   Link: <a href="https://www.kpl.gov/catalog/item/?i=ent%3A%2F%2FERC_215_8682%2F0%2F215_8682%3AHOOPLA%3A18505238" target="_blank" rel="noopener noreferrer nofollow">https://www.kpl.gov/catalog/item/?i=ent%3A%2F%2FERC_215_8682%2F0%2F215_8682%3AHOOPLA%3A18505238</a>  
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: The Alien Abduction of Carl Higdon  
-   Link: [http://www.youtube.com/watch?v=SDx0uMPivJY](http://www.youtube.com/watch?v=SDx0uMPivJY)  
+   Link: <a href="http://www.youtube.com/watch?v=SDx0uMPivJY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SDx0uMPivJY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Then and now ~ Carl Higdon talks about his alien abduction during hunting, Wyoming, October 25, 1974...</p></details>
    Published: October 25, 1974  
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=gnC_jjAenFg](http://www.youtube.com/watch?v=gnC_jjAenFg)  
+   Link: <a href="http://www.youtube.com/watch?v=gnC_jjAenFg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=gnC_jjAenFg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl &amp; Margery Higdon | The Carl Higdon Alien Abduction Story...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/13946572_Creating_False_Memories](https://www.researchgate.net/publication/13946572_Creating_False_Memories)  
+   Link: <a href="https://www.researchgate.net/publication/13946572_Creating_False_Memories" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/13946572_Creating_False_Memories</a>  
 
 27. <a id="endnote-27"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/84918836/Forensic_Hypnosis](https://www.academia.edu/84918836/Forensic_Hypnosis)  
+   Link: <a href="https://www.academia.edu/84918836/Forensic_Hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/84918836/Forensic_Hypnosis</a>  
 
 28. <a id="endnote-28"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 29. <a id="endnote-29"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
 30. <a id="endnote-30"></a>
    Source: podimo.com  
-   Link: [https://podimo.com/en/shows/my-dark-path/episode/626eb9e7-ea89-5b7c-a162-87339b3db060](https://podimo.com/en/shows/my-dark-path/episode/626eb9e7-ea89-5b7c-a162-87339b3db060)  
+   Link: <a href="https://podimo.com/en/shows/my-dark-path/episode/626eb9e7-ea89-5b7c-a162-87339b3db060" target="_blank" rel="noopener noreferrer nofollow">https://podimo.com/en/shows/my-dark-path/episode/626eb9e7-ea89-5b7c-a162-87339b3db060</a>

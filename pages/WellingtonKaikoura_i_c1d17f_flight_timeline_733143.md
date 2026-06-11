@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /wellington-kaikoura-incident-1978/
 nav_short_title: Timeline
 title: How the Kaikoura Lights Unfolded
-title_full: How the Kaikoura Lights Unfolded | Kaikoura Lights
+title_full: How the Kaikoura Lights Unfolded
 display_title_short: Timeline
 display_title: Timeline
 heading_title: How the Kaikoura Lights Unfolded
@@ -233,7 +233,7 @@ prev_link:
   permalink: /explanations-3654c8/
   short_title: Explanations
   heading_title: Natural Causes or Something Still Unresolved?
-date: '2026-06-08 23:28:50 '
+date: '2026-06-11 13:17:32 '
 header:
   og_image: /assets/images/WellingtonKaikoura_i_c1d17f_flight_timeline_733143-Illustration-1-social.jpg
   preview_image: /assets/images/WellingtonKaikoura_i_c1d17f_flight_timeline_733143-Illustration-1.webp
@@ -244,14 +244,12 @@ image: /assets/images/WellingtonKaikoura_i_c1d17f_flight_timeline_733143-Illustr
 
 The Kaikōura lights incident became internationally famous because several layers of [evidence]({{ 'evidence-72f684/' | relative_url }}) appeared to unfold at once: pilots reported bright moving lights, Wellington air traffic controllers described unusual radar returns, an airborne radar set showed intermittent contacts, and a television crew filmed luminous objects during the flight. What still makes the case difficult is not a single dramatic sighting, but the way separate observations overlapped only partially. Some radar tracks coincided with visual reports, some did not, and some lights appeared where no radar target was reported at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kaikōura lights</span><span class="citation-popover-snippet">Kaikōura lights</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2010s-nz-kaikoura-rnzaf-files-rnzaf-air-1080-6-897-kaikoura-ufo-file" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyKaikoura Lights: RNZAF&#x27;s Unreplicated Footage Case, Royal...Wellington Air Traffic Control tracked unidentified targets...</span></span></span>
 
-
 <img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_flight_timeline_733143-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_flight_timeline_733143-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_flight_timeline_733143-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The most important sequence occurred during Safe Air freight flights between Wellington, Blenheim, Kaikōura, and Christchurch in late December 1978, especially the heavily documented journey of 30–31 December. Reconstructing the timeline matters because later arguments about the case often depend on whether the radar and visual events truly referred to the same object at the same moment. Supporters of the “unexplained” interpretation argue that the overlap was too consistent to dismiss as coincidence. Skeptics counter that several unrelated phenomena — fishing fleets, atmospheric refraction, celestial objects, and ordinary radar anomalies — became merged into one dramatic narrative after the fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2010s-nz-kaikoura-rnzaf-files-rnzaf-air-1080-6-897-kaikoura-ufo-file" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyKaikoura Lights: RNZAF&#x27;s Unreplicated Footage Case, Royal...Wellington Air Traffic Control tracked unidentified targets...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kaikōura lights</span><span class="citation-popover-snippet">Kaikōura lights</span></span></span>
 
 ## Earlier Safe Air sightings
 
 The television crew boarded the later flight because Safe Air crews had already reported strange lights several days earlier. The first major reports came during the night of 21 December 1978, when Argosy freight aircraft flying the regular newspaper route along the east coast of the South Island encountered unusual lights near Kaikōura and the Clarence River area. 1964 Mountain Culture Journal <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kaikōura lights</span><span class="citation-popover-snippet">Kaikōura lights</span></span></span> Those earlier sightings established several recurring elements that would reappear in the famous 30–31 December sequence:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -279,7 +277,6 @@ At roughly 12:12 am, the aircraft contacted Wellington Air Traffic Control and a
 
 This exchange became one of the defining moments of the case because it created the impression of a live radar-visual correlation occurring in real time.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TLe3D_-5QhE" title="ConspiraSeries | Ep2 - Are the Kaikoura Lights Aliens?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TLe3D_-5QhE" target="_blank" rel="noopener noreferrer">ConspiraSeries | Ep2 - Are the Kaikoura Lights Aliens?</a></p><p class="youtube-embed-meta">Channel: Electric Shoelace &middot; Views: 105 &middot; Uploaded: December 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TLe3D_-5QhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TLe3D_-5QhE">Open on YouTube</a></p></div></div></div>
 
 ### The southbound radar-visual sequence
@@ -304,7 +301,6 @@ One disputed section of the sequence involved the aircraft’s own radar display
 
 Captain Startup reportedly altered course at one point to avoid what he perceived as a close encounter. According to later summaries, the bright light then appeared to shift above, below, and behind the aircraft before disappearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2010s-nz-kaikoura-rnzaf-files-rnzaf-air-1080-6-897-kaikoura-ufo-file" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyKaikoura Lights: RNZAF&#x27;s Unreplicated Footage Case, Royal...Wellington Air Traffic Control tracked unidentified targets...</span></span></span>
 
-
 <img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_flight_timeline_733143-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_flight_timeline_733143-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_flight_timeline_733143-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Christchurch approach and later observations
 
@@ -322,7 +318,6 @@ The timeline becomes less straightforward when the radar evidence is compared ca
 
 Several inconsistencies stand out:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Wellington radar operators reported contacts that nobody aboard the aircraft could see.
@@ -334,7 +329,6 @@ Several inconsistencies stand out:
 
 This matters because the popular image of the Kaikōura case often assumes a single unknown craft was continuously tracked simultaneously by eye and radar. The surviving records instead suggest a patchwork of partial overlaps.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4bWNDlzw6os" title="MH370 Just Got A Lot More Complicated" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4bWNDlzw6os" target="_blank" rel="noopener noreferrer">MH370 Just Got A Lot More Complicated</a></p><p class="youtube-embed-meta">Channel: Today I Learned Science &middot; Views: 307.9K &middot; Uploaded: March 2026 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4bWNDlzw6os" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4bWNDlzw6os">Open on YouTube</a></p></div></div></div>
 
 ### Radar anomalies and atmospheric conditions
@@ -345,8 +339,7 @@ RNZAF and DSIR analyses suggested that Wellington radar may have been detecting 
 
 This explanation became especially important in relation to Venus. Investigators noted that one major visual sighting occurred in approximately the same bearing where Venus would later rise. Although the timing did not match a normal astronomical rise, officials argued that “super refraction” might have lifted the planet’s apparent position above the horizon earlier than expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2010s-nz-kaikoura-rnzaf-files-rnzaf-air-1080-6-897-kaikoura-ufo-file" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-snippet">UFO TransparencyKaikoura Lights: RNZAF&#x27;s Unreplicated Footage Case, Royal...Wellington Air Traffic Control tracked unidentified targets...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_xs6ELI30oA" title="9/11: A Minute by Minute Breakdown of What Happened" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_xs6ELI30oA" target="_blank" rel="noopener noreferrer">9/11: A Minute by Minute Breakdown of What Happened</a></p><p class="youtube-embed-meta">Channel: Wonder &middot; Views: 986.1K &middot; Uploaded: September 2025 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_xs6ELI30oA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_xs6ELI30oA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vBbz5o49bEg" title="Malaysia Airlines Flight 370: A timeline" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vBbz5o49bEg" target="_blank" rel="noopener noreferrer">Malaysia Airlines Flight 370: A timeline</a></p><p class="youtube-embed-meta">Channel: CBS Evening News &middot; Views: 32.5K &middot; Uploaded: March 2014 &middot; Length: 1 minute 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vBbz5o49bEg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vBbz5o49bEg">Open on YouTube</a></p></div></div></div>
 
 ### The squid boat hypothesis
 
@@ -355,7 +348,6 @@ Another major reinterpretation focused on the filmed lights themselves rather th
 Former DSIR scientist William Ireland later re-examined frames from the television footage and argued that several images resembled multiple rows of lights rather than a single structured object. He concluded that telephoto lens effects, filming through aircraft windows, condensation, and reflections could make fishing fleets appear airborne or diffuse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kaikōura lights</span><span class="citation-popover-snippet">Kaikōura lights</span></span></span>
 
 That interpretation addresses part of the visual sequence but does not fully resolve the timing problem that keeps the incident controversial: witnesses aboard the aircraft believed some lights manoeuvred relative to the Argosy while radar operators simultaneously discussed moving targets.
-
 
 <img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_flight_timeline_733143-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_flight_timeline_733143-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_flight_timeline_733143-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the timeline still matters
@@ -367,44 +359,86 @@ For skeptical investigators, the same timeline demonstrates how separate ordinar
 The enduring fascination of the Kaikōura lights lies precisely in that unresolved overlap. The timeline shows real pilots reacting to real lights and real radar operators reporting unusual returns, but it also shows repeated moments where the evidence streams drift apart instead of locking cleanly together.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How the Kaikoura Lights Unfolded, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How the Kaikoura Lights Unfolded. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Kaikoura lights guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Kaikoura+lights+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Details the 30–31 December flight sequence, tracking Quentin Fogarty&#x27;s news team and the earlier Safe Air Argosy newspaper route reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Wellington radar guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Wellington+radar+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Cross-references the formal Wellington radar transcripts against the cockpit data, detailing exactly where returns and visuals failed to...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Argosy aircraft guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Argosy+aircraft+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Explains why finding partial spatial correlations between radar blips and pilot lights encourages communities to invent exotic stories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Addresses why the arrival of a camera crew on a commercial carrier results in an intense reinforcement of pre-existing flight rumors.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -441,15 +475,15 @@ The enduring fascination of the Kaikōura lights lies precisely in that unresolv
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Amercom 1/200 DieCast Armstrong Whitworth AW660 Argosy Model Aircraft See Desc"><img src="{{ '/assets/images/marketplace-covers/8dbedeb64b6a65bddba5.jpg' | relative_url }}" alt="Listing image for Amercom 1/200 DieCast Armstrong Whitworth AW660 Argosy Model Aircraft See Desc" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Amercom 1/200 DieCast Armstrong Whitworth AW660 Argosy Model Aircraft See Desc</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Argosy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Argosy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -457,15 +491,15 @@ The enduring fascination of the Kaikōura lights lies precisely in that unresolv
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Armory Models AR AW14405 Scale model kit 1/144 AW Argosy wheels w/weighted tires"><img src="{{ '/assets/images/marketplace-covers/e83d9c9e80a9cc7c6273.jpg' | relative_url }}" alt="Listing image for Armory Models AR AW14405 Scale model kit 1/144 AW Argosy wheels w/weighted tires" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Armory Models AR AW14405 Scale model kit 1/144 AW Argosy wheels w/weighted tires</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Argosy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Argosy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -473,31 +507,15 @@ The enduring fascination of the Kaikōura lights lies precisely in that unresolv
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Armory Models AR AW14405 Scale model kit 1/144 AW Argosy wheels w/weighted tires"><img src="{{ '/assets/images/marketplace-covers/8ff3802b483f12809b75.jpg' | relative_url }}" alt="Listing image for Armory Models AR AW14405 Scale model kit 1/144 AW Argosy wheels w/weighted tires" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Armory Models AR AW14405 Scale model kit 1/144 AW Argosy wheels w/weighted tires</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Argosy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Argosy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -505,7 +523,7 @@ The enduring fascination of the Kaikōura lights lies precisely in that unresolv
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="timeline-d801ba-how-the-kaikoura-lights-unfolded-wellington-kaikoura-incident-1978-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -721,79 +739,79 @@ The enduring fascination of the Kaikōura lights lies precisely in that unresolv
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kaikōura lights  
-   Link: [https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights](https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights</a>  
 
 2. <a id="endnote-2"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/atmosphere-or-ufo-a-response-to-the-1997-sse-review-panel-report-by-bruce-maccabee/45037324](https://www.slideshare.net/slideshow/atmosphere-or-ufo-a-response-to-the-1997-sse-review-panel-report-by-bruce-maccabee/45037324)  
+   Link: <a href="https://www.slideshare.net/slideshow/atmosphere-or-ufo-a-response-to-the-1997-sse-review-panel-report-by-bruce-maccabee/45037324" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/atmosphere-or-ufo-a-response-to-the-1997-sse-review-panel-report-by-bruce-maccabee/45037324</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>or ufo a response to the 1997 sse review...This document summarizes a radar and visual sighting of an unidentified flying object that wa...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/files/decade-2010s-nz-kaikoura-rnzaf-files-rnzaf-air-1080-6-897-kaikoura-ufo-file](https://ufotransparency.com/files/decade-2010s-nz-kaikoura-rnzaf-files-rnzaf-air-1080-6-897-kaikoura-ufo-file)  
+   Link: <a href="https://ufotransparency.com/files/decade-2010s-nz-kaikoura-rnzaf-files-rnzaf-air-1080-6-897-kaikoura-ufo-file" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2010s-nz-kaikoura-rnzaf-files-rnzaf-air-1080-6-897-kaikoura-ufo-file</a>  
 
 4. <a id="endnote-4"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Declassified New Zealand UFO documents"  
-   Link: [https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt](https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt)  
+   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>radar target. The object referred to here may have been one of the several targets picked up by the plane radar when it was heading towar...</p></details>
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: tvi.show  
-   Link: [https://www.tvi.show/skywatch-files/the-1978-kaikoura-lights-new-zealands-ufo-enigma-examined-through-eyewitness-accounts-and-investigations](https://www.tvi.show/skywatch-files/the-1978-kaikoura-lights-new-zealands-ufo-enigma-examined-through-eyewitness-accounts-and-investigations)  
+   Link: <a href="https://www.tvi.show/skywatch-files/the-1978-kaikoura-lights-new-zealands-ufo-enigma-examined-through-eyewitness-accounts-and-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1978-kaikoura-lights-new-zealands-ufo-enigma-examined-through-eyewitness-accounts-and-investigations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1978 Kaikoura Lights UFO Incident: Eyewitness...1 May 2025 — On two separate nights in December 1978, mysterious lights appeared ove...</p></details>
    Published: May 2025  
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
    Title: the rnzafs orions were called to help in a variety of missions over the years bu  
-   Link: [https://www.facebook.com/AirForceMuseumofNewZealand/posts/the-rnzafs-orions-were-called-to-help-in-a-variety-of-missions-over-the-years-bu/745880247571085/](https://www.facebook.com/AirForceMuseumofNewZealand/posts/the-rnzafs-orions-were-called-to-help-in-a-variety-of-missions-over-the-years-bu/745880247571085/)  
+   Link: <a href="https://www.facebook.com/AirForceMuseumofNewZealand/posts/the-rnzafs-orions-were-called-to-help-in-a-variety-of-missions-over-the-years-bu/745880247571085/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirForceMuseumofNewZealand/posts/the-rnzafs-orions-were-called-to-help-in-a-variety-of-missions-over-the-years-bu/745880247571085/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The RNZAF&#x27;s Orions were called to help...The Kaikoura Lights “In late December 1978, several groups of people saw strange lights floatin...</p></details>
    Published: December 1978  
 
 7. <a id="endnote-7"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/34482046/A-History-of-New-Zealand-UFO-Sightings-12-31-1978-By-Bruce-Maccabee](https://www.scribd.com/document/34482046/A-History-of-New-Zealand-UFO-Sightings-12-31-1978-By-Bruce-Maccabee)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdNew Zealand UFO Sightings, 1978 | PDF | Radar | Camera31 Dec 1978 — Since 1947 there have been numerous radar-visual UFO sightings...</p></details>
+   Link: <a href="https://www.scribd.com/document/34482046/A-History-of-New-Zealand-UFO-Sightings-12-31-1978-By-Bruce-Maccabee" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/34482046/A-History-of-New-Zealand-UFO-Sightings-12-31-1978-By-Bruce-Maccabee</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Zealand UFO Sightings, 1978 | PDF | Radar | Camera31 Dec 1978 — Since 1947 there have been numerous radar-visual UFO sightings...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: the 1978 kaikōura lights pilots radar and tv crew  
-   Link: [https://www.reddit.com/r/abovethenormnews/comments/1mua9qa/the_1978_kaik%C5%8Dura_lights_pilots_radar_and_tv_crew/](https://www.reddit.com/r/abovethenormnews/comments/1mua9qa/the_1978_kaik%C5%8Dura_lights_pilots_radar_and_tv_crew/)  
+   Link: <a href="https://www.reddit.com/r/abovethenormnews/comments/1mua9qa/the_1978_kaik%C5%8Dura_lights_pilots_radar_and_tv_crew/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/abovethenormnews/comments/1mua9qa/the_1978_kaik%C5%8Dura_lights_pilots_radar_and_tv_crew/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1978 Kaikōura Lights: Pilots, Radar, and TV Crew...In December of that year, multiple Safe Air Argosy cargo flights reported strange...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: hauntedauckland.com  
    Title: files shine light on ufo sightings nz herald  
-   Link: [https://hauntedauckland.com/site/files-shine-light-on-ufo-sightings-nz-herald/](https://hauntedauckland.com/site/files-shine-light-on-ufo-sightings-nz-herald/)  
+   Link: <a href="https://hauntedauckland.com/site/files-shine-light-on-ufo-sightings-nz-herald/" target="_blank" rel="noopener noreferrer nofollow">https://hauntedauckland.com/site/files-shine-light-on-ufo-sightings-nz-herald/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Files shine light on UFO sightings23 Dec 2010 — The lights seemed to move with the plane as it flew off the coast of Kaikoura in 1978, mo...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sunrisepage.com  
    Title: AIR 1080 6 897 Volume 1 1978 1981  
-   Link: [https://www.sunrisepage.com/ufo/files/government/NewZealand/AIR-1080-6-897-Volume-1-1978-1981.pdf](https://www.sunrisepage.com/ufo/files/government/NewZealand/AIR-1080-6-897-Volume-1-1978-1981.pdf)  
+   Link: <a href="https://www.sunrisepage.com/ufo/files/government/NewZealand/AIR-1080-6-897-Volume-1-1978-1981.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sunrisepage.com/ufo/files/government/NewZealand/AIR-1080-6-897-Volume-1-1978-1981.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Zealand Defence Force UFO Files 1978-1981The files contain reports of sightings by private individuals and military personnel, invest...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: news.com.au  
-   Link: [https://www.news.com.au/travel/travel-updates/travel-stories/how-the-40yearold-mystery-of-a-ufo-in-new-zealand-lives-on/news-story/d01fbaad50e77d9179e06435dbb8b581](https://www.news.com.au/travel/travel-updates/travel-stories/how-the-40yearold-mystery-of-a-ufo-in-new-zealand-lives-on/news-story/d01fbaad50e77d9179e06435dbb8b581)  
+   Link: <a href="https://www.news.com.au/travel/travel-updates/travel-stories/how-the-40yearold-mystery-of-a-ufo-in-new-zealand-lives-on/news-story/d01fbaad50e77d9179e06435dbb8b581" target="_blank" rel="noopener noreferrer nofollow">https://www.news.com.au/travel/travel-updates/travel-stories/how-the-40yearold-mystery-of-a-ufo-in-new-zealand-lives-on/news-story/d01fbaad50e77d9179e06435dbb8b581</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How the 40-year-old mystery of a UFO in New Zealand...19 Dec 2018 — It was New Year&#x27;s Day, 1979, when the world woke to the news that st...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Conspira Series | Ep2  
-   Link: [https://www.youtube.com/watch?v=TLe3D_-5QhE](https://www.youtube.com/watch?v=TLe3D_-5QhE)  
+   Link: <a href="https://www.youtube.com/watch?v=TLe3D_-5QhE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TLe3D_-5QhE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ConspiraSeries | Ep2 - Are the Kaikoura Lights Aliens?There&#x27;s actually no good explanation for the Kai Carter lights incident which means...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: data0.eklablog.com  
-   Link: [https://data0.eklablog.com/scienceetovnis/perso/brucemaccabeechilderhose.pdf](https://data0.eklablog.com/scienceetovnis/perso/brucemaccabeechilderhose.pdf)  
+   Link: <a href="https://data0.eklablog.com/scienceetovnis/perso/brucemaccabeechilderhose.pdf" target="_blank" rel="noopener noreferrer nofollow">https://data0.eklablog.com/scienceetovnis/perso/brucemaccabeechilderhose.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTRACT. A Royal Canadian Air Force pilot while flying at an altitude of about 11 km saw...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ngataonga.org.nz  
-   Link: [https://www.ngataonga.org.nz/search-use-collection/search/31842/](https://www.ngataonga.org.nz/search-use-collection/search/31842/)  
+   Link: <a href="https://www.ngataonga.org.nz/search-use-collection/search/31842/" target="_blank" rel="noopener noreferrer nofollow">https://www.ngataonga.org.nz/search-use-collection/search/31842/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Unidentified flying objects].They cover reaction to the UFO sightings over the Clarence River near Kaikoura on 21 December 1978 and the...</p></details>
-   Published: December 1978  
+   Published: December 1978

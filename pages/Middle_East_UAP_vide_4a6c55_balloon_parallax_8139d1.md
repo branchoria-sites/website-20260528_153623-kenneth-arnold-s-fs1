@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /middle-east-uap-video-2022/
 nav_short_title: Balloon Theory
 title: Could Parallax Explain the Fast Moving Orb?
-title_full: Could Parallax Explain the Fast Moving Orb? | Middle East Orb
+title_full: Could Parallax Explain the Fast Moving Orb?
 display_title_short: Balloon Theory
 display_title: Balloon Theory
 heading_title: Could Parallax Explain the Fast Moving Orb?
@@ -233,7 +233,7 @@ next_link:
   permalink: /evidence-gaps-180b9d/
   short_title: Evidence Gaps
   heading_title: What the MQ 9 Clip Still Cannot Tell US
-date: '2026-06-08 23:42:49 '
+date: '2026-06-11 13:26:22 '
 header:
   og_image: /assets/images/Middle_East_UAP_vide_4a6c55_balloon_parallax_8139d1-Illustration-1-social.jpg
   preview_image: /assets/images/Middle_East_UAP_vide_4a6c55_balloon_parallax_8139d1-Illustration-1.webp
@@ -244,85 +244,121 @@ image: /assets/images/Middle_East_UAP_vide_4a6c55_balloon_parallax_8139d1-Illust
 
 One leading **mundane explanation for the “orb” seen in the **<span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsFile:MiddleEast UAP 20220712 Official Footage from the USG for Public Release.webm - Wikimedia CommonsJuly 12, 2022...</span><span class="citation-popover-meta">Published: July 12, 2022</span></span></span>** Middle East UAP video (12 July 2022)** is that it was not a fast‑moving exotic craft at all, but a **small balloon seen under conditions where drone motion and parallax make its motion appear rapid and unusual**. This section drills into the **balloon and parallax hypothesis** — how it works mechanically, why it can look surprising on a moving drone sensor, and where uncertainties remain in explaining this particular clip.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unidentifiedphenomena.com/incidents/aaro-middle-east-object-mq-9-uap-incident-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unidentifiedphenomena.com">[Unidentified Phenomena]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unidentifiedphenomena.com</span><span class="citation-popover-title">aaro middle east object mq 9 uap incident 2022</span><span class="citation-popover-snippet">Unidentified PhenomenaAARO Middle East Object: MQ-9 UAP Incident (2022) – Unidentified PhenomenaSeptember 5, 2023...</span><span class="citation-popover-meta">Published: September 5, 2023</span></span></span>
 
-
 <img src="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_balloon_parallax_8139d1-Illustration-1-dark.svg" | relative_url }}" alt="Balloon Theory illustration 1" data-theme-src-dark="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_balloon_parallax_8139d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_balloon_parallax_8139d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How drone motion changes apparent speed
 
-When a **remote sensor on a moving aircraft or drone** — in this case an MQ‑9 Reaper — records a scene, the relative motion between the sensor, background terrain, and any object closer to the sensor can create striking visual effects. In the Middle East UAP video, the drone (and its **electro‑optical/infrared targeting system**) was in motion, but the publicly released clip omits the gimbal angles, altitude, and ground speed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn’t That A Balloon? Deflating a Do D UFO Video</span><span class="citation-popover-snippet">bellingcatIsn’t That A Balloon? Deflating a DoD UFO Video - bellingcatOctober 24, 2023...</span><span class="citation-popover-meta">Published: October 24, 2023</span></span></span>
+When a **remote sensor on a moving aircraft or drone** — in this case an MQ‑9 Reaper — records a scene, the relative motion between the sensor, background terrain, and any object closer to the sensor can create striking visual effects. In the Middle East UAP video, the drone (and its **electro‑optical/infrared targeting system**) was in motion, but the publicly released clip omits the gimbal angles, altitude, and ground speed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn’t That A Balloon? Deflating a Do D UFO Video</span><span class="citation-popover-snippet">Isn’t That A Balloon? Deflating a DoD UFO Video - bellingcatOctober 24, 2023...</span><span class="citation-popover-meta">Published: October 24, 2023</span></span></span>
 
 This matters because **objects closer to the camera move across the frame far more quickly than distant backgrounds** when the platform is moving — a classic optical phenomenon known as **parallax**. In situations where the drone is advancing or banking while its camera compensates to keep the ground in view, a **nearby slow‑drifting object (such as a balloon) can sweep across the image seemingly fast**, though its actual motion relative to the air is modest. Many commentators have illustrated this with animations or comparisons to everyday experiences — for example, holding a finger close to your eye while moving your head, causing the finger to appear to zip past distant scenery even though it’s stationary.[Reddit]
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/39SJAcNXCzM" title="VFX Artists DEBUNK FLYING ORB UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=39SJAcNXCzM" target="_blank" rel="noopener noreferrer">VFX Artists DEBUNK FLYING ORB UFO Videos</a></p><p class="youtube-embed-meta">Channel: Corridor Crew &middot; Views: 1.1M &middot; Uploaded: July 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=39SJAcNXCzM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=39SJAcNXCzM">Open on YouTube</a></p></div></div></div>
 
 ## Why size and range matter
 
-The key unknown in the released footage is distance: with no disclosed telemetry — no altitude, no object range data — you cannot directly convert pixels or screen motion into **ground‑relative speed**. Without this information, the **motion seen in the 24‑second clip is ambiguous**. The object could be far away and fast, or **very close and slow** but made to look quick due to parallax and camera motion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/events/2022-middle-east-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">Middle East Object (Orb) | Disclosdex</span><span class="citation-popover-snippet">DisclosdexMiddle East Object (Orb) | DisclosdexJuly 12, 2022...</span><span class="citation-popover-meta">Published: July 12, 2022</span></span></span>
+The key unknown in the released footage is distance: with no disclosed telemetry — no altitude, no object range data — you cannot directly convert pixels or screen motion into **ground‑relative speed**. Without this information, the **motion seen in the 24‑second clip is ambiguous**. The object could be far away and fast, or **very close and slow** but made to look quick due to parallax and camera motion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://disclosdex.com/events/2022-middle-east-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">Middle East Object (Orb) &#124; Disclosdex</span><span class="citation-popover-snippet">Middle East Object (Orb) &#124; DisclosdexJuly 12, 2022...</span><span class="citation-popover-meta">Published: July 12, 2022</span></span></span>
 
-Groups such as **Bellingcat have geolocated the video to near Deir ez‑Zor in Syria and argued that if the object were closer to the drone and relatively small, its apparent behaviour makes sense for a **reflective balloon**; one analysis estimated a size of roughly 0.43 m (1.4 ft) in diameter typical of party balloons when seen in such imaging geometry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn’t That A Balloon? Deflating a Do D UFO Video</span><span class="citation-popover-snippet">bellingcatIsn’t That A Balloon? Deflating a DoD UFO Video - bellingcatOctober 24, 2023...</span><span class="citation-popover-meta">Published: October 24, 2023</span></span></span>
+Groups such as **Bellingcat have geolocated the video to near Deir ez‑Zor in Syria and argued that if the object were closer to the drone and relatively small, its apparent behaviour makes sense for a **reflective balloon**; one analysis estimated a size of roughly 0.43 m (1.4 ft) in diameter typical of party balloons when seen in such imaging geometry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn’t That A Balloon? Deflating a Do D UFO Video</span><span class="citation-popover-snippet">Isn’t That A Balloon? Deflating a DoD UFO Video - bellingcatOctober 24, 2023...</span><span class="citation-popover-meta">Published: October 24, 2023</span></span></span>
 
-Reflective balloons are common, and military and civilian balloons — from weather balloons to stray consumer foil types — frequently appear spherical with smooth outlines in infrared or electro‑optical footage. This morphological similarity makes it hard to rule out a **balloon or other lightweight aerial object** without multi‑sensor corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">middle east 2022 mq 9 observed apparent spherical uap via aaro.12932</span><span class="citation-popover-snippet">MetabunkMiddle East 2022 MQ-9 Observed Apparent Spherical UAP (via AARO) | MetabunkApril 22, 2023...</span><span class="citation-popover-meta">Published: April 22, 2023</span></span></span>
-
+Reflective balloons are common, and military and civilian balloons — from weather balloons to stray consumer foil types — frequently appear spherical with smooth outlines in infrared or electro‑optical footage. This morphological similarity makes it hard to rule out a **balloon or other lightweight aerial object** without multi‑sensor corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">middle east 2022 mq 9 observed apparent spherical uap via aaro.12932</span><span class="citation-popover-snippet">Middle East 2022 MQ-9 Observed Apparent Spherical UAP (via AARO) &#124; MetabunkApril 22, 2023...</span><span class="citation-popover-meta">Published: April 22, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BvO5BUTJ-SA" title="Pentagon reveals flying orb during UFO Senate hearing as 650 unknown objects tracked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BvO5BUTJ-SA" target="_blank" rel="noopener noreferrer">Pentagon reveals flying orb during UFO Senate hearing as 650 unknown objects tracked</a></p><p class="youtube-embed-meta">Channel: The Independent &middot; Views: 44.8K &middot; Uploaded: April 2023 &middot; Length: 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BvO5BUTJ-SA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BvO5BUTJ-SA">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_balloon_parallax_8139d1-Illustration-3-dark.svg" | relative_url }}" alt="Balloon Theory illustration 3" data-theme-src-dark="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_balloon_parallax_8139d1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_balloon_parallax_8139d1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <img src="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_balloon_parallax_8139d1-Illustration-2-dark.svg" | relative_url }}" alt="Balloon Theory illustration 2" data-theme-src-dark="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_balloon_parallax_8139d1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_balloon_parallax_8139d1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the balloon hypothesis remains uncertain
 
-Despite the parallax and balloon hypothesis explaining many visual features of the orb video, **critical uncertainties remain for this specific clip**. The Pentagon’s released version redacts altitude and telemetry data, meaning experts outside the official investigation cannot conclusively determine range or true motion, which are essential for distinguishing between a nearby slow object and a distant fast one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn’t That A Balloon? Deflating a Do D UFO Video</span><span class="citation-popover-snippet">bellingcatIsn’t That A Balloon? Deflating a DoD UFO Video - bellingcatOctober 24, 2023...</span><span class="citation-popover-meta">Published: October 24, 2023</span></span></span>
+Despite the parallax and balloon hypothesis explaining many visual features of the orb video, **critical uncertainties remain for this specific clip**. The Pentagon’s released version redacts altitude and telemetry data, meaning experts outside the official investigation cannot conclusively determine range or true motion, which are essential for distinguishing between a nearby slow object and a distant fast one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn’t That A Balloon? Deflating a Do D UFO Video</span><span class="citation-popover-snippet">Isn’t That A Balloon? Deflating a DoD UFO Video - bellingcatOctober 24, 2023...</span><span class="citation-popover-meta">Published: October 24, 2023</span></span></span>
 
 Likewise, while parallax can produce illusions of speed, its adequacy for explaining every motion detail in the clip depends on the **exact camera orientation, lens zoom, and the drone’s flight path** at the time — all undisclosed. Some analysts in open forums argue that without those details the balloon explanation is plausible but not definitively proven, because closely simulating the exact geometry is difficult without full data.[Reddit]
 
 Finally, even if parallax accounts for much of the apparent motion, it does not *prove* the object was a balloon; it simply shows how apparent speed and erratic motion can arise from geometric effects when range is unknown. Conclusive identification would require **additional sensor data** or independent corroboration beyond the isolated clip.<span class="citation-chip-wrap"><a class="citation-chip" href="https://unidentifiedphenomena.com/incidents/aaro-middle-east-object-mq-9-uap-incident-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unidentifiedphenomena.com">[Unidentified Phenomena]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unidentifiedphenomena.com</span><span class="citation-popover-title">aaro middle east object mq 9 uap incident 2022</span><span class="citation-popover-snippet">Unidentified PhenomenaAARO Middle East Object: MQ-9 UAP Incident (2022) – Unidentified PhenomenaSeptember 5, 2023...</span><span class="citation-popover-meta">Published: September 5, 2023</span></span></span>
 
-In sum, the **balloon‑plus‑parallax explanation** remains a **leading mundane interpretation** for the orb’s apparent dynamics in the Middle East UAP video, illustrating how drone motion and perspective effects can make a benign object look surprising — but within the constraints of publicly released data, it remains **plausible, not definitive**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn’t That A Balloon? Deflating a Do D UFO Video</span><span class="citation-popover-snippet">bellingcatIsn’t That A Balloon? Deflating a DoD UFO Video - bellingcatOctober 24, 2023...</span><span class="citation-popover-meta">Published: October 24, 2023</span></span></span>
-
+In sum, the **balloon‑plus‑parallax explanation** remains a **leading mundane interpretation** for the orb’s apparent dynamics in the Middle East UAP video, illustrating how drone motion and perspective effects can make a benign object look surprising — but within the constraints of publicly released data, it remains **plausible, not definitive**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Isn’t That A Balloon? Deflating a Do D UFO Video</span><span class="citation-popover-snippet">Isn’t That A Balloon? Deflating a DoD UFO Video - bellingcatOctober 24, 2023...</span><span class="citation-popover-meta">Published: October 24, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/h08VAydTJ_A" title="DECLASSIFIED VIDEO: UFO FILES - Middle East Object" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=h08VAydTJ_A" target="_blank" rel="noopener noreferrer">DECLASSIFIED VIDEO: UFO FILES - Middle East Object</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 3.1K &middot; Uploaded: April 2023 &middot; Length: 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=h08VAydTJ_A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=h08VAydTJ_A">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Could Parallax Explain the Fast Moving Orb?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Could Parallax Explain the Fast Moving Orb?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Middle East UAP guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Middle+East+UAP+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+Optics+by+Max+Born&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of Optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nUHGpfNsGyUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Principles of Optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Principles+of+Optics+by+Max+Born&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Optics">Principles of Optics</a>
+        </h4>
+        <p class="fr-book-author">By Max Born, Emil Wolf et al.</p>
+        
+        <p class="fr-book-desc">Details the mathematical frameworks of light refraction, relative visual motion, and focal plane geometric distortions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Principles+of+Optics+by+Max+Born&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Examines why short, out-of-context digital clips lacking camera gimbal angles create persistent internet myths.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Middle East UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Middle+East+UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Details how tracking centers process airborne light data and manage multi-sensor records independently of internet rumors.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Airborne+Radar+by+George+W.+Stimson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Airborne Radar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8aq8ngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Airborne Radar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Airborne+Radar+by+George+W.+Stimson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Airborne Radar">Introduction to Airborne Radar</a>
+        </h4>
+        <p class="fr-book-author">By George W. Stimson</p>
+        
+        <p class="fr-book-desc">Provides critical baseline information on the operational limits of tactical aircraft tracking and targeting pods.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Airborne+Radar+by+George+W.+Stimson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+Optics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of Optics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -359,15 +395,15 @@ In sum, the **balloon‑plus‑parallax explanation** remains a **leading mundan
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P"><img src="{{ '/assets/images/marketplace-covers/563b16b2318956689f9b.jpg' | relative_url }}" alt="Listing image for Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer">Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -375,15 +411,15 @@ In sum, the **balloon‑plus‑parallax explanation** remains a **leading mundan
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/f9f1edc22056df8c40fe.jpg' | relative_url }}" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -391,31 +427,15 @@ In sum, the **balloon‑plus‑parallax explanation** remains a **leading mundan
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Happy Kawaii Style Flying Saucer Alien Embroidered Iron On Patch - UAP UFO"><img src="{{ '/assets/images/marketplace-covers/22528eb5b7bb3b2827d8.jpg' | relative_url }}" alt="Listing image for Cute Happy Kawaii Style Flying Saucer Alien Embroidered Iron On Patch - UAP UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer">Cute Happy Kawaii Style Flying Saucer Alien Embroidered Iron On Patch - UAP UFO</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -423,7 +443,7 @@ In sum, the **balloon‑plus‑parallax explanation** remains a **leading mundan
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="balloon-theory-could-parallax-explain-the-fast-moving-orb-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwater" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -638,48 +658,48 @@ In sum, the **balloon‑plus‑parallax explanation** remains a **leading mundan
 
 1. <a id="endnote-1"></a>
    Source: commons.wikimedia.org  
-   Link: [https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm](https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:MiddleEast UAP 20220712 Official Footage from the USG for Public Release.webm - Wikimedia CommonsJuly 12, 2022...</p></details>
    Published: July 12, 2022  
 
 2. <a id="endnote-2"></a>
    Source: bellingcat.com  
    Title: Isn’t That A Balloon? Deflating a Do D UFO Video  
-   Link: [https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/](https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bellingcatIsn’t That A Balloon? Deflating a DoD UFO Video - bellingcatOctober 24, 2023...</p></details>
+   Link: <a href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Isn’t That A Balloon? Deflating a DoD UFO Video - bellingcatOctober 24, 2023...</p></details>
    Published: October 24, 2023  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: UAP Video  
-   Link: [https://www.reddit.com/r/UFOs/comments/1lpzjw4/uap_video_middle_east_red_balloon_2024/](https://www.reddit.com/r/UFOs/comments/1lpzjw4/uap_video_middle_east_red_balloon_2024/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditUAP Video - Middle East Red Balloon 2024July 2, 2025...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lpzjw4/uap_video_middle_east_red_balloon_2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lpzjw4/uap_video_middle_east_red_balloon_2024/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Video - Middle East Red Balloon 2024July 2, 2025...</p></details>
    Published: July 2, 2025  
 
 4. <a id="endnote-4"></a>
    Source: disclosdex.com  
    Title: Middle East Object (Orb) | Disclosdex  
-   Link: [https://disclosdex.com/events/2022-middle-east-object](https://disclosdex.com/events/2022-middle-east-object)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DisclosdexMiddle East Object (Orb) | DisclosdexJuly 12, 2022...</p></details>
+   Link: <a href="https://disclosdex.com/events/2022-middle-east-object" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/events/2022-middle-east-object</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East Object (Orb) | DisclosdexJuly 12, 2022...</p></details>
    Published: July 12, 2022  
 
 5. <a id="endnote-5"></a>
    Source: metabunk.org  
    Title: middle east 2022 mq 9 observed apparent spherical uap via aaro.12932  
-   Link: [https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/](https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkMiddle East 2022 MQ-9 Observed Apparent Spherical UAP (via AARO) | MetabunkApril 22, 2023...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East 2022 MQ-9 Observed Apparent Spherical UAP (via AARO) | MetabunkApril 22, 2023...</p></details>
    Published: April 22, 2023  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/12t0udu](https://www.reddit.com/r/UFOs/comments/12t0udu)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditNeed Help Proving/Disproving Parallax on Latest UAP video From AAROApril 20, 2023...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/12t0udu" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/12t0udu</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Need Help Proving/Disproving Parallax on Latest UAP video From AAROApril 20, 2023...</p></details>
    Published: April 20, 2023  
 
 7. <a id="endnote-7"></a>
    Source: unidentifiedphenomena.com  
    Title: aaro middle east object mq 9 uap incident 2022  
-   Link: [https://unidentifiedphenomena.com/incidents/aaro-middle-east-object-mq-9-uap-incident-2022/](https://unidentifiedphenomena.com/incidents/aaro-middle-east-object-mq-9-uap-incident-2022/)  
+   Link: <a href="https://unidentifiedphenomena.com/incidents/aaro-middle-east-object-mq-9-uap-incident-2022/" target="_blank" rel="noopener noreferrer nofollow">https://unidentifiedphenomena.com/incidents/aaro-middle-east-object-mq-9-uap-incident-2022/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified PhenomenaAARO Middle East Object: MQ-9 UAP Incident (2022) – Unidentified PhenomenaSeptember 5, 2023...</p></details>
    Published: September 5, 2023  
 
@@ -687,64 +707,64 @@ In sum, the **balloon‑plus‑parallax explanation** remains a **leading mundan
 
 8. <a id="endnote-8"></a>
    Source: the5observables.com  
-   Link: [https://the5observables.com/middle-east-mq9-spherical-uap/](https://the5observables.com/middle-east-mq9-spherical-uap/)  
+   Link: <a href="https://the5observables.com/middle-east-mq9-spherical-uap/" target="_blank" rel="noopener noreferrer nofollow">https://the5observables.com/middle-east-mq9-spherical-uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East: MQ9 Spherical UAP | The 5 Observables – Compilation of UAP footage confirmed by official sourcesTHE 5 OBSERVABLES Archive Of...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theufodatabase.com  
-   Link: [https://theufodatabase.com/videos/middle-east-orb-2022](https://theufodatabase.com/videos/middle-east-orb-2022)  
+   Link: <a href="https://theufodatabase.com/videos/middle-east-orb-2022" target="_blank" rel="noopener noreferrer nofollow">https://theufodatabase.com/videos/middle-east-orb-2022</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 31, 2023 — NASA RELEASES FOOTAGE OF UNIDENTIFIABLE &#x27;SPHERICAL ORB&#x27; UFO FLYING THROUGH MIDDLE EAST IMAGE: SHARE YouTube video player N...</p></details>
    Published: May 31, 2023  
 
 10. <a id="endnote-10"></a>
    Source: emilvenere.me  
-   Link: [https://emilvenere.me/2023/10/26/technical-analysis-of-middle-east-orb-ufo-shows-that-its-likely-just-a-party-balloon-but-shouldnt-the-pentagon-know-this-already/](https://emilvenere.me/2023/10/26/technical-analysis-of-middle-east-orb-ufo-shows-that-its-likely-just-a-party-balloon-but-shouldnt-the-pentagon-know-this-already/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Emil VenereOctober 26, 2023 — Emil Venere Author of &quot;Flying Saucers&quot; TECHNICAL ANALYSIS OF MIDDLE EAST ORB UFO SHOWS THAT IT’S LIKELY J...</p></details>
+   Link: <a href="https://emilvenere.me/2023/10/26/technical-analysis-of-middle-east-orb-ufo-shows-that-its-likely-just-a-party-balloon-but-shouldnt-the-pentagon-know-this-already/" target="_blank" rel="noopener noreferrer nofollow">https://emilvenere.me/2023/10/26/technical-analysis-of-middle-east-orb-ufo-shows-that-its-likely-just-a-party-balloon-but-shouldnt-the-pentagon-know-this-already/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emil VenereOctober 26, 2023 — Emil Venere Author of &quot;Flying Saucers&quot; TECHNICAL ANALYSIS OF MIDDLE EAST ORB UFO SHOWS THAT IT’S LIKELY J...</p></details>
    Published: October 26, 2023  
 
 11. <a id="endnote-11"></a>
    Source: sciencetimes.com  
-   Link: [https://www.sciencetimes.com/articles/46770/20231027/pentagons-metallic-orb-sighting-middle-east-ufo-hunters-claim-theyve.htm](https://www.sciencetimes.com/articles/46770/20231027/pentagons-metallic-orb-sighting-middle-east-ufo-hunters-claim-theyve.htm)  
+   Link: <a href="https://www.sciencetimes.com/articles/46770/20231027/pentagons-metallic-orb-sighting-middle-east-ufo-hunters-claim-theyve.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencetimes.com/articles/46770/20231027/pentagons-metallic-orb-sighting-middle-east-ufo-hunters-claim-theyve.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 27, 2023 — PENTAGON’S METALLIC ORB SIGHTING IN MIDDLE EAST: UFO HUNTERS CLAIM THEY’VE SOLVED THE CASE By Kendra Stacy...</p></details>
    Published: October 27, 2023  
 
 12. <a id="endnote-12"></a>
    Source: theblackvault.com  
    Title: Do D Releases New UFO/UAP Video From An Undisclosed Location –  
-   Link: [https://www.theblackvault.com/documentarchive/dod-releases-new-ufo-uap-video-from-an-undisclosed-location-july-12-2022/](https://www.theblackvault.com/documentarchive/dod-releases-new-ufo-uap-video-from-an-undisclosed-location-july-12-2022/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/dod-releases-new-ufo-uap-video-from-an-undisclosed-location-july-12-2022/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/dod-releases-new-ufo-uap-video-from-an-undisclosed-location-july-12-2022/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DoD Releases New UFO/UAP Video From An Undisclosed Location – July 12, 2022 - The Black VaultApril 19, 2023 — DOD RELEASES NEW UFO/UAP VI...</p></details>
    Published: July 12, 2022  
 
 13. <a id="endnote-13"></a>
    Source: news.sky.com  
    Title: ufo sighted by us drone over middle east in 2022 12861754  
-   Link: [https://news.sky.com/video/ufo-sighted-by-us-drone-over-middle-east-in-2022-12861754](https://news.sky.com/video/ufo-sighted-by-us-drone-over-middle-east-in-2022-12861754)  
+   Link: <a href="https://news.sky.com/video/ufo-sighted-by-us-drone-over-middle-east-in-2022-12861754" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/video/ufo-sighted-by-us-drone-over-middle-east-in-2022-12861754</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sighted by US drone over Middle East in 2022 | Offbeat News | Sky NewsApril 20, 2023 — UFO SIGHTED BY US DRONE OVER MIDDLE EAST IN 2022 T...</p></details>
    Published: April 20, 2023  
 
 14. <a id="endnote-14"></a>
    Source: vice.com  
    Title: military MQ-9 Reaper drone fly  
-   Link: [https://www.vice.com/en/article/7kxvdy/pentagon-says-reaper-drone-spotted-metallic-orb-ufo-in-middle-east](https://www.vice.com/en/article/7kxvdy/pentagon-says-reaper-drone-spotted-metallic-orb-ufo-in-middle-east)  
+   Link: <a href="https://www.vice.com/en/article/7kxvdy/pentagon-says-reaper-drone-spotted-metallic-orb-ufo-in-middle-east" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/7kxvdy/pentagon-says-reaper-drone-spotted-metallic-orb-ufo-in-middle-east</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Says Reaper Drone Spotted &#x27;Metallic Orb&#x27; UFO in Middle EastApril 19, 2023 — PENTAGON SAYS REAPER DRONE SPOTTED ‘METALLIC ORB’ UF...</p></details>
    Published: April 19, 2023  
 
 15. <a id="endnote-15"></a>
    Source: d1kn6o6up31pvd.cloudfront.net  
    Title: Isn’t That A Balloon?  
-   Link: [https://d1kn6o6up31pvd.cloudfront.net/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/](https://d1kn6o6up31pvd.cloudfront.net/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/)  
+   Link: <a href="https://d1kn6o6up31pvd.cloudfront.net/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://d1kn6o6up31pvd.cloudfront.net/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deflating a DoD UFO Video - bellingcatOctober 24, 2023 — AN ILLUSION OF SPEED Kirkpatrick described the footage in the NASA briefing, “We...</p></details>
    Published: October 24, 2023  
 
 16. <a id="endnote-16"></a>
    Source: defense.gov  
-   Link: [https://www.defense.gov/Multimedia/Videos/videoid/880273/](https://www.defense.gov/Multimedia/Videos/videoid/880273/)  
+   Link: <a href="https://www.defense.gov/Multimedia/Videos/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/Multimedia/Videos/videoid/880273/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 12, 2022 — Player Embed Code: &lt;iframe width=&#x27;500&#x27; height=&#x27;300&#x27; scrolling=&#x27;no&#x27; frameborder=&#x27;0&#x27; style=&#x27;border: none; overflow: hidden...</p></details>
    Published: July 12, 2022  
 
 17. <a id="endnote-17"></a>
    Source: europeafrica.army.mil  
    Title: mil Video Player  
-   Link: [https://www.europeafrica.army.mil/VideoPlayer/?videoid=880273](https://www.europeafrica.army.mil/VideoPlayer/?videoid=880273)  
+   Link: <a href="https://www.europeafrica.army.mil/VideoPlayer/?videoid=880273" target="_blank" rel="noopener noreferrer nofollow">https://www.europeafrica.army.mil/VideoPlayer/?videoid=880273</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Army Europe and Africa Video by Courtesy [Input] Download Embed Share Middle East Object Defense Media Activity - Proper July 12, 2022 |...</p></details>
-   Published: July 12, 2022  
+   Published: July 12, 2022

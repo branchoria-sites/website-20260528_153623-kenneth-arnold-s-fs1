@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -396,9 +396,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -436,9 +436,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Aveley Abduction
   permalink: /day-family-abduction-1974/
   short_title: Aveley Abduction
-date: '2026-06-08 23:37:16 '
+date: '2026-06-11 13:21:42 '
 header:
   og_image: /assets/images/Cynthia_Appleton_enc_304111-overview-social.jpg
   preview_image: /assets/images/Cynthia_Appleton_enc_304111-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Cynthia_Appleton_enc_304111-overview-social.jpg
 ## What Appleton said happened in Aston
 
 Most case summaries place the first major encounter on 18 November 1957 at Appleton’s home in Aston, Birmingham, where she said a man-like figure appeared in an upstairs sitting room; Jacques Vallée’s catalogue entry in *Passport to Magonia* records the location as Aston, the time as 15:00, and the event as a man appearing near her fireplace while a whistling sound was audible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19571118-cynthia-appleton-encounters/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19571118 cynthia appleton encounters</span><span class="citation-popover-snippet">19571118 cynthia appleton encounters</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia601409.us.archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia601409.us.archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
-
 
 <img src="{{ "/assets/images/Cynthia_Appleton_enc_304111-overview.webp" | relative_url }}" alt="Overview image for Cynthia Appleton encounter 1957" loading="eager" decoding="sync" fetchpriority="high">
 The fuller narrative, preserved in later UFO writing, describes Appleton as 27 years old, formerly Cynthia Spencer, married to Ronald Appleton, and living at 87 Fentham Road with two young daughters. A Fortean Times article, later reproduced online, says her first public account appeared less than two months after the incident in the *Birmingham Evening Despatch*. In that account she described a slender, white-skinned, blond-haired man in a dome-like head covering and a tight grey metallic suit, standing only a few feet away while her baby slept in a pram. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufoexperiences.blogspot.com/2005/03/space-baby-from-fortean-times.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexperiences.blogspot.com">[UFO Experiences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexperiences.blogspot.com</span><span class="citation-popover-title">UFO Experiences UFOexperiences: THE SPACE BABY (from the Fortean Times</span><span class="citation-popover-snippet">UFO Experiences UFOexperiences: THE SPACE BABY (from the Fortean Times</span></span></span>
@@ -774,7 +773,6 @@ There is a date problem in the surviving retellings. Isaac Koi’s [timeline]({{
 
 The later visits are even harder to verify. Jenny Randles, writing from material she says came from Dr Dale’s files, described a second encounter on 7 January 1958, when the first visitor allegedly returned with a second figure and explained that their appearances were projections rather than ordinary physical visits. Randles also reported that subsequent visits took a different form: the men no longer arrived in spectacular fashion but came by car, wore black business suits and old-fashioned hats, and knocked at the front door. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia601409.us.archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia601409.us.archive.org</span><span class="citation-popover-snippet">Internet Archive</span></span></span>
 
-
 <img src="{{ "/assets/images/Cynthia_Appleton_enc_304111-Illustration-1-dark.svg" | relative_url }}" alt="Cynthia Appleton encounter 1957 illustration 1" data-theme-src-dark="{{ "/assets/images/Cynthia_Appleton_enc_304111-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cynthia_Appleton_enc_304111-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest evidence is also the most frustrating
 
@@ -788,7 +786,6 @@ The third is the reported scorch mark. Appleton said the being had stood on a sh
 
 That lost newspaper is the case in miniature: potentially interesting, but evidentially incomplete. A scorch mark without chain of custody, photographs, laboratory analysis, or a surviving sample cannot distinguish an anomalous event from a mundane burn, electrical accident, hoax, or later embellishment.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G5rjEE8vvvQ" title="Woman&#x27;s Strange ENCOUNTER WITH ALIENS from Venus Will Shock You!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G5rjEE8vvvQ" target="_blank" rel="noopener noreferrer">Woman&#x27;s Strange ENCOUNTER WITH ALIENS from Venus Will Shock You!</a></p><p class="youtube-embed-meta">Channel: Weird World &middot; Views: 37.8K &middot; Uploaded: August 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G5rjEE8vvvQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G5rjEE8vvvQ">Open on YouTube</a></p></div></div></div>
 
 ## The “Venus baby” claim changed the case
@@ -799,16 +796,14 @@ The reported birth partly matched the prediction. Appleton gave birth just after
 
 This is where the case becomes most vulnerable to overstatement. A pregnancy prediction, even if remembered accurately, is not the same as evidence of extraterrestrial parentage. Late-May versus 2 June is close but not exact; a boy and approximate weight are notable but not impossible guesses; and the more dramatic prediction that Matthew would become a “leader of men” at 14 did not produce any public historical confirmation in the surviving narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufoexperiences.blogspot.com/2005/03/space-baby-from-fortean-times.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexperiences.blogspot.com">[UFO Experiences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexperiences.blogspot.com</span><span class="citation-popover-title">UFO Experiences UFOexperiences: THE SPACE BABY (from the Fortean Times</span><span class="citation-popover-snippet">UFO Experiences UFOexperiences: THE SPACE BABY (from the Fortean Times</span></span></span>
 
-
 <img src="{{ "/assets/images/Cynthia_Appleton_enc_304111-Illustration-2-dark.svg" | relative_url }}" alt="Cynthia Appleton encounter 1957 illustration 2" data-theme-src-dark="{{ "/assets/images/Cynthia_Appleton_enc_304111-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cynthia_Appleton_enc_304111-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the story sounded so 1950s
 
 Appleton’s account fits the post-war contactee pattern more closely than many later alien-abduction stories. The visitor was not a small grey being in a clinical craft; he was tall, pale, blond, human-looking, and morally concerned. The message was not primarily about medical experimentation but about peace, scientific error, atomic danger, and humanity’s need to overcome war.
 
-That cultural setting matters. The Library of Congress notes that in the 1940s and 1950s, flying saucer reports became part of a broader cultural phenomenon shaped by Cold War fears, atomic weapons, film imagery, and hopes or anxieties about life beyond Earth. It also frames UFO stories as part of modern folklore: not necessarily meaningless, but stories that express what people feared, hoped, and imagined in a particular historical moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">UFOs and Aliens Among Us | Life on Other Worlds | Articles and Essays | Finding Our Place in the Cosmos: From Galileo to Sagan and Beyond...</span></span></span>
+That cultural setting matters. The Library of Congress notes that in the 1940s and 1950s, flying saucer reports became part of a broader cultural phenomenon shaped by Cold War fears, atomic weapons, film imagery, and hopes or anxieties about life beyond Earth. It also frames UFO stories as part of modern folklore: not necessarily meaningless, but stories that express what people feared, hoped, and imagined in a particular historical moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">UFOs and Aliens Among Us &#124; Life on Other Worlds &#124; Articles and Essays &#124; Finding Our Place in the Cosmos: From Galileo to Sagan and Beyond...</span></span></span>
 
 Appleton’s alleged visitor from “Gharnasvarn”, which she associated with Venus, belongs naturally in that world. Contactee stories of the period often featured benevolent “space brothers” warning Earth about violence and nuclear power, and Appleton’s visitors reportedly spoke about gravity, atoms, cancer, time, and spiritual unity. Those motifs make the case culturally coherent, but cultural coherence cuts both ways: it may explain why the story was persuasive to some contemporaries, and why sceptics see it as a product of its time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufoexperiences.blogspot.com/2005/03/space-baby-from-fortean-times.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexperiences.blogspot.com">[UFO Experiences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexperiences.blogspot.com</span><span class="citation-popover-title">UFO Experiences UFOexperiences: THE SPACE BABY (from the Fortean Times</span><span class="citation-popover-snippet">UFO Experiences UFOexperiences: THE SPACE BABY (from the Fortean Times</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2007/06/flyingsaucer-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Out of This World: 60 Years of Flying Saucers</span><span class="citation-popover-snippet">Out of This World: 60 Years of Flying Saucers</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v12TYzf_yvE" title="The Truth is Out There… and Closer Than You Think | ALIEN ABDUCTION: THE STRANGEST UFO CASE FILES" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v12TYzf_yvE" target="_blank" rel="noopener noreferrer">The Truth is Out There… and Closer Than You Think | ALIEN ABDUCTION: THE STRANGEST UFO CASE FILES</a></p><p class="youtube-embed-meta">Channel: FilmIsNow Movies &middot; Views: 27.1K &middot; Uploaded: February 2025 &middot; Length: 1 hour 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v12TYzf_yvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v12TYzf_yvE">Open on YouTube</a></p></div></div></div>
 
@@ -820,7 +815,6 @@ The National Archives explains that the Ministry of Defence kept UFO records fro
 
 This distinction is important for the wider case dossier. Britain did have official interest in aerial phenomena, and 1957 was not devoid of official UFO records; for example, The National Archives holds material on a 1957 RAF Ventnor track tracing. But that is a different kind of case: an aerial or radar-related report with defence relevance, not a private contactee narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">The National Archives UFO reports</span><span class="citation-popover-snippet">The National Archives UFO reports</span></span></span>
 
-
 <img src="{{ "/assets/images/Cynthia_Appleton_enc_304111-Illustration-3-dark.svg" | relative_url }}" alt="Cynthia Appleton encounter 1957 illustration 3" data-theme-src-dark="{{ "/assets/images/Cynthia_Appleton_enc_304111-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cynthia_Appleton_enc_304111-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Credibility: sincere witness, weak case
 
@@ -828,8 +822,7 @@ The fairest assessment is that Cynthia Appleton may well have been sincere, but 
 
 The weaknesses are substantial. The principal witness was usually alone for the most dramatic events. The physical evidence disappeared. Later claims became increasingly elaborate. The supposed technical teachings were not preserved in a way that could be tested. The pregnancy story included some coincidental-looking matches but no independent evidence of non-human involvement. The most striking failed claim is the absence of any public confirmation that Matthew became the predicted leader at 14. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufoexperiences.blogspot.com/2005/03/space-baby-from-fortean-times.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoexperiences.blogspot.com">[UFO Experiences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoexperiences.blogspot.com</span><span class="citation-popover-title">UFO Experiences UFOexperiences: THE SPACE BABY (from the Fortean Times</span><span class="citation-popover-snippet">UFO Experiences UFOexperiences: THE SPACE BABY (from the Fortean Times</span></span></span>
 
-The best sceptical explanation is not necessarily a simple accusation of fraud. The case could involve misperception, altered states, psychological stress, religious or psychic interpretation, press exaggeration, memory development through repeated retelling, or some mixture of these. The Library of Congress’ broader framing of UFO stories as folklore shaped by media and Cold War anxieties is especially relevant here, because Appleton’s story contains many themes that were already circulating in the period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">UFOs and Aliens Among Us | Life on Other Worlds | Articles and Essays | Finding Our Place in the Cosmos: From Galileo to Sagan and Beyond...</span></span></span>
-
+The best sceptical explanation is not necessarily a simple accusation of fraud. The case could involve misperception, altered states, psychological stress, religious or psychic interpretation, press exaggeration, memory development through repeated retelling, or some mixture of these. The Library of Congress’ broader framing of UFO stories as folklore shaped by media and Cold War anxieties is especially relevant here, because Appleton’s story contains many themes that were already circulating in the period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: loc.gov">[The Library of Congress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">loc.gov</span><span class="citation-popover-snippet">UFOs and Aliens Among Us &#124; Life on Other Worlds &#124; Articles and Essays &#124; Finding Our Place in the Cosmos: From Galileo to Sagan and Beyond...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WVwguA4Omks" title="Paranormal Into The Night | 1950 Egg Shape UFO | 1950 Airline Pilot UFO Sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WVwguA4Omks" target="_blank" rel="noopener noreferrer">Paranormal Into The Night | 1950 Egg Shape UFO | 1950 Airline Pilot UFO Sighting</a></p><p class="youtube-embed-meta">Channel: The Late Late Horror Show &middot; Views: 863 &middot; Uploaded: March 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WVwguA4Omks" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WVwguA4Omks">Open on YouTube</a></p></div></div></div>
 
@@ -840,44 +833,86 @@ The unresolved core is not whether the case proves alien visitation; it does not
 For a stronger evidential reassessment, the case would need original local newspaper pages, any surviving Dale notes or correspondence, photographs or laboratory records of the scorched newspaper, and independent statements from household members or visitors. Without those, the Cynthia Appleton encounter remains a historically interesting British contactee case: memorable, culturally revealing, and still discussed, but evidentially fragile.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened in Aston?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened in Aston?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Cynthia Appleton guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Cynthia+Appleton+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Explicitly catalogs the November 1957 materialization entry, identifying Cynthia Appleton, her fireplace, and the whistling noise.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Aston Birmingham guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Aston+Birmingham+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucer+Pilgrimage+by+Bryant+Reeve&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucer Pilgrimage on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TIdEAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucer Pilgrimage" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Flying+Saucer+Pilgrimage+by+Bryant+Reeve&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucer Pilgrimage">Flying Saucer Pilgrimage</a>
+        </h4>
+        <p class="fr-book-author">By Bryant Reeve, Helen Reeve</p>
+        
+        <p class="fr-book-desc">Examines the philosophical themes of benevolent blond visitors delivering telepathic messages about nuclear danger and cosmic peace.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Flying+Saucer+Pilgrimage+by+Bryant+Reeve&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Dr John Dale guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Dr+John+Dale+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nikola Tesla Journey to Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hd0LAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nikola Tesla Journey to Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nikola Tesla Journey to Mars">Nikola Tesla Journey to Mars</a>
+        </h4>
+        <p class="fr-book-author">By Sean Casteel</p>
+        
+        <p class="fr-book-desc">Establishes the quintessential 1950s &#x27;Nordic&#x27; alien motif that heavily structured public expectations and subsequent witness accounts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=London%27s+Lea+Valley+by+Jim+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open London&#x27;s Lea Valley on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qkZjAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for London&#x27;s Lea Valley" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=London%27s+Lea+Valley+by+Jim+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="London&#x27;s Lea Valley">London&#x27;s Lea Valley</a>
+        </h4>
+        <p class="fr-book-author">By Jim Lewis</p>
+        
+        <p class="fr-book-desc">Provides essential geographic and social context for the domestic post-war setting of Aston and Fentham Road in the late 1950s.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=London%27s+Lea+Valley+by+Jim+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucer+Pilgrimage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer Pilgrimage</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nikola Tesla Journey to Mars</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -914,15 +949,15 @@ For a stronger evidential reassessment, the case would need original local newsp
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -930,15 +965,15 @@ For a stronger evidential reassessment, the case would need original local newsp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -946,15 +981,15 @@ For a stronger evidential reassessment, the case would need original local newsp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -962,15 +997,15 @@ For a stronger evidential reassessment, the case would need original local newsp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -978,7 +1013,7 @@ For a stronger evidential reassessment, the case would need original local newsp
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="cynthia-appleton-encounter-1957-what-really-happened-in-aston-ufo-poster-series-television-gerry-anderson-band-concert-t" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1194,123 +1229,123 @@ For a stronger evidential reassessment, the case would need original local newsp
 1. <a id="endnote-1"></a>
    Source: ia601409.us.archive.org  
    Title: Internet Archive  
-   Link: [https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf](https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf)  
+   Link: <a href="https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601409.us.archive.org/0/items/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "David Jacobs The UFO Controversy In America"  
-   Link: [https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/Jenny%20Randles%20-%20The%20Truth%20Behind%20Men%20In%20Black_djvu.txt](https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/Jenny%20Randles%20-%20The%20Truth%20Behind%20Men%20In%20Black_djvu.txt)  
+   Link: <a href="https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/Jenny%20Randles%20-%20The%20Truth%20Behind%20Men%20In%20Black_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/Jenny%20Randles%20-%20The%20Truth%20Behind%20Men%20In%20Black_djvu.txt</a>  
 
 3. <a id="endnote-3"></a>
    Source: loc.gov  
    Title: The Library of Congress  
-   Link: [https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/](https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/)  
+   Link: <a href="https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/life-on-other-worlds/ufos-and-aliens-among-us/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Aliens Among Us | Life on Other Worlds | Articles and Essays | Finding Our Place in the Cosmos: From Galileo to Sagan and Beyond...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: wired.com  
    Title: Out of This World: 60 Years of Flying Saucers  
-   Link: [https://www.wired.com/2007/06/flyingsaucer-anniversary](https://www.wired.com/2007/06/flyingsaucer-anniversary)  
+   Link: <a href="https://www.wired.com/2007/06/flyingsaucer-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/06/flyingsaucer-anniversary</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps](https://www.archives.gov/research/topics/uaps)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
 7. <a id="endnote-7"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 serial 449  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_449.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: isaackoi.com  
    Title: 19571118 cynthia appleton encounters  
-   Link: [https://isaackoi.com/ufo-history/ufo/19571118-cynthia-appleton-encounters/](https://isaackoi.com/ufo-history/ufo/19571118-cynthia-appleton-encounters/)  
+   Link: <a href="https://isaackoi.com/ufo-history/ufo/19571118-cynthia-appleton-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://isaackoi.com/ufo-history/ufo/19571118-cynthia-appleton-encounters/</a>  
 
 9. <a id="endnote-9"></a>
    Source: ufoexperiences.blogspot.com  
    Title: UFO Experiences UFOexperiences: THE SPACE BABY (from the Fortean Times)  
-   Link: [https://ufoexperiences.blogspot.com/2005/03/space-baby-from-fortean-times.html](https://ufoexperiences.blogspot.com/2005/03/space-baby-from-fortean-times.html)  
+   Link: <a href="https://ufoexperiences.blogspot.com/2005/03/space-baby-from-fortean-times.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoexperiences.blogspot.com/2005/03/space-baby-from-fortean-times.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
    Title: The National Archives UFO reports  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 11. <a id="endnote-11"></a>
    Source: images.nationalarchives.gov.uk  
-   Link: [https://images.nationalarchives.gov.uk/asset/74533/](https://images.nationalarchives.gov.uk/asset/74533/)  
+   Link: <a href="https://images.nationalarchives.gov.uk/asset/74533/" target="_blank" rel="noopener noreferrer nofollow">https://images.nationalarchives.gov.uk/asset/74533/</a>  
 
 12. <a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Aston](https://en.wikipedia.org/wiki/Aston)  
+   Link: <a href="https://en.wikipedia.org/wiki/Aston" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aston</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Contactee](https://en.wikipedia.org/wiki/Contactee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
 
 15. <a id="endnote-15"></a>
    Source: wikishire.co.uk  
    Title: Aston, Birmingham  
-   Link: [https://wikishire.co.uk/wiki/Aston%2C_Birmingham](https://wikishire.co.uk/wiki/Aston%2C_Birmingham)  
+   Link: <a href="https://wikishire.co.uk/wiki/Aston%2C_Birmingham" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Aston%2C_Birmingham</a>  
 
 16. <a id="endnote-16"></a>
    Source: calameo.com  
    Title: Jenny Randles  
-   Link: [https://www.calameo.com/books/0005840379baccf9c1461](https://www.calameo.com/books/0005840379baccf9c1461)  
+   Link: <a href="https://www.calameo.com/books/0005840379baccf9c1461" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/0005840379baccf9c1461</a>  
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=OUeT32Zc4rY](https://www.youtube.com/watch?v=OUeT32Zc4rY)  
+   Link: <a href="https://www.youtube.com/watch?v=OUeT32Zc4rY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OUeT32Zc4rY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth is Out There… and Closer Than You Think | ALIEN ABDUCTION: THE STRANGEST UFO CASE FILES...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=v12TYzf_yvE](https://www.youtube.com/watch?v=v12TYzf_yvE)  
+   Link: <a href="https://www.youtube.com/watch?v=v12TYzf_yvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v12TYzf_yvE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases new batch of declassified UFO files | LiveNOW from FOX...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WVwguA4Omks](https://www.youtube.com/watch?v=WVwguA4Omks)  
+   Link: <a href="https://www.youtube.com/watch?v=WVwguA4Omks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WVwguA4Omks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1950s Memoirs of...Alien Contact?! Buy Day Friday December 15, 2023...</p></details>
    Published: December 15, 2023  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5F-9YGfQ5gs](https://www.youtube.com/watch?v=5F-9YGfQ5gs)  
+   Link: <a href="https://www.youtube.com/watch?v=5F-9YGfQ5gs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5F-9YGfQ5gs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unearthly Encounters | ALIEN ABDUCTION: THE STRANGEST UFO CASE FILES | Beyond Belief...</p></details>
    Published: December 15, 2023  
 
 21. <a id="endnote-21"></a>
    Source: justice.gov  
-   Link: [https://www.justice.gov/atr/antitrust-case-filings-alpha](https://www.justice.gov/atr/antitrust-case-filings-alpha)  
+   Link: <a href="https://www.justice.gov/atr/antitrust-case-filings-alpha" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/atr/antitrust-case-filings-alpha</a>  
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology](https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology)  
+   Link: <a href="https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358063410_UFO_Mythologies_Extraterrestrial_Cosmology_and_Intergalactic_Eschatology</a>  
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pub/dir/Cynthia/Appleton](https://www.linkedin.com/pub/dir/Cynthia/Appleton)  
+   Link: <a href="https://www.linkedin.com/pub/dir/Cynthia/Appleton" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pub/dir/Cynthia/Appleton</a>  
 
 24. <a id="endnote-24"></a>
    Source: any-village.com  
-   Link: [https://www.any-village.com/UK/England/South-Yorkshire/Aston/home.aspx](https://www.any-village.com/UK/England/South-Yorkshire/Aston/home.aspx)  
+   Link: <a href="https://www.any-village.com/UK/England/South-Yorkshire/Aston/home.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.any-village.com/UK/England/South-Yorkshire/Aston/home.aspx</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100066375915937/posts/fentham-road-aston-where-cynthia-appleton-lived-56-years-ago-now-my-daughter-vic/1032056316853343/](https://www.facebook.com/100066375915937/posts/fentham-road-aston-where-cynthia-appleton-lived-56-years-ago-now-my-daughter-vic/1032056316853343/)  
+   Link: <a href="https://www.facebook.com/100066375915937/posts/fentham-road-aston-where-cynthia-appleton-lived-56-years-ago-now-my-daughter-vic/1032056316853343/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100066375915937/posts/fentham-road-aston-where-cynthia-appleton-lived-56-years-ago-now-my-daughter-vic/1032056316853343/</a>  
 
 26. <a id="endnote-26"></a>
    Source: sherylglick.com  
-   Link: [https://www.sherylglick.com/archive/radio_shows/How-When-and-Why-We-May-Talk-to-Aliens.html](https://www.sherylglick.com/archive/radio_shows/How-When-and-Why-We-May-Talk-to-Aliens.html)  
+   Link: <a href="https://www.sherylglick.com/archive/radio_shows/How-When-and-Why-We-May-Talk-to-Aliens.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sherylglick.com/archive/radio_shows/How-When-and-Why-We-May-Talk-to-Aliens.html</a>

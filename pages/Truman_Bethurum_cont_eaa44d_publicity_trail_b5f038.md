@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /truman-bethurum-contact-1954/
 nav_short_title: Public Trail
 title: How a Desert Story Became a Public Case
-title_full: How a Desert Story Became a Public Case | Bethurum
+title_full: How a Desert Story Became a Public Case
 display_title_short: Public Trail
 display_title: Public Trail
 heading_title: How a Desert Story Became a Public Case
@@ -233,7 +233,7 @@ prev_link:
   permalink: /evidence-check/
   short_title: Evidence Check
   heading_title: Did the FBI Validate Bethurum's Saucer Claim?
-date: '2026-06-08 23:24:55 '
+date: '2026-06-11 13:15:35 '
 header:
   og_image: /assets/images/Truman_Bethurum_cont_eaa44d_publicity_trail_b5f038-Illustration-1-social.jpg
   preview_image: /assets/images/Truman_Bethurum_cont_eaa44d_publicity_trail_b5f038-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Truman_Bethurum_cont_eaa44d_publicity_trail_b5f038-Illustr
 
 ## Introduction
 
-The Truman Bethurum story became nationally visible not when the alleged encounters supposedly occurred in the Nevada desert in 1952, but when those claims were transformed into a travelling UFO-contactee narrative in 1953 and 1954. What began as a tale told around the Mormon Mesa area near Las Vegas evolved into magazine features, a commercially published book, paid lectures, and public “flying saucer” events promoted alongside other famous contactees. That transition matters because it reveals how early UFO culture operated in practice: private experiences became public spectacles through pulp magazines, lecture circuits, ticket sales, and personality-driven promotion. The Mormon Mesa episodes themselves remained almost entirely dependent on Bethurum’s own testimony, yet the publicity campaign gave the case a much larger cultural footprint than its evidential basis justified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Truman Bethurum Part 01 (Final</span><span class="citation-popover-snippet">FBISTANDARD FORM NO. 641954, he received a call from George Hunt Williamson and a Mr Manspeaker... 6/6/54 relative to BETHURUM&#x27;s story r...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Truman_Bethurum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Truman Bethurum</span><span class="citation-popover-snippet">Truman Bethurum</span></span></span>
-
+The Truman Bethurum story became nationally visible not when the alleged encounters supposedly occurred in the Nevada desert in 1952, but when those claims were transformed into a travelling UFO-contactee narrative in 1953 and 1954. What began as a tale told around the Mormon Mesa area near Las Vegas evolved into magazine features, a commercially published book, paid lectures, and public “flying saucer” events promoted alongside other famous contactees. That transition matters because it reveals how early UFO culture operated in practice: private experiences became public spectacles through pulp magazines, lecture circuits, ticket sales, and personality-driven promotion. The Mormon Mesa episodes themselves remained almost entirely dependent on Bethurum’s own testimony, yet the publicity campaign gave the case a much larger cultural footprint than its evidential basis justified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Truman Bethurum Part 01 (Final</span><span class="citation-popover-snippet">STANDARD FORM NO. 641954, he received a call from George Hunt Williamson and a Mr Manspeaker... 6/6/54 relative to BETHURUM&#x27;s story r...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Truman_Bethurum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Truman Bethurum</span><span class="citation-popover-snippet">Truman Bethurum</span></span></span>
 
 <img src="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_publicity_trail_b5f038-Illustration-1-dark.svg" | relative_url }}" alt="Public Trail illustration 1" data-theme-src-dark="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_publicity_trail_b5f038-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_publicity_trail_b5f038-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the Mormon Mesa story was framed
@@ -251,7 +250,6 @@ The Truman Bethurum story became nationally visible not when the alleged encount
 Bethurum’s account centred on a sequence of meetings he said occurred between July and November 1952 while he was working road construction and heavy-equipment jobs near Mormon Mesa, Nevada. In his telling, the first encounter happened during the night of 27–28 July 1952 after he fell asleep near a construction area and was awakened by humanoid figures who escorted him aboard a large disc-shaped craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Hunt_Williamson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Hunt Williamson</span><span class="citation-popover-snippet">George Hunt Williamson</span></span></span>
 
 Unlike many later alien-abduction stories, Bethurum’s narrative followed the pattern typical of early 1950s “contactee” literature:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -265,7 +263,6 @@ Unlike many later alien-abduction stories, Bethurum’s narrative followed the p
 The centrepiece of the narrative was Aura Rhanes, the alleged female commander of the craft. Bethurum repeatedly described her as attractive, calm, humorous, and fully human in appearance apart from unusual clothing and mannerisms. The emotional tone of the story became one of its most memorable features. Even sympathetic UFO writers later acknowledged that Bethurum’s public appeal depended heavily on the romantic and theatrical aspects of his descriptions of Aura Rhanes and the “Clarion” civilisation she represented. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Truman_Bethurum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Truman Bethurum</span><span class="citation-popover-snippet">Truman Bethurum</span></span></span>
 
 Bethurum claimed the craft came from a hidden planet called Clarion, supposedly located on the far side of the Moon and therefore invisible from Earth. This immediately distinguished his story from ordinary UFO-sighting reports and pushed it into overtly cosmological territory. Even many later UFO researchers who accepted the possibility of unidentified aerial phenomena regarded the Clarion claim as scientifically impossible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Hunt_Williamson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Hunt Williamson</span><span class="citation-popover-snippet">George Hunt Williamson</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a-KHXfvR61o" title="California&#x27;s Gold S11E11 Giant Rock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a-KHXfvR61o" target="_blank" rel="noopener noreferrer">California&#x27;s Gold S11E11 Giant Rock</a></p><p class="youtube-embed-meta">Channel: CA&#x27;s Gold Fan &middot; Views: 1.9K &middot; Uploaded: February 2024 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a-KHXfvR61o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a-KHXfvR61o">Open on YouTube</a></p></div></div></div>
 
@@ -287,7 +284,6 @@ This escalating structure mirrored the broader contactee movement emerging in th
 
 He also claimed increasing familiarity with the Clarion crew over time. The beings supposedly discussed world affairs, social harmony, and spiritual development. The tone resembled the quasi-religious “Space Brother” themes popularised by other contactees such as George Adamski and later promoted by George Hunt Williamson. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Hunt_Williamson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Hunt Williamson</span><span class="citation-popover-snippet">George Hunt Williamson</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Hunt_Williamson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Hunt Williamson</span><span class="citation-popover-snippet">George Hunt Williamson</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pcRWbnOCw2c" title="UFOs and the Occult 2023 | Stories of Those Who Have Made Contact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pcRWbnOCw2c" target="_blank" rel="noopener noreferrer">UFOs and the Occult 2023 | Stories of Those Who Have Made Contact</a></p><p class="youtube-embed-meta">Channel: The Great Courses &middot; Views: 336.6K &middot; Uploaded: November 2022 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pcRWbnOCw2c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pcRWbnOCw2c">Open on YouTube</a></p></div></div></div>
 
 ### The lack of independent corroboration
@@ -304,10 +300,9 @@ This distinction became increasingly important as the publicity campaign expande
 
 Bethurum’s transition from obscure claimant to recognised contactee depended heavily on UFO publishing networks already forming around the flying-saucer craze of the early 1950s. After reportedly discussing his experiences at Giant Rock gatherings in California, shortened versions of his story began circulating in flying-saucer publications. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Hunt_Williamson" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Hunt Williamson</span><span class="citation-popover-snippet">George Hunt Williamson</span></span></span>
 
-One important step was the appearance of an abbreviated account in *Saucers* magazine during 1953. The article was often referenced under titles such as “I Was Inside a Flying Saucer”. These publications were not mainstream scientific journals; they were enthusiast magazines aimed at readers already interested in UFOs, metaphysics, and extraterrestrial visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bethurum-truman-1898-1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">bethurum truman 1898 1969</span><span class="citation-popover-snippet">EncyclopediaBethurum, Truman (1898-1969)Bethurum initially told his story at the flying saucer convention at Giant Rock in 1952. An abbre...</span></span></span>
+One important step was the appearance of an abbreviated account in *Saucers* magazine during 1953. The article was often referenced under titles such as “I Was Inside a Flying Saucer”. These publications were not mainstream scientific journals; they were enthusiast magazines aimed at readers already interested in UFOs, metaphysics, and extraterrestrial visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bethurum-truman-1898-1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">bethurum truman 1898 1969</span><span class="citation-popover-snippet">Bethurum, Truman (1898-1969)Bethurum initially told his story at the flying saucer convention at Giant Rock in 1952. An abbre...</span></span></span>
 
 The magazine exposure accomplished several things at once:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -319,7 +314,6 @@ The magazine exposure accomplished several things at once:
 </div>
 
 In practical terms, the magazine circuit was the infrastructure that allowed the Mormon Mesa tale to become nationally known.
-
 
 <img src="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_publicity_trail_b5f038-Illustration-2-dark.svg" | relative_url }}" alt="Public Trail illustration 2" data-theme-src-dark="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_publicity_trail_b5f038-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_publicity_trail_b5f038-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Aboard a Flying Saucer
@@ -342,16 +336,15 @@ Bethurum became a regular figure at Giant Rock gatherings in California, events 
 
 The Mormon Mesa story worked especially well in live settings because it was vivid, serialised, and character-driven. Aura Rhanes became a recurring figure audiences expected to hear about, almost like a continuing radio-drama personality within UFO culture.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G2ioIvdPgb8" title="UFO Contactees with Greg Bishop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G2ioIvdPgb8" target="_blank" rel="noopener noreferrer">UFO Contactees with Greg Bishop</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 16.8K &middot; Uploaded: June 2022 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G2ioIvdPgb8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G2ioIvdPgb8">Open on YouTube</a></p></div></div></div>
 
 ### The Cincinnati programme and FBI attention
 
-One of the clearest surviving records of the 1954 publicity trail appears in FBI documents connected to a travelling lecture event in Cincinnati. A July 1954 FBI memorandum discussed a programme promoted as “The Real Flying Saucer Story”, featuring Bethurum alongside George Hunt Williamson and others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Truman Bethurum Part 01 (Final</span><span class="citation-popover-snippet">FBISTANDARD FORM NO. 641954, he received a call from George Hunt Williamson and a Mr Manspeaker... 6/6/54 relative to BETHURUM&#x27;s story r...</span></span></span>
+One of the clearest surviving records of the 1954 publicity trail appears in FBI documents connected to a travelling lecture event in Cincinnati. A July 1954 FBI memorandum discussed a programme promoted as “The Real Flying Saucer Story”, featuring Bethurum alongside George Hunt Williamson and others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Truman Bethurum Part 01 (Final</span><span class="citation-popover-snippet">STANDARD FORM NO. 641954, he received a call from George Hunt Williamson and a Mr Manspeaker... 6/6/54 relative to BETHURUM&#x27;s story r...</span></span></span>
 
-The surviving records are important because they show what authorities were actually concerned about. The FBI documents do not present the Mormon Mesa encounters as verified extraterrestrial events under scientific investigation. Instead, they focus largely on public claims, ticketed promotion, and concerns that audiences might be deceived. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Truman Bethurum Part 01 (Final</span><span class="citation-popover-snippet">FBISTANDARD FORM NO. 641954, he received a call from George Hunt Williamson and a Mr Manspeaker... 6/6/54 relative to BETHURUM&#x27;s story r...</span></span></span>
+The surviving records are important because they show what authorities were actually concerned about. The FBI documents do not present the Mormon Mesa encounters as verified extraterrestrial events under scientific investigation. Instead, they focus largely on public claims, ticketed promotion, and concerns that audiences might be deceived. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Truman Bethurum Part 01 (Final</span><span class="citation-popover-snippet">STANDARD FORM NO. 641954, he received a call from George Hunt Williamson and a Mr Manspeaker... 6/6/54 relative to BETHURUM&#x27;s story r...</span></span></span>
 
-According to the memorandum, tickets were reportedly being sold for the event, and at least one concerned citizen contacted authorities questioning whether the programme was fraudulent if the claims could not be substantiated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Truman Bethurum Part 01 (Final</span><span class="citation-popover-snippet">FBISTANDARD FORM NO. 641954, he received a call from George Hunt Williamson and a Mr Manspeaker... 6/6/54 relative to BETHURUM&#x27;s story r...</span></span></span>
+According to the memorandum, tickets were reportedly being sold for the event, and at least one concerned citizen contacted authorities questioning whether the programme was fraudulent if the claims could not be substantiated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">Truman Bethurum Part 01 (Final</span><span class="citation-popover-snippet">STANDARD FORM NO. 641954, he received a call from George Hunt Williamson and a Mr Manspeaker... 6/6/54 relative to BETHURUM&#x27;s story r...</span></span></span>
 
 That distinction matters historically. The FBI interest reflected the social effects of the publicity campaign more than confidence in Bethurum’s account itself. The bureau’s attention illustrates how quickly contactee culture had moved from isolated claims into organised public commerce.
 
@@ -360,7 +353,6 @@ That distinction matters historically. The FBI interest reflected the social eff
 The Bethurum case demonstrates that 1950s UFO contactee stories were not only narratives about strange experiences; they were also media products shaped by publishing, touring, and audience demand.
 
 Several patterns stand out in the 1954 publicity trail:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -372,7 +364,6 @@ Several patterns stand out in the 1954 publicity trail:
 </div>
 
 This publicity machinery helped transform the Mormon Mesa encounters from a regional desert claim into a nationally recognised contactee story despite the absence of strong physical evidence.
-
 
 <img src="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_publicity_trail_b5f038-Illustration-3-dark.svg" | relative_url }}" alt="Public Trail illustration 3" data-theme-src-dark="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_publicity_trail_b5f038-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_publicity_trail_b5f038-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Mormon Mesa story endured
@@ -386,44 +377,86 @@ Even critics who dismissed the story as fantasy or opportunism recognised its cu
 By the late 1950s, scientific criticism and changing UFO trends weakened the influence of classic contactee stories. Yet Bethurum’s 1954 publicity campaign remains one of the clearest examples of how an alleged desert encounter could become a national UFO phenomenon through magazines, books, conventions, and paid public appearances.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How a Desert Story Became a Public Case, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How a Desert Story Became a Public Case. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Truman Bethurum guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Truman+Bethurum+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the contactee movement, situating individual publicity stories within the history of the 1950s UFO lecture circuit.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Aboard a Flying Saucer guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Aboard+a+Flying+Saucer+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Explains why sensational contact claims are often retrofitted into folklore through media promotion.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">George Hunt Williamson guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=George+Hunt+Williamson+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches forensic standards for evaluating witness consistency, motives, and the evolution of encounter narratives over time.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Details the importance of checking provenance and media origins when evaluating early sky sightings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -460,15 +493,15 @@ By the late 1950s, scientific criticism and changing UFO trends weakened the inf
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="{{ '/assets/images/marketplace-covers/74ea261e7342b39a92bd.jpg' | relative_url }}" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -476,15 +509,15 @@ By the late 1950s, scientific criticism and changing UFO trends weakened the inf
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/ef00455393e62219fc44.jpg' | relative_url }}" alt="Listing image for FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">FS03 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -492,15 +525,15 @@ By the late 1950s, scientific criticism and changing UFO trends weakened the inf
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="{{ '/assets/images/marketplace-covers/68420f3552a86fb231e2.jpg' | relative_url }}" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +541,15 @@ By the late 1950s, scientific criticism and changing UFO trends weakened the inf
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for vintage ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: vintage ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,7 +557,7 @@ By the late 1950s, scientific criticism and changing UFO trends weakened the inf
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=vintage+ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="vintage ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="public-trail-how-a-desert-story-became-a-public-case-truman-bethurum-contact-1954-vintage-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -740,93 +773,93 @@ By the late 1950s, scientific criticism and changing UFO trends weakened the inf
 1. <a id="endnote-1"></a>
    Source: vault.fbi.gov  
    Title: Truman Bethurum Part 01 (Final)  
-   Link: [https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29](https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FBISTANDARD FORM NO. 641954, he received a call from George Hunt Williamson and a Mr Manspeaker... 6/6/54 relative to BETHURUM&#x27;s story r...</p></details>
+   Link: <a href="https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/truman-bethurum/Truman%20Bethurum%20Part%2001%20%28Final%29</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>STANDARD FORM NO. 641954, he received a call from George Hunt Williamson and a Mr Manspeaker... 6/6/54 relative to BETHURUM&#x27;s story r...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Truman Bethurum  
-   Link: [https://en.wikipedia.org/wiki/Truman_Bethurum](https://en.wikipedia.org/wiki/Truman_Bethurum)  
+   Link: <a href="https://en.wikipedia.org/wiki/Truman_Bethurum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Truman_Bethurum</a>  
 
 3. <a id="endnote-3"></a>
    Source: encyclopedia.com  
    Title: bethurum truman 1898 1969  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bethurum-truman-1898-1969](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bethurum-truman-1898-1969)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EncyclopediaBethurum, Truman (1898-1969)Bethurum initially told his story at the flying saucer convention at Giant Rock in 1952. An abbre...</p></details>
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bethurum-truman-1898-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bethurum-truman-1898-1969</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bethurum, Truman (1898-1969)Bethurum initially told his story at the flying saucer convention at Giant Rock in 1952. An abbre...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/aboard-a-flying-saucer-truman-bethurum-and-the-people-of-the-planet-clarion.html](https://dokumen.pub/download/aboard-a-flying-saucer-truman-bethurum-and-the-people-of-the-planet-clarion.html)  
+   Link: <a href="https://dokumen.pub/download/aboard-a-flying-saucer-truman-bethurum-and-the-people-of-the-planet-clarion.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/aboard-a-flying-saucer-truman-bethurum-and-the-people-of-the-planet-clarion.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Between September 16th and November 2nd, 1952, Truman Bethurum was visited by the scow from Clarion, and its beautiful lady...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: George Hunt Williamson  
-   Link: [https://en.wikipedia.org/wiki/George_Hunt_Williamson](https://en.wikipedia.org/wiki/George_Hunt_Williamson)  
+   Link: <a href="https://en.wikipedia.org/wiki/George_Hunt_Williamson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Hunt_Williamson</a>  
 
 6. <a id="endnote-6"></a>
    Source: avalonlibrary.net  
-   Link: [https://avalonlibrary.net/David_M_Jacobs/Jacobs%2C%20David%20M%20-%201973%20PhD%20-%20The%20Controversy%20Over%20Unidentified%20Flying%20Objects%20in%20America.pdf](https://avalonlibrary.net/David_M_Jacobs/Jacobs%2C%20David%20M%20-%201973%20PhD%20-%20The%20Controversy%20Over%20Unidentified%20Flying%20Objects%20in%20America.pdf)  
+   Link: <a href="https://avalonlibrary.net/David_M_Jacobs/Jacobs%2C%20David%20M%20-%201973%20PhD%20-%20The%20Controversy%20Over%20Unidentified%20Flying%20Objects%20in%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/David_M_Jacobs/Jacobs%2C%20David%20M%20-%201973%20PhD%20-%20The%20Controversy%20Over%20Unidentified%20Flying%20Objects%20in%20America.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1954), p... Williamson, George Hunt, and Bailey, Alfred C. The Saucers Speak. Los...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: abebooks.co.uk  
    Title: Abe Books UKAboard a Flying Saucer (Hardcover)  
-   Link: [https://www.abebooks.co.uk/first-edition/Aboard-Flying-Saucer-Truman-Bethurum-Vorrs/32358749397/bd](https://www.abebooks.co.uk/first-edition/Aboard-Flying-Saucer-Truman-Bethurum-Vorrs/32358749397/bd)  
+   Link: <a href="https://www.abebooks.co.uk/first-edition/Aboard-Flying-Saucer-Truman-Bethurum-Vorrs/32358749397/bd" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/first-edition/Aboard-Flying-Saucer-Truman-Bethurum-Vorrs/32358749397/bd</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aboard a Flying Saucer (Hardcover) - Truman BethurumTitle: Aboard a Flying Saucer; Publisher: De Vorrs &amp; Co; Publication Date: 1954; Bind...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/pme5ia/has_anyone_here_heard_the_name_aura_rains/](https://www.reddit.com/r/aliens/comments/pme5ia/has_anyone_here_heard_the_name_aura_rains/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/pme5ia/has_anyone_here_heard_the_name_aura_rains/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/pme5ia/has_anyone_here_heard_the_name_aura_rains/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has anyone here heard the name &quot;Aura Rains&quot;?: r/aliensI may not have spelled the name correctly. I started going to UFO conventions in 1...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ia802901.us.archive.org  
-   Link: [https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf](https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf)  
+   Link: <a href="https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia802901.us.archive.org/19/items/ExtraordinaryEncounters_201809/Extraordinary%20Encounters.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: academia.edu  
    Title: (PDF) UFOs and the extraterrestrial contact movement George Hunt Williamson  
-   Link: [https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume_1_2](https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume_1_2)  
+   Link: <a href="https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume_1_2" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/60440004/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography_Volume_1_2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hemet, Calif.: T.O.T.T. Press, [1957]. 80p. Compiled reprinting of THE ABBEY TRANSCRIPTS (12111); see article in SAUCER NEWS, no.48.Read...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: bostonreview.net  
-   Link: [https://www.bostonreview.net/articles/forget-moving-canada-theres-room-moon/](https://www.bostonreview.net/articles/forget-moving-canada-theres-room-moon/)  
+   Link: <a href="https://www.bostonreview.net/articles/forget-moving-canada-theres-room-moon/" target="_blank" rel="noopener noreferrer nofollow">https://www.bostonreview.net/articles/forget-moving-canada-theres-room-moon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston ReviewStranger Things: The Rise and Fall of UFOs and Life on...4 Nov 2016 — Truman Bethurum (Aboard a Flying Saucer, 1954), who m...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: journalnews.com.ph  
    Title: when a sinister woman in black was also a beautiful space alien  
-   Link: [https://journalnews.com.ph/when-a-sinister-woman-in-black-was-also-a-beautiful-space-alien/](https://journalnews.com.ph/when-a-sinister-woman-in-black-was-also-a-beautiful-space-alien/)  
+   Link: <a href="https://journalnews.com.ph/when-a-sinister-woman-in-black-was-also-a-beautiful-space-alien/" target="_blank" rel="noopener noreferrer nofollow">https://journalnews.com.ph/when-a-sinister-woman-in-black-was-also-a-beautiful-space-alien/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(Not!) In Aboard A Flying Saucer (1954), Truman Bethurum recounted his amazing interactions with a beret wearing...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1t7rnc2/section_8_of_the_fbi_files_was_missing_but_i/](https://www.reddit.com/r/UFOs/comments/1t7rnc2/section_8_of_the_fbi_files_was_missing_but_i/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1t7rnc2/section_8_of_the_fbi_files_was_missing_but_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t7rnc2/section_8_of_the_fbi_files_was_missing_but_i/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>planned program called “The Real Flying Saucer Story” at the Taft...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: georgehbalazs.com  
    Title: 1957 PART 1 OF 2 FLYING SAUCERS FROM OTHER WORLDS  
-   Link: [https://georgehbalazs.com/wp-content/uploads/2020/02/1957-PART-1-OF-2-FLYING-SAUCERS-FROM-OTHER-WORLDS..pdf](https://georgehbalazs.com/wp-content/uploads/2020/02/1957-PART-1-OF-2-FLYING-SAUCERS-FROM-OTHER-WORLDS..pdf)  
+   Link: <a href="https://georgehbalazs.com/wp-content/uploads/2020/02/1957-PART-1-OF-2-FLYING-SAUCERS-FROM-OTHER-WORLDS..pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2020/02/1957-PART-1-OF-2-FLYING-SAUCERS-FROM-OTHER-WORLDS..pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>flying saucersHe and his wife Helen became interested in Saucers in 1953, and due to conflicting information and official denials decided...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
    Title: 1957 PART 1 OF 2 FLYING SAUCERS FROM OTHER WORLDS  
-   Link: [https://www.scribd.com/document/575558301/1957-PART-1-OF-2-FLYING-SAUCERS-FROM-OTHER-WORLDS](https://www.scribd.com/document/575558301/1957-PART-1-OF-2-FLYING-SAUCERS-FROM-OTHER-WORLDS)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| PDFFLYING SAU- CERS is a factual magazine, and it will print every word of truth (and the rumors too, except that they will be so label...</p></details>
+   Link: <a href="https://www.scribd.com/document/575558301/1957-PART-1-OF-2-FLYING-SAUCERS-FROM-OTHER-WORLDS" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/575558301/1957-PART-1-OF-2-FLYING-SAUCERS-FROM-OTHER-WORLDS</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>PDFFLYING SAU- CERS is a factual magazine, and it will print every word of truth (and the rumors too, except that they will be so label...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: mauritius-images.com  
-   Link: [https://www.mauritius-images.com/en/asset/ME-PI-6259461_mauritius_images_image_number_11922010_artist-s-impression-of-truman-bethurum-being-escorted-aboard-the-scow-from-clarion-and-being-welcomed-by-captain-aura-rhanes-on-mormon-mesa-nevada-1952-from-gavin-gibbons-they-rode-in-space-ships-published-1957-c-topfoto-fortean](https://www.mauritius-images.com/en/asset/ME-PI-6259461_mauritius_images_image_number_11922010_artist-s-impression-of-truman-bethurum-being-escorted-aboard-the-scow-from-clarion-and-being-welcomed-by-captain-aura-rhanes-on-mormon-mesa-nevada-1952-from-gavin-gibbons-they-rode-in-space-ships-published-1957-c-topfoto-fortean)  
+   Link: <a href="https://www.mauritius-images.com/en/asset/ME-PI-6259461_mauritius_images_image_number_11922010_artist-s-impression-of-truman-bethurum-being-escorted-aboard-the-scow-from-clarion-and-being-welcomed-by-captain-aura-rhanes-on-mormon-mesa-nevada-1952-from-gavin-gibbons-they-rode-in-space-ships-published-1957-c-topfoto-fortean" target="_blank" rel="noopener noreferrer nofollow">https://www.mauritius-images.com/en/asset/ME-PI-6259461_mauritius_images_image_number_11922010_artist-s-impression-of-truman-bethurum-being-escorted-aboard-the-scow-from-clarion-and-being-welcomed-by-captain-aura-rhanes-on-mormon-mesa-nevada-1952-from-gavin-gibbons-they-rode-in-space-ships-published-1957-c-topfoto-fortean</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on and being welcomed by Captain Aura Rhanes, on Mormon Mesa, Nevada, 1952...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ia803206.us.archive.org  
    Title: David Jacobs The UFO Controversy In America  
-   Link: [https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf](https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf)  
+   Link: <a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Controversy In AmericaWorld War II: The &quot;foo-fighters&quot; spotted dur· ing air battles-were they static electricity, enemy secret weapon...</p></details>

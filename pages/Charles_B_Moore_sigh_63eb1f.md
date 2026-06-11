@@ -360,9 +360,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -396,9 +396,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -436,9 +436,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Moody Abduction
   permalink: /charles-l-moody-abduction-1975/
   short_title: Moody Abduction
-date: '2026-06-08 23:32:20 '
+date: '2026-06-11 13:19:44 '
 header:
   og_image: /assets/images/Charles_B_Moore_sigh_63eb1f-overview-social.jpg
   preview_image: /assets/images/Charles_B_Moore_sigh_63eb1f-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Charles_B_Moore_sigh_63eb1f-overview-social.jpg
 ## Introduction
 
 Its lasting value is evidential rather than sensational. The case has a named technical witness, a dated written report, multiple reported observers, instrument-assisted observation, and a clear Cold War test-range setting. It also has serious weaknesses: no photograph, no radar track, no recovered object, uncertain range and size estimates, and later retellings that sometimes lean harder on extraordinary performance claims than the raw observation can safely bear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f-overview.webp" | relative_url }}" alt="Overview image for Charles B Moore sighting 1949" loading="eager" decoding="sync" fetchpriority="high">
 ## What happened near Arrey on 24 April 1949?
@@ -771,7 +770,6 @@ According to Moore’s statement, the men first noticed what they thought was th
 The most striking part of the report is the motion. Moore wrote that the object appeared to move rapidly east, then, near the end of the observation, the azimuth held roughly constant while the elevation began increasing from about 25 degrees to about 29 degrees. That upward change became important in later interpretations because it seemed to rule out a simple drifting balloon and made the object appear to have some kind of controlled motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The immediate environmental notes are also important. Moore’s report recorded no clouds, no haze, no sound, no visible trail, no exhaust, no odour, and no engines or traffic noise in the area. The absence of sound or trail does not by itself prove anything exotic, but it limits some obvious [explanations]({{ 'explanations-cfdc79/' | relative_url }}) if the object was as close, large, and fast as later estimates suggested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f-Illustration-1-dark.svg" | relative_url }}" alt="Charles B Moore sighting 1949 illustration 1" data-theme-src-dark="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Moore’s background matters
@@ -789,7 +787,6 @@ The sighting happened in a region dense with aerospace and military testing. Whi
 A later Stratocat summary of the 29 April 1949 FFTV flight describes the system as using three 73-foot General Mills Skyhook plastic balloons connected to a 15-foot projectile, with radar reflectors to allow tracking at very high altitude. That matters because Moore’s sighting occurred only days before the documented FFTV launch in the same general programme environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stratocat.com.ar/fichas-e/1949/HMN-19490429.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stratocat.com.ar">[StratoCat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stratocat.com.ar</span><span class="citation-popover-title">Strato Cat FFTV (Free Fall Test Vehicle</span><span class="citation-popover-snippet">Strato Cat FFTV (Free Fall Test Vehicle</span></span></span>
 
 This context cuts both ways. On one hand, it gives the case a plausible reason for unusual things to be in the sky: balloons, test vehicles, aircraft, and range operations were all part of the local background. On the other hand, Moore’s report explicitly asked whether the object could have been “some new or experimental aircraft”, and his later reasoning relied partly on the claim that the crew checked conditions and did not find a wind pattern that would carry an ordinary balloon along the observed path. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sbtvxBXEHVw" title="Roswell - UFO Crash in New Mexico | Free Documentary History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer">Roswell - UFO Crash in New Mexico | Free Documentary History</a></p><p class="youtube-embed-meta">Channel: Free Documentary - History &middot; Views: 88.1K &middot; Uploaded: January 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sbtvxBXEHVw">Open on YouTube</a></p></div></div></div>
 
@@ -809,7 +806,6 @@ Life’s account also included a much stronger performance estimate than the raw
 
 Edward J. Ruppelt, the first head of Project Blue Book, later treated the General Mills balloon observers as unusually qualified [witnesses]({{ 'witnesses-e14d5f/' | relative_url }}). In his book, he wrote that people who launched and tracked Skyhook balloons knew what such balloons looked like under different conditions, and he noted their resistance to the idea that their sightings could simply be dismissed as balloon misidentifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f-Illustration-2-dark.svg" | relative_url }}" alt="Charles B Moore sighting 1949 illustration 2" data-theme-src-dark="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest reasons to take the sighting seriously
 
@@ -825,7 +821,6 @@ The case remains notable because several evidential features line up better than
 
 Together, these points make the Arrey incident a serious historical UFO case. They do not remove all ambiguity, but they explain why it has persisted in catalogues and debates long after many weaker sightings disappeared from serious discussion.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F-C0BnreoWU" title="The Truth About The Roswell UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F-C0BnreoWU" target="_blank" rel="noopener noreferrer">The Truth About The Roswell UFO</a></p><p class="youtube-embed-meta">Channel: Studio 10 &middot; Views: 240.4K &middot; Uploaded: February 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F-C0BnreoWU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F-C0BnreoWU">Open on YouTube</a></p></div></div></div>
 
 ## The main conventional explanations and their limits
@@ -837,7 +832,6 @@ A secret aircraft or test vehicle is also possible in a broad Cold War sense. Wh
 Donald Menzel’s atmospheric-optics style explanation, later summarised as a refracted or distorted image of the balloon, is the classic sceptical line associated with the case. Ruppelt reported that Menzel suggested the observers may have seen an atmospheric image of their own balloon, while also noting that the General Mills observers rejected that view on the basis of their practical experience with balloons and the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A meteor or skipping meteor has also been discussed in UFO literature, but it faces awkward features: the reported duration of roughly 60 seconds, the apparent upward change near the end, and the absence of a trail. Meteors can produce surprising appearances, but the Moore report’s combination of apparent shape, duration, silent movement, and changing elevation does not fit neatly without additional assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f-Illustration-3-dark.svg" | relative_url }}" alt="Charles B Moore sighting 1949 illustration 3" data-theme-src-dark="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case does not prove
@@ -854,49 +848,89 @@ The Arrey case matters because it sits at the junction of three forces that shap
 
 For a modern reader, the case is best understood as a test of evidential discipline. It is stronger than a rumour because it has names, dates, technical context, official paperwork, and a Blue Book “unidentified” classification. It is weaker than proof because it lacks range, imagery, radar, and physical evidence. That tension is exactly why the Charles B. Moore sighting remains useful in a UFO case dossier: it shows how a report can be genuinely puzzling without justifying a leap to the most dramatic explanation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/odUSnDgU-oo" title="The Mysterious Roswell UFO Incident of 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer">The Mysterious Roswell UFO Incident of 1947</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 317.2K &middot; Uploaded: January 2012 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=odUSnDgU-oo">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Did Charles B. Moore Really See?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Did Charles B. Moore Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Contains the original military assessment for the 1949 sighting, analyzing why it stayed &#x27;unidentified&#x27; in the official Air Force records.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Arrey incident objectively, reviewing both the technical background of the witnesses and the limitations of their balloon-tr...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Documents the administrative processing of Charles B. Moore&#x27;s 24 April 1949 report while he worked near White Sands.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches methodology for isolating verifiable radar/instrument logs from subjective interpretations of atmospheric objects.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -933,15 +967,15 @@ For a modern reader, the case is best understood as a test of evidential discipl
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-charles-b-moore-really-see-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="what-did-charles-b-moore-really-see-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Balloon Modelling Twisting Balloons Balloon Bender Gifts Unisex T-Shirt"><img src="https://i.ebayimg.com/images/g/SEoAAOSwIw5mlmkj/s-l225.jpg" alt="Listing image for Balloon Modelling Twisting Balloons Balloon Bender Gifts Unisex T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-charles-b-moore-really-see-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="what-did-charles-b-moore-really-see-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer">Balloon Modelling Twisting Balloons Balloon Bender Gifts Unisex T-Shirt</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-charles-b-moore-really-see-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="what-did-charles-b-moore-really-see-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon model">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-charles-b-moore-really-see-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="what-did-charles-b-moore-really-see-weather-balloon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -949,47 +983,15 @@ For a modern reader, the case is best understood as a test of evidential discipl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-charles-b-moore-really-see-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="what-did-charles-b-moore-really-see-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Madewell Ottoman Rib Square Neck Top Size Medium Brown Style MB170"><img src="https://i.ebayimg.com/images/g/RVcAAOSwh65oEBIv/s-l225.jpg" alt="Listing image for Madewell Ottoman Rib Square Neck Top Size Medium Brown Style MB170" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-charles-b-moore-really-see-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="what-did-charles-b-moore-really-see-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer">Madewell Ottoman Rib Square Neck Top Size Medium Brown Style MB170</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-charles-b-moore-really-see-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="what-did-charles-b-moore-really-see-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weather balloon model">Search <span data-ebay-domain-label>eBay.co.uk</span>: weather balloon model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-charles-b-moore-really-see-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="what-did-charles-b-moore-really-see-weather-balloon-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -997,7 +999,7 @@ For a modern reader, the case is best understood as a test of evidential discipl
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="charles-b-moore-sighting-1949-what-did-charles-b-moore-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weather+balloon+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-charles-b-moore-really-see-weather-balloon-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather balloon model" data-ebay-reference="what-did-charles-b-moore-really-see-weather-balloon-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1212,229 +1214,229 @@ For a modern reader, the case is best understood as a test of evidential discipl
 
 1. <a id="endnote-1"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/arrey49.htm](https://ufologie.patrickgross.org/htm/arrey49.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/arrey49.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 3. <a id="endnote-3"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/shg/articles/lifemag52.html](https://www.project1947.com/shg/articles/lifemag52.html)  
+   Link: <a href="https://www.project1947.com/shg/articles/lifemag52.html" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/shg/articles/lifemag52.html</a>  
 
 4. <a id="endnote-4"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: [https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf](https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: ia601607.us.archive.org  
    Title: DTIC ADA326148  
-   Link: [https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf](https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf)  
+   Link: <a href="https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601607.us.archive.org/20/items/DTIC_ADA326148/DTIC_ADA326148.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt](https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt)  
+   Link: <a href="https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt</a>  
 
 8. <a id="endnote-8"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt](https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt)  
+   Link: <a href="https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/parallels-ancient-insights-into-modern-ufo-phenomena-by-richard-l.-thompson/Parallels%20Ancient%20Insights%20Into%20Modern%20UFO%20Phenomena%20by%20Richard%20L.%20Thompson_djvu.txt</a>  
 
 9. <a id="endnote-9"></a>
    Source: archive.org  
    Title: DTIC ADA326148 djvu.txt  
-   Link: [https://archive.org/stream/DTIC_ADA326148/DTIC_ADA326148_djvu.txt](https://archive.org/stream/DTIC_ADA326148/DTIC_ADA326148_djvu.txt)  
+   Link: <a href="https://archive.org/stream/DTIC_ADA326148/DTIC_ADA326148_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_ADA326148/DTIC_ADA326148_djvu.txt</a>  
 
 10. <a id="endnote-10"></a>
    Source: archive.org  
    Title: DTIC AD0688332 djvu.txt  
-   Link: [https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt](https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt)  
+   Link: <a href="https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_AD0688332/DTIC_AD0688332_djvu.txt</a>  
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt](https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt)  
+   Link: <a href="https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/TheHynekUFOReport/The_Hynek_UFO_Report_djvu.txt</a>  
 
 12. <a id="endnote-12"></a>
    Source: archive.org  
    Title: anon pdf from markdown djvu.txt  
-   Link: [https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt](https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt)  
+   Link: <a href="https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/anon_pdf_from_markdown/anon_pdf_from_markdown_djvu.txt</a>  
 
 13. <a id="endnote-13"></a>
    Source: dn721804.ca.archive.org  
    Title: Bad UFOs critical thinking about UFO claims  
-   Link: [https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf](https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf)  
+   Link: <a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: dn790004.ca.archive.org  
    Title: aeronauticsastro61unit bw  
-   Link: [https://dn790004.ca.archive.org/0/items/aeronauticsastro61unit/aeronauticsastro61unit_bw.pdf](https://dn790004.ca.archive.org/0/items/aeronauticsastro61unit/aeronauticsastro61unit_bw.pdf)  
+   Link: <a href="https://dn790004.ca.archive.org/0/items/aeronauticsastro61unit/aeronauticsastro61unit_bw.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn790004.ca.archive.org/0/items/aeronauticsastro61unit/aeronauticsastro61unit_bw.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: ia903205.us.archive.org  
    Title: Life the First Fifty Years, 1936 1986 by Life Magazine (z lib.org)  
-   Link: [https://ia903205.us.archive.org/20/items/life-the-first-fifty-years-1936-1986-by-life-magazine-z-lib.org/Life%20the%20First%20Fifty%20Years%2C%201936-1986%20by%20Life%20Magazine%20%28z-lib.org%29.pdf](https://ia903205.us.archive.org/20/items/life-the-first-fifty-years-1936-1986-by-life-magazine-z-lib.org/Life%20the%20First%20Fifty%20Years%2C%201936-1986%20by%20Life%20Magazine%20%28z-lib.org%29.pdf)  
+   Link: <a href="https://ia903205.us.archive.org/20/items/life-the-first-fifty-years-1936-1986-by-life-magazine-z-lib.org/Life%20the%20First%20Fifty%20Years%2C%201936-1986%20by%20Life%20Magazine%20%28z-lib.org%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia903205.us.archive.org/20/items/life-the-first-fifty-years-1936-1986-by-life-magazine-z-lib.org/Life%20the%20First%20Fifty%20Years%2C%201936-1986%20by%20Life%20Magazine%20%28z-lib.org%29.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: archive.org  
    Title: aeronauticsastro61unit djvu.txt  
-   Link: [https://archive.org/stream/aeronauticsastro61unit/aeronauticsastro61unit_djvu.txt](https://archive.org/stream/aeronauticsastro61unit/aeronauticsastro61unit_djvu.txt)  
+   Link: <a href="https://archive.org/stream/aeronauticsastro61unit/aeronauticsastro61unit_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/aeronauticsastro61unit/aeronauticsastro61unit_djvu.txt</a>  
 
 18. <a id="endnote-18"></a>
    Source: archives.gov  
    Title: presidential libraries  
-   Link: [https://www.archives.gov/research/topics/uaps/presidential-libraries](https://www.archives.gov/research/topics/uaps/presidential-libraries)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
 
 19. <a id="endnote-19"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/photographs" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/photographs</a>  
 
 20. <a id="endnote-20"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/moving-images-and-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/moving-images-and-sound</a>  
 
 21. <a id="endnote-21"></a>
    Source: case.org  
-   Link: [https://www.case.org/](https://www.case.org/)  
+   Link: <a href="https://www.case.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.case.org/</a>  
 
 22. <a id="endnote-22"></a>
    Source: history.navy.mil  
    Title: mil UF O Research Guide  
-   Link: [https://www.history.navy.mil/research/library/research-guides/ufo-research-guide.html](https://www.history.navy.mil/research/library/research-guides/ufo-research-guide.html)  
+   Link: <a href="https://www.history.navy.mil/research/library/research-guides/ufo-research-guide.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/research-guides/ufo-research-guide.html</a>  
 
 23. <a id="endnote-23"></a>
    Source: history.navy.mil  
    Title: mil UF O Research Guide  
-   Link: [https://www.history.navy.mil/research/library/bibliographies-and-research-guides/research-guides/ufo-research-guide.html](https://www.history.navy.mil/research/library/bibliographies-and-research-guides/research-guides/ufo-research-guide.html)  
+   Link: <a href="https://www.history.navy.mil/research/library/bibliographies-and-research-guides/research-guides/ufo-research-guide.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/bibliographies-and-research-guides/research-guides/ufo-research-guide.html</a>  
 
 24. <a id="endnote-24"></a>
    Source: secnav.navy.mil  
    Title: mil UF O FACT SHEET  
-   Link: [https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UFO%20fact%20sheet.pdf](https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UFO%20fact%20sheet.pdf)  
+   Link: <a href="https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UFO%20fact%20sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.secnav.navy.mil/foia/readingroom/CaseFiles/UAP%20INFO/UFO%20fact%20sheet.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: history.navy.mil  
    Title: space 11  
-   Link: [https://www.history.navy.mil/content/dam/nhhc/research/publications/space-and-the-united-states-navy/pdf/space-11.PDF](https://www.history.navy.mil/content/dam/nhhc/research/publications/space-and-the-united-states-navy/pdf/space-11.PDF)  
+   Link: <a href="https://www.history.navy.mil/content/dam/nhhc/research/publications/space-and-the-united-states-navy/pdf/space-11.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/dam/nhhc/research/publications/space-and-the-united-states-navy/pdf/space-11.PDF</a>  
 
 26. <a id="endnote-26"></a>
    Source: history.navy.mil  
    Title: mil Space  
-   Link: [https://www.history.navy.mil/content/dam/nhhc/research/publications/Publication-PDF/Space-and-the-United-States-Navy.pdf](https://www.history.navy.mil/content/dam/nhhc/research/publications/Publication-PDF/Space-and-the-United-States-Navy.pdf)  
+   Link: <a href="https://www.history.navy.mil/content/dam/nhhc/research/publications/Publication-PDF/Space-and-the-United-States-Navy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/dam/nhhc/research/publications/Publication-PDF/Space-and-the-United-States-Navy.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=sbtvxBXEHVw](https://www.youtube.com/watch?v=sbtvxBXEHVw)  
+   Link: <a href="https://www.youtube.com/watch?v=sbtvxBXEHVw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sbtvxBXEHVw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Roswell UFO Incident of 1947...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: stratocat.com.ar  
    Title: Strato Cat FFTV (Free Fall Test Vehicle)  
-   Link: [https://stratocat.com.ar/fichas-e/1949/HMN-19490429.htm](https://stratocat.com.ar/fichas-e/1949/HMN-19490429.htm)  
+   Link: <a href="https://stratocat.com.ar/fichas-e/1949/HMN-19490429.htm" target="_blank" rel="noopener noreferrer nofollow">https://stratocat.com.ar/fichas-e/1949/HMN-19490429.htm</a>  
 
 29. <a id="endnote-29"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo08.htm](https://sacred-texts.com/ufo/rufo/rufo08.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo08.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo08.htm</a>  
 
 30. <a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Charles B. Moore  
-   Link: [https://en.wikipedia.org/wiki/Charles_B._Moore](https://en.wikipedia.org/wiki/Charles_B._Moore)  
+   Link: <a href="https://en.wikipedia.org/wiki/Charles_B._Moore" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_B._Moore</a>  
 
 31. <a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Have We Visitors From Space?  
-   Link: [https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space%3F](https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space%3F)  
+   Link: <a href="https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space%3F" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space%3F</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 33. <a id="endnote-33"></a>
    Source: stratocat.com.ar  
    Title: SUPE R SKYHOOK I  
-   Link: [https://stratocat.com.ar/fichas-e/1954/NBR-19540518.htm](https://stratocat.com.ar/fichas-e/1954/NBR-19540518.htm)  
+   Link: <a href="https://stratocat.com.ar/fichas-e/1954/NBR-19540518.htm" target="_blank" rel="noopener noreferrer nofollow">https://stratocat.com.ar/fichas-e/1954/NBR-19540518.htm</a>  
 
 34. <a id="endnote-34"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 35. <a id="endnote-35"></a>
    Source: globalsecurity.org  
-   Link: [https://www.globalsecurity.org/intell/systems/skyhook.htm](https://www.globalsecurity.org/intell/systems/skyhook.htm)  
+   Link: <a href="https://www.globalsecurity.org/intell/systems/skyhook.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/intell/systems/skyhook.htm</a>  
 
 36. <a id="endnote-36"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/case](https://dictionary.cambridge.org/dictionary/english/case)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/case" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/case</a>  
 
 37. <a id="endnote-37"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 38. <a id="endnote-38"></a>
    Source: azarchivesonline.org  
-   Link: [https://www.azarchivesonline.org/xtf/view?docId=ead%2Fuoa%2FUAMS412.xml](https://www.azarchivesonline.org/xtf/view?docId=ead%2Fuoa%2FUAMS412.xml)  
+   Link: <a href="https://www.azarchivesonline.org/xtf/view?docId=ead%2Fuoa%2FUAMS412.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.azarchivesonline.org/xtf/view?docId=ead%2Fuoa%2FUAMS412.xml</a>  
 
 39. <a id="endnote-39"></a>
    Source: azarchivesonline.org  
-   Link: [https://www.azarchivesonline.org/xtf/view?doc.view=print%3Bchunk.id%3D0&docId=ead%2Fuoa%2FUAMS412.xml](https://www.azarchivesonline.org/xtf/view?doc.view=print%3Bchunk.id%3D0&docId=ead%2Fuoa%2FUAMS412.xml)  
+   Link: <a href="https://www.azarchivesonline.org/xtf/view?doc.view=print%3Bchunk.id%3D0&amp;docId=ead%2Fuoa%2FUAMS412.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.azarchivesonline.org/xtf/view?doc.view=print%3Bchunk.id%3D0&amp;docId=ead%2Fuoa%2FUAMS412.xml</a>  
 
 40. <a id="endnote-40"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 41. <a id="endnote-41"></a>
    Source: muller.lbl.gov  
-   Link: [https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html](https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html)  
+   Link: <a href="https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html" target="_blank" rel="noopener noreferrer nofollow">https://muller.lbl.gov/teaching/physics10/Roswell/USMogulReport.html</a>  
 
 42. <a id="endnote-42"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 43. <a id="endnote-43"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 44. <a id="endnote-44"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2023/04/sp-4702.pdf](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4702.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/04/sp-4702.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/04/sp-4702.pdf</a>  
 
 45. <a id="endnote-45"></a>
    Source: nsa.gov  
    Title: United States Air Force Fact Sheet 95-03United States Air Force Fact Sheet 95-03  
-   Link: [https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/)  
+   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761380/</a>  
 
 46. <a id="endnote-46"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/USNHistory/posts/didyouknow-theres-a-ufo-research-guide-on-our-website-from-declassified-document/976343387867082/](https://www.facebook.com/USNHistory/posts/didyouknow-theres-a-ufo-research-guide-on-our-website-from-declassified-document/976343387867082/)  
+   Link: <a href="https://www.facebook.com/USNHistory/posts/didyouknow-theres-a-ufo-research-guide-on-our-website-from-declassified-document/976343387867082/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USNHistory/posts/didyouknow-theres-a-ufo-research-guide-on-our-website-from-declassified-document/976343387867082/</a>  
 
 47. <a id="endnote-47"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972](https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972)  
+   Link: <a href="https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972</a>  
 
 48. <a id="endnote-48"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 49. <a id="endnote-49"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood](https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood)  
+   Link: <a href="https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood</a>  
 
 50. <a id="endnote-50"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/](https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/)  
+   Link: <a href="https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/</a>

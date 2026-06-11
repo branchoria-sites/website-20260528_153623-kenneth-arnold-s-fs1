@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -396,9 +396,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -436,9 +436,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Coyne Sighting
   permalink: /coyne-helicopter-sighting-1973/
   short_title: Coyne Sighting
-date: '2026-06-08 23:26:02 '
+date: '2026-06-11 13:16:11 '
 header:
   og_image: /assets/images/Clyde_Tombaugh_sight_af62cd-overview-social.jpg
   preview_image: /assets/images/Clyde_Tombaugh_sight_af62cd-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Clyde_Tombaugh_sight_af62cd-overview-social.jpg
 ## What Tombaugh said he saw
 
 The strongest version of the case is also the least sensational. According to Donald H. Menzel and Lyle G. Boyd’s detailed account in *The World of Flying Saucers*, Tombaugh was sitting outside in Las Cruces with his wife and mother-in-law on a moonless, exceptionally clear night. At about 10:45 p.m., a geometrically spaced group of six to eight small, yellowish-green, “windowlike” rectangles appeared almost overhead. The whole formation covered roughly one degree of sky, about twice the apparent width of the full Moon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The World of Flying Saucers, by Donald H. Menzel and Lyle G. Boyd—A Project Gutenberg eBook...</span></span></span>
-
 
 <img src="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd-overview.webp" | relative_url }}" alt="Overview image for Clyde Tombaugh sighting 1949" loading="eager" decoding="sync" fetchpriority="high">
 The observation lasted only about three seconds. Tombaugh described the group moving silently towards the south-southeast. As it moved away from the zenith, the individual lights appeared foreshortened, the formation seemed to shrink, the colour shifted towards brownish, and the lights faded out at roughly 35 to 40 degrees above the horizon. Mrs Tombaugh saw the phenomenon later in its passage, for about one and a half seconds, and perceived it less sharply as a diffuse greenish glow linking greenish spots. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The World of Flying Saucers, by Donald H. Menzel and Lyle G. Boyd—A Project Gutenberg eBook...</span></span></span>
@@ -776,7 +775,6 @@ By 1949 he was also working in a technical environment tied to rocketry and opti
 
 The sighting is also stronger than a single-witness anecdote because two family members were present. Yet the corroboration has limits. The other witnesses did not independently record a detailed, matching technical description; Mrs Tombaugh’s account, as summarised by Menzel and Boyd, was shorter and less sharply resolved. That is consistent with her seeing the lights later and for a shorter time, but it also means the case rests mainly on Tombaugh’s own report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The World of Flying Saucers, by Donald H. Menzel and Lyle G. Boyd—A Project Gutenberg eBook...</span></span></span>
 
-
 <img src="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd-Illustration-1-dark.svg" | relative_url }}" alt="Clyde Tombaugh sighting 1949 illustration 1" data-theme-src-dark="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the story was distorted in popular retellings
 
@@ -785,7 +783,6 @@ The Tombaugh sighting became widely known partly through the 7 April 1952 *Life*
 That publicity came at a cost. *Life* described the Tombaugh case as occurring in the summer of 1948, not 1949; said the object moved south to north; and framed it as a solid oval “ship” with visible windows. Menzel and Boyd specifically criticised this version, saying the *Life* summary contained multiple errors: the wrong year, wrong direction, an unsupported oval shape, a misleading brightness impression, and an invented speed judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/articles/lifemag52.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This matters because many later versions of the story inherit the dramatic *Life* imagery rather than Tombaugh’s more cautious description. A “ship with windows” suggests a craft. A “geometrically spaced group of faint rectangles” leaves more room for optical, atmospheric, or reflection-based explanations. The difference is not cosmetic; it changes the evidential value of the case.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KhafMlH7-Dc" title="“The Most Extraordinary Footage of all” - UNKNOWN UFO IN CALIFORNIA | Ancient Aliens | #Shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KhafMlH7-Dc" target="_blank" rel="noopener noreferrer">“The Most Extraordinary Footage of all” - UNKNOWN UFO IN CALIFORNIA | Ancient Aliens | #Shorts</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 2.0M &middot; Uploaded: September 2022 &middot; Length: 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KhafMlH7-Dc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KhafMlH7-Dc">Open on YouTube</a></p></div></div></div>
 
@@ -796,7 +793,6 @@ The 1949 sighting happened during the first intense phase of American official U
 Menzel and Boyd state that Tombaugh’s report was forwarded to Air Force officials, who could find no explanation. That is not the same as a formal proof of an extraordinary object. It means that, on the information available, the report was not reduced to a known aircraft, meteor, astronomical body, balloon, or hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The World of Flying Saucers, by Donald H. Menzel and Lyle G. Boyd—A Project Gutenberg eBook...</span></span></span>
 
 The broader official record is also a warning against over-reading “unidentified”. The National Archives notes that Project Blue Book eventually concluded that no investigated UFO represented a national-security threat, no submitted evidence showed technology beyond modern scientific knowledge, and no evidence showed that unidentified sightings were extraterrestrial vehicles. Those broad conclusions do not solve Tombaugh’s specific case, but they frame how official “unknowns” were later interpreted: an unresolved file was not treated as proof of alien origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd-Illustration-2-dark.svg" | relative_url }}" alt="Clyde Tombaugh sighting 1949 illustration 2" data-theme-src-dark="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The main sceptical explanation: an atmospheric reflection
@@ -809,7 +805,6 @@ For Tombaugh’s case, Menzel and Boyd proposed a more specific mechanism: a sma
 
 Tombaugh himself did not reject this direction of explanation. In the quotation reproduced by Menzel and Boyd, he said the faintness of the object and the way it faded as it moved from the zenith towards the south-eastern horizon were “suggestive” of reflection from a slight optical boundary, “as in an inversion layer”. He also stated that, while he had never seen anything like it before or since, a rare atmospheric set of circumstances was far more plausible than an interstellar visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The World of Flying Saucers, by Donald H. Menzel and Lyle G. Boyd—A Project Gutenberg eBook...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BFs3GC58O5U" title="Clyde Tombaugh: The Man who Discovered the Planet Pluto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BFs3GC58O5U" target="_blank" rel="noopener noreferrer">Clyde Tombaugh: The Man who Discovered the Planet Pluto</a></p><p class="youtube-embed-meta">Channel: 20th Century Time Machine &middot; Views: 10.9K &middot; Uploaded: March 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BFs3GC58O5U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BFs3GC58O5U">Open on YouTube</a></p></div></div></div>
 
 ## Why the case remains interesting but not decisive
@@ -820,7 +815,6 @@ The sighting also shows why witness credibility and object interpretation are se
 
 The most defensible assessment is therefore cautious. The sighting should not be dismissed as an obvious misidentification, because the witness was unusually qualified and the description was distinctive. But it also should not be inflated into proof of a structured craft, because the “ship” version comes largely from later embellishment, and Tombaugh himself favoured a rare atmospheric-optical explanation over the extraterrestrial one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">The World of Flying Saucers, by Donald H. Menzel and Lyle G. Boyd—A Project Gutenberg eBook...</span></span></span>
 
-
 <img src="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd-Illustration-3-dark.svg" | relative_url }}" alt="Clyde Tombaugh sighting 1949 illustration 3" data-theme-src-dark="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where it fits in the wider Tombaugh UFO record
 
@@ -830,49 +824,89 @@ One useful boundary marker is the separate “mysterious satellite” story. Arm
 
 That same caution applies to the 1949 sighting. It is historically notable because of who saw it and how carefully the best account can be reconstructed. Its value is highest when kept narrow: Las Cruces, 20 August 1949, a few seconds of faint rectangular lights, credible witnesses, no physical evidence, and a plausible but unproven atmospheric explanation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P3Gyj3D3_OA" title="Our World: Pluto - Our First Dwarf Planet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P3Gyj3D3_OA" target="_blank" rel="noopener noreferrer">Our World: Pluto - Our First Dwarf Planet</a></p><p class="youtube-embed-meta">Channel: NASA eClips - ARCHIVE &middot; Views: 6.5K &middot; Uploaded: December 2009 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P3Gyj3D3_OA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P3Gyj3D3_OA">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Did Clyde Tombaugh Really See?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Did Clyde Tombaugh Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides the objective, detailed case file entry for Clyde Tombaugh’s 1949 encounter, placing it in the context of the early post-war sig...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Includes first-hand commentary on military and intelligence efforts to distinguish atmospheric phenomena from potential craft reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Provides methodological tools to check witness statements against physical conditions like atmospheric refraction and light pollution.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Documents how intelligence units recorded and scrutinized sighting reports from the scientific community in the early postwar era.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -909,15 +943,15 @@ That same caution applies to the 1949 sighting. It is historically notable becau
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Baby Pluto Metallic Picture Framed Wall Art Print Poster Picture"><img src="https://i.ebayimg.com/images/g/V4wAAeSwSx9p9lW9/s-l225.jpg" alt="Listing image for Vintage Baby Pluto Metallic Picture Framed Wall Art Print Poster Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Baby Pluto Metallic Picture Framed Wall Art Print Poster Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Pluto poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Pluto poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -925,15 +959,15 @@ That same caution applies to the 1949 sighting. It is historically notable becau
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pluto, Never Forget Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/UR8AAeSweP5p1Th4/s-l225.jpg" alt="Listing image for Pluto, Never Forget Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" target="_blank" rel="sponsored noopener noreferrer">Pluto, Never Forget Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Pluto poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Pluto poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -941,15 +975,15 @@ That same caution applies to the 1949 sighting. It is historically notable becau
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pluto Planet Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/zIUAAeSwleFpwYhJ/s-l225.jpg" alt="Listing image for Pluto Planet Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" target="_blank" rel="sponsored noopener noreferrer">Pluto Planet Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Pluto poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Pluto poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -957,15 +991,15 @@ That same caution applies to the 1949 sighting. It is historically notable becau
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pluto Poster Walking On Water Milan Borich Mike Hall Original Promotion 1989"><img src="https://i.ebayimg.com/images/g/mYgAAeSwAxpn5C-y/s-l225.jpg" alt="Listing image for Pluto Poster Walking On Water Milan Borich Mike Hall Original Promotion 1989" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" target="_blank" rel="sponsored noopener noreferrer">Pluto Poster Walking On Water Milan Borich Mike Hall Original Promotion 1989</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Pluto poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Pluto poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -973,7 +1007,7 @@ That same caution applies to the 1949 sighting. It is historically notable becau
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="clyde-tombaugh-sighting-1949-what-did-clyde-tombaugh-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-clyde-tombaugh-really-see-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="what-did-clyde-tombaugh-really-see-pluto-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1189,138 +1223,138 @@ That same caution applies to the 1949 sighting. It is historically notable becau
 1. <a id="endnote-1"></a>
    Source: gutenberg.org  
    Title: Project Gutenberg  
-   Link: [https://www.gutenberg.org/files/66639/66639-h/66639-h.htm](https://www.gutenberg.org/files/66639/66639-h/66639-h.htm)  
+   Link: <a href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/66639/66639-h/66639-h.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The World of Flying Saucers, by Donald H. Menzel and Lyle G. Boyd—A Project Gutenberg eBook...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science-frontiers.com  
    Title: Example Zoom search template page  
-   Link: [https://www.science-frontiers.com/online/search.cgi?zoom_and=1&zoom_page=8&zoom_per_page=50&zoom_query=three&zoom_sort=2&zoom_xml=0](https://www.science-frontiers.com/online/search.cgi?zoom_and=1&zoom_page=8&zoom_per_page=50&zoom_query=three&zoom_sort=2&zoom_xml=0)  
+   Link: <a href="https://www.science-frontiers.com/online/search.cgi?zoom_and=1&amp;zoom_page=8&amp;zoom_per_page=50&amp;zoom_query=three&amp;zoom_sort=2&amp;zoom_xml=0" target="_blank" rel="noopener noreferrer nofollow">https://www.science-frontiers.com/online/search.cgi?zoom_and=1&amp;zoom_page=8&amp;zoom_per_page=50&amp;zoom_query=three&amp;zoom_sort=2&amp;zoom_xml=0</a>  
 
 3. <a id="endnote-3"></a>
    Source: lowell.edu  
-   Link: [https://lowell.edu/discover/history-of-pluto/](https://lowell.edu/discover/history-of-pluto/)  
+   Link: <a href="https://lowell.edu/discover/history-of-pluto/" target="_blank" rel="noopener noreferrer nofollow">https://lowell.edu/discover/history-of-pluto/</a>  
 
 4. <a id="endnote-4"></a>
    Source: lowell.edu  
-   Link: [https://lowell.edu/discover/telescopes-exhibits/pluto-discovery-telescope/](https://lowell.edu/discover/telescopes-exhibits/pluto-discovery-telescope/)  
+   Link: <a href="https://lowell.edu/discover/telescopes-exhibits/pluto-discovery-telescope/" target="_blank" rel="noopener noreferrer nofollow">https://lowell.edu/discover/telescopes-exhibits/pluto-discovery-telescope/</a>  
 
 5. <a id="endnote-5"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/shg/articles/lifemag52.html](https://www.project1947.com/shg/articles/lifemag52.html)  
+   Link: <a href="https://www.project1947.com/shg/articles/lifemag52.html" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/shg/articles/lifemag52.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 7. <a id="endnote-7"></a>
    Source: armaghplanet.com  
    Title: Clyde Tombaugh and the Mysterious Satellite – Astronotes  
-   Link: [https://armaghplanet.com/clyde-tombaugh-and-the-mysterious-satellite.html](https://armaghplanet.com/clyde-tombaugh-and-the-mysterious-satellite.html)  
+   Link: <a href="https://armaghplanet.com/clyde-tombaugh-and-the-mysterious-satellite.html" target="_blank" rel="noopener noreferrer nofollow">https://armaghplanet.com/clyde-tombaugh-and-the-mysterious-satellite.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: science-frontiers.com  
    Title: Example Zoom search template page  
-   Link: [https://www.science-frontiers.com/online/search.cgi?zoom_and=0&zoom_page=12&zoom_per_page=10&zoom_query=best+way+to+get+coins+fc+ultimate+team+coinsnight+com+fc+coins++off+code++fc2026++intuitive+website+navigation+helps+find+products+spcf&zoom_sort=1&zoom_xml=0](https://www.science-frontiers.com/online/search.cgi?zoom_and=0&zoom_page=12&zoom_per_page=10&zoom_query=best+way+to+get+coins+fc+ultimate+team+coinsnight+com+fc+coins++off+code++fc2026++intuitive+website+navigation+helps+find+products+spcf&zoom_sort=1&zoom_xml=0)  
+   Link: <a href="https://www.science-frontiers.com/online/search.cgi?zoom_and=0&amp;zoom_page=12&amp;zoom_per_page=10&amp;zoom_query=best+way+to+get+coins+fc+ultimate+team+coinsnight+com+fc+coins++off+code++fc2026++intuitive+website+navigation+helps+find+products+spcf&amp;zoom_sort=1&amp;zoom_xml=0" target="_blank" rel="noopener noreferrer nofollow">https://www.science-frontiers.com/online/search.cgi?zoom_and=0&amp;zoom_page=12&amp;zoom_per_page=10&amp;zoom_query=best+way+to+get+coins+fc+ultimate+team+coinsnight+com+fc+coins++off+code++fc2026++intuitive+website+navigation+helps+find+products+spcf&amp;zoom_sort=1&amp;zoom_xml=0</a>  
 
 9. <a id="endnote-9"></a>
    Source: lowell.edu  
    Title: who was clyde tombaugh  
-   Link: [https://lowell.edu/who-was-clyde-tombaugh/](https://lowell.edu/who-was-clyde-tombaugh/)  
+   Link: <a href="https://lowell.edu/who-was-clyde-tombaugh/" target="_blank" rel="noopener noreferrer nofollow">https://lowell.edu/who-was-clyde-tombaugh/</a>  
 
 10. <a id="endnote-10"></a>
    Source: space.com  
    Title: 19824 clyde tombaugh  
-   Link: [https://www.space.com/19824-clyde-tombaugh.html](https://www.space.com/19824-clyde-tombaugh.html)  
+   Link: <a href="https://www.space.com/19824-clyde-tombaugh.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/19824-clyde-tombaugh.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Clyde Tombaugh  
-   Link: [https://en.wikipedia.org/wiki/Clyde_Tombaugh](https://en.wikipedia.org/wiki/Clyde_Tombaugh)  
+   Link: <a href="https://en.wikipedia.org/wiki/Clyde_Tombaugh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Clyde_Tombaugh</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Have We Visitors From Space?  
-   Link: [https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space%3F](https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space%3F)  
+   Link: <a href="https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space%3F" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space%3F</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Clyde Tombaugh  
-   Link: [https://nl.wikipedia.org/wiki/Clyde_Tombaugh](https://nl.wikipedia.org/wiki/Clyde_Tombaugh)  
+   Link: <a href="https://nl.wikipedia.org/wiki/Clyde_Tombaugh" target="_blank" rel="noopener noreferrer nofollow">https://nl.wikipedia.org/wiki/Clyde_Tombaugh</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 15. <a id="endnote-15"></a>
    Source: explorescientific.com  
    Title: Clyde Tombaugh  
-   Link: [https://explorescientific.com/pages/clyde-tombaugh-explore-alliance?srsltid=AfmBOor0HgIIL4tIAPfL5AjAT5ohUAyX0rJs9_gWSuqs9fcTa5OPZfF7](https://explorescientific.com/pages/clyde-tombaugh-explore-alliance?srsltid=AfmBOor0HgIIL4tIAPfL5AjAT5ohUAyX0rJs9_gWSuqs9fcTa5OPZfF7)  
+   Link: <a href="https://explorescientific.com/pages/clyde-tombaugh-explore-alliance?srsltid=AfmBOor0HgIIL4tIAPfL5AjAT5ohUAyX0rJs9_gWSuqs9fcTa5OPZfF7" target="_blank" rel="noopener noreferrer nofollow">https://explorescientific.com/pages/clyde-tombaugh-explore-alliance?srsltid=AfmBOor0HgIIL4tIAPfL5AjAT5ohUAyX0rJs9_gWSuqs9fcTa5OPZfF7</a>  
 
 16. <a id="endnote-16"></a>
    Source: explorescientific.com  
    Title: Clyde Tombaugh  
-   Link: [https://explorescientific.com/pages/clyde-tombaugh-explore-alliance?srsltid=AfmBOoor0r0pd2Egm4Tna75zewq0sJb9Jh9rKTRj5PmV4IQdd78TQf2p](https://explorescientific.com/pages/clyde-tombaugh-explore-alliance?srsltid=AfmBOoor0r0pd2Egm4Tna75zewq0sJb9Jh9rKTRj5PmV4IQdd78TQf2p)  
+   Link: <a href="https://explorescientific.com/pages/clyde-tombaugh-explore-alliance?srsltid=AfmBOoor0r0pd2Egm4Tna75zewq0sJb9Jh9rKTRj5PmV4IQdd78TQf2p" target="_blank" rel="noopener noreferrer nofollow">https://explorescientific.com/pages/clyde-tombaugh-explore-alliance?srsltid=AfmBOoor0r0pd2Egm4Tna75zewq0sJb9Jh9rKTRj5PmV4IQdd78TQf2p</a>  
 
 17. <a id="endnote-17"></a>
    Source: geekchocolate.co.uk  
    Title: project blue book  
-   Link: [https://geekchocolate.co.uk/project-blue-book/](https://geekchocolate.co.uk/project-blue-book/)  
+   Link: <a href="https://geekchocolate.co.uk/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://geekchocolate.co.uk/project-blue-book/</a>  
 
 18. <a id="endnote-18"></a>
    Source: lindahall.org  
    Title: clyde tombaugh  
-   Link: [https://www.lindahall.org/about/news/scientist-of-the-day/clyde-tombaugh/](https://www.lindahall.org/about/news/scientist-of-the-day/clyde-tombaugh/)  
+   Link: <a href="https://www.lindahall.org/about/news/scientist-of-the-day/clyde-tombaugh/" target="_blank" rel="noopener noreferrer nofollow">https://www.lindahall.org/about/news/scientist-of-the-day/clyde-tombaugh/</a>  
 
 19. <a id="endnote-19"></a>
    Source: britannica.com  
    Title: Clyde Tombaugh  
-   Link: [https://www.britannica.com/biography/Clyde-Tombaugh](https://www.britannica.com/biography/Clyde-Tombaugh)  
+   Link: <a href="https://www.britannica.com/biography/Clyde-Tombaugh" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Clyde-Tombaugh</a>  
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: “The Most Extraordinary Footage of all”  
-   Link: [http://www.youtube.com/watch?v=KhafMlH7-Dc](http://www.youtube.com/watch?v=KhafMlH7-Dc)  
+   Link: <a href="http://www.youtube.com/watch?v=KhafMlH7-Dc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=KhafMlH7-Dc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clyde Tombaugh UFO sighting 1949 explanation “The Most Extraordinary Footage of all” - UNKNOWN UFO IN CALIFORNIA | Ancient Aliens | #Shor...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Our World: Pluto  
-   Link: [http://www.youtube.com/watch?v=P3Gyj3D3_OA](http://www.youtube.com/watch?v=P3Gyj3D3_OA)  
+   Link: <a href="http://www.youtube.com/watch?v=P3Gyj3D3_OA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=P3Gyj3D3_OA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“The Most Extraordinary Footage of all” - UNKNOWN UFO IN CALIFORNIA | Ancient Aliens | #Shorts...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: nmlegis.gov  
-   Link: [https://www.nmlegis.gov/Sessions/10%20Regular/memorials/house/HM017.html](https://www.nmlegis.gov/Sessions/10%20Regular/memorials/house/HM017.html)  
+   Link: <a href="https://www.nmlegis.gov/Sessions/10%20Regular/memorials/house/HM017.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nmlegis.gov/Sessions/10%20Regular/memorials/house/HM017.html</a>  
 
 24. <a id="endnote-24"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=M5NTAmHzNDw](http://www.youtube.com/watch?v=M5NTAmHzNDw)  
+   Link: <a href="http://www.youtube.com/watch?v=M5NTAmHzNDw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=M5NTAmHzNDw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our World: Pluto - Our First Dwarf Planet...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: governmentattic.org  
-   Link: [https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf](https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf)  
+   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood](https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood)  
+   Link: <a href="https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood</a>  
 
 28. <a id="endnote-28"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf](https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf)  
+   Link: <a href="https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/uuhystericalsociety/posts/7066583286799019/](https://www.facebook.com/groups/uuhystericalsociety/posts/7066583286799019/)  
+   Link: <a href="https://www.facebook.com/groups/uuhystericalsociety/posts/7066583286799019/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/uuhystericalsociety/posts/7066583286799019/</a>

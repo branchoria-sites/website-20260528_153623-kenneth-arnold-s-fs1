@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cisco-grove-incident-29820a-index/
 description: Focused pages that expand on Cisco Grove incident 1964.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Cisco_Grove_incident_29820a
 parent_title: Cisco Grove incident 1964

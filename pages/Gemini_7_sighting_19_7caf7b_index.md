@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /gemini-7-sighting-19-7caf7b-index/
 description: Focused pages that expand on Gemini 7 sighting 1965.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Gemini_7_sighting_19_7caf7b
 parent_title: Gemini 7 sighting 1965

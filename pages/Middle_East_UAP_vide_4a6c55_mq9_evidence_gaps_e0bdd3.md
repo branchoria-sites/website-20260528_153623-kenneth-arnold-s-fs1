@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /middle-east-uap-video-2022/
 nav_short_title: Evidence Gaps
 title: What the MQ 9 Clip Still Cannot Tell US
-title_full: What the MQ 9 Clip Still Cannot Tell US | Middle East Orb
+title_full: What the MQ 9 Clip Still Cannot Tell US
 display_title_short: Evidence Gaps
 display_title: Evidence Gaps
 heading_title: What the MQ 9 Clip Still Cannot Tell US
@@ -239,7 +239,7 @@ next_link:
   permalink: /official-view/
   short_title: Official View
   heading_title: Why AARO Left the Orb Unidentified
-date: '2026-06-08 23:42:51 '
+date: '2026-06-11 13:26:23 '
 header:
   og_image: /assets/images/Middle_East_UAP_vide_4a6c55_mq9_evidence_gaps_e0bdd3-Illustration-1-social.jpg
   preview_image: /assets/images/Middle_East_UAP_vide_4a6c55_mq9_evidence_gaps_e0bdd3-Illustration-1.webp
@@ -248,19 +248,18 @@ image: /assets/images/Middle_East_UAP_vide_4a6c55_mq9_evidence_gaps_e0bdd3-Illus
 
 ## Introduction
 
-The 2022 “Middle East UAP” clip is often treated as a rare case with unusually strong provenance: the footage came from a US military MQ-9 Reaper drone, was publicly released through official Department of Defense channels, and was discussed by the Pentagon’s All-domain Anomaly Resolution Office (AARO) during a Senate hearing. Yet the central lesson of the case is almost the opposite of what many viewers assume. The video is authentic, but the available evidence package is incomplete. Official confirmation that a sensor captured something does not automatically reveal what that thing was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">DVIDSMiddle East Object</span><span class="citation-popover-snippet">Video - DVIDSApril 19, 2023 — A video that depicts an apparent silver, orb-like object cross the sensor&#x27;s field of view. This clip was ta...</span><span class="citation-popover-meta">Published: April 19, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMiddle East Object - Multimedia | U.S. Department of WarThis clip was taken by an MQ-9 in the Middle East, and while AAR...</span></span></span> Department of War
-
+The 2022 “Middle East UAP” clip is often treated as a rare case with unusually strong provenance: the footage came from a US military MQ-9 Reaper drone, was publicly released through official Department of Defense channels, and was discussed by the Pentagon’s All-domain Anomaly Resolution Office (AARO) during a Senate hearing. Yet the central lesson of the case is almost the opposite of what many viewers assume. The video is authentic, but the available evidence package is incomplete. Official confirmation that a sensor captured something does not automatically reveal what that thing was. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">DVIDSMiddle East Object</span><span class="citation-popover-snippet">Video - DVIDSApril 19, 2023 — A video that depicts an apparent silver, orb-like object cross the sensor&#x27;s field of view. This clip was ta...</span><span class="citation-popover-meta">Published: April 19, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMiddle East Object - Multimedia &#124; U.S. Department of WarThis clip was taken by an MQ-9 in the Middle East, and while AAR...</span></span></span> Department of War
 
 <img src="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_mq9_evidence_gaps_e0bdd3-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_mq9_evidence_gaps_e0bdd3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_mq9_evidence_gaps_e0bdd3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters because the unresolved status of the clip is driven less by extraordinary observed behaviour than by missing context. AARO repeatedly framed the incident as an example of a low-data case: a short visual record without enough supporting telemetry, geometry, or corroboration to support a confident identification. NASA later used the same clip to illustrate a broader problem in UAP analysis — the absence of high-quality, multi-sensor data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</span></span></span>
 
 ## What the Video Actually Proves
 
-The MQ-9 clip does establish several narrow but important facts. It shows that a military sensor system recorded a small object or image signature crossing the field of view during a real operation in the Middle East on 12 July 2022. The object appears roughly spherical or orb-like in the released footage, and the Department of Defense publicly acknowledged that analysts could not identify it from the available material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">DVIDSMiddle East Object</span><span class="citation-popover-snippet">Video - DVIDSApril 19, 2023 — A video that depicts an apparent silver, orb-like object cross the sensor&#x27;s field of view. This clip was ta...</span><span class="citation-popover-meta">Published: April 19, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMiddle East Object - Multimedia | U.S. Department of WarThis clip was taken by an MQ-9 in the Middle East, and while AAR...</span></span></span> Department of War
+The MQ-9 clip does establish several narrow but important facts. It shows that a military sensor system recorded a small object or image signature crossing the field of view during a real operation in the Middle East on 12 July 2022. The object appears roughly spherical or orb-like in the released footage, and the Department of Defense publicly acknowledged that analysts could not identify it from the available material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">DVIDSMiddle East Object</span><span class="citation-popover-snippet">Video - DVIDSApril 19, 2023 — A video that depicts an apparent silver, orb-like object cross the sensor&#x27;s field of view. This clip was ta...</span><span class="citation-popover-meta">Published: April 19, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMiddle East Object - Multimedia &#124; U.S. Department of WarThis clip was taken by an MQ-9 in the Middle East, and while AAR...</span></span></span> Department of War
 
-That official provenance rules out some simplistic explanations. The video is not a fabricated internet hoax, CGI insert, or mislabelled civilian recording. It was presented by Sean Kirkpatrick, then director of AARO, during Senate testimony as a genuine military capture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMiddle East Object - Multimedia | U.S. Department of WarThis clip was taken by an MQ-9 in the Middle East, and while AAR...</span></span></span>
+That official provenance rules out some simplistic explanations. The video is not a fabricated internet hoax, CGI insert, or mislabelled civilian recording. It was presented by Sean Kirkpatrick, then director of AARO, during Senate testimony as a genuine military capture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMiddle East Object - Multimedia &#124; U.S. Department of WarThis clip was taken by an MQ-9 in the Middle East, and while AAR...</span></span></span>
 
-However, the clip does not prove that the object demonstrated extraordinary speed, advanced propulsion, intelligent manoeuvring, or non-human origin. AARO explicitly stated that the object was not assessed as exhibiting anomalous behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMiddle East Object - Multimedia | U.S. Department of WarThis clip was taken by an MQ-9 in the Middle East, and while AAR...</span></span></span>
+However, the clip does not prove that the object demonstrated extraordinary speed, advanced propulsion, intelligent manoeuvring, or non-human origin. AARO explicitly stated that the object was not assessed as exhibiting anomalous behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMiddle East Object - Multimedia &#124; U.S. Department of WarThis clip was taken by an MQ-9 in the Middle East, and while AAR...</span></span></span>
 
 This is the key evidential divide in the case. Many viewers infer unusual motion from the object’s apparent rapid transit across the screen. But apparent motion inside a moving sensor frame is not the same as measured motion through three-dimensional space. Without knowing the drone’s speed, turn rate, zoom level, viewing angle, stabilisation behaviour, and distance to the object, the video alone cannot determine the object’s true velocity.
 
@@ -274,7 +273,7 @@ The most important missing variable is range. The public clip does not disclose 
 
 That single omission affects almost every downstream interpretation. If the object were close to the drone, it could have been physically small and slow-moving while still appearing to traverse the frame rapidly. If it were far away, the same apparent movement could imply a much larger or faster object. Because the range is unknown, calculations of speed or size are speculative.
 
-This is one reason Kirkpatrick reportedly said it would be “virtually impossible” to identify the object solely from the released video. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ksdktv/posts/could-it-be-a-ufo-a-flying-orb-appears-to-survive-a-missile-strike-off-the-coast/1201434742014733/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookCOULD IT BE A UFO? A flying “orb&quot; appears to survive...&quot;It&#x27;s going to be virtually impossible to fully identify that just based...</span></span></span>
+This is one reason Kirkpatrick reportedly said it would be “virtually impossible” to identify the object solely from the released video. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ksdktv/posts/could-it-be-a-ufo-a-flying-orb-appears-to-survive-a-missile-strike-off-the-coast/1201434742014733/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">COULD IT BE A UFO? A flying “orb&quot; appears to survive...&quot;It&#x27;s going to be virtually impossible to fully identify that just based...</span></span></span>
 
 ### No Public Telemetry
 
@@ -299,7 +298,6 @@ Without those elements, outside analysts cannot reconstruct the geometry of the 
 
 The absence of telemetry is especially important because MQ-9 systems are capable of recording much richer information internally than what appears in the publicly released clip. The public video is therefore not the complete sensor record; it is a short excerpt from a potentially much larger operational dataset.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
 
 ### No Multi-Sensor Confirmation
@@ -307,7 +305,6 @@ The absence of telemetry is especially important because MQ-9 systems are capabl
 Another major evidential gap is the lack of disclosed corroboration from independent sensors.
 
 The public record does not establish whether:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -324,7 +321,6 @@ Cases become substantially stronger when multiple independent systems observe th
 
 NASA’s UAP study team repeatedly stressed that the strongest scientific cases require synchronised, multi-sensor data rather than isolated imagery. The MQ-9 clip was effectively presented as an example of the opposite problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</span></span></span>
 
-
 <img src="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_mq9_evidence_gaps_e0bdd3-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_mq9_evidence_gaps_e0bdd3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_mq9_evidence_gaps_e0bdd3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Balloon Explanation Remains Plausible
 
@@ -333,7 +329,6 @@ The most persistent sceptical interpretation is that the object may have been a 
 Importantly, this explanation does not require the Pentagon footage to be fake or misrepresented. A genuine military recording can still capture an ordinary object under conditions that make interpretation difficult.
 
 Several characteristics keep the balloon hypothesis alive:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -347,8 +342,7 @@ Several characteristics keep the balloon hypothesis alive:
 
 At the same time, the balloon explanation cannot be considered proven from the public material either. The released footage is too limited to establish the object’s exact behaviour or physical nature conclusively. The point is not that sceptics have definitively solved the case, but that the available evidence does not eliminate ordinary explanations.
 
-That distinction mirrors AARO’s own framing: unresolved does not automatically mean anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMiddle East Object - Multimedia | U.S. Department of WarThis clip was taken by an MQ-9 in the Middle East, and while AAR...</span></span></span>
-
+That distinction mirrors AARO’s own framing: unresolved does not automatically mean anomalous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMiddle East Object - Multimedia &#124; U.S. Department of WarThis clip was taken by an MQ-9 in the Middle East, and while AAR...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xFLC1jUTV8U" title="New video shows a missile bouncing off an unidentified flying object in the Middle East" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xFLC1jUTV8U" target="_blank" rel="noopener noreferrer">New video shows a missile bouncing off an unidentified flying object in the Middle East</a></p><p class="youtube-embed-meta">Channel: KREM 2 News &middot; Views: 126.9K &middot; Uploaded: September 2025 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xFLC1jUTV8U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xFLC1jUTV8U">Open on YouTube</a></p></div></div></div>
 
@@ -366,12 +360,10 @@ A confirmed nearby slow-moving object would heavily support a mundane interpreta
 
 At present, neither conclusion is publicly justified.
 
-
 <img src="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_mq9_evidence_gaps_e0bdd3-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_mq9_evidence_gaps_e0bdd3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Middle_East_UAP_vide_4a6c55_mq9_evidence_gaps_e0bdd3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Simultaneous Independent Sensors
 
 The strongest military aviation cases usually involve overlapping sensor systems. For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -390,7 +382,6 @@ The public MQ-9 record contains no disclosed equivalent.
 
 The released clip is short. Longer sequences could potentially reveal:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Consistent trajectory
@@ -404,13 +395,11 @@ The released clip is short. Longer sequences could potentially reveal:
 
 Short clips are especially vulnerable to overinterpretation because viewers mentally fill in missing context.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_XmiyM-tcLw" title="US Drone Downed LIVE: Houthis Destroy MQ-9 Reaper in Explosive Attack | Rising Middle East Tensions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_XmiyM-tcLw" target="_blank" rel="noopener noreferrer">US Drone Downed LIVE: Houthis Destroy MQ-9 Reaper in Explosive Attack | Rising Middle East Tensions</a></p><p class="youtube-embed-meta">Channel: Oneindia News &middot; Views: 1.2K &middot; Uploaded: April 2025 &middot; Length: 5 hours 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_XmiyM-tcLw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_XmiyM-tcLw">Open on YouTube</a></p></div></div></div>
 
 ### Environmental and Operational Context
 
 A complete assessment would also benefit from:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -437,44 +426,86 @@ That broader lesson influenced later public discussions by NASA and AARO. Both o
 The Middle East MQ-9 clip therefore occupies an unusual place in the modern UAP debate. It is neither a debunked fake nor compelling proof of exotic technology. Instead, it is a documented example of how a real military observation can remain unresolved because the evidential chain is incomplete.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What the MQ 9 Clip Still Cannot Tell US, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What the MQ 9 Clip Still Cannot Tell US. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Middle East UAP guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Middle+East+UAP+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Evaluates the historical difference between authentic declassified footage vs. complete, validated intelligence evidence packages.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP telemetry guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+telemetry+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+        </h4>
+        <p class="fr-book-author">By Ross Coulthart</p>
+        
+        <p class="fr-book-desc">Chronicles contemporary MQ-9 Reaper video disclosures and the internal defense debates regarding missing sensor records.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP analysis guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+analysis+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Details why official confirmation that a military device recorded an object does not independently reveal its physical structure.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Airborne+Radar+by+George+W.+Stimson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Airborne Radar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8aq8ngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Airborne Radar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Airborne+Radar+by+George+W.+Stimson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Airborne Radar">Introduction to Airborne Radar</a>
+        </h4>
+        <p class="fr-book-author">By George W. Stimson</p>
+        
+        <p class="fr-book-desc">Details the operation of drone electronic optics, tracking metrics, and targeting pod telemetry pipelines.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Airborne+Radar+by+George+W.+Stimson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -511,15 +542,15 @@ The Middle East MQ-9 clip therefore occupies an unusual place in the modern UAP 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P"><img src="{{ '/assets/images/marketplace-covers/f9f1edc22056df8c40fe.jpg' | relative_url }}" alt="Listing image for UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa" target="_blank" rel="sponsored noopener noreferrer">UFO Abduction Iron/Sew On Patch 10.5cm x 5cm Ufology Alien UAP FREE P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,15 +558,15 @@ The Middle East MQ-9 clip therefore occupies an unusual place in the modern UAP 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Happy Kawaii Style Flying Saucer Alien Embroidered Iron On Patch - UAP UFO"><img src="{{ '/assets/images/marketplace-covers/22528eb5b7bb3b2827d8.jpg' | relative_url }}" alt="Listing image for Cute Happy Kawaii Style Flying Saucer Alien Embroidered Iron On Patch - UAP UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa" target="_blank" rel="sponsored noopener noreferrer">Cute Happy Kawaii Style Flying Saucer Alien Embroidered Iron On Patch - UAP UFO</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -543,31 +574,15 @@ The Middle East MQ-9 clip therefore occupies an unusual place in the modern UAP 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P"><img src="{{ '/assets/images/marketplace-covers/563b16b2318956689f9b.jpg' | relative_url }}" alt="Listing image for Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa" target="_blank" rel="sponsored noopener noreferrer">Space Travel UFO UAP Iron/Sew On Patch 9cm x 7.5cm FREE Aliens Saucer P&amp;P</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO UAP patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO UAP patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,7 +590,7 @@ The Middle East MQ-9 clip therefore occupies an unusual place in the modern UAP 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+UAP+patch+-book+-books+-underwater+-scuba+-swimming+-topps+-rookie+-football+-gerry+-anderson&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO UAP patch -book -books -underwater -scuba -swimming -topps -rookie -football -gerry -anderson" data-ebay-reference="evidence-gaps-180b9d-what-the-mq-9-clip-still-cannot-tell-us-middle-east-uap-video-2022-ufo-uap-patch-book-books-underwa" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -791,141 +806,141 @@ The Middle East MQ-9 clip therefore occupies an unusual place in the modern UAP 
 1. <a id="endnote-1"></a>
    Source: dvidshub.net  
    Title: DVIDSMiddle East Object  
-   Link: [https://www.dvidshub.net/video/880273/middle-east-object](https://www.dvidshub.net/video/880273/middle-east-object)  
+   Link: <a href="https://www.dvidshub.net/video/880273/middle-east-object" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/880273/middle-east-object</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Video - DVIDSApril 19, 2023 — A video that depicts an apparent silver, orb-like object cross the sensor&#x27;s field of view. This clip was ta...</p></details>
    Published: April 19, 2023  
 
 2. <a id="endnote-2"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/Multimedia/videoid/880273/](https://www.war.gov/Multimedia/videoid/880273/)  
+   Link: <a href="https://www.war.gov/Multimedia/videoid/880273/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/videoid/880273/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMiddle East Object - Multimedia | U.S. Department of WarThis clip was taken by an MQ-9 in the Middle East, and while AAR...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
    Title: UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROThis clip was taken by an MQ-9 in the Middle East, and while AARO assesses the object in the clip is not exhibiting anomalous behavio...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This clip was taken by an MQ-9 in the Middle East, and while AARO assesses the object in the clip is not exhibiting anomalous behavio...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportFootage taken by an MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limit...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: bellingcat.com  
    Title: Isn't That A Balloon?  
-   Link: [https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/](https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/)  
+   Link: <a href="https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/2023/10/24/isnt-that-a-balloon-deflating-a-dod-ufo-video/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deflating a DoD UFO Video - bellingcatOctober 24, 2023 — A US military drone captured video of a metallic, spherical orb flying over the...</p></details>
    Published: October 24, 2023  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosOn 31 May 2023, Sean M. Kirkpatrick shared an infrared video in a public meeting of NASA&#x27;s UAP independent study...</p></details>
    Published: May 2023  
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ksdktv/posts/could-it-be-a-ufo-a-flying-orb-appears-to-survive-a-missile-strike-off-the-coast/1201434742014733/](https://www.facebook.com/ksdktv/posts/could-it-be-a-ufo-a-flying-orb-appears-to-survive-a-missile-strike-off-the-coast/1201434742014733/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookCOULD IT BE A UFO? A flying “orb&quot; appears to survive...&quot;It&#x27;s going to be virtually impossible to fully identify that just based...</p></details>
+   Link: <a href="https://www.facebook.com/ksdktv/posts/could-it-be-a-ufo-a-flying-orb-appears-to-survive-a-missile-strike-off-the-coast/1201434742014733/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ksdktv/posts/could-it-be-a-ufo-a-flying-orb-appears-to-survive-a-missile-strike-off-the-coast/1201434742014733/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>COULD IT BE A UFO? A flying “orb&quot; appears to survive...&quot;It&#x27;s going to be virtually impossible to fully identify that just based...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs8 May 2026 — NASA&#x27;s UAP independent study was largely focused on aerial phenomena. 7. What did NASA&#x27;s 2023 Independen...</p></details>
    Published: May 2026  
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: The video was taken by an MQ-9 in the Middle East …  
-   Link: [https://www.facebook.com/dvids/posts/this-video-depicts-an-apparent-silver-orb-like-object-cross-the-sensors-field-of/694328249361521/](https://www.facebook.com/dvids/posts/this-video-depicts-an-apparent-silver-orb-like-object-cross-the-sensors-field-of/694328249361521/)  
+   Link: <a href="https://www.facebook.com/dvids/posts/this-video-depicts-an-apparent-silver-orb-like-object-cross-the-sensors-field-of/694328249361521/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dvids/posts/this-video-depicts-an-apparent-silver-orb-like-object-cross-the-sensors-field-of/694328249361521/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This video depicts an apparent silver, orb-like object cross the...April 20, 2023 — This video depicts an apparent silver, orb-like obje...</p></details>
    Published: April 20, 2023  
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dvidshub.net  
    Title: The Reaper is an unmanned aerial  
-   Link: [https://www.dvidshub.net/video/854313/mq-9-reaper-drone-takes-off-undisclosed-location-b-roll](https://www.dvidshub.net/video/854313/mq-9-reaper-drone-takes-off-undisclosed-location-b-roll)  
+   Link: <a href="https://www.dvidshub.net/video/854313/mq-9-reaper-drone-takes-off-undisclosed-location-b-roll" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/854313/mq-9-reaper-drone-takes-off-undisclosed-location-b-roll</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MQ-9 Reaper drone takes off from an undisclosed location/ B-RollAugust 16, 2022 — A General Atomics MQ-9 Reaper takes off from an undiscl...</p></details>
    Published: August 16, 2022  
 
 13. <a id="endnote-13"></a>
    Source: dvidshub.net  
    Title: mq 9 reaper  
-   Link: [https://www.dvidshub.net/image/8813732/mq-9-reaper](https://www.dvidshub.net/image/8813732/mq-9-reaper)  
+   Link: <a href="https://www.dvidshub.net/image/8813732/mq-9-reaper" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/image/8813732/mq-9-reaper</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MQ-9 Reaper [Image 16 of 24]23 Dec 2024 — MQ-9 Reaper [Image 16 of 24] · KANEOHE BAY, HAWAII, UNITED STATES · 08.07.2024 · Photo by Tech...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023](https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023)  
+   Link: <a href="https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/961723/unresolved-uap-report-middle-east-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unresolved UAP Report: Middle East 2023The recording, captured in the Middle East in 2023, depicts an apparent thermal contrast within th...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
+   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The report contains the external study team&#x27;s findings and recommendations which aim to i...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: rjallain.medium.com  
-   Link: [https://rjallain.medium.com/do-uaps-conserve-momentum-a-video-analysis-to-find-the-mass-of-an-unidentified-orb-24cbef8a5106](https://rjallain.medium.com/do-uaps-conserve-momentum-a-video-analysis-to-find-the-mass-of-an-unidentified-orb-24cbef8a5106)  
+   Link: <a href="https://rjallain.medium.com/do-uaps-conserve-momentum-a-video-analysis-to-find-the-mass-of-an-unidentified-orb-24cbef8a5106" target="_blank" rel="noopener noreferrer nofollow">https://rjallain.medium.com/do-uaps-conserve-momentum-a-video-analysis-to-find-the-mass-of-an-unidentified-orb-24cbef8a5106</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAPs Conserve Momentum? A Video Analysis to Find the...Do UAPs Conserve Momentum? A Video Analysis to Find the Mass of an Unidentified O...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933](https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933)  
+   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO report - live: Scientists release Unidentified...14 Sept 2023 — NASA has released a report on Unidentified Anomalous Phenomena - com...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: commons.wikimedia.org  
-   Link: [https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm](https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AMiddleEast_UAP_20220712_Official_Footage_from_the_USG_for_Public_Release.webm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:MiddleEast UAP 20220712 Official Footage from the USG...Sean Kirkpatrick, director of the All-domain Anomaly Resolutio...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: metabunk.org  
    Title: middle east 2022 mq 9 observed apparent spherical uap via aaro.12932  
-   Link: [https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/](https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkMiddle East 2022 MQ-9 Observed Apparent Spherical UAP (via...The footage was shot on July 12, 2022 from an American MQ-9 Reaper...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/middle-east-2022-mq-9-observed-apparent-spherical-uap-via-aaro.12932/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Middle East 2022 MQ-9 Observed Apparent Spherical UAP (via...The footage was shot on July 12, 2022 from an American MQ-9 Reaper...</p></details>
    Published: July 12, 2022  
 
 22. <a id="endnote-22"></a>
    Source: nypost.com  
    Title: nasa appoints first ufo director admits they dont know what uap are  
-   Link: [https://nypost.com/2023/09/14/nasa-appoints-first-ufo-director-admits-they-dont-know-what-uap-are/](https://nypost.com/2023/09/14/nasa-appoints-first-ufo-director-admits-they-dont-know-what-uap-are/)  
+   Link: <a href="https://nypost.com/2023/09/14/nasa-appoints-first-ufo-director-admits-they-dont-know-what-uap-are/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2023/09/14/nasa-appoints-first-ufo-director-admits-they-dont-know-what-uap-are/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MQ-9 of an apparent silver, orb-like object in the Middle East. Due to limited data, the object remains unidentified. NASA. “That&#x27;s in pa...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/1ndgjfq/the_notion_an_airborne_uapufo_would_be_hit_by_a/](https://www.reddit.com/r/skeptic/comments/1ndgjfq/the_notion_an_airborne_uapufo_would_be_hit_by_a/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/1ndgjfq/the_notion_an_airborne_uapufo_would_be_hit_by_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1ndgjfq/the_notion_an_airborne_uapufo_would_be_hit_by_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s only a UFO because we can not conclusively identify the object as a drone. There&#x27;s...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: instagram.com  
    Title: Proper In an open hearing on Unidentified Anomalous Phenomena  
-   Link: [https://www.instagram.com/reel/DYG51mvM3ow/](https://www.instagram.com/reel/DYG51mvM3ow/)  
+   Link: <a href="https://www.instagram.com/reel/DYG51mvM3ow/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYG51mvM3ow/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — 10 likes, 0 comments - viralroot.in on May 8, 2026: &quot;Middle East Object (UNDISCLOSED LOCATION) 07.12.2022 Courtesy Video De...</p></details>
-   Published: May 8, 2026  
+   Published: May 8, 2026

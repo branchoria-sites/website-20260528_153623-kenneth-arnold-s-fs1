@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /doctor-x-ufo-encounter-1968/
 nav_short_title: Records
 title: Why Is Doctor X So Hard To Verify?
-title_full: Why Is Doctor X So Hard To Verify? | Doctor X
+title_full: Why Is Doctor X So Hard To Verify?
 display_title_short: Records
 display_title: Records
 heading_title: Why Is Doctor X So Hard To Verify?
@@ -239,7 +239,7 @@ next_link:
   permalink: /sighting/
   short_title: Sighting
   heading_title: What Did Doctor X Say He Saw?
-date: '2026-06-08 23:35:25 '
+date: '2026-06-11 13:20:52 '
 header:
   og_image: /assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-1-social.jpg
   preview_image: /assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-1.webp
@@ -249,7 +249,6 @@ image: /assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Il
 ## Introduction
 
 The “Doctor X” UFO encounter became influential not because it produced hard proof, but because it sat in an uncomfortable space between serious investigation and permanent unverifiability. Supportive French ufologists treated the case as unusually credible: the witness was said to be a physician holding an important official position, notes and sketches were reportedly made immediately after the event, and investigators claimed to have examined both the witness and later physical symptoms. Yet almost every element that might have settled the case publicly remained hidden, anonymous, incomplete, or inaccessible. No official report surfaced. No named hospital file became available. No independent scientific record confirmed the [sighting]({{ 'sighting/' | relative_url }}). The result is a classic UFO dispute built around trust in intermediaries rather than direct public evidence.
-
 
 <img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-1-dark.svg" | relative_url }}" alt="Records illustration 1" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That tension explains why the case still appears in debates over UFO evidence. Believers point to respected investigators such as Aimé Michel and later Jacques Vallée. Skeptics point to the anonymous witness, missing documentation, and decades of retelling through sympathetic UFO literature rather than transparent archival records. The case survives largely because it cannot be conclusively verified or conclusively disproved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/TheAnomalyArchives/posts/case-1969-the-strange-case-of-dr-x-ufo-investigation-by-aime-michel-and-jacques-/1257117487803690/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">The Strange Case of Dr</span><span class="citation-popover-snippet">X - UFO investigation by Aime Michel...Vallee describes the case of “Doctor X” that demonstrates how a UFO encounter can be associated w...</span></span></span>
@@ -269,7 +268,6 @@ This creates a central problem in the case: the authority of the investigators s
 The modern survival of the case owes much to Vallée’s later writing. Vallée presented “Doctor X” not merely as a strange sighting but as an example of what he viewed as the broader “high strangeness” pattern: UFO encounters allegedly linked with physiological or psychological effects.
 
 In Vallée’s framing, the case mattered because multiple anomalies clustered together:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -292,7 +290,6 @@ But anonymity also blocks almost every normal route of verification.
 
 Because the doctor’s identity was concealed:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * researchers cannot independently confirm his military injury history,
@@ -306,7 +303,6 @@ The result is a paradox common in UFO history: the witness supposedly deserved p
 
 Some later accounts suggested that only a limited number of investigators knew the witness’s identity. Even if true, that does not solve the public evidential problem. It merely transfers trust from the witness to the intermediary investigators.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vZEcVY2iZsk" title="Joe Rogan Experience #2288 - Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vZEcVY2iZsk" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2288 - Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 1.8M &middot; Uploaded: March 2025 &middot; Length: 2 hours 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vZEcVY2iZsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vZEcVY2iZsk">Open on YouTube</a></p></div></div></div>
 
 ### The Missing Medical Documentation
@@ -314,7 +310,6 @@ Some later accounts suggested that only a limited number of investigators knew t
 The most disputed issue is the absence of accessible medical records.
 
 The healing claim would have been far more significant if the case had included:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -334,14 +329,12 @@ This absence does not prove fraud. Medical privacy laws and professional confide
 
 For skeptics, this is decisive. Extraordinary medical claims require unusually strong documentation. For believers, the missing records are frustrating but not fatal because they see the investigators’ testimony as sufficient to establish that something unusual happened.
 
-
 <img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-2-dark.svg" | relative_url }}" alt="Records illustration 2" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Official Silence Matters
 
 One reason the case remains obscure outside UFO literature is that no clear official investigation appears to have emerged.
 
 There is no widely cited equivalent of:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -359,7 +352,6 @@ Supporters sometimes interpret the silence as indirect support for authenticity.
 
 The lack of official corroboration also weakens timeline reconstruction. Many details now repeated online come from later retellings that differ in emphasis or wording. Without a stable archival base, the story gradually accumulated layers of interpretation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sP10HPJkJ4Q" title="Jacques Vallee: Implications of UFO Phenomena (excerpt) - Thinking Allowed w/ Jeffrey Mishlove" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sP10HPJkJ4Q" target="_blank" rel="noopener noreferrer">Jacques Vallee: Implications of UFO Phenomena (excerpt) - Thinking Allowed w/ Jeffrey Mishlove</a></p><p class="youtube-embed-meta">Channel: ThinkingAllowedTV &middot; Views: 74.7K &middot; Uploaded: May 2011 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sP10HPJkJ4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sP10HPJkJ4Q">Open on YouTube</a></p></div></div></div>
 
 ## The Main Skeptical Readings
@@ -374,7 +366,6 @@ The case evolved over decades through books, television programmes, UFO magazine
 
 Features especially vulnerable to narrative inflation include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the exact appearance of the objects,
@@ -387,14 +378,12 @@ Features especially vulnerable to narrative inflation include:
 
 Because the original primary documents are not broadly accessible, later versions often became more influential than the earliest testimony.
 
-
 <img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-3-dark.svg" | relative_url }}" alt="Records illustration 3" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_investigators_missin_980e27-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Psychosomatic Or Misinterpreted Recovery
 
 The alleged healing is one of the hardest elements to evaluate because spontaneous or perceived improvement can occur for many reasons.
 
 Skeptical possibilities include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -413,7 +402,6 @@ None of these explanations fully settles the issue, but skeptics argue they are 
 Accounts of the sighting place it during stormy weather and poor visibility. Skeptics have suggested that unusual atmospheric lighting, lightning effects, reflections, or perceptual distortion in darkness could have contributed to the observation.
 
 This does not neatly explain every reported detail, especially the structured descriptions and merging objects, but it offers a conventional starting point. UFO investigators counter that the witness was medically trained and reportedly accustomed to careful observation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BVH9wu28yEQ" title="The Strange Case of Dr X: UFOs and &quot;Miracle&quot; Healings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BVH9wu28yEQ" target="_blank" rel="noopener noreferrer">The Strange Case of Dr X: UFOs and &quot;Miracle&quot; Healings</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 86.7K &middot; Uploaded: April 2019 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BVH9wu28yEQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BVH9wu28yEQ">Open on YouTube</a></p></div></div></div>
 
@@ -444,44 +432,86 @@ That combination keeps the case alive. It is difficult to dismiss cleanly becaus
 In UFO history, many famous incidents survive not because they are proven, but because they remain permanently incomplete. “Doctor X” is one of the clearest examples of that pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/ancientaliens/posts/man-is-healed-from-debilitating-illness-after-seeing-ufos-ancientaliens/1170689485083783/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">with amazing physical cures as well as a change in experiencers...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why Is Doctor X So Hard To Verify?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why Is Doctor X So Hard To Verify?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Details Vallee&#x27;s close work with Aimé Michel, exploring the systemic verification issues caused by the physician&#x27;s required anonymity.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sun+tzu%27s+ancient+art+of+golf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sun tzu&#x27;s ancient art of golf on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9446762-M.jpg" alt="Cover for Sun tzu&#x27;s ancient art of golf" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sun+tzu%27s+ancient+art+of+golf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sun tzu&#x27;s ancient art of golf">Sun tzu&#x27;s ancient art of golf</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+        
+        <p class="fr-book-desc">Details Vallee&#x27;s close work with Aimé Michel, exploring the systemic verification issues caused by the physician&#x27;s required anonymity.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sun+tzu%27s+ancient+art+of+golf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Highlights why an inability to conclusively disprove an anonymous anecdote does not constitute valid scientific evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Analyzes why relying on sympathetic intermediaries fails to meet standard forensic verification standards.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sun+tzu%27s+ancient+art+of+golf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sun tzu&#x27;s ancient art of golf</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -518,15 +548,15 @@ In UFO history, many famous incidents survive not because they are proven, but b
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=French+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="French UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NOPE Jordan Peele UFO paranormal LARGE french POSTER"><img src="{{ '/assets/images/marketplace-covers/7260494fc726dceb12a7.jpg' | relative_url }}" alt="Listing image for NOPE Jordan Peele UFO paranormal LARGE french POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=French+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="French UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">NOPE Jordan Peele UFO paranormal LARGE french POSTER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=French+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="French UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for French UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: French UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=French+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="French UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +564,15 @@ In UFO history, many famous incidents survive not because they are proven, but b
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=French+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="French UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goldorak Grendizer toei animation UFO poster french goldrake"><img src="{{ '/assets/images/marketplace-covers/96e29c6abc03d9723a6d.jpg' | relative_url }}" alt="Listing image for Goldorak Grendizer toei animation UFO poster french goldrake" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=French+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="French UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">Goldorak Grendizer toei animation UFO poster french goldrake</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=French+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="French UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for French UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: French UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=French+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="French UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,31 +580,15 @@ In UFO history, many famous incidents survive not because they are proven, but b
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=French+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="French UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ROBOT GOLDORAK French movie poster GO NAGAI ANIME 1978 NM"><img src="{{ '/assets/images/marketplace-covers/10c33c5b1d9994025447.jpg' | relative_url }}" alt="Listing image for UFO ROBOT GOLDORAK French movie poster GO NAGAI ANIME 1978 NM" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=French+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="French UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">UFO ROBOT GOLDORAK French movie poster GO NAGAI ANIME 1978 NM</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=French+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="French UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for French UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: French UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=French+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="French UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -582,7 +596,7 @@ In UFO history, many famous incidents survive not because they are proven, but b
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=French+UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="French UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="records-a251d4-why-is-doctor-x-so-hard-to-verify-doctor-x-ufo-encounter-1968-french-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -798,87 +812,87 @@ In UFO history, many famous incidents survive not because they are proven, but b
 1. <a id="endnote-1"></a>
    Source: facebook.com  
    Title: The Strange Case of Dr  
-   Link: [https://www.facebook.com/TheAnomalyArchives/posts/case-1969-the-strange-case-of-dr-x-ufo-investigation-by-aime-michel-and-jacques-/1257117487803690/](https://www.facebook.com/TheAnomalyArchives/posts/case-1969-the-strange-case-of-dr-x-ufo-investigation-by-aime-michel-and-jacques-/1257117487803690/)  
+   Link: <a href="https://www.facebook.com/TheAnomalyArchives/posts/case-1969-the-strange-case-of-dr-x-ufo-investigation-by-aime-michel-and-jacques-/1257117487803690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAnomalyArchives/posts/case-1969-the-strange-case-of-dr-x-ufo-investigation-by-aime-michel-and-jacques-/1257117487803690/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>X - UFO investigation by Aime Michel...Vallee describes the case of “Doctor X” that demonstrates how a UFO encounter can be associated w...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1964532800535954/posts/2879951595660732/](https://www.facebook.com/groups/1964532800535954/posts/2879951595660732/)  
+   Link: <a href="https://www.facebook.com/groups/1964532800535954/posts/2879951595660732/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1964532800535954/posts/2879951595660732/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange disturbing discovery....X-File case nearlyVallee describes the case of “Doctor X” that demonstrates how a UFO encounter can be a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/VT/posts/one-doc-has-explained-the-bizarre-phenomenon-/1315372450694840/](https://www.facebook.com/VT/posts/one-doc-has-explained-the-bizarre-phenomenon-/1315372450694840/)  
+   Link: <a href="https://www.facebook.com/VT/posts/one-doc-has-explained-the-bizarre-phenomenon-/1315372450694840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VT/posts/one-doc-has-explained-the-bizarre-phenomenon-/1315372450694840/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ated with amazing physical cures as well as a...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientaliens/posts/man-is-healed-from-debilitating-illness-after-seeing-ufos-ancientaliens/1170689485083783/](https://www.facebook.com/ancientaliens/posts/man-is-healed-from-debilitating-illness-after-seeing-ufos-ancientaliens/1170689485083783/)  
+   Link: <a href="https://www.facebook.com/ancientaliens/posts/man-is-healed-from-debilitating-illness-after-seeing-ufos-ancientaliens/1170689485083783/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientaliens/posts/man-is-healed-from-debilitating-illness-after-seeing-ufos-ancientaliens/1170689485083783/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>with amazing physical cures as well as a change in experiencers...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/210007756478593/posts/964884154324279/](https://www.facebook.com/groups/210007756478593/posts/964884154324279/)  
+   Link: <a href="https://www.facebook.com/groups/210007756478593/posts/964884154324279/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/210007756478593/posts/964884154324279/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>If you do not want to share your records with third party...In next six weeks, your detailed private nhs patient records will be sold to...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/stmichaelprayerwarriors/posts/25451796974413450/](https://www.facebook.com/groups/stmichaelprayerwarriors/posts/25451796974413450/)  
+   Link: <a href="https://www.facebook.com/groups/stmichaelprayerwarriors/posts/25451796974413450/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/stmichaelprayerwarriors/posts/25451796974413450/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nter can be associated with amazing physical cures as well as a change in...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: themdu.com  
-   Link: [https://www.themdu.com/guidance-and-advice/guides/redacting-third-party-information-from-notes](https://www.themdu.com/guidance-and-advice/guides/redacting-third-party-information-from-notes)  
+   Link: <a href="https://www.themdu.com/guidance-and-advice/guides/redacting-third-party-information-from-notes" target="_blank" rel="noopener noreferrer nofollow">https://www.themdu.com/guidance-and-advice/guides/redacting-third-party-information-from-notes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Redacting third-party information from notesYou might sometimes need to remove or redact information from medical records when sending th...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: england.nhs.uk  
-   Link: [https://www.england.nhs.uk/long-read/redacting-information-for-online-record-access/](https://www.england.nhs.uk/long-read/redacting-information-for-online-record-access/)  
+   Link: <a href="https://www.england.nhs.uk/long-read/redacting-information-for-online-record-access/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/long-read/redacting-information-for-online-record-access/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedactionRedaction is the process of restricting access or &#x27;hiding&#x27; information in the online viewer from the patient and anyone they hav...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: newseahammedicalgroup.co.uk  
-   Link: [https://www.newseahammedicalgroup.co.uk/about-us/practice-policies/patient-record/privacy-policy/](https://www.newseahammedicalgroup.co.uk/about-us/practice-policies/patient-record/privacy-policy/)  
+   Link: <a href="https://www.newseahammedicalgroup.co.uk/about-us/practice-policies/patient-record/privacy-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.newseahammedicalgroup.co.uk/about-us/practice-policies/patient-record/privacy-policy/</a>  
 
 10. <a id="endnote-10"></a>
    Source: kingsleynapley.co.uk  
    Title: criminal consequences for accessing medical records without a business purpose  
-   Link: [https://www.kingsleynapley.co.uk/insights/blogs/regulatory-blog/criminal-consequences-for-accessing-medical-records-without-a-business-purpose](https://www.kingsleynapley.co.uk/insights/blogs/regulatory-blog/criminal-consequences-for-accessing-medical-records-without-a-business-purpose)  
+   Link: <a href="https://www.kingsleynapley.co.uk/insights/blogs/regulatory-blog/criminal-consequences-for-accessing-medical-records-without-a-business-purpose" target="_blank" rel="noopener noreferrer nofollow">https://www.kingsleynapley.co.uk/insights/blogs/regulatory-blog/criminal-consequences-for-accessing-medical-records-without-a-business-purpose</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Criminal consequences for accessing medical records...15 Aug 2017 — It may be a criminal offence to obtain or disclose personal data (eg...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theguardian.com  
    Title: nhs england data privacy confidentiality records addenbrookes hospital  
-   Link: [https://www.theguardian.com/society/2023/may/14/nhs-england-data-privacy-confidentiality-records-addenbrookes-hospital](https://www.theguardian.com/society/2023/may/14/nhs-england-data-privacy-confidentiality-records-addenbrookes-hospital)  
+   Link: <a href="https://www.theguardian.com/society/2023/may/14/nhs-england-data-privacy-confidentiality-records-addenbrookes-hospital" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2023/may/14/nhs-england-data-privacy-confidentiality-records-addenbrookes-hospital</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Warnings over NHS data privacy after &#x27;stalker&#x27; doctor...14 May 2023 — The confidentiality of NHS medical records has been thrown into do...</p></details>
    Published: May 2023  
 
 12. <a id="endnote-12"></a>
    Source: medicalprotection.org  
    Title: when a patient wants to amend their medical records  
-   Link: [https://www.medicalprotection.org/uk/articles/when-a-patient-wants-to-amend-their-medical-records](https://www.medicalprotection.org/uk/articles/when-a-patient-wants-to-amend-their-medical-records)  
+   Link: <a href="https://www.medicalprotection.org/uk/articles/when-a-patient-wants-to-amend-their-medical-records" target="_blank" rel="noopener noreferrer nofollow">https://www.medicalprotection.org/uk/articles/when-a-patient-wants-to-amend-their-medical-records</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Jul 2020 — However, if the patient&#x27;s records accurately reflect the doctor&#x27;s diagnosis at the time, the records are not inaccurate, bec...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Jacques Vallee: Implications of UFO Phenomena (excerpt)  
-   Link: [https://www.youtube.com/watch?v=sP10HPJkJ4Q](https://www.youtube.com/watch?v=sP10HPJkJ4Q)  
+   Link: <a href="https://www.youtube.com/watch?v=sP10HPJkJ4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sP10HPJkJ4Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr X UFO encounter Think Anomalous The Strange Case of Dr X: UFOs and &quot;Miracle&quot; Healings Think Anomalous...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: tri-linkssurgery.nhs.uk  
-   Link: [https://www.tri-linkssurgery.nhs.uk/wp-content/uploads/sites/1179/2024/08/Access-to-Medical-Records-Policy.docx](https://www.tri-linkssurgery.nhs.uk/wp-content/uploads/sites/1179/2024/08/Access-to-Medical-Records-Policy.docx)  
+   Link: <a href="https://www.tri-linkssurgery.nhs.uk/wp-content/uploads/sites/1179/2024/08/Access-to-Medical-Records-Policy.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.tri-linkssurgery.nhs.uk/wp-content/uploads/sites/1179/2024/08/Access-to-Medical-Records-Policy.docx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When there is any doubt as to whether disclosure would cause serious harm, the BMA recommends that the responsible clinician discusses th...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: commonslibrary.parliament.uk  
    Title: uk Accessing Health Records  
-   Link: [https://commonslibrary.parliament.uk/research-briefings/cbp-10686/](https://commonslibrary.parliament.uk/research-briefings/cbp-10686/)  
+   Link: <a href="https://commonslibrary.parliament.uk/research-briefings/cbp-10686/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cbp-10686/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Records - The House of Commons Library1 Jul 2025 — To access their medical records, patients must contact each NHS service provide...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/4ahfze/whats_the_best_ufo_case_youve_found/](https://www.reddit.com/r/UFOs/comments/4ahfze/whats_the_best_ufo_case_youve_found/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/4ahfze/whats_the_best_ufo_case_youve_found/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/4ahfze/whats_the_best_ufo_case_youve_found/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e but that he feels it on the inside. He...</p></details>

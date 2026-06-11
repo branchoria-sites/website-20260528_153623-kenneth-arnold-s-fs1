@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -436,9 +436,9 @@ sibling_links:
   permalink: /gary-wilcox-encounter-1964/
   short_title: Wilcox UFO
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -746,10 +746,10 @@ prev_link:
   short_title: Wilcox UFO
 next_link:
   basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
-date: '2026-06-08 23:23:08 '
+  short_title: Gemini 7 Sighting
+date: '2026-06-11 13:14:10 '
 header:
   og_image: /assets/images/Gemini_4_sighting_19_9c351d-overview-social.jpg
   preview_image: /assets/images/Gemini_4_sighting_19_9c351d-overview.webp
@@ -760,23 +760,20 @@ image: /assets/images/Gemini_4_sighting_19_9c351d-overview-social.jpg
 
 Gemini IV launched from Cape Kennedy on 3 June 1965 with James McDivitt as command pilot and Edward White as pilot. NASA’s modern mission page summarises the flight as a four-day, 62-revolution mission whose headline achievement was White’s first American spacewalk, while also listing rendezvous work, spacecraft evaluation, manoeuvring tests, and 11 experiments among its objectives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/mission/gemini-iv/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">Gemini IV</span><span class="citation-popover-snippet">Gemini IV</span></span></span>
 
-
 <img src="{{ "/assets/images/Gemini_4_sighting_19_9c351d-overview.webp" | relative_url }}" alt="Overview image for Gemini 4 sighting 1965" loading="eager" decoding="sync" fetchpriority="high">
 The sighting came after the famous EVA, during a later phase of the mission. The NASA public affairs transcript says McDivitt reported, during voice communication with capsule communicator Gus Grissom, that he had seen another object in space. The transcript’s paraphrase says the object appeared to have “big arms sticking out”, that McDivitt took motion pictures of it, and that the Sun’s position made it hard to keep the object in view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Gemini4/GT04_PAO_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Gemini 4</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Gemini 4</span></span></span>
 
 This is important because the core sighting was not a later-only UFO anecdote. It appeared in near-real-time mission commentary, and the report immediately triggered attempts to identify what McDivitt might have seen. The same transcript later says mission personnel consulted Goddard Space Flight Center and the North American Defense Command and were leaning towards Pegasus as the probable identification, while also noting uncertainty about viewing angle and range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Gemini4/GT04_PAO_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Gemini 4</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Gemini 4</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yz5YidDoD0I" title="‘We just saw BOGEY &amp; BRILLIANT space object…’: UFO files reveal Gemini 7 astronauts’ 1965 sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yz5YidDoD0I" target="_blank" rel="noopener noreferrer">‘We just saw BOGEY &amp; BRILLIANT space object…’: UFO files reveal Gemini 7 astronauts’ 1965 sighting</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 7.8K &middot; Uploaded: May 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yz5YidDoD0I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yz5YidDoD0I">Open on YouTube</a></p></div></div></div>
 
 ## Why the orbit was full of possible false leads
 
-The Gemini 4 setting was unusually good for misidentification. The spacecraft had already attempted, unsuccessfully, to station-keep with the discarded Titan II second stage. Smithsonian’s National Air and Space Museum notes that the flight plan included a rendezvous with the discarded second stage, but the attempt was aborted after McDivitt had difficulty reaching the booster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/capsule-gemini-iv/nasm_A19670209000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">National Air and Space Museum Capsule, Gemini IV | National Air and Space Museum</span><span class="citation-popover-snippet">National Air and Space Museum Capsule, Gemini IV | National Air and Space Museum</span></span></span>
+The Gemini 4 setting was unusually good for misidentification. The spacecraft had already attempted, unsuccessfully, to station-keep with the discarded Titan II second stage. Smithsonian’s National Air and Space Museum notes that the flight plan included a rendezvous with the discarded second stage, but the attempt was aborted after McDivitt had difficulty reaching the booster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/capsule-gemini-iv/nasm_A19670209000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">National Air and Space Museum Capsule, Gemini IV &#124; National Air and Space Museum</span><span class="citation-popover-snippet">National Air and Space Museum Capsule, Gemini IV &#124; National Air and Space Museum</span></span></span>
 
 That failed rendezvous matters because it put a known piece of hardware into the story from the beginning. The transcript and contemporary reporting also show that other orbital targets were being discussed. Mission control later gave the crew specific instructions for tracking Pegasus, including attitude and slant-range information, and during one pass had to choose between a critical tape dump and Pegasus tracking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Gemini4/GT04_PAO_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Gemini 4</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Gemini 4</span></span></span>
 
 Contemporary newspaper coverage shows how quickly the case became a practical identification problem rather than a simple “mystery craft” story. An Associated Press report archived in the Athens Banner-Herald said flight officials and the astronauts had puzzled over the object and had “finally decided” it was likely Pegasus, while also stressing that distances in space were hard to judge. The same report noted that the crew had earlier estimated the second-stage rocket at three to five miles away, while radar showed it at about 20 miles, a concrete example of how misleading visual range estimates could be in orbit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gahistoricnewspapers.galileo.usg.edu/lccn/sn88054115/1965-06-06/ed-1/seq-1/ocr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gahistoricnewspapers.galileo.usg.edu">[gahistoricnewspapers.galileo.usg.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gahistoricnewspapers.galileo.usg.edu</span><span class="citation-popover-snippet">Athens banner-herald. (Athens, Ga.) 1933-current, June 06, 1965, Home Edition, Image 1 « Georgia Historic Newspapers...</span><span class="citation-popover-meta">Published: June 6, 1965</span></span></span>
-
 
 <img src="{{ "/assets/images/Gemini_4_sighting_19_9c351d-Illustration-1-dark.svg" | relative_url }}" alt="Gemini 4 sighting 1965 illustration 1" data-theme-src-dark="{{ "/assets/images/Gemini_4_sighting_19_9c351d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gemini_4_sighting_19_9c351d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The photograph problem
@@ -786,7 +783,6 @@ The sighting is often discussed as though McDivitt captured a decisive photograp
 The Black Vault’s archived case page quotes McDivitt’s later description as a white cylindrical object with a protruding feature, and also gives his uncertainty about whether the thing was small and close or large and distant. In that account, he grabbed two cameras, took pictures, used the spacecraft control system because he was concerned about collision, and lost the object after sunlight made the dirty window hard to see through. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/mcdivitt-gemini-ufo-finally-viewable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">mcdivitt gemini ufo finally viewable</span><span class="citation-popover-snippet">mcdivitt gemini ufo finally viewable</span></span></span>
 
 That creates a key evidential split: the witness account is interesting, but the photographic evidence is weak. A useful case page has to keep those two facts separate. McDivitt’s testimony supports that he saw something he could not immediately identify; the available image does not independently establish a structured craft matching his description.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yy8C5kwXu_s" title="LISTEN: Pentagon Releases Audio Of Gemini 7 Mission Astronauts Encountering Unidentified Object" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yy8C5kwXu_s" target="_blank" rel="noopener noreferrer">LISTEN: Pentagon Releases Audio Of Gemini 7 Mission Astronauts Encountering Unidentified Object</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 550.2K &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yy8C5kwXu_s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yy8C5kwXu_s">Open on YouTube</a></p></div></div></div>
 
@@ -798,8 +794,7 @@ The main [explanations]({{ 'explanations-6c6412/' | relative_url }}) divide into
 
 **The Titan II second stage.** Later sceptical analysis, especially associated with spaceflight writer James Oberg, argued for the Titan II second stage as a likely candidate. Searchable summaries of Oberg’s analysis report that he identified the sighting with the Titan II second stage, while also noting that McDivitt objected to that identification because he believed he was seeing something different from the booster he had earlier tried to rendezvous with. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoevidence.org/cases/case978.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoevidence.org">[UFO Evidence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoevidence.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Another small man-made object or debris fragment.** This is a cautious middle position and probably the strongest overall description: McDivitt may have seen a man-made orbital object whose exact identity was uncertain. The mission environment included the Gemini spacecraft, its launch vehicle hardware, Pegasus tracking opportunities, experiments, windows affected by smudging or glare, and known problems of judging range in orbit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/capsule-gemini-iv/nasm_A19670209000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">National Air and Space Museum Capsule, Gemini IV | National Air and Space Museum</span><span class="citation-popover-snippet">National Air and Space Museum Capsule, Gemini IV | National Air and Space Museum</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Gemini4/GT04_PAO_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Gemini 4</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Gemini 4</span></span></span>
-
+**Another small man-made object or debris fragment.** This is a cautious middle position and probably the strongest overall description: McDivitt may have seen a man-made orbital object whose exact identity was uncertain. The mission environment included the Gemini spacecraft, its launch vehicle hardware, Pegasus tracking opportunities, experiments, windows affected by smudging or glare, and known problems of judging range in orbit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/collection-objects/capsule-gemini-iv/nasm_A19670209000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">National Air and Space Museum Capsule, Gemini IV &#124; National Air and Space Museum</span><span class="citation-popover-snippet">National Air and Space Museum Capsule, Gemini IV &#124; National Air and Space Museum</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/Gemini4/GT04_PAO_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Gemini 4</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Gemini 4</span></span></span>
 
 <img src="{{ "/assets/images/Gemini_4_sighting_19_9c351d-Illustration-2-dark.svg" | relative_url }}" alt="Gemini 4 sighting 1965 illustration 2" data-theme-src-dark="{{ "/assets/images/Gemini_4_sighting_19_9c351d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gemini_4_sighting_19_9c351d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case can and cannot prove
@@ -810,7 +805,6 @@ Its weaknesses are just as important. Edward White was reportedly asleep around 
 
 The case also illustrates a recurring problem in astronaut-UFO lore: a genuine operational mystery can become overstated once detached from its mission context. In the full Gemini IV setting, the sighting sits among rendezvous problems, Pegasus tracking, Earth photography, medical monitoring, and spacecraft-management tasks. Treating it as a stand-alone alien encounter removes the very details that make ordinary explanations plausible. NASA <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/citations/19670017945" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server Terrain photography on the Gemini IV MISSION</span><span class="citation-popover-snippet">Technical Reports Server Terrain photography on the Gemini IV MISSION</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oPCEsl_C78A" title="B. General James McDivitt&#x27;s testimony of Gemini IV UFO/UAP sighting - Join my NEW channel for more!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oPCEsl_C78A" target="_blank" rel="noopener noreferrer">B. General James McDivitt&#x27;s testimony of Gemini IV UFO/UAP sighting - Join my NEW channel for more!</a></p><p class="youtube-embed-meta">Channel: JayTee RC &middot; Views: 3.2K &middot; Uploaded: November 2022 &middot; Length: 3 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oPCEsl_C78A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oPCEsl_C78A">Open on YouTube</a></p></div></div></div>
 
 ## Best assessment
@@ -819,48 +813,89 @@ The Gemini 4 sighting remains a historically interesting astronaut UFO case, but
 
 The unresolved part is not whether Gemini IV produced a famous story — it did. The unresolved part is which ordinary object, if any, precisely matches McDivitt’s brief observation. On the available record, the case is best filed as an astronaut-reported unidentified orbital object with weak photographic support, meaningful witness credibility, and several credible prosaic explanations.
 
-
 <img src="{{ "/assets/images/Gemini_4_sighting_19_9c351d-Illustration-3-dark.svg" | relative_url }}" alt="Gemini 4 sighting 1965 illustration 3" data-theme-src-dark="{{ "/assets/images/Gemini_4_sighting_19_9c351d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gemini_4_sighting_19_9c351d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Did Mc Divitt See in Orbit?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Did Mc Divitt See in Orbit?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">James Mc Divitt guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=James+Mc+Divitt+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Sets the governing commercial and informational context for the official military disclosure process concerning unidentified drone encoun...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Gemini IV debris guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Gemini+IV+debris+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+        </h4>
+        <p class="fr-book-author">By Ross Coulthart</p>
+        
+        <p class="fr-book-desc">Provides broad context on the 2019-era incidents and the ongoing intelligence debate regarding naval security and unmanned aerial systems.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Titan II stage guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Titan+II+stage+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Movie EVERYONE Is Hillbillying About on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Movie EVERYONE Is Hillbillying About">The UFO Movie EVERYONE Is Hillbillying About</a>
+        </h4>
+        <p class="fr-book-author">By Mick West</p>
+        
+        
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Movie EVERYONE Is Hillbillying About</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -1177,156 +1212,156 @@ The unresolved part is not whether Gemini IV produced a famous story — it did.
 1. <a id="endnote-1"></a>
    Source: nasa.gov  
    Title: Gemini IV  
-   Link: [https://www.nasa.gov/mission/gemini-iv/](https://www.nasa.gov/mission/gemini-iv/)  
+   Link: <a href="https://www.nasa.gov/mission/gemini-iv/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/mission/gemini-iv/</a>  
 
 2. <a id="endnote-2"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Gemini 4"  
-   Link: [https://archive.org/stream/Gemini4/GT04_PAO_djvu.txt](https://archive.org/stream/Gemini4/GT04_PAO_djvu.txt)  
+   Link: <a href="https://archive.org/stream/Gemini4/GT04_PAO_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Gemini4/GT04_PAO_djvu.txt</a>  
 
 3. <a id="endnote-3"></a>
    Source: gahistoricnewspapers.galileo.usg.edu  
-   Link: [https://gahistoricnewspapers.galileo.usg.edu/lccn/sn88054115/1965-06-06/ed-1/seq-1/ocr/](https://gahistoricnewspapers.galileo.usg.edu/lccn/sn88054115/1965-06-06/ed-1/seq-1/ocr/)  
+   Link: <a href="https://gahistoricnewspapers.galileo.usg.edu/lccn/sn88054115/1965-06-06/ed-1/seq-1/ocr/" target="_blank" rel="noopener noreferrer nofollow">https://gahistoricnewspapers.galileo.usg.edu/lccn/sn88054115/1965-06-06/ed-1/seq-1/ocr/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Athens banner-herald. (Athens, Ga.) 1933-current, June 06, 1965, Home Edition, Image 1 « Georgia Historic Newspapers...</p></details>
    Published: June 6, 1965  
 
 4. <a id="endnote-4"></a>
    Source: ntrs.nasa.gov  
    Title: Technical Reports Server Terrain photography on the Gemini IV MISSION  
-   Link: [https://ntrs.nasa.gov/citations/19670017945](https://ntrs.nasa.gov/citations/19670017945)  
+   Link: <a href="https://ntrs.nasa.gov/citations/19670017945" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19670017945</a>  
 
 5. <a id="endnote-5"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/19670095754](https://ntrs.nasa.gov/citations/19670095754)  
+   Link: <a href="https://ntrs.nasa.gov/citations/19670095754" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19670095754</a>  
 
 6. <a id="endnote-6"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19670095754/downloads/19670095754.pdf](https://ntrs.nasa.gov/api/citations/19670095754/downloads/19670095754.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19670095754/downloads/19670095754.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19670095754/downloads/19670095754.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19670017945/downloads/19670017945.pdf](https://ntrs.nasa.gov/api/citations/19670017945/downloads/19670017945.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19670017945/downloads/19670017945.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19670017945/downloads/19670017945.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19660020337/downloads/19660020337.pdf](https://ntrs.nasa.gov/api/citations/19660020337/downloads/19660020337.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19660020337/downloads/19660020337.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19660020337/downloads/19660020337.pdf</a>  
 
 9. <a id="endnote-9"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19730073399/downloads/19730073399.pdf](https://ntrs.nasa.gov/api/citations/19730073399/downloads/19730073399.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19730073399/downloads/19730073399.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19730073399/downloads/19730073399.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/19660015400](https://ntrs.nasa.gov/citations/19660015400)  
+   Link: <a href="https://ntrs.nasa.gov/citations/19660015400" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19660015400</a>  
 
 11. <a id="endnote-11"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19680016105/downloads/19680016105.pdf](https://ntrs.nasa.gov/api/citations/19680016105/downloads/19680016105.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19680016105/downloads/19680016105.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19680016105/downloads/19680016105.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/19650019648](https://ntrs.nasa.gov/citations/19650019648)  
+   Link: <a href="https://ntrs.nasa.gov/citations/19650019648" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19650019648</a>  
 
 13. <a id="endnote-13"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/19650026499/downloads/19650026499.pdf](https://ntrs.nasa.gov/api/citations/19650026499/downloads/19650026499.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19650026499/downloads/19650026499.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19650026499/downloads/19650026499.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: nasa.gov  
    Title: gt04 pao  
-   Link: [https://www.nasa.gov/wp-content/uploads/2026/01/gt04-pao.pdf?emrc=70d6cf](https://www.nasa.gov/wp-content/uploads/2026/01/gt04-pao.pdf?emrc=70d6cf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2026/01/gt04-pao.pdf?emrc=70d6cf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2026/01/gt04-pao.pdf?emrc=70d6cf</a>  
 
 15. <a id="endnote-15"></a>
    Source: nasa.gov  
    Title: gt04 tec  
-   Link: [https://www.nasa.gov/wp-content/uploads/2026/01/gt04-tec.pdf?emrc=88b6d9](https://www.nasa.gov/wp-content/uploads/2026/01/gt04-tec.pdf?emrc=88b6d9)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2026/01/gt04-tec.pdf?emrc=88b6d9" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2026/01/gt04-tec.pdf?emrc=88b6d9</a>  
 
 16. <a id="endnote-16"></a>
    Source: airandspace.si.edu  
    Title: National Air and Space Museum Capsule, Gemini IV | National Air and Space Museum  
-   Link: [https://airandspace.si.edu/collection-objects/capsule-gemini-iv/nasm_A19670209000](https://airandspace.si.edu/collection-objects/capsule-gemini-iv/nasm_A19670209000)  
+   Link: <a href="https://airandspace.si.edu/collection-objects/capsule-gemini-iv/nasm_A19670209000" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/collection-objects/capsule-gemini-iv/nasm_A19670209000</a>  
 
 17. <a id="endnote-17"></a>
    Source: theblackvault.com  
    Title: mcdivitt gemini ufo finally viewable  
-   Link: [https://www.theblackvault.com/casefiles/mcdivitt-gemini-ufo-finally-viewable/](https://www.theblackvault.com/casefiles/mcdivitt-gemini-ufo-finally-viewable/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/mcdivitt-gemini-ufo-finally-viewable/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/mcdivitt-gemini-ufo-finally-viewable/</a>  
 
 18. <a id="endnote-18"></a>
    Source: ufoevidence.org  
-   Link: [https://www.ufoevidence.org/cases/case978.htm](https://www.ufoevidence.org/cases/case978.htm)  
+   Link: <a href="https://www.ufoevidence.org/cases/case978.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case978.htm</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: James Oberg  
-   Link: [https://en.wikipedia.org/wiki/James_Oberg](https://en.wikipedia.org/wiki/James_Oberg)  
+   Link: <a href="https://en.wikipedia.org/wiki/James_Oberg" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/James_Oberg</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Gemini 4  
-   Link: [https://en.wikipedia.org/wiki/Gemini_4](https://en.wikipedia.org/wiki/Gemini_4)  
+   Link: <a href="https://en.wikipedia.org/wiki/Gemini_4" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gemini_4</a>  
 
 21. <a id="endnote-21"></a>
    Source: documents.theblackvault.com  
    Title: pbb satellites  
-   Link: [https://documents.theblackvault.com/bluebookdesk/pbb-satellites.pdf](https://documents.theblackvault.com/bluebookdesk/pbb-satellites.pdf)  
+   Link: <a href="https://documents.theblackvault.com/bluebookdesk/pbb-satellites.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/bluebookdesk/pbb-satellites.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: spacefacts.de  
    Title: Gemini 4  
-   Link: [https://www.spacefacts.de/mission/english/gemini-4.htm](https://www.spacefacts.de/mission/english/gemini-4.htm)  
+   Link: <a href="https://www.spacefacts.de/mission/english/gemini-4.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.spacefacts.de/mission/english/gemini-4.htm</a>  
 
 23. <a id="endnote-23"></a>
    Source: ufoevidence.org  
-   Link: [https://www.ufoevidence.org/cases/case977.htm](https://www.ufoevidence.org/cases/case977.htm)  
+   Link: <a href="https://www.ufoevidence.org/cases/case977.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case977.htm</a>  
 
 24. <a id="endnote-24"></a>
    Source: tvo.org  
-   Link: [https://www.tvo.org/transcript/685102](https://www.tvo.org/transcript/685102)  
+   Link: <a href="https://www.tvo.org/transcript/685102" target="_blank" rel="noopener noreferrer nofollow">https://www.tvo.org/transcript/685102</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yy8C5kwXu_s](https://www.youtube.com/watch?v=yy8C5kwXu_s)  
+   Link: <a href="https://www.youtube.com/watch?v=yy8C5kwXu_s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yy8C5kwXu_s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;We just saw BOGEY &amp; BRILLIANT space object…&#x27;: UFO files reveal Gemini 7 astronauts&#x27; 1965 sighting...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: B. General James Mc Divitt's testimony of Gemini IV UFO/UAP sighting  
-   Link: [https://www.youtube.com/watch?v=oPCEsl_C78A](https://www.youtube.com/watch?v=oPCEsl_C78A)  
+   Link: <a href="https://www.youtube.com/watch?v=oPCEsl_C78A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oPCEsl_C78A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LISTEN: Pentagon Releases Audio Of Gemini 7 Mission Astronauts Encountering Unidentified Object...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: The Most Bizarre Space Encounters in History Explained!  
-   Link: [https://www.youtube.com/watch?v=dNjMtV0TUEk](https://www.youtube.com/watch?v=dNjMtV0TUEk)  
+   Link: <a href="https://www.youtube.com/watch?v=dNjMtV0TUEk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dNjMtV0TUEk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>B. General James McDivitt&#x27;s testimony of Gemini IV UFO/UAP sighting - Join my NEW channel for more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yz5YidDoD0I](https://www.youtube.com/watch?v=yz5YidDoD0I)  
+   Link: <a href="https://www.youtube.com/watch?v=yz5YidDoD0I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yz5YidDoD0I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s Been 50 Years since Gemini 6 Saw a UFO...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/nasa-uap-d3-gemini-7-transcript-1965.pdf](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d3-gemini-7-transcript-1965.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d3-gemini-7-transcript-1965.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/nasa-uap-d3-gemini-7-transcript-1965.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TimesofIndia/videos/unknown-object-closing-in-nasa-astronauts-first-ufo-scare-on-cam-gemini-7-crew-a/1479002727026979/](https://www.facebook.com/TimesofIndia/videos/unknown-object-closing-in-nasa-astronauts-first-ufo-scare-on-cam-gemini-7-crew-a/1479002727026979/)  
+   Link: <a href="https://www.facebook.com/TimesofIndia/videos/unknown-object-closing-in-nasa-astronauts-first-ufo-scare-on-cam-gemini-7-crew-a/1479002727026979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TimesofIndia/videos/unknown-object-closing-in-nasa-astronauts-first-ufo-scare-on-cam-gemini-7-crew-a/1479002727026979/</a>  
 
 31. <a id="endnote-31"></a>
    Source: pressherald.com  
-   Link: [https://www.pressherald.com/wp-content/uploads/sites/4/2015/05/19650605.pdf](https://www.pressherald.com/wp-content/uploads/sites/4/2015/05/19650605.pdf)  
+   Link: <a href="https://www.pressherald.com/wp-content/uploads/sites/4/2015/05/19650605.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pressherald.com/wp-content/uploads/sites/4/2015/05/19650605.pdf</a>  
 
 32. <a id="endnote-32"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/astronaut-ufo-sightings?srsltid=AfmBOoqjYUIMHCWm2g_BRjLSLLSas8CqfAtvAw-Iuazf2SxWKLBLyUzj](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/astronaut-ufo-sightings?srsltid=AfmBOoqjYUIMHCWm2g_BRjLSLLSas8CqfAtvAw-Iuazf2SxWKLBLyUzj)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/astronaut-ufo-sightings?srsltid=AfmBOoqjYUIMHCWm2g_BRjLSLLSas8CqfAtvAw-Iuazf2SxWKLBLyUzj" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/astronaut-ufo-sightings?srsltid=AfmBOoqjYUIMHCWm2g_BRjLSLLSas8CqfAtvAw-Iuazf2SxWKLBLyUzj</a>  
 
 33. <a id="endnote-33"></a>
    Source: hangar1publishing.com  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/astronaut-ufo-sightings?srsltid=AfmBOopqG0LKeo8Uze-zfJrffZm0PCqmVDBQdrKqLttDf-mgpiEfZ6NB](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/astronaut-ufo-sightings?srsltid=AfmBOopqG0LKeo8Uze-zfJrffZm0PCqmVDBQdrKqLttDf-mgpiEfZ6NB)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/astronaut-ufo-sightings?srsltid=AfmBOopqG0LKeo8Uze-zfJrffZm0PCqmVDBQdrKqLttDf-mgpiEfZ6NB" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/astronaut-ufo-sightings?srsltid=AfmBOopqG0LKeo8Uze-zfJrffZm0PCqmVDBQdrKqLttDf-mgpiEfZ6NB</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2218759105228397/](https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2218759105228397/)  
+   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2218759105228397/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2218759105228397/</a>

@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /uss-nimitz-tic-tac-video-2004/
 nav_short_title: Infrared Evidence
 title: 'Decoding the FLIR Video: What Sensors Showed'
-title_full: 'Decoding the FLIR Video: What Sensors Showed | Nimitz UAP'
+title_full: 'Decoding the FLIR Video: What Sensors Showed'
 display_title_short: Infrared Evidence
 display_title: Infrared Evidence
 heading_title: 'Decoding the FLIR Video: What Sensors Showed'
@@ -233,7 +233,7 @@ next_link:
   permalink: /official-reports/
   short_title: Official Reports
   heading_title: What Do Official Reports Really Say About Nimitz?
-date: '2026-06-08 23:41:17 '
+date: '2026-06-11 13:23:54 '
 header:
   og_image: /assets/images/USS_Nimitz_Tic_Tac_v_83266a_infrared_video_analy_b53fe5-Illustration-1-social.jpg
   preview_image: /assets/images/USS_Nimitz_Tic_Tac_v_83266a_infrared_video_analy_b53fe5-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/USS_Nimitz_Tic_Tac_v_83266a_infrared_video_analy_b53fe5-Il
 ## Introduction
 
 The infrared footage associated with the 2004 USS Nimitz “Tic Tac” incident became globally famous because it appeared to offer military sensor confirmation of an object behaving beyond known aircraft performance. Yet the FLIR1 video, viewed carefully and in technical context, is more complicated than the popular narrative suggests. The clip is short, low-resolution, partially ambiguous, and disconnected from most of the dramatic manoeuvres described by pilots and radar operators. Its importance lies less in what the public can directly see and more in how the video intersects with claims of radar tracking, targeting-pod behaviour, and eyewitness testimony.
-
 
 <img src="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a_infrared_video_analy_b53fe5-Illustration-1-dark.svg" | relative_url }}" alt="Infrared Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a_infrared_video_analy_b53fe5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a_infrared_video_analy_b53fe5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The central challenge is that the public has only fragmentary evidence. The infrared video is real Navy footage, officially acknowledged by the Pentagon, but the raw radar tapes, complete telemetry, and full sensor logs have never been publicly released. That gap has allowed two broad interpretations to develop. Supporters argue the combined sensor picture points to a genuinely anomalous object. Skeptics counter that the public video itself is consistent with a distant aircraft, sensor artefacts, or misinterpreted targeting-pod behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[2leonarddavid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">debunking navy ufo videos</span><span class="citation-popover-snippet">Debunking Navy “UFO” Videos30 Apr 2020 — “The FLIR video is most likely a distant plane. The video was taken well after the famous encoun...</span></span></span>
@@ -257,7 +256,6 @@ The ATFLIR system is a stabilised infrared and optical targeting pod designed pr
 At first glance, the footage seems straightforward: a heat-emitting object is tracked, then suddenly darts away. However, the display symbology reveals that the camera system itself is moving and attempting to maintain lock. This is crucial because the apparent motion in the frame may reflect sensor motion, aircraft motion, or tracking transitions rather than the object alone.
 
 Several details shaped public perceptions of the clip:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -276,7 +274,7 @@ To many viewers, these traits implied non-conventional flight. But each feature 
 
 Infrared imagery records heat contrast rather than visible-light detail. Aircraft viewed at long range can lose recognisable shapes and appear as indistinct bright or dark blobs. Atmospheric conditions, sensor gain, zoom levels, and compression can all distort apparent geometry.
 
-This creates a major interpretive problem: the object’s appearance cannot reliably establish its true shape. A conventional aircraft viewed from certain angles may not display visible wings or tail structures in thermal imagery. Skeptical analyses repeatedly emphasise this point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-that-the-nimitz-flir1-object-could-not-be-a-plane-because-it-would-have-been-identified.11726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">MetabunkClaim that the Nimitz FLIR1 object could not be a plane...5 May 2021 — The ATFLIR has no limit to the distance it can track a ta...</span><span class="citation-popover-meta">Published: May 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/angular-size-and-shape-analysis-of-flir1-with-sitrec.12470/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">angular size and shape analysis of flir1 with sitrec.12470</span><span class="citation-popover-snippet">Angular Size and Shape Analysis of FLIR1 with Sitrec10 Jun 2022 — My calculation is that to have this angular size in TV mode, a F-18 see...</span></span></span>
+This creates a major interpretive problem: the object’s appearance cannot reliably establish its true shape. A conventional aircraft viewed from certain angles may not display visible wings or tail structures in thermal imagery. Skeptical analyses repeatedly emphasise this point. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-that-the-nimitz-flir1-object-could-not-be-a-plane-because-it-would-have-been-identified.11726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim that the Nimitz FLIR1 object could not be a plane...5 May 2021 — The ATFLIR has no limit to the distance it can track a ta...</span><span class="citation-popover-meta">Published: May 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/angular-size-and-shape-analysis-of-flir1-with-sitrec.12470/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">angular size and shape analysis of flir1 with sitrec.12470</span><span class="citation-popover-snippet">Angular Size and Shape Analysis of FLIR1 with Sitrec10 Jun 2022 — My calculation is that to have this angular size in TV mode, a F-18 see...</span></span></span>
 
 The FLIR1 clip also circulated for years in compressed and degraded forms before official release. Analysts therefore worked with incomplete image fidelity, making frame-by-frame interpretation more uncertain.
 
@@ -290,14 +288,13 @@ This explanation does not prove the object was mundane, but it weakens the claim
 
 The telemetry shown on-screen provides only partial situational awareness. Without full aircraft data, precise range information, and complete radar correlation, estimating speed from the public clip alone is unreliable.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qsEjV8DdSbs" title="Gimbal UFO - A New Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer">Gimbal UFO - A New Analysis</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 203.9K &middot; Uploaded: March 2022 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qsEjV8DdSbs">Open on YouTube</a></p></div></div></div>
 
 ### The object’s lack of visible exhaust is not decisive
 
 Believers frequently point to the absence of a clear exhaust plume as evidence the object lacked conventional propulsion. Yet infrared signatures vary dramatically with viewing angle, atmospheric conditions, engine state, and sensor settings.
 
-A distant jet observed frontally or from an oblique angle may show minimal visible exhaust. Infrared bloom can also obscure structural details while compressing hot regions into simplified shapes. Analysts on Metabunk and other technical forums have demonstrated how distant aircraft can resemble the FLIR1 target under similar viewing conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/2022-annual-report-on-unidentified-aerial-phenomena.12843/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">2022 annual report on unidentified aerial phenomena.12843</span><span class="citation-popover-snippet">2022 Annual Report on Unidentified Aerial Phenomena12 Jan 2023 — Mick West said: AARO and ODNI assess that the observed increase in the U...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-that-the-nimitz-flir1-object-could-not-be-a-plane-because-it-would-have-been-identified.11726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">MetabunkClaim that the Nimitz FLIR1 object could not be a plane...5 May 2021 — The ATFLIR has no limit to the distance it can track a ta...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
+A distant jet observed frontally or from an oblique angle may show minimal visible exhaust. Infrared bloom can also obscure structural details while compressing hot regions into simplified shapes. Analysts on Metabunk and other technical forums have demonstrated how distant aircraft can resemble the FLIR1 target under similar viewing conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/2022-annual-report-on-unidentified-aerial-phenomena.12843/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">2022 annual report on unidentified aerial phenomena.12843</span><span class="citation-popover-snippet">2022 Annual Report on Unidentified Aerial Phenomena12 Jan 2023 — Mick West said: AARO and ODNI assess that the observed increase in the U...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/claim-that-the-nimitz-flir1-object-could-not-be-a-plane-because-it-would-have-been-identified.11726/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Claim that the Nimitz FLIR1 object could not be a plane...5 May 2021 — The ATFLIR has no limit to the distance it can track a ta...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
 The public footage therefore does not conclusively establish either exotic propulsion or ordinary aircraft identity.
 
@@ -310,7 +307,6 @@ The most dramatic aspects of the Nimitz case involve radar operators aboard USS 
 These radar claims are central because the FLIR video alone is ambiguous. If the radar tracks were fully verified and tightly correlated with the infrared target, the case would become substantially stronger.
 
 However, the public does not possess:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -327,7 +323,6 @@ As a result, outside researchers cannot fully reconstruct the engagement.
 
 This missing-data problem defines the entire debate. Advocates often treat witness testimony and leaked summaries as sufficient corroboration. Skeptics respond that without raw sensor evidence, extraordinary interpretations remain unproven.
 
-
 <img src="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a_infrared_video_analy_b53fe5-Illustration-2-dark.svg" | relative_url }}" alt="Infrared Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a_infrared_video_analy_b53fe5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a_infrared_video_analy_b53fe5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Radar systems can generate false or ambiguous tracks
 
@@ -343,7 +338,6 @@ Because the raw radar files remain unavailable, neither side can conclusively se
 
 Proponents of the anomalous interpretation argue that the Nimitz case is compelling precisely because it combines multiple evidence streams:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Pilot visual testimony
@@ -355,10 +349,9 @@ Proponents of the anomalous interpretation argue that the Nimitz case is compell
 
 </div>
 
-Physicist Kevin Knuth and colleagues attempted quantitative analysis of witness-reported manoeuvres, arguing that if the reported accelerations were accurate, they would imply flight characteristics beyond known aerospace technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCEstimating Flight Characteristics of Anomalous Unidentified...by KH Knuth · 2019 · Cited by 57 — The Tic-Tac UAV was estimated to be...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1099-4300/21/10/939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Tic-Tac UAV was estimated to be about the size of an F-18, about 56 feet...</span></span></span>
+Physicist Kevin Knuth and colleagues attempted quantitative analysis of witness-reported manoeuvres, arguing that if the reported accelerations were accurate, they would imply flight characteristics beyond known aerospace technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Estimating Flight Characteristics of Anomalous Unidentified...by KH Knuth · 2019 · Cited by 57 — The Tic-Tac UAV was estimated to be...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1099-4300/21/10/939" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">The Tic-Tac UAV was estimated to be about the size of an F-18, about 56 feet...</span></span></span>
 
 Supporters stress that trained aviators and radar personnel were involved, making simple misidentification less persuasive to them.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
 
@@ -367,7 +360,6 @@ Supporters stress that trained aviators and radar personnel were involved, makin
 Skeptical investigators focus heavily on the limits of the publicly available evidence. Their argument is not necessarily that every witness was mistaken, but that the FLIR1 clip itself does not demonstrate impossible physics.
 
 Key skeptical points include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -384,12 +376,10 @@ Technical analyses on Metabunk and related forums have explored whether the targ
 
 This interpretation does not fully explain every testimony claim, but it argues the public video is far weaker evidence than commonly portrayed in media coverage.
 
-
 <img src="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a_infrared_video_analy_b53fe5-Illustration-3-dark.svg" | relative_url }}" alt="Infrared Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a_infrared_video_analy_b53fe5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a_infrared_video_analy_b53fe5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Public Video Actually Demonstrates
 
 The FLIR1 clip does establish several things with reasonable confidence:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -400,7 +390,6 @@ The FLIR1 clip does establish several things with reasonable confidence:
 </div>
 
 What the public footage does not conclusively establish is equally important:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -413,7 +402,6 @@ What the public footage does not conclusively establish is equally important:
 
 This gap between “unidentified” and “extraordinary” is the heart of the Nimitz sensor debate.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U1di0XIa9RQ" title="Nimitz FLIR1 &quot;Tic-Tac&quot; UFO Video - No Sudden Moves!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U1di0XIa9RQ" target="_blank" rel="noopener noreferrer">Nimitz FLIR1 &quot;Tic-Tac&quot; UFO Video - No Sudden Moves!</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 41.3K &middot; Uploaded: May 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U1di0XIa9RQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U1di0XIa9RQ">Open on YouTube</a></p></div></div></div>
 
 ## Why the Infrared Evidence Still Matters
@@ -425,44 +413,86 @@ The case also changed institutional attitudes toward unidentified aerial phenome
 The FLIR1 video therefore remains significant less as definitive proof of exotic craft and more as a case study in the limits of modern military sensing. It demonstrates how incomplete datasets, ambiguous imagery, classified systems, and human interpretation can produce radically different conclusions from the same few seconds of footage.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Decoding the FLIR Video What Sensors Showed, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Decoding the FLIR Video What Sensors Showed. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides the essential baseline investigation details of the 2004 encounter, summarizing the sensor evidence versus pilot recollection.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches methodology to identify image processing artifacts and differentiate first-hand sensor data from folklore-driven interpretation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Discusses the importance of independent corroboration and identifying the exact sequence of events in sensor-based reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Reviews the standards applied by historical investigative bodies when checking sensor claims against external conditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sister States, Enemy States</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -473,207 +503,207 @@ The FLIR1 video therefore remains significant less as definitive proof of exotic
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2026 — The Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from United St...</p></details>
    Published: May 11, 2026  
 
 2. <a id="endnote-2"></a>
    Source: leonarddavid.com  
    Title: debunking navy ufo videos  
-   Link: [https://www.leonarddavid.com/debunking-navy-ufo-videos/](https://www.leonarddavid.com/debunking-navy-ufo-videos/)  
+   Link: <a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Navy “UFO” Videos30 Apr 2020 — “The FLIR video is most likely a distant plane. The video was taken well after the famous encoun...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: vice.com  
    Title: The Skeptic's Guide to the Pentagon's UFO Videos  
-   Link: [https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/](https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/)  
+   Link: <a href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2020 — In a series of several videos on his YouTube channel, West walks through how a gimbal mounted camera can produce the effect...</p></details>
    Published: May 6, 2020  
 
 4. <a id="endnote-4"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/claim-that-the-nimitz-flir1-object-could-not-be-a-plane-because-it-would-have-been-identified.11726/](https://www.metabunk.org/threads/claim-that-the-nimitz-flir1-object-could-not-be-a-plane-because-it-would-have-been-identified.11726/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkClaim that the Nimitz FLIR1 object could not be a plane...5 May 2021 — The ATFLIR has no limit to the distance it can track a ta...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/claim-that-the-nimitz-flir1-object-could-not-be-a-plane-because-it-would-have-been-identified.11726/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-that-the-nimitz-flir1-object-could-not-be-a-plane-because-it-would-have-been-identified.11726/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim that the Nimitz FLIR1 object could not be a plane...5 May 2021 — The ATFLIR has no limit to the distance it can track a ta...</p></details>
    Published: May 2021  
 
 5. <a id="endnote-5"></a>
    Source: metabunk.org  
    Title: angular size and shape analysis of flir1 with sitrec.12470  
-   Link: [https://www.metabunk.org/threads/angular-size-and-shape-analysis-of-flir1-with-sitrec.12470/](https://www.metabunk.org/threads/angular-size-and-shape-analysis-of-flir1-with-sitrec.12470/)  
+   Link: <a href="https://www.metabunk.org/threads/angular-size-and-shape-analysis-of-flir1-with-sitrec.12470/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/angular-size-and-shape-analysis-of-flir1-with-sitrec.12470/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Angular Size and Shape Analysis of FLIR1 with Sitrec10 Jun 2022 — My calculation is that to have this angular size in TV mode, a F-18 see...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nextbigfuture.com  
    Title: Next Big Future.com Pro-UFO Witness Versus Skeptic Mick West  
-   Link: [https://www.nextbigfuture.com/2021/05/pro-ufo-witness-versus-skeptic-mick-west.html](https://www.nextbigfuture.com/2021/05/pro-ufo-witness-versus-skeptic-mick-west.html)  
+   Link: <a href="https://www.nextbigfuture.com/2021/05/pro-ufo-witness-versus-skeptic-mick-west.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nextbigfuture.com/2021/05/pro-ufo-witness-versus-skeptic-mick-west.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Fravor believes that the object then accelerated away at 13000 mph. Mick...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: Mick West believe the Tic Tac UAP sightings was just a "  
-   Link: [https://www.reddit.com/r/UFOs/comments/155wtz4/mick_west_believe_the_tic_tac_uap_sightings_was/](https://www.reddit.com/r/UFOs/comments/155wtz4/mick_west_believe_the_tic_tac_uap_sightings_was/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/155wtz4/mick_west_believe_the_tic_tac_uap_sightings_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/155wtz4/mick_west_believe_the_tic_tac_uap_sightings_was/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They knew where it was, roughly how big, and how quickly it was moving before sending planes to check it out.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCEstimating Flight Characteristics of Anomalous Unidentified...by KH Knuth · 2019 · Cited by 57 — The Tic-Tac UAV was estimated to be...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Estimating Flight Characteristics of Anomalous Unidentified...by KH Knuth · 2019 · Cited by 57 — The Tic-Tac UAV was estimated to be...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/1099-4300/21/10/939](https://www.mdpi.com/1099-4300/21/10/939)  
+   Link: <a href="https://www.mdpi.com/1099-4300/21/10/939" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1099-4300/21/10/939</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tic-Tac UAV was estimated to be about the size of an F-18, about 56 feet...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2504-3900/33/1/26](https://www.mdpi.com/2504-3900/33/1/26)  
+   Link: <a href="https://www.mdpi.com/2504-3900/33/1/26" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-3900/33/1/26</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Estimating Flight Characteristics of Anomalous Unidentified...by KH Knuth · 2019 · Cited by 7 — The Tic-Tac UAV was estimated to be abou...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/n5jhbl/response_and_debunking_of_mick_wests_nimitz/](https://www.reddit.com/r/skeptic/comments/n5jhbl/response_and_debunking_of_mick_wests_nimitz/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/n5jhbl/response_and_debunking_of_mick_wests_nimitz/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/n5jhbl/response_and_debunking_of_mick_wests_nimitz/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Response and Debunking of Mick West&#x27;s NIMITZ hypothesisThis is not just video either, this FLIR is &#x27;slaved&#x27; to a radar track. Basically t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: metabunk.org  
    Title: 2022 annual report on unidentified aerial phenomena.12843  
-   Link: [https://www.metabunk.org/threads/2022-annual-report-on-unidentified-aerial-phenomena.12843/](https://www.metabunk.org/threads/2022-annual-report-on-unidentified-aerial-phenomena.12843/)  
+   Link: <a href="https://www.metabunk.org/threads/2022-annual-report-on-unidentified-aerial-phenomena.12843/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/2022-annual-report-on-unidentified-aerial-phenomena.12843/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2022 Annual Report on Unidentified Aerial Phenomena12 Jan 2023 — Mick West said: AARO and ODNI assess that the observed increase in the U...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/ncp4yg/just_remember_before_you_take_his_word_at_face/](https://www.reddit.com/r/ufo/comments/ncp4yg/just_remember_before_you_take_his_word_at_face/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/ncp4yg/just_remember_before_you_take_his_word_at_face/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ncp4yg/just_remember_before_you_take_his_word_at_face/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>can&#x27;t exist&quot; and works backwards from there...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/OutOfTheLoop/comments/d5womx/whats_going_on_with_the_us_navy_confirming_that/](https://www.reddit.com/r/OutOfTheLoop/comments/d5womx/whats_going_on_with_the_us_navy_confirming_that/)  
+   Link: <a href="https://www.reddit.com/r/OutOfTheLoop/comments/d5womx/whats_going_on_with_the_us_navy_confirming_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/OutOfTheLoop/comments/d5womx/whats_going_on_with_the_us_navy_confirming_that/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t it may expose details of how the sensors are set up if an...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: for those who dont know the gimbal and gofast  
-   Link: [https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/](https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bfmuzz/for_those_who_dont_know_the_gimbal_and_gofast/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For those who don&#x27;t know, the Gimbal and GoFast videos...It&#x27;s not just Mick West&#x27;s analysis, NASA also looked at GoFast and came to the...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOscience/comments/sdf157/mick_west_has_made_a_3d_simulation_of_the_gimbal/](https://www.reddit.com/r/UFOscience/comments/sdf157/mick_west_has_made_a_3d_simulation_of_the_gimbal/)  
+   Link: <a href="https://www.reddit.com/r/UFOscience/comments/sdf157/mick_west_has_made_a_3d_simulation_of_the_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/sdf157/mick_west_has_made_a_3d_simulation_of_the_gimbal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ative agreement with the rotation you&#x27;d get from the camera...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/j5dbjg/pdf_estimating_flight_characteristics_of/](https://www.reddit.com/r/HighStrangeness/comments/j5dbjg/pdf_estimating_flight_characteristics_of/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/j5dbjg/pdf_estimating_flight_characteristics_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/j5dbjg/pdf_estimating_flight_characteristics_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in the 2004 Nimitz Encounter. r/HighStrangeness - (PDF)...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: American Institute of Aeronautics and Astronautics  
-   Link: [https://en.wikipedia.org/wiki/American_Institute_of_Aeronautics_and_Astronautics](https://en.wikipedia.org/wiki/American_Institute_of_Aeronautics_and_Astronautics)  
+   Link: <a href="https://en.wikipedia.org/wiki/American_Institute_of_Aeronautics_and_Astronautics" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/American_Institute_of_Aeronautics_and_Astronautics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Institute of Aeronautics and AstronauticsThe American Institute of Aeronautics and Astronautics (AIAA) is a professional soci...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Nimitz FLIR1 “Tic-Tac” UFO Video – No Sudden Moves!  
-   Link: [https://www.youtube.com/watch?v=U1di0XIa9RQ](https://www.youtube.com/watch?v=U1di0XIa9RQ)  
+   Link: <a href="https://www.youtube.com/watch?v=U1di0XIa9RQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U1di0XIa9RQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gimbal UFO – A New Analysis...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Gimbal UFO – A New Analysis  
-   Link: [https://www.youtube.com/watch?v=qsEjV8DdSbs](https://www.youtube.com/watch?v=qsEjV8DdSbs)  
+   Link: <a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qsEjV8DdSbs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Response to David Fravor “debunking” me on Lex Fridman...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Response to David Fravor “debunking” me on Lex Fridman  
-   Link: [https://www.youtube.com/watch?v=fT1uRf5_dF4](https://www.youtube.com/watch?v=fT1uRf5_dF4)  
+   Link: <a href="https://www.youtube.com/watch?v=fT1uRf5_dF4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fT1uRf5_dF4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Tic Tac&quot; UFO: Can This Sighting Be Explained? | NOVA | PBS...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: The "Tic Tac" UFO: Can This Sighting Be Explained? | NOVA | PBS  
-   Link: [https://www.youtube.com/watch?v=rQs2NL7hcDA](https://www.youtube.com/watch?v=rQs2NL7hcDA)  
+   Link: <a href="https://www.youtube.com/watch?v=rQs2NL7hcDA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rQs2NL7hcDA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO files show no alien evidence, analyst says...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Pentagon UFO files show no alien evidence, analyst says  
-   Link: [https://www.youtube.com/watch?v=Rn39Hhyk7WE](https://www.youtube.com/watch?v=Rn39Hhyk7WE)  
+   Link: <a href="https://www.youtube.com/watch?v=Rn39Hhyk7WE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rn39Hhyk7WE</a>  
 
 24. <a id="endnote-24"></a>
    Source: aerospaceamerica.aiaa.org  
    Title: Aerospace America Mystery of the “damn things”  
-   Link: [https://aerospaceamerica.aiaa.org/features/mystery-of-the-damn-things/](https://aerospaceamerica.aiaa.org/features/mystery-of-the-damn-things/)  
+   Link: <a href="https://aerospaceamerica.aiaa.org/features/mystery-of-the-damn-things/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/features/mystery-of-the-damn-things/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace AmericaMystery of the “damn things” - Aerospace America - AIAA31 Oct 2019 — Fravor, in a New York Times article accompanying th...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: academia.edu  
    Title: The FLIR1 video  
-   Link: [https://www.academia.edu/45588364/The_FLIR1_video](https://www.academia.edu/45588364/The_FLIR1_video)  
+   Link: <a href="https://www.academia.edu/45588364/The_FLIR1_video" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/45588364/The_FLIR1_video</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The FLIR1 video22 Mar 2021 — FLIR1 video was taken in 2004 during training exercises near San Diego (CA). It was recorded after som...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Le7Fqbsrrm8](https://www.youtube.com/watch?v=Le7Fqbsrrm8)  
+   Link: <a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Le7Fqbsrrm8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Breakdown of the Pentagon UFO videos with Mick WestThe Pentagon have declassified three videos showing apparent UFOs. The internet is abl...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-_4QF__92q0](https://www.youtube.com/watch?v=-_4QF__92q0)  
+   Link: <a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert AnalysisOn his Week in Space, skeptical investigator Mick West breaks down recent UFO videos, in...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/aiaaerospace/](https://www.instagram.com/aiaaerospace/)  
+   Link: <a href="https://www.instagram.com/aiaaerospace/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/aiaaerospace/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AIAA (@aiaaerospace) · Reston, VA31K followers · 2.5K+ posts · American Institute of Aeronautics &amp; Astronautics - Headquartered in Reston...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: scimagojr.com  
-   Link: [https://www.scimagojr.com/journalsearch.php?q=29964&tip=sid](https://www.scimagojr.com/journalsearch.php?q=29964&tip=sid)  
+   Link: <a href="https://www.scimagojr.com/journalsearch.php?q=29964&amp;tip=sid" target="_blank" rel="noopener noreferrer nofollow">https://www.scimagojr.com/journalsearch.php?q=29964&amp;tip=sid</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AIAA JournalThis Journal is devoted to the advancement of the science and technology of astronautics and aeronautics through the dissemin...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/company/aiaa](https://www.linkedin.com/company/aiaa)  
+   Link: <a href="https://www.linkedin.com/company/aiaa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/aiaa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AIAAThe American Institute of Aeronautics and Astronautics (AIAA) is nearly 30,000 engineers and scientists, and 95 corporate members, fr...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/30011735728/posts/10161650961195729/](https://www.facebook.com/groups/30011735728/posts/10161650961195729/)  
+   Link: <a href="https://www.facebook.com/groups/30011735728/posts/10161650961195729/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/30011735728/posts/10161650961195729/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Authenticity of Tic-Tac UFO Videos from USAF PilotsHe also reported that he did not have a ATFLIR during his first encounter with the TIC...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: somerandomstuff1.wordpress.com  
    Title: the nimitz tic tac encounter the ultimate guide and analysis  
-   Link: [https://somerandomstuff1.wordpress.com/2021/07/15/the-nimitz-tic-tac-encounter-the-ultimate-guide-and-analysis/](https://somerandomstuff1.wordpress.com/2021/07/15/the-nimitz-tic-tac-encounter-the-ultimate-guide-and-analysis/)  
+   Link: <a href="https://somerandomstuff1.wordpress.com/2021/07/15/the-nimitz-tic-tac-encounter-the-ultimate-guide-and-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://somerandomstuff1.wordpress.com/2021/07/15/the-nimitz-tic-tac-encounter-the-ultimate-guide-and-analysis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nimitz Tic Tac Encounter- The Ultimate Guide and Analysis15 Jul 2021 — This article will focus on the most famous and compelling of these...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: iafastro.org  
-   Link: [https://www.iafastro.org/membership/all-members/american-institute-of-aeronautics-and-astronautics-aiaa.html](https://www.iafastro.org/membership/all-members/american-institute-of-aeronautics-and-astronautics-aiaa.html)  
+   Link: <a href="https://www.iafastro.org/membership/all-members/american-institute-of-aeronautics-and-astronautics-aiaa.html" target="_blank" rel="noopener noreferrer nofollow">https://www.iafastro.org/membership/all-members/american-institute-of-aeronautics-and-astronautics-aiaa.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>pace America, hosts a collection of 150,000 technical papers, develops and...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: disclosurearchives.com  
-   Link: [https://www.disclosurearchives.com/uap-flight-characteristics](https://www.disclosurearchives.com/uap-flight-characteristics)  
+   Link: <a href="https://www.disclosurearchives.com/uap-flight-characteristics" target="_blank" rel="noopener noreferrer nofollow">https://www.disclosurearchives.com/uap-flight-characteristics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>accelerations, velocities, and implied propulsion power for a small set of well...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: explorescu.org  
    Title: 2004 uss nimitz strike navy group incident report  
-   Link: [https://www.explorescu.org/post/2004-uss-nimitz-strike-navy-group-incident-report](https://www.explorescu.org/post/2004-uss-nimitz-strike-navy-group-incident-report)  
+   Link: <a href="https://www.explorescu.org/post/2004-uss-nimitz-strike-navy-group-incident-report" target="_blank" rel="noopener noreferrer nofollow">https://www.explorescu.org/post/2004-uss-nimitz-strike-navy-group-incident-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Forensic Analysis of Navy Carrier Strike Group Eleven&#x27;s...13 Nov 2024 — This paper describes the analysis of an Infrared video taken o...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: theguardian.com  
    Title: I study UFOs – and I don't believe the alien hype  
-   Link: [https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why](https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why)  
+   Link: <a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why11 Jun 2021 — One video, codenamed “Gimbal”, seems particularly impressive: it shows what looks like an actual flying saucer sk...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40mattygh01/could-the-dual-sheet-model-explain-the-tic-tac-ufos-64533567d502](https://medium.com/%40mattygh01/could-the-dual-sheet-model-explain-the-tic-tac-ufos-64533567d502)  
+   Link: <a href="https://medium.com/%40mattygh01/could-the-dual-sheet-model-explain-the-tic-tac-ufos-64533567d502" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40mattygh01/could-the-dual-sheet-model-explain-the-tic-tac-ufos-64533567d502</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exhaust: No heat, sonic booms, or propulsion signatures. •...Read more...</p></details>

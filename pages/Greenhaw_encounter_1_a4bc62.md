@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Gulf Breeze
   permalink: /gulf-breeze-encounter-1987/
   short_title: Gulf Breeze
-date: '2026-06-08 23:27:48 '
+date: '2026-06-11 13:16:57 '
 header:
   og_image: /assets/images/Greenhaw_encounter_1_a4bc62-overview-social.jpg
   preview_image: /assets/images/Greenhaw_encounter_1_a4bc62-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Greenhaw_encounter_1_a4bc62-overview-social.jpg
 ## Introduction
 
 The [Greenhaw]({{ 'greenhaw/' | relative_url }}) encounter, better known as the Falkville “Metal Man” case, is a 17 October 1973 UFO-related report from Falkville, Alabama, in which police chief Jeff B. Greenhaw said he photographed a reflective, humanoid figure after responding to a call about a landed “spaceship”. The case matters because it has the ingredients that make a UFO story durable — a named law-enforcement witness, photographs, a precise date and a dramatic aftermath — but it also has serious weaknesses: no confirmed craft, no independent named caller, limited physical evidence, and a strong hoax possibility. The most careful reading is that Greenhaw probably responded to a real call and photographed something, but the evidence does not establish that the figure was non-human or extraterrestrial. NICAP’s later case note explicitly says the incident “was explained” and was “most assuredly” a hoax, although possibly a hoax played on Greenhaw rather than by him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
-
 
 <img src="{{ "/assets/images/Greenhaw_encounter_1_a4bc62-overview.webp" | relative_url }}" alt="Overview image for Greenhaw encounter 1973" loading="eager" decoding="sync" fetchpriority="high">
 ## What Greenhaw said happened that night
@@ -778,10 +777,9 @@ The Greenhaw case is not just a witness story; it includes photographs, which is
 
 That does not make the photographs decisive. The images are usually described as showing a shiny, vaguely humanoid figure, but they do not reliably establish scale, speed, identity, distance, material, or biological nature. They are flash photographs taken at night under stressful conditions, exactly the kind of setting in which reflection, motion, pose and framing can make ordinary materials look stranger than they are.
 
-The chain of custody is also a problem. Some accounts say the photographs were later collected and examined by MUFON, the Mutual UFO Network, under Walt Andrus, but the accessible public summaries do not provide a full technical report with reproducible photographic analysis. Cryptopia’s summary says the images were sent to Andrus and that analysts considered the encounter most likely a fabrication, possibly involving aluminium foil or an aluminium-coated asbestos fire suit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[cryptopia.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">FALKVILL E METAL MAN (ALABAMA, USA) | Cryptopia</span><span class="citation-popover-snippet">FALKVILL E METAL MAN (ALABAMA, USA) | Cryptopia</span></span></span>
+The chain of custody is also a problem. Some accounts say the photographs were later collected and examined by MUFON, the Mutual UFO Network, under Walt Andrus, but the accessible public summaries do not provide a full technical report with reproducible photographic analysis. Cryptopia’s summary says the images were sent to Andrus and that analysts considered the encounter most likely a fabrication, possibly involving aluminium foil or an aluminium-coated asbestos fire suit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[cryptopia.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">FALKVILL E METAL MAN (ALABAMA, USA) &#124; Cryptopia</span><span class="citation-popover-snippet">FALKVILL E METAL MAN (ALABAMA, USA) &#124; Cryptopia</span></span></span>
 
-There is an additional complication: the same summary says a MUFON contact sheet appears to show “flying saucer” images among the Greenhaw materials, even though Greenhaw himself did not claim to have photographed the reported craft. That ambiguity cuts against treating the photographic set as a clean evidential package; it may reflect mixed case materials, later handling confusion, or some unverified part of the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[cryptopia.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">FALKVILL E METAL MAN (ALABAMA, USA) | Cryptopia</span><span class="citation-popover-snippet">FALKVILL E METAL MAN (ALABAMA, USA) | Cryptopia</span></span></span>
-
+There is an additional complication: the same summary says a MUFON contact sheet appears to show “flying saucer” images among the Greenhaw materials, even though Greenhaw himself did not claim to have photographed the reported craft. That ambiguity cuts against treating the photographic set as a clean evidential package; it may reflect mixed case materials, later handling confusion, or some unverified part of the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[cryptopia.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">FALKVILL E METAL MAN (ALABAMA, USA) &#124; Cryptopia</span><span class="citation-popover-snippet">FALKVILL E METAL MAN (ALABAMA, USA) &#124; Cryptopia</span></span></span>
 
 <img src="{{ "/assets/images/Greenhaw_encounter_1_a4bc62-Illustration-1-dark.svg" | relative_url }}" alt="Greenhaw encounter 1973 illustration 1" data-theme-src-dark="{{ "/assets/images/Greenhaw_encounter_1_a4bc62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Greenhaw_encounter_1_a4bc62-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The 1973 UFO flap shaped how the case was received
@@ -790,18 +788,17 @@ The timing of the Greenhaw encounter matters. It occurred during the October 197
 
 That context strengthens and weakens the case at the same time. On one hand, Greenhaw’s report was not isolated; many people were reporting strange aerial or humanoid incidents in the same period. On the other hand, a wave environment encourages imitation, panic, misidentification and deliberate hoaxing. NICAP’s same issue gave examples of false or prank reports, including men dressed in aluminium foil and coat-hanger “antennae” in Xenia, Ohio, trying to scare motorists on 16 October — the night before Greenhaw’s encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/092%20NOVEMBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
 
-The nearby Pascagoula abduction claim, reported days earlier in Mississippi, is often treated as a relevant sibling branch of the 1973 southern UFO wave. NICAP’s November 1973 issue presented Pascagoula as one of the most publicised cases of the period, involving two men who said they were taken aboard a craft by strange beings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/092%20NOVEMBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span> Later sceptical summaries of the Greenhaw case have argued that the Falkville figure may have been a prank or fabrication inspired by the atmosphere around Pascagoula and similar reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[cryptopia.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">FALKVILL E METAL MAN (ALABAMA, USA) | Cryptopia</span><span class="citation-popover-snippet">FALKVILL E METAL MAN (ALABAMA, USA) | Cryptopia</span></span></span>
+The nearby Pascagoula abduction claim, reported days earlier in Mississippi, is often treated as a relevant sibling branch of the 1973 southern UFO wave. NICAP’s November 1973 issue presented Pascagoula as one of the most publicised cases of the period, involving two men who said they were taken aboard a craft by strange beings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/092%20NOVEMBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span> Later sceptical summaries of the Greenhaw case have argued that the Falkville figure may have been a prank or fabrication inspired by the atmosphere around Pascagoula and similar reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[cryptopia.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">FALKVILL E METAL MAN (ALABAMA, USA) &#124; Cryptopia</span><span class="citation-popover-snippet">FALKVILL E METAL MAN (ALABAMA, USA) &#124; Cryptopia</span></span></span>
 
 ## What supports Greenhaw’s credibility
 
 The strongest point in Greenhaw’s favour is that he was a named public official who had something to lose. He was not an anonymous narrator in a campfire tale: he was the police chief in a small rural Alabama town, and the story quickly attached itself to his reputation. Falkville’s own municipal history describes it as a rural town with a mayor-council structure, a setting in which a sensational local claim by a police chief would have been difficult to keep private or socially harmless. <span class="citation-chip-wrap"><a class="citation-chip" href="https://censusreporter.org/profiles/16000US0125648-falkville-al/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: censusreporter.org">[Falkville, AL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">censusreporter.org</span><span class="citation-popover-snippet">Falkville, AL</span></span></span>
 
-Several later accounts also emphasise that Greenhaw did not benefit from the story. NICAP’s archived case page, drawing from earlier UFO Casebook material, says he was mocked, received threatening calls, saw his house burn, and was fired by the town council about a month after the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1973fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> Cryptopia likewise reports that his experience was met with ridicule and that he was terminated by the town council within months, while his marriage and home life also suffered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[cryptopia.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">FALKVILL E METAL MAN (ALABAMA, USA) | Cryptopia</span><span class="citation-popover-snippet">FALKVILL E METAL MAN (ALABAMA, USA) | Cryptopia</span></span></span>
+Several later accounts also emphasise that Greenhaw did not benefit from the story. NICAP’s archived case page, drawing from earlier UFO Casebook material, says he was mocked, received threatening calls, saw his house burn, and was fired by the town council about a month after the incident. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/chronos/1973fullrep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span> Cryptopia likewise reports that his experience was met with ridicule and that he was terminated by the town council within months, while his marriage and home life also suffered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cryptopia.us">[cryptopia.us]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cryptopia.us</span><span class="citation-popover-title">FALKVILL E METAL MAN (ALABAMA, USA) &#124; Cryptopia</span><span class="citation-popover-snippet">FALKVILL E METAL MAN (ALABAMA, USA) &#124; Cryptopia</span></span></span>
 
 That social cost does not prove the encounter was extraordinary, but it does argue against a simple publicity-seeking motive. A hoax can still backfire, and a witness can sincerely misinterpret a staged event, but the aftermath makes the “he invented it for fame” explanation less satisfying than a prank, misperception, or hoax-on-the-witness scenario.
 
 Greenhaw’s account also contains a realistic initial reaction: he reportedly thought the figure might be a prankster and addressed it casually before becoming alarmed. That is more believable than a narrative in which a witness instantly leaps to aliens. NICAP’s contemporary account preserves that detail, saying he assumed a prank at first and “went along with the gag”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/092%20NOVEMBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Center for UFO Studies</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OJDf7G7_zgU" title="The Alabama Metal Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OJDf7G7_zgU" target="_blank" rel="noopener noreferrer">The Alabama Metal Man</a></p><p class="youtube-embed-meta">Channel: Bedtime Stories &middot; Views: 574.7K &middot; Uploaded: October 2023 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OJDf7G7_zgU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OJDf7G7_zgU">Open on YouTube</a></p></div></div></div>
 
@@ -822,7 +819,6 @@ There is no strong public evidence that the Greenhaw encounter received a formal
 That left cases like Falkville mainly to private UFO organisations, local media and later writers. NICAP’s archival material is particularly valuable because it captures the case within the actual 1973 flap and also preserves a later sceptical appraisal. Its 2007 case directory entry by Francis Ridge says the page was kept “for the record only” and that the incident was probably a hoax, perhaps not by Greenhaw but on “any passerby” who happened to be there. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">NSID DBListingby State Country</span><span class="citation-popover-snippet">NSID DBListingby State Country</span></span></span>
 
 Modern official UAP discussions do not resolve Falkville, but they do supply a useful caution. A 2024 historical report by the All-domain Anomaly Resolution Office notes that older UFO investigations repeatedly struggled with insufficient data, inconsistent reporting and poor-quality evidence, and that most sightings lack the high-quality data needed for confident resolution. That description fits the Greenhaw case well: a dramatic narrative plus photographs, but not enough independent data to move from “unidentified” to “extraordinary”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Unclassified Final DSD AARO Historical Report</span><span class="citation-popover-snippet">Unclassified Final DSD AARO Historical Report</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9EDCm-mRAVA" title="Metal Man of Alabama - Extraterrestrial, Cryptid, or Hoax? Aliens and UFOs in Falkville, AL?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9EDCm-mRAVA" target="_blank" rel="noopener noreferrer">Metal Man of Alabama - Extraterrestrial, Cryptid, or Hoax? Aliens and UFOs in Falkville, AL?</a></p><p class="youtube-embed-meta">Channel: Steven Is Here &middot; Views: 4.8K &middot; Uploaded: February 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9EDCm-mRAVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9EDCm-mRAVA">Open on YouTube</a></p></div></div></div>
 
@@ -845,7 +841,6 @@ Several points remain uncertain. The identity of the caller is not established i
 
 The aftermath is also difficult to assess cleanly. Accounts commonly say Greenhaw was ridiculed, threatened, lost his job, and suffered serious personal consequences, but the causal link between the encounter and every later misfortune is not equally documented. The safest conclusion is that the report became damaging to his public reputation and that local reaction was hostile, not that every subsequent hardship can be confidently attributed to the sighting.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AteKcHgA4w4" title="The Falkville Metal Man – Alabama’s Strangest Alien Encounter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AteKcHgA4w4" target="_blank" rel="noopener noreferrer">The Falkville Metal Man – Alabama’s Strangest Alien Encounter</a></p><p class="youtube-embed-meta">Channel: Mostly True Alien Stories &middot; Views: 244 &middot; Uploaded: April 2025 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AteKcHgA4w4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AteKcHgA4w4">Open on YouTube</a></p></div></div></div>
 
 ## Best reading of the Greenhaw encounter
@@ -857,44 +852,86 @@ For a case dossier, the Greenhaw incident should sit close to other October 1973
 The fairest verdict is not “debunked beyond all doubt” and not “proof of alien contact”. It is a likely hoax or staged encounter, possibly at Greenhaw’s expense, preserved by unusual photographs and a witness whose sincerity is easier to defend than the extraterrestrial interpretation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened in Falkville?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened in Falkville?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Contains the definitive baseline catalog entry for the Falkville &#x27;Metal Man&#x27; incident and Police Chief Jeff Greenhaw&#x27;s reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Establishes standard protocol baselines for evaluating law-enforcement witness notifications of local landing alerts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">1973 UFO wave guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=1973+UFO+wave+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Examines the complex operational risks and intense personal scrutiny faced by serving law-enforcement officers who file close encounter p...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Analyzes the specific criteria used by civilian groups like NICAP to classify the silvery-suited entity claims as a roadside prank.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -931,15 +968,15 @@ The fairest verdict is not “debunked beyond all doubt” and not “proof of a
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -947,15 +984,15 @@ The fairest verdict is not “debunked beyond all doubt” and not “proof of a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -963,15 +1000,15 @@ The fairest verdict is not “debunked beyond all doubt” and not “proof of a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -979,15 +1016,15 @@ The fairest verdict is not “debunked beyond all doubt” and not “proof of a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -995,7 +1032,7 @@ The fairest verdict is not “debunked beyond all doubt” and not “proof of a
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="greenhaw-encounter-1973-what-really-happened-in-falkville-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1210,162 +1247,162 @@ The fairest verdict is not “debunked beyond all doubt” and not “proof of a
 
 1. <a id="endnote-1"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/falkville731017dir.htm](https://www.nicap.org/falkville731017dir.htm)  
+   Link: <a href="https://www.nicap.org/falkville731017dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/falkville731017dir.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: cufos.org  
    Title: Center for UFO Studies  
-   Link: [https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/092%20NOVEMBER%201973.pdf](https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/092%20NOVEMBER%201973.pdf)  
+   Link: <a href="https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/092%20NOVEMBER%201973.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/UFOI_and_Selected_Documents/UFOI/092%20NOVEMBER%201973.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: cryptopia.us  
    Title: FALKVILL E METAL MAN (ALABAMA, USA) | Cryptopia  
-   Link: [https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/](https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/)  
+   Link: <a href="https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/" target="_blank" rel="noopener noreferrer nofollow">https://www.cryptopia.us/site/2010/03/metal-man-of-falkville-alabama-usa/</a>  
 
 4. <a id="endnote-4"></a>
    Source: falkville.org  
    Title: , ALHistory | Falkville, AL  
-   Link: [https://www.falkville.org/about-us/page/history](https://www.falkville.org/about-us/page/history)  
+   Link: <a href="https://www.falkville.org/about-us/page/history" target="_blank" rel="noopener noreferrer nofollow">https://www.falkville.org/about-us/page/history</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 6. <a id="endnote-6"></a>
    Source: aaro.mil  
    Title: Unclassified Final DSD AARO Historical Report  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/Occupant.htm](https://www.nicap.org/Occupant.htm)  
+   Link: <a href="https://www.nicap.org/Occupant.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/Occupant.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1973fullrep.htm](https://www.nicap.org/chronos/1973fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1973fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1973fullrep.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: nicap.org  
    Title: NSID DBListingby City  
-   Link: [https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf](https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf)  
+   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyCity.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: nicap.org  
    Title: NSID DBListingby State Country  
-   Link: [https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf](https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf)  
+   Link: <a href="https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID/NSID_DBListingbyStateCountry.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: nicap.org  
    Title: 01/30/12 Category 07  
-   Link: [https://www.nicap.org/CATEGORIES/07-Entity_Cases/Cat7_ENTICAT.pdf](https://www.nicap.org/CATEGORIES/07-Entity_Cases/Cat7_ENTICAT.pdf)  
+   Link: <a href="https://www.nicap.org/CATEGORIES/07-Entity_Cases/Cat7_ENTICAT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/CATEGORIES/07-Entity_Cases/Cat7_ENTICAT.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
    Title: 1970 statistics  
-   Link: [https://www.archives.gov/research/census/1970-statistics](https://www.archives.gov/research/census/1970-statistics)  
+   Link: <a href="https://www.archives.gov/research/census/1970-statistics" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/census/1970-statistics</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 14. <a id="endnote-14"></a>
    Source: falkville.org  
    Title: police department  
-   Link: [https://www.falkville.org/police-department](https://www.falkville.org/police-department)  
+   Link: <a href="https://www.falkville.org/police-department" target="_blank" rel="noopener noreferrer nofollow">https://www.falkville.org/police-department</a>  
 
 15. <a id="endnote-15"></a>
    Source: cullmantribune.com  
    Title: The Cullman Tribune Do you believe in the Metal Man?  
-   Link: [https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/](https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/)  
+   Link: <a href="https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/" target="_blank" rel="noopener noreferrer nofollow">https://www.cullmantribune.com/2021/07/10/do-you-believe-in-the-metal-man/</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Falkville, Alabama  
-   Link: [https://en.wikipedia.org/wiki/Falkville%2C_Alabama](https://en.wikipedia.org/wiki/Falkville%2C_Alabama)  
+   Link: <a href="https://en.wikipedia.org/wiki/Falkville%2C_Alabama" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falkville%2C_Alabama</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Alabama](https://en.wikipedia.org/wiki/Alabama)  
+   Link: <a href="https://en.wikipedia.org/wiki/Alabama" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alabama</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 19. <a id="endnote-19"></a>
    Source: cryptidz.fandom.com  
    Title: Metal Man  
-   Link: [https://cryptidz.fandom.com/wiki/Metal_Man](https://cryptidz.fandom.com/wiki/Metal_Man)  
+   Link: <a href="https://cryptidz.fandom.com/wiki/Metal_Man" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Metal_Man</a>  
 
 20. <a id="endnote-20"></a>
    Source: worldpopulationreview.com  
-   Link: [https://worldpopulationreview.com/us-cities/alabama/falkville](https://worldpopulationreview.com/us-cities/alabama/falkville)  
+   Link: <a href="https://worldpopulationreview.com/us-cities/alabama/falkville" target="_blank" rel="noopener noreferrer nofollow">https://worldpopulationreview.com/us-cities/alabama/falkville</a>  
 
 21. <a id="endnote-21"></a>
    Source: censusreporter.org  
    Title: Falkville, AL  
-   Link: [https://censusreporter.org/profiles/16000US0125648-falkville-al/](https://censusreporter.org/profiles/16000US0125648-falkville-al/)  
+   Link: <a href="https://censusreporter.org/profiles/16000US0125648-falkville-al/" target="_blank" rel="noopener noreferrer nofollow">https://censusreporter.org/profiles/16000US0125648-falkville-al/</a>  
 
 22. <a id="endnote-22"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 23. <a id="endnote-23"></a>
    Source: encyclopediaofalabama.org  
-   Link: [https://encyclopediaofalabama.org/article/falkville/](https://encyclopediaofalabama.org/article/falkville/)  
+   Link: <a href="https://encyclopediaofalabama.org/article/falkville/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofalabama.org/article/falkville/</a>  
 
 24. <a id="endnote-24"></a>
    Source: datausa.io  
    Title: falkville al  
-   Link: [https://datausa.io/profile/geo/falkville-al](https://datausa.io/profile/geo/falkville-al)  
+   Link: <a href="https://datausa.io/profile/geo/falkville-al" target="_blank" rel="noopener noreferrer nofollow">https://datausa.io/profile/geo/falkville-al</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Falkville Metal Man: Alabama's Chrome Encounter  
-   Link: [https://www.youtube.com/watch?v=VPbxikYGCcU](https://www.youtube.com/watch?v=VPbxikYGCcU)  
+   Link: <a href="https://www.youtube.com/watch?v=VPbxikYGCcU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VPbxikYGCcU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This selection of videos provides a detailed look at the 1973 Falkville incident, including discussions on the police chief&#x27;s original re...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Metal Man of Alabama  
-   Link: [https://www.youtube.com/watch?v=9EDCm-mRAVA](https://www.youtube.com/watch?v=9EDCm-mRAVA)  
+   Link: <a href="https://www.youtube.com/watch?v=9EDCm-mRAVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9EDCm-mRAVA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Falkville Metal Man: Alabama&#x27;s Strangest Alien Encounter...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Falkville Metal Man: Alabama's Strangest Alien Encounter  
-   Link: [https://www.youtube.com/watch?v=AteKcHgA4w4](https://www.youtube.com/watch?v=AteKcHgA4w4)  
+   Link: <a href="https://www.youtube.com/watch?v=AteKcHgA4w4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AteKcHgA4w4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Falkville Metal Man: Alabama&#x27;s Chrome Encounter...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 30. <a id="endnote-30"></a>
    Source: hooverpd.com  
-   Link: [https://hooverpd.com/history-of-the-hoover-police-department/](https://hooverpd.com/history-of-the-hoover-police-department/)  
+   Link: <a href="https://hooverpd.com/history-of-the-hoover-police-department/" target="_blank" rel="noopener noreferrer nofollow">https://hooverpd.com/history-of-the-hoover-police-department/</a>  
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/JasonRicci.FanClub/posts/25602823972700504/](https://www.facebook.com/groups/JasonRicci.FanClub/posts/25602823972700504/)  
+   Link: <a href="https://www.facebook.com/groups/JasonRicci.FanClub/posts/25602823972700504/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/JasonRicci.FanClub/posts/25602823972700504/</a>  
 
 32. <a id="endnote-32"></a>
    Source: x.com  
-   Link: [https://x.com/JasonWilde108/status/2002507051667440100](https://x.com/JasonWilde108/status/2002507051667440100)  
+   Link: <a href="https://x.com/JasonWilde108/status/2002507051667440100" target="_blank" rel="noopener noreferrer nofollow">https://x.com/JasonWilde108/status/2002507051667440100</a>  
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/e8aq57/jeff_greenhaw_the_officer_who_snapped_a_photo_of/](https://www.reddit.com/r/HighStrangeness/comments/e8aq57/jeff_greenhaw_the_officer_who_snapped_a_photo_of/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/e8aq57/jeff_greenhaw_the_officer_who_snapped_a_photo_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/e8aq57/jeff_greenhaw_the_officer_who_snapped_a_photo_of/</a>  
 
 34. <a id="endnote-34"></a>
    Source: almonline.org  
-   Link: [https://almonline.org/Assets/Files/LegalSelectedReadings/63.The-Municipal-Police-Force_REVISED-2024.pdf](https://almonline.org/Assets/Files/LegalSelectedReadings/63.The-Municipal-Police-Force_REVISED-2024.pdf)  
+   Link: <a href="https://almonline.org/Assets/Files/LegalSelectedReadings/63.The-Municipal-Police-Force_REVISED-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://almonline.org/Assets/Files/LegalSelectedReadings/63.The-Municipal-Police-Force_REVISED-2024.pdf</a>

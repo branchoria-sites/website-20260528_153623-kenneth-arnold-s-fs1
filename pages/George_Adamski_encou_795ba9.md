@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: Gordon_Cooper_sighti_93b9f6
   title: Cooper
   permalink: /gordon-cooper-sightings-1963/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -741,15 +741,15 @@ child_links:
   heading_title: How Strong Were Adamski's Witnesses?
 prev_link:
   basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 next_link:
   basename: Gordon_Cooper_sighti_93b9f6
   title: Cooper
   permalink: /gordon-cooper-sightings-1963/
   short_title: Cooper
-date: '2026-06-08 23:18:39 '
+date: '2026-06-11 13:11:23 '
 header:
   og_image: /assets/images/George_Adamski_encou_795ba9-overview-social.jpg
   preview_image: /assets/images/George_Adamski_encou_795ba9-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/George_Adamski_encou_795ba9-overview-social.jpg
 ## What Adamski said happened
 
 Adamski’s story centred on a desert outing near Desert Center, California. In the account later repeated in lectures and print, he and six companions were eating lunch when they saw a large, cigar-shaped object in the sky. Adamski separated from the group, walked into the desert with camera equipment, and claimed that a smaller “scout ship” landed nearby. He then said he encountered a long-haired, human-looking man from Venus, later known as Orthon, who communicated through signs, mental impressions and a few words of English. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/George_Adamski_encou_795ba9-overview.webp" | relative_url }}" alt="Overview image for George Adamski encounters 1953" loading="eager" decoding="sync" fetchpriority="high">
 The message was typical of early Cold War contactee literature: the visitors were friendly, technologically advanced and deeply concerned about atomic weapons. Adamski said the Venusian refused to be photographed and would not allow him inside the craft, but that physical traces remained after the departure, including unusual footprints with symbol-like markings. In Ruppelt’s later summary of Adamski’s public performance, the alleged “proof” presented to visitors included photographs, witness statements and plaster casts of the supposed footprints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -774,7 +773,6 @@ It also arrived at the right cultural moment. UFO reports had been public news s
 
 Adamski’s public persona helped the story travel. Edward J. Ruppelt, who had headed Project Blue Book, described visiting Adamski’s Palomar Gardens restaurant in civilian clothes in 1953. Ruppelt was sceptical, but he noted Adamski’s persuasive delivery: the modest manner, the earnest tone, the photographs for sale and the spell he could cast over a room. That observation is important because it separates two questions often blurred in retellings: Adamski could be convincing as a performer without the underlying claim being true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/George_Adamski_encou_795ba9-Illustration-1-dark.svg" | relative_url }}" alt="George Adamski encounters 1953 illustration 1" data-theme-src-dark="{{ "/assets/images/George_Adamski_encou_795ba9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/George_Adamski_encou_795ba9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The witness problem
 
@@ -783,7 +781,6 @@ The case is sometimes presented as stronger than an ordinary single-witness enco
 That distinction matters. A distant group can corroborate that Adamski walked away and returned with a story; it cannot, without clear close observation, prove that he met an extraterrestrial being. Later sceptical accounts also alleged that some supposed witnesses contradicted Adamski or gave weaker versions of events than the published narrative suggested. The names commonly associated with the outing include Adamski’s secretary Lucy McGinnis, Alice Wells, the Baileys, and George Hunt Williamson and his wife; sociologist Christopher Bader summarised the group in his article on the UFO contact movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Chapman University Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 There is also a provenance issue with the physical traces. Ruppelt’s account emphasised the convenient presence of plaster of Paris and the striking sharpness of the shoe-print casts in dry desert sand. He did not treat those casts as decisive evidence; he presented them as part of the salesmanship surrounding the story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w3mGvTQ5lyc" title="The Report on Unidentified Flying Objects by Edward J. RUPPELT Part 3/3 | Full Audio Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w3mGvTQ5lyc" target="_blank" rel="noopener noreferrer">The Report on Unidentified Flying Objects by Edward J. RUPPELT Part 3/3 | Full Audio Book</a></p><p class="youtube-embed-meta">Channel: LibriVox Audiobooks &middot; Views: 14.7K &middot; Uploaded: September 2018 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w3mGvTQ5lyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w3mGvTQ5lyc">Open on YouTube</a></p></div></div></div>
 
@@ -797,14 +794,12 @@ Ruppelt’s Air Force-linked account was also dismissive of the photographic evi
 
 The broader lesson is that Adamski’s images worked better as symbols than as evidence. A photograph of an object against a featureless background can look impressive while telling the viewer very little about size, range, support, speed or context. In this case, the later lantern-shade comparison gives a specific, testable mundane candidate for the most famous craft image. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/JoelCarpenterMcMinnvilleUFOphoto/Prelim_Notes_Adamski_Scout_Ship_mini2_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Prelim Notes Adamski Scout Ship mini2 djvu.txt</span><span class="citation-popover-snippet">Prelim Notes Adamski Scout Ship mini2 djvu.txt</span></span></span>
 
-
 <img src="{{ "/assets/images/George_Adamski_encou_795ba9-Illustration-2-dark.svg" | relative_url }}" alt="George Adamski encounters 1953 illustration 2" data-theme-src-dark="{{ "/assets/images/George_Adamski_encou_795ba9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/George_Adamski_encou_795ba9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Venus claim aged badly
 
 Adamski’s visitor was said to come from Venus, a detail that made sense within 1950s popular imagination but collapsed as planetary science improved. Modern NASA material describes Venus as a world of extreme heat, crushing pressure and corrosive clouds, with surface temperatures around 467°C and surface pressure about 93 times that of Earth at sea level. Soviet Venera probes later survived on the surface only briefly, returning images of a barren, dim, rocky landscape before failing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Venus: Facts</span><span class="citation-popover-snippet">Science Venus: Facts</span></span></span>
 
 This does not by itself disprove every possible claim about advanced beings using Venus as a base, because believers can always move the goalposts to underground cities, other dimensions or non-surface habitats. But it does severely weaken the plain reading of Adamski’s account: a recognisably human civilisation living on Venus and sending a long-haired emissary to the California desert. It also shows how strongly the story reflected its period. Venus was close, bright and mysterious enough in mid-century culture to serve as a plausible home for romantic “Space Brothers”; modern planetary data made that version far less credible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Venus: Facts</span><span class="citation-popover-snippet">Science Venus: Facts</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/atttEDOY97U" title="Mysteries and Monsters: Mountain of God UFO Cult | Episode 5 | The George Adamski Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=atttEDOY97U" target="_blank" rel="noopener noreferrer">Mysteries and Monsters: Mountain of God UFO Cult | Episode 5 | The George Adamski Story</a></p><p class="youtube-embed-meta">Channel: Free4All &middot; Views: 418 &middot; Uploaded: October 2025 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=atttEDOY97U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=atttEDOY97U">Open on YouTube</a></p></div></div></div>
 
@@ -818,7 +813,6 @@ Ruppelt’s own treatment of Adamski was even less flattering. He placed Adamski
 
 The FBI file’s existence likewise should not be overread. The FBI Vault hosts a large George Adamski PDF, which confirms federal records relating to him exist, but a file in an archive is not proof that the Bureau accepted the alien-contact claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vault.fbi.gov/george-adamski/george-adamski-final.pdf/view" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vault.fbi.gov">[FBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vault.fbi.gov</span><span class="citation-popover-title">— Federal Bureau of Investigation</span><span class="citation-popover-snippet">— Federal Bureau of Investigation</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eh_LMjd_dZA" title="George Adamski: Alien Contactee! - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer">George Adamski: Alien Contactee! - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 12.3K &middot; Uploaded: April 2026 &middot; Length: 1 hour 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eh_LMjd_dZA">Open on YouTube</a></p></div></div></div>
 
 ## What remains unresolved, and what does not
@@ -829,48 +823,89 @@ The central evidential question is less balanced. The strongest available readin
 
 That does not make the case unimportant. It makes it important for a different reason. Adamski helped define the post-war contactee pattern: aliens were not monsters but enlightened human-like teachers; saucers were not merely machines but moral symbols; and nuclear anxiety was translated into cosmic warning. Later UFO contact stories, “Space Brother” groups and benevolent-alien mythologies repeatedly echoed that structure. The Adamski encounters therefore belong less in the category of reliable physical evidence and more in the history of how UFO belief became a spiritual, cultural and commercial movement in the 1950s.
 
-
 <img src="{{ "/assets/images/George_Adamski_encou_795ba9-Illustration-3-dark.svg" | relative_url }}" alt="George Adamski encounters 1953 illustration 3" data-theme-src-dark="{{ "/assets/images/George_Adamski_encou_795ba9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/George_Adamski_encou_795ba9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Did Adamski Really Meet a Venusian?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Did Adamski Really Meet a Venusian?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nikola Tesla Journey to Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hd0LAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nikola Tesla Journey to Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nikola Tesla Journey to Mars">Nikola Tesla Journey to Mars</a>
+        </h4>
+        <p class="fr-book-author">By Sean Casteel</p>
+        
+        <p class="fr-book-desc">Expands on his telepathic interactions, atomic warnings, and the detailed inner geometry of the Venusian scout crafts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Analyzes the Desert Center file entry as the foundational template that shaped 1950s cultural expectations of alien contact.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Provides structural forensic guidelines to examine how symbolic traces and unverified photographs are manufactured for media promotion.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+George+Adamski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers Have Landed on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+George+Adamski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers Have Landed">Flying Saucers Have Landed</a>
+        </h4>
+        <p class="fr-book-author">By George Adamski, Desmond Leslie</p>
+        
+        <p class="fr-book-desc">The original book documenting Adamski&#x27;s 20 November 1952 meeting with the long-haired Venusian Orthon near Desert Center.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+George+Adamski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nikola Tesla Journey to Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -907,15 +942,15 @@ That does not make the case unimportant. It makes it important for a different r
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -923,15 +958,15 @@ That does not make the case unimportant. It makes it important for a different r
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -939,31 +974,15 @@ That does not make the case unimportant. It makes it important for a different r
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -971,7 +990,7 @@ That does not make the case unimportant. It makes it important for a different r
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="george-adamski-encounters-1953-did-adamski-really-meet-a-venusian-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1186,192 +1205,192 @@ That does not make the case unimportant. It makes it important for a different r
 
 1. <a id="endnote-1"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: archive.org  
    Title: Prelim Notes Adamski Scout Ship mini2 djvu.txt  
-   Link: [https://archive.org/stream/JoelCarpenterMcMinnvilleUFOphoto/Prelim_Notes_Adamski_Scout_Ship_mini2_djvu.txt](https://archive.org/stream/JoelCarpenterMcMinnvilleUFOphoto/Prelim_Notes_Adamski_Scout_Ship_mini2_djvu.txt)  
+   Link: <a href="https://archive.org/stream/JoelCarpenterMcMinnvilleUFOphoto/Prelim_Notes_Adamski_Scout_Ship_mini2_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/JoelCarpenterMcMinnvilleUFOphoto/Prelim_Notes_Adamski_Scout_Ship_mini2_djvu.txt</a>  
 
 3. <a id="endnote-3"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: digitalcommons.chapman.edu  
-   Link: [https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&context=sociology_articles](https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&context=sociology_articles)  
+   Link: <a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science Venus: Facts  
-   Link: [https://science.nasa.gov/venus/venus-facts/](https://science.nasa.gov/venus/venus-facts/)  
+   Link: <a href="https://science.nasa.gov/venus/venus-facts/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/venus/venus-facts/</a>  
 
 6. <a id="endnote-6"></a>
    Source: vault.fbi.gov  
    Title: — Federal Bureau of Investigation  
-   Link: [https://vault.fbi.gov/george-adamski/george-adamski-final.pdf/view](https://vault.fbi.gov/george-adamski/george-adamski-final.pdf/view)  
+   Link: <a href="https://vault.fbi.gov/george-adamski/george-adamski-final.pdf/view" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/george-adamski/george-adamski-final.pdf/view</a>  
 
 7. <a id="endnote-7"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/flyingsaucershav00lesl](https://archive.org/details/flyingsaucershav00lesl)  
+   Link: <a href="https://archive.org/details/flyingsaucershav00lesl" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/flyingsaucershav00lesl</a>  
 
 8. <a id="endnote-8"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/flyingsaucershav0000desm](https://archive.org/details/flyingsaucershav0000desm)  
+   Link: <a href="https://archive.org/details/flyingsaucershav0000desm" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/flyingsaucershav0000desm</a>  
 
 9. <a id="endnote-9"></a>
    Source: ia801405.us.archive.org  
    Title: George Adamski was a liar  
-   Link: [https://ia801405.us.archive.org/28/items/GeorgeAdamskiWasALiar/George%20Adamski%20was%20a%20liar.pdf](https://ia801405.us.archive.org/28/items/GeorgeAdamskiWasALiar/George%20Adamski%20was%20a%20liar.pdf)  
+   Link: <a href="https://ia801405.us.archive.org/28/items/GeorgeAdamskiWasALiar/George%20Adamski%20was%20a%20liar.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801405.us.archive.org/28/items/GeorgeAdamskiWasALiar/George%20Adamski%20was%20a%20liar.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: ia801201.us.archive.org  
    Title: A Critical Appraisal of George Adamski The Man Who Spoke to the Space Brothers  
-   Link: [https://ia801201.us.archive.org/22/items/ACriticalAppraisalOfGeorgeAdamskiTheManWhoSpokeToTheSpaceBrothers/A%20Critical%20Appraisal%20of%20George%20Adamski%20-%20The%20Man%20Who%20Spoke%20to%20the%20Space%20Brothers.pdf](https://ia801201.us.archive.org/22/items/ACriticalAppraisalOfGeorgeAdamskiTheManWhoSpokeToTheSpaceBrothers/A%20Critical%20Appraisal%20of%20George%20Adamski%20-%20The%20Man%20Who%20Spoke%20to%20the%20Space%20Brothers.pdf)  
+   Link: <a href="https://ia801201.us.archive.org/22/items/ACriticalAppraisalOfGeorgeAdamskiTheManWhoSpokeToTheSpaceBrothers/A%20Critical%20Appraisal%20of%20George%20Adamski%20-%20The%20Man%20Who%20Spoke%20to%20the%20Space%20Brothers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801201.us.archive.org/22/items/ACriticalAppraisalOfGeorgeAdamskiTheManWhoSpokeToTheSpaceBrothers/A%20Critical%20Appraisal%20of%20George%20Adamski%20-%20The%20Man%20Who%20Spoke%20to%20the%20Space%20Brothers.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/ACriticalAppraisalOfGeorgeAdamskiTheManWhoSpokeToTheSpaceBrothers/A%2BCritical%2BAppraisal%2Bof%2BGeorge%2BAdamski%2B-%2BThe%2BMan%2BWho%2BSpoke%2Bto%2Bthe%2BSpace%2BBrothers_djvu.txt](https://archive.org/stream/ACriticalAppraisalOfGeorgeAdamskiTheManWhoSpokeToTheSpaceBrothers/A%2BCritical%2BAppraisal%2Bof%2BGeorge%2BAdamski%2B-%2BThe%2BMan%2BWho%2BSpoke%2Bto%2Bthe%2BSpace%2BBrothers_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ACriticalAppraisalOfGeorgeAdamskiTheManWhoSpokeToTheSpaceBrothers/A%2BCritical%2BAppraisal%2Bof%2BGeorge%2BAdamski%2B-%2BThe%2BMan%2BWho%2BSpoke%2Bto%2Bthe%2BSpace%2BBrothers_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ACriticalAppraisalOfGeorgeAdamskiTheManWhoSpokeToTheSpaceBrothers/A%2BCritical%2BAppraisal%2Bof%2BGeorge%2BAdamski%2B-%2BThe%2BMan%2BWho%2BSpoke%2Bto%2Bthe%2BSpace%2BBrothers_djvu.txt</a>  
 
 12. <a id="endnote-12"></a>
    Source: jpl.nasa.gov  
    Title: venus air pressure  
-   Link: [https://www.jpl.nasa.gov/news/venus-air-pressure/](https://www.jpl.nasa.gov/news/venus-air-pressure/)  
+   Link: <a href="https://www.jpl.nasa.gov/news/venus-air-pressure/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/venus-air-pressure/</a>  
 
 13. <a id="endnote-13"></a>
    Source: history.com  
    Title: george adamski ufo alien photos  
-   Link: [https://www.history.com/articles/george-adamski-ufo-alien-photos](https://www.history.com/articles/george-adamski-ufo-alien-photos)  
+   Link: <a href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/george-adamski-ufo-alien-photos</a>  
 
 14. <a id="endnote-14"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 9  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_9.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 16. <a id="endnote-16"></a>
    Source: planetary.org  
    Title: what would it be like to stand on the surface of venus  
-   Link: [https://www.planetary.org/articles/what-would-it-be-like-to-stand-on-the-surface-of-venus](https://www.planetary.org/articles/what-would-it-be-like-to-stand-on-the-surface-of-venus)  
+   Link: <a href="https://www.planetary.org/articles/what-would-it-be-like-to-stand-on-the-surface-of-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/articles/what-would-it-be-like-to-stand-on-the-surface-of-venus</a>  
 
 17. <a id="endnote-17"></a>
    Source: lib.usm.edu  
-   Link: [https://lib.usm.edu/spcol/exhibitions/item_of_the_month/iotm_oct_2021.html](https://lib.usm.edu/spcol/exhibitions/item_of_the_month/iotm_oct_2021.html)  
+   Link: <a href="https://lib.usm.edu/spcol/exhibitions/item_of_the_month/iotm_oct_2021.html" target="_blank" rel="noopener noreferrer nofollow">https://lib.usm.edu/spcol/exhibitions/item_of_the_month/iotm_oct_2021.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: George Adamski  
-   Link: [https://en.wikipedia.org/wiki/George_Adamski](https://en.wikipedia.org/wiki/George_Adamski)  
+   Link: <a href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Adamski</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Venus](https://en.wikipedia.org/wiki/Venus)  
+   Link: <a href="https://en.wikipedia.org/wiki/Venus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Venus</a>  
 
 21. <a id="endnote-21"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/536895946423977/posts/27112520051768205/](https://www.facebook.com/groups/536895946423977/posts/27112520051768205/)  
+   Link: <a href="https://www.facebook.com/groups/536895946423977/posts/27112520051768205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/536895946423977/posts/27112520051768205/</a>  
 
 23. <a id="endnote-23"></a>
    Source: amazon.co.uk  
    Title: George Adamski  
-   Link: [https://www.amazon.co.uk/Flying-saucers-landed-Desmond-Leslie/dp/B0000CIN6B](https://www.amazon.co.uk/Flying-saucers-landed-Desmond-Leslie/dp/B0000CIN6B)  
+   Link: <a href="https://www.amazon.co.uk/Flying-saucers-landed-Desmond-Leslie/dp/B0000CIN6B" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Flying-saucers-landed-Desmond-Leslie/dp/B0000CIN6B</a>  
 
 24. <a id="endnote-24"></a>
    Source: parnassusbooks.net  
-   Link: [https://parnassusbooks.net/book/9781944529802](https://parnassusbooks.net/book/9781944529802)  
+   Link: <a href="https://parnassusbooks.net/book/9781944529802" target="_blank" rel="noopener noreferrer nofollow">https://parnassusbooks.net/book/9781944529802</a>  
 
 25. <a id="endnote-25"></a>
    Source: kids.kiddle.co  
    Title: George Adamski  
-   Link: [https://kids.kiddle.co/George_Adamski](https://kids.kiddle.co/George_Adamski)  
+   Link: <a href="https://kids.kiddle.co/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/George_Adamski</a>  
 
 26. <a id="endnote-26"></a>
    Source: web2.ph.utexas.edu  
-   Link: [https://web2.ph.utexas.edu/~coker2/index.files/adamski.htm](https://web2.ph.utexas.edu/~coker2/index.files/adamski.htm)  
+   Link: <a href="https://web2.ph.utexas.edu/~coker2/index.files/adamski.htm" target="_blank" rel="noopener noreferrer nofollow">https://web2.ph.utexas.edu/~coker2/index.files/adamski.htm</a>  
 
 27. <a id="endnote-27"></a>
    Source: bahaistudies.net  
    Title: George Adamski  
-   Link: [https://www.bahaistudies.net/asma/George_Adamski.pdf](https://www.bahaistudies.net/asma/George_Adamski.pdf)  
+   Link: <a href="https://www.bahaistudies.net/asma/George_Adamski.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/George_Adamski.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: science.howstuffworks.com  
    Title: george adamski  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm](https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm</a>  
 
 29. <a id="endnote-29"></a>
    Source: books.google.com  
    Title: Flying Saucers Have Landed  
-   Link: [https://books.google.com/books/about/Flying_Saucers_Have_Landed.html?id=1UOjtQEACAAJ](https://books.google.com/books/about/Flying_Saucers_Have_Landed.html?id=1UOjtQEACAAJ)  
+   Link: <a href="https://books.google.com/books/about/Flying_Saucers_Have_Landed.html?id=1UOjtQEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Flying_Saucers_Have_Landed.html?id=1UOjtQEACAAJ</a>  
 
 30. <a id="endnote-30"></a>
    Source: professorsolomon.com  
    Title: George Adamski  
-   Link: [https://www.professorsolomon.com/graphics/georgeadamski.pdf](https://www.professorsolomon.com/graphics/georgeadamski.pdf)  
+   Link: <a href="https://www.professorsolomon.com/graphics/georgeadamski.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.professorsolomon.com/graphics/georgeadamski.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: markfoster.net  
    Title: George Adamski  
-   Link: [https://www.markfoster.net/dcf/George_Adamski.pdf](https://www.markfoster.net/dcf/George_Adamski.pdf)  
+   Link: <a href="https://www.markfoster.net/dcf/George_Adamski.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.markfoster.net/dcf/George_Adamski.pdf</a>  
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=atttEDOY97U](https://www.youtube.com/watch?v=atttEDOY97U)  
+   Link: <a href="https://www.youtube.com/watch?v=atttEDOY97U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=atttEDOY97U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski: The first human contacted by a UFO? - The Hour...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: George Adamski: Alien Contactee!  
-   Link: [https://www.youtube.com/watch?v=eh_LMjd_dZA](https://www.youtube.com/watch?v=eh_LMjd_dZA)  
+   Link: <a href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eh_LMjd_dZA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries and Monsters: Mountain of God UFO Cult | Episode 5 | The George Adamski Story...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: George Adamski: The first human contacted by a UFO?  
-   Link: [https://www.youtube.com/watch?v=IbqRFzXN7xM](https://www.youtube.com/watch?v=IbqRFzXN7xM)  
+   Link: <a href="https://www.youtube.com/watch?v=IbqRFzXN7xM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IbqRFzXN7xM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of the Nordic Aliens // 3D CGI Animation...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/8060460/George_Adamski](https://www.academia.edu/8060460/George_Adamski)  
+   Link: <a href="https://www.academia.edu/8060460/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8060460/George_Adamski</a>  
 
 37. <a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972](https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972)  
+   Link: <a href="https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972</a>  
 
 38. <a id="endnote-38"></a>
    Source: ignaciodarnaude.es  
-   Link: [https://ignaciodarnaude.es/wp-content/uploads/2023/12/AdamskiGeorgeContacteeJ.Clark_.pdf](https://ignaciodarnaude.es/wp-content/uploads/2023/12/AdamskiGeorgeContacteeJ.Clark_.pdf)  
+   Link: <a href="https://ignaciodarnaude.es/wp-content/uploads/2023/12/AdamskiGeorgeContacteeJ.Clark_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ignaciodarnaude.es/wp-content/uploads/2023/12/AdamskiGeorgeContacteeJ.Clark_.pdf</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/452180864918961/posts/2947864332017256/](https://www.facebook.com/groups/452180864918961/posts/2947864332017256/)  
+   Link: <a href="https://www.facebook.com/groups/452180864918961/posts/2947864332017256/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/452180864918961/posts/2947864332017256/</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Faurschou.Foundation/posts/day-3first-alien-encounter-orthon-from-venus-november-20-1952-on-november-20-195/10155990344728328/](https://www.facebook.com/Faurschou.Foundation/posts/day-3first-alien-encounter-orthon-from-venus-november-20-1952-on-november-20-195/10155990344728328/)  
+   Link: <a href="https://www.facebook.com/Faurschou.Foundation/posts/day-3first-alien-encounter-orthon-from-venus-november-20-1952-on-november-20-195/10155990344728328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Faurschou.Foundation/posts/day-3first-alien-encounter-orthon-from-venus-november-20-1952-on-november-20-195/10155990344728328/</a>  
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/](https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/)  
+   Link: <a href="https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/declassified-documents-raise-intrigueus-air-force-document-cites-12618-ufo-sight/1335121142060390/</a>

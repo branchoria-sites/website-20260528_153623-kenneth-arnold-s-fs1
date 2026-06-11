@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /steven-michalak-encounter-1967/
 nav_short_title: Witness Story
 title: How Reliable Was Michalak's Story?
-title_full: How Reliable Was Michalak's Story? | Falcon Lake
+title_full: How Reliable Was Michalak's Story?
 display_title_short: Witness Story
 display_title: Witness Story
 heading_title: How Reliable Was Michalak's Story?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /landing-site/
   short_title: Landing Site
   heading_title: Why the Landing Site Remains So Contested
-date: '2026-06-08 23:27:44 '
+date: '2026-06-11 13:16:54 '
 header:
   og_image: /assets/images/Steven_Michalak_enco_1bbf94_witness_timeline_d9cdc7-Illustration-1-social.jpg
   preview_image: /assets/images/Steven_Michalak_enco_1bbf94_witness_timeline_d9cdc7-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/Steven_Michalak_enco_1bbf94_witness_timeline_d9cdc7-Illust
 ## Introduction
 
 The Falcon Lake incident depends almost entirely on one man’s account. Stefan “Steven” Michalak was the only direct witness to the alleged encounter in May 1967, and every later interpretation of the case — extraterrestrial craft, secret military device, industrial accident, hoax or misunderstood event — rests on how reliable his story appears under scrutiny. What makes the case unusually difficult is that the earliest records already contain contradictions. Police notes, hospital observations, press interviews and Michalak’s later retellings do not line up perfectly on timing, behaviour, alcohol use, the nature of his injuries or even some of the physical details of the encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
-
 
 <img src="{{ "/assets/images/Steven_Michalak_enco_1bbf94_witness_timeline_d9cdc7-Illustration-1-dark.svg" | relative_url }}" alt="Witness Story illustration 1" data-theme-src-dark="{{ "/assets/images/Steven_Michalak_enco_1bbf94_witness_timeline_d9cdc7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Steven_Michalak_enco_1bbf94_witness_timeline_d9cdc7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Those contradictions do not automatically disprove the incident. A frightened and physically ill witness can give inconsistent statements without inventing the entire event. At the same time, the gaps matter because Falcon Lake is often described as one of the world’s “best documented” UFO cases. The closer the timeline is examined, the more the documentation reveals a mixture of corroborated injury, changing explanations and unresolved inconsistencies rather than a clean evidential chain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
@@ -266,7 +265,6 @@ Solotki’s account presents a visibly distressed man, but it also introduces se
 
 According to the police report:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Michalak appeared confused and agitated.
@@ -278,7 +276,7 @@ According to the police report:
 
 </div>
 
-That last point became one of the most disputed details in the chronology. In later retellings, Michalak often implied he received little help from authorities and struggled alone while ill and burned. Solotki’s report instead portrays an officer attempting to assist a reluctant witness. Researchers sympathetic to Michalak generally argue the contradiction may reflect confusion or embarrassment during a stressful moment rather than deliberate deception. Skeptics see it as an early example of narrative embellishment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">episode 053</span><span class="citation-popover-snippet">CanadaUFOs at LAC: The Falcon Lake incident, part 115 May 2019 — JA: The RCMP officer, Constable G.A. Solotki, goes on to state in his re...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+That last point became one of the most disputed details in the chronology. In later retellings, Michalak often implied he received little help from authorities and struggled alone while ill and burned. Solotki’s report instead portrays an officer attempting to assist a reluctant witness. Researchers sympathetic to Michalak generally argue the contradiction may reflect confusion or embarrassment during a stressful moment rather than deliberate deception. Skeptics see it as an early example of narrative embellishment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: canada.ca">[Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">canada.ca</span><span class="citation-popover-title">episode 053</span><span class="citation-popover-snippet">UFOs at LAC: The Falcon Lake incident, part 115 May 2019 — JA: The RCMP officer, Constable G.A. Solotki, goes on to state in his re...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
 Another detail from Solotki’s report became central to later skeptical arguments: the absence of prospecting equipment. The officer reportedly noticed that Michalak lacked much of the gear one might expect from someone conducting a day of mineral exploration. Critics later argued this weakened the prospecting narrative and suggested the possibility of some unrelated accident or undisclosed activity. Supporters countered that Michalak had been travelling light and had already discarded or stored some items before reaching the highway. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
 
@@ -291,7 +289,6 @@ The alcohol issue became one of the most persistent disputes in the case. Michal
 This does not establish drunkenness during the encounter itself. The timeline places the sighting the following afternoon, and Solotki explicitly stated he smelled no alcohol. Still, the contradiction allowed skeptics to propose alternative explanations involving accidental burns, disorientation or a fabricated story meant to conceal another incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
 
 The ambiguity matters because Falcon Lake is often presented in simplified form as a case with no plausible mundane explanation. In reality, official documents show investigators considered ordinary explanations from the very beginning.
-
 
 <img src="{{ "/assets/images/Steven_Michalak_enco_1bbf94_witness_timeline_d9cdc7-Illustration-2-dark.svg" | relative_url }}" alt="Witness Story illustration 2" data-theme-src-dark="{{ "/assets/images/Steven_Michalak_enco_1bbf94_witness_timeline_d9cdc7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Steven_Michalak_enco_1bbf94_witness_timeline_d9cdc7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The burn pattern changed over time
@@ -312,7 +309,6 @@ Investigators searching the area shortly after the event reportedly failed to fi
 
 This sequence weakened the value of the physical evidence. Even researchers who considered Michalak sincere acknowledged that the site was never secured promptly enough to rule out contamination, misunderstanding or later alteration.
 
-
 <img src="{{ "/assets/images/Steven_Michalak_enco_1bbf94_witness_timeline_d9cdc7-Illustration-3-dark.svg" | relative_url }}" alt="Witness Story illustration 3" data-theme-src-dark="{{ "/assets/images/Steven_Michalak_enco_1bbf94_witness_timeline_d9cdc7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Steven_Michalak_enco_1bbf94_witness_timeline_d9cdc7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The radiation story became more complicated
 
@@ -327,7 +323,6 @@ The answer depends largely on what standard is being applied.
 If the question is whether Michalak gave a perfectly stable, internally consistent account from the beginning, the answer is clearly no. The timeline contains contradictions involving his interaction with police, the appearance of his injuries, his alcohol use, his movements after the incident and the handling of physical evidence. Some of those contradictions emerged within days, not decades later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Falcon Lake Incident</span><span class="citation-popover-snippet">Falcon Lake Incident</span></span></span>
 
 If the question is whether the contradictions prove deliberate fraud, the evidence is less decisive. Several core elements remained broadly consistent across his retellings:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -350,44 +345,86 @@ For believers, the inconsistencies are understandable products of trauma, illnes
 What remains unusually valuable about the case is not the certainty of its conclusion, but the survival of the records themselves: RCMP interviews, hospital descriptions, press reports and later investigative files that allow the story to be reconstructed in detail. Those records reveal a witness whose account was compelling enough to trigger years of investigation, but inconsistent enough that the central question — what really happened to Steven Michalak near Falcon Lake in 1967 — remains unresolved.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Reliable Was Michalak&#x27;s Story?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Reliable Was Michalak&#x27;s Story?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Stefan Michalak guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Stefan+Michalak+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Contrasts the original RCMP roadside notes against subsequent hospital observations, press interviews, and alcohol use logging.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">RCMP Constable Solotki guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=RCMP+Constable+Solotki+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Addresses why changing visual explanations of a lone witness require careful cross-examination against conventional facts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Library Archives Canada guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Library+Archives+Canada+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches fundamental data tracking methods to isolate verified injury timelines from subsequent narrative compression layers.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Details the contemporary bureaucratic timeline recorded by Canadian intelligence units auditing the case.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -424,15 +461,15 @@ What remains unusually valuable about the case is not the certainty of its concl
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -440,15 +477,15 @@ What remains unusually valuable about the case is not the certainty of its concl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/ecf1364ac1fcde60335d.jpg' | relative_url }}" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -456,15 +493,15 @@ What remains unusually valuable about the case is not the certainty of its concl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -472,15 +509,15 @@ What remains unusually valuable about the case is not the certainty of its concl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -488,7 +525,7 @@ What remains unusually valuable about the case is not the certainty of its concl
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witness-story-how-reliable-was-michalak-s-story-steven-michalak-encounter-1967-ufo-art-print-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -704,31 +741,31 @@ What remains unusually valuable about the case is not the certainty of its concl
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Falcon Lake Incident  
-   Link: [https://en.wikipedia.org/wiki/Falcon_Lake_Incident](https://en.wikipedia.org/wiki/Falcon_Lake_Incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Falcon_Lake_Incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Falcon_Lake_Incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: canada.ca  
    Title: episode 053  
-   Link: [https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html](https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CanadaUFOs at LAC: The Falcon Lake incident, part 115 May 2019 — JA: The RCMP officer, Constable G.A. Solotki, goes on to state in his re...</p></details>
+   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-053.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 115 May 2019 — JA: The RCMP officer, Constable G.A. Solotki, goes on to state in his re...</p></details>
    Published: May 2019  
 
 3. <a id="endnote-3"></a>
    Source: canada.ca  
    Title: episode 054  
-   Link: [https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html](https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html)  
+   Link: <a href="https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html" target="_blank" rel="noopener noreferrer nofollow">https://www.canada.ca/en/library-archives/collection/engage-learn/podcasts/discover/episode-054.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at LAC: The Falcon Lake incident, part 229 May 2019 — Stefan Michalak&#x27;s son Stan and researchers Chris Rutkowski and Palmiro Campagn...</p></details>
    Published: May 2019  
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: The Falcon Lake Incident  
-   Link: [https://www.youtube.com/watch?v=Fq2m2t08c40](https://www.youtube.com/watch?v=Fq2m2t08c40)  
+   Link: <a href="https://www.youtube.com/watch?v=Fq2m2t08c40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Fq2m2t08c40</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon Lake Incident: Analyzing the Witness Account...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: thediscoverblog.com  
-   Link: [https://thediscoverblog.com/tag/ufo/](https://thediscoverblog.com/tag/ufo/)  
+   Link: <a href="https://thediscoverblog.com/tag/ufo/" target="_blank" rel="noopener noreferrer nofollow">https://thediscoverblog.com/tag/ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Library and Archives Canada BlogUFO15 May 2019 — In the second part of this two-part episode, we discuss the evidence and investigation i...</p></details>
    Published: May 2019  
 
@@ -736,56 +773,56 @@ What remains unusually valuable about the case is not the certainty of its concl
 
 6. <a id="endnote-6"></a>
    Source: cliffsnotes.com  
-   Link: [https://www.cliffsnotes.com/study-notes/21251781](https://www.cliffsnotes.com/study-notes/21251781)  
+   Link: <a href="https://www.cliffsnotes.com/study-notes/21251781" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/21251781</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical Reactions to Falcon Lake UFO IncidentSkeptics of the Falcon Lake UFO Incident state that Michalak&#x27;s burns were as a result of a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/de/podcast/the-falcon-lake-ufo-incident/id1054220508?i=1000464705423](https://podcasts.apple.com/de/podcast/the-falcon-lake-ufo-incident/id1054220508?i=1000464705423)  
+   Link: <a href="https://podcasts.apple.com/de/podcast/the-falcon-lake-ufo-incident/id1054220508?i=1000464705423" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/de/podcast/the-falcon-lake-ufo-incident/id1054220508?i=1000464705423</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon Lake UFO Incident – The Canadian GothicIn this episode of Nighttime, Canadian UFO researcher Chris Rutkowksi shares details of the...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: falcon lake manitoba 1967 an investigation into  
-   Link: [https://www.reddit.com/r/UFOs/comments/ynld27/falcon_lake_manitoba_1967_an_investigation_into/](https://www.reddit.com/r/UFOs/comments/ynld27/falcon_lake_manitoba_1967_an_investigation_into/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/ynld27/falcon_lake_manitoba_1967_an_investigation_into/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ynld27/falcon_lake_manitoba_1967_an_investigation_into/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon Lake, Manitoba, 1967: an investigation into the...Falcon Lake, Manitoba, 1967: an investigation into the photographic evidence re...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: space.com  
    Title: canadian ufo collection falcon lake incident  
-   Link: [https://www.space.com/canadian-ufo-collection-falcon-lake-incident.html](https://www.space.com/canadian-ufo-collection-falcon-lake-incident.html)  
+   Link: <a href="https://www.space.com/canadian-ufo-collection-falcon-lake-incident.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/canadian-ufo-collection-falcon-lake-incident.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thousands of Government UFO Reports Now Available at...14 Dec 2019 — The incident occurred on May 20, 1967, when an amateur geologist na...</p></details>
    Published: May 20, 1967  
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Abovethenormnews/posts/the-ufo-encounter-that-burned-a-man-and-shattered-a-life-exploring-the-falcon-la/401695889330744/](https://www.facebook.com/Abovethenormnews/posts/the-ufo-encounter-that-burned-a-man-and-shattered-a-life-exploring-the-falcon-la/401695889330744/)  
+   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/the-ufo-encounter-that-burned-a-man-and-shattered-a-life-exploring-the-falcon-la/401695889330744/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/the-ufo-encounter-that-burned-a-man-and-shattered-a-life-exploring-the-falcon-la/401695889330744/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Encounter That Burned a Man and Shattered a LifeFalcon Lake incident is Canada&#x27;s &#x27;best-documented UFO case,&#x27; even 50 years later...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: historicmysteries.com  
-   Link: [https://www.historicmysteries.com/unexplained-mysteries/falcon-lake-ufo/35006/](https://www.historicmysteries.com/unexplained-mysteries/falcon-lake-ufo/35006/)  
+   Link: <a href="https://www.historicmysteries.com/unexplained-mysteries/falcon-lake-ufo/35006/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicmysteries.com/unexplained-mysteries/falcon-lake-ufo/35006/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic MysteriesThe Falcon Lake UFO: Canada&#x27;s Famous Close Encounter21 Jul 2023 — The Falcon Lake Incident was a UFO sighting that took...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/](https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/)  
+   Link: <a href="https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LibraryArchives/posts/we-may-not-be-area-51-but-did-you-know-that-we-hold-a-vast-collection-of-ufo-fil/588151890149717/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of man involved in famous Manitoba...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: open.spotify.com  
    Title: 2Wtldtd3Y3UDkhp7Fd GIc0  
-   Link: [https://open.spotify.com/episode/2Wtldtd3Y3UDkhp7FdGIc0](https://open.spotify.com/episode/2Wtldtd3Y3UDkhp7FdGIc0)  
+   Link: <a href="https://open.spotify.com/episode/2Wtldtd3Y3UDkhp7FdGIc0" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/2Wtldtd3Y3UDkhp7FdGIc0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Falcon Lake UFO Incident (MB) - Dark Poutine1 Apr 2019 — Episode 067 - In May of 1967 an RCMP constable on patrol near Falcon Lake, Manit...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: music.youtube.com  
-   Link: [https://music.youtube.com/podcast/0e6dKxkqbn8](https://music.youtube.com/podcast/0e6dKxkqbn8)  
+   Link: <a href="https://music.youtube.com/podcast/0e6dKxkqbn8" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/0e6dKxkqbn8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lake Incident: The Most Credible UFO Case in History21 Feb 2025 — In 1967, Stefan Michalak claimed to have come face-to-face with a stran...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: eventscalendar.umanitoba.ca  
    Title: ca Libraries  
-   Link: [https://eventscalendar.umanitoba.ca/site/libraries/event/the-falcon-lake-ufo-files/](https://eventscalendar.umanitoba.ca/site/libraries/event/the-falcon-lake-ufo-files/)  
+   Link: <a href="https://eventscalendar.umanitoba.ca/site/libraries/event/the-falcon-lake-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://eventscalendar.umanitoba.ca/site/libraries/event/the-falcon-lake-ufo-files/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“The Falcon Lake UFO Files”7 Nov 2019 — On May 19, 1967, near Falcon Lake, Manitoba, Stefan Michalak claimed he was burned by one of two...</p></details>
-   Published: May 19, 1967  
+   Published: May 19, 1967

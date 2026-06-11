@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Nash Fortenberry
   permalink: /nash-and-fortenberry-sighting-1952/
   short_title: Nash Fortenberry
-date: '2026-06-08 23:33:34 '
+date: '2026-06-11 13:20:12 '
 header:
   og_image: /assets/images/Muroc_Field_sighting_a700e4-overview-social.jpg
   preview_image: /assets/images/Muroc_Field_sighting_a700e4-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Muroc_Field_sighting_a700e4-overview-social.jpg
 ## Introduction
 
 The strongest reading is cautious: Muroc is a significant early UFO case because of witness quality, setting, and documentation, not because it produced physical evidence. There were no recovered fragments, photographs, radar tracks, instrumented measurements, or later scientific tests tied to the Muroc reports. The official paperwork treated the events as an “Incident”, recorded the case as “Pending”, and then stated that no further investigation was being considered by that headquarters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/muroc47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Muroc_Field_sighting_a700e4-overview.webp" | relative_url }}" alt="Overview image for Muroc Field sightings 1947" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Muroc was not an ordinary sky-watching location
@@ -774,7 +773,7 @@ This makes the case interesting for a specific reason: Muroc was not merely a re
 
 The Muroc case is best understood as several related observations, not one single sighting. The official material gathered by Project 1947 reproduces statements from Muroc personnel and a Fourth Air Force summary. The documents contain some inconsistencies in timing and direction, but the main cluster falls on 8 July 1947, with one statement by Major J. C. Wise describing a similar object on 7 July. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/muroc47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[The central reports were:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
+The central reports were: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 * **Major J. C. Wise, 7 July, about 10:10.** Wise, a test pilot, said that while running up an XP-84 on the ground he saw an object north of the field at about 10,000 feet. He first assumed it was a weather balloon, but said it oscillated in a forward whirling movement without losing altitude and travelled west to east at roughly 200–225 mph. He estimated a yellowish-white sphere, about 5–10 feet in diameter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/muroc47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * **1st Lt Joseph C. McHenry and others, 8 July, about 09:30–10:00.** McHenry said he saw two silver spherical or disc-like objects at roughly 8,000 feet, heading approximately north-west, at perhaps 300 mph or less. He called S/Sgt Gerald E. Nauman, T/Sgt Joseph Ruvolo, and Jannette Marie Scott, who also reported seeing silver disc-like objects. McHenry then described a later single object circling over the north end of the base. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/muroc47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -784,7 +783,6 @@ The Muroc case is best understood as several related observations, not one singl
 * **Major Richard R. Shoop, 8 July, about noon.** Shoop said Colonel Gilkey called his attention to a thin metallic object five to eight miles north. It appeared aluminium-coloured because of sunlight reflection, moved in an oscillating fashion, descended almost to the ground, climbed again, and was visible for about eight minutes. He thought it was about the size of a pursuit aircraft but not shaped like a conventional plane. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/muroc47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The reports vary in direction, duration, and object description. That weakens any attempt to turn them into a single precise flight path. But they also share repeated features: daylight observation, metallic or silver appearance, disc or spherical outline, silence, apparent manoeuvring, and witnesses who explicitly considered balloons, birds, aircraft, eye strain, and hallucination before rejecting them.
-
 
 <img src="{{ "/assets/images/Muroc_Field_sighting_a700e4-Illustration-1-dark.svg" | relative_url }}" alt="Muroc Field sightings 1947 illustration 1" data-theme-src-dark="{{ "/assets/images/Muroc_Field_sighting_a700e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Muroc_Field_sighting_a700e4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The official file: serious enough to collect, not strong enough to solve
@@ -796,7 +794,6 @@ On 14 August 1947, Captain Harry D. Black, the Muroc intelligence officer, forwa
 That is a revealing ending. It is not a clean debunking, because the file excerpt does not show a conventional identification. It is also not an official endorsement of an extraordinary explanation. The case appears to have been documented, circulated, and then left unresolved or administratively closed at that level.
 
 The broader Air Force UFO programme later took a similarly mixed shape. The National Archives notes that the post-1947 flood of reports led to Project Sign, which evaluated 243 reports and reached an inconclusive position in February 1949. Later Air Force summaries of Project Blue Book said no investigated UFO had shown evidence of a national-security threat, unknown technology beyond modern scientific knowledge, or extraterrestrial vehicles; nevertheless, 701 of 12,618 reports remained “unidentified” by the time Blue Book ended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cY_IR2yQ6CE" title="UFO Sightings at Edwards Air Force Base! | NASA&#x27;s Unexplained Files S1 Ep6 | Discovery Channel India" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cY_IR2yQ6CE" target="_blank" rel="noopener noreferrer">UFO Sightings at Edwards Air Force Base! | NASA&#x27;s Unexplained Files S1 Ep6 | Discovery Channel India</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 20.9K &middot; Uploaded: April 2026 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cY_IR2yQ6CE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cY_IR2yQ6CE">Open on YouTube</a></p></div></div></div>
 
@@ -810,7 +807,6 @@ The reports also show some internal caution. McHenry said he looked away and rea
 
 The strongest single observation is arguably Stapp’s 11:50 report, because it occurred during an organised test, had multiple observers in the truck, and included a structured comparison with a parachute that appeared later. His own opinion, however, was not extraterrestrial: he thought the object was probably man-made, partly because of its outline and apparently functional appearance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/muroc47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Muroc_Field_sighting_a700e4-Illustration-2-dark.svg" | relative_url }}" alt="Muroc Field sightings 1947 illustration 2" data-theme-src-dark="{{ "/assets/images/Muroc_Field_sighting_a700e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Muroc_Field_sighting_a700e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What keeps the case unresolved rather than conclusive
 
@@ -821,7 +817,6 @@ There are also ordinary complications in the record. Some times differ: McHenry 
 These discrepancies do not destroy the case; they are common in visual-event testimony. But they do limit precision. A convincing prosaic or extraordinary explanation would need reliable geometry: where the observers stood, where the objects were, exact weather data, balloon releases, test schedules, aircraft positions, and sightline reconstruction. The excerpted investigation does not provide enough of that.
 
 Colonel Gilkey’s statement also matters. He reportedly said the object he saw seemed at the time to be paper and not significant enough to report, and that he had not seen anything clearly enough to justify further reports. That is a direct dampener on any claim that every senior witness found the event extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/muroc47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m1fWXYUNNJ0" title="UFO or Experimental Military Aircraft?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m1fWXYUNNJ0" target="_blank" rel="noopener noreferrer">UFO or Experimental Military Aircraft?</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 364.0K &middot; Uploaded: October 2015 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m1fWXYUNNJ0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m1fWXYUNNJ0">Open on YouTube</a></p></div></div></div>
 
@@ -836,7 +831,6 @@ A fair assessment has to separate the different sightings. One explanation may n
 **Parachute, canopy, target, or test debris** may fit parts of the Stapp report better than the morning disc reports. Stapp’s first impression was that a premature ejection had occurred, and he later estimated a size not far from a 25-foot parachute canopy. But he also said the object fell faster than a later parachute, appeared less dense than a canopy, showed an oval outline with upper projections, and moved against the prevailing wind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/muroc47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Optical effects, birds, paper, or glare** might explain some short-duration sightings, particularly if witnesses were primed by the national flying-saucer wave. McHenry, Scott, and Nauman all explicitly rejected eye strain or birds; Colonel Gilkey’s “paper” impression shows that at least one officer saw something he considered mundane. Again, the problem is not that such [explanations]({{ 'explanations-9a4c42/' | relative_url }}) are impossible, but that the file does not document a tested match. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/muroc47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/muroc47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[2project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Muroc_Field_sighting_a700e4-Illustration-3-dark.svg" | relative_url }}" alt="Muroc Field sightings 1947 illustration 3" data-theme-src-dark="{{ "/assets/images/Muroc_Field_sighting_a700e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Muroc_Field_sighting_a700e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the 1947 saucer wave shaped the case
@@ -855,49 +849,89 @@ The most defensible conclusion is that several Muroc personnel saw aerial object
 
 For a case dossier, Muroc is therefore most useful as a benchmark for early official UFO documentation. It shows how quickly the 1947 saucer wave reached military test sites, how witness credibility can strengthen a report without making it conclusive, and how an official file can preserve uncertainty rather than resolve it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/odUSnDgU-oo" title="The Mysterious Roswell UFO Incident of 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer">The Mysterious Roswell UFO Incident of 1947</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 317.2K &middot; Uploaded: January 2012 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=odUSnDgU-oo">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Happened Over Muroc Field?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Happened Over Muroc Field?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Contains direct first-hand archival insights into the military intelligence files compiled during the July 1947 Muroc Army Air Field alerts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Muroc Field sighting cluster, detailing the sworn officer statements, daylight disk patterns, and the Fourth Air Force case...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Reviews the complete formal paperwork from the August 18 1947 case summary, analyzing why the incident stayed marked &#x27;pending&#x27;.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Deconstructs why multiple trained eyewitness observations must still face critical audit when physical confirmation parameters are zero.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -934,15 +968,15 @@ For a case dossier, Muroc is therefore most useful as a benchmark for early offi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print"><img src="{{ '/assets/images/marketplace-covers/aa405082db2bf8cb0f3c.jpg' | relative_url }}" alt="Listing image for Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage Aviation Poster Wall Art - Retro Airplane Decor Fine Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -950,15 +984,15 @@ For a case dossier, Muroc is therefore most useful as a benchmark for early offi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -966,15 +1000,15 @@ For a case dossier, Muroc is therefore most useful as a benchmark for early offi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -982,15 +1016,15 @@ For a case dossier, Muroc is therefore most useful as a benchmark for early offi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/3c567cd1b6b6d3f92b8b.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -998,7 +1032,7 @@ For a case dossier, Muroc is therefore most useful as a benchmark for early offi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="muroc-field-sightings-1947-what-happened-over-muroc-field-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1213,170 +1247,170 @@ For a case dossier, Muroc is therefore most useful as a benchmark for early offi
 
 1. <a id="endnote-1"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/fig/muroc47.htm](https://www.project1947.com/fig/muroc47.htm)  
+   Link: <a href="https://www.project1947.com/fig/muroc47.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/muroc47.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: npshistory.com  
    Title: National Park Service: Man in Space (Other Support Facilities)  
-   Link: [https://www.npshistory.com/publications/nhl/theme-studies/man-in-space/space24.htm](https://www.npshistory.com/publications/nhl/theme-studies/man-in-space/space24.htm)  
+   Link: <a href="https://www.npshistory.com/publications/nhl/theme-studies/man-in-space/space24.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.npshistory.com/publications/nhl/theme-studies/man-in-space/space24.htm</a>  
 
 3. <a id="endnote-3"></a>
    Source: edwards.af.mil  
    Title: edwards history  
-   Link: [https://www.edwards.af.mil/About/Fact-Sheets/Display/Article/393907/edwards-history/](https://www.edwards.af.mil/About/Fact-Sheets/Display/Article/393907/edwards-history/)  
+   Link: <a href="https://www.edwards.af.mil/About/Fact-Sheets/Display/Article/393907/edwards-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.edwards.af.mil/About/Fact-Sheets/Display/Article/393907/edwards-history/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Edwards&#x27; History &gt; Edwards Air Force Base &gt; Display...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 5. <a id="endnote-5"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: skepticalinquirer.org  
    Title: general nathan f twining and the flying disc problem of 1947  
-   Link: [https://skepticalinquirer.org/2020/03/general-nathan-f-twining-and-the-flying-disc-problem-of-1947/](https://skepticalinquirer.org/2020/03/general-nathan-f-twining-and-the-flying-disc-problem-of-1947/)  
+   Link: <a href="https://skepticalinquirer.org/2020/03/general-nathan-f-twining-and-the-flying-disc-problem-of-1947/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/03/general-nathan-f-twining-and-the-flying-disc-problem-of-1947/</a>  
 
 7. <a id="endnote-7"></a>
    Source: af.mil  
    Title: The Roswell Report  
-   Link: [https://www.af.mil/The-Roswell-Report/](https://www.af.mil/The-Roswell-Report/)  
+   Link: <a href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/The-Roswell-Report/</a>  
 
 8. <a id="endnote-8"></a>
    Source: edwards.af.mil  
    Title: mil Edwards Air Force Base  
-   Link: [https://www.edwards.af.mil/](https://www.edwards.af.mil/)  
+   Link: <a href="https://www.edwards.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.edwards.af.mil/</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 10. <a id="endnote-10"></a>
    Source: skepticalinquirer.org  
    Title: the roswell incident at 70 facts not myths  
-   Link: [https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/](https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/)  
+   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
 
 11. <a id="endnote-11"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 1  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: war.gov  
    Title: 18 100754 general 1946 7 vol 2  
-   Link: [https://www.war.gov/medialink/ufo/release_1/18_100754_%20general%201946-7_vol_2.pdf](https://www.war.gov/medialink/ufo/release_1/18_100754_%20general%201946-7_vol_2.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/18_100754_%20general%201946-7_vol_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/18_100754_%20general%201946-7_vol_2.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/nasa-briefing-latest-space-agency-to-give-update-on-permanent-moon-base-plans-13548075](https://news.sky.com/story/nasa-briefing-latest-space-agency-to-give-update-on-permanent-moon-base-plans-13548075)  
+   Link: <a href="https://news.sky.com/story/nasa-briefing-latest-space-agency-to-give-update-on-permanent-moon-base-plans-13548075" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-briefing-latest-space-agency-to-give-update-on-permanent-moon-base-plans-13548075</a>  
 
 14. <a id="endnote-14"></a>
    Source: people.com  
    Title: nasa unveils next steps to build permanent moon base 11984596  
-   Link: [https://people.com/nasa-unveils-next-steps-to-build-permanent-moon-base-11984596](https://people.com/nasa-unveils-next-steps-to-build-permanent-moon-base-11984596)  
+   Link: <a href="https://people.com/nasa-unveils-next-steps-to-build-permanent-moon-base-11984596" target="_blank" rel="noopener noreferrer nofollow">https://people.com/nasa-unveils-next-steps-to-build-permanent-moon-base-11984596</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Project Sign  
-   Link: [https://en.wikipedia.org/wiki/Project_Sign](https://en.wikipedia.org/wiki/Project_Sign)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Sign" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Sign</a>  
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Edwards Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Edwards_Air_Force_Base](https://en.wikipedia.org/wiki/Edwards_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Edwards_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edwards_Air_Force_Base</a>  
 
 18. <a id="endnote-18"></a>
    Source: uk.forceswarrecords.com  
-   Link: [https://uk.forceswarrecords.com/document/9170691](https://uk.forceswarrecords.com/document/9170691)  
+   Link: <a href="https://uk.forceswarrecords.com/document/9170691" target="_blank" rel="noopener noreferrer nofollow">https://uk.forceswarrecords.com/document/9170691</a>  
 
 19. <a id="endnote-19"></a>
    Source: beannames.com  
-   Link: [https://beannames.com/documents/958](https://beannames.com/documents/958)  
+   Link: <a href="https://beannames.com/documents/958" target="_blank" rel="noopener noreferrer nofollow">https://beannames.com/documents/958</a>  
 
 20. <a id="endnote-20"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 21. <a id="endnote-21"></a>
    Source: military-history.fandom.com  
    Title: Project Sign  
-   Link: [https://military-history.fandom.com/wiki/Project_Sign](https://military-history.fandom.com/wiki/Project_Sign)  
+   Link: <a href="https://military-history.fandom.com/wiki/Project_Sign" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Project_Sign</a>  
 
 22. <a id="endnote-22"></a>
    Source: memory-alpha.fandom.com  
-   Link: [https://memory-alpha.fandom.com/wiki/Muroc](https://memory-alpha.fandom.com/wiki/Muroc)  
+   Link: <a href="https://memory-alpha.fandom.com/wiki/Muroc" target="_blank" rel="noopener noreferrer nofollow">https://memory-alpha.fandom.com/wiki/Muroc</a>  
 
 23. <a id="endnote-23"></a>
    Source: thisdayinaviation.com  
    Title: muroc army air field  
-   Link: [https://www.thisdayinaviation.com/tag/muroc-army-air-field/](https://www.thisdayinaviation.com/tag/muroc-army-air-field/)  
+   Link: <a href="https://www.thisdayinaviation.com/tag/muroc-army-air-field/" target="_blank" rel="noopener noreferrer nofollow">https://www.thisdayinaviation.com/tag/muroc-army-air-field/</a>  
 
 24. <a id="endnote-24"></a>
    Source: origins.osu.edu  
    Title: project blue book  
-   Link: [https://origins.osu.edu/watch/project-blue-book](https://origins.osu.edu/watch/project-blue-book)  
+   Link: <a href="https://origins.osu.edu/watch/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/watch/project-blue-book</a>  
 
 25. <a id="endnote-25"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://www.ufologie.patrickgross.org/htm/muroc.htm](https://www.ufologie.patrickgross.org/htm/muroc.htm)  
+   Link: <a href="https://www.ufologie.patrickgross.org/htm/muroc.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/htm/muroc.htm</a>  
 
 26. <a id="endnote-26"></a>
    Source: daviddarling.info  
-   Link: [https://www.daviddarling.info/encyclopedia/T/Twining.html](https://www.daviddarling.info/encyclopedia/T/Twining.html)  
+   Link: <a href="https://www.daviddarling.info/encyclopedia/T/Twining.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/T/Twining.html</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: UFO Sightings at Edwards Air Force Base! | NASA's Unexplained Files S1 Ep6  
-   Link: [https://www.youtube.com/watch?v=cY_IR2yQ6CE](https://www.youtube.com/watch?v=cY_IR2yQ6CE)  
+   Link: <a href="https://www.youtube.com/watch?v=cY_IR2yQ6CE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cY_IR2yQ6CE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Kenneth Arnold UFO Sighting The First UFOs  
-   Link: [https://www.youtube.com/watch?v=xLuHgsXGpqc](https://www.youtube.com/watch?v=xLuHgsXGpqc)  
+   Link: <a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: America&#x27;s Obsession with UFOs...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
+   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
 
 30. <a id="endnote-30"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 31. <a id="endnote-31"></a>
    Source: science.gov  
-   Link: [https://www.science.gov/topicpages/t/t-38%2Bjet%2Baircraft](https://www.science.gov/topicpages/t/t-38%2Bjet%2Baircraft)  
+   Link: <a href="https://www.science.gov/topicpages/t/t-38%2Bjet%2Baircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/t/t-38%2Bjet%2Baircraft</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bakersfieldnow/posts/a-newly-declassified-batch-of-pentagon-and-us-air-force-records-released-friday-/1441029091400635/](https://www.facebook.com/bakersfieldnow/posts/a-newly-declassified-batch-of-pentagon-and-us-air-force-records-released-friday-/1441029091400635/)  
+   Link: <a href="https://www.facebook.com/bakersfieldnow/posts/a-newly-declassified-batch-of-pentagon-and-us-air-force-records-released-friday-/1441029091400635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bakersfieldnow/posts/a-newly-declassified-batch-of-pentagon-and-us-air-force-records-released-friday-/1441029091400635/</a>  
 
 33. <a id="endnote-33"></a>
    Source: beannames.com  
-   Link: [https://beannames.com/documents/960](https://beannames.com/documents/960)  
+   Link: <a href="https://beannames.com/documents/960" target="_blank" rel="noopener noreferrer nofollow">https://beannames.com/documents/960</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/WWIIHistory/posts/1703531983437862/](https://www.facebook.com/groups/WWIIHistory/posts/1703531983437862/)  
+   Link: <a href="https://www.facebook.com/groups/WWIIHistory/posts/1703531983437862/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/WWIIHistory/posts/1703531983437862/</a>  
 
 35. <a id="endnote-35"></a>
    Source: edwardsfss.com  
-   Link: [https://edwardsfss.com/club-muroc/](https://edwardsfss.com/club-muroc/)  
+   Link: <a href="https://edwardsfss.com/club-muroc/" target="_blank" rel="noopener noreferrer nofollow">https://edwardsfss.com/club-muroc/</a>  
 
 36. <a id="endnote-36"></a>
    Source: airandspaceforces.com  
-   Link: [https://www.airandspaceforces.com/app/uploads/1989/05/May1989.pdf](https://www.airandspaceforces.com/app/uploads/1989/05/May1989.pdf)  
+   Link: <a href="https://www.airandspaceforces.com/app/uploads/1989/05/May1989.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/app/uploads/1989/05/May1989.pdf</a>

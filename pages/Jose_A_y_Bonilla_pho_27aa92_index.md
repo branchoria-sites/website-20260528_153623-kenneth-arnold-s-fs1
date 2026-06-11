@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /jose-a-y-bonilla-pho-27aa92-index/
 description: Focused pages that expand on Jose A y Bonilla photograph 1883.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Jose_A_y_Bonilla_pho_27aa92
 parent_title: Jose A y Bonilla photograph 1883

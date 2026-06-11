@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /eagle-river-encounter-1961/
 nav_short_title: Blue Book
 title: Why Did Blue Book Call It Hallucination?
-title_full: Why Did Blue Book Call It Hallucination? | Eagle River
+title_full: Why Did Blue Book Call It Hallucination?
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: Why Did Blue Book Call It Hallucination?
@@ -233,7 +233,7 @@ next_link:
   permalink: /the-pancakes/
   short_title: The Pancakes
   heading_title: What Did The UFO Pancakes Really Show?
-date: '2026-06-08 23:26:40 '
+date: '2026-06-11 13:16:27 '
 header:
   og_image: /assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-1-social.jpg
   preview_image: /assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illus
 ## Introduction
 
 Project Blue Book called the Eagle River encounter a hallucination because the case had a striking story but weak independent support: Joe Simonton was the sole direct witness, the alleged craft left no verified physical trace, and the “space pancakes” tested as ordinary terrestrial food. That finding was understandable within the Air Force’s evidence standards, but it did not settle every reader’s question. It explained why Blue Book rejected an extraordinary landing claim; it did not fully reconstruct how a quiet Wisconsin plumber came to possess the cakes, tell the story, and maintain it under ridicule. The result is a case where the official conclusion is plausible, but still feels incomplete to many UFO historians and readers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — Project BLUE BOOK has been declassified and the records...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-sun.com">[2U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-sun.com</span><span class="citation-popover-title">us air forces secret probe alien pancakes</span><span class="citation-popover-snippet">us air forces secret probe alien pancakes</span></span></span>
-
 
 <img src="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the case reached Air Force investigators
@@ -262,14 +261,12 @@ The reported laboratory result was mundane. Accounts drawing on the Blue Book re
 
 That finding did most of the official work. If the one physical artefact was ordinary food, Blue Book had no material reason to treat the case as evidence of exotic technology. But the test also had limits: it addressed the composition of the cakes, not the full chain of events at Simonton’s home.
 
-
 <img src="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “hallucination” was a bureaucratic fit
 
 The hallucination finding made sense inside Blue Book’s classification culture. Contact claims were especially difficult for the Air Force because they were vivid, public-facing and often embarrassing, yet rarely supported by multiple witnesses or technical data. Earlier Blue Book-era practice distinguished stronger “unknown” cases from reports weakened by poor observation, unreliable circumstances or insufficient corroboration. Edward Ruppelt, an early Blue Book director, wrote that contact-style claims were not treated as good UFO reports by Blue Book standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For Eagle River, the weak points were clear:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -282,7 +279,6 @@ For Eagle River, the weak points were clear:
 
 The “hallucination” label therefore worked as an administrative closure. It said, in effect, that the report was not a hoax proven by evidence, but an experience Blue Book did not regard as externally real.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PXw0AN9S_5A" title="WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer">WEIRD WISCONSIN: Eagle River &amp; Joe Simonton&#x27;s BIZARRE UFO Pancakes</a></p><p class="youtube-embed-meta">Channel: SightseeingSally &middot; Views: 7.2K &middot; Uploaded: September 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PXw0AN9S_5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PXw0AN9S_5A">Open on YouTube</a></p></div></div></div>
 
 ## What the finding answered and missed
@@ -293,48 +289,89 @@ What it missed was the human and procedural residue of the case. Simonton was of
 
 That is why the case remains debated. Sceptics can fairly say Blue Book had no good reason to classify Eagle River as an unexplained craft encounter. UFO writers can fairly reply that “hallucination” was a conclusion more than a demonstrated reconstruction. The most balanced reading is that Blue Book’s finding fits the evidence threshold of an official investigation, while leaving open the narrower question of what ordinary sequence of perception, memory, food samples and local publicity produced the story.
 
-
 <img src="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eagle_River_encounte_9b53c8_blue_book_finding_ae6c6a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why Did Blue Book Call It Hallucination?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why Did Blue Book Call It Hallucination?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Hallucination finding guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Hallucination+finding+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Traces the sample trail and tracks Dr. J. Allen Hynek&#x27;s formal scientific inquiry into the rural Wisconsin plumber&#x27;s assertions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Air Force standards guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Air+Force+standards+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Explains why Project Blue Book logged the event as a hallucination due to a lack of verified physical traces or landing scars.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Food and Drug Laboratory guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Food+and+Drug+Laboratory+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Documents why the Air Force program rejected extraordinary landing claims based solely on single-witness data loops.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Reviews the methods used to audit witness sincerity and character metrics while checking the underlying physical sample logs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -371,15 +408,15 @@ That is why the case remains debated. Sceptics can fairly say Blue Book had no g
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -387,15 +424,15 @@ That is why the case remains debated. Sceptics can fairly say Blue Book had no g
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -403,15 +440,15 @@ That is why the case remains debated. Sceptics can fairly say Blue Book had no g
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -419,15 +456,15 @@ That is why the case remains debated. Sceptics can fairly say Blue Book had no g
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -435,7 +472,7 @@ That is why the case remains debated. Sceptics can fairly say Blue Book had no g
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="blue-book-8b589b-why-did-blue-book-call-it-hallucination-eagle-river-encounter-1961-ufo-poster-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -650,151 +687,151 @@ That is why the case remains debated. Sceptics can fairly say Blue Book had no g
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — Project BLUE BOOK has been declassified and the records...</p></details>
    Published: August 15, 2016  
 
 2. <a id="endnote-2"></a>
    Source: af.mil  
    Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 a.m. Joe Simonton heard a whining sound and saw an object, 30 ft in diameter, 12 ft high, with exhaust pipes around...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: hardcorezen.info  
    Title: alien pancakes  
-   Link: [https://hardcorezen.info/alien-pancakes/7894](https://hardcorezen.info/alien-pancakes/7894)  
+   Link: <a href="https://hardcorezen.info/alien-pancakes/7894" target="_blank" rel="noopener noreferrer nofollow">https://hardcorezen.info/alien-pancakes/7894</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Mar 2023 — The story of Joe Simonton&#x27;s encounter with a flying saucer whose occupants gave him pancakes is, to me, the quintessential U...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: The Eagle River incident caused me thinking about the salt  
-   Link: [https://www.reddit.com/r/Throawaylien/comments/oet29f/the_eagle_river_incident_caused_me_thinking_about/](https://www.reddit.com/r/Throawaylien/comments/oet29f/the_eagle_river_incident_caused_me_thinking_about/)  
+   Link: <a href="https://www.reddit.com/r/Throawaylien/comments/oet29f/the_eagle_river_incident_caused_me_thinking_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Throawaylien/comments/oet29f/the_eagle_river_incident_caused_me_thinking_about/</a>  
 
 6. <a id="endnote-6"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt](https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/PassportToMagonia--UFOsFolkloreAndParallelWorldsJacquesVallee1993/Passport%20to%20Magonia%E2%80%94UFOs%2C%20Folklore%2C%20and%20Parallel%20Worlds%2C%20Jacques%20Vall%C3%A9e%20%281993%29_djvu.txt</a>  
 
 7. <a id="endnote-7"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: harpers.org  
-   Link: [https://harpers.org/archive/2023/11/the-abduction-of-betty-and-barney-hill-bowman/](https://harpers.org/archive/2023/11/the-abduction-of-betty-and-barney-hill-bowman/)  
+   Link: <a href="https://harpers.org/archive/2023/11/the-abduction-of-betty-and-barney-hill-bowman/" target="_blank" rel="noopener noreferrer nofollow">https://harpers.org/archive/2023/11/the-abduction-of-betty-and-barney-hill-bowman/</a>  
 
 9. <a id="endnote-9"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt](https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ExtraordinaryEncounters_201809/Extraordinary%20Encounters_djvu.txt</a>  
 
 10. <a id="endnote-10"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: [https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf](https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/dimensionsvallee/dimensions%20vallee_djvu.txt](https://archive.org/stream/dimensionsvallee/dimensions%20vallee_djvu.txt)  
+   Link: <a href="https://archive.org/stream/dimensionsvallee/dimensions%20vallee_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dimensionsvallee/dimensions%20vallee_djvu.txt</a>  
 
 12. <a id="endnote-12"></a>
    Source: archive.org  
    Title: 412589424 Ufos and the Extraterrestrial Contact Movement v1 djvu.txt  
-   Link: [https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt](https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt)  
+   Link: <a href="https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/412589424-ufos-and-the-extraterrestrial-contact-movement-v-1/412589424-Ufos-and-the-Extraterrestrial-Contact-Movement-v1_djvu.txt</a>  
 
 13. <a id="endnote-13"></a>
    Source: archive.org  
    Title: Fate Magazine 279 v26n06 June 1973  
-   Link: [https://archive.org/download/Fate_Magazine_279_v26n06_June_1973_/Fate%20Magazine%20279%20v26n06%20June%201973%20.pdf](https://archive.org/download/Fate_Magazine_279_v26n06_June_1973_/Fate%20Magazine%20279%20v26n06%20June%201973%20.pdf)  
+   Link: <a href="https://archive.org/download/Fate_Magazine_279_v26n06_June_1973_/Fate%20Magazine%20279%20v26n06%20June%201973%20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/Fate_Magazine_279_v26n06_June_1973_/Fate%20Magazine%20279%20v26n06%20June%201973%20.pdf</a>  
    Published: June 1973  
 
 14. <a id="endnote-14"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/catalogofcopy19653191libr/catalogofcopy19653191libr_djvu.txt](https://archive.org/stream/catalogofcopy19653191libr/catalogofcopy19653191libr_djvu.txt)  
+   Link: <a href="https://archive.org/stream/catalogofcopy19653191libr/catalogofcopy19653191libr_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/catalogofcopy19653191libr/catalogofcopy19653191libr_djvu.txt</a>  
 
 15. <a id="endnote-15"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/colonialfamilie00rhoagoog/colonialfamilie00rhoagoog_djvu.txt](https://archive.org/stream/colonialfamilie00rhoagoog/colonialfamilie00rhoagoog_djvu.txt)  
+   Link: <a href="https://archive.org/stream/colonialfamilie00rhoagoog/colonialfamilie00rhoagoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/colonialfamilie00rhoagoog/colonialfamilie00rhoagoog_djvu.txt</a>  
 
 16. <a id="endnote-16"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/americanindianpa00king/americanindianpa00king.pdf](https://archive.org/download/americanindianpa00king/americanindianpa00king.pdf)  
+   Link: <a href="https://archive.org/download/americanindianpa00king/americanindianpa00king.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/americanindianpa00king/americanindianpa00king.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/10gml64/alien_lands_and_offers_man_four_pancakes_in/](https://www.reddit.com/r/HighStrangeness/comments/10gml64/alien_lands_and_offers_man_four_pancakes_in/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/10gml64/alien_lands_and_offers_man_four_pancakes_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/10gml64/alien_lands_and_offers_man_four_pancakes_in/</a>  
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/12i872x/the_strange_case_of_joe_simonton_often_forgotten/](https://www.reddit.com/r/ufo/comments/12i872x/the_strange_case_of_joe_simonton_often_forgotten/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/12i872x/the_strange_case_of_joe_simonton_often_forgotten/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/12i872x/the_strange_case_of_joe_simonton_often_forgotten/</a>  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/mystery/comments/12ed2h2/the_strange_and_bizarre_case_of_joe_simonton_a/](https://www.reddit.com/r/mystery/comments/12ed2h2/the_strange_and_bizarre_case_of_joe_simonton_a/)  
+   Link: <a href="https://www.reddit.com/r/mystery/comments/12ed2h2/the_strange_and_bizarre_case_of_joe_simonton_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mystery/comments/12ed2h2/the_strange_and_bizarre_case_of_joe_simonton_a/</a>  
 
 20. <a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 21. <a id="endnote-21"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 22. <a id="endnote-22"></a>
    Source: the-sun.com  
    Title: us air forces secret probe alien pancakes  
-   Link: [https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/](https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/)  
+   Link: <a href="https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/7625220/us-air-forces-secret-probe-alien-pancakes/</a>  
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: wxpr.org  
    Title: a northwoods case for the x files  
-   Link: [https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files](https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WXPRA Northwoods Case for the X-Files24 Jul 2019 — It was late morning when Simonton claimed he saw a bright silver saucer hovering over...</p></details>
+   Link: <a href="https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files" target="_blank" rel="noopener noreferrer nofollow">https://www.wxpr.org/arts-life/2019-07-24/a-northwoods-case-for-the-x-files</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Northwoods Case for the X-Files24 Jul 2019 — It was late morning when Simonton claimed he saw a bright silver saucer hovering over...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/pdf/10.1126/science.135.3503.518.a](https://www.science.org/doi/pdf/10.1126/science.135.3503.518.a)  
+   Link: <a href="https://www.science.org/doi/pdf/10.1126/science.135.3503.518.a" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/pdf/10.1126/science.135.3503.518.a</a>  
 
 25. <a id="endnote-25"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Zf1970bZ-Wk](https://www.youtube.com/watch?v=Zf1970bZ-Wk)  
+   Link: <a href="https://www.youtube.com/watch?v=Zf1970bZ-Wk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Zf1970bZ-Wk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Analysis of Project Blue Book&#x27;s Findings...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: How Project Blue Book Categorized UFO Reports  
-   Link: [https://www.youtube.com/watch?v=7bN_Yl3J-l4](https://www.youtube.com/watch?v=7bN_Yl3J-l4)  
+   Link: <a href="https://www.youtube.com/watch?v=7bN_Yl3J-l4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7bN_Yl3J-l4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining the Official Record of the 1961 Eagle River Incident...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/](https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/)  
+   Link: <a href="https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/meet-joe-simonton-a-retired-wisconsin-plumber-who-told-dr-stephen-black-about-a-/749396144151982/</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCArchive/videos/1968-flying-saucers-and-the-pancakes-from-outer-space/1250777623109321/](https://www.facebook.com/BBCArchive/videos/1968-flying-saucers-and-the-pancakes-from-outer-space/1250777623109321/)  
+   Link: <a href="https://www.facebook.com/BBCArchive/videos/1968-flying-saucers-and-the-pancakes-from-outer-space/1250777623109321/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/videos/1968-flying-saucers-and-the-pancakes-from-outer-space/1250777623109321/</a>  
 
 31. <a id="endnote-31"></a>
    Source: x.com  
-   Link: [https://x.com/sunspotmike/status/1780986020768432450](https://x.com/sunspotmike/status/1780986020768432450)  
+   Link: <a href="https://x.com/sunspotmike/status/1780986020768432450" target="_blank" rel="noopener noreferrer nofollow">https://x.com/sunspotmike/status/1780986020768432450</a>  
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/](https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/)  
+   Link: <a href="https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsOSU/posts/recently-the-pentagon-released-more-files-on-ufos-it-seems-like-every-few-months/1809383503713749/</a>

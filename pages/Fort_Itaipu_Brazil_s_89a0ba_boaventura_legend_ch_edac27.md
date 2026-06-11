@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /fort-itaipu-brazil-sighting-1957/
 nav_short_title: Later Checks
 title: How Did a Sighting Become a Legend?
-title_full: How Did a Sighting Become a Legend? | Fort Itaipu
+title_full: How Did a Sighting Become a Legend?
 display_title_short: Later Checks
 display_title: Later Checks
 heading_title: How Did a Sighting Become a Legend?
@@ -239,7 +239,7 @@ next_link:
   permalink: /source-trail-0dc29d/
   short_title: Source Trail
   heading_title: Can the Fontes Account Be Verified?
-date: '2026-06-08 23:33:54 '
+date: '2026-06-11 13:20:22 '
 header:
   og_image: /assets/images/Fort_Itaipu_Brazil_s_89a0ba_boaventura_legend_ch_edac27-Illustration-1-social.jpg
   preview_image: /assets/images/Fort_Itaipu_Brazil_s_89a0ba_boaventura_legend_ch_edac27-Illustration-1.webp
@@ -250,7 +250,6 @@ image: /assets/images/Fort_Itaipu_Brazil_s_89a0ba_boaventura_legend_ch_edac27-Il
 
 In the decades since the alleged **Fort Itaipu, Brazil sighting (1957)** often recounted as two sentries supposedly burned by an unidentified flying object researchers have revisited the narrative to assess what parts of it are supported by evidence and what elements belong more properly to UFO folklore than documented history. A central figure in that later scrutiny was **dison Boaventura Jnior**, whose investigation in the early 2000s is widely credited with undermining the dramatic claims that had been attached to the case in UFO literature. This article examines how Boaventuras followup research contributed to rewriting the story and how the original report evolved into a kind of legend within ufological communities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pt.wikipedia.org/wiki/Caso_do_Forte_de_Itaipu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Caso do Forte de Itaipu</span><span class="citation-popover-snippet">Caso do Forte de Itaipu</span></span></span>
 
-
 <img src="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba_boaventura_legend_ch_edac27-Illustration-1-dark.svg" | relative_url }}" alt="Later Checks illustration 1" data-theme-src-dark="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba_boaventura_legend_ch_edac27-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba_boaventura_legend_ch_edac27-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Boaventuras Investigation: From Classic Case to Questioned Story
 
@@ -259,7 +258,6 @@ For many years, the Fort Itaipu incident was circulated internationally in UFO c
 However, Boaventuras reexamination in the early 2000s published online and later discussed in UFO literature set out to track down the verifiable details that underpinned the classic account. His key findings were startling for enthusiasts: no military records could be located confirming the purported burns or hospitalisation of the sentries, and no names of the soldiers or officers mentioned in early narratives could be established from primary sources. These gaps suggested that the most dramatic elements of the story especially the physical injuries were not traceable to contemporaneous documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vigilia.com.br/conheca-toda-a-verdade-sobre-o-caso-do-forte-itaipu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vigilia.com.br">[Portal Viglia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vigilia.com.br</span><span class="citation-popover-title">Portal Viglia Conhea toda a verdade sobre o Caso do Forte Itaipu</span><span class="citation-popover-snippet">Portal VigliaConhea toda a verdade sobre o Caso do Forte Itaipu - Portal VigliaJuly 17, 2020...</span><span class="citation-popover-meta">Published: July 17, 2020</span></span></span>
 
 According to the Portuguese Wikipedia summary of the Fort Itaipu case, Boaventura concluded that **the whole case was invented by Fontes, to make a name for himself in the United States** and that the sensational claim about burned sentries simply did not stand up to evidential scrutiny. Because of that, the longstanding absence of identified victims was not an archival gap but evidence the core injury claim was unfounded.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pt.wikipedia.org/wiki/Caso_do_Forte_de_Itaipu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Caso do Forte de Itaipu</span><span class="citation-popover-snippet">Caso do Forte de Itaipu</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1zHeXIZX_FA" title="6º GACosM - Sistema Astros II - Fortaleza de Itaipu - Praia Grande/SP - Exército Brasileiro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1zHeXIZX_FA" target="_blank" rel="noopener noreferrer">6º GACosM - Sistema Astros II - Fortaleza de Itaipu - Praia Grande/SP - Exército Brasileiro</a></p><p class="youtube-embed-meta">Channel: Márcio Alves &middot; Views: 5.5K &middot; Uploaded: May 2015 &middot; Length: 2 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1zHeXIZX_FA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1zHeXIZX_FA">Open on YouTube</a></p></div></div></div>
 
@@ -271,7 +269,6 @@ Once Fontess account was republished internationally by *APRO* and later cited i
 
 Boaventuras research exposed how much of the classic narrative was a construction based on secondary retellings rather than primary military or medical records. Specialists who now discuss Fort Itaipu often treat the dramatic injury claims with caution, acknowledging that the more mundane origins of the story are probably rooted in a combination of early press reports and imaginative elaboration by UFO authors.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pt.wikipedia.org/wiki/Caso_do_Forte_de_Itaipu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Caso do Forte de Itaipu</span><span class="citation-popover-snippet">Caso do Forte de Itaipu</span></span></span>
 
-
 <img src="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba_boaventura_legend_ch_edac27-Illustration-2-dark.svg" | relative_url }}" alt="Later Checks illustration 2" data-theme-src-dark="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba_boaventura_legend_ch_edac27-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba_boaventura_legend_ch_edac27-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Separating Memory from Myth
 
@@ -279,9 +276,7 @@ Part of Boaventuras contribution has been to encourage scepticism about specific
 
 Even within Brazils UFO research community, Boaventuras work prompted a reconsideration of how stories evolve and how unverified narrative embellishments can become entrenched over time. Rather than categorically denying that unusual objects were seen near Fort Itaipu, his approach underscored the need for careful differentiation between contemporaneous observations and later legendmaking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pt.wikipedia.org/wiki/Caso_do_Forte_de_Itaipu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Caso do Forte de Itaipu</span><span class="citation-popover-snippet">Caso do Forte de Itaipu</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DghEQoMGxXk" title="Ruínas do Forte Jurubatuba - Fortaleza de Itaipu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DghEQoMGxXk" target="_blank" rel="noopener noreferrer">Ruínas do Forte Jurubatuba - Fortaleza de Itaipu</a></p><p class="youtube-embed-meta">Channel: Emilio Cid &middot; Views: 716 &middot; Uploaded: July 2018 &middot; Length: 1 minute 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DghEQoMGxXk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DghEQoMGxXk">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/djF1SuW7USQ" title="OVNIS são reais? Analisamos Um FRAGMENTO da Nave de Ubatuba que PROVA TUDO! Edison Boaventura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=djF1SuW7USQ" target="_blank" rel="noopener noreferrer">OVNIS são reais? Analisamos Um FRAGMENTO da Nave de Ubatuba que PROVA TUDO! Edison Boaventura</a></p><p class="youtube-embed-meta">Channel: Trip Inusitada &middot; Views: 3.5K &middot; Uploaded: March 2025 &middot; Length: 2 hours 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=djF1SuW7USQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=djF1SuW7USQ">Open on YouTube</a></p></div></div></div>
 
@@ -291,48 +286,89 @@ Today, Fort Itaipu is remembered less as a documented case of physical interacti
 
 As a result, the Fort Itaipu story often appears in UFO case lists with qualifiers or caveats, distinguishing between the original sightings and the later unverifiable elements that became part of its legend. Future researchers continue to debate the contours of the 1957 sightings themselves, but Boaventuras work helped ensure that the line between sighting memory and embellished mythmaking is treated as central to any credible assessment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pt.wikipedia.org/wiki/Caso_do_Forte_de_Itaipu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Caso do Forte de Itaipu</span><span class="citation-popover-snippet">Caso do Forte de Itaipu</span></span></span>
 
-
 <img src="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba_boaventura_legend_ch_edac27-Illustration-3-dark.svg" | relative_url }}" alt="Later Checks illustration 3" data-theme-src-dark="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba_boaventura_legend_ch_edac27-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fort_Itaipu_Brazil_s_89a0ba_boaventura_legend_ch_edac27-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Did a Sighting Become a Legend?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Did a Sighting Become a Legend?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Brazil UFO guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Brazil+UFO+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Models the exact methods used by researchers like Edison Boaventura Junior to track down hospital files and expose the lack of military r...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Catalogs the early Brazilian military lore trends, reviewing the famous &#x27;twisted rifle&#x27; rumor trails vs. subsequent analytical checks.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Details why an absence of verified clinical documentation requires researchers to treat legendary injury metrics as folklore products.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Examines how official South American state archives manage unverified media rumors regarding localized installation blackouts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -369,15 +405,15 @@ As a result, the Fort Itaipu story often appears in UFO case lists with qualifie
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -385,15 +421,15 @@ As a result, the Fort Itaipu story often appears in UFO case lists with qualifie
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -401,31 +437,15 @@ As a result, the Fort Itaipu story often appears in UFO case lists with qualifie
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -433,7 +453,7 @@ As a result, the Fort Itaipu story often appears in UFO case lists with qualifie
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="later-checks-how-did-a-sighting-become-a-legend-fort-itaipu-brazil-sighting-1957-ufo-memorabilia-book-books-gerry-anders" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -649,90 +669,90 @@ As a result, the Fort Itaipu story often appears in UFO case lists with qualifie
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Caso do Forte de Itaipu  
-   Link: [https://pt.wikipedia.org/wiki/Caso_do_Forte_de_Itaipu](https://pt.wikipedia.org/wiki/Caso_do_Forte_de_Itaipu)  
+   Link: <a href="https://pt.wikipedia.org/wiki/Caso_do_Forte_de_Itaipu" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Caso_do_Forte_de_Itaipu</a>  
 
 2. <a id="endnote-2"></a>
    Source: vigilia.com.br  
    Title: Portal Viglia Conhea toda a verdade sobre o Caso do Forte Itaipu  
-   Link: [https://vigilia.com.br/conheca-toda-a-verdade-sobre-o-caso-do-forte-itaipu/](https://vigilia.com.br/conheca-toda-a-verdade-sobre-o-caso-do-forte-itaipu/)  
+   Link: <a href="https://vigilia.com.br/conheca-toda-a-verdade-sobre-o-caso-do-forte-itaipu/" target="_blank" rel="noopener noreferrer nofollow">https://vigilia.com.br/conheca-toda-a-verdade-sobre-o-caso-do-forte-itaipu/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Portal VigliaConhea toda a verdade sobre o Caso do Forte Itaipu - Portal VigliaJuly 17, 2020...</p></details>
    Published: July 17, 2020  
 
 3. <a id="endnote-3"></a>
    Source: vigilia.com.br  
    Title: Queimaduras em sentinelas no Forte Itaipu  
-   Link: [https://vigilia.com.br/queimaduras-em-sentinelas-no-forte-itaipu-2/](https://vigilia.com.br/queimaduras-em-sentinelas-no-forte-itaipu-2/)  
+   Link: <a href="https://vigilia.com.br/queimaduras-em-sentinelas-no-forte-itaipu-2/" target="_blank" rel="noopener noreferrer nofollow">https://vigilia.com.br/queimaduras-em-sentinelas-no-forte-itaipu-2/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Portal VigliaApril 1, 1997 QUEIMADURAS EM SENTINELAS NO FORTE ITAIPU * Redao Viglia * 01/04/1997 Image: Queimaduras em sentinelas n...</p></details>
    Published: April 1, 1997  
 
 4. <a id="endnote-4"></a>
    Source: project1947.com  
    Title: fontes bfsr2  
-   Link: [https://www.project1947.com/articles/fontes_bfsr2.htm](https://www.project1947.com/articles/fontes_bfsr2.htm)  
+   Link: <a href="https://www.project1947.com/articles/fontes_bfsr2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/articles/fontes_bfsr2.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fontes - The Brazilian Flying Saucer Review Part TwoPROJECT 1947 * * * The Brazilian Flying Saucer Review Part Two By Dr. Olavo T. Fontes...</p></details>
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: en-academic.com  
-   Link: [https://en-academic.com/dic.nsf/enwiki/3741689/](https://en-academic.com/dic.nsf/enwiki/3741689/)  
+   Link: <a href="https://en-academic.com/dic.nsf/enwiki/3741689/" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/3741689/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Burning on Fort Itaipu SentinelsBURNING ON FORT ITAIPU SENTINELS * * * * * * * * Burning on Fort Itaipu Sentinels The Burning on Forte It...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: alienatedmedia.com  
    Title: the 1957 fort itaipu ufo incident military encounter  
-   Link: [https://alienatedmedia.com/the-1957-fort-itaipu-ufo-incident-military-encounter/](https://alienatedmedia.com/the-1957-fort-itaipu-ufo-incident-military-encounter/)  
+   Link: <a href="https://alienatedmedia.com/the-1957-fort-itaipu-ufo-incident-military-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://alienatedmedia.com/the-1957-fort-itaipu-ufo-incident-military-encounter/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1957 Fort Itaipu UFO Incident: Military Encounter - Alienated MediaOctober 8, 2023 Image: The 1957 Fort Itaipu UFO Incident: Milita...</p></details>
    Published: October 8, 2023  
 
 7. <a id="endnote-7"></a>
    Source: canaltech.com.br  
    Title: Dia do Disco Voador: 5 casos de OVNIs no Brasil  
-   Link: [https://canaltech.com.br/curiosidades/dia-do-disco-voador-5-casos-de-ovnis-e-alienigenas-no-brasil-70927/](https://canaltech.com.br/curiosidades/dia-do-disco-voador-5-casos-de-ovnis-e-alienigenas-no-brasil-70927/)  
+   Link: <a href="https://canaltech.com.br/curiosidades/dia-do-disco-voador-5-casos-de-ovnis-e-alienigenas-no-brasil-70927/" target="_blank" rel="noopener noreferrer nofollow">https://canaltech.com.br/curiosidades/dia-do-disco-voador-5-casos-de-ovnis-e-alienigenas-no-brasil-70927/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CASO DO FORTE DE ITAIPU (1957) Continua aps a publicidade Era 4 de novembro de 1957 quando duas sentinelas do Forte de Itaipu, localizad...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ufo.com.br  
    Title: 9 ufo no forte itaipu a verdade historica  
-   Link: [https://ufo.com.br/9-ufo-no-forte-itaipu-a-verdade-historica/](https://ufo.com.br/9-ufo-no-forte-itaipu-a-verdade-historica/)  
+   Link: <a href="https://ufo.com.br/9-ufo-no-forte-itaipu-a-verdade-historica/" target="_blank" rel="noopener noreferrer nofollow">https://ufo.com.br/9-ufo-no-forte-itaipu-a-verdade-historica/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO no Forte Itaipu - a verdade histrica - Revista UFOAugust 30, 2010 9. UFO NO FORTE ITAIPU A VERDADE HISTRICA Portal de entrada d...</p></details>
    Published: August 30, 2010  
 
 9. <a id="endnote-9"></a>
    Source: en-academic.com  
-   Link: [https://en-academic.com/dic.nsf/enwiki/4885319/](https://en-academic.com/dic.nsf/enwiki/4885319/)  
+   Link: <a href="https://en-academic.com/dic.nsf/enwiki/4885319/" target="_blank" rel="noopener noreferrer nofollow">https://en-academic.com/dic.nsf/enwiki/4885319/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 * On July 23, 1947, topographer Jos Higgins was workin...</p></details>
    Published: July 23, 1947  
 
 10. <a id="endnote-10"></a>
    Source: ufoac.com  
    Title: analysis of ufo cases in brazil  
-   Link: [https://ufoac.com/analysis-of-ufo-cases-in-brazil.html](https://ufoac.com/analysis-of-ufo-cases-in-brazil.html)  
+   Link: <a href="https://ufoac.com/analysis-of-ufo-cases-in-brazil.html" target="_blank" rel="noopener noreferrer nofollow">https://ufoac.com/analysis-of-ufo-cases-in-brazil.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WAVES AND SPECIAL ZONES From September 1957 to January 1958, many amazing cases occurred in Brazil (the events in Fort Itaipu, Petropolis...</p></details>
    Published: September 1957  
 
 11. <a id="endnote-11"></a>
    Source: thinkaboutitdocs.com  
    Title: doctoring villas boas and aliens on ice  
-   Link: [https://www.thinkaboutitdocs.com/doctoring-villas-boas-and-aliens-on-ice/](https://www.thinkaboutitdocs.com/doctoring-villas-boas-and-aliens-on-ice/)  
+   Link: <a href="https://www.thinkaboutitdocs.com/doctoring-villas-boas-and-aliens-on-ice/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/doctoring-villas-boas-and-aliens-on-ice/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Olavo Fontes &amp; Brazil&#x27;s Aliens on IceOctober 18, 2012 1957: DOCTORING VILLAS BOAS AND ALIENS ON ICE ARTICLE...</p></details>
    Published: October 18, 2012  
 
 12. <a id="endnote-12"></a>
    Source: strangestrangestrange.com  
    Title: The Ubatuba Incident  
-   Link: [https://strangestrangestrange.com/paranormal/ufo/the-ubatuba-incident-a-ufo-exploded-in-1957/](https://strangestrangestrange.com/paranormal/ufo/the-ubatuba-incident-a-ufo-exploded-in-1957/)  
+   Link: <a href="https://strangestrangestrange.com/paranormal/ufo/the-ubatuba-incident-a-ufo-exploded-in-1957/" target="_blank" rel="noopener noreferrer nofollow">https://strangestrangestrange.com/paranormal/ufo/the-ubatuba-incident-a-ufo-exploded-in-1957/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Strange StrangeOctober 4, 2021 THE ARRIVAL OF THE MILITARY IN UBATUBA IN 1957 What studies about the Ubatuba Incident have not...</p></details>
    Published: October 4, 2021  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: SOLDADOS SO HOSPITALIZADOS DEPOIS DE AVISTAR OVNI EM PRAIA GRANDE  
-   Link: [https://www.youtube.com/watch?v=7Zr_-AQFeJo](https://www.youtube.com/watch?v=7Zr_-AQFeJo)  
+   Link: <a href="https://www.youtube.com/watch?v=7Zr_-AQFeJo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7Zr_-AQFeJo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6 GACosM - Sistema Astros II - Fortaleza de Itaipu - Praia Grande/SP...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sampi.net.br  
    Title: O resgate de uma verdade ftica  
-   Link: [https://sampi.net.br/bauru/noticias/2568240/tribuna_do_leitor/2005/06/o-resgate-de-uma-verdade-fatica](https://sampi.net.br/bauru/noticias/2568240/tribuna_do_leitor/2005/06/o-resgate-de-uma-verdade-fatica)  
+   Link: <a href="https://sampi.net.br/bauru/noticias/2568240/tribuna_do_leitor/2005/06/o-resgate-de-uma-verdade-fatica" target="_blank" rel="noopener noreferrer nofollow">https://sampi.net.br/bauru/noticias/2568240/tribuna_do_leitor/2005/06/o-resgate-de-uma-verdade-fatica</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Praia Grande (SP). Forte Itaipu, 5. Grupo de Artilharia de Costa. Lua eclipsada por densas nuvens. Duas...</p></details>

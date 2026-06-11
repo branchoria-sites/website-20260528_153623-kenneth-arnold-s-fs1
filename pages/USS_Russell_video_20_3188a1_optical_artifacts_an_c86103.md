@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /uss-russell-video-2019/
 nav_short_title: Optical Effects
 title: How Night Vision and Camera Artifacts Created Pyramid Shapes
-title_full: How Night Vision and Camera Artifacts Created Pyramid Shapes | USS Russell
+title_full: How Night Vision and Camera Artifacts Created Pyramid Shapes
 display_title_short: Optical Effects
 display_title: Optical Effects
 heading_title: How Night Vision and Camera Artifacts Created Pyramid Shapes
@@ -233,7 +233,7 @@ prev_link:
   permalink: /event-chronology/
   short_title: Event Chronology
   heading_title: Timeline and Official Records of USS Russell Drone Encounters
-date: '2026-06-08 23:43:02 '
+date: '2026-06-11 13:26:33 '
 header:
   og_image: /assets/images/USS_Russell_video_20_3188a1_optical_artifacts_an_c86103-Illustration-1-social.jpg
   preview_image: /assets/images/USS_Russell_video_20_3188a1_optical_artifacts_an_c86103-Illustration-1.webp
@@ -244,7 +244,6 @@ image: /assets/images/USS_Russell_video_20_3188a1_optical_artifacts_an_c86103-Il
 
 A striking aspect of the 2019 *USS Russell* naval UAP video was the appearance of one object as a sharply defined triangle or pyramid of light when viewed through nightvision and recorded on a camera. That visual impression was widely shared online, but **official and technical analysis indicates that the triangular form was not the actual physical shape of an object in the sky** instead it was an *optical and imaging artefact* arising from the interaction between nightvision goggles and the camera system used to record them. The key question for this subtopic is **how camera optics, sensor effects and nightvision technology combined to create the iconic pyramid impression**, and what mechanisms are most plausible for that visual outcome.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
-
 <img src="{{ "/assets/images/USS_Russell_video_20_3188a1_optical_artifacts_an_c86103-Illustration-1-dark.svg" | relative_url }}" alt="Optical Effects illustration 1" data-theme-src-dark="{{ "/assets/images/USS_Russell_video_20_3188a1_optical_artifacts_an_c86103-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Russell_video_20_3188a1_optical_artifacts_an_c86103-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## NightVision Coupled with Camera Recording
 
@@ -253,7 +252,6 @@ The video that became known as the pyramid UAP was captured at night by sailors 
 Nightvision optics intensify very low levels of light so that human eyes can perceive objects in darkness. However, when a bright point of light (such as a distant light on a drone or aircraft) is viewed through nightvision and then filmed through another lens system, the result can be *geometric distortions or artefacts* that do not reflect an objects actual shape. These distortions arise because light interacts with the optics and the sensor in multiple ways before it becomes a video frame.
 
 In the subsequent 2022 U.S. House of Representatives hearing on unidentified aerial phenomena, Deputy Director of Naval Intelligence Scott Bray stated that **the triangular appearance resulted specifically from light passing through nightvision goggles and being recorded by an SLR camera** not from an inherently triangular craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-house-intel-uap-hearing-2022-hhrg-117-ig05-transcript-20220517" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">decade 2020s house intel uap hearing 2022 hhrg 117 ig05 transcript 20220517</span><span class="citation-popover-snippet">UFO TransparencyFirst Open Congressional UAP Hearing, May 2022, U.S. House of Representatives Permanent Select Committee on Intelligence...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JgXQyYzXvGc" title="Jeremy Corbell, Ross Coulthart &amp; Bryce Zabel: Full interview | UFO UAP News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JgXQyYzXvGc" target="_blank" rel="noopener noreferrer">Jeremy Corbell, Ross Coulthart &amp; Bryce Zabel: Full interview | UFO UAP News</a></p><p class="youtube-embed-meta">Channel: 7 News Spotlight &middot; Views: 1.3M &middot; Uploaded: February 2024 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JgXQyYzXvGc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JgXQyYzXvGc">Open on YouTube</a></p></div></div></div>
 
@@ -265,12 +263,10 @@ Nightvision goggles and optical sensor systems do not use typical photographic d
 
 Skeptical analyses of the released footage note that such artefacts can be reproduced by outoffocus lights filmed through lenses with noncircular apertures. While the specific military nightvision optics system used in this case has not been fully documented publicly, the principle holds that **lens and aperture geometry strongly influences the shape of rendered highlights**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2022/08/great-expectations-house-hearing-on-uap-excites-fans-offers-little-else/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/USS_Russell_video_20_3188a1_optical_artifacts_an_c86103-Illustration-2-dark.svg" | relative_url }}" alt="Optical Effects illustration 2" data-theme-src-dark="{{ "/assets/images/USS_Russell_video_20_3188a1_optical_artifacts_an_c86103-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Russell_video_20_3188a1_optical_artifacts_an_c86103-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sensor and NightVision Image Artefacts
 
 Beyond bokeh, other optical factors can contribute to unusual shapes in nightvision footage:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -282,19 +278,17 @@ Beyond bokeh, other optical factors can contribute to unusual shapes in nightvis
 
 These effects are wellunderstood in optical engineering and are documented in civilian and military imaging contexts. While detailed technical disclosures for the *Russell* footage still remain limited, analysts outside government commentary have repeatedly suggested that such sensorbased artefacts are far more plausible than an actual pyramidshaped craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2022/08/great-expectations-house-hearing-on-uap-excites-fans-offers-little-else/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7pyEZbwOqS0" title="Strange-Shaped UFOs Spotted Around the World | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7pyEZbwOqS0" target="_blank" rel="noopener noreferrer">Strange-Shaped UFOs Spotted Around the World | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 81.2K &middot; Uploaded: August 2025 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7pyEZbwOqS0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7pyEZbwOqS0">Open on YouTube</a></p></div></div></div>
 
 ## Drone Light Sources and Misinterpretation
 
-Another critical part of the optical explanation is that **distant aircraft or unmanned aerial system (UAS) lights**, when filtered through nightvision equipment and then rephotographed, can appear as simple *points of light* that, due to the imaging system, are painted as distinct shapes. In the *Russell* case, subsequent analysis by defense officials connected the triangular video to situations where **unmanned aerial systems were observed nearby**, strengthening the interpretation that the videos lights corresponded to conventional aircraft or drones not physically triangular vehicles and that the appearance was a consequence of imaging distortion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aip.org/fyi/dod-promises-rigor-in-analyzing-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aip.org">[AIP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aip.org</span><span class="citation-popover-title">DOD Promises Rigor in Analyzing Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">AIPDOD Promises Rigor in Analyzing Unidentified Aerial Phenomena - AIP.ORGMay 23, 2022...</span><span class="citation-popover-meta">Published: May 23, 2022</span></span></span>
+Another critical part of the optical explanation is that **distant aircraft or unmanned aerial system (UAS) lights**, when filtered through nightvision equipment and then rephotographed, can appear as simple *points of light* that, due to the imaging system, are painted as distinct shapes. In the *Russell* case, subsequent analysis by defense officials connected the triangular video to situations where **unmanned aerial systems were observed nearby**, strengthening the interpretation that the videos lights corresponded to conventional aircraft or drones not physically triangular vehicles and that the appearance was a consequence of imaging distortion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aip.org/fyi/dod-promises-rigor-in-analyzing-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aip.org">[AIP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aip.org</span><span class="citation-popover-title">DOD Promises Rigor in Analyzing Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">DOD Promises Rigor in Analyzing Unidentified Aerial Phenomena - AIP.ORGMay 23, 2022...</span><span class="citation-popover-meta">Published: May 23, 2022</span></span></span>
 
 ## Comparison with Other UAS Footage and Optical Illusions
 
 The *pyramid* appearance in the *USS Russell* video resembles familiar photographic illusions rather than suggesting an exotic craft. In civilian night photography and videography, point lights filmed out of focus often take on the shape of the lenss aperture, giving rise to *hexagonal, triangular, or other polygonal bokeh shapes*. In controlled settings, photographers routinely see such shapes when focusing just in front of or behind distant streetlights, stars, or other light points. In the *Russell* video, repeating triangular points of light that remain fixed in size and shape across the sequence are consistent with a *static optical artefact* rather than a dynamic triangular object in the sky.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
-Evidence from public records and official testimony suggests that what the crew recorded were **lights associated with drones or conventional aircraft**, which only *appear* triangular or pyramidlike due to the combined optical effects of nightvision intensification, camera aperture functions, and sensor recording artefacts. That combination can produce highly memorable but misleading shapes in the final video frames.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aip.org/fyi/dod-promises-rigor-in-analyzing-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aip.org">[AIP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aip.org</span><span class="citation-popover-title">DOD Promises Rigor in Analyzing Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">AIPDOD Promises Rigor in Analyzing Unidentified Aerial Phenomena - AIP.ORGMay 23, 2022...</span><span class="citation-popover-meta">Published: May 23, 2022</span></span></span>
-
+Evidence from public records and official testimony suggests that what the crew recorded were **lights associated with drones or conventional aircraft**, which only *appear* triangular or pyramidlike due to the combined optical effects of nightvision intensification, camera aperture functions, and sensor recording artefacts. That combination can produce highly memorable but misleading shapes in the final video frames.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aip.org/fyi/dod-promises-rigor-in-analyzing-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aip.org">[AIP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aip.org</span><span class="citation-popover-title">DOD Promises Rigor in Analyzing Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">DOD Promises Rigor in Analyzing Unidentified Aerial Phenomena - AIP.ORGMay 23, 2022...</span><span class="citation-popover-meta">Published: May 23, 2022</span></span></span>
 
 <img src="{{ "/assets/images/USS_Russell_video_20_3188a1_optical_artifacts_an_c86103-Illustration-3-dark.svg" | relative_url }}" alt="Optical Effects illustration 3" data-theme-src-dark="{{ "/assets/images/USS_Russell_video_20_3188a1_optical_artifacts_an_c86103-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Russell_video_20_3188a1_optical_artifacts_an_c86103-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Implications for Interpretation of the Footage
@@ -306,49 +300,89 @@ Understanding the optical and camera factors here has two key implications for h
 
 By anchoring the pyramid shape to known optical phenomena bokeh, aperture influence, sensor effects the most parsimonious explanation for the footages striking triangle form lies in imaging physics, not in the description of a novel aerial vehicle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/decade-2020s-house-intel-uap-hearing-2022-hhrg-117-ig05-transcript-20220517" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">decade 2020s house intel uap hearing 2022 hhrg 117 ig05 transcript 20220517</span><span class="citation-popover-snippet">UFO TransparencyFirst Open Congressional UAP Hearing, May 2022, U.S. House of Representatives Permanent Select Committee on Intelligence...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lsMomLDKIz4" title="Interview: Mick West, Identifying UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lsMomLDKIz4" target="_blank" rel="noopener noreferrer">Interview: Mick West, Identifying UFOs</a></p><p class="youtube-embed-meta">Channel: Fraser Cain &middot; Views: 27.4K &middot; Uploaded: April 2021 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lsMomLDKIz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lsMomLDKIz4">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Night Vision and Camera Artifacts Created Pyramid Shapes, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Night Vision and Camera Artifacts Created Pyramid Shapes. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UAP hearing guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+hearing+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Principles+of+Optics+by+Max+Born&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Principles of Optics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nUHGpfNsGyUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Principles of Optics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Principles+of+Optics+by+Max+Born&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Principles of Optics">Principles of Optics</a>
+        </h4>
+        <p class="fr-book-author">By Max Born, Emil Wolf et al.</p>
+        
+        <p class="fr-book-desc">Covers the fundamental physics of light, aperture diffraction, and lens aberrations that cause point-source lights to blur into geometric...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Principles+of+Optics+by+Max+Born&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Teaches readers how to spot cognitive bias, pareidolia, and mechanical/technological distortions that simulate extraordinary events.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP hearing books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+hearing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Introduction+to+Airborne+Radar+by+George+W.+Stimson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Introduction to Airborne Radar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8aq8ngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Introduction to Airborne Radar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Airborne+Radar+by+George+W.+Stimson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Airborne Radar">Introduction to Airborne Radar</a>
+        </h4>
+        <p class="fr-book-author">By George W. Stimson</p>
+        
+        <p class="fr-book-desc">Provides critical baseline information on military-grade sensor systems, optical tracking anomalies, and infrared imaging limitations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Introduction+to+Airborne+Radar+by+George+W.+Stimson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Movie EVERYONE Is Hillbillying About on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Movie EVERYONE Is Hillbillying About">The UFO Movie EVERYONE Is Hillbillying About</a>
+        </h4>
+        <p class="fr-book-author">By Mick West</p>
+        
+        <p class="fr-book-desc">The book details the exact scientific, optical, and camera artifact principles used to explain why military night-vision cameras create t...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Principles+of+Optics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Principles of Optics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Airborne+Radar+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Airborne Radar books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -385,15 +419,15 @@ By anchoring the pyramid shape to known optical phenomena bokeh, aperture influe
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Night Vision Binoculars Monocular Hunting Goggles Digital NV Camera Security/DVR"><img src="https://i.ebayimg.com/images/g/tmwAAOSwittoLG8A/s-l225.jpg" alt="Listing image for Night Vision Binoculars Monocular Hunting Goggles Digital NV Camera Security/DVR" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer">Night Vision Binoculars Monocular Hunting Goggles Digital NV Camera Security/DVR</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night vision monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: night vision monocular</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -401,15 +435,15 @@ By anchoring the pyramid shape to known optical phenomena bokeh, aperture influe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Solomark NV100 Digital Night Vision Monocular"><img src="https://i.ebayimg.com/images/g/XtwAAeSwGjRp71lO/s-l225.jpg" alt="Listing image for Solomark NV100 Digital Night Vision Monocular" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer">Solomark NV100 Digital Night Vision Monocular</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night vision monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: night vision monocular</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -417,15 +451,15 @@ By anchoring the pyramid shape to known optical phenomena bokeh, aperture influe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bresser Night Spy Mono Night Vision Monocular Night Vision Scope Infared Working"><img src="https://i.ebayimg.com/images/g/QgsAAeSwLxhqG~IX/s-l225.jpg" alt="Listing image for Bresser Night Spy Mono Night Vision Monocular Night Vision Scope Infared Working" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer">Bresser Night Spy Mono Night Vision Monocular Night Vision Scope Infared Working</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night vision monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: night vision monocular</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -433,15 +467,15 @@ By anchoring the pyramid shape to known optical phenomena bokeh, aperture influe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sightmark SM18021 Digital Night Vision Monocular with IR Illuminator"><img src="https://i.ebayimg.com/images/g/U68AAeSwgkRqKGbx/s-l225.jpg" alt="Listing image for Sightmark SM18021 Digital Night Vision Monocular with IR Illuminator" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer">Sightmark SM18021 Digital Night Vision Monocular with IR Illuminator</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for night vision monocular">Search <span data-ebay-domain-label>eBay.co.uk</span>: night vision monocular</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -449,7 +483,7 @@ By anchoring the pyramid shape to known optical phenomena bokeh, aperture influe
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="optical-effects-how-night-vision-and-camera-artifacts-created-pyramid-shapes-uss-russell-video-2-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=night+vision+monocular&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night vision monocular" data-ebay-reference="how-night-vision-and-camera-artifacts-created-pyramid-shapes-night-vision-monocular" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -665,29 +699,29 @@ By anchoring the pyramid shape to known optical phenomena bokeh, aperture influe
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
 2. <a id="endnote-2"></a>
    Source: aip.org  
    Title: DOD Promises Rigor in Analyzing Unidentified Aerial Phenomena  
-   Link: [https://www.aip.org/fyi/dod-promises-rigor-in-analyzing-unidentified-aerial-phenomena](https://www.aip.org/fyi/dod-promises-rigor-in-analyzing-unidentified-aerial-phenomena)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AIPDOD Promises Rigor in Analyzing Unidentified Aerial Phenomena - AIP.ORGMay 23, 2022...</p></details>
+   Link: <a href="https://www.aip.org/fyi/dod-promises-rigor-in-analyzing-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.aip.org/fyi/dod-promises-rigor-in-analyzing-unidentified-aerial-phenomena</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Promises Rigor in Analyzing Unidentified Aerial Phenomena - AIP.ORGMay 23, 2022...</p></details>
    Published: May 23, 2022  
 
 3. <a id="endnote-3"></a>
    Source: military.com  
-   Link: [https://www.military.com/daily-news/2022/05/17/congress-first-military-ufo-hearing-50-years-deflates-speculation-alien-spacecraft.html](https://www.military.com/daily-news/2022/05/17/congress-first-military-ufo-hearing-50-years-deflates-speculation-alien-spacecraft.html)  
+   Link: <a href="https://www.military.com/daily-news/2022/05/17/congress-first-military-ufo-hearing-50-years-deflates-speculation-alien-spacecraft.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2022/05/17/congress-first-military-ufo-hearing-50-years-deflates-speculation-alien-spacecraft.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 17, 2022 CONGRESS&#x27; FIRST MILITARY UFO HEARING IN 50 YEARS DEFLATES SPECULATION ON ALIEN SPACECRAFT Image Deputy Director of Naval I...</p></details>
    Published: May 17, 2022  
 
 4. <a id="endnote-4"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2022/08/great-expectations-house-hearing-on-uap-excites-fans-offers-little-else/](https://skepticalinquirer.org/2022/08/great-expectations-house-hearing-on-uap-excites-fans-offers-little-else/)  
+   Link: <a href="https://skepticalinquirer.org/2022/08/great-expectations-house-hearing-on-uap-excites-fans-offers-little-else/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2022/08/great-expectations-house-hearing-on-uap-excites-fans-offers-little-else/</a>  
 
 5. <a id="endnote-5"></a>
    Source: ufotransparency.com  
    Title: decade 2020s house intel uap hearing 2022 hhrg 117 ig05 transcript 20220517  
-   Link: [https://ufotransparency.com/files/decade-2020s-house-intel-uap-hearing-2022-hhrg-117-ig05-transcript-20220517](https://ufotransparency.com/files/decade-2020s-house-intel-uap-hearing-2022-hhrg-117-ig05-transcript-20220517)  
+   Link: <a href="https://ufotransparency.com/files/decade-2020s-house-intel-uap-hearing-2022-hhrg-117-ig05-transcript-20220517" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-house-intel-uap-hearing-2022-hhrg-117-ig05-transcript-20220517</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyFirst Open Congressional UAP Hearing, May 2022, U.S. House of Representatives Permanent Select Committee on Intelligence...</p></details>
    Published: May 2022  
 
@@ -695,65 +729,65 @@ By anchoring the pyramid shape to known optical phenomena bokeh, aperture influe
 
 6. <a id="endnote-6"></a>
    Source: wnd.com  
-   Link: [https://www.wnd.com/2022/05/navy-intelligence-official-explains-bizarre-ufo-sightings-historic-hearing/](https://www.wnd.com/2022/05/navy-intelligence-official-explains-bizarre-ufo-sightings-historic-hearing/)  
+   Link: <a href="https://www.wnd.com/2022/05/navy-intelligence-official-explains-bizarre-ufo-sightings-historic-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.wnd.com/2022/05/navy-intelligence-official-explains-bizarre-ufo-sightings-historic-hearing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Intelligence official explains bizarre UFO sightings in historic hearing * WorldNetDaily * by Around the WebMay 17, 2022 NAVY INTE...</p></details>
    Published: May 17, 2022  
 
 7. <a id="endnote-7"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/ufo-hearing-metallic-hypersonic-flying-object](https://www.livescience.com/ufo-hearing-metallic-hypersonic-flying-object)  
+   Link: <a href="https://www.livescience.com/ufo-hearing-metallic-hypersonic-flying-object" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/ufo-hearing-metallic-hypersonic-flying-object</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 17, 2022 What to read next * Rare &#x27;daytime fireball&#x27; meteor creates powerful sonic boom as 7-ton space rock explodes above eastern...</p></details>
    Published: May 17, 2022  
 
 8. <a id="endnote-8"></a>
    Source: oliberal.com  
-   Link: [https://www.oliberal.com/mundo/video-com-ovnis-em-formato-de-piramide-e-verdadeiro-afirma-pentagono-1.374915](https://www.oliberal.com/mundo/video-com-ovnis-em-formato-de-piramide-e-verdadeiro-afirma-pentagono-1.374915)  
+   Link: <a href="https://www.oliberal.com/mundo/video-com-ovnis-em-formato-de-piramide-e-verdadeiro-afirma-pentagono-1.374915" target="_blank" rel="noopener noreferrer nofollow">https://www.oliberal.com/mundo/video-com-ovnis-em-formato-de-piramide-e-verdadeiro-afirma-pentagono-1.374915</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 13, 2021 VDEO COM OVNIS EM FORMATO DE PIRMIDE VERDADEIRO, AFIRMA PENTGONO Gravado em 2019, o vdeo mostra ovnis (objetos voa...</p></details>
    Published: April 13, 2021  
 
 9. <a id="endnote-9"></a>
    Source: vistaalmar.es  
-   Link: [https://www.vistaalmar.es/recursos/fotografia-video/10046-pentagono-confirma-autentico-video-ovni-forma-piramide.html](https://www.vistaalmar.es/recursos/fotografia-video/10046-pentagono-confirma-autentico-video-ovni-forma-piramide.html)  
+   Link: <a href="https://www.vistaalmar.es/recursos/fotografia-video/10046-pentagono-confirma-autentico-video-ovni-forma-piramide.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vistaalmar.es/recursos/fotografia-video/10046-pentagono-confirma-autentico-video-ovni-forma-piramide.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vista al MarApril 14, 2021 EL PENTGONO CONFIRMA QUE ES AUTNTICO EL VDEO DE UN OVNI &#x27;EN FORMA DE PIRMIDE&#x27; Vista al Mar Categora: Fo...</p></details>
    Published: April 14, 2021  
 
 10. <a id="endnote-10"></a>
    Source: sciencealert.com  
-   Link: [https://www.sciencealert.com/pentagon-confirms-pyramid-shaped-ufo-video-footage-is-authentic](https://www.sciencealert.com/pentagon-confirms-pyramid-shaped-ufo-video-footage-is-authentic)  
+   Link: <a href="https://www.sciencealert.com/pentagon-confirms-pyramid-shaped-ufo-video-footage-is-authentic" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencealert.com/pentagon-confirms-pyramid-shaped-ufo-video-footage-is-authentic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Confirms &#x27;Pyramid-Shaped&#x27; UFO Video Footage Is Authentic: ScienceAlertApril 14, 2021 PENTAGON CONFIRMS &#x27;PYRAMID-SHAPED&#x27; UFO V...</p></details>
    Published: April 14, 2021  
 
 11. <a id="endnote-11"></a>
    Source: thisamericanlife.org  
    Title: DAVID KESTENBAUM UFOs, by the way, have now been rebranded UAPs, Unidentified  
-   Link: [https://www.thisamericanlife.org/780/transcript](https://www.thisamericanlife.org/780/transcript)  
+   Link: <a href="https://www.thisamericanlife.org/780/transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.thisamericanlife.org/780/transcript</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>780: Setting the Record Straight - This American LifeSeptember 30, 2022 SCOTT BRAY --subject matter experts from a wide variety of fiel...</p></details>
    Published: September 30, 2022  
 
 12. <a id="endnote-12"></a>
    Source: theblaze.com  
    Title: Pentagon confirms leaked video of 'pyramid-shaped' UFO is real | Blaze Media  
-   Link: [https://www.theblaze.com/news/leaked-ufo-video-pentagon-real](https://www.theblaze.com/news/leaked-ufo-video-pentagon-real)  
+   Link: <a href="https://www.theblaze.com/news/leaked-ufo-video-pentagon-real" target="_blank" rel="noopener noreferrer nofollow">https://www.theblaze.com/news/leaked-ufo-video-pentagon-real</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 16, 2021 Image: Pentagon confirms leaked video of &#x27;pyramid-shaped&#x27; UFO is real YouTube Jeremy Corbell video screenshot ufos PENTA...</p></details>
    Published: April 16, 2021  
 
 13. <a id="endnote-13"></a>
    Source: bigworldtale.com  
    Title: Leaked UFO video showing 'flying pyramids' buzzing US Navy ship is 'genuine'  
-   Link: [https://bigworldtale.com/science/leaked-ufo-video-showing-flying-pyramids-buzzing-us-navy-ship-is-genuine/](https://bigworldtale.com/science/leaked-ufo-video-showing-flying-pyramids-buzzing-us-navy-ship-is-genuine/)  
+   Link: <a href="https://bigworldtale.com/science/leaked-ufo-video-showing-flying-pyramids-buzzing-us-navy-ship-is-genuine/" target="_blank" rel="noopener noreferrer nofollow">https://bigworldtale.com/science/leaked-ufo-video-showing-flying-pyramids-buzzing-us-navy-ship-is-genuine/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Big World TaleApril 12, 2021 LEAKED UFO VIDEO SHOWING FLYING PYRAMIDS BUZZING US NAVY SHIP IS GENUINE April 12, 2021 Video showing...</p></details>
    Published: April 12, 2021  
 
 14. <a id="endnote-14"></a>
    Source: techeblog.com  
    Title: U S Navy Acknowledges Pyramid-Shaped UFO Captured with Night Vision Camera  
-   Link: [https://www.techeblog.com/us-navy-pyramid-ufo/](https://www.techeblog.com/us-navy-pyramid-ufo/)  
+   Link: <a href="https://www.techeblog.com/us-navy-pyramid-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.techeblog.com/us-navy-pyramid-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Navy Acknowledges Pyramid-Shaped UFO Captured with Night Vision Camera - TechEBlogApril 14, 2021 US NAVY ACKNOWLEDGES PYRAMID-SHAPED...</p></details>
    Published: April 14, 2021  
 
 15. <a id="endnote-15"></a>
    Source: conspiracydata.com  
    Title: Navy destroyer, encountered what appeared to be  
-   Link: [https://conspiracydata.com/ufo-uap-uso/the-pyramid-uap-filmed-by-the-uss-russell/](https://conspiracydata.com/ufo-uap-uso/the-pyramid-uap-filmed-by-the-uss-russell/)  
+   Link: <a href="https://conspiracydata.com/ufo-uap-uso/the-pyramid-uap-filmed-by-the-uss-russell/" target="_blank" rel="noopener noreferrer nofollow">https://conspiracydata.com/ufo-uap-uso/the-pyramid-uap-filmed-by-the-uss-russell/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pyramid UAP Filmed by the USS Russell Conspiracy DataFebruary 14, 2025 THE PYRAMID UAP FILMED BY THE USS RUSSELL AN UNEXPLAINED E...</p></details>
-   Published: February 14, 2025  
+   Published: February 14, 2025

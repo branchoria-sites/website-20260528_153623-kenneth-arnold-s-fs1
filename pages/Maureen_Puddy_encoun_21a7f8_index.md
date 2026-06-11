@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /maureen-puddy-encoun-21a7f8-index/
 description: Focused pages that expand on Maureen Puddy encounter 1973.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Maureen_Puddy_encoun_21a7f8
 parent_title: Maureen Puddy encounter 1973

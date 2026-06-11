@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /trans-en-provence-encounter-1981/
 nav_short_title: The Traces
 title: Did the Physical Traces Prove Anything?
-title_full: Did the Physical Traces Prove Anything? | Trans en Provence
+title_full: Did the Physical Traces Prove Anything?
 display_title_short: The Traces
 display_title: The Traces
 heading_title: Did the Physical Traces Prove Anything?
@@ -239,7 +239,7 @@ next_link:
   permalink: /the-witness-bb3f71/
   short_title: The Witness
   heading_title: How Strong Was Nicolai's Testimony?
-date: '2026-06-08 23:32:18 '
+date: '2026-06-11 13:19:43 '
 header:
   og_image: /assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-1-social.jpg
   preview_image: /assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-1.webp
@@ -248,8 +248,7 @@ image: /assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Il
 
 ## Introduction
 
-The Trans-en-Provence encounter became famous less because of the reported object itself than because investigators claimed to find measurable physical traces afterwards. In January 1981, French gendarmes photographed a circular ground mark, collected soil samples and took alfalfa plants for laboratory analysis within roughly a day of the reported event. GEPAN, the French government UFO study group operating under CNES, later argued that the site showed signs of compression, heating and abnormal plant stress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[2cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">missions methodes et resultats</span><span class="citation-popover-snippet">Mission &amp; Geipan | GEIPAN... 1981 Trans-En-Provence case (a person witnessing a saucer landing and taking off from the edge of his garden...</span></span></span>
-
+The Trans-en-Provence encounter became famous less because of the reported object itself than because investigators claimed to find measurable physical traces afterwards. In January 1981, French gendarmes photographed a circular ground mark, collected soil samples and took alfalfa plants for laboratory analysis within roughly a day of the reported event. GEPAN, the French government UFO study group operating under CNES, later argued that the site showed signs of compression, heating and abnormal plant stress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[2cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">missions methodes et resultats</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN... 1981 Trans-En-Provence case (a person witnessing a saucer landing and taking off from the edge of his garden...</span></span></span>
 
 <img src="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-1-dark.svg" | relative_url }}" alt="The Traces illustration 1" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Those findings gave the case unusual status in UFO history because they appeared to move beyond testimony into laboratory evidence. Yet the central question has never been fully resolved: did the traces demonstrate the landing of an unknown craft, or only that something physically disturbed the site? The distinction matters. The Trans-en-Provence file is strongest as a documented trace case, but much weaker as proof of an extraordinary mechanism.
@@ -260,14 +259,13 @@ The physical mark described after the incident was not a dramatic crater or scor
 
 According to summaries of the GEPAN investigation, laboratory analysis suggested several noteworthy features:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * apparent mechanical compression of the soil;
 * surface hardening or crusting;
 * traces interpreted as friction or scraping;
 * possible moderate heating;
-* elevated traces of compounds including phosphate and zinc. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thegalacticmind.com/case-file-trans-en-provence-landing-trace-1981-france/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thegalacticmind.com">[The Galactic Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thegalacticmind.com</span><span class="citation-popover-title">Read the timeline, lab findings, critiques, and testable</span><span class="citation-popover-snippet">The Galactic MindCase File: Trans-en-Provence UFO Landing Trace 1981 | The...France&#x27;s 1981 Trans-en-Provence case left soil and plant an...</span></span></span>
+* elevated traces of compounds including phosphate and zinc. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thegalacticmind.com/case-file-trans-en-provence-landing-trace-1981-france/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thegalacticmind.com">[The Galactic Mind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thegalacticmind.com</span><span class="citation-popover-title">Read the timeline, lab findings, critiques, and testable</span><span class="citation-popover-snippet">The Galactic MindCase File: Trans-en-Provence UFO Landing Trace 1981 &#124; The...France&#x27;s 1981 Trans-en-Provence case left soil and plant an...</span></span></span>
 
 </div>
 
@@ -291,7 +289,6 @@ In UFO research, this mattered because it suggested a measurable environmental i
 
 Yet even here, the findings did not establish a unique mechanism. Plant stress responses are biologically broad. Chlorophyll reduction and metabolic disruption can occur from many causes:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * mechanical crushing;
@@ -312,7 +309,6 @@ An additional difficulty is reproducibility. The Trans-en-Provence samples repre
 
 Despite the limitations, the case did possess qualities rarely available in UFO reports.
 
-
 <img src="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-2-dark.svg" | relative_url }}" alt="The Traces illustration 2" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Rapid evidence collection
 
@@ -322,26 +318,24 @@ The gendarmerie visited quickly, photographed the site and secured samples befor
 
 The file combined several categories of data:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * eyewitness testimony;
-* physical ground traces; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">missions methodes et resultats</span><span class="citation-popover-snippet">Mission &amp; Geipan | GEIPAN... 1981 Trans-En-Provence case (a person witnessing a saucer landing and taking off from the edge of his garden...</span></span></span>
+* physical ground traces; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">missions methodes et resultats</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN... 1981 Trans-En-Provence case (a person witnessing a saucer landing and taking off from the edge of his garden...</span></span></span>
 * soil chemistry;
 * plant biology;
 * photographic documentation;
-* meteorological checks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">missions methodes et resultats</span><span class="citation-popover-snippet">Mission &amp; Geipan | GEIPAN... 1981 Trans-En-Provence case (a person witnessing a saucer landing and taking off from the edge of his garden...</span></span></span>
+* meteorological checks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">missions methodes et resultats</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN... 1981 Trans-En-Provence case (a person witnessing a saucer landing and taking off from the edge of his garden...</span></span></span>
 
 </div>
 
 That layering helped the case survive for decades in UFO literature. Even sceptics often acknowledge that it was investigated more seriously than most sightings.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HslixQUxOfc" title="&quot;Unlocking the Mystery: The Trans-en-Provence UFO Case Explained! 🚀🛸&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HslixQUxOfc" target="_blank" rel="noopener noreferrer">&quot;Unlocking the Mystery: The Trans-en-Provence UFO Case Explained! 🚀🛸&quot;</a></p><p class="youtube-embed-meta">Channel: Zyloio &middot; Views: 2 &middot; Uploaded: May 2026 &middot; Length: 1 minute 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HslixQUxOfc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HslixQUxOfc">Open on YouTube</a></p></div></div></div>
 
 ### Official institutional involvement
 
-Because GEPAN operated under CNES, the French national space agency, the investigation carried institutional weight unusual in UFO studies. The case became an example frequently cited by proponents of official UAP research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">missions methodes et resultats</span><span class="citation-popover-snippet">Mission &amp; Geipan | GEIPAN... 1981 Trans-En-Provence case (a person witnessing a saucer landing and taking off from the edge of his garden...</span></span></span>
+Because GEPAN operated under CNES, the French national space agency, the investigation carried institutional weight unusual in UFO studies. The case became an example frequently cited by proponents of official UAP research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-title">missions methodes et resultats</span><span class="citation-popover-snippet">Mission &amp; Geipan &#124; GEIPAN... 1981 Trans-En-Provence case (a person witnessing a saucer landing and taking off from the edge of his garden...</span></span></span>
 
 Still, institutional attention is not the same thing as scientific resolution. GEPAN concluded that the traces were unusual and difficult to explain, not that extraterrestrial technology had been identified.
 
@@ -361,14 +355,12 @@ This is why sceptical writers focused heavily on mundane alternatives. Vehicle t
 
 Importantly, sceptics did not necessarily have to prove a complete alternative reconstruction. Their narrower argument was that the evidence failed to eliminate ordinary causes with sufficient rigour.
 
-
 <img src="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-3-dark.svg" | relative_url }}" alt="The Traces illustration 3" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97_physical_trace_evide_7d9b0d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Traces Actually Prove
 
 The Trans-en-Provence traces remain important because they show how a UFO case can move from anecdote into partially testable evidence without reaching a definitive conclusion.
 
 The strongest defensible claims are relatively modest:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -386,44 +378,86 @@ In practice, the case occupies an uncomfortable middle ground. It is stronger th
 That unresolved tension is exactly why Trans-en-Provence still appears in discussions of physical-trace UFO cases decades later. The traces were real enough to investigate seriously, but not decisive enough to settle what happened.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Did the Physical Traces Prove Anything?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Did the Physical Traces Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Trans en Provence guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Trans+en+Provence+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Trans-en-Provence trace evidence details, including ground marks, soil chemistry, and the official GEPAN report.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Physical Trace guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Physical+Trace+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches investigative methodology to differentiate between anomalous markers and natural biological decay.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Soil Compaction guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Soil+Compaction+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Addresses why physical evidence, while profound, requires rigorous independent validation to survive forensic scrutiny.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides institutional background on how trace evidence reports were handled by the GEPAN agency.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sister States, Enemy States</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -460,15 +494,15 @@ That unresolved tension is exactly why Trans-en-Provence still appears in discus
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Landing in Alien Landscape Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/5faf84c513ea093cf668.jpg' | relative_url }}" alt="Listing image for UFO Landing in Alien Landscape Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">UFO Landing in Alien Landscape Poster 18x24in</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -476,15 +510,15 @@ That unresolved tension is exactly why Trans-en-Provence still appears in discus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Crash Landing Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b8554f33035241ff529d.jpg' | relative_url }}" alt="Listing image for UFO Crash Landing Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Landing Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -492,15 +526,15 @@ That unresolved tension is exactly why Trans-en-Provence still appears in discus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Midnight Visitors Poster – UFO Landing Farm Documentary Print"><img src="{{ '/assets/images/marketplace-covers/97c9bd63f39f44eeb336.jpg' | relative_url }}" alt="Listing image for Midnight Visitors Poster – UFO Landing Farm Documentary Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">Midnight Visitors Poster – UFO Landing Farm Documentary Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +542,15 @@ That unresolved tension is exactly why Trans-en-Provence still appears in discus
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Landing in Desert Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/11bf148b0e2740369f0b.jpg' | relative_url }}" alt="Listing image for UFO Landing in Desert Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">UFO Landing in Desert Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo landing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo landing poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,7 +558,7 @@ That unresolved tension is exactly why Trans-en-Provence still appears in discus
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+landing+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo landing poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="the-traces-did-the-physical-traces-prove-anything-trans-en-provence-encounter-1981-ufo-landing-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -740,123 +774,123 @@ That unresolved tension is exactly why Trans-en-Provence still appears in discus
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Trans-en-Provence case  
-   Link: [https://en.wikipedia.org/wiki/Trans-en-Provence_case](https://en.wikipedia.org/wiki/Trans-en-Provence_case)  
+   Link: <a href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trans-en-Provence_case</a>  
 
 2. <a id="endnote-2"></a>
    Source: cnes-geipan.fr  
    Title: missions methodes et resultats  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mission &amp; Geipan | GEIPAN... 1981 Trans-En-Provence case (a person witnessing a saucer landing and taking off from the edge of his garden...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: calphysics.org  
-   Link: [https://calphysics.org/ufoskeptic.org/trans.html](https://calphysics.org/ufoskeptic.org/trans.html)  
+   Link: <a href="https://calphysics.org/ufoskeptic.org/trans.html" target="_blank" rel="noopener noreferrer nofollow">https://calphysics.org/ufoskeptic.org/trans.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Trans-en-Provence Case - UFO SkepticA celebrated physical evidence case occurred on January 8, 1981, in Trans-en-Provence, France...</p></details>
    Published: January 8, 1981  
 
 4. <a id="endnote-4"></a>
    Source: uapedia.ai  
-   Link: [https://uapedia.ai/wiki/geipan-frances-official-uap-unit/](https://uapedia.ai/wiki/geipan-frances-official-uap-unit/)  
+   Link: <a href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/geipan-frances-official-uap-unit/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPAN: France&#x27;s Official UAP UnitThe original technical notes reported soil compaction/heating and plant... A Canonical Case: Trans-en...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ufo-science.com  
-   Title: latterrissage de [trans en provence](&#123;&#123; 'trans-en-provence-encounter-1981/' | relative_url &#125;&#125;) 1981  
-   Link: [https://www.ufo-science.com/telechargement/video/latterrissage-de-trans-en-provence-1981/?lang=en](https://www.ufo-science.com/telechargement/video/latterrissage-de-trans-en-provence-1981/?lang=en)  
+   Title: latterrissage de trans en provence 1981  
+   Link: <a href="https://www.ufo-science.com/telechargement/video/latterrissage-de-trans-en-provence-1981/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://www.ufo-science.com/telechargement/video/latterrissage-de-trans-en-provence-1981/?lang=en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO-SCIENCE®The Trans-en-Provence landing case (1981) - ufo-scienceReport on the Trans-en-Provence case (direct witness + ground scar + p...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cosmoquest.org  
    Title: April 21st: The Trans-en-Provence UFO Case  
-   Link: [https://cosmoquest.org/x/365daysofastronomy/2011/04/21/april-21st-the-trans-en-provence-ufo-case/](https://cosmoquest.org/x/365daysofastronomy/2011/04/21/april-21st-the-trans-en-provence-ufo-case/)  
+   Link: <a href="https://cosmoquest.org/x/365daysofastronomy/2011/04/21/april-21st-the-trans-en-provence-ufo-case/" target="_blank" rel="noopener noreferrer nofollow">https://cosmoquest.org/x/365daysofastronomy/2011/04/21/april-21st-the-trans-en-provence-ufo-case/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Also the cops do their jobs, do the sampling and send them to the GEPAN for testing.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Transgender](https://en.wikipedia.org/wiki/Transgender)  
+   Link: <a href="https://en.wikipedia.org/wiki/Transgender" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Transgender</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TransgenderA transgender (often shortened to trans) person has a gender identity different from that typically associated with the sex...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectAnother occurred in January 1981 in Trans-en-Provence and was investigated by GEPAN, then France&#x27;s official...</p></details>
    Published: January 1981  
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=q9sQ2HCiSBE](https://www.youtube.com/watch?v=q9sQ2HCiSBE)  
+   Link: <a href="https://www.youtube.com/watch?v=q9sQ2HCiSBE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q9sQ2HCiSBE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trans-en-Provence Case...</p></details>
    Published: January 1981  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Trans-en-Provence Case  
-   Link: [https://www.youtube.com/watch?v=UuptR_x1tRU](https://www.youtube.com/watch?v=UuptR_x1tRU)  
+   Link: <a href="https://www.youtube.com/watch?v=UuptR_x1tRU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UuptR_x1tRU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlocking the Mystery: The Trans-en-Provence UFO Case Explained...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: thinkaboutitdocs.com  
    Title: trans en provence physical trace case  
-   Link: [https://www.thinkaboutitdocs.com/trans-en-provence-physical-trace-case/](https://www.thinkaboutitdocs.com/trans-en-provence-physical-trace-case/)  
+   Link: <a href="https://www.thinkaboutitdocs.com/trans-en-provence-physical-trace-case/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/trans-en-provence-physical-trace-case/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1981: Trans-en-Provence Physical Trace Case8 Apr 2013 — The gendarmes interviewed Nicolai and collected soil and plant...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: thegalacticmind.com  
    Title: Read the timeline, lab findings, critiques, and testable  
-   Link: [https://www.thegalacticmind.com/case-file-trans-en-provence-landing-trace-1981-france/](https://www.thegalacticmind.com/case-file-trans-en-provence-landing-trace-1981-france/)  
+   Link: <a href="https://www.thegalacticmind.com/case-file-trans-en-provence-landing-trace-1981-france/" target="_blank" rel="noopener noreferrer nofollow">https://www.thegalacticmind.com/case-file-trans-en-provence-landing-trace-1981-france/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galactic MindCase File: Trans-en-Provence UFO Landing Trace 1981 | The...France&#x27;s 1981 Trans-en-Provence case left soil and plant an...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/392651075_Tyre_Wear_Particles_in_the_Environment_Sources_Toxicity_and_Remediation_Approaches](https://www.researchgate.net/publication/392651075_Tyre_Wear_Particles_in_the_Environment_Sources_Toxicity_and_Remediation_Approaches)  
+   Link: <a href="https://www.researchgate.net/publication/392651075_Tyre_Wear_Particles_in_the_Environment_Sources_Toxicity_and_Remediation_Approaches" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392651075_Tyre_Wear_Particles_in_the_Environment_Sources_Toxicity_and_Remediation_Approaches</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Tyre Wear Particles in the Environment: Sources...10 Jun 2025 — This review synthesizes global research on TWP sources, environmen...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: legislation.gov.uk  
-   Link: [https://www.legislation.gov.uk/eur/2018/1690/2018-11-09/data.html](https://www.legislation.gov.uk/eur/2018/1690/2018-11-09/data.html)  
+   Link: <a href="https://www.legislation.gov.uk/eur/2018/1690/2018-11-09/data.html" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/eur/2018/1690/2018-11-09/data.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Commission Implementing RegulationIn order to establish the definitive sample, the Commission took into consideration the fragmentation o...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: surrey.ac.uk  
-   Link: [https://www.surrey.ac.uk/people/prashant-kumar](https://www.surrey.ac.uk/people/prashant-kumar)  
+   Link: <a href="https://www.surrey.ac.uk/people/prashant-kumar" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/people/prashant-kumar</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Professor Prashant KumarCurrent mitigation strategies focus on material improvements for brake pads and tyres, better road maintenance, a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/trans](https://www.merriam-webster.com/dictionary/trans)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/trans" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/trans</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TRANS Definition &amp; Meaning5 days ago — 1. transgender; The Affordable Care Act included trans health care in many places and that was a r...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: transactual.org.uk  
-   Link: [https://transactual.org.uk/](https://transactual.org.uk/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TransActual2 hours ago — We share transgender people&#x27;s lived experiences and rights through quotes, blog posts and articles. There&#x27;s info...</p></details>
+   Link: <a href="https://transactual.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://transactual.org.uk/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 hours ago — We share transgender people&#x27;s lived experiences and rights through quotes, blog posts and articles. There&#x27;s info...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: en.wiktionary.org  
-   Link: [https://en.wiktionary.org/wiki/trans](https://en.wiktionary.org/wiki/trans)  
+   Link: <a href="https://en.wiktionary.org/wiki/trans" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/trans</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wiktionary.orgtransSyllabification: trans. Noun. trans (plural trans-trans). (psychology) trance. Derived terms. trans vaginal. Further r...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/61577073839892/posts/on-january-8-1981-something-out-of-place-briefly-arrived-in-trans-en-provence-an/122158966718902461/](https://www.facebook.com/61577073839892/posts/on-january-8-1981-something-out-of-place-briefly-arrived-in-trans-en-provence-an/122158966718902461/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookOn January 8, 1981, something out of place briefly arrived in...The ground itself was compacted and dehydrated, as if stressed f...</p></details>
+   Link: <a href="https://www.facebook.com/61577073839892/posts/on-january-8-1981-something-out-of-place-briefly-arrived-in-trans-en-provence-an/122158966718902461/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61577073839892/posts/on-january-8-1981-something-out-of-place-briefly-arrived-in-trans-en-provence-an/122158966718902461/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>On January 8, 1981, something out of place briefly arrived in...The ground itself was compacted and dehydrated, as if stressed f...</p></details>
    Published: January 8, 1981  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: a notorious french prankster has revealed that he was behind last weeks incident  
-   Link: [https://www.facebook.com/coasttocoastam/posts/a-notorious-french-prankster-has-revealed-that-he-was-behind-last-weeks-incident/10159566613207349/](https://www.facebook.com/coasttocoastam/posts/a-notorious-french-prankster-has-revealed-that-he-was-behind-last-weeks-incident/10159566613207349/)  
+   Link: <a href="https://www.facebook.com/coasttocoastam/posts/a-notorious-french-prankster-has-revealed-that-he-was-behind-last-weeks-incident/10159566613207349/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/coasttocoastam/posts/a-notorious-french-prankster-has-revealed-that-he-was-behind-last-weeks-incident/10159566613207349/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A notorious French prankster has revealed that he was...Report on the Analysis of Anomalous Physical Traces: The 1981 Trans-en-Provence...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: unodc.org  
-   Link: [https://www.unodc.org/documents/Wildlife/Guide_Timber.pdf](https://www.unodc.org/documents/Wildlife/Guide_Timber.pdf)  
+   Link: <a href="https://www.unodc.org/documents/Wildlife/Guide_Timber.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unodc.org/documents/Wildlife/Guide_Timber.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the original reference materials, including unpublished methods, validated and used as per the...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: phwwhocc.co.uk  
-   Link: [https://phwwhocc.co.uk/whiasu/wp-content/uploads/sites/3/2021/05/Citizen_involvement_in_a_local_HIA_infor.pdf](https://phwwhocc.co.uk/whiasu/wp-content/uploads/sites/3/2021/05/Citizen_involvement_in_a_local_HIA_infor.pdf)  
+   Link: <a href="https://phwwhocc.co.uk/whiasu/wp-content/uploads/sites/3/2021/05/Citizen_involvement_in_a_local_HIA_infor.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/whiasu/wp-content/uploads/sites/3/2021/05/Citizen_involvement_in_a_local_HIA_infor.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>practitioners to analyse trends in health reform, drawing on experience from across Europe to...Read more...</p></details>

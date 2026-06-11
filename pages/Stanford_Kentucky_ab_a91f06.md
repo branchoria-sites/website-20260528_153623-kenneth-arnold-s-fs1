@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Darbishire UFO
   permalink: /stephen-darbishire-photograph-1954/
   short_title: Darbishire UFO
-date: '2026-06-08 23:32:43 '
+date: '2026-06-11 13:19:50 '
 header:
   og_image: /assets/images/Stanford_Kentucky_ab_a91f06-overview-social.jpg
   preview_image: /assets/images/Stanford_Kentucky_ab_a91f06-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Stanford_Kentucky_ab_a91f06-overview-social.jpg
 ## Introduction
 
 The Stanford, Kentucky abduction of 6 January 1976 is a UFO case built around three adult [witnesses]({{ 'witnesses-10676f/' | relative_url }}) — Louise Smith, Mona Stafford and Elaine Thomas — who said that a late-night drive home from a birthday dinner turned into a close encounter, [missing time]({{ 'missing-time/' | relative_url }}) and later memories of being taken from the car and examined. The case matters less because it proves any single conclusion than because it shows how a UFO report can become a layered historical problem: there are named witnesses, a tight route and time frame, investigators, hypnosis sessions, polygraph claims and alleged corroborating sightings, but also serious weaknesses involving memory, publicity, suggestive interviewing and the lack of independent physical proof.
-
 
 <img src="{{ "/assets/images/Stanford_Kentucky_ab_a91f06-overview.webp" | relative_url }}" alt="Overview image for Stanford Kentucky abduction 1976" loading="eager" decoding="sync" fetchpriority="high">
 The strongest cautious reading is this: something frightened the women on the road between Stanford and Liberty, and their distress appears to have been genuine. The leap from that to a literal extraterrestrial abduction is not established by the surviving public evidence.
@@ -774,7 +773,6 @@ Later retellings add the famous “runaway car” element. In a 2001 CityBeat pr
 
 The transition from close encounter to abduction came later. The women reportedly remembered the drive, the object and the time gap, but not a continuous sequence explaining the missing interval. In UFO-investigator accounts, that gap became the central mystery: where were they during the missing time, and why did they feel physically and emotionally changed afterwards?
 
-
 <img src="{{ "/assets/images/Stanford_Kentucky_ab_a91f06-Illustration-1-dark.svg" | relative_url }}" alt="Stanford Kentucky abduction 1976 illustration 1" data-theme-src-dark="{{ "/assets/images/Stanford_Kentucky_ab_a91f06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stanford_Kentucky_ab_a91f06-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the case was investigated
 
@@ -785,7 +783,6 @@ The principal named organisations and figures in the Stanford file include MUFON
 The January 1977 MUFON UFO Journal is especially useful because it shows the case while it was still being debated inside UFO circles, not merely repeated decades later. It records arguments over confidentiality, funding and how much of the hypnosis material should be released, and it says the investigators had initially agreed not to publish the hypnosis results while the women were in a vulnerable condition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciences-faits-histoires.com/medias/files/mufonufojournal-19771-january-130429023417-phpapp02.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciences-faits-histoires.com">[sciences-faits-histoires.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciences-faits-histoires.com</span><span class="citation-popover-title">mufonufojournal 19771 january 130429023417 phpapp02</span><span class="citation-popover-snippet">mufonufojournal 19771 january 130429023417 phpapp02</span></span></span>
 
 That same journal also documents a major complication: Jerry Black made an arrangement with the National Enquirer for funding connected with a return visit by Sprinkle and polygraph testing. The journal states that the tabloid would receive first publication rights if the time-lapse case became an abduction case backed by professional testimony, and that the women would receive remuneration for their cooperation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciences-faits-histoires.com/medias/files/mufonufojournal-19771-january-130429023417-phpapp02.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciences-faits-histoires.com">[sciences-faits-histoires.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciences-faits-histoires.com</span><span class="citation-popover-title">mufonufojournal 19771 january 130429023417 phpapp02</span><span class="citation-popover-snippet">mufonufojournal 19771 january 130429023417 phpapp02</span></span></span> This does not prove a hoax, but it does affect source evaluation. Money, exclusivity and media pressure can change how witnesses, investigators and readers frame a case.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P1YVfdOzG7c" title="The Stanford, Kentucky alien abductions, January 6, 1976" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P1YVfdOzG7c" target="_blank" rel="noopener noreferrer">The Stanford, Kentucky alien abductions, January 6, 1976</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 73.9K &middot; Uploaded: August 2022 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P1YVfdOzG7c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P1YVfdOzG7c">Open on YouTube</a></p></div></div></div>
 
@@ -803,7 +800,6 @@ Supporters of the Stanford case usually point to five features: three witnesses,
 
 **Other reported sightings.** The case is often described as corroborated because other people in Casey and Lincoln counties reportedly saw unusual lights or objects that night. The Black Vault account mentions a couple near the alleged abduction site seeing a large luminous object around 11:30 p.m., other witnesses describing reddish-orange lights around a disc-shaped object, two teenagers allegedly chasing a low-flying UFO towards Danville, and a farmer reporting a low-level glowing object with a white beam near the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/1976-stanford-kentucky-abductions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">1976 stanford kentucky abductions</span><span class="citation-popover-snippet">1976 stanford kentucky abductions</span></span></span> The MUFON journal’s scan similarly says additional witnesses reported a luminous object near Stanford and other UFO sightings in the same general region. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciences-faits-histoires.com/medias/files/mufonufojournal-19771-january-130429023417-phpapp02.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciences-faits-histoires.com">[sciences-faits-histoires.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciences-faits-histoires.com</span><span class="citation-popover-title">mufonufojournal 19771 january 130429023417 phpapp02</span><span class="citation-popover-snippet">mufonufojournal 19771 january 130429023417 phpapp02</span></span></span> These reports are relevant, but many are anonymised, retrospective or filtered through UFO investigators, so they do not remove the need for caution.
 
-
 <img src="{{ "/assets/images/Stanford_Kentucky_ab_a91f06-Illustration-2-dark.svg" | relative_url }}" alt="Stanford Kentucky abduction 1976 illustration 2" data-theme-src-dark="{{ "/assets/images/Stanford_Kentucky_ab_a91f06-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stanford_Kentucky_ab_a91f06-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the abduction claim remains difficult to prove
 
@@ -816,7 +812,6 @@ The Stanford hypnosis sessions also included some features that would trouble a 
 The physical evidence is also weak by scientific standards. Claims about skin sensations, weight loss, eye pain, electrical problems in the car, a spinning watch hand and a failed alarm clock are striking, but the public case record does not provide a controlled medical report, mechanical inspection, laboratory finding or chain of custody that would distinguish paranormal causation from ordinary failure, stress response or coincidence. The Black Vault summary notes watch, clock and car electrical issues, but presents them as reported anomalies rather than documented forensic evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/1976-stanford-kentucky-abductions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">1976 stanford kentucky abductions</span><span class="citation-popover-snippet">1976 stanford kentucky abductions</span></span></span>
 
 Finally, the National Enquirer arrangement complicates the provenance of later public versions. The MUFON journal records that funding, publication rights and witness remuneration became part of the investigative process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciences-faits-histoires.com/medias/files/mufonufojournal-19771-january-130429023417-phpapp02.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciences-faits-histoires.com">[sciences-faits-histoires.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciences-faits-histoires.com</span><span class="citation-popover-title">mufonufojournal 19771 january 130429023417 phpapp02</span><span class="citation-popover-snippet">mufonufojournal 19771 january 130429023417 phpapp02</span></span></span> That does not make the story false, and it may have been a practical attempt to fund interviews and testing. But it does mean later narratives must be read with attention to incentives, editing and publicity.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FAAFOzax29g" title="Unsolved Mysteries: The 1976 Alien Abduction in Stanford, KY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FAAFOzax29g" target="_blank" rel="noopener noreferrer">Unsolved Mysteries: The 1976 Alien Abduction in Stanford, KY</a></p><p class="youtube-embed-meta">Channel: Scott County Public Library &middot; Views: 24.9K &middot; Uploaded: July 2021 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FAAFOzax29g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FAAFOzax29g">Open on YouTube</a></p></div></div></div>
 
@@ -832,7 +827,6 @@ The **social and investigative construction interpretation** places more weight 
 
 A deliberate hoax is the least necessary explanation. The surviving sources repeatedly describe the women as distressed and reluctant, and even sceptical investigator comments in the case record tend to question memory and procedure rather than accuse them of fraud. The better sceptical question is not “Were they lying?” but “What can this evidence actually prove?”
 
-
 <img src="{{ "/assets/images/Stanford_Kentucky_ab_a91f06-Illustration-3-dark.svg" | relative_url }}" alt="Stanford Kentucky abduction 1976 illustration 3" data-theme-src-dark="{{ "/assets/images/Stanford_Kentucky_ab_a91f06-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stanford_Kentucky_ab_a91f06-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Stanford case adds to the wider dossier
 
@@ -842,49 +836,89 @@ Its strongest historical value lies in the early paper trail: the APRO and MUFON
 
 The result is a case that remains genuinely interesting but not conclusively solved. It is credible as a report of a frightening experience by three women near Stanford in January 1976. It is much less secure as proof of alien abduction. The page’s most careful conclusion is therefore narrower than the legend: the Stanford case is an important, well-known example of how extraordinary UFO-abduction narratives form around real witnesses, real distress, disputed memories and incomplete evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ywvp8SstQkM" title="Richard McNally: Memories of past lifes and space alien abduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ywvp8SstQkM" target="_blank" rel="noopener noreferrer">Richard McNally: Memories of past lifes and space alien abduction</a></p><p class="youtube-embed-meta">Channel: PsychiatryLectures &middot; Views: 162.6K &middot; Uploaded: February 2014 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ywvp8SstQkM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ywvp8SstQkM">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened Near Stanford?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened Near Stanford?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Stanford case, outlining the witness stories, the investigative trail, and the long-term historical impact.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+        </h4>
+        <p class="fr-book-author">By John E. Mack, Mack</p>
+        
+        <p class="fr-book-desc">Provides comparative context for interpreting abduction claims and the evolution of the genre.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+        </h4>
+        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+        
+        <p class="fr-book-desc">Explains why hypnotically recovered memories—a cornerstone of the Stanford file—are scientifically contested.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=immWvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Missing Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+        </h4>
+        <p class="fr-book-author">By Budd Hopkins</p>
+        
+        <p class="fr-book-desc">Details the documentation techniques common to 1970s abduction research and the &#x27;missing time&#x27; framework.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -921,15 +955,15 @@ The result is a case that remains genuinely interesting but not conclusively sol
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor"><img src="{{ '/assets/images/marketplace-covers/8a69c01cfb4e71ca93d8.jpg' | relative_url }}" alt="Listing image for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -937,15 +971,15 @@ The result is a case that remains genuinely interesting but not conclusively sol
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Movie Photo / Poster Up To 30&quot;"><img src="{{ '/assets/images/marketplace-covers/1bc2ddce555309e018c7.jpg' | relative_url }}" alt="Listing image for Alien Abduction Movie Photo / Poster Up To 30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Movie Photo / Poster Up To 30&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -953,15 +987,15 @@ The result is a case that remains genuinely interesting but not conclusively sol
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed"><img src="{{ '/assets/images/marketplace-covers/14676aae3cb867bb0a6c.jpg' | relative_url }}" alt="Listing image for Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction 2014 0 Movie Poster Art Print Legendary StudioDecor Adventure Ed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -969,15 +1003,15 @@ The result is a case that remains genuinely interesting but not conclusively sol
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cow Abduction Hamburger Meal Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e1b88282927b1c581df9.jpg' | relative_url }}" alt="Listing image for Alien Cow Abduction Hamburger Meal Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Cow Abduction Hamburger Meal Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -985,7 +1019,7 @@ The result is a case that remains genuinely interesting but not conclusively sol
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="stanford-kentucky-abduction-1976-what-really-happened-near-stanford-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1201,128 +1235,128 @@ The result is a case that remains genuinely interesting but not conclusively sol
 1. <a id="endnote-1"></a>
    Source: theblackvault.com  
    Title: 1976 stanford kentucky abductions  
-   Link: [https://www.theblackvault.com/casefiles/1976-stanford-kentucky-abductions/](https://www.theblackvault.com/casefiles/1976-stanford-kentucky-abductions/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/1976-stanford-kentucky-abductions/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/1976-stanford-kentucky-abductions/</a>  
 
 2. <a id="endnote-2"></a>
    Source: citybeat.com  
    Title: Cincinnati City Beat Cover Story: A Close Encounter with Jerry Black  
-   Link: [https://www.citybeat.com/news/cover-story-a-close-encounter-with-jerry-black-12215115/](https://www.citybeat.com/news/cover-story-a-close-encounter-with-jerry-black-12215115/)  
+   Link: <a href="https://www.citybeat.com/news/cover-story-a-close-encounter-with-jerry-black-12215115/" target="_blank" rel="noopener noreferrer nofollow">https://www.citybeat.com/news/cover-story-a-close-encounter-with-jerry-black-12215115/</a>  
 
 3. <a id="endnote-3"></a>
    Source: sciences-faits-histoires.com  
    Title: mufonufojournal 19771 january 130429023417 phpapp02  
-   Link: [https://www.sciences-faits-histoires.com/medias/files/mufonufojournal-19771-january-130429023417-phpapp02.pdf](https://www.sciences-faits-histoires.com/medias/files/mufonufojournal-19771-january-130429023417-phpapp02.pdf)  
+   Link: <a href="https://www.sciences-faits-histoires.com/medias/files/mufonufojournal-19771-january-130429023417-phpapp02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sciences-faits-histoires.com/medias/files/mufonufojournal-19771-january-130429023417-phpapp02.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: news.harvard.edu  
    Title: Gazette Starship memories: — Harvard Gazette  
-   Link: [https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/](https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/)  
+   Link: <a href="https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2002/10/starship-memories-2/</a>  
 
 5. <a id="endnote-5"></a>
    Source: dash.harvard.edu  
    Title: alien abduction  
-   Link: [https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf](https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf)  
+   Link: <a href="https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: news.harvard.edu  
    Title: alien abduction claims examined 2  
-   Link: [https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/](https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/)  
+   Link: <a href="https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/</a>  
 
 7. <a id="endnote-7"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/12150421/](https://pubmed.ncbi.nlm.nih.gov/12150421/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
 
 9. <a id="endnote-9"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Susan Clancy  
-   Link: [https://en.wikipedia.org/wiki/Susan_Clancy](https://en.wikipedia.org/wiki/Susan_Clancy)  
+   Link: <a href="https://en.wikipedia.org/wiki/Susan_Clancy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Susan_Clancy</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Alien abduction  
-   Link: [https://en.wikipedia.org/wiki/Alien_abduction](https://en.wikipedia.org/wiki/Alien_abduction)  
+   Link: <a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=P1YVfdOzG7c](https://www.youtube.com/watch?v=P1YVfdOzG7c)  
+   Link: <a href="https://www.youtube.com/watch?v=P1YVfdOzG7c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P1YVfdOzG7c</a>  
 
 14. <a id="endnote-14"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
 15. <a id="endnote-15"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 16. <a id="endnote-16"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 17. <a id="endnote-17"></a>
    Source: ufocasebook.com  
-   Link: [https://ufocasebook.com/Stanford.html](https://ufocasebook.com/Stanford.html)  
+   Link: <a href="https://ufocasebook.com/Stanford.html" target="_blank" rel="noopener noreferrer nofollow">https://ufocasebook.com/Stanford.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: susanblackmore.uk  
    Title: Alien abduction  
-   Link: [https://www.susanblackmore.uk/journalism/alien-abduction/](https://www.susanblackmore.uk/journalism/alien-abduction/)  
+   Link: <a href="https://www.susanblackmore.uk/journalism/alien-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://www.susanblackmore.uk/journalism/alien-abduction/</a>  
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=FAAFOzax29g](https://www.youtube.com/watch?v=FAAFOzax29g)  
+   Link: <a href="https://www.youtube.com/watch?v=FAAFOzax29g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FAAFOzax29g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Witches, Magic, Murder, &amp; Mystery Podcast, Ep. 32: The Stanford Alien Encounter...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=HnisLLYP8nQ](https://www.youtube.com/watch?v=HnisLLYP8nQ)  
+   Link: <a href="https://www.youtube.com/watch?v=HnisLLYP8nQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HnisLLYP8nQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries: The 1976 Alien Abduction in Stanford, KY...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 23. <a id="endnote-23"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/gb/articles/200303/alien-abductions-the-real-deal](https://www.psychologytoday.com/gb/articles/200303/alien-abductions-the-real-deal)  
+   Link: <a href="https://www.psychologytoday.com/gb/articles/200303/alien-abductions-the-real-deal" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/articles/200303/alien-abductions-the-real-deal</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/397294058643766/posts/979135217126311/](https://www.facebook.com/groups/397294058643766/posts/979135217126311/)  
+   Link: <a href="https://www.facebook.com/groups/397294058643766/posts/979135217126311/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/397294058643766/posts/979135217126311/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCRadio4/posts/did-the-cold-war-influence-witnesses-of-the-first-ever-supposedly-paranormal-ufo/1458086863027672/](https://www.facebook.com/BBCRadio4/posts/did-the-cold-war-influence-witnesses-of-the-first-ever-supposedly-paranormal-ufo/1458086863027672/)  
+   Link: <a href="https://www.facebook.com/BBCRadio4/posts/did-the-cold-war-influence-witnesses-of-the-first-ever-supposedly-paranormal-ufo/1458086863027672/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCRadio4/posts/did-the-cold-war-influence-witnesses-of-the-first-ever-supposedly-paranormal-ufo/1458086863027672/</a>  
 
 26. <a id="endnote-26"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DQ97vNPCFXa/?hl=en-gb](https://www.instagram.com/p/DQ97vNPCFXa/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/p/DQ97vNPCFXa/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQ97vNPCFXa/?hl=en-gb</a>  
 
 27. <a id="endnote-27"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated](https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated)  
+   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/memory-manipulated</a>  
 
 28. <a id="endnote-28"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-15.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-15.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-15.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-15.pdf</a>

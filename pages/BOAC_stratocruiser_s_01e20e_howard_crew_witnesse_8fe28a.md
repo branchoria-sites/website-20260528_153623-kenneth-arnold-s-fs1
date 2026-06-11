@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /boac-stratocruiser-sighting-1954/
 nav_short_title: Witnesses
 title: Why the Witnesses Still Matter
-title_full: Why the Witnesses Still Matter | BOAC Sighting
+title_full: Why the Witnesses Still Matter
 display_title_short: Witnesses
 display_title: Witnesses
 heading_title: Why the Witnesses Still Matter
@@ -233,7 +233,7 @@ prev_link:
   permalink: /timeline-49c35d/
   short_title: Timeline
   heading_title: How the BOAC Sighting Unfolded
-date: '2026-06-08 23:26:47 '
+date: '2026-06-11 13:16:31 '
 header:
   og_image: /assets/images/BOAC_stratocruiser_s_01e20e_howard_crew_witnesse_8fe28a-Illustration-1-social.jpg
   preview_image: /assets/images/BOAC_stratocruiser_s_01e20e_howard_crew_witnesse_8fe28a-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/BOAC_stratocruiser_s_01e20e_howard_crew_witnesse_8fe28a-Il
 
 ## Introduction
 
-The [BOAC Stratocruiser]({{ 'boac-stratocruiser-sighting-1954/' | relative_url }}) sighting remains notable largely because of who reported it. Captain James R. Howard was not an isolated civilian observer peering at a brief flash of light. He was an experienced transatlantic airline captain, assisted by a professional flight crew operating a large commercial aircraft under controlled flight conditions. Multiple crew members independently observed the same phenomenon for an extended period, and later accounts added that some passengers on the port side of the aircraft saw it as well. That combination gives the case far more weight than a typical single-witness UFO report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">2 National Aviation Reporting Center on Anomalous</span><span class="citation-popover-snippet">pilot, as told to Graham Fisher&#x27;, but journalistic... mirage over Labrador this seems the most likely explanation.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">The Outsider&#x27;s Guide to UFOs Volume 2: What are They?</span><span class="citation-popover-snippet">I have lost count of the number of witness statements saying similar things in numerous countries.... Howard&#x27;s Stratocruiser landed in G...</span></span></span>
-
+The BOAC Stratocruiser sighting remains notable largely because of who reported it. Captain James R. Howard was not an isolated civilian observer peering at a brief flash of light. He was an experienced transatlantic airline captain, assisted by a professional flight crew operating a large commercial aircraft under controlled flight conditions. Multiple crew members independently observed the same phenomenon for an extended period, and later accounts added that some passengers on the port side of the aircraft saw it as well. That combination gives the case far more weight than a typical single-witness UFO report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">2 National Aviation Reporting Center on Anomalous</span><span class="citation-popover-snippet">pilot, as told to Graham Fisher&#x27;, but journalistic... mirage over Labrador this seems the most likely explanation.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">The Outsider&#x27;s Guide to UFOs Volume 2: What are They?</span><span class="citation-popover-snippet">I have lost count of the number of witness statements saying similar things in numerous countries.... Howard&#x27;s Stratocruiser landed in G...</span></span></span>
 
 <img src="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_howard_crew_witnesse_8fe28a-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_howard_crew_witnesse_8fe28a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_howard_crew_witnesse_8fe28a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 At the same time, the case is also a reminder of an important limitation in aviation testimony: trained observers are better at describing what they saw than at identifying what caused it. The BOAC witnesses may have been sincere, attentive and highly experienced, yet still vulnerable to unusual atmospheric effects, perspective errors and the deceptive geometry of long-distance viewing near sunset. The debate over witness reliability therefore sits at the centre of the entire incident.
@@ -258,13 +257,11 @@ That sort of cautious descriptive language is often viewed by investigators as m
 
 Another point often raised in favour of Howard’s reliability is timing. His voyage report was written close to the event itself rather than decades later. Near-contemporary reports are generally considered more valuable because memory distortion and retrospective myth-making are reduced. The report also included operational details such as bearings, altitude, timing and communications with Goose Bay, indicating that Howard approached the event partly as a professional aviation occurrence rather than purely as a sensational story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">2 National Aviation Reporting Center on Anomalous</span><span class="citation-popover-snippet">pilot, as told to Graham Fisher&#x27;, but journalistic... mirage over Labrador this seems the most likely explanation.Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vewweIpyTj0" title="RESTORED HISTORY: the &quot;Flying Hotel&quot; of the 1950s: Boeing 377 Stratocruiser, From Bomber to Airliner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vewweIpyTj0" target="_blank" rel="noopener noreferrer">RESTORED HISTORY: the &quot;Flying Hotel&quot; of the 1950s: Boeing 377 Stratocruiser, From Bomber to Airliner</a></p><p class="youtube-embed-meta">Channel: DroneScapes &middot; Views: 176.3K &middot; Uploaded: January 2026 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vewweIpyTj0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vewweIpyTj0">Open on YouTube</a></p></div></div></div>
 
 ## Why the crew corroboration matters
 
 The BOAC case is not built on Howard alone. According to the voyage report and later summaries, the witnesses included the first officer, navigators, flight engineers, radio officer and cabin crew. Some passengers reportedly also observed the objects from the left side of the aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">2 National Aviation Reporting Center on Anomalous</span><span class="citation-popover-snippet">pilot, as told to Graham Fisher&#x27;, but journalistic... mirage over Labrador this seems the most likely explanation.Read more...</span></span></span> Facebook That breadth of testimony is important because it reduces several ordinary explanations immediately: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/timefordisclosure/posts/1715531615657310/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">es(crew and passengers) saw it and it corresponds to another...Read more...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -283,7 +280,6 @@ The crew reportedly altered viewing positions and continued watching the objects
 
 One of the most intriguing details is that the witnesses consistently described the objects as dark rather than luminous. In many UFO reports, bright lights can easily distort perceived size, distance and shape. Howard instead described silhouetted forms against the brighter western sky near sunset. This detail later became central to sceptical explanations involving distant cloud tops or mirage effects. Ironically, the very consistency of the witnesses’ descriptions helped sceptics build more sophisticated natural explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">2 National Aviation Reporting Center on Anomalous</span><span class="citation-popover-snippet">pilot, as told to Graham Fisher&#x27;, but journalistic... mirage over Labrador this seems the most likely explanation.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_howard_crew_witnesse_8fe28a-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_howard_crew_witnesse_8fe28a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_howard_crew_witnesse_8fe28a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest case for reliability
 
@@ -297,7 +293,6 @@ Third, the witnesses actively rejected explanations they believed inconsistent w
 
 This does not prove the objects were extraordinary craft, but it does make the testimony harder to dismiss casually.
 
-
 <img src="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_howard_crew_witnesse_8fe28a-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_howard_crew_witnesse_8fe28a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_howard_crew_witnesse_8fe28a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What trained observers can and cannot prove
 
@@ -308,7 +303,6 @@ This distinction is crucial. Aviation expertise improves observational disciplin
 The proposed mirage explanation developed by later analysts illustrates this problem. Meteorological studies suggested that unusual refraction conditions near Labrador may have allowed distant cloud formations beyond the horizon to appear elevated, distorted and apparently structured. The setting sun could then produce dark silhouetted shapes with changing outlines as viewing geometry shifted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">2 National Aviation Reporting Center on Anomalous</span><span class="citation-popover-snippet">pilot, as told to Graham Fisher&#x27;, but journalistic... mirage over Labrador this seems the most likely explanation.Read more...</span></span></span>
 
 Under that interpretation, Howard and crew may genuinely have seen real external objects while misjudging:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -325,7 +319,6 @@ The “shape-changing” aspect of the report also cuts both ways. UFO proponent
 
 The missing radar confirmation weakens the witnesses’ evidential power further. Ground controllers reportedly tracked only the Stratocruiser itself. The interceptor sent toward the area failed to obtain a visual or radar contact before the objects vanished. If the witnesses had observed solid nearby craft travelling in controlled formation, critics argue that stronger independent detection might be expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">2 National Aviation Reporting Center on Anomalous</span><span class="citation-popover-snippet">pilot, as told to Graham Fisher&#x27;, but journalistic... mirage over Labrador this seems the most likely explanation.Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S96RPhlknj0" title="Captain James R. Howard on witnessing 7 UFOs during a flight over the Atlantic Ocean, 1954 #uap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S96RPhlknj0" target="_blank" rel="noopener noreferrer">Captain James R. Howard on witnessing 7 UFOs during a flight over the Atlantic Ocean, 1954 #uap</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 64.3K &middot; Uploaded: July 2022 &middot; Length: 3 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S96RPhlknj0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S96RPhlknj0">Open on YouTube</a></p></div></div></div>
 
 ## Why the witness debate still matters
@@ -339,44 +332,86 @@ For sceptics, the same case demonstrates that witness quality alone is never eno
 That tension is why Captain Howard and his crew continue to matter in discussions of the 1954 BOAC sighting. Their testimony raises the evidential standard of the incident, but it also exposes the limits of eyewitness confidence in the sky. The witnesses may have been exceptionally reliable reporters of experience while still being unreliable interpreters of cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">2 National Aviation Reporting Center on Anomalous</span><span class="citation-popover-snippet">pilot, as told to Graham Fisher&#x27;, but journalistic... mirage over Labrador this seems the most likely explanation.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">The Outsider&#x27;s Guide to UFOs Volume 2: What are They?</span><span class="citation-popover-snippet">I have lost count of the number of witness statements saying similar things in numerous countries.... Howard&#x27;s Stratocruiser landed in G...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why the Witnesses Still Matter, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why the Witnesses Still Matter. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Captain James Howard guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Captain+James+Howard+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Directly evaluates the credibility of trained crew testimonies, including standard commercial airline captains under controlled flight co...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">BOAC Stratocruiser guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=BOAC+Stratocruiser+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Details why sincere, professional flight credentials cannot override fundamental human optical and cognitive limits in vast spaces.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">BOAC Crew guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=BOAC+Crew+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Traces how corporate airline boards and intelligence sectors managed historical crew accounts during the early Cold War era.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Movie EVERYONE Is Hillbillying About on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Movie EVERYONE Is Hillbillying About">The UFO Movie EVERYONE Is Hillbillying About</a>
+        </h4>
+        <p class="fr-book-author">By Mick West</p>
+        
+        <p class="fr-book-desc">Deconstructs the exact limits of cockpit human vision, addressing sunset geometry and optical tracking illusions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Movie+EVERYONE+Is+Hillbillying+About+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -413,15 +448,15 @@ That tension is why Captain Howard and his crew continue to matter in discussion
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Ray / Hobby Dax United Airlines Boeing Stratocruiser 377 Model Kit New"><img src="{{ '/assets/images/marketplace-covers/cebff4714260ae3b9d54.jpg' | relative_url }}" alt="Listing image for New Ray / Hobby Dax United Airlines Boeing Stratocruiser 377 Model Kit New" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer">New Ray / Hobby Dax United Airlines Boeing Stratocruiser 377 Model Kit New</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Boeing 377 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Boeing 377 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -429,15 +464,15 @@ That tension is why Captain Howard and his crew continue to matter in discussion
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing 377-SGT Super Guppy Airbus Skylink F-BPPA Desk Model 1/100 AV Airplane"><img src="{{ '/assets/images/marketplace-covers/1bd4677ea33ea333b517.jpg' | relative_url }}" alt="Listing image for Boeing 377-SGT Super Guppy Airbus Skylink F-BPPA Desk Model 1/100 AV Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer">Boeing 377-SGT Super Guppy Airbus Skylink F-BPPA Desk Model 1/100 AV Airplane</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Boeing 377 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Boeing 377 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -445,31 +480,15 @@ That tension is why Captain Howard and his crew continue to matter in discussion
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dragon Wings 1:400 Boeing 377 Stratocruiser Northwest"><img src="{{ '/assets/images/marketplace-covers/d9d1ec04ce5d3ffb2259.jpg' | relative_url }}" alt="Listing image for Dragon Wings 1:400 Boeing 377 Stratocruiser Northwest" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer">Dragon Wings 1:400 Boeing 377 Stratocruiser Northwest</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Boeing 377 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Boeing 377 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -477,7 +496,7 @@ That tension is why Captain Howard and his crew continue to matter in discussion
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="witnesses-eac7bf-why-the-witnesses-still-matter-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -693,170 +712,170 @@ That tension is why Captain Howard and his crew continue to matter in discussion
 1. <a id="endnote-1"></a>
    Source: academia.edu  
    Title: 2 National Aviation Reporting Center on Anomalous  
-   Link: [https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland](https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland)  
+   Link: <a href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>pilot, as told to Graham Fisher&#x27;, but journalistic... mirage over Labrador this seems the most likely explanation.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dokumen.pub  
    Title: The Outsider's Guide to UFOs Volume 2: What are They?  
-   Link: [https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html](https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html)  
+   Link: <a href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I have lost count of the number of witness statements saying similar things in numerous countries.... Howard&#x27;s Stratocruiser landed in G...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: kirkmcd.princeton.edu  
-   Link: [https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_031268.pdf](https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_031268.pdf)  
+   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_031268.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_031268.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>London 9, &quot;...they were obviously not aircraft as we know them. All appeared black and I will swear they...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40johnmooner-chief/boac-boeing-ufo-sighting-by-captain-james-howard-400ebeac5222](https://medium.com/%40johnmooner-chief/boac-boeing-ufo-sighting-by-captain-james-howard-400ebeac5222)  
+   Link: <a href="https://medium.com/%40johnmooner-chief/boac-boeing-ufo-sighting-by-captain-james-howard-400ebeac5222" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40johnmooner-chief/boac-boeing-ufo-sighting-by-captain-james-howard-400ebeac5222</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOAC Boeing UFO Sighting By Captain James HowardHoward, a former RAF pilot, claimed that the strange formation of objects had followed hi...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=S96RPhlknj0](https://www.youtube.com/watch?v=S96RPhlknj0)  
+   Link: <a href="https://www.youtube.com/watch?v=S96RPhlknj0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S96RPhlknj0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>us objects in the sky over the atlantic...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/timefordisclosure/posts/1715531615657310/](https://www.facebook.com/groups/timefordisclosure/posts/1715531615657310/)  
+   Link: <a href="https://www.facebook.com/groups/timefordisclosure/posts/1715531615657310/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/timefordisclosure/posts/1715531615657310/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>es(crew and passengers) saw it and it corresponds to another...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/](https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/)  
+   Link: <a href="https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ip with 6 smaller UFOs following it, shadowing their...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: We found an early portrait of Pan American World Airways  
-   Link: [https://www.facebook.com/PAAMUSEUM/posts/we-found-an-early-portrait-of-pan-american-world-airways-captain-william-b-nash-/1174599441538806/](https://www.facebook.com/PAAMUSEUM/posts/we-found-an-early-portrait-of-pan-american-world-airways-captain-william-b-nash-/1174599441538806/)  
+   Link: <a href="https://www.facebook.com/PAAMUSEUM/posts/we-found-an-early-portrait-of-pan-american-world-airways-captain-william-b-nash-/1174599441538806/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PAAMUSEUM/posts/we-found-an-early-portrait-of-pan-american-world-airways-captain-william-b-nash-/1174599441538806/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>British commercial airliner&#x27;s crew and passengers seeing multiple UFOs.... In 2010, ufologist Martin Shough reexamined the case and...R...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCArchive/posts/onthisday-1954-captain-james-howard-sketched-a-ufo-he-and-his-crew-had-observed-/833521543687544/](https://www.facebook.com/BBCArchive/posts/onthisday-1954-captain-james-howard-sketched-a-ufo-he-and-his-crew-had-observed-/833521543687544/)  
+   Link: <a href="https://www.facebook.com/BBCArchive/posts/onthisday-1954-captain-james-howard-sketched-a-ufo-he-and-his-crew-had-observed-/833521543687544/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/onthisday-1954-captain-james-howard-sketched-a-ufo-he-and-his-crew-had-observed-/833521543687544/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>objects in the sky over the atlantic...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/592060026020601/posts/922750122951588/](https://www.facebook.com/groups/592060026020601/posts/922750122951588/)  
+   Link: <a href="https://www.facebook.com/groups/592060026020601/posts/922750122951588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/592060026020601/posts/922750122951588/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Howard, first observed something strange...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/455568478629653/posts/1239617480224745/](https://www.facebook.com/groups/455568478629653/posts/1239617480224745/)  
+   Link: <a href="https://www.facebook.com/groups/455568478629653/posts/1239617480224745/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/455568478629653/posts/1239617480224745/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1950s UFO INCIDENTWiper, and crew of 2, plus about 25 of 50 passengers on an airliner at 290 mph at 14,000 ft saw a brilliant bluish- cen...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: 1954 newsreel new view on saucers  
-   Link: [https://www.facebook.com/BBCArchive/videos/1954-newsreel-new-view-on-saucers/599637540409280/](https://www.facebook.com/BBCArchive/videos/1954-newsreel-new-view-on-saucers/599637540409280/)  
+   Link: <a href="https://www.facebook.com/BBCArchive/videos/1954-newsreel-new-view-on-saucers/599637540409280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/videos/1954-newsreel-new-view-on-saucers/599637540409280/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#OnThisDay 1954: Captain James Howard sketched a UFO...Some of the crew and passengers of a boac strat Cruiser reported seeing mysteriou...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/514090932384738/posts/524739197986578/](https://www.facebook.com/groups/514090932384738/posts/524739197986578/)  
+   Link: <a href="https://www.facebook.com/groups/514090932384738/posts/524739197986578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/514090932384738/posts/524739197986578/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There was a previous UFO incident above RAF Bentwaters / Woodbridge England. In 1956 there were...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: fifties ufos  
-   Link: [https://www.facebook.com/BBCArchive/videos/fifties-ufos/423964450620832/](https://www.facebook.com/BBCArchive/videos/fifties-ufos/423964450620832/)  
+   Link: <a href="https://www.facebook.com/BBCArchive/videos/fifties-ufos/423964450620832/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/videos/fifties-ufos/423964450620832/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#OnThisDay 1954: British airline pilot Captain James Howard...British airline pilot Captain James Howard and his crew reported that, on...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2505677309869907/](https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2505677309869907/)  
+   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2505677309869907/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2505677309869907/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy flight encounters gigantic UFO in 1956Despite the lack of radar evidence in this case the fact that multiple witnesses(crew and pass...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2498004713970500/](https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2498004713970500/)  
+   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2498004713970500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2498004713970500/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sighting by B-47 bomber crew in 1954A multiple daylight disk event took place on June 29th of 1954 which featured multiple witnesses...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2497067644064207/](https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2497067644064207/)  
+   Link: <a href="https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2497067644064207/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/THEUFOFILESGROUP/posts/2497067644064207/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e observed. The objects were verified on radar...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vewweIpyTj0](https://www.youtube.com/watch?v=vewweIpyTj0)  
+   Link: <a href="https://www.youtube.com/watch?v=vewweIpyTj0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vewweIpyTj0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RESTORED HISTORY: the &quot;Flying Hotel&quot; of the 1950s: Boeing...The Boeing 377 Stratocruiser represents the absolute zenith of piston-engine...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=F3S0wX5L1QY](https://www.youtube.com/watch?v=F3S0wX5L1QY)  
+   Link: <a href="https://www.youtube.com/watch?v=F3S0wX5L1QY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F3S0wX5L1QY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Martin Shough on the BOAC Flight 510 UFO Case...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Martin Shough on the BOAC Flight 510 UFO Case  
-   Link: [https://www.youtube.com/watch?v=K3S1Bw-mS9g](https://www.youtube.com/watch?v=K3S1Bw-mS9g)  
+   Link: <a href="https://www.youtube.com/watch?v=K3S1Bw-mS9g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=K3S1Bw-mS9g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the 1954 BOAC Stratocruiser Sighting...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yYn_wP7Qk7U](https://www.youtube.com/watch?v=yYn_wP7Qk7U)  
+   Link: <a href="https://www.youtube.com/watch?v=yYn_wP7Qk7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yYn_wP7Qk7U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and the Limits of Pilot Testimony...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: UFOs and the Limits of Pilot Testimony  
-   Link: [https://www.youtube.com/watch?v=k5jG3oG4yLg](https://www.youtube.com/watch?v=k5jG3oG4yLg)  
+   Link: <a href="https://www.youtube.com/watch?v=k5jG3oG4yLg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k5jG3oG4yLg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Historical UFO Reports: Credibility and Context...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Analyzing Historical UFO Reports: Credibility and Context  
-   Link: [https://www.youtube.com/watch?v=P2rV9jK7B-Q](https://www.youtube.com/watch?v=P2rV9jK7B-Q)  
+   Link: <a href="https://www.youtube.com/watch?v=P2rV9jK7B-Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P2rV9jK7B-Q</a>  
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: astronomyufo.com  
-   Link: [https://www.astronomyufo.com/UFO/SUNliteBBSUPV1.pdf](https://www.astronomyufo.com/UFO/SUNliteBBSUPV1.pdf)  
+   Link: <a href="https://www.astronomyufo.com/UFO/SUNliteBBSUPV1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomyufo.com/UFO/SUNliteBBSUPV1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SUNliteWitness described seeing five objects that made a swishing noise. He made a model representing what he saw. Sighting was brief (15...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/v3zoei/1954_captain_james_howard_describe_the_ufo_he_and/](https://www.reddit.com/r/UFOs/comments/v3zoei/1954_captain_james_howard_describe_the_ufo_he_and/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/v3zoei/1954_captain_james_howard_describe_the_ufo_he_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/v3zoei/1954_captain_james_howard_describe_the_ufo_he_and/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1954: Captain James Howard describe the UFO he and his...1954: Captain James Howard describe the UFO he and his crew saw. A very interes...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom](https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/ufoe/section_10.htm](https://www.nicap.org/ufoe/section_10.htm)  
+   Link: <a href="https://www.nicap.org/ufoe/section_10.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/ufoe/section_10.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>orcibly to calm the passengers...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Boeing 377 Stratocruiser  
-   Link: [https://en.wikipedia.org/wiki/Boeing_377_Stratocruiser](https://en.wikipedia.org/wiki/Boeing_377_Stratocruiser)  
+   Link: <a href="https://en.wikipedia.org/wiki/Boeing_377_Stratocruiser" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boeing_377_Stratocruiser</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing 377 StratocruiserA BOAC Stratocruiser 10-28 (G-ALSA, named RMA Cathay) crashed on landing at Prestwick at 0330 hours, killing 2...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1hgw1tv/capt_james_howard_crew_and_passengers_on_a_boac/](https://www.reddit.com/r/UFOB/comments/1hgw1tv/capt_james_howard_crew_and_passengers_on_a_boac/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1hgw1tv/capt_james_howard_crew_and_passengers_on_a_boac/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1hgw1tv/capt_james_howard_crew_and_passengers_on_a_boac/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ion) saw UFOs in 1954. Pilots.Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1aeir1g/captain_james_r_howard_on_witnessing_7_ufos/](https://www.reddit.com/r/UFOs/comments/1aeir1g/captain_james_r_howard_on_witnessing_7_ufos/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1aeir1g/captain_james_r_howard_on_witnessing_7_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1aeir1g/captain_james_r_howard_on_witnessing_7_ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cean, 1954. Classic Case.Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/C86O712Ou4B/?hl=en](https://www.instagram.com/reel/C86O712Ou4B/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/C86O712Ou4B/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C86O712Ou4B/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>#OnThisDay 1954: British airline pilot Captain James Howard...On the day of the eclipse of the sun, some of the crew and passengers of a...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: baixardoc.com  
-   Link: [https://baixardoc.com/documents/diccionario-5dcc680c1bf90](https://baixardoc.com/documents/diccionario-5dcc680c1bf90)  
+   Link: <a href="https://baixardoc.com/documents/diccionario-5dcc680c1bf90" target="_blank" rel="noopener noreferrer nofollow">https://baixardoc.com/documents/diccionario-5dcc680c1bf90</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BOAC BOAK BOAKE BOAL BOALS BOAN BOAR BOARD BOARD&#x27;S BOARDBENT BOARDED... CREDIBILITY CREDIBLE CREDIBLY CREDIT CREDIT&#x27;S CREDITABLE...Read...</p></details>

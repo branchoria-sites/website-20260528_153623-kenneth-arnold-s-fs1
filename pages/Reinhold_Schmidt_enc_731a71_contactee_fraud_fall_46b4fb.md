@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /reinhold-schmidt-encounter-1957/
 nav_short_title: Fallout
 title: Why Did Schmidt's Credibility Collapse?
-title_full: Why Did Schmidt's Credibility Collapse? | Schmidt Encounter
+title_full: Why Did Schmidt's Credibility Collapse?
 display_title_short: Fallout
 display_title: Fallout
 heading_title: Why Did Schmidt's Credibility Collapse?
@@ -233,7 +233,7 @@ next_link:
   permalink: /paper-trail/
   short_title: Paper Trail
   heading_title: How Did Officials Handle the Report?
-date: '2026-06-08 23:35:14 '
+date: '2026-06-11 13:20:45 '
 header:
   og_image: /assets/images/Reinhold_Schmidt_enc_731a71_contactee_fraud_fall_46b4fb-Illustration-1-social.jpg
   preview_image: /assets/images/Reinhold_Schmidt_enc_731a71_contactee_fraud_fall_46b4fb-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Reinhold_Schmidt_enc_731a71_contactee_fraud_fall_46b4fb-Il
 
 ## Introduction
 
-[Reinhold Schmidt]({{ 'reinhold-schmidt-encounter-1957/' | relative_url }})’s original 1957 UFO claim near Kearney, Nebraska might have remained a minor Cold War-era saucer story if he had faded from public view after the first burst of publicity. Instead, Schmidt transformed himself into a travelling contactee lecturer, author, and film personality. That decision changed how later readers judged the case. By the early 1960s, Schmidt was no longer presented simply as a man reporting an unusual encounter; he had become part of the wider UFO contactee marketplace built around lectures, self-published books, spiritual claims, and commercial ventures. When he was later convicted in California for fraud connected to crystal-mining schemes promoted through his saucer stories, the fallout badly damaged his credibility and reshaped the historical reputation of the Kearney encounter itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span>
-
+Reinhold Schmidt’s original 1957 UFO claim near Kearney, Nebraska might have remained a minor Cold War-era saucer story if he had faded from public view after the first burst of publicity. Instead, Schmidt transformed himself into a travelling contactee lecturer, author, and film personality. That decision changed how later readers judged the case. By the early 1960s, Schmidt was no longer presented simply as a man reporting an unusual encounter; he had become part of the wider UFO contactee marketplace built around lectures, self-published books, spiritual claims, and commercial ventures. When he was later convicted in California for fraud connected to crystal-mining schemes promoted through his saucer stories, the fallout badly damaged his credibility and reshaped the historical reputation of the Kearney encounter itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span>
 
 <img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_contactee_fraud_fall_46b4fb-Illustration-1-dark.svg" | relative_url }}" alt="Fallout illustration 1" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_contactee_fraud_fall_46b4fb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_contactee_fraud_fall_46b4fb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The collapse mattered because Schmidt’s later conduct fed directly into long-running sceptical arguments about contactee culture in the 1950s. Critics saw the fraud case as evidence that the original story had always been opportunistic. Believers argued that the conviction proved only that Schmidt later exploited his fame, not necessarily that the first encounter was fabricated. Either way, the criminal case became inseparable from the story’s legacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span>
@@ -264,7 +263,6 @@ For some followers, Schmidt’s German-speaking “space people” and claims ab
 
 At the same time, critics increasingly viewed the lecture culture as a self-sustaining economy in which extraordinary claims generated publicity, and publicity generated income. Schmidt’s later activities became one of the clearest examples of how quickly a UFO witness could move into commercial territory.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ei43TBL8x_0" title="Art Campbell: Eisenhower UFO Contact and Nuclear War?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ei43TBL8x_0" target="_blank" rel="noopener noreferrer">Art Campbell: Eisenhower UFO Contact and Nuclear War?</a></p><p class="youtube-embed-meta">Channel: RVMLResourceCenter &middot; Views: 197 &middot; Uploaded: March 2021 &middot; Length: 1 hour 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ei43TBL8x_0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ei43TBL8x_0">Open on YouTube</a></p></div></div></div>
 
 ## Booklets, conventions, and the Edge of Tomorrow film
@@ -273,7 +271,7 @@ Schmidt expanded his story through self-published material. In 1958 he released 
 
 The booklet helped preserve and standardise parts of the narrative, but it also showed how the story was evolving. As with many contactee accounts, details shifted across retellings. Some versions identified the visitors as originating from Venus, while others linked them to Saturn. Those inconsistencies later became important for critics who argued that Schmidt’s account changed according to audience expectations and publicity needs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span>
 
-Schmidt’s most ambitious media venture was his collaboration with exploitation filmmakers Ron Ormond and June Carr Ormond. The result was the 1961 pseudo-documentary *Edge of Tomorrow*, a low-budget film blending interview material, dramatized reconstructions, and promotional treatment of Schmidt’s claims. Schmidt appeared in the production himself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://letterboxd.com/film/edge-of-tomorrow-1961/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: letterboxd.com">[letterboxd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">letterboxd.com</span><span class="citation-popover-title">edge of tomorrow 1961</span><span class="citation-popover-snippet">LetterboxdEdge of Tomorrow (1961)A portrait of UFO huckster Reinhold O. Schmidt... Poster for Is Spiritualism a Fraud? – The Medium Expo...</span></span></span> The film is historically revealing because it captures the transition from UFO testimony into entertainment product. Rather than presenting independent evidence, the movie largely depended on Schmidt narrating his own experiences while reenactments visualised his claims. Modern reviewers often describe the film as both strange and exploitative, but it also functions as a time capsule of contactee culture at its commercial peak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://letterboxd.com/film/edge-of-tomorrow-1961/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: letterboxd.com">[Letterboxd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">letterboxd.com</span><span class="citation-popover-title">edge of tomorrow 1961</span><span class="citation-popover-snippet">LetterboxdEdge of Tomorrow (1961)A portrait of UFO huckster Reinhold O. Schmidt... Poster for Is Spiritualism a Fraud? – The Medium Expo...</span></span></span>
+Schmidt’s most ambitious media venture was his collaboration with exploitation filmmakers Ron Ormond and June Carr Ormond. The result was the 1961 pseudo-documentary *Edge of Tomorrow*, a low-budget film blending interview material, dramatized reconstructions, and promotional treatment of Schmidt’s claims. Schmidt appeared in the production himself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://letterboxd.com/film/edge-of-tomorrow-1961/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: letterboxd.com">[letterboxd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">letterboxd.com</span><span class="citation-popover-title">edge of tomorrow 1961</span><span class="citation-popover-snippet">Edge of Tomorrow (1961)A portrait of UFO huckster Reinhold O. Schmidt... Poster for Is Spiritualism a Fraud? – The Medium Expo...</span></span></span> The film is historically revealing because it captures the transition from UFO testimony into entertainment product. Rather than presenting independent evidence, the movie largely depended on Schmidt narrating his own experiences while reenactments visualised his claims. Modern reviewers often describe the film as both strange and exploitative, but it also functions as a time capsule of contactee culture at its commercial peak. <span class="citation-chip-wrap"><a class="citation-chip" href="https://letterboxd.com/film/edge-of-tomorrow-1961/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: letterboxd.com">[Letterboxd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">letterboxd.com</span><span class="citation-popover-title">edge of tomorrow 1961</span><span class="citation-popover-snippet">Edge of Tomorrow (1961)A portrait of UFO huckster Reinhold O. Schmidt... Poster for Is Spiritualism a Fraud? – The Medium Expo...</span></span></span>
 
 ### Rebranding the encounter into a media property
 
@@ -293,7 +291,6 @@ The prosecution argued that the schemes were fraudulent from the beginning. Witn
 
 One especially revealing aspect of the trial was how Schmidt defended himself. Rather than distancing himself from the UFO claims, he doubled down on them in court. He reportedly described spacecraft encounters, cosmic revelations, and even mystical experiences connected to the Great Pyramid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesaucersthattimeforgot.blogspot.com">[The Saucers That Time Forgot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesaucersthattimeforgot.blogspot.com</span><span class="citation-popover-title">the trial of ufo gold digger</span><span class="citation-popover-snippet">convicted for grand theft and fraud... ” Bertha was called as a witness to demonstrate Schmidt had used similar fraudulent techniques on...</span></span></span>
 
-
 <img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_contactee_fraud_fall_46b4fb-Illustration-2-dark.svg" | relative_url }}" alt="Fallout illustration 2" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_contactee_fraud_fall_46b4fb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_contactee_fraud_fall_46b4fb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Carl Sagan’s courtroom appearance
 
@@ -303,7 +300,6 @@ The testimony later became significant in UFO history because Sagan discussed th
 
 Schmidt even persuaded the court to allow jurors to watch *Edge of Tomorrow*. The move failed to help his defence. He was convicted of grand theft in October 1961 and later sentenced to prison. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5lHw8qJ9BY0" title="5 Contactee Cases of the 1950&#x27;s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5lHw8qJ9BY0" target="_blank" rel="noopener noreferrer">5 Contactee Cases of the 1950&#x27;s</a></p><p class="youtube-embed-meta">Channel: Another Realm Media &middot; Views: 92 &middot; Uploaded: April 2022 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5lHw8qJ9BY0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5lHw8qJ9BY0">Open on YouTube</a></p></div></div></div>
 
 ## Why the fraud conviction changed the meaning of the Kearney case
@@ -311,7 +307,6 @@ Schmidt even persuaded the court to allow jurors to watch *Edge of Tomorrow*. Th
 The fraud conviction fundamentally altered how the 1957 encounter was remembered. Before the trial, believers could still argue that Schmidt’s story belonged among unresolved landed-UFO reports of the late 1950s. After the conviction, discussions increasingly framed him as a confidence trickster whose saucer narrative had evolved into a method of extracting money from followers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span>
 
 For sceptics, the sequence looked straightforward:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -328,7 +323,6 @@ Supporters of Schmidt sometimes drew a distinction between the original Nebraska
 
 However, the practical effect was devastating. Once a witness is publicly associated with fraud involving UFO-inspired financial schemes, historians and researchers become far less willing to treat earlier testimony as reliable. Schmidt’s prior criminal history, including an earlier embezzlement conviction before the UFO incident, deepened that credibility problem further. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reinhold O. Schmidt</span><span class="citation-popover-snippet">Reinhold O. Schmidt</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eYsA6PPDZLA" title="The Saucer Life: Eugene Drake" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eYsA6PPDZLA" target="_blank" rel="noopener noreferrer">The Saucer Life: Eugene Drake</a></p><p class="youtube-embed-meta">Channel: Saucer Life &middot; Views: 195 &middot; Uploaded: January 2023 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eYsA6PPDZLA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eYsA6PPDZLA">Open on YouTube</a></p></div></div></div>
 
 ## The case as a warning about contactee culture
@@ -336,7 +330,6 @@ However, the practical effect was devastating. Once a witness is publicly associ
 The Schmidt story is now often used as a cautionary example within UFO history rather than as persuasive evidence of extraterrestrial contact. It demonstrates how contactee narratives could expand from dramatic personal stories into wider systems of belief, commerce, and manipulation.
 
 The trajectory also illustrates a broader pattern of the era:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -352,48 +345,89 @@ That pattern was not unique to Schmidt, but his case became unusually visible be
 
 Today, the Kearney encounter survives mostly as part of the cultural history of 1950s contactee movements rather than as a strong evidential UFO case. Schmidt’s later career ensured that discussions of the original sighting are almost always accompanied by discussion of lectures, crystal ventures, the *Edge of Tomorrow* film, and the fraud conviction that ultimately overshadowed the entire story.
 
-
 <img src="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_contactee_fraud_fall_46b4fb-Illustration-3-dark.svg" | relative_url }}" alt="Fallout illustration 3" data-theme-src-dark="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_contactee_fraud_fall_46b4fb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Reinhold_Schmidt_enc_731a71_contactee_fraud_fall_46b4fb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why Did Schmidt&#x27;s Credibility Collapse?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why Did Schmidt&#x27;s Credibility Collapse?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Reinhold Schmidt guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Reinhold+Schmidt+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Analyzes the 1950s contactee subculture through a folkloric lens, showing why skeptics interpret these elaborate accounts as visionary or...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Contactee Fraud guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Contactee+Fraud+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers+by+Orfeo+Angelucci&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret of the Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LUk4zgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Secret of the Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers+by+Orfeo+Angelucci&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret of the Saucers">The Secret of the Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Orfeo Angelucci</p>
+        
+        <p class="fr-book-desc">Establishes the quintessential 1950s &#x27;Space Brother&#x27; framework that Reinhold Schmidt mirrored when transitioning from a local witness to...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers+by+Orfeo+Angelucci&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Edge of Tomorrow guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Edge+of+Tomorrow+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cold+War+Culture+by+Richard+Alan+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cold War Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6mUssPcOR4MC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cold War Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cold+War+Culture+by+Richard+Alan+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cold War Culture">Cold War Culture</a>
+        </h4>
+        <p class="fr-book-author">By Richard Alan Schwartz</p>
+        
+        <p class="fr-book-desc">Profiles historical financial frauds, matching how Schmidt was convicted in California for crystal-mining scams promoted through his sauc...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cold+War+Culture+by+Richard+Alan+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Provides structural forensic guidelines to audit historical case records and separate genuine observation data from commercial fraud trails.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret of the Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cold+War+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cold War Culture</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -430,15 +464,15 @@ Today, the Kearney encounter survives mostly as part of the cultural history of 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -446,15 +480,15 @@ Today, the Kearney encounter survives mostly as part of the cultural history of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -462,15 +496,15 @@ Today, the Kearney encounter survives mostly as part of the cultural history of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -478,15 +512,15 @@ Today, the Kearney encounter survives mostly as part of the cultural history of 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,7 +528,7 @@ Today, the Kearney encounter survives mostly as part of the cultural history of 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="fallout-why-did-schmidt-s-credibility-collapse-reinhold-schmidt-encounter-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-schmidt-s-credibility-collapse-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="why-did-schmidt-s-credibility-collapse-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -710,78 +744,78 @@ Today, the Kearney encounter survives mostly as part of the cultural history of 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Reinhold O. Schmidt  
-   Link: [https://en.wikipedia.org/wiki/Reinhold_O._Schmidt](https://en.wikipedia.org/wiki/Reinhold_O._Schmidt)  
+   Link: <a href="https://en.wikipedia.org/wiki/Reinhold_O._Schmidt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reinhold_O._Schmidt</a>  
 
 2. <a id="endnote-2"></a>
    Source: letterboxd.com  
    Title: edge of tomorrow 1961  
-   Link: [https://letterboxd.com/film/edge-of-tomorrow-1961/](https://letterboxd.com/film/edge-of-tomorrow-1961/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LetterboxdEdge of Tomorrow (1961)A portrait of UFO huckster Reinhold O. Schmidt... Poster for Is Spiritualism a Fraud? – The Medium Expo...</p></details>
+   Link: <a href="https://letterboxd.com/film/edge-of-tomorrow-1961/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/film/edge-of-tomorrow-1961/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Edge of Tomorrow (1961)A portrait of UFO huckster Reinhold O. Schmidt... Poster for Is Spiritualism a Fraud? – The Medium Expo...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=zjF52HHXw9Q](https://www.youtube.com/watch?v=zjF52HHXw9Q)  
+   Link: <a href="https://www.youtube.com/watch?v=zjF52HHXw9Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zjF52HHXw9Q</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reinhold O. SchmidtSchmidt&#x27;s booklet was retitled Edge of Tomorrow to match the film, illustrated with stills from the film, and w...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Vw8yws6md04](https://www.youtube.com/watch?v=Vw8yws6md04)  
+   Link: <a href="https://www.youtube.com/watch?v=Vw8yws6md04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vw8yws6md04</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reinhold O. Schmidt...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5lHw8qJ9BY0](https://www.youtube.com/watch?v=5lHw8qJ9BY0)  
+   Link: <a href="https://www.youtube.com/watch?v=5lHw8qJ9BY0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5lHw8qJ9BY0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Saucer Life: Eugene Drake...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Saucer Life: Eugene Drake  
-   Link: [https://www.youtube.com/watch?v=eYsA6PPDZLA](https://www.youtube.com/watch?v=eYsA6PPDZLA)  
+   Link: <a href="https://www.youtube.com/watch?v=eYsA6PPDZLA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eYsA6PPDZLA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Art Campbell: Eisenhower UFO Contact and Nuclear War?...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Art Campbell: Eisenhower UFO Contact and Nuclear War?  
-   Link: [https://www.youtube.com/watch?v=Ei43TBL8x_0](https://www.youtube.com/watch?v=Ei43TBL8x_0)  
+   Link: <a href="https://www.youtube.com/watch?v=Ei43TBL8x_0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ei43TBL8x_0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>¿El fraude del contactismo alienígena? | Toro del Cielo Toro del Cielo · 6.1K views...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtu.be  
    Title: News Nation  
-   Link: [https://youtu.be/JzS2GqSB6OI](https://youtu.be/JzS2GqSB6OI)  
+   Link: <a href="https://youtu.be/JzS2GqSB6OI" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/JzS2GqSB6OI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BASHAR Explains WHY the GREYS Want Our Human DNA Gaia...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: thesaucersthattimeforgot.blogspot.com  
    Title: the trial of ufo gold digger  
-   Link: [https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html](https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html)  
+   Link: <a href="https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html" target="_blank" rel="noopener noreferrer nofollow">https://thesaucersthattimeforgot.blogspot.com/2020/08/the-trial-of-ufo-gold-digger.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>convicted for grand theft and fraud... ” Bertha was called as a witness to demonstrate Schmidt had used similar fraudulent techniques on...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: marcfusion.com  
    Title: edge of tomorrow 1961  
-   Link: [https://marcfusion.com/2023/07/13/edge-of-tomorrow-1961/](https://marcfusion.com/2023/07/13/edge-of-tomorrow-1961/)  
+   Link: <a href="https://marcfusion.com/2023/07/13/edge-of-tomorrow-1961/" target="_blank" rel="noopener noreferrer nofollow">https://marcfusion.com/2023/07/13/edge-of-tomorrow-1961/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Edge of Tomorrow (1961) - Marc Fusion13 Jul 2023 — Schmidt claims to have not only witnessed an alien spacecraft, but he went onto the cr...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/bub_gb_LaUnOztbkP4C/bub_gb_LaUnOztbkP4C.pdf](https://archive.org/download/bub_gb_LaUnOztbkP4C/bub_gb_LaUnOztbkP4C.pdf)  
+   Link: <a href="https://archive.org/download/bub_gb_LaUnOztbkP4C/bub_gb_LaUnOztbkP4C.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/bub_gb_LaUnOztbkP4C/bub_gb_LaUnOztbkP4C.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>technology, age or prove- nance, may alter the...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: resolve.cambridge.org  
    Title: esp and the big stuff  
-   Link: [https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/EB5D053AD29B8C763994C893FAABBE80/S0140525X00054716a.pdf/esp_and_the_big_stuff.pdf](https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/EB5D053AD29B8C763994C893FAABBE80/S0140525X00054716a.pdf/esp_and_the_big_stuff.pdf)  
+   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/EB5D053AD29B8C763994C893FAABBE80/S0140525X00054716a.pdf/esp_and_the_big_stuff.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/EB5D053AD29B8C763994C893FAABBE80/S0140525X00054716a.pdf/esp_and_the_big_stuff.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anomaly called psi: Recent research and criticismIt is concluded that the possibility of sensory cues, machine bias, cheating by subjects...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dspace.mit.edu  
-   Link: [https://dspace.mit.edu/server/api/core/bitstreams/428cedbf-ebf5-4f63-8d04-92fae6a1f601/content](https://dspace.mit.edu/server/api/core/bitstreams/428cedbf-ebf5-4f63-8d04-92fae6a1f601/content)  
+   Link: <a href="https://dspace.mit.edu/server/api/core/bitstreams/428cedbf-ebf5-4f63-8d04-92fae6a1f601/content" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/server/api/core/bitstreams/428cedbf-ebf5-4f63-8d04-92fae6a1f601/content</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12 1983by NJ Reichman · 1983 · Cited by 9 — Legitimate transactions and organizations cover-up fraudulent intent and shield fraud offende...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt28812626/](https://www.imdb.com/title/tt28812626/)  
+   Link: <a href="https://www.imdb.com/title/tt28812626/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt28812626/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Edge of Tomorrow (1961)Edge of Tomorrow: Directed by June Carr, Ron Ormond. With Reinhold Schmidt...</p></details>

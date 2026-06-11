@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -436,9 +436,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Flight 19
   permalink: /flight-19-incident-1945/
   short_title: Flight 19
-date: '2026-06-08 23:25:05 '
+date: '2026-06-11 13:15:43 '
 header:
   og_image: /assets/images/Flatwoods_incident_1_ff4486-overview-social.jpg
   preview_image: /assets/images/Flatwoods_incident_1_ff4486-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Flatwoods_incident_1_ff4486-overview-social.jpg
 ## What happened on the evening of 12 September 1952?
 
 The basic chronology is unusually vivid, but not unusually secure. Accounts agree that the episode began near dusk, around 7:15 p.m., while several boys were playing near Flatwoods Elementary School. They saw a bright light or fireball cross the sky and appear to come down near the hill on G. Bailey Fisher’s farm. The boys went to the May home, where Kathleen May joined them, along with National Guardsman Eugene Lemon and others, to investigate the apparent landing place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://braxtonwv.org/the-flatwoods-monster/folklore/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: braxtonwv.org">[Visit Braxton, WV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">braxtonwv.org</span><span class="citation-popover-title">Visit Braxton, WVFolklore</span><span class="citation-popover-snippet">Visit Braxton, WVFolklore</span></span></span>
-
 
 <img src="{{ "/assets/images/Flatwoods_incident_1_ff4486-overview.webp" | relative_url }}" alt="Overview image for Flatwoods incident 1952" loading="eager" decoding="sync" fetchpriority="high">
 The group usually named in later accounts includes Kathleen May, her sons Eddie and Freddie May, Neil Nunley, Tommy Hyer, Ronnie Shaver and Eugene Lemon, though lists differ slightly across retellings. The West Virginia Encyclopedia gives a seven-person party and places the incident within Braxton County folklore; the Braxton County visitors’ account names the boys, Kathleen May, Lemon and the family dog, Richie. Such small variations do not destroy the case, but they are a warning that the story reached the public through memory, local reporting, UFO writers and later folklore rather than through a single clean investigative record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wvencyclopedia.org">[West Virginia Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wvencyclopedia.org</span><span class="citation-popover-title">West Virginia Encyclopediae-WV</span><span class="citation-popover-snippet">West Virginia Encyclopediae-WV</span></span></span>
@@ -774,7 +773,6 @@ Flatwoods was especially newsworthy because it was not just a light in the sky. 
 
 Early UFO writer Gray Barker was important in fixing the case’s shape. A Library of Congress annotated UFO bibliography lists Barker’s January 1953 Fate magazine article, “The Monster and the Saucer”, as an account of his investigation of a 12 September 1952 sighting near Flatwoods involving a “ten-foot, red-faced monster” and seven witnesses whose stories agreed. That source is useful for provenance: it shows how quickly the case moved from local incident to UFO literature, while also reminding readers that one of the major early channels was a sensationalist popular magazine rather than a forensic inquiry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: governmentattic.org">[Government Attic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">governmentattic.org</span><span class="citation-popover-title">UFOsRelatedSubjBiblio Catoe 1969</span><span class="citation-popover-snippet">UFOsRelatedSubjBiblio Catoe 1969</span></span></span>
 
-
 <img src="{{ "/assets/images/Flatwoods_incident_1_ff4486-Illustration-1-dark.svg" | relative_url }}" alt="Flatwoods incident 1952 illustration 1" data-theme-src-dark="{{ "/assets/images/Flatwoods_incident_1_ff4486-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Flatwoods_incident_1_ff4486-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What evidence was actually reported?
 
@@ -785,7 +783,6 @@ The sky event is the strongest objective element. Multiple sources describe a br
 The physical evidence is weaker. Visit Braxton’s Nickell excerpt says a few locals and then the sheriff and a deputy searched the site but “saw, heard and smelled nothing”; it also says that the next day A. Lee Stewart Jr. of the Braxton Democrat found skid marks and an “odd, gummy deposit”, later treated by some as saucer traces. The West Virginia Encyclopedia similarly mentions a lingering odour, skid marks and trampled grass. These details are part of the case history, but they were not preserved as controlled, chain-of-custody evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://braxtonwv.org/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: braxtonwv.org">[Visit Braxton, WV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">braxtonwv.org</span><span class="citation-popover-title">Visit Braxton, WVThe Flatwoods Monster</span><span class="citation-popover-snippet">Visit Braxton, WVThe Flatwoods Monster</span></span></span>
 
 The illness reports are also ambiguous. Some witnesses later reported throat irritation, nausea or vomiting. Visit Braxton’s local tourism account notes that such symptoms were often dismissed as hysteria, while also pointing to more dramatic interpretations such as gas exposure. A cautious assessment should not turn those symptoms into proof of either [explanation]({{ 'explanation/' | relative_url }}): fear, exertion, a steep night-time climb, local odours, anxiety and expectation could all contribute, but the available public record does not supply medical data strong enough to identify a cause. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://braxtonwv.org/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: braxtonwv.org">[Visit Braxton, WV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">braxtonwv.org</span><span class="citation-popover-title">Visit Braxton, WVThe Flatwoods Monster</span><span class="citation-popover-snippet">Visit Braxton, WVThe Flatwoods Monster</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Pex7x4Z9htw" title="The Most Puzzling UFO Case of the 20th Century | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer">The Most Puzzling UFO Case of the 20th Century | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 550.4K &middot; Uploaded: July 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Pex7x4Z9htw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Pex7x4Z9htw">Open on YouTube</a></p></div></div></div>
 
@@ -805,7 +802,6 @@ In this interpretation, the initial “UFO” was a meteor that appeared to fall
 
 This explanation is not perfect in the sense of recreating every detail with laboratory precision. It is persuasive because it accounts for the main components without adding unsupported machinery: a real light in the sky, a mistaken assumption that it landed nearby, a night-time search by primed witnesses, a brief flashlight glimpse of an animal shape, and later embellishment or stabilisation through drawings, newspaper retellings and UFO literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://braxtonwv.org/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: braxtonwv.org">[Visit Braxton, WV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">braxtonwv.org</span><span class="citation-popover-title">Visit Braxton, WVThe Flatwoods Monster</span><span class="citation-popover-snippet">Visit Braxton, WVThe Flatwoods Monster</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-5RuMoVfIec" title="Why Has the Majestic Griffin Been Forgotten? | Monstrum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-5RuMoVfIec" target="_blank" rel="noopener noreferrer">Why Has the Majestic Griffin Been Forgotten? | Monstrum</a></p><p class="youtube-embed-meta">Channel: Storied &middot; Views: 297.9K &middot; Uploaded: May 2022 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-5RuMoVfIec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-5RuMoVfIec">Open on YouTube</a></p></div></div></div>
 
 ## What still makes the case interesting?
@@ -824,49 +820,89 @@ The evidential judgement is narrower. The meteor explanation fits the opening sk
 
 The Flatwoods incident is therefore best understood as a classic UFO-era folklore case built around a probably real fireball, a brief and frightening hilltop misidentification, and a powerful image that outlived the evidence. Its unresolved element is not a hidden proof of alien contact, but the ordinary historical difficulty of reconstructing a few minutes of fear, darkness and expectation more than seventy years later.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I0_8n3pVxg4" title="September 12, 1952: Monster Seen in West Virginia (Flatwoods Monster)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I0_8n3pVxg4" target="_blank" rel="noopener noreferrer">September 12, 1952: Monster Seen in West Virginia (Flatwoods Monster)</a></p><p class="youtube-embed-meta">Channel: History and Headlines &middot; Views: 1.8K &middot; Uploaded: May 2020 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I0_8n3pVxg4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I0_8n3pVxg4">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened at Flatwoods?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened at Flatwoods?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Flatwoods monster guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Flatwoods+monster+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Details the 1952 creature encounter, the seven-person party evidence, and the subsequent folkloric impact.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">West Virginia folklore guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=West+Virginia+folklore+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Establishes standard protocol baselines for evaluating law-enforcement witness notifications of ground-stalling landing alerts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Meteor Sighting guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Meteor+Sighting+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches methodology to critique group report clusters and separate verified mechanical failure data from coincidental meteor/storm activity.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides institutional background on how 1950s investigative bureaus indexed and eventually rejected local monster-sightings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -903,15 +939,15 @@ The Flatwoods incident is therefore best understood as a classic UFO-era folklor
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -919,15 +955,15 @@ The Flatwoods incident is therefore best understood as a classic UFO-era folklor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -935,15 +971,15 @@ The Flatwoods incident is therefore best understood as a classic UFO-era folklor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -951,15 +987,15 @@ The Flatwoods incident is therefore best understood as a classic UFO-era folklor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -967,7 +1003,7 @@ The Flatwoods incident is therefore best understood as a classic UFO-era folklor
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="flatwoods-incident-1952-what-really-happened-at-flatwoods-ufo-poster-series-television-gerry-anderson-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1183,199 +1219,199 @@ The Flatwoods incident is therefore best understood as a classic UFO-era folklor
 1. <a id="endnote-1"></a>
    Source: braxtonwv.org  
    Title: Visit Braxton, WVFolklore  
-   Link: [https://braxtonwv.org/the-flatwoods-monster/folklore/](https://braxtonwv.org/the-flatwoods-monster/folklore/)  
+   Link: <a href="https://braxtonwv.org/the-flatwoods-monster/folklore/" target="_blank" rel="noopener noreferrer nofollow">https://braxtonwv.org/the-flatwoods-monster/folklore/</a>  
 
 2. <a id="endnote-2"></a>
    Source: braxtonwv.org  
    Title: Visit Braxton, WVThe Flatwoods Monster  
-   Link: [https://braxtonwv.org/the-flatwoods-monster/](https://braxtonwv.org/the-flatwoods-monster/)  
+   Link: <a href="https://braxtonwv.org/the-flatwoods-monster/" target="_blank" rel="noopener noreferrer nofollow">https://braxtonwv.org/the-flatwoods-monster/</a>  
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 4. <a id="endnote-4"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/research/cartographic/pi-195-soil-conservation-service.pdf](https://www.archives.gov/files/research/cartographic/pi-195-soil-conservation-service.pdf)  
+   Link: <a href="https://www.archives.gov/files/research/cartographic/pi-195-soil-conservation-service.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/cartographic/pi-195-soil-conservation-service.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: georgewbush-whitehouse.archives.gov  
    Title: gov1. Instructions  
-   Link: [https://georgewbush-whitehouse.archives.gov/omb/procurement/fair/2004fair_spreadsheet.xls](https://georgewbush-whitehouse.archives.gov/omb/procurement/fair/2004fair_spreadsheet.xls)  
+   Link: <a href="https://georgewbush-whitehouse.archives.gov/omb/procurement/fair/2004fair_spreadsheet.xls" target="_blank" rel="noopener noreferrer nofollow">https://georgewbush-whitehouse.archives.gov/omb/procurement/fair/2004fair_spreadsheet.xls</a>  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: The Flatwoods Monster: A Legacy of Fear  
-   Link: [https://www.youtube.com/watch?v=Jm0uJ-tS_eQ](https://www.youtube.com/watch?v=Jm0uJ-tS_eQ)  
+   Link: <a href="https://www.youtube.com/watch?v=Jm0uJ-tS_eQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jm0uJ-tS_eQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flatwoods Monster - West Virginia&#x27;s Infamous Alien Encounter...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: The Flatwoods Monster  
-   Link: [https://www.youtube.com/watch?v=Gk6W5w-yv5U](https://www.youtube.com/watch?v=Gk6W5w-yv5U)  
+   Link: <a href="https://www.youtube.com/watch?v=Gk6W5w-yv5U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gk6W5w-yv5U</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Behind the 1952 Legend...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: wvencyclopedia.org  
    Title: West Virginia Encyclopediae-WV  
-   Link: [https://www.wvencyclopedia.org/articles/2192](https://www.wvencyclopedia.org/articles/2192)  
+   Link: <a href="https://www.wvencyclopedia.org/articles/2192" target="_blank" rel="noopener noreferrer nofollow">https://www.wvencyclopedia.org/articles/2192</a>  
 
 11. <a id="endnote-11"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer The Flatwoods UFO Monster  
-   Link: [https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/](https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/)  
+   Link: <a href="https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2000/11/the-flatwoods-ufo-monster/</a>  
 
 12. <a id="endnote-12"></a>
    Source: governmentattic.org  
    Title: UFOsRelatedSubjBiblio Catoe 1969  
-   Link: [https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf](https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf)  
+   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Flatwoods monster  
-   Link: [https://en.wikipedia.org/wiki/Flatwoods_monster](https://en.wikipedia.org/wiki/Flatwoods_monster)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flatwoods_monster" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flatwoods_monster</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Joe Nickell  
-   Link: [https://en.wikipedia.org/wiki/Joe_Nickell](https://en.wikipedia.org/wiki/Joe_Nickell)  
+   Link: <a href="https://en.wikipedia.org/wiki/Joe_Nickell" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Joe_Nickell</a>  
 
 16. <a id="endnote-16"></a>
    Source: centerforinquiry.org  
    Title: Joe Nickell | Center for Inquiry A Pilot Comments on UFOs  
-   Link: [https://centerforinquiry.org/blog/authors/nickell-joe/page/20/](https://centerforinquiry.org/blog/authors/nickell-joe/page/20/)  
+   Link: <a href="https://centerforinquiry.org/blog/authors/nickell-joe/page/20/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/authors/nickell-joe/page/20/</a>  
 
 17. <a id="endnote-17"></a>
    Source: centerforinquiry.org  
    Title: Joe Nickell | Center for Inquiry Plane Abducted by UFO?  
-   Link: [https://centerforinquiry.org/blog/authors/nickell-joe/](https://centerforinquiry.org/blog/authors/nickell-joe/)  
+   Link: <a href="https://centerforinquiry.org/blog/authors/nickell-joe/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/authors/nickell-joe/</a>  
 
 18. <a id="endnote-18"></a>
    Source: centerforinquiry.org  
-   Link: [https://centerforinquiry.org/blog/category/investigative-briefs/page/10/](https://centerforinquiry.org/blog/category/investigative-briefs/page/10/)  
+   Link: <a href="https://centerforinquiry.org/blog/category/investigative-briefs/page/10/" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/category/investigative-briefs/page/10/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100063622068746/mentions/](https://www.facebook.com/100063622068746/mentions/)  
+   Link: <a href="https://www.facebook.com/100063622068746/mentions/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063622068746/mentions/</a>  
 
 20. <a id="endnote-20"></a>
    Source: skepticalinquirer.org  
    Title: mothman revisitedinvestigating on site  
-   Link: [https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/](https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/)  
+   Link: <a href="https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/newsletter/mothman-revisitedinvestigating-on-site/</a>  
 
 21. <a id="endnote-21"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2015/11/the-search-for-negative-evidence/](https://skepticalinquirer.org/2015/11/the-search-for-negative-evidence/)  
+   Link: <a href="https://skepticalinquirer.org/2015/11/the-search-for-negative-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/11/the-search-for-negative-evidence/</a>  
 
 22. <a id="endnote-22"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2003/01/amityville-the-horror-of-it-all/](https://skepticalinquirer.org/2003/01/amityville-the-horror-of-it-all/)  
+   Link: <a href="https://skepticalinquirer.org/2003/01/amityville-the-horror-of-it-all/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2003/01/amityville-the-horror-of-it-all/</a>  
 
 23. <a id="endnote-23"></a>
    Source: skepticalinquirer.org  
    Title: remembering joe nickell iconic skeptic and investigator  
-   Link: [https://skepticalinquirer.org/exclusive/remembering-joe-nickell-iconic-skeptic-and-investigator/](https://skepticalinquirer.org/exclusive/remembering-joe-nickell-iconic-skeptic-and-investigator/)  
+   Link: <a href="https://skepticalinquirer.org/exclusive/remembering-joe-nickell-iconic-skeptic-and-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/exclusive/remembering-joe-nickell-iconic-skeptic-and-investigator/</a>  
 
 24. <a id="endnote-24"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JA-15.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JA-15.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JA-15.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-JA-15.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: beyondhaunted.com  
    Title: flatwoods monster  
-   Link: [https://beyondhaunted.com/blog/flatwoods-monster](https://beyondhaunted.com/blog/flatwoods-monster)  
+   Link: <a href="https://beyondhaunted.com/blog/flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://beyondhaunted.com/blog/flatwoods-monster</a>  
 
 26. <a id="endnote-26"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203](https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203)  
+   Link: <a href="https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/project-blue-book-140388203/140388203</a>  
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
    Title: Project Blue Book  
-   Link: [https://www.reddit.com/r/ProjectBlueBookTV/comments/ag2ldc/project_blue_book_episode_2_the_flatwoods_monster/](https://www.reddit.com/r/ProjectBlueBookTV/comments/ag2ldc/project_blue_book_episode_2_the_flatwoods_monster/)  
+   Link: <a href="https://www.reddit.com/r/ProjectBlueBookTV/comments/ag2ldc/project_blue_book_episode_2_the_flatwoods_monster/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ProjectBlueBookTV/comments/ag2ldc/project_blue_book_episode_2_the_flatwoods_monster/</a>  
 
 28. <a id="endnote-28"></a>
    Source: tsemrinpoche.com  
    Title: the flatwoods monster  
-   Link: [https://www.tsemrinpoche.com/tsem-tulku-rinpoche/paranormal/creatures-and-monsters/the-flatwoods-monster.html](https://www.tsemrinpoche.com/tsem-tulku-rinpoche/paranormal/creatures-and-monsters/the-flatwoods-monster.html)  
+   Link: <a href="https://www.tsemrinpoche.com/tsem-tulku-rinpoche/paranormal/creatures-and-monsters/the-flatwoods-monster.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tsemrinpoche.com/tsem-tulku-rinpoche/paranormal/creatures-and-monsters/the-flatwoods-monster.html</a>  
 
 29. <a id="endnote-29"></a>
    Source: origins.osu.edu  
    Title: project blue book  
-   Link: [https://origins.osu.edu/watch/project-blue-book](https://origins.osu.edu/watch/project-blue-book)  
+   Link: <a href="https://origins.osu.edu/watch/project-blue-book" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/watch/project-blue-book</a>  
 
 30. <a id="endnote-30"></a>
    Source: cryptozoologycryptids.fandom.com  
    Title: Flatwoods Monster  
-   Link: [https://cryptozoologycryptids.fandom.com/wiki/Flatwoods_Monster](https://cryptozoologycryptids.fandom.com/wiki/Flatwoods_Monster)  
+   Link: <a href="https://cryptozoologycryptids.fandom.com/wiki/Flatwoods_Monster" target="_blank" rel="noopener noreferrer nofollow">https://cryptozoologycryptids.fandom.com/wiki/Flatwoods_Monster</a>  
 
 31. <a id="endnote-31"></a>
    Source: vocal.media  
    Title: The Flatwoods Monster | FYI  
-   Link: [https://vocal.media/fyi/the-flatwoods-monster](https://vocal.media/fyi/the-flatwoods-monster)  
+   Link: <a href="https://vocal.media/fyi/the-flatwoods-monster" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/fyi/the-flatwoods-monster</a>  
 
 32. <a id="endnote-32"></a>
    Source: flatwoodswv.org  
-   Link: [https://flatwoodswv.org/history/](https://flatwoodswv.org/history/)  
+   Link: <a href="https://flatwoodswv.org/history/" target="_blank" rel="noopener noreferrer nofollow">https://flatwoodswv.org/history/</a>  
 
 ### Additional References
 
 33. <a id="endnote-33"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=aG9Gf2-J0hA](https://www.youtube.com/watch?v=aG9Gf2-J0hA)  
+   Link: <a href="https://www.youtube.com/watch?v=aG9Gf2-J0hA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aG9Gf2-J0hA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Happened at Flatwoods? | Cryptid Encounters...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: What Really Happened at Flatwoods? | Cryptid Encounters  
-   Link: [https://www.youtube.com/watch?v=482D1V5D0iU](https://www.youtube.com/watch?v=482D1V5D0iU)  
+   Link: <a href="https://www.youtube.com/watch?v=482D1V5D0iU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=482D1V5D0iU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phantom of Flatwoods - 1952 UFO Case Explained...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/title/tt7620540/](https://www.imdb.com/title/tt7620540/)  
+   Link: <a href="https://www.imdb.com/title/tt7620540/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt7620540/</a>  
 
 37. <a id="endnote-37"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DK7DkSXRsve/](https://www.instagram.com/p/DK7DkSXRsve/)  
+   Link: <a href="https://www.instagram.com/p/DK7DkSXRsve/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DK7DkSXRsve/</a>  
 
 38. <a id="endnote-38"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/](https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/)  
+   Link: <a href="https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Cryptozoology/comments/jrzroh/flat_woods_monster_of_west_virginia/</a>  
 
 39. <a id="endnote-39"></a>
    Source: centerforinquiry.org  
-   Link: [https://centerforinquiry.org/blog/authors/nickell-joe/page/40/?ms=FIfacebook](https://centerforinquiry.org/blog/authors/nickell-joe/page/40/?ms=FIfacebook)  
+   Link: <a href="https://centerforinquiry.org/blog/authors/nickell-joe/page/40/?ms=FIfacebook" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.org/blog/authors/nickell-joe/page/40/?ms=FIfacebook</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nytimes/posts/joe-nickell-as-a-paranormal-investigator-was-in-high-demand-studying-ghosts-the-/1063300672319062/](https://www.facebook.com/nytimes/posts/joe-nickell-as-a-paranormal-investigator-was-in-high-demand-studying-ghosts-the-/1063300672319062/)  
+   Link: <a href="https://www.facebook.com/nytimes/posts/joe-nickell-as-a-paranormal-investigator-was-in-high-demand-studying-ghosts-the-/1063300672319062/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nytimes/posts/joe-nickell-as-a-paranormal-investigator-was-in-high-demand-studying-ghosts-the-/1063300672319062/</a>  
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SBSAustralia/posts/new-sci-fi-drama-project-blue-book-tells-the-true-story-behind-ufo-sightings-bas/10157156027723686/](https://www.facebook.com/SBSAustralia/posts/new-sci-fi-drama-project-blue-book-tells-the-true-story-behind-ufo-sightings-bas/10157156027723686/)  
+   Link: <a href="https://www.facebook.com/SBSAustralia/posts/new-sci-fi-drama-project-blue-book-tells-the-true-story-behind-ufo-sightings-bas/10157156027723686/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SBSAustralia/posts/new-sci-fi-drama-project-blue-book-tells-the-true-story-behind-ufo-sightings-bas/10157156027723686/</a>  
 
 42. <a id="endnote-42"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/ebooks/66639.txt.utf-8](https://www.gutenberg.org/ebooks/66639.txt.utf-8)  
+   Link: <a href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/66639.txt.utf-8</a>

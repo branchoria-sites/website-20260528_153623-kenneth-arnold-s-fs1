@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /herbert-schirmer-abd-b149a3-index/
 description: Focused pages that expand on Herbert Schirmer abduction 1967.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Herbert_Schirmer_abd_b149a3
 parent_title: Herbert Schirmer abduction 1967

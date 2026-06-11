@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /farmington-sightings-46c4ec-index/
 description: Focused pages that expand on Farmington sightings 1950.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Farmington_sightings_46c4ec
 parent_title: Farmington sightings 1950

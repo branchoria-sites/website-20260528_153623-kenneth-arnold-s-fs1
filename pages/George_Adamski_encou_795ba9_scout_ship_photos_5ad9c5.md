@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /george-adamski-encounters-1953/
 nav_short_title: Photos
 title: Was Adamski's Scout Ship a Model?
-title_full: Was Adamski's Scout Ship a Model? | Adamski
+title_full: Was Adamski's Scout Ship a Model?
 display_title_short: Photos
 display_title: Photos
 heading_title: Was Adamski's Scout Ship a Model?
@@ -233,7 +233,7 @@ next_link:
   permalink: /timeline-28f171/
   short_title: Timeline
   heading_title: When Did the Adamski Encounter Really Happen?
-date: '2026-06-08 23:18:42 '
+date: '2026-06-11 13:11:24 '
 header:
   og_image: /assets/images/George_Adamski_encou_795ba9_scout_ship_photos_5ad9c5-Illustration-1-social.jpg
   preview_image: /assets/images/George_Adamski_encou_795ba9_scout_ship_photos_5ad9c5-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/George_Adamski_encou_795ba9_scout_ship_photos_5ad9c5-Illus
 
 ## Introduction
 
-George Adamski’s “scout ship” photographs became some of the most famous UFO images of the 1950s because they seemed unusually clear for their era. Unlike distant lights or blurred discs, Adamski’s pictures showed a detailed, bell-shaped craft with portholes, landing spheres and a structured underside. Supporters treated the images as rare close-up evidence of extraterrestrial technology. Critics saw something else entirely: a small household object photographed to appear enormous. Over time, the debate shifted from “Is this a real UFO?” to “Exactly which everyday object was used to make it?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Adamski</span><span class="citation-popover-snippet">George Adamski</span></span></span> History The most enduring sceptical explanation is the <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">george adamski ufo alien photos</span><span class="citation-popover-snippet">HistoryGeorge Adamski Got Famous Sharing His UFO Photos and...9 Jan 2020 — Adamski had multiple claims to UFO fame. Starting in the late...</span></span></span>“lantern shade” theory. Earlier critics often described the object as a chicken brooder or lamp component, but later researchers attempted more specific identifications, arguing that the scout ship closely resembled parts from mid-twentieth-century pressure lanterns or heating devices. The controversy matters because Adamski’s photographs helped define the visual language of flying saucers for decades. They also became an early lesson in how difficult it is to authenticate dramatic UFO photography when the image lacks independent provenance, scale references or verifiable negatives.
-
+George Adamski’s “scout ship” photographs became some of the most famous UFO images of the 1950s because they seemed unusually clear for their era. Unlike distant lights or blurred discs, Adamski’s pictures showed a detailed, bell-shaped craft with portholes, landing spheres and a structured underside. Supporters treated the images as rare close-up evidence of extraterrestrial technology. Critics saw something else entirely: a small household object photographed to appear enormous. Over time, the debate shifted from “Is this a real UFO?” to “Exactly which everyday object was used to make it?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Adamski</span><span class="citation-popover-snippet">George Adamski</span></span></span> History The most enduring sceptical explanation is the <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">george adamski ufo alien photos</span><span class="citation-popover-snippet">George Adamski Got Famous Sharing His UFO Photos and...9 Jan 2020 — Adamski had multiple claims to UFO fame. Starting in the late...</span></span></span>“lantern shade” theory. Earlier critics often described the object as a chicken brooder or lamp component, but later researchers attempted more specific identifications, arguing that the scout ship closely resembled parts from mid-twentieth-century pressure lanterns or heating devices. The controversy matters because Adamski’s photographs helped define the visual language of flying saucers for decades. They also became an early lesson in how difficult it is to authenticate dramatic UFO photography when the image lacks independent provenance, scale references or verifiable negatives.
 
 <img src="{{ "/assets/images/George_Adamski_encou_795ba9_scout_ship_photos_5ad9c5-Illustration-1-dark.svg" | relative_url }}" alt="Photos illustration 1" data-theme-src-dark="{{ "/assets/images/George_Adamski_encou_795ba9_scout_ship_photos_5ad9c5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/George_Adamski_encou_795ba9_scout_ship_photos_5ad9c5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the famous saucer photo shows
@@ -256,7 +255,6 @@ The photographs also matched the emerging “contactee” mythology of the early
 
 One reason the picture remained culturally influential is that it looked visually complete. The object had enough detail to appear convincing at first glance, yet not enough detail to prove scale or material composition. That ambiguity helped the image survive for decades in books, magazines and television documentaries even after mainstream UFO investigators became sceptical of Adamski’s claims.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5GIjWsTCnUQ" title="The Secret of the Nordic Aliens // 3D CGI Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5GIjWsTCnUQ" target="_blank" rel="noopener noreferrer">The Secret of the Nordic Aliens // 3D CGI Animation</a></p><p class="youtube-embed-meta">Channel: Mac Mave Studios &middot; Views: 597.1K &middot; Uploaded: August 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5GIjWsTCnUQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5GIjWsTCnUQ">Open on YouTube</a></p></div></div></div>
 
 ## The lantern shade comparison
@@ -265,10 +263,9 @@ The sceptical explanation emerged quickly. Even in the 1950s, critics argued tha
 
 A major feature attracting suspicion was the underside of the craft. Critics argued that the three rounded “landing gear” components resembled light bulbs. According to later accounts summarising sceptical investigations, rocket engineer Walther Johannes Riedel reportedly claimed the protrusions were General Electric bulbs and that the overall object was assembled from familiar manufactured parts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Adamski</span><span class="citation-popover-snippet">George Adamski</span></span></span>
 
-The debate became more specific decades later when researchers tried to identify an exact source object rather than merely noting a resemblance. A frequently cited modern analysis proposed that the main body matched the reflector shade of a 1930s pressure lantern manufactured by Prentiss-Waber. Researchers pointed to similarities in curvature, vent openings and attachment points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/669235348/Adamski-Scout-Ship-Hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Adamski Scout Ship Hoax</span><span class="citation-popover-snippet">ScribdIdentifying Adamski&#x27;s Scout Ship Model | PDF | Lantern2 Apr 2012 — The document summarizes research identifying the object photogra...</span></span></span>
+The debate became more specific decades later when researchers tried to identify an exact source object rather than merely noting a resemblance. A frequently cited modern analysis proposed that the main body matched the reflector shade of a 1930s pressure lantern manufactured by Prentiss-Waber. Researchers pointed to similarities in curvature, vent openings and attachment points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/669235348/Adamski-Scout-Ship-Hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Adamski Scout Ship Hoax</span><span class="citation-popover-snippet">Identifying Adamski&#x27;s Scout Ship Model &#124; PDF &#124; Lantern2 Apr 2012 — The document summarizes research identifying the object photogra...</span></span></span>
 
 This later lantern-shade explanation mattered because it changed the criticism from a vague accusation into a mechanical reconstruction argument. Instead of simply saying “the UFO looks fake”, sceptics attempted to show how a fake could have been physically assembled:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -286,14 +283,12 @@ Critics also pointed to the absence of conventional aerodynamic or engineering l
 
 Believers responded that resemblance alone proves little. Many manufactured objects share circular or domed shapes. Some argued that sceptics merely searched for everyday items vaguely matching the silhouette after the fact. Others claimed the photographs showed lighting reflections and depth cues difficult to reproduce with a tiny model. This disagreement became typical of later UFO-image disputes: one side emphasised visual similarity to known objects, while the other stressed the lack of definitive proof of fabrication.
 
-
 <img src="{{ "/assets/images/George_Adamski_encou_795ba9_scout_ship_photos_5ad9c5-Illustration-2-dark.svg" | relative_url }}" alt="Photos illustration 2" data-theme-src-dark="{{ "/assets/images/George_Adamski_encou_795ba9_scout_ship_photos_5ad9c5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/George_Adamski_encou_795ba9_scout_ship_photos_5ad9c5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Adamski’s photos convinced so many people
 
 The Adamski photographs succeeded partly because they appeared at a transitional moment in media culture. Photography still carried enormous authority in the public imagination. Most viewers lacked experience with photographic hoaxes, compositing or scale tricks. A sharp image itself often implied authenticity.
 
 Several other factors strengthened the photographs’ impact:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -305,7 +300,6 @@ Several other factors strengthened the photographs’ impact:
 </div>
 
 The visual design itself also mattered. Adamski’s scout ship became one of the defining “classic saucer” forms of the contactee era. Later fictional UFO imagery — especially in pulp art and low-budget science fiction — often echoed the same bell-and-dome silhouette. Even critics acknowledged the image’s aesthetic power.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yuRmpG-pJ3s" title="The Man From Venus and the Alien Contactee George Adamski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yuRmpG-pJ3s" target="_blank" rel="noopener noreferrer">The Man From Venus and the Alien Contactee George Adamski</a></p><p class="youtube-embed-meta">Channel: Data1B4 &middot; Views: 824 &middot; Uploaded: November 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yuRmpG-pJ3s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yuRmpG-pJ3s">Open on YouTube</a></p></div></div></div>
 
@@ -328,7 +322,6 @@ The dispute also illustrates the limits of photographic “expert” testimony. 
 
 Modern digital analysis has not resolved the question decisively in a scientific sense, but the balance of opinion among historians, sceptics and mainstream UFO researchers has generally moved toward the model explanation. Even many investigators sympathetic to unidentified aerial phenomena regard the Adamski scout ship photographs as weak evidence because the mundane-object hypothesis explains the imagery without requiring extraterrestrial visitation.
 
-
 <img src="{{ "/assets/images/George_Adamski_encou_795ba9_scout_ship_photos_5ad9c5-Illustration-3-dark.svg" | relative_url }}" alt="Photos illustration 3" data-theme-src-dark="{{ "/assets/images/George_Adamski_encou_795ba9_scout_ship_photos_5ad9c5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/George_Adamski_encou_795ba9_scout_ship_photos_5ad9c5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The lasting influence of the scout ship image
 
@@ -338,49 +331,89 @@ The scout ship photographs also influenced later debates over photographic evide
 
 The image survives because it sits in an unresolved cultural space between obvious hoax and iconic myth. To believers, it represents an unfairly dismissed encounter from the dawn of the contactee movement. To sceptics, it is a classic example of how persuasive imagery can emerge from ordinary objects photographed under carefully controlled conditions. Either way, the “scout ship” remains one of the most recognisable UFO photographs ever produced.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eh_LMjd_dZA" title="George Adamski: Alien Contactee! - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer">George Adamski: Alien Contactee! - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 12.3K &middot; Uploaded: April 2026 &middot; Length: 1 hour 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eh_LMjd_dZA">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Was Adamski&#x27;s Scout Ship a Model?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Was Adamski&#x27;s Scout Ship a Model?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Venusian scout ship guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Venusian+scout+ship+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nikola Tesla Journey to Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hd0LAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nikola Tesla Journey to Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nikola Tesla Journey to Mars">Nikola Tesla Journey to Mars</a>
+        </h4>
+        <p class="fr-book-author">By Sean Casteel</p>
+        
+        <p class="fr-book-desc">Provides detailed descriptions of the metallic symmetry and upper domes that structured the visual language of 1950s science fiction.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">George Adamski guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=George+Adamski+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Explains why featureless images lacking independent scale references or verified negatives fail to serve as valid technical evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Bell Shaped Craft guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Bell+Shaped+Craft+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Presents a comprehensive review of the &#x27;lantern shade&#x27; theory, analyzing comparisons with mid-century pressure lamps and chicken brooders.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+George+Adamski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers Have Landed on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+George+Adamski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers Have Landed">Flying Saucers Have Landed</a>
+        </h4>
+        <p class="fr-book-author">By George Adamski, Desmond Leslie</p>
+        
+        <p class="fr-book-desc">Contains the original plate reproductions of the December 1952 photographs showing the portholes and landing spheres.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+George+Adamski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nikola Tesla Journey to Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sister States, Enemy States</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -417,15 +450,15 @@ The image survives because it sits in an unresolved cultural space between obvio
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -433,15 +466,15 @@ The image survives because it sits in an unresolved cultural space between obvio
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -449,31 +482,15 @@ The image survives because it sits in an unresolved cultural space between obvio
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,7 +498,7 @@ The image survives because it sits in an unresolved cultural space between obvio
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="photos-was-adamski-s-scout-ship-a-model-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-series" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -697,106 +714,106 @@ The image survives because it sits in an unresolved cultural space between obvio
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: George Adamski  
-   Link: [https://en.wikipedia.org/wiki/George_Adamski](https://en.wikipedia.org/wiki/George_Adamski)  
+   Link: <a href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Adamski</a>  
 
 2. <a id="endnote-2"></a>
    Source: history.com  
    Title: george adamski ufo alien photos  
-   Link: [https://www.history.com/articles/george-adamski-ufo-alien-photos](https://www.history.com/articles/george-adamski-ufo-alien-photos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryGeorge Adamski Got Famous Sharing His UFO Photos and...9 Jan 2020 — Adamski had multiple claims to UFO fame. Starting in the late...</p></details>
+   Link: <a href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/george-adamski-ufo-alien-photos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski Got Famous Sharing His UFO Photos and...9 Jan 2020 — Adamski had multiple claims to UFO fame. Starting in the late...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: scribd.com  
    Title: Adamski Scout Ship Hoax  
-   Link: [https://www.scribd.com/document/669235348/Adamski-Scout-Ship-Hoax](https://www.scribd.com/document/669235348/Adamski-Scout-Ship-Hoax)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdIdentifying Adamski&#x27;s Scout Ship Model | PDF | Lantern2 Apr 2012 — The document summarizes research identifying the object photogra...</p></details>
+   Link: <a href="https://www.scribd.com/document/669235348/Adamski-Scout-Ship-Hoax" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/669235348/Adamski-Scout-Ship-Hoax</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying Adamski&#x27;s Scout Ship Model | PDF | Lantern2 Apr 2012 — The document summarizes research identifying the object photogra...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: history.denverlibrary.org  
    Title: man who boarded flying saucer allegedly  
-   Link: [https://history.denverlibrary.org/news/western-history/man-who-boarded-flying-saucer-allegedly](https://history.denverlibrary.org/news/western-history/man-who-boarded-flying-saucer-allegedly)  
+   Link: <a href="https://history.denverlibrary.org/news/western-history/man-who-boarded-flying-saucer-allegedly" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/man-who-boarded-flying-saucer-allegedly</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Denver Public LibraryTHE MAN WHO BOARDED A FLYING SAUCER...20 Sept 2022 — This photo is likely the most famous “UFO” photo Adamski took...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: web2.ph.utexas.edu  
-   Link: [https://web2.ph.utexas.edu/~coker2/index.files/adamski.htm](https://web2.ph.utexas.edu/~coker2/index.files/adamski.htm)  
+   Link: <a href="https://web2.ph.utexas.edu/~coker2/index.files/adamski.htm" target="_blank" rel="noopener noreferrer nofollow">https://web2.ph.utexas.edu/~coker2/index.files/adamski.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of PhysicsGeorge AdamskiNote the infrared chicken-brooder bulb serving as one of three “ball” landing gear, and also note the...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: comparativemedia.columbia.edu  
    Title: UFO Photography  
-   Link: [https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf](https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf)  
+   Link: <a href="https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comparativemedia.columbia.edu/sites/default/files/pdfs/UFO_Photography.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PhotographyAdamski&#x27;s photographs are the result of a specific media assemblage com- prising not only his hobbyist&#x27;s six-inch telescope, h...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: kids.kiddle.co  
    Title: George Adamski  
-   Link: [https://kids.kiddle.co/George_Adamski](https://kids.kiddle.co/George_Adamski)  
+   Link: <a href="https://kids.kiddle.co/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/George_Adamski</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adamski Facts for Kids17 Oct 2025 — Adamski&#x27;s photographs of objects he claimed were UFOs have also been closely examined. His famous 195...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cia.gov  
    Title: CIA RDP79B00752A000300130001 1  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300130001-1.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300130001-1.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300130001-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300130001-1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO PHOTOSThe pictures below show saucers of marked similarity. The UFO at bottom was photographed in 1950 in Oregon, and its near-twin w...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: science.howstuffworks.com  
    Title: george adamski  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm](https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adamski and the Space BrothersGeorge Adamski preached an interplanetary gospel based on contact with UFOs and aliens. Though serious inve...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/spacemansluck/posts/2479117388994967/](https://www.facebook.com/groups/spacemansluck/posts/2479117388994967/)  
+   Link: <a href="https://www.facebook.com/groups/spacemansluck/posts/2479117388994967/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacemansluck/posts/2479117388994967/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Retro-ufo design of the scout ship lanternGeorge Adamski&#x27;s infamous camping lantern (misidentified in early UFO books as a chicken egg in...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: spaceacademy.net.au  
-   Link: [https://www.spaceacademy.net.au/intell/ufo.htm](https://www.spaceacademy.net.au/intell/ufo.htm)  
+   Link: <a href="https://www.spaceacademy.net.au/intell/ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceacademy.net.au/intell/ufo.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO PhenomenonIt is now very easy to fake images showing apparent UFOs of any shape. However, even worse than this is the fakery that...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: alamy.com  
-   Link: [https://www.alamy.com/stock-photo/ufos-adamski.html](https://www.alamy.com/stock-photo/ufos-adamski.html)  
+   Link: <a href="https://www.alamy.com/stock-photo/ufos-adamski.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/ufos-adamski.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufos adamski hi-res stock photography and imagesAdamski UFO Stock Photo. RM D86PJB–Adamski UFO. heart_plus. download... A Venusian &#x27;scou...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/woy9yo/vintage_ufo_photos_george_adamski/](https://www.reddit.com/r/UFOs/comments/woy9yo/vintage_ufo_photos_george_adamski/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/woy9yo/vintage_ufo_photos_george_adamski/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/woy9yo/vintage_ufo_photos_george_adamski/</a>  
 
 14. <a id="endnote-14"></a>
    Source: nemmehjemmesider.dk  
    Title: 3191Research into the 13th December 1952 George Adamski photos  
-   Link: [https://www.nemmehjemmesider.dk/aspuploader/savefiles/17090/3191Research%20into%20the%2013th%20December%201952%20George%20Adamski%20photos.pdf](https://www.nemmehjemmesider.dk/aspuploader/savefiles/17090/3191Research%20into%20the%2013th%20December%201952%20George%20Adamski%20photos.pdf)  
+   Link: <a href="https://www.nemmehjemmesider.dk/aspuploader/savefiles/17090/3191Research%20into%20the%2013th%20December%201952%20George%20Adamski%20photos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nemmehjemmesider.dk/aspuploader/savefiles/17090/3191Research%20into%20the%2013th%20December%201952%20George%20Adamski%20photos.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The craft is definitely moving upwards as can be seen by some reflections above the left portholes (blurry reflections meaning...Read more...</p></details>
    Published: December 1952  
 
 15. <a id="endnote-15"></a>
    Source: lib.usm.edu  
-   Link: [https://lib.usm.edu/spcol/exhibitions/item_of_the_month/iotm_oct_2021.html](https://lib.usm.edu/spcol/exhibitions/item_of_the_month/iotm_oct_2021.html)  
+   Link: <a href="https://lib.usm.edu/spcol/exhibitions/item_of_the_month/iotm_oct_2021.html" target="_blank" rel="noopener noreferrer nofollow">https://lib.usm.edu/spcol/exhibitions/item_of_the_month/iotm_oct_2021.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Southern MississippiFlying Saucers Have Landed (1953) - University LibrariesIn 1953, Desmond Leslie and George Adamski wrot...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: classicpressurelamps.com  
    Title: Classic Pressure Lamps & Heaters Looking for Sears Lamp  
-   Link: [https://classicpressurelamps.com/threads/looking-for-sears-lamp-adamski.22411/](https://classicpressurelamps.com/threads/looking-for-sears-lamp-adamski.22411/)  
+   Link: <a href="https://classicpressurelamps.com/threads/looking-for-sears-lamp-adamski.22411/" target="_blank" rel="noopener noreferrer nofollow">https://classicpressurelamps.com/threads/looking-for-sears-lamp-adamski.22411/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Classic Pressure Lamps &amp; HeatersLooking for Sears Lamp - Adamski - Classic Pressure Lamps7 Aug 2023 — &quot;German scientist Walther Johannes...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: kennedysandking.com  
    Title: jfk and the majestic papers the history of a hoax preamble ii  
-   Link: [https://www.kennedysandking.com/content/jfk-and-the-majestic-papers-the-history-of-a-hoax-preamble-ii](https://www.kennedysandking.com/content/jfk-and-the-majestic-papers-the-history-of-a-hoax-preamble-ii)  
+   Link: <a href="https://www.kennedysandking.com/content/jfk-and-the-majestic-papers-the-history-of-a-hoax-preamble-ii" target="_blank" rel="noopener noreferrer nofollow">https://www.kennedysandking.com/content/jfk-and-the-majestic-papers-the-history-of-a-hoax-preamble-ii</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Being a keen amateur astronomer as a kid, I read up all I could about the planets. One in particular was Venus...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: danieloliver.gallery  
-   Link: [https://danieloliver.gallery/artworks/3973-george-adamski-paul-villa-album-of-photos-of-close-encounters-by-two-c.-1967/](https://danieloliver.gallery/artworks/3973-george-adamski-paul-villa-album-of-photos-of-close-encounters-by-two-c.-1967/)  
+   Link: <a href="https://danieloliver.gallery/artworks/3973-george-adamski-paul-villa-album-of-photos-of-close-encounters-by-two-c.-1967/" target="_blank" rel="noopener noreferrer nofollow">https://danieloliver.gallery/artworks/3973-george-adamski-paul-villa-album-of-photos-of-close-encounters-by-two-c.-1967/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eated by two prominent mid-century UFO-logists - George Adamski and Apolinar...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/paulolsonart/photos/featured-arist-of-the-week-becomes-featured-topic-of-the-week-one-of-george-adam/4065198096917327/](https://www.facebook.com/paulolsonart/photos/featured-arist-of-the-week-becomes-featured-topic-of-the-week-one-of-george-adam/4065198096917327/)  
+   Link: <a href="https://www.facebook.com/paulolsonart/photos/featured-arist-of-the-week-becomes-featured-topic-of-the-week-one-of-george-adam/4065198096917327/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/paulolsonart/photos/featured-arist-of-the-week-becomes-featured-topic-of-the-week-one-of-george-adam/4065198096917327/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>oder&quot; photo that shows a part of a chicken egg warmed in close...Read more...</p></details>

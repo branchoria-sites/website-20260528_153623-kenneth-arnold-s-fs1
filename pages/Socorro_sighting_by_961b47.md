@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Ravenna UFO
   permalink: /spaur-neff-ravenna-sighting-1966/
   short_title: Ravenna UFO
-date: '2026-06-08 23:19:12 '
+date: '2026-06-11 13:11:41 '
 header:
   og_image: /assets/images/Socorro_sighting_by_961b47-overview-social.jpg
   preview_image: /assets/images/Socorro_sighting_by_961b47-overview.webp
@@ -760,7 +760,6 @@ image: /assets/images/Socorro_sighting_by_961b47-overview-social.jpg
 
 The Socorro sighting by Lonnie [Zamora]({{ 'zamora/' | relative_url }}) is one of the most durable UFO cases of the Project Blue Book era because it combines a close-range police-witness report, rapid official attention, and physical trace claims at the alleged landing site. On 24 April 1964, Zamora, a Socorro police officer, said he abandoned a speeding-car pursuit after hearing a roar and seeing a blue-orange flame, then found a white, oval or egg-like object near the ground before it took off. The case matters because it was not simply a distant light in the sky: investigators recorded ground depressions, burned vegetation, and Zamora’s distressed condition soon afterwards. The strongest cautious conclusion is that something prompted a sincere report by a credible witness, but the surviving evidence still does not prove an extraterrestrial craft. Official investigators left the case unexplained, while sceptics have proposed a student hoax, a test vehicle, or other mundane causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">65 hs1 834228961 62 hq 83894 serial 438</span><span class="citation-popover-snippet">U.S. Department of War65_HS1-834228961_62-HQ-83894_Serial_438...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">how to investigate a flying saucer</span><span class="citation-popover-snippet">how to investigate a flying saucer</span></span></span>
 
-
 <img src="{{ "/assets/images/Socorro_sighting_by_961b47-overview.webp" | relative_url }}" alt="Overview image for Socorro sighting by Lonnie Zamora 1964" loading="eager" decoding="sync" fetchpriority="high">
 ## What Zamora said happened that evening
 
@@ -770,7 +769,6 @@ The reported object was first interpreted in ordinary terms. Zamora said he thou
 
 The timing is important because the report did not emerge weeks later as a polished story. Radio operator Nep Lopez told New Mexico State Police officer M. S. Chavez that Zamora had called about an unknown object that had “landed and has taken off”, and FBI Special Agent D. Arthur Byrnes, already in Socorro on other business, went to the scene at about 6:00 p.m. with local officers. Byrnes recorded that Zamora was sober, agitated, and known to him as a conscientious officer not given to fantasy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">65 hs1 834228961 62 hq 83894 serial 438</span><span class="citation-popover-snippet">U.S. Department of War65_HS1-834228961_62-HQ-83894_Serial_438...</span></span></span>
 
-
 <img src="{{ "/assets/images/Socorro_sighting_by_961b47-Illustration-1-dark.svg" | relative_url }}" alt="Socorro sighting by Lonnie Zamora 1964 illustration 1" data-theme-src-dark="{{ "/assets/images/Socorro_sighting_by_961b47-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Socorro_sighting_by_961b47-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case became more than a single-witness story
 
@@ -779,7 +777,6 @@ The Socorro case gained weight because investigators reached the site quickly an
 Those [traces]({{ 'traces/' | relative_url }}) do not prove a landed craft, but they changed the character of the investigation. A distant-light UFO report can often be tested against aircraft, astronomical objects, balloons, or meteors. Socorro instead presented a mixed package: a named trained witness, a near-ground object, sound, flame, alleged occupants, and marks on the terrain. That combination is why later summaries by UFO researchers and local historians repeatedly call it one of the better-documented American UFO cases, even when they differ sharply on what the documentation means. <span class="citation-chip-wrap"><a class="citation-chip" href="https://socorronm.org/location-activity/socorro-landing-a-ufo-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socorronm.org">[Visit Socorro New Mexico]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socorronm.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The physical evidence also has limits. The impressions were shallow and small enough that they could be read in different ways; the burned vegetation established heat or fire at the site, not necessarily its cause; and the claimed view of occupants was fleeting. A useful assessment therefore separates three claims: Zamora almost certainly reported a troubling experience; investigators did see marks and burned vegetation; but the leap from those facts to an exotic craft remains interpretive rather than demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">65 hs1 834228961 62 hq 83894 serial 438</span><span class="citation-popover-snippet">U.S. Department of War65_HS1-834228961_62-HQ-83894_Serial_438...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eZRu3Ao6zK8" title="The Best Documented UFO Case: Lonnie Zamora | blameitonjorge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eZRu3Ao6zK8" target="_blank" rel="noopener noreferrer">The Best Documented UFO Case: Lonnie Zamora | blameitonjorge</a></p><p class="youtube-embed-meta">Channel: blameitonjorge &middot; Views: 1.9M &middot; Uploaded: January 2021 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eZRu3Ao6zK8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eZRu3Ao6zK8">Open on YouTube</a></p></div></div></div>
 
@@ -791,7 +788,6 @@ Project Blue Book’s standard method was not to assume extraordinary causes. Qu
 
 The FBI file adds a second official layer, though the Bureau was not running the main UFO programme. Its records show that a federal agent happened to be in Socorro that evening and made observations close to the time of the incident. The file also shows how fragmentary the documentary record can be: a later FOIA release says some responsive records had been transferred to the National Archives, while other potentially responsive records may have existed or been destroyed under retention procedures. That weakens any claim that the documentary trail is complete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/fbifiles/paranormal/FBI-UFO-Socorro-fbi1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ERxNsoYwF3E" title="What Can Explain This New Mexico UFO Sighting?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ERxNsoYwF3E" target="_blank" rel="noopener noreferrer">What Can Explain This New Mexico UFO Sighting?</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 317.1K &middot; Uploaded: October 2016 &middot; Length: 2 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ERxNsoYwF3E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ERxNsoYwF3E">Open on YouTube</a></p></div></div></div>
 
 ## The credibility question: Zamora, corroboration, and restraint
@@ -801,7 +797,6 @@ Zamora’s credibility is central to the case. The best pro-case argument is not
 Corroboration is more complicated. Other people were drawn to the site and some accounts mention additional witnesses to a flame or roar, but Zamora was the only person known to have reported the full close-range sequence of the object, figures, landing traces, and departure. Chavez and other officers arrived after the object had allegedly gone, so they corroborated Zamora’s emotional state and some site features rather than the object itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora_Files1%264R.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The case is therefore credible in a narrower sense than believers sometimes claim. It is credible that a police officer made a prompt report and that investigators saw physical marks. It is not independently confirmed, in the strongest evidential sense, that the object Zamora described actually landed and departed as he perceived it. That gap is where most of the later debate lives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">65 hs1 834228961 62 hq 83894 serial 438</span><span class="citation-popover-snippet">U.S. Department of War65_HS1-834228961_62-HQ-83894_Serial_438...</span></span></span>
-
 
 <img src="{{ "/assets/images/Socorro_sighting_by_961b47-Illustration-2-dark.svg" | relative_url }}" alt="Socorro sighting by Lonnie Zamora 1964 illustration 2" data-theme-src-dark="{{ "/assets/images/Socorro_sighting_by_961b47-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Socorro_sighting_by_961b47-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The main conventional explanations
@@ -814,7 +809,6 @@ A second conventional explanation is a secret or misidentified test vehicle conn
 
 A third category includes more ordinary misperceptions: balloons, astronomical objects, aircraft, mirages, or combustion events. These [explanations]({{ 'explanations-fe1cc9/' | relative_url }}) work well for many UFO reports but fit Socorro awkwardly because the case involves close-range ground traces, sound, flame, and a short sequence near rough terrain. Sceptics therefore tend to prefer hoax or test-device theories over a simple astronomical or weather explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">The Investigation of UFO&#x27;s</span><span class="citation-popover-snippet">The Investigation of UFO&#x27;s</span></span></span>
 
-
 <img src="{{ "/assets/images/Socorro_sighting_by_961b47-Illustration-3-dark.svg" | relative_url }}" alt="Socorro sighting by Lonnie Zamora 1964 illustration 3" data-theme-src-dark="{{ "/assets/images/Socorro_sighting_by_961b47-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Socorro_sighting_by_961b47-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the physical traces can and cannot settle
 
@@ -823,7 +817,6 @@ The landing-trace evidence is often treated as the decisive feature of Socorro, 
 At the same time, physical traces without a recovered object or clear forensic chain are limited evidence. Depressions can be produced by tools, equipment, hoax apparatus, or ordinary objects; burned grass can be caused by flame sources not involving a vehicle; and the later public history of the site complicates retrospective inspection. The traces therefore support the claim that something occurred at the location, but they do not uniquely identify what occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">65 hs1 834228961 62 hq 83894 serial 438</span><span class="citation-popover-snippet">U.S. Department of War65_HS1-834228961_62-HQ-83894_Serial_438...</span></span></span>
 
 This distinction matters because many retellings compress “official investigators found marks” into “a craft landed”. The first statement is documented; the second is an interpretation of Zamora’s report plus the marks. A careful reading leaves room for both a sincere unknown and a staged or misunderstood event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">65 hs1 834228961 62 hq 83894 serial 438</span><span class="citation-popover-snippet">U.S. Department of War65_HS1-834228961_62-HQ-83894_Serial_438...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VuKlJuXRtqg" title="Ben Analyses Historic UFO Sighting Described by Policeman | UFO Witness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VuKlJuXRtqg" target="_blank" rel="noopener noreferrer">Ben Analyses Historic UFO Sighting Described by Policeman | UFO Witness</a></p><p class="youtube-embed-meta">Channel: DMAX UK &middot; Views: 24.4K &middot; Uploaded: November 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VuKlJuXRtqg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VuKlJuXRtqg">Open on YouTube</a></p></div></div></div>
 
@@ -840,44 +833,86 @@ A fair modern reading starts with Zamora as a serious witness, not as a punchlin
 For a wider UFO dossier, Socorro is best placed among close-range “physical trace” cases rather than among ordinary lights-in-the-sky reports. It naturally links to related branches on Project Blue Book, the role of J. Allen Hynek, official UFO classification, hoax analysis, and the evidential problems of landing-trace claims. Within that family of cases, Socorro stands out because the witness was identifiable, the official response was quick, and the disagreement is not over whether a report existed, but over what caused it. CIA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">65 hs1 834228961 62 hq 83894 serial 438</span><span class="citation-popover-snippet">U.S. Department of War65_HS1-834228961_62-HQ-83894_Serial_438...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened at Socorro?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened at Socorro?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Contains the definitive baseline catalog entry for Lonnie Zamora&#x27;s close-range police-witness report and the egg-like object file.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Examines the complex operational context of a patrolling police officer abandoning a traffic chase to investigate a sudden roaring flame.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Establishes standard protocol baselines for evaluating law-enforcement witness notifications of local landing alerts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Provides analytical tools to examine original FBI records, scorched ground patches, and burned desert vegetation data loops.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -914,15 +949,15 @@ For a wider UFO dossier, Socorro is best placed among close-range “physical tr
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired"><img src="https://i.ebayimg.com/images/g/PhwAAOSwMplk~jrt/s-l225.jpg" alt="Listing image for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -930,15 +965,15 @@ For a wider UFO dossier, Socorro is best placed among close-range “physical tr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe"><img src="https://i.ebayimg.com/images/g/p1gAAOSwlndnXwAd/s-l225.jpg" alt="Listing image for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -946,15 +981,15 @@ For a wider UFO dossier, Socorro is best placed among close-range “physical tr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster, Many Sizes; Roswell UFO crash debris"><img src="https://i.ebayimg.com/images/g/wlkAAOSw3NRkl0vL/s-l225.jpg" alt="Listing image for Poster, Many Sizes; Roswell UFO crash debris" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Poster, Many Sizes; Roswell UFO crash debris</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -962,15 +997,15 @@ For a wider UFO dossier, Socorro is best placed among close-range “physical tr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="https://i.ebayimg.com/images/g/wt4AAOSw2p9nr1Fc/s-l225.jpg" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -978,7 +1013,7 @@ For a wider UFO dossier, Socorro is best placed among close-range “physical tr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="socorro-sighting-by-lonnie-zamora-1964-what-really-happened-at-socorro-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-socorro-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-socorro-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1194,91 +1229,91 @@ For a wider UFO dossier, Socorro is best placed among close-range “physical tr
 1. <a id="endnote-1"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 serial 438  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_serial_438.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of War65_HS1-834228961_62-HQ-83894_Serial_438...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cia.gov  
    Title: how to investigate a flying saucer  
-   Link: [https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/](https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/)  
+   Link: <a href="https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/stories/story/how-to-investigate-a-flying-saucer/</a>  
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/640424socorro_dir.htm](https://www.nicap.org/640424socorro_dir.htm)  
+   Link: <a href="https://www.nicap.org/640424socorro_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/640424socorro_dir.htm</a>  
 
 4. <a id="endnote-4"></a>
    Source: cia.gov  
    Title: The Investigation of UFO's  
-   Link: [https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf](https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf)  
+   Link: <a href="https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/Investigation-of-UFOs.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: documents2.theblackvault.com  
    Title: The Black Vault  
-   Link: [https://documents2.theblackvault.com/documents/fbifiles/paranormal/FBI-UFO-Socorro-fbi1.pdf](https://documents2.theblackvault.com/documents/fbifiles/paranormal/FBI-UFO-Socorro-fbi1.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/fbifiles/paranormal/FBI-UFO-Socorro-fbi1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/fbifiles/paranormal/FBI-UFO-Socorro-fbi1.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2010/03/p25.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2010/03/p25.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2010/03/p25.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2010/03/p25.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora_Files1%264R.pdf](https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora_Files1%264R.pdf)  
+   Link: <a href="https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora_Files1%264R.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora_Files1%264R.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: socorronm.org  
-   Link: [https://socorronm.org/location-activity/socorro-landing-a-ufo-story/](https://socorronm.org/location-activity/socorro-landing-a-ufo-story/)  
+   Link: <a href="https://socorronm.org/location-activity/socorro-landing-a-ufo-story/" target="_blank" rel="noopener noreferrer nofollow">https://socorronm.org/location-activity/socorro-landing-a-ufo-story/</a>  
 
 9. <a id="endnote-9"></a>
    Source: cufos.org  
-   Link: [https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora.pdf](https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora.pdf)  
+   Link: <a href="https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/1965_04_24_Socorro/1964_04_24_US_NM_Socorro_CUFOS_Zamora.pdf</a>  
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Ben Analyses Historic UFO Sighting Described by Policeman | UFO Witness  
-   Link: [https://www.youtube.com/watch?v=VuKlJuXRtqg](https://www.youtube.com/watch?v=VuKlJuXRtqg)  
+   Link: <a href="https://www.youtube.com/watch?v=VuKlJuXRtqg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VuKlJuXRtqg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lonnie Zamora Incident - An Unbelievable UFO Story TILLN E75...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Lonnie Zamora Incident  
-   Link: [https://www.youtube.com/watch?v=J5jnjR1EbMI](https://www.youtube.com/watch?v=J5jnjR1EbMI)  
+   Link: <a href="https://www.youtube.com/watch?v=J5jnjR1EbMI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J5jnjR1EbMI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries with Robert Stack - Season 8 Episode 4 - Full Episode...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Best Documented UFO Case: Lonnie Zamora | blameitonjorge  
-   Link: [https://www.youtube.com/watch?v=eZRu3Ao6zK8](https://www.youtube.com/watch?v=eZRu3Ao6zK8)  
+   Link: <a href="https://www.youtube.com/watch?v=eZRu3Ao6zK8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eZRu3Ao6zK8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ben Analyses Historic UFO Sighting Described by Policeman | UFO Witness...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: What Can Explain This New Mexico UFO Sighting?  
-   Link: [https://www.youtube.com/watch?v=ERxNsoYwF3E](https://www.youtube.com/watch?v=ERxNsoYwF3E)  
+   Link: <a href="https://www.youtube.com/watch?v=ERxNsoYwF3E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ERxNsoYwF3E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Best Documented UFO Case: Lonnie Zamora | blameitonjorge...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/modern-ufo-era-begins](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/modern-ufo-era-begins)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/modern-ufo-era-begins" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/modern-ufo-era-begins</a>  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Unsolved Mysteries with Robert Stack  
-   Link: [https://www.youtube.com/watch?v=1aLId3BFfQI](https://www.youtube.com/watch?v=1aLId3BFfQI)  
+   Link: <a href="https://www.youtube.com/watch?v=1aLId3BFfQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1aLId3BFfQI</a>  
 
 16. <a id="endnote-16"></a>
    Source: joepompeo.substack.com  
    Title: Joe Pompeo UFOs and the legend of Lonnie Zamora  
-   Link: [https://joepompeo.substack.com/p/ufos-and-the-legend-of-lonnie-zamora](https://joepompeo.substack.com/p/ufos-and-the-legend-of-lonnie-zamora)  
+   Link: <a href="https://joepompeo.substack.com/p/ufos-and-the-legend-of-lonnie-zamora" target="_blank" rel="noopener noreferrer nofollow">https://joepompeo.substack.com/p/ufos-and-the-legend-of-lonnie-zamora</a>  
 
 17. <a id="endnote-17"></a>
    Source: badufos.blogspot.com  
    Title: a socorro student hoax confirmed  
-   Link: [https://badufos.blogspot.com/2012/08/a-socorro-student-hoax-confirmed.html](https://badufos.blogspot.com/2012/08/a-socorro-student-hoax-confirmed.html)  
+   Link: <a href="https://badufos.blogspot.com/2012/08/a-socorro-student-hoax-confirmed.html" target="_blank" rel="noopener noreferrer nofollow">https://badufos.blogspot.com/2012/08/a-socorro-student-hoax-confirmed.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: socorro-history.org  
    Title: Socorro History Article Title  
-   Link: [https://socorro-history.org/HISTORY/PH_History/200808_socorro_ufo.pdf](https://socorro-history.org/HISTORY/PH_History/200808_socorro_ufo.pdf)  
+   Link: <a href="https://socorro-history.org/HISTORY/PH_History/200808_socorro_ufo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://socorro-history.org/HISTORY/PH_History/200808_socorro_ufo.pdf</a>

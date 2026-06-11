@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /carl-higdon-contact-bfd61b-index/
 description: Focused pages that expand on Carl Higdon contact 1974.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Carl_Higdon_contact_bfd61b
 parent_title: Carl Higdon contact 1974

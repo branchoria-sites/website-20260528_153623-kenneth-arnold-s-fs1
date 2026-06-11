@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /delphos-ring-incident-1971/
 nav_short_title: Explanations
 title: Could the Delphos Ring Be Explained Naturally?
-title_full: Could the Delphos Ring Be Explained Naturally? | Delphos Ring
+title_full: Could the Delphos Ring Be Explained Naturally?
 display_title_short: Explanations
 display_title: Explanations
 heading_title: Could the Delphos Ring Be Explained Naturally?
@@ -233,7 +233,7 @@ next_link:
   permalink: /soil-evidence/
   short_title: Soil Evidence
   heading_title: Why the Soil Ring Still Matters
-date: '2026-06-08 23:29:20 '
+date: '2026-06-11 13:17:59 '
 header:
   og_image: /assets/images/Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3-Illustration-1-social.jpg
   preview_image: /assets/images/Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3-Il
 ## Introduction
 
 The Delphos Ring incident remains difficult to classify because the physical traces lend themselves to partial natural explanations without producing a single convincing answer. Skeptics have long argued that the strange ring on the Johnson farm could have resulted from ordinary agricultural contamination, fungal growth, chemical residues or misinterpreted soil chemistry rather than a landed extraterrestrial craft. At the same time, some of the reported details — especially the temporary glow, water resistance, irritation effects and unusual chemical findings — have resisted neat reduction to one mundane cause. The case therefore occupies an awkward middle ground: intriguing enough to survive decades of scrutiny, but too weakly documented to compel a paranormal conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas...13 Oct 2016 — 6) The ring soil was not exposed to a physical effect such as hi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iccra.org/bystate/Kansas/ICCRA%20-%20KS%20-%20Delphos%2C%20Ottawa%20County%20%28November%202%2C%201971%29.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iccra.org">[2iccra.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iccra.org</span><span class="citation-popover-snippet">Delphos... Source and photos: Physical Traces Associated with UFO Sightings, Ted Phillips...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What keeps the Delphos case alive is not that the evidence clearly points to a UFO, but that each ordinary explanation appears to solve only part of the puzzle. The debate has gradually shifted from “Was it alien?” to a more careful question: which elements can be explained naturally, and which remain unresolved because of missing data, degraded evidence or contradictory testimony?
@@ -260,12 +259,11 @@ Another skeptical line concerns delayed sampling. UFO investigator Ted Phillips 
 
 This timing problem matters because the Delphos case is often remembered as if scientists examined a pristine landing site immediately after the sighting. In reality, much of the later chemistry involved samples collected after environmental changes had already occurred.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F_YZACQ1i9g" title="Honey Fungus: What you need to know | The RHS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F_YZACQ1i9g" target="_blank" rel="noopener noreferrer">Honey Fungus: What you need to know | The RHS</a></p><p class="youtube-embed-meta">Channel: RHS - Royal Horticultural Society &middot; Views: 17.3K &middot; Uploaded: October 2025 &middot; Length: 3 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F_YZACQ1i9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F_YZACQ1i9g">Open on YouTube</a></p></div></div></div>
 
 ## Could the Ring Have Been Fungal?
 
-A recurring natural explanation involves fungal “fairy rings” — circular growth patterns caused by underground fungal colonies spreading outward through soil. Such rings can alter vegetation, soil chemistry and moisture retention, sometimes leaving visible circular traces. Modern ecological studies show that fairy rings can substantially change nutrient distribution and hydrophobicity in the soil around them. Blog | <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10646123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCProcess based modelling of plants–fungus interactions</span><span class="citation-popover-snippet">PMCby N Salvatori · 2023 · Cited by 22 — Fairy Rings (FRs) are biological formations caused by fungi. They can be detected by the regular...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/environment/article/mushroom-fungi-mycelium-fairy-rings-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">mushroom fungi mycelium fairy rings myth</span><span class="citation-popover-snippet">“The importance of fungi in regulating the biogeochemical cycle...Read more...</span></span></span>
+A recurring natural explanation involves fungal “fairy rings” — circular growth patterns caused by underground fungal colonies spreading outward through soil. Such rings can alter vegetation, soil chemistry and moisture retention, sometimes leaving visible circular traces. Modern ecological studies show that fairy rings can substantially change nutrient distribution and hydrophobicity in the soil around them. Blog | <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10646123/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCProcess based modelling of plants–fungus interactions</span><span class="citation-popover-snippet">by N Salvatori · 2023 · Cited by 22 — Fairy Rings (FRs) are biological formations caused by fungi. They can be detected by the regular...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/environment/article/mushroom-fungi-mycelium-fairy-rings-myth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">mushroom fungi mycelium fairy rings myth</span><span class="citation-popover-snippet">“The importance of fungi in regulating the biogeochemical cycle...Read more...</span></span></span>
 
 This matters because Delphos investigators reportedly found fungal elements in the ring material. Over time, that detail evolved into a broader skeptical claim that the entire phenomenon may have been biological rather than technological.
 
@@ -274,7 +272,6 @@ However, the fungal explanation has weaknesses. Researchers sympathetic to the c
 Even so, this does not eliminate a biological contribution. A more moderate interpretation is that the ring may have involved ordinary organic contamination that later encouraged fungal or microbial growth, creating an unusual but entirely terrestrial mixture of chemical and biological effects.
 
 That possibility highlights an important distinction often lost in UFO retellings: unexplained chemistry is not the same as extraterrestrial chemistry. Soil can become chemically strange for many mundane reasons, especially in environments rich in decomposition, fertiliser residues and microbial activity.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3peG3exqb-k" title="Florida Fungi: The Diversity Hidden Beneath Your Feet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3peG3exqb-k" target="_blank" rel="noopener noreferrer">Florida Fungi: The Diversity Hidden Beneath Your Feet</a></p><p class="youtube-embed-meta">Channel: UF Center for Land Use Efficiency &middot; Views: 497 &middot; Uploaded: December 2025 &middot; Length: 1 hour 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3peG3exqb-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3peG3exqb-k">Open on YouTube</a></p></div></div></div>
 
@@ -290,7 +287,6 @@ Yet plausibility is not the same as confirmation. No published experiment appear
 
 The glowing aspect remains particularly uncertain because it rests heavily on testimony and photographs of disputed quality. If the glow was exaggerated by memory, darkness or photographic limitations, then the chemistry becomes easier to explain naturally. If the glow truly persisted strongly enough to be observed over many hours, then the case becomes harder to reduce to routine contamination alone.
 
-
 <img src="{{ "/assets/images/Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the “Unknown Compound” Claims Are Often Overstated
 
@@ -301,7 +297,6 @@ The more careful analyses did not conclude that alien material had been found. I
 This distinction is crucial because UFO folklore often compresses uncertainty into certainty. “Not fully identified” gradually becomes “impossible to identify”, which then becomes “non-human material”. The Delphos evidence does not support that escalation.
 
 In fact, one of the most important findings from later analysis was negative rather than positive: the soil did not appear to have been exposed to extreme heat. That undermined some early assumptions about propulsion exhaust or scorching energy effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">Analysis of Soil Samples Related to the Delphos, Kansas...13 Oct 2016 — 6) The ring soil was not exposed to a physical effect such as hi...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rlbIiCLPDz4" title="Fungus Among Us: An Insight to Fungi in Illinois Ecosystems, Everyday Environment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rlbIiCLPDz4" target="_blank" rel="noopener noreferrer">Fungus Among Us: An Insight to Fungi in Illinois Ecosystems, Everyday Environment</a></p><p class="youtube-embed-meta">Channel: University of Illinois Extension &middot; Views: 831 &middot; Uploaded: May 2024 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rlbIiCLPDz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rlbIiCLPDz4">Open on YouTube</a></p></div></div></div>
 
@@ -319,7 +314,6 @@ There are, however, limits to this point. Human memory is highly vulnerable to r
 
 Finally, the case suffers from a familiar weakness in older UFO investigations: incomplete preservation of evidence. Modern forensic standards were absent. Chain-of-custody procedures were inconsistent, the original site changed over time, and much of the surviving information comes through secondary summaries rather than full laboratory documentation.
 
-
 <img src="{{ "/assets/images/Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3-Illustration-3-dark.svg" | relative_url }}" alt="Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Unusual Chemistry Is Not Proof of UFO Origin
 
@@ -330,44 +324,86 @@ At the same time, skeptical explanations should not be overstated either. Saying
 That balance explains why the incident survives as a classic “physical trace” UFO case without becoming scientifically persuasive proof of alien visitation. The ordinary explanations are plausible enough to prevent a paranormal conclusion, but the remaining uncertainties are substantial enough to prevent a clean debunking. The Delphos Ring ultimately endures because it sits in that unresolved space between contaminated evidence and unexplained experience.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Could the Delphos Ring Be Explained Naturally?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Could the Delphos Ring Be Explained Naturally?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Delphos Kansas guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Delphos+Kansas+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Provides structural methodologies for assessing how farm environments and local chemicals create ambiguous physical traces.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Chain of Custody guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Chain+of+Custody+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Details why organic processes, fungal rings, and chemical residues mimic structured craft markings in soil.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Humic Substances guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Humic+Substances+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Summarizes the evidentiary failures of the Delphos ring, reviewing the natural arguments against the ET landing interpretation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Explains why soil chemistry and fungal growth provide a more robust explanatory pathway than advanced propulsion markers.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sister States, Enemy States</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -404,15 +440,15 @@ That balance explains why the incident survives as a classic “physical trace�
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -420,15 +456,15 @@ That balance explains why the incident survives as a classic “physical trace�
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -436,15 +472,15 @@ That balance explains why the incident survives as a classic “physical trace�
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -452,15 +488,15 @@ That balance explains why the incident survives as a classic “physical trace�
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -468,7 +504,7 @@ That balance explains why the incident survives as a classic “physical trace�
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-e65ad1-could-the-delphos-ring-be-explained-naturally-delphos-ring-incident-1971-us-navy-ship-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="could-the-delphos-ring-be-explained-naturally-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -683,99 +719,99 @@ That balance explains why the incident survives as a classic “physical trace�
 
 1. <a id="endnote-1"></a>
    Source: theblackvault.com  
-   Link: [https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/](https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/analysis-soil-samples-related-delphos-kansas-november-2-1971/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Soil Samples Related to the Delphos, Kansas...13 Oct 2016 — 6) The ring soil was not exposed to a physical effect such as hi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: iccra.org  
-   Link: [https://iccra.org/bystate/Kansas/ICCRA%20-%20KS%20-%20Delphos%2C%20Ottawa%20County%20%28November%202%2C%201971%29.htm](https://iccra.org/bystate/Kansas/ICCRA%20-%20KS%20-%20Delphos%2C%20Ottawa%20County%20%28November%202%2C%201971%29.htm)  
+   Link: <a href="https://iccra.org/bystate/Kansas/ICCRA%20-%20KS%20-%20Delphos%2C%20Ottawa%20County%20%28November%202%2C%201971%29.htm" target="_blank" rel="noopener noreferrer nofollow">https://iccra.org/bystate/Kansas/ICCRA%20-%20KS%20-%20Delphos%2C%20Ottawa%20County%20%28November%202%2C%201971%29.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Delphos... Source and photos: Physical Traces Associated with UFO Sightings, Ted Phillips...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/uckn2s/delphos_ufo_incident_a_flying_object_a_bright/](https://www.reddit.com/r/UFOs/comments/uckn2s/delphos_ufo_incident_a_flying_object_a_bright/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/uckn2s/delphos_ufo_incident_a_flying_object_a_bright/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uckn2s/delphos_ufo_incident_a_flying_object_a_bright/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>dirt is hydrophobic which they already knew. It&#x27;s a farm! A bunch of chemicals can cause dirt to do that. Can&#x27;t stand this fake scientifi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dokumen.pub  
    Title: the compelling scientific evidence for ufos 150271552x  
-   Link: [https://dokumen.pub/the-compelling-scientific-evidence-for-ufos-150271552x.html](https://dokumen.pub/the-compelling-scientific-evidence-for-ufos-150271552x.html)  
+   Link: <a href="https://dokumen.pub/the-compelling-scientific-evidence-for-ufos-150271552x.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-compelling-scientific-evidence-for-ufos-150271552x.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hubert Lechevalier of Rutgers who also inspected the soil and concluded that the ring, &quot;although containing some fungal elements as almos...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCProcess based modelling of plants–fungus interactions  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10646123/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10646123/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby N Salvatori · 2023 · Cited by 22 — Fairy Rings (FRs) are biological formations caused by fungi. They can be detected by the regular...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10646123/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10646123/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by N Salvatori · 2023 · Cited by 22 — Fairy Rings (FRs) are biological formations caused by fungi. They can be detected by the regular...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ufoevidence.org  
-   Link: [https://www.ufoevidence.org/cases/case192.htm](https://www.ufoevidence.org/cases/case192.htm)  
+   Link: <a href="https://www.ufoevidence.org/cases/case192.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case192.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Delphos, Kansas Landing Ring2 Nov 1971 — &quot;The Delphos Case: Soil Analysis and Appraisal of a CE-2 Report.... UFO investigator named Ted...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: the 1971 delphos kansas ufo landing with physical  
-   Link: [https://www.reddit.com/r/UFOs/comments/194rluk/the_1971_delphos_kansas_ufo_landing_with_physical/](https://www.reddit.com/r/UFOs/comments/194rluk/the_1971_delphos_kansas_ufo_landing_with_physical/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/194rluk/the_1971_delphos_kansas_ufo_landing_with_physical/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/194rluk/the_1971_delphos_kansas_ufo_landing_with_physical/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1971 Delphos, Kansas, UFO landing with physical...The 1971 Delphos, Kansas, UFO landing with physical evidence, witnessed by 15-year...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nationalgeographic.com  
    Title: mushroom fungi mycelium fairy rings myth  
-   Link: [https://www.nationalgeographic.com/environment/article/mushroom-fungi-mycelium-fairy-rings-myth](https://www.nationalgeographic.com/environment/article/mushroom-fungi-mycelium-fairy-rings-myth)  
+   Link: <a href="https://www.nationalgeographic.com/environment/article/mushroom-fungi-mycelium-fairy-rings-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/environment/article/mushroom-fungi-mycelium-fairy-rings-myth</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>“The importance of fungi in regulating the biogeochemical cycle...Read more...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: jamesmdeem.com  
-   Link: [https://jamesmdeem.com/stories.ufo.encounters.html](https://jamesmdeem.com/stories.ufo.encounters.html)  
+   Link: <a href="https://jamesmdeem.com/stories.ufo.encounters.html" target="_blank" rel="noopener noreferrer nofollow">https://jamesmdeem.com/stories.ufo.encounters.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Encounters of the First, Second, and Third KindOne of the most studied Type 2 physical-trace encounters took place in Delphos, Kans...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
    Title: a ufo temporarily paralyzed a kansas boy in 1971 a radioactive circle was left b  
-   Link: [https://www.facebook.com/incredhistory/posts/a-ufo-temporarily-paralyzed-a-kansas-boy-in-1971-a-radioactive-circle-was-left-b/783731584823916/](https://www.facebook.com/incredhistory/posts/a-ufo-temporarily-paralyzed-a-kansas-boy-in-1971-a-radioactive-circle-was-left-b/783731584823916/)  
+   Link: <a href="https://www.facebook.com/incredhistory/posts/a-ufo-temporarily-paralyzed-a-kansas-boy-in-1971-a-radioactive-circle-was-left-b/783731584823916/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/incredhistory/posts/a-ufo-temporarily-paralyzed-a-kansas-boy-in-1971-a-radioactive-circle-was-left-b/783731584823916/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of the ring soil demonstrated some unusual properties: the soil resisted water absorption. Considered to be one of the best docu...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: abovethenormnews.com  
    Title: strange lights over delphos the ufo landing that left its mark  
-   Link: [https://www.abovethenormnews.com/2024/09/21/strange-lights-over-delphos-the-ufo-landing-that-left-its-mark/](https://www.abovethenormnews.com/2024/09/21/strange-lights-over-delphos-the-ufo-landing-that-left-its-mark/)  
+   Link: <a href="https://www.abovethenormnews.com/2024/09/21/strange-lights-over-delphos-the-ufo-landing-that-left-its-mark/" target="_blank" rel="noopener noreferrer nofollow">https://www.abovethenormnews.com/2024/09/21/strange-lights-over-delphos-the-ufo-landing-that-left-its-mark/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Lights Over Delphos: The UFO Landing That Left...Sep 21, 2024 — In the end, the glowing ring in the soil, the hydrophobic proper...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: liberationtimes.com  
-   Link: [https://www.liberationtimes.com/home/the-uap-cold-case-that-could-yield-new-physical-insights-into-the-biological-effects-and-nature-of-the-phenomena](https://www.liberationtimes.com/home/the-uap-cold-case-that-could-yield-new-physical-insights-into-the-biological-effects-and-nature-of-the-phenomena)  
+   Link: <a href="https://www.liberationtimes.com/home/the-uap-cold-case-that-could-yield-new-physical-insights-into-the-biological-effects-and-nature-of-the-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.liberationtimes.com/home/the-uap-cold-case-that-could-yield-new-physical-insights-into-the-biological-effects-and-nature-of-the-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Liberation Times | Reimagining Old NewsUAP Cold Case Could Yield New Physical Insights Into...Dec 2, 2021 — The KSU team was able to rep...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: naturalengland.blog.gov.uk  
-   Link: [https://naturalengland.blog.gov.uk/2026/03/26/a-rare-fungi-discovery-at-kingley-vale-national-nature-reserve-the-first-uk-sighting-of-the-blue-based-earthtongue/](https://naturalengland.blog.gov.uk/2026/03/26/a-rare-fungi-discovery-at-kingley-vale-national-nature-reserve-the-first-uk-sighting-of-the-blue-based-earthtongue/)  
+   Link: <a href="https://naturalengland.blog.gov.uk/2026/03/26/a-rare-fungi-discovery-at-kingley-vale-national-nature-reserve-the-first-uk-sighting-of-the-blue-based-earthtongue/" target="_blank" rel="noopener noreferrer nofollow">https://naturalengland.blog.gov.uk/2026/03/26/a-rare-fungi-discovery-at-kingley-vale-national-nature-reserve-the-first-uk-sighting-of-the-blue-based-earthtongue/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They&#x27;re associated with undisturbed, nutrient-poor grasslands and long-...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: blog.pensoft.net  
    Title: Blog |Fungal Fairy Rings: the science behind the magic  
-   Link: [https://blog.pensoft.net/2025/03/06/fungal-fairy-rings-the-science-behind-the-magic/](https://blog.pensoft.net/2025/03/06/fungal-fairy-rings-the-science-behind-the-magic/)  
+   Link: <a href="https://blog.pensoft.net/2025/03/06/fungal-fairy-rings-the-science-behind-the-magic/" target="_blank" rel="noopener noreferrer nofollow">https://blog.pensoft.net/2025/03/06/fungal-fairy-rings-the-science-behind-the-magic/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fairy Rings: the science behind the magic - Pensoft blog6 Mar 2025 — While folklore once attributed these rings to magic, scientists now...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/22080257/](https://pubmed.ncbi.nlm.nih.gov/22080257/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22080257/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22080257/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>as islands: spatial distribution of nectar-inhabiting...by M Belisle · 2012 · Cited by 221 — We examined the distribution of the yeast...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: gcsaa.org  
-   Link: [https://www.gcsaa.org/docs/default-source/research-and-information/disease/new-insight-on-fairy-ring.pdf?sfvrsn=2](https://www.gcsaa.org/docs/default-source/research-and-information/disease/new-insight-on-fairy-ring.pdf?sfvrsn=2)  
+   Link: <a href="https://www.gcsaa.org/docs/default-source/research-and-information/disease/new-insight-on-fairy-ring.pdf?sfvrsn=2" target="_blank" rel="noopener noreferrer nofollow">https://www.gcsaa.org/docs/default-source/research-and-information/disease/new-insight-on-fairy-ring.pdf?sfvrsn=2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ecrotic or dead turf appear- ing in rings or...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: matthiasrillig.substack.com  
-   Link: [https://matthiasrillig.substack.com/p/how-fairy-ring-fungi-influence-the](https://matthiasrillig.substack.com/p/how-fairy-ring-fungi-influence-the)  
+   Link: <a href="https://matthiasrillig.substack.com/p/how-fairy-ring-fungi-influence-the" target="_blank" rel="noopener noreferrer nofollow">https://matthiasrillig.substack.com/p/how-fairy-ring-fungi-influence-the</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>fairy ring fungi influence the soil (and then plant growth)The main point of the results was that the presence of the fairy ring fungus s...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/incredhistory/posts/ufo-temporarily-paralyzes-kansas-boy-and-his-sheep-in-the-spring-of-2022-i-trave/165969263266821/](https://www.facebook.com/incredhistory/posts/ufo-temporarily-paralyzes-kansas-boy-and-his-sheep-in-the-spring-of-2022-i-trave/165969263266821/)  
+   Link: <a href="https://www.facebook.com/incredhistory/posts/ufo-temporarily-paralyzes-kansas-boy-and-his-sheep-in-the-spring-of-2022-i-trave/165969263266821/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/incredhistory/posts/ufo-temporarily-paralyzes-kansas-boy-and-his-sheep-in-the-spring-of-2022-i-trave/165969263266821/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Temporarily Paralyzes Kansas Boy and his Sheep...Analysis of the ring soil demonstrated some unusual properties: the soil resisted w...</p></details>

@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /farmington-sightings-1950/
 nav_short_title: Timeline
 title: How the Farmington Sightings Unfolded
-title_full: How the Farmington Sightings Unfolded | Farmington Armada
+title_full: How the Farmington Sightings Unfolded
 display_title_short: Timeline
 display_title: Timeline
 heading_title: How the Farmington Sightings Unfolded
@@ -239,7 +239,7 @@ next_link:
   permalink: /witnesses-b905da/
   short_title: Witnesses
   heading_title: Who Saw the Farmington Armada?
-date: '2026-06-08 23:40:24 '
+date: '2026-06-11 13:23:24 '
 header:
   og_image: /assets/images/Farmington_sightings_46c4ec_march_1950_timeline_ef45cc-Illustration-1-social.jpg
   preview_image: /assets/images/Farmington_sightings_46c4ec_march_1950_timeline_ef45cc-Illustration-1.webp
@@ -248,11 +248,10 @@ image: /assets/images/Farmington_sightings_46c4ec_march_1950_timeline_ef45cc-Ill
 
 ## Introduction
 
-In March 1950, the north-west New Mexico town of Farmington experienced one of the best-known daylight UFO waves of the early Cold War era. Over several consecutive days, residents reported seeing groups of fast-moving silver objects crossing the sky near midday, with some [witnesses]({{ 'witnesses-b905da/' | relative_url }}) claiming the formations numbered in the hundreds. What made the incident unusual was not only the scale of the reports, but the way the town itself reacted in real time: office workers gathered in the streets, traffic slowed as people stared upward, and the local newspaper was flooded with telephone calls from residents convinced they had seen something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/500316farmington_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUFO Report... March... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON. Crafts Seen... The office of the Farmington Daily Times was deluged...</span></span></span>
-
+In March 1950, the north-west New Mexico town of Farmington experienced one of the best-known daylight UFO waves of the early Cold War era. Over several consecutive days, residents reported seeing groups of fast-moving silver objects crossing the sky near midday, with some [witnesses]({{ 'witnesses-b905da/' | relative_url }}) claiming the formations numbered in the hundreds. What made the incident unusual was not only the scale of the reports, but the way the town itself reacted in real time: office workers gathered in the streets, traffic slowed as people stared upward, and the local newspaper was flooded with telephone calls from residents convinced they had seen something extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/500316farmington_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO Report... March... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON. Crafts Seen... The office of the Farmington Daily Times was deluged...</span></span></span>
 
 <img src="{{ "/assets/images/Farmington_sightings_46c4ec_march_1950_timeline_ef45cc-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Farmington_sightings_46c4ec_march_1950_timeline_ef45cc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Farmington_sightings_46c4ec_march_1950_timeline_ef45cc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The [Farmington sightings]({{ 'farmington-sightings-1950/' | relative_url }}) quickly moved from local curiosity to regional news story. The headline “HUGE ‘SAUCER’ ARMADA JOLTS FARMINGTON” became one of the most widely repeated newspaper references in early UFO history, helping transform a small New Mexico city into a national point of discussion during America’s first major flying saucer craze. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.davidmarlerufo.com/farmington-nm-1950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: davidmarlerufo.com">[David Marler UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">davidmarlerufo.com</span><span class="citation-popover-title">farmington nm 1950</span><span class="citation-popover-snippet">David Marler UFOFarmington NM 1950The newspaper, Farmington Daily Times, dated Saturday, March 18th 1950... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS F...</span></span></span>
+The Farmington sightings quickly moved from local curiosity to regional news story. The headline “HUGE ‘SAUCER’ ARMADA JOLTS FARMINGTON” became one of the most widely repeated newspaper references in early UFO history, helping transform a small New Mexico city into a national point of discussion during America’s first major flying saucer craze. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.davidmarlerufo.com/farmington-nm-1950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: davidmarlerufo.com">[David Marler UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">davidmarlerufo.com</span><span class="citation-popover-title">farmington nm 1950</span><span class="citation-popover-snippet">David Marler UFOFarmington NM 1950The newspaper, Farmington Daily Times, dated Saturday, March 18th 1950... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS F...</span></span></span>
 
 ## How the First Reports Emerged
 
@@ -264,12 +263,11 @@ Accounts differ slightly on the exact starting date. Some later summaries place 
 
 ### March 17: The “Armada” Day
 
-The most famous wave occurred on Friday, 17 March 1950. According to the *Farmington Daily Times*, large numbers of residents saw silvery objects crossing the sky over the town in broad daylight. The newspaper described the event as the first “mass flying saucer flight” reported in the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/500316farmington_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUFO Report... March... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON. Crafts Seen... The office of the Farmington Daily Times was deluged...</span></span></span>
+The most famous wave occurred on Friday, 17 March 1950. According to the *Farmington Daily Times*, large numbers of residents saw silvery objects crossing the sky over the town in broad daylight. The newspaper described the event as the first “mass flying saucer flight” reported in the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/500316farmington_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO Report... March... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON. Crafts Seen... The office of the Farmington Daily Times was deluged...</span></span></span>
 
 Witnesses gave dramatically high estimates for the number of objects. Some claimed dozens were visible at once; others believed there were several hundred. The paper quoted local observers who estimated speeds of up to 1,000 miles per hour and altitudes near 20,000 feet, although these figures were visual estimates rather than measured data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.davidmarlerufo.com/farmington-nm-1950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: davidmarlerufo.com">[David Marler UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">davidmarlerufo.com</span><span class="citation-popover-title">farmington nm 1950</span><span class="citation-popover-snippet">David Marler UFOFarmington NM 1950The newspaper, Farmington Daily Times, dated Saturday, March 18th 1950... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS F...</span></span></span>
 
-One detail repeated in several retellings was the claim that most of the objects appeared silver, while one larger red object seemed to lead the formation. The newspaper described this as a “red leader”, an image that became part of later UFO lore surrounding the incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/500316farmington_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUFO Report... March... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON. Crafts Seen... The office of the Farmington Daily Times was deluged...</span></span></span>
-
+One detail repeated in several retellings was the claim that most of the objects appeared silver, while one larger red object seemed to lead the formation. The newspaper described this as a “red leader”, an image that became part of later UFO lore surrounding the incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/500316farmington_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO Report... March... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON. Crafts Seen... The office of the Farmington Daily Times was deluged...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UZwBH9-He1M" title="The Flying Saucer Invasion of 1950 – Farmington, NM and Beyond - David Marler - 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UZwBH9-He1M" target="_blank" rel="noopener noreferrer">The Flying Saucer Invasion of 1950 – Farmington, NM and Beyond - David Marler - 2016</a></p><p class="youtube-embed-meta">Channel: Ozark Mountain Publishing &middot; Views: 16.8K &middot; Uploaded: April 2019 &middot; Length: 1 hour 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UZwBH9-He1M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UZwBH9-He1M">Open on YouTube</a></p></div></div></div>
 
@@ -287,20 +285,18 @@ Accounts become less precise after the main newspaper coverage, but later summar
 
 The uncertainty surrounding the final phase of the timeline reflects one of the enduring problems in reconstructing the Farmington case: much of the narrative depends on newspaper reporting, later interviews, and retrospective UFO literature rather than surviving official documentation. Unlike some later UFO incidents, there was no widely cited radar record, military intercept, or extensive government file tied directly to the Farmington events.
 
-
 <img src="{{ "/assets/images/Farmington_sightings_46c4ec_march_1950_timeline_ef45cc-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Farmington_sightings_46c4ec_march_1950_timeline_ef45cc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Farmington_sightings_46c4ec_march_1950_timeline_ef45cc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Main Street Witnesses and Newspaper Calls
 
-One reason the Farmington sightings became so memorable was the visibility of the public reaction itself. Contemporary reporting described residents leaving homes, shops, and offices to watch the sky together. Traffic reportedly slowed as drivers and pedestrians stopped to stare upward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/500316farmington_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUFO Report... March... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON. Crafts Seen... The office of the Farmington Daily Times was deluged...</span></span></span>
+One reason the Farmington sightings became so memorable was the visibility of the public reaction itself. Contemporary reporting described residents leaving homes, shops, and offices to watch the sky together. Traffic reportedly slowed as drivers and pedestrians stopped to stare upward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/500316farmington_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO Report... March... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON. Crafts Seen... The office of the Farmington Daily Times was deluged...</span></span></span>
 
-The *Farmington Daily Times* played a central role in documenting and amplifying the event. Its offices reportedly received a flood of telephone calls from citizens describing what they had seen. That detail is important historically because it suggests the newspaper was reacting to a wave of unsolicited reports rather than publishing a single isolated witness account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/500316farmington_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUFO Report... March... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON. Crafts Seen... The office of the Farmington Daily Times was deluged...</span></span></span>
+The *Farmington Daily Times* played a central role in documenting and amplifying the event. Its offices reportedly received a flood of telephone calls from citizens describing what they had seen. That detail is important historically because it suggests the newspaper was reacting to a wave of unsolicited reports rather than publishing a single isolated witness account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/500316farmington_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO Report... March... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON. Crafts Seen... The office of the Farmington Daily Times was deluged...</span></span></span>
 
 The newspaper’s business manager, Clayton J. Boddy, became one of the most frequently quoted witnesses. Later UFO researchers noted that Boddy had engineering experience from Army service, which supporters used to argue that he was a comparatively credible observer. He reportedly claimed that the objects appeared suddenly and moved in organised formations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.davidmarlerufo.com/farmington-nm-1950" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: davidmarlerufo.com">[David Marler UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">davidmarlerufo.com</span><span class="citation-popover-title">farmington nm 1950</span><span class="citation-popover-snippet">David Marler UFOFarmington NM 1950The newspaper, Farmington Daily Times, dated Saturday, March 18th 1950... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS F...</span></span></span>
 
 Later retellings expanded the image of a town collectively absorbed by the sightings. Some accounts described teachers and students pausing lessons to look outside, while others recalled residents using binoculars or gathering on Main Street during the repeated appearances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://visitfourcorners.com/farmington-nm-stats-facts-and-historical-events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitfourcorners.com">[VisitFourCorners.com -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitfourcorners.com</span><span class="citation-popover-title">Visit Four Corners.com -Farmington, NM: Stats, Facts, and Historical Events</span><span class="citation-popover-snippet">Daily Times to run the banner headline “HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON” on March 18. Office workers spilled onto Main Street, clas...</span></span></span>
 
 These descriptions helped shape the later mythology of Farmington as a “mass witness” event rather than a conventional UFO sighting involving only a handful of observers.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DQs1c9-Ai0o" title="New Mexico&#x27;s History Of UFO Sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DQs1c9-Ai0o" target="_blank" rel="noopener noreferrer">New Mexico&#x27;s History Of UFO Sightings</a></p><p class="youtube-embed-meta">Channel: KRQE &middot; Views: 6.7K &middot; Uploaded: June 2024 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DQs1c9-Ai0o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DQs1c9-Ai0o">Open on YouTube</a></p></div></div></div>
 
@@ -314,61 +310,100 @@ The timing also mattered geographically. Farmington sat within a wider New Mexic
 
 As the story spread, however, the details became increasingly difficult to separate from embellishment. Some later retellings inflated the number of witnesses or objects dramatically, while others introduced questionable photographs or reconstructed imagery not tied directly to the original events. Even researchers sympathetic to UFO claims acknowledge that the surviving evidence consists mainly of newspaper accounts and witness recollections rather than hard physical proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=40I1C0a7KI8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">UFO Over Farmington, New Mexico March 17, 1950This report contains a single photograph from the 1950 Mass sighting that took place...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOB/comments/13yivj6/as_hard_as_it_is_to_believe_this_was_a_photo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">as hard as it is to believe this was a photo</span><span class="citation-popover-snippet">As hard as it is to believe... this was a photo taken in 1950...This was a photo taken in 1950 of a fleet UFOs which flew over a town in...</span></span></span>
 
-
 <img src="{{ "/assets/images/Farmington_sightings_46c4ec_march_1950_timeline_ef45cc-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Farmington_sightings_46c4ec_march_1950_timeline_ef45cc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Farmington_sightings_46c4ec_march_1950_timeline_ef45cc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Town Response Versus Later Skepticism
 
-The immediate reaction inside Farmington appears to have been genuine confusion mixed with excitement rather than panic. Residents reportedly treated the sightings as astonishing public spectacles. There is little evidence of mass fear or emergency response. Instead, the atmosphere described in newspaper accounts resembles a community-wide interruption in ordinary daily life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/500316farmington_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUFO Report... March... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON. Crafts Seen... The office of the Farmington Daily Times was deluged...</span></span></span>
+The immediate reaction inside Farmington appears to have been genuine confusion mixed with excitement rather than panic. Residents reportedly treated the sightings as astonishing public spectacles. There is little evidence of mass fear or emergency response. Instead, the atmosphere described in newspaper accounts resembles a community-wide interruption in ordinary daily life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/500316farmington_report2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO Report... March... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON. Crafts Seen... The office of the Farmington Daily Times was deluged...</span></span></span>
 
 Later sceptical interpretations focused on how collective behaviour can reinforce extraordinary claims. Once large numbers of people gathered outside expecting to see “saucers”, ordinary aerial objects, reflections, birds, balloons, or optical effects may have been interpreted through the lens of the ongoing flying saucer craze.
 
-This tension between sincere witness testimony and the psychology of mass observation remains central to the Farmington case. Supporters argue that repeated daylight sightings involving many independent observers deserve serious attention. Sceptics counter that the lack of photographs, instrument data, or verified physical evidence leaves the story dependent on human perception under highly suggestible conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/sightings/new-mexico-ufo-armada-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">new mexico ufo armada case</span><span class="citation-popover-snippet">UFO InsightThe Farmington, New Mexico UFO Armada Case10 Jun 2019 — A 3-day UFO encounter in March 1950 in Farmington, New Mexico is quiet...</span><span class="citation-popover-meta">Published: March 1950</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.koat.com/article/witness-recalls-1950-farmington-ufo-armada/5068732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koat.com">[KOAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koat.com</span><span class="citation-popover-title">witness recalls 1950 farmington ufo armada</span><span class="citation-popover-snippet">KOATWitness recalls 1950 Farmington UFO Armada13 Dec 2015 — The Farmington Armada incident got a lot of local press at the time, but it t...</span></span></span>
+This tension between sincere witness testimony and the psychology of mass observation remains central to the Farmington case. Supporters argue that repeated daylight sightings involving many independent observers deserve serious attention. Sceptics counter that the lack of photographs, instrument data, or verified physical evidence leaves the story dependent on human perception under highly suggestible conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/ufos/sightings/new-mexico-ufo-armada-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">new mexico ufo armada case</span><span class="citation-popover-snippet">UFO InsightThe Farmington, New Mexico UFO Armada Case10 Jun 2019 — A 3-day UFO encounter in March 1950 in Farmington, New Mexico is quiet...</span><span class="citation-popover-meta">Published: March 1950</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.koat.com/article/witness-recalls-1950-farmington-ufo-armada/5068732" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koat.com">[KOAT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koat.com</span><span class="citation-popover-title">witness recalls 1950 farmington ufo armada</span><span class="citation-popover-snippet">Witness recalls 1950 Farmington UFO Armada13 Dec 2015 — The Farmington Armada incident got a lot of local press at the time, but it t...</span></span></span>
 
 What survives most clearly from March 1950 is therefore not a definitive explanation, but a vivid historical snapshot: a small American town collectively looking skyward for several days and becoming, almost overnight, part of the mythology of the UFO age.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QYNcUVZRv2A" title="Before Roswell There was Farmington: The Untold Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QYNcUVZRv2A" target="_blank" rel="noopener noreferrer">Before Roswell There was Farmington: The Untold Story</a></p><p class="youtube-embed-meta">Channel: Motech &middot; Views: 6.4K &middot; Uploaded: November 2024 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QYNcUVZRv2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QYNcUVZRv2A">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How the Farmington Sightings Unfolded, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How the Farmington Sightings Unfolded. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Records the March 1950 sighting wave as reported during early Air Force investigation attempts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides institutional background on how 1950s investigative bureaus indexed and eventually closed sighting waves.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides the chronological sequence of the Farmington sighting wave, mapping how it expanded from a local curiosity into a regional story.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Details the investigative steps required to evaluate cases that develop rapidly across local news and rumor networks.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -405,15 +440,15 @@ What survives most clearly from March 1950 is therefore not a definitive explana
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -421,15 +456,15 @@ What survives most clearly from March 1950 is therefore not a definitive explana
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -437,15 +472,15 @@ What survives most clearly from March 1950 is therefore not a definitive explana
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -453,15 +488,15 @@ What survives most clearly from March 1950 is therefore not a definitive explana
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -469,7 +504,7 @@ What survives most clearly from March 1950 is therefore not a definitive explana
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-869a4b-how-the-farmington-sightings-unfolded-farmington-sightings-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-farmington-sightings-unfolded-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-the-farmington-sightings-unfolded-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -684,197 +719,197 @@ What survives most clearly from March 1950 is therefore not a definitive explana
 
 1. <a id="endnote-1"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/500316farmington_report2.htm](https://www.nicap.org/reports/500316farmington_report2.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPUFO Report... March... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON. Crafts Seen... The office of the Farmington Daily Times was deluged...</p></details>
+   Link: <a href="https://www.nicap.org/reports/500316farmington_report2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/500316farmington_report2.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report... March... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON. Crafts Seen... The office of the Farmington Daily Times was deluged...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: davidmarlerufo.com  
    Title: farmington nm 1950  
-   Link: [https://www.davidmarlerufo.com/farmington-nm-1950](https://www.davidmarlerufo.com/farmington-nm-1950)  
+   Link: <a href="https://www.davidmarlerufo.com/farmington-nm-1950" target="_blank" rel="noopener noreferrer nofollow">https://www.davidmarlerufo.com/farmington-nm-1950</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Marler UFOFarmington NM 1950The newspaper, Farmington Daily Times, dated Saturday, March 18th 1950... HUGE &#x27;SAUCER&#x27; ARMADA JOLTS F...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 4. <a id="endnote-4"></a>
    Source: podme.com  
-   Link: [https://podme.com/fi/jakso/6977424/](https://podme.com/fi/jakso/6977424/)  
+   Link: <a href="https://podme.com/fi/jakso/6977424/" target="_blank" rel="noopener noreferrer nofollow">https://podme.com/fi/jakso/6977424/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 15, 1950, a strange event occurred in Farmington, New Mexico, known as the &quot;Farmington UFO Armada.&quot; Hundreds of residents reported...</p></details>
    Published: March 15, 1950  
 
 5. <a id="endnote-5"></a>
    Source: visitfourcorners.com  
    Title: Visit Four Corners.com -Farmington, NM: Stats, Facts, and Historical Events  
-   Link: [https://visitfourcorners.com/farmington-nm-stats-facts-and-historical-events/](https://visitfourcorners.com/farmington-nm-stats-facts-and-historical-events/)  
+   Link: <a href="https://visitfourcorners.com/farmington-nm-stats-facts-and-historical-events/" target="_blank" rel="noopener noreferrer nofollow">https://visitfourcorners.com/farmington-nm-stats-facts-and-historical-events/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily Times to run the banner headline “HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON” on March 18. Office workers spilled onto Main Street, clas...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Aztec crashed saucer hoax  
-   Link: [https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax](https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax)  
+   Link: <a href="https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax</a>  
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=40I1C0a7KI8](https://www.youtube.com/watch?v=40I1C0a7KI8)  
+   Link: <a href="https://www.youtube.com/watch?v=40I1C0a7KI8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=40I1C0a7KI8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Over Farmington, New Mexico March 17, 1950This report contains a single photograph from the 1950 Mass sighting that took place...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: as hard as it is to believe this was a photo  
-   Link: [https://www.reddit.com/r/UFOB/comments/13yivj6/as_hard_as_it_is_to_believe_this_was_a_photo/](https://www.reddit.com/r/UFOB/comments/13yivj6/as_hard_as_it_is_to_believe_this_was_a_photo/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/13yivj6/as_hard_as_it_is_to_believe_this_was_a_photo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/13yivj6/as_hard_as_it_is_to_believe_this_was_a_photo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>As hard as it is to believe... this was a photo taken in 1950...This was a photo taken in 1950 of a fleet UFOs which flew over a town in...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: koat.com  
    Title: witness recalls 1950 farmington ufo armada  
-   Link: [https://www.koat.com/article/witness-recalls-1950-farmington-ufo-armada/5068732](https://www.koat.com/article/witness-recalls-1950-farmington-ufo-armada/5068732)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KOATWitness recalls 1950 Farmington UFO Armada13 Dec 2015 — The Farmington Armada incident got a lot of local press at the time, but it t...</p></details>
+   Link: <a href="https://www.koat.com/article/witness-recalls-1950-farmington-ufo-armada/5068732" target="_blank" rel="noopener noreferrer nofollow">https://www.koat.com/article/witness-recalls-1950-farmington-ufo-armada/5068732</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Witness recalls 1950 Farmington UFO Armada13 Dec 2015 — The Farmington Armada incident got a lot of local press at the time, but it t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
    Title: Farmington UFO Armada  
-   Link: [https://www.reddit.com/r/UrbanMyths/comments/19c6q7v/farmington_ufo_armada_march_17_1950_hundreds_of/](https://www.reddit.com/r/UrbanMyths/comments/19c6q7v/farmington_ufo_armada_march_17_1950_hundreds_of/)  
+   Link: <a href="https://www.reddit.com/r/UrbanMyths/comments/19c6q7v/farmington_ufo_armada_march_17_1950_hundreds_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UrbanMyths/comments/19c6q7v/farmington_ufo_armada_march_17_1950_hundreds_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 17, 1950 Hundreds Of...r/UFOmega - Amazing footage of a circular UFO with a sign flying over California. dailymotion. 11.Read more...</p></details>
    Published: March 17, 1950  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: the most spectacular ufo sighting in us history  
-   Link: [https://www.reddit.com/r/ufo/comments/1k8jfov/the_most_spectacular_ufo_sighting_in_us_history/](https://www.reddit.com/r/ufo/comments/1k8jfov/the_most_spectacular_ufo_sighting_in_us_history/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1k8jfov/the_most_spectacular_ufo_sighting_in_us_history/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1k8jfov/the_most_spectacular_ufo_sighting_in_us_history/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>it happened in Farmington, New Mexico, in 1950!!: r/ufor/UFOs - Did you know that Most Sightings discussed in the #UFO Community. youtu...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: koat.com  
-   Link: [https://www.koat.com/article/lecture-focuses-on-ufo-mass-sighting-in-new-mexico/4486063](https://www.koat.com/article/lecture-focuses-on-ufo-mass-sighting-in-new-mexico/4486063)  
+   Link: <a href="https://www.koat.com/article/lecture-focuses-on-ufo-mass-sighting-in-new-mexico/4486063" target="_blank" rel="noopener noreferrer nofollow">https://www.koat.com/article/lecture-focuses-on-ufo-mass-sighting-in-new-mexico/4486063</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lecture focuses on UFO Mass Sighting in New MexicoNov 10, 2017 — Lecture focuses on UFO Mass Sighting in New Mexico · It&#x27;s known as the F...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: koat.com  
    Title: Lecture on UFO Mass Sighting  
-   Link: [https://www.koat.com/article/lecture-on-ufo-mass-sighting/4486119](https://www.koat.com/article/lecture-on-ufo-mass-sighting/4486119)  
+   Link: <a href="https://www.koat.com/article/lecture-on-ufo-mass-sighting/4486119" target="_blank" rel="noopener noreferrer nofollow">https://www.koat.com/article/lecture-on-ufo-mass-sighting/4486119</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AlbuquerqueDec 12, 2015 — Lecture on UFO Mass Sighting. It&#x27;s known as the Farmington &quot;Armada&quot; Incident. Sixty-five years later, a researc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=QYNcUVZRv2A](https://www.youtube.com/watch?v=QYNcUVZRv2A)  
+   Link: <a href="https://www.youtube.com/watch?v=QYNcUVZRv2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QYNcUVZRv2A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Before Roswell There was Farmington: The Untold StoryA spectacular event shook the relatively unknown town of Farmington New Mexico. It w...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=UZwBH9-He1M](https://www.youtube.com/watch?v=UZwBH9-He1M)  
+   Link: <a href="https://www.youtube.com/watch?v=UZwBH9-He1M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UZwBH9-He1M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Flying Saucer Invasion of 1950 – Farmington, NM and...In March of 1950, reports of hundreds of “flying saucers” were reported in bro...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Lecture on UFO Mass Sighting  
-   Link: [https://www.youtube.com/watch?v=_jov2cEVuhw](https://www.youtube.com/watch?v=_jov2cEVuhw)  
+   Link: <a href="https://www.youtube.com/watch?v=_jov2cEVuhw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_jov2cEVuhw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Mexico&#x27;s History Of UFO Sightings...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: New Mexico's History Of UFO Sightings  
-   Link: [https://www.youtube.com/watch?v=DQs1c9-Ai0o](https://www.youtube.com/watch?v=DQs1c9-Ai0o)  
+   Link: <a href="https://www.youtube.com/watch?v=DQs1c9-Ai0o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DQs1c9-Ai0o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal Into The Night | 1950 Egg Shape UFO | 1950 Airline Pilot UFO Sighting...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WVwguA4Omks](https://www.youtube.com/watch?v=WVwguA4Omks)  
+   Link: <a href="https://www.youtube.com/watch?v=WVwguA4Omks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WVwguA4Omks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1950s UFO Sightings...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Ka05Hu2tkso](https://www.youtube.com/watch?v=Ka05Hu2tkso)  
+   Link: <a href="https://www.youtube.com/watch?v=Ka05Hu2tkso" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ka05Hu2tkso</a>  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=BfLSclIe9Zg](https://www.youtube.com/watch?v=BfLSclIe9Zg)  
+   Link: <a href="https://www.youtube.com/watch?v=BfLSclIe9Zg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BfLSclIe9Zg</a>  
 
 22. <a id="endnote-22"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo08.htm](https://sacred-texts.com/ufo/rufo/rufo08.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo08.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo08.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>early 1950 the UFO&#x27;s moved down to Mexico. The newspapers were full of reports. Tourists were bringing back more saucer stories than hand...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: abqlibrary.org  
    Title: ABQ Library F  
-   Link: [https://abqlibrary.org/nmpedia/f](https://abqlibrary.org/nmpedia/f)  
+   Link: <a href="https://abqlibrary.org/nmpedia/f" target="_blank" rel="noopener noreferrer nofollow">https://abqlibrary.org/nmpedia/f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 15-18, 1950 event where &quot;fully half of the town&#x27;s population&quot; witnessed &quot;hundreds&quot; of UFOs over the town. The term armada is...Rea...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ufoinsight.com  
    Title: new mexico ufo armada case  
-   Link: [https://www.ufoinsight.com/ufos/sightings/new-mexico-ufo-armada-case](https://www.ufoinsight.com/ufos/sightings/new-mexico-ufo-armada-case)  
+   Link: <a href="https://www.ufoinsight.com/ufos/sightings/new-mexico-ufo-armada-case" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/new-mexico-ufo-armada-case</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe Farmington, New Mexico UFO Armada Case10 Jun 2019 — A 3-day UFO encounter in March 1950 in Farmington, New Mexico is quiet...</p></details>
    Published: March 1950  
 
 25. <a id="endnote-25"></a>
    Source: abqlibrary.org  
-   Link: [https://abqlibrary.org/nmpedia/u](https://abqlibrary.org/nmpedia/u)  
+   Link: <a href="https://abqlibrary.org/nmpedia/u" target="_blank" rel="noopener noreferrer nofollow">https://abqlibrary.org/nmpedia/u</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NMPediaThe Farmington UFO &quot;Armada&quot; (March 15-18 1950) was witnessed by not only &quot;fully half of the town&#x27;s population&quot; but also by others...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: music.amazon.com  
-   Link: [https://music.amazon.com/es-us/podcasts/92d6ee42-aadb-49dd-939e-ab8a065cdefa/the-arkin%27s-hearth](https://music.amazon.com/es-us/podcasts/92d6ee42-aadb-49dd-939e-ab8a065cdefa/the-arkin%27s-hearth)  
+   Link: <a href="https://music.amazon.com/es-us/podcasts/92d6ee42-aadb-49dd-939e-ab8a065cdefa/the-arkin%27s-hearth" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-us/podcasts/92d6ee42-aadb-49dd-939e-ab8a065cdefa/the-arkin%27s-hearth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon MusicThe Arkin&#x27;s Hearth... Farmington Daily Times — “Huge &#x27;Saucer&#x27; Armada Jolts Farmington,” March 18, 1950. Front-page article do...</p></details>
    Published: March 18, 1950  
 
 27. <a id="endnote-27"></a>
    Source: rss.com  
-   Link: [https://rss.com/podcasts/the-arkin-s-hearth/](https://rss.com/podcasts/the-arkin-s-hearth/)  
+   Link: <a href="https://rss.com/podcasts/the-arkin-s-hearth/" target="_blank" rel="noopener noreferrer nofollow">https://rss.com/podcasts/the-arkin-s-hearth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Arkin&#x27;s Hearth | Podcast on RSS.comArt by The Pixie References: Farmington Daily Times — “Huge &#x27;Saucer&#x27; Armada Jolts Farmington,” Mar...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: dgomag.com  
-   Link: [https://dgomag.com/half-of-this-towns-population-still-is-certain-today-that-it-saw-space-ships-recalling-the-farmington-armada-ufo-incident/](https://dgomag.com/half-of-this-towns-population-still-is-certain-today-that-it-saw-space-ships-recalling-the-farmington-armada-ufo-incident/)  
+   Link: <a href="https://dgomag.com/half-of-this-towns-population-still-is-certain-today-that-it-saw-space-ships-recalling-the-farmington-armada-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://dgomag.com/half-of-this-towns-population-still-is-certain-today-that-it-saw-space-ships-recalling-the-farmington-armada-ufo-incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DGO MagazineRecalling The Farmington Armada UFO Incident15 Nov 2018 — Virgil Jerry Riggs was just 8 years old in 1950, but the young boy...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: ufoevidence.org  
-   Link: [https://www.ufoevidence.org/cases/case880.htm](https://www.ufoevidence.org/cases/case880.htm)  
+   Link: <a href="https://www.ufoevidence.org/cases/case880.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case880.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Farmington UFO ArmadaHUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON Crafts Seen By Hundreds - Speed Estimated at 1000 MPH, Altitude 20,000 fee...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100076011920518/posts/-the-day-an-armada-took-over-farmington-did-you-know-one-of-the-largest-mass-ufo/831124669431256/](https://www.facebook.com/100076011920518/posts/-the-day-an-armada-took-over-farmington-did-you-know-one-of-the-largest-mass-ufo/831124669431256/)  
+   Link: <a href="https://www.facebook.com/100076011920518/posts/-the-day-an-armada-took-over-farmington-did-you-know-one-of-the-largest-mass-ufo/831124669431256/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100076011920518/posts/-the-day-an-armada-took-over-farmington-did-you-know-one-of-the-largest-mass-ufo/831124669431256/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 18, 1950, the Farmington Daily Times ran a famous front-page banner headline: “HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON.” The...</p></details>
    Published: March 18, 1950  
 
 31. <a id="endnote-31"></a>
    Source: theatermania.com  
    Title: UNIDENTIFIE D: The Farmington Armada on New York City  
-   Link: [https://www.theatermania.com/shows/new-york-city-theater/off-off-broadway/unidentified-the-farmington-armada_23120/](https://www.theatermania.com/shows/new-york-city-theater/off-off-broadway/unidentified-the-farmington-armada_23120/)  
+   Link: <a href="https://www.theatermania.com/shows/new-york-city-theater/off-off-broadway/unidentified-the-farmington-armada_23120/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatermania.com/shows/new-york-city-theater/off-off-broadway/unidentified-the-farmington-armada_23120/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Symposium as part of an ongoing oral history project by The Aztec Public... In March, 1950, the local paper reported an “armada” of...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/weirdnewmexico/posts/march-17-1950-in-farmington-new-mexico-residents-reported-witnessing-hundreds-of/1111682334464729/](https://www.facebook.com/weirdnewmexico/posts/march-17-1950-in-farmington-new-mexico-residents-reported-witnessing-hundreds-of/1111682334464729/)  
+   Link: <a href="https://www.facebook.com/weirdnewmexico/posts/march-17-1950-in-farmington-new-mexico-residents-reported-witnessing-hundreds-of/1111682334464729/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/weirdnewmexico/posts/march-17-1950-in-farmington-new-mexico-residents-reported-witnessing-hundreds-of/1111682334464729/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 17, 1950, in Farmington, New Mexico residents...18 Oct 2025 — (copyright James Neff)...</p></details>
    Published: March 17, 1950  
 
 33. <a id="endnote-33"></a>
    Source: sfcrowsnest.info  
    Title: the farmington ufo armada incident weird news  
-   Link: [https://sfcrowsnest.info/the-farmington-ufo-armada-incident-weird-news/](https://sfcrowsnest.info/the-farmington-ufo-armada-incident-weird-news/)  
+   Link: <a href="https://sfcrowsnest.info/the-farmington-ufo-armada-incident-weird-news/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/the-farmington-ufo-armada-incident-weird-news/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Farmington UFO Armada incident which went down in the 1950s in the USA, where thousands of witnesses saw formations of drone-like craft...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: yahoo.com  
    Title: mexico ufo incidents ve never 120000085  
-   Link: [https://www.yahoo.com/news/mexico-ufo-incidents-ve-never-120000085.html](https://www.yahoo.com/news/mexico-ufo-incidents-ve-never-120000085.html)  
+   Link: <a href="https://www.yahoo.com/news/mexico-ufo-incidents-ve-never-120000085.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/mexico-ufo-incidents-ve-never-120000085.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Mexico&#x27;s UFO incidents you&#x27;ve never heard of21 May 2024 — The military took some of the UFO reports seriously not because they though...</p></details>
    Published: May 2024  
 
 35. <a id="endnote-35"></a>
    Source: hopeseguin2010.wordpress.com  
    Title: farmington new mexico  
-   Link: [https://hopeseguin2010.wordpress.com/tag/farmington-new-mexico/](https://hopeseguin2010.wordpress.com/tag/farmington-new-mexico/)  
+   Link: <a href="https://hopeseguin2010.wordpress.com/tag/farmington-new-mexico/" target="_blank" rel="noopener noreferrer nofollow">https://hopeseguin2010.wordpress.com/tag/farmington-new-mexico/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>61, No. 194; (front page banner headline); HUGE &#x27;SAUCER&#x27; ARMADA JOLTS FARMINGTON; Crafts...Read more...</p></details>

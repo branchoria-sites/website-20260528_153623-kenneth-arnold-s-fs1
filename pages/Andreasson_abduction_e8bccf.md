@@ -360,9 +360,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -396,9 +396,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -436,9 +436,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Villas Boas
   permalink: /antonio-villas-boas-abduction-1957/
   short_title: Villas Boas
-date: '2026-06-08 23:21:17 '
+date: '2026-06-11 13:13:19 '
 header:
   og_image: /assets/images/Andreasson_abduction_e8bccf-overview-social.jpg
   preview_image: /assets/images/Andreasson_abduction_e8bccf-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Andreasson_abduction_e8bccf-overview-social.jpg
 ## What Betty Andreasson said happened
 
 The core claim begins on a winter evening in January 1967, when Betty Andreasson was living in South Ashburnham with her seven children. Her husband James had been seriously injured in a December 1966 car crash and was in hospital, so Betty’s parents were staying with the family to help. Fowler’s account places the household in a pressured but ordinary domestic setting: early suppers, children watching television, and Betty managing a large family while her husband recovered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/theandreassonaffairebyraymondfowler/THE%20ANDREASSON%20%20AFFAIRE%20%20by%20Raymond%20Fowler_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">See other formats. “Raymond Fowler has been a cautious and careful UFO Investigator for many years.Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/Andreasson_abduction_e8bccf-overview.webp" | relative_url }}" alt="Overview image for Andreasson abduction 1967" loading="eager" decoding="sync" fetchpriority="high">
 According to the case narrative later developed under interviews and hypnosis, the house was suddenly affected by darkness and an unusual glow outside. The family allegedly saw a reddish or pulsating light near the rear of the property, after which the ordinary waking memory of the event became confused. Betty’s later hypnotic recall described small humanoid beings entering, her family being immobilised, and her own removal from the house. Fowler’s book summary describes the home being “plunged into darkness” and a glow enveloping the backyard before Betty recalled several small beings under hypnotic regression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/theandreassonaffairebyraymondfowler/THE%20ANDREASSON%20%20AFFAIRE%20%20by%20Raymond%20Fowler_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">See other formats. “Raymond Fowler has been a cautious and careful UFO Investigator for many years.Read more...</span></span></span>
@@ -774,16 +773,14 @@ Weather details became another anchor. The U.S. Department of Commerce weather s
 
 These checks matter because they show that the investigation did not rely solely on Betty’s dramatic narrative. Some background details — the husband’s hospitalisation, the power outage, the misty weather, the household’s early-evening routine — were at least plausibly matched to external records. But they do not prove the extraordinary claim. A power cut and fog can corroborate the setting of an unusual evening without establishing that a UFO landed or that beings entered the home.
 
-
 <img src="{{ "/assets/images/Andreasson_abduction_e8bccf-Illustration-1-dark.svg" | relative_url }}" alt="Andreasson abduction 1967 illustration 1" data-theme-src-dark="{{ "/assets/images/Andreasson_abduction_e8bccf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andreasson_abduction_e8bccf-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The investigation and why it became so influential
 
 The case’s public shape owes much to Raymond E. Fowler. Fowler was not a casual storyteller: he had been associated with major UFO organisations and was later described as having served in roles connected with the National Investigations Committee on Aerial Phenomena, the Mutual UFO Network and the Center for UFO Studies. His publisher’s biography describes him as a long-time UFO investigator and author, while the Library of Congress catalogue confirms *The Andreasson Affair* as a published work on the alleged abduction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://redwheelweiser.com/book/the-andreasson-affair-9781601633460/?srsltid=AfmBOooDCuNALYB-iFFHYvZVCbvpSc_YDP5X9FjpIPpPqSuGHccqGpOK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: redwheelweiser.com">[Red Wheel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">redwheelweiser.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://redwheelweiser.com/book/the-andreasson-affair-9781601633460/?srsltid=AfmBOooDCuNALYB-iFFHYvZVCbvpSc_YDP5X9FjpIPpPqSuGHccqGpOK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: redwheelweiser.com">[Weiser]</a><span class="citation-popover" role="note"><span class="citation-popover-source">redwheelweiser.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Fowler’s 1979 book presented the case as a documented investigation rather than simply a memoir. The archive text and publisher descriptions refer to a 12-month inquiry, hypnosis sessions, witness interviews and attempts to test testimony against external circumstances. A later book listing describes the case as involving [hypnosis testimony]({{ 'hypnosis-45c1c1/' | relative_url }}), lie-detector or stress testing, comparison with other accounts and circumstantial evidence analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/theandreassonaffairebyraymondfowler/THE%20ANDREASSON%20%20AFFAIRE%20%20by%20Raymond%20Fowler_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">See other formats. “Raymond Fowler has been a cautious and careful UFO Investigator for many years.Read more...</span></span></span>
+Fowler’s 1979 book presented the case as a documented investigation rather than simply a memoir. The archive text and publisher descriptions refer to a 12-month inquiry, hypnosis sessions, witness interviews and attempts to test testimony against external circumstances. A later book listing describes the case as involving hypnosis testimony, lie-detector or stress testing, comparison with other accounts and circumstantial evidence analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/theandreassonaffairebyraymondfowler/THE%20ANDREASSON%20%20AFFAIRE%20%20by%20Raymond%20Fowler_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">See other formats. “Raymond Fowler has been a cautious and careful UFO Investigator for many years.Read more...</span></span></span>
 
 This is why the Andreasson case became a reference point in abduction literature. It appeared at a moment when UFO culture was moving from lights-in-the-sky reports and 1950s-style contactees towards increasingly detailed abduction narratives. The Andreasson story helped bridge those worlds: it had the domestic intrusion and missing-time structure familiar from abduction cases, but also the visionary and religious tone that made many investigators uneasy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/andreasson-betty" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x8SCzCU_vLk" title="The Andreasson Affair: The True Story of a… by Raymond E. Fowler · Audiobook preview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x8SCzCU_vLk" target="_blank" rel="noopener noreferrer">The Andreasson Affair: The True Story of a… by Raymond E. Fowler · Audiobook preview</a></p><p class="youtube-embed-meta">Channel: Google Play Books &middot; Views: 2.3K &middot; Uploaded: January 2024 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x8SCzCU_vLk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x8SCzCU_vLk">Open on YouTube</a></p></div></div></div>
 
@@ -799,7 +796,6 @@ The strongest evidence in the Andreasson file is not physical proof but a cluste
 
 **Physical traces.** The case is often discussed as “well documented”, but not because it produced publicly decisive physical evidence. The dossier’s force comes from records, interviews, hypnosis transcripts and consistency checks. There is no widely accepted physical artefact, medical sample, landing trace or official laboratory finding that independently verifies the abduction claim.
 
-
 <img src="{{ "/assets/images/Andreasson_abduction_e8bccf-Illustration-2-dark.svg" | relative_url }}" alt="Andreasson abduction 1967 illustration 2" data-theme-src-dark="{{ "/assets/images/Andreasson_abduction_e8bccf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andreasson_abduction_e8bccf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why hypnosis is the central weakness
 
@@ -808,7 +804,6 @@ The biggest evidential problem is hypnosis. In the Andreasson case, hypnosis did
 Research specifically relevant to alien-abduction claimants also raises concern. A PubMed-indexed study by Susan Clancy and colleagues found that people reporting recovered or repressed memories of alien abduction were more prone than controls to false recall and false recognition. That does not mean every claimant is lying; it means that sincere conviction is not the same as accurate memory, especially where recovered-memory methods, cultural imagery and expectation may interact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This distinction is essential for a fair reading of Betty Andreasson. The sceptical issue is not simply “she made it up”. A person can be sincere, distressed, consistent and still produce memories shaped by dreams, religious imagery, suggestion, prior UFO narratives or later interpretation. The case’s most extraordinary episodes are therefore weaker than the ordinary circumstantial checks around the evening.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kylm0mGE-uQ" title="Episode 323: The Andreasson Affair" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kylm0mGE-uQ" target="_blank" rel="noopener noreferrer">Episode 323: The Andreasson Affair</a></p><p class="youtube-embed-meta">Channel: Chilluminati Podcast &middot; Views: 8.1K &middot; Uploaded: November 2025 &middot; Length: 2 hours 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kylm0mGE-uQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kylm0mGE-uQ">Open on YouTube</a></p></div></div></div>
 
@@ -820,7 +815,6 @@ The stronger sceptical reading does not require a neat single explanation for ev
 
 The religious texture of the case also complicates interpretation. Betty’s strong Christian faith is a documented part of Fowler’s biographical framing, and the encounter narrative includes mission-like and symbolic elements. For believers, that may suggest a profound non-human communication filtered through Betty’s worldview. For sceptics, it suggests that the story drew on familiar religious and contactee motifs already present in American UFO culture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/theandreassonaffairebyraymondfowler/THE%20ANDREASSON%20%20AFFAIRE%20%20by%20Raymond%20Fowler_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">See other formats. “Raymond Fowler has been a cautious and careful UFO Investigator for many years.Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/Andreasson_abduction_e8bccf-Illustration-3-dark.svg" | relative_url }}" alt="Andreasson abduction 1967 illustration 3" data-theme-src-dark="{{ "/assets/images/Andreasson_abduction_e8bccf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Andreasson_abduction_e8bccf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What remains unresolved
 
@@ -829,7 +823,6 @@ The Andreasson abduction remains unresolved only in a limited, careful sense. It
 Several elements remain genuinely worth noting. The investigation did identify a plausible date and matched some ordinary details to external records. The family setting was concrete, not anonymous. Fowler’s work was unusually extensive for a UFO case of the period. The story also influenced how later readers understood abduction reports that mixed medical, domestic, spiritual and apocalyptic themes.
 
 But the evidential bottom line is modest. The Andreasson case is strong as a document of belief, memory, family testimony and UFO-research practice in the late 1970s. It is weak as proof of a literal abduction. Its best-supported facts establish that Betty Andreasson and her family were associated with a reported strange event on or around 25 January 1967, later investigated and elaborated through interviews and hypnosis. They do not establish that the beings, craft interior, medical procedures or visionary communications occurred as physical events.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b5s84UWo5Eg" title="The Betty Andreasson Abduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b5s84UWo5Eg" target="_blank" rel="noopener noreferrer">The Betty Andreasson Abduction</a></p><p class="youtube-embed-meta">Channel: Necronomipod &middot; Views: 1.2K &middot; Uploaded: October 2019 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b5s84UWo5Eg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b5s84UWo5Eg">Open on YouTube</a></p></div></div></div>
 
@@ -842,44 +835,86 @@ Within a wider Andreasson case dossier, the most useful sibling topics are the F
 The fairest assessment is therefore neither dismissal nor endorsement. The Andreasson abduction is a historically important, heavily narrated, partially corroborated but not independently verified UFO-abduction claim. Its value today lies less in proving what happened in the sky over South Ashburnham than in showing how extraordinary experiences are reported, investigated, remembered, contested and absorbed into UFO culture.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Anchors the Andreasson Case?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Anchors the Andreasson Case?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Andreasson+Affair+by+Raymond+E.+Fowler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Andreasson Affair on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=t6vroAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Andreasson Affair" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Andreasson+Affair+by+Raymond+E.+Fowler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Andreasson Affair">The Andreasson Affair</a>
+        </h4>
+        <p class="fr-book-author">By Raymond E. Fowler</p>
+        
+        <p class="fr-book-desc">The comprehensive original investigation report on the 1967 household encounter, including transcripts, family testimony, and initial ana...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Andreasson+Affair+by+Raymond+E.+Fowler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+        </h4>
+        <p class="fr-book-author">By John E. Mack, Mack</p>
+        
+        <p class="fr-book-desc">Provides the comparative clinical and folklore framework for understanding household-abduction narratives and their psychological impacts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+        </h4>
+        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+        
+        <p class="fr-book-desc">Crucial for understanding the scientific critique of abduction stories built on hypnosis and the reconstruction of family memories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=immWvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Missing Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+        </h4>
+        <p class="fr-book-author">By Budd Hopkins</p>
+        
+        <p class="fr-book-desc">Establishes the research methodology used by Fowler and other investigators of the late 1970s to examine &#x27;missing time&#x27; events.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Andreasson+Affair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Andreasson Affair</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -916,15 +951,15 @@ The fairest assessment is therefore neither dismissal nor endorsement. The Andre
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -932,15 +967,15 @@ The fairest assessment is therefore neither dismissal nor endorsement. The Andre
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -948,15 +983,15 @@ The fairest assessment is therefore neither dismissal nor endorsement. The Andre
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -964,15 +999,15 @@ The fairest assessment is therefore neither dismissal nor endorsement. The Andre
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -980,7 +1015,7 @@ The fairest assessment is therefore neither dismissal nor endorsement. The Andre
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="andreasson-abduction-1967-what-really-anchors-the-andreasson-case-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1195,135 +1230,135 @@ The fairest assessment is therefore neither dismissal nor endorsement. The Andre
 
 1. <a id="endnote-1"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/theandreassonaffairebyraymondfowler/THE%20ANDREASSON%20%20AFFAIRE%20%20by%20Raymond%20Fowler_djvu.txt](https://archive.org/stream/theandreassonaffairebyraymondfowler/THE%20ANDREASSON%20%20AFFAIRE%20%20by%20Raymond%20Fowler_djvu.txt)  
+   Link: <a href="https://archive.org/stream/theandreassonaffairebyraymondfowler/THE%20ANDREASSON%20%20AFFAIRE%20%20by%20Raymond%20Fowler_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/theandreassonaffairebyraymondfowler/THE%20ANDREASSON%20%20AFFAIRE%20%20by%20Raymond%20Fowler_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. “Raymond Fowler has been a cautious and careful UFO Investigator for many years.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cirp.org  
-   Link: [https://www.cirp.org/library/psych/BPS/](https://www.cirp.org/library/psych/BPS/)  
+   Link: <a href="https://www.cirp.org/library/psych/BPS/" target="_blank" rel="noopener noreferrer nofollow">https://www.cirp.org/library/psych/BPS/</a>  
 
 3. <a id="endnote-3"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/andreasson-betty](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/andreasson-betty)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/andreasson-betty" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/andreasson-betty</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Raymond E. Fowler  
-   Link: [https://en.wikipedia.org/wiki/Raymond_E._Fowler](https://en.wikipedia.org/wiki/Raymond_E._Fowler)  
+   Link: <a href="https://en.wikipedia.org/wiki/Raymond_E._Fowler" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Raymond_E._Fowler</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Prince Philip, Duke of Edinburgh  
-   Link: [https://en.wikipedia.org/wiki/Prince_Philip%2C_Duke_of_Edinburgh](https://en.wikipedia.org/wiki/Prince_Philip%2C_Duke_of_Edinburgh)  
+   Link: <a href="https://en.wikipedia.org/wiki/Prince_Philip%2C_Duke_of_Edinburgh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Prince_Philip%2C_Duke_of_Edinburgh</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Robert](https://en.wikipedia.org/wiki/Robert)  
+   Link: <a href="https://en.wikipedia.org/wiki/Robert" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Robert (film)  
-   Link: [https://en.wikipedia.org/wiki/Robert_%28film%29](https://en.wikipedia.org/wiki/Robert_%28film%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Robert_%28film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Robert_%28film%29</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: False memory syndrome  
-   Link: [https://en.wikipedia.org/wiki/False_memory_syndrome](https://en.wikipedia.org/wiki/False_memory_syndrome)  
+   Link: <a href="https://en.wikipedia.org/wiki/False_memory_syndrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_memory_syndrome</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Committee for Skeptical Inquiry  
-   Link: [https://en.wikipedia.org/wiki/Committee_for_Skeptical_Inquiry](https://en.wikipedia.org/wiki/Committee_for_Skeptical_Inquiry)  
+   Link: <a href="https://en.wikipedia.org/wiki/Committee_for_Skeptical_Inquiry" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Committee_for_Skeptical_Inquiry</a>  
 
 10. <a id="endnote-10"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/andreassonaffair0000fowl](https://archive.org/details/andreassonaffair0000fowl)  
+   Link: <a href="https://archive.org/details/andreassonaffair0000fowl" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/andreassonaffair0000fowl</a>  
 
 11. <a id="endnote-11"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/item/94019414/](https://www.loc.gov/item/94019414/)  
+   Link: <a href="https://www.loc.gov/item/94019414/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/item/94019414/</a>  
 
 12. <a id="endnote-12"></a>
    Source: redwheelweiser.com  
-   Link: [https://redwheelweiser.com/book/the-andreasson-affair-9781601633460/?srsltid=AfmBOooDCuNALYB-iFFHYvZVCbvpSc_YDP5X9FjpIPpPqSuGHccqGpOK](https://redwheelweiser.com/book/the-andreasson-affair-9781601633460/?srsltid=AfmBOooDCuNALYB-iFFHYvZVCbvpSc_YDP5X9FjpIPpPqSuGHccqGpOK)  
+   Link: <a href="https://redwheelweiser.com/book/the-andreasson-affair-9781601633460/?srsltid=AfmBOooDCuNALYB-iFFHYvZVCbvpSc_YDP5X9FjpIPpPqSuGHccqGpOK" target="_blank" rel="noopener noreferrer nofollow">https://redwheelweiser.com/book/the-andreasson-affair-9781601633460/?srsltid=AfmBOooDCuNALYB-iFFHYvZVCbvpSc_YDP5X9FjpIPpPqSuGHccqGpOK</a>  
 
 13. <a id="endnote-13"></a>
    Source: nij.ojp.gov  
    Title: voice stress analysis only 15 percent lies about drug use detected field test  
-   Link: [https://nij.ojp.gov/topics/articles/voice-stress-analysis-only-15-percent-lies-about-drug-use-detected-field-test](https://nij.ojp.gov/topics/articles/voice-stress-analysis-only-15-percent-lies-about-drug-use-detected-field-test)  
+   Link: <a href="https://nij.ojp.gov/topics/articles/voice-stress-analysis-only-15-percent-lies-about-drug-use-detected-field-test" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/topics/articles/voice-stress-analysis-only-15-percent-lies-about-drug-use-detected-field-test</a>  
 
 14. <a id="endnote-14"></a>
    Source: nij.ojp.gov  
-   Link: [https://nij.ojp.gov/library/publications/investigation-and-evaluation-voice-stress-analysis-technology-final-report](https://nij.ojp.gov/library/publications/investigation-and-evaluation-voice-stress-analysis-technology-final-report)  
+   Link: <a href="https://nij.ojp.gov/library/publications/investigation-and-evaluation-voice-stress-analysis-technology-final-report" target="_blank" rel="noopener noreferrer nofollow">https://nij.ojp.gov/library/publications/investigation-and-evaluation-voice-stress-analysis-technology-final-report</a>  
 
 15. <a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/12150421/](https://pubmed.ncbi.nlm.nih.gov/12150421/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/8284172/](https://pubmed.ncbi.nlm.nih.gov/8284172/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/8284172/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8284172/</a>  
 
 17. <a id="endnote-17"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/robert](https://www.merriam-webster.com/dictionary/robert)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/robert" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/robert</a>  
 
 18. <a id="endnote-18"></a>
    Source: slideshare.net  
    Title: Raymond Fowler  
-   Link: [https://www.slideshare.net/slideshow/raymond-fowler-the-andreasson-affair-phase-two/11981858](https://www.slideshare.net/slideshow/raymond-fowler-the-andreasson-affair-phase-two/11981858)  
+   Link: <a href="https://www.slideshare.net/slideshow/raymond-fowler-the-andreasson-affair-phase-two/11981858" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/raymond-fowler-the-andreasson-affair-phase-two/11981858</a>  
 
 19. <a id="endnote-19"></a>
    Source: scribd.com  
    Title: Raymond Fowler  
-   Link: [https://www.scribd.com/document/118352285/Raymond-Fowler-The-Andreasson-Affair-Phase-Two](https://www.scribd.com/document/118352285/Raymond-Fowler-The-Andreasson-Affair-Phase-Two)  
+   Link: <a href="https://www.scribd.com/document/118352285/Raymond-Fowler-The-Andreasson-Affair-Phase-Two" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/118352285/Raymond-Fowler-The-Andreasson-Affair-Phase-Two</a>  
 
 20. <a id="endnote-20"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/learner-english/robert](https://dictionary.cambridge.org/dictionary/learner-english/robert)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/learner-english/robert" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/learner-english/robert</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: New England Legends Podcast 444  
-   Link: [https://www.youtube.com/watch?v=Y2Pbcq-4fhQ](https://www.youtube.com/watch?v=Y2Pbcq-4fhQ)  
+   Link: <a href="https://www.youtube.com/watch?v=Y2Pbcq-4fhQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y2Pbcq-4fhQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Abduction of Betty Andreasson (1967)...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Episode 323: The Andreasson Affair  
-   Link: [https://www.youtube.com/watch?v=Kylm0mGE-uQ](https://www.youtube.com/watch?v=Kylm0mGE-uQ)  
+   Link: <a href="https://www.youtube.com/watch?v=Kylm0mGE-uQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Kylm0mGE-uQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Andreasson Affair: The True Story of a… by Raymond E. Fowler · Audiobook preview...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/21609282/Evaluation_of_Voice_Stress_Analysis_Technology](https://www.academia.edu/21609282/Evaluation_of_Voice_Stress_Analysis_Technology)  
+   Link: <a href="https://www.academia.edu/21609282/Evaluation_of_Voice_Stress_Analysis_Technology" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/21609282/Evaluation_of_Voice_Stress_Analysis_Technology</a>  
 
 24. <a id="endnote-24"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS](https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS)  
+   Link: <a href="https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/30207679/TOWARD_A_PSYCHOLOGY_OF_UFO_ABDUCTION_BELIEFS</a>  
 
 25. <a id="endnote-25"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Andreasson-Affair-Story-Encounter-Fourth/dp/1601633467](https://www.amazon.co.uk/Andreasson-Affair-Story-Encounter-Fourth/dp/1601633467)  
+   Link: <a href="https://www.amazon.co.uk/Andreasson-Affair-Story-Encounter-Fourth/dp/1601633467" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Andreasson-Affair-Story-Encounter-Fourth/dp/1601633467</a>  
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/251785785_Assessing_the_Validity_of_Voice_Stress_Analysis_Tools_in_a_Jail_Setting](https://www.researchgate.net/publication/251785785_Assessing_the_Validity_of_Voice_Stress_Analysis_Tools_in_a_Jail_Setting)  
+   Link: <a href="https://www.researchgate.net/publication/251785785_Assessing_the_Validity_of_Voice_Stress_Analysis_Tools_in_a_Jail_Setting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/251785785_Assessing_the_Validity_of_Voice_Stress_Analysis_Tools_in_a_Jail_Setting</a>  
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/truhistoria/posts/betty-andreasson-encountershe-claimed-something-entered-her-home-and-took-her-be/1498091668581231/](https://www.facebook.com/truhistoria/posts/betty-andreasson-encountershe-claimed-something-entered-her-home-and-took-her-be/1498091668581231/)  
+   Link: <a href="https://www.facebook.com/truhistoria/posts/betty-andreasson-encountershe-claimed-something-entered-her-home-and-took-her-be/1498091668581231/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/truhistoria/posts/betty-andreasson-encountershe-claimed-something-entered-her-home-and-took-her-be/1498091668581231/</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/HypnosisCaseStudies/posts/1385484958140823/](https://www.facebook.com/groups/HypnosisCaseStudies/posts/1385484958140823/)  
+   Link: <a href="https://www.facebook.com/groups/HypnosisCaseStudies/posts/1385484958140823/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/HypnosisCaseStudies/posts/1385484958140823/</a>  
 
 29. <a id="endnote-29"></a>
    Source: pacfa.org.au  
-   Link: [https://pacfa.org.au/common/Uploaded%20files/PCFA/Documents/Documents%20and%20Forms/Consensus-Guidelines-for-Working-with-Recovered-Memory.pdf](https://pacfa.org.au/common/Uploaded%20files/PCFA/Documents/Documents%20and%20Forms/Consensus-Guidelines-for-Working-with-Recovered-Memory.pdf)  
+   Link: <a href="https://pacfa.org.au/common/Uploaded%20files/PCFA/Documents/Documents%20and%20Forms/Consensus-Guidelines-for-Working-with-Recovered-Memory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pacfa.org.au/common/Uploaded%20files/PCFA/Documents/Documents%20and%20Forms/Consensus-Guidelines-for-Working-with-Recovered-Memory.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: bakerdvsa.com  
-   Link: [https://www.bakerdvsa.com/how-dvsa-works/](https://www.bakerdvsa.com/how-dvsa-works/)  
+   Link: <a href="https://www.bakerdvsa.com/how-dvsa-works/" target="_blank" rel="noopener noreferrer nofollow">https://www.bakerdvsa.com/how-dvsa-works/</a>

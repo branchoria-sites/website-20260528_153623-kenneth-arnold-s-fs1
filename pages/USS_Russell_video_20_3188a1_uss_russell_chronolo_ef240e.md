@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /uss-russell-video-2019/
 nav_short_title: Event Chronology
 title: Timeline and Official Records of USS Russell Drone Encounters
-title_full: Timeline and Official Records of USS Russell Drone Encounters | USS Russell
+title_full: Timeline and Official Records of USS Russell Drone Encounters
 display_title_short: Event Chronology
 display_title: Event Chronology
 heading_title: Timeline and Official Records of USS Russell Drone Encounters
@@ -239,7 +239,7 @@ next_link:
   permalink: /optical-effects/
   short_title: Optical Effects
   heading_title: How Night Vision and Camera Artifacts Created Pyramid Shapes
-date: '2026-06-08 23:43:06 '
+date: '2026-06-11 13:26:37 '
 header:
   og_image: /assets/images/USS_Russell_video_20_3188a1_uss_russell_chronolo_ef240e-Illustration-1-social.jpg
   preview_image: /assets/images/USS_Russell_video_20_3188a1_uss_russell_chronolo_ef240e-Illustration-1.webp
@@ -250,7 +250,6 @@ image: /assets/images/USS_Russell_video_20_3188a1_uss_russell_chronolo_ef240e-Il
 
 The USS Russell sightings of July 2019 are best understood as a tightly documented sequence of drone or unidentified aerial system encounters recorded during naval operations off Southern California. Unlike many UFO cases that rely mainly on anecdote, the Russell incidents generated multiple layers of evidence: deck logs, SNOOPIE team observations, internal Navy briefing slides, released videos, radio references, and later Freedom of Information Act disclosures. The central question gradually shifted away from whether the objects were exotic craft and toward a narrower but still unresolved issue: who operated the drones and how they repeatedly approached US Navy destroyers during training exercises without being conclusively identified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — Deck logs indicate that drone sightings continued througho...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — Deck logs indicate that drone sightings continued througho...</span></span></span>
 
-
 <img src="{{ "/assets/images/USS_Russell_video_20_3188a1_uss_russell_chronolo_ef240e-Illustration-1-dark.svg" | relative_url }}" alt="Event Chronology illustration 1" data-theme-src-dark="{{ "/assets/images/USS_Russell_video_20_3188a1_uss_russell_chronolo_ef240e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Russell_video_20_3188a1_uss_russell_chronolo_ef240e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The chronology matters because later public discussion often merged separate sightings into a single “pyramid UFO” story. In reality, the Russell material spans multiple nights and several categories of observation, including visual reports, navigational-light sightings, radar-linked tracking references, and coordinated ship responses. The released records show a pattern of recurring drone activity rather than one isolated event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — Deck logs indicate that drone sightings continued througho...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — Deck logs indicate that drone sightings continued througho...</span></span></span>
 
@@ -259,7 +258,6 @@ The chronology matters because later public discussion often merged separate sig
 The first broad public reconstruction of the July 2019 encounters emerged through Freedom of Information Act requests pursued by journalists and independent researchers, especially reporting by The War Zone and document releases later catalogued by researchers associated with The Black Vault community. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — Deck logs indicate that drone sightings continued througho...</span></span></span>
 
 The disclosed material included:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -280,7 +278,6 @@ The documents showed that USS Russell was not operating alone. Other vessels ass
 The incidents occurred during naval operations in warning areas off the coast of Southern California near San Diego and the Channel Islands. These are sensitive military operating zones frequently used for fleet training and aviation exercises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — Deck logs indicate that drone sightings continued througho...</span></span></span>
 
 Several characteristics recur across the logs and later summaries:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -309,7 +306,6 @@ Although the Russell became the most famous vessel associated with the case, the
 
 According to reconstructed timelines from ship logs:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. USS Kidd reported initial UAV contacts.
@@ -322,7 +318,6 @@ According to reconstructed timelines from ship logs:
 The Russell’s records from the same operational period described repeated UAV activity, including objects manoeuvring around the vessel and changing altitude and direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/pentagon-confirms-leaked-ufo-images-are-authentic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">pentagon confirms leaked ufo images are authentic</span><span class="citation-popover-snippet">The DebriefPentagon Confirms Leaked UFO Images Are Authentic10 Apr 2021 — Deck logs published by The Warzone show the USS Russell recordi...</span></span></span>
 
 One of the notable aspects of these early incidents was duration. Reports indicated the objects remained active for extended periods rather than appearing briefly and disappearing. This raised practical concerns because small commercially available quadcopters generally have limited endurance at sea, especially at night and away from obvious launch points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — Deck logs indicate that drone sightings continued througho...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YlTlVdiBNhc" title="Report Says Mystery Drones Hovered Over Navy Destroyers Off California Coast | NBC News NOW" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YlTlVdiBNhc" target="_blank" rel="noopener noreferrer">Report Says Mystery Drones Hovered Over Navy Destroyers Off California Coast | NBC News NOW</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 354.6K &middot; Uploaded: March 2021 &middot; Length: 4 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YlTlVdiBNhc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YlTlVdiBNhc">Open on YouTube</a></p></div></div></div>
 
@@ -343,7 +338,6 @@ This wording is important because it demonstrates that personnel were already us
 ### What the briefing slides showed
 
 Later briefing material described a more complicated event than the short public clip suggested. According to documents released through FOIA reporting:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -367,12 +361,10 @@ The significance of this detail is often understated. It suggests the Navy opera
 
 The second major Russell event occurred on 30 July 2019 and later became the most publicly recognisable video in the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — Deck logs indicate that drone sightings continued througho...</span></span></span>
 
-
 <img src="{{ "/assets/images/USS_Russell_video_20_3188a1_uss_russell_chronolo_ef240e-Illustration-2-dark.svg" | relative_url }}" alt="Event Chronology illustration 2" data-theme-src-dark="{{ "/assets/images/USS_Russell_video_20_3188a1_uss_russell_chronolo_ef240e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Russell_video_20_3188a1_uss_russell_chronolo_ef240e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What the crew described in real time
 
 The released narration from the SNOOPIE team leader described:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -390,7 +382,6 @@ Public fascination centred on the apparently triangular or pyramid-shaped appear
 
 This explanation did not resolve the identity of the drones themselves, but it significantly weakened claims that the footage depicted genuinely triangular craft.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dPrYVmYkL5w" title="Radar confirms UFO swarm around Navy warship" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dPrYVmYkL5w" target="_blank" rel="noopener noreferrer">Radar confirms UFO swarm around Navy warship</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 14.7M &middot; Uploaded: May 2021 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dPrYVmYkL5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dPrYVmYkL5w">Open on YouTube</a></p></div></div></div>
 
 ## What the deck logs actually recorded
@@ -398,7 +389,6 @@ This explanation did not resolve the identity of the drones themselves, but it s
 The released deck logs became central to later debate because they are formal operational records rather than retrospective interviews or media commentary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/logbooks/navy-online" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">navy online</span><span class="citation-popover-snippet">National ArchivesNavy Deck Logs Available in the National Archives Catalog26 May 2020 — Below you can follow links to the deck logs that...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
 Several patterns appear repeatedly across the available records:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -415,7 +405,6 @@ Several patterns appear repeatedly across the available records:
 One key point is that the logs generally describe observable behaviour rather than speculative interpretation. They record bearings, estimated distances, course changes and responses by crew members. This gives the chronology a more technical and procedural character than many UFO narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — Deck logs indicate that drone sightings continued througho...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — Deck logs indicate that drone sightings continued througho...</span></span></span>
 
 At the same time, the records are incomplete. Some sections remain redacted, and later analyses noted discrepancies between timeline summaries and surviving deck log detail. In certain cases, unusually sparse logging raised questions about whether some operational records were withheld, heavily sanitised or never fully produced in unclassified form. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — Deck logs indicate that drone sightings continued througho...</span></span></span>
-
 
 <img src="{{ "/assets/images/USS_Russell_video_20_3188a1_uss_russell_chronolo_ef240e-Illustration-3-dark.svg" | relative_url }}" alt="Event Chronology illustration 3" data-theme-src-dark="{{ "/assets/images/USS_Russell_video_20_3188a1_uss_russell_chronolo_ef240e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Russell_video_20_3188a1_uss_russell_chronolo_ef240e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The unresolved issue of launch and recovery
@@ -454,7 +443,6 @@ As additional records emerged, the documentary picture increasingly pointed towa
 
 The DVIDS release eventually stated that the objects in the footage had been “reclassified as unmanned aerial systems” following further analysis and comparison with other sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/843593/navy-2019-west-coast-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Navy 2019 West Coast videoThe video, taken by Sailors onboard one of the ships, was captured through night vision goggles and a single le...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aSDweUbGBow" title="Open C3 Subcommittee Hearing on Unidentified Aerial Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aSDweUbGBow" target="_blank" rel="noopener noreferrer">Open C3 Subcommittee Hearing on Unidentified Aerial Phenomena</a></p><p class="youtube-embed-meta">Channel: House Intelligence &middot; Views: 548.5K &middot; Uploaded: May 2022 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aSDweUbGBow" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aSDweUbGBow">Open on YouTube</a></p></div></div></div>
 
 ### What remains unresolved
@@ -484,44 +472,86 @@ The documentary trail reveals:
 This is why the Russell chronology remains significant within the broader 2019 Navy UAP debate. The strongest evidence is not a dramatic video frame, but the cumulative pattern of logs, ship reports, timing correlations and procedural responses recorded across multiple vessels during the same operational window. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — Deck logs indicate that drone sightings continued througho...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-title">mysterious drone swarms over navy destroyers off california went on for weeks</span><span class="citation-popover-snippet">The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — Deck logs indicate that drone sightings continued througho...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Timeline and Official Records of USS Russell Drone Encounters, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Timeline and Official Records of USS Russell Drone Encounters. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">USS Russell guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=USS+Russell+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Provides the essential broader context of military logs, tracking timelines, and verified naval and aviation radar documentation archives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">USS Paul Hamilton guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=USS+Paul+Hamilton+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+        </h4>
+        <p class="fr-book-author">By Ross Coulthart</p>
+        
+        <p class="fr-book-desc">Chronicles contemporary Navy encounters, radar data chains, and the ongoing intelligence debate surrounding the 2019 drone incidents.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">USS Kidd guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=USS+Kidd+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Iron+Men+and+Tin+Fish+by+Anthony+Newpower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Iron Men and Tin Fish on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZSAfQAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Iron Men and Tin Fish" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Iron+Men+and+Tin+Fish+by+Anthony+Newpower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Iron Men and Tin Fish">Iron Men and Tin Fish</a>
+        </h4>
+        <p class="fr-book-author">By Anthony Newpower</p>
+        
+        <p class="fr-book-desc">Explains the exact protocols for maintaining deck logs, deploying SNOOPIE teams, and recording unusual aerial visual contacts at sea.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Iron+Men+and+Tin+Fish+by+Anthony+Newpower&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Black+Vault+Guide+to+the+FOIA+John+Greenewald+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Vault Guide to the FOIA on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Black+Vault+Guide+to+the+FOIA+John+Greenewald+Jr.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Vault Guide to the FOIA">The Black Vault Guide to the FOIA</a>
+        </h4>
+        <p class="fr-book-author">By John Greenewald Jr.</p>
+        
+        <p class="fr-book-desc">Teaches the exact methods used to uncover the USS Russell deck logs, SNOOPIE team reports, and official Navy drone timelines.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Black+Vault+Guide+to+the+FOIA+John+Greenewald+Jr.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Iron+Men+and+Tin+Fish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Iron Men and Tin Fish</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -558,15 +588,15 @@ This is why the Russell chronology remains significant within the broader 2019 N
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="https://i.ebayimg.com/images/g/4qcAAeSwSoFqDh-N/s-l225.jpg" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,15 +604,15 @@ This is why the Russell chronology remains significant within the broader 2019 N
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired"><img src="https://i.ebayimg.com/images/g/PhwAAOSwMplk~jrt/s-l225.jpg" alt="Listing image for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -590,15 +620,15 @@ This is why the Russell chronology remains significant within the broader 2019 N
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="https://i.ebayimg.com/images/g/wt4AAOSw2p9nr1Fc/s-l225.jpg" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -606,15 +636,15 @@ This is why the Russell chronology remains significant within the broader 2019 N
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/vTwAAeSw-2ppy~rQ/s-l225.jpg" alt="Listing image for Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell Watercolor Alien/UFO Art Fr Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -622,7 +652,7 @@ This is why the Russell chronology remains significant within the broader 2019 N
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="event-chronology-timeline-and-official-records-of-uss-russell-drone-encounters-uss-russell-video-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="timeline-and-official-records-of-uss-russell-drone-encounters-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -837,66 +867,66 @@ This is why the Russell chronology remains significant within the broader 2019 N
 
 1. <a id="endnote-1"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/843593/navy-2019-west-coast-video](https://www.dvidshub.net/video/843593/navy-2019-west-coast-video)  
+   Link: <a href="https://www.dvidshub.net/video/843593/navy-2019-west-coast-video" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/843593/navy-2019-west-coast-video</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy 2019 West Coast videoThe video, taken by Sailors onboard one of the ships, was captured through night vision goggles and a single le...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: navy online  
-   Link: [https://www.archives.gov/research/military/logbooks/navy-online](https://www.archives.gov/research/military/logbooks/navy-online)  
+   Link: <a href="https://www.archives.gov/research/military/logbooks/navy-online" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/logbooks/navy-online</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesNavy Deck Logs Available in the National Archives Catalog26 May 2020 — Below you can follow links to the deck logs that...</p></details>
    Published: May 2020  
 
 4. <a id="endnote-4"></a>
    Source: twz.com  
    Title: mysterious drone swarms over navy destroyers off california went on for weeks  
-   Link: [https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks](https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks)  
+   Link: <a href="https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/43561/mysterious-drone-swarms-over-navy-destroyers-off-california-went-on-for-weeks</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneHarassment Of Navy Destroyers By Mysterious Drone...17 Dec 2021 — Deck logs indicate that drone sightings continued througho...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: twz.com  
    Title: navy releases videos from mysterious drone swarms around warships off california  
-   Link: [https://www.twz.com/navy-releases-videos-from-mysterious-drone-swarms-around-warships-off-california](https://www.twz.com/navy-releases-videos-from-mysterious-drone-swarms-around-warships-off-california)  
+   Link: <a href="https://www.twz.com/navy-releases-videos-from-mysterious-drone-swarms-around-warships-off-california" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/navy-releases-videos-from-mysterious-drone-swarms-around-warships-off-california</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneNavy Releases Videos From Mysterious Drone Swarms...15 Jun 2022 — Two of the videos were taken from the USS Russell, a destr...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: twz.com  
    Title: drone swarms that harassed navy ships demystified in new documents  
-   Link: [https://www.twz.com/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents](https://www.twz.com/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents)  
+   Link: <a href="https://www.twz.com/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/drone-swarms-that-harassed-navy-ships-demystified-in-new-documents</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A lengthier description states that a total of five unknown drones approached the USS Russell in the course of the incident. It...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: twz.com  
-   Link: [https://www.twz.com/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights](https://www.twz.com/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights)  
+   Link: <a href="https://www.twz.com/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/39913/multiple-destroyers-were-swarmed-by-mysterious-drones-off-california-over-numerous-nights</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It appears the incidents began with an initial &#x27;UAV&#x27; sighting by the USS Kidd around 10:00 PM on the night of July...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: thedebrief.org  
    Title: pentagon confirms leaked ufo images are authentic  
-   Link: [https://thedebrief.org/pentagon-confirms-leaked-ufo-images-are-authentic/](https://thedebrief.org/pentagon-confirms-leaked-ufo-images-are-authentic/)  
+   Link: <a href="https://thedebrief.org/pentagon-confirms-leaked-ufo-images-are-authentic/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/pentagon-confirms-leaked-ufo-images-are-authentic/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefPentagon Confirms Leaked UFO Images Are Authentic10 Apr 2021 — Deck logs published by The Warzone show the USS Russell recordi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: coffeeordie.com  
    Title: navy ufos  
-   Link: [https://www.coffeeordie.com/article/navy-ufos](https://www.coffeeordie.com/article/navy-ufos)  
+   Link: <a href="https://www.coffeeordie.com/article/navy-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.coffeeordie.com/article/navy-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAV activity. The Russell&#x27;s logs report UAVs darting above and around the ship — the objects changed elevation and direction while moving...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: coffeeordie.com  
    Title: unidentified aerial phenomena  
-   Link: [https://www.coffeeordie.com/article/unidentified-aerial-phenomena](https://www.coffeeordie.com/article/unidentified-aerial-phenomena)  
+   Link: <a href="https://www.coffeeordie.com/article/unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.coffeeordie.com/article/unidentified-aerial-phenomena</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Confirms Navy Personnel Filmed UFOs in 201920 Apr 2021 — According to annotations on the second slide — in night-vision green —...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: commons.wikimedia.org  
    Title: File:USS Russell UFO July 2019.png  
-   Link: [https://commons.wikimedia.org/wiki/File%3AUSS_Russell_UFO_-_July_2019.png](https://commons.wikimedia.org/wiki/File%3AUSS_Russell_UFO_-_July_2019.png)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AUSS_Russell_UFO_-_July_2019.png" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AUSS_Russell_UFO_-_July_2019.png</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:USS Russell UFO - July 2019.pngStill from footage of a UFO taken off the coast of San Diego aboard USS Russell in July...</p></details>
    Published: July 2019  
 
@@ -904,59 +934,59 @@ This is why the Russell chronology remains significant within the broader 2019 N
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/fox8news/posts/ufo-swarm-new-evidence-has-surfaced-regarding-a-swarm-of-unknown-objects-that-su/10158026354787623/](https://www.facebook.com/fox8news/posts/ufo-swarm-new-evidence-has-surfaced-regarding-a-swarm-of-unknown-objects-that-su/10158026354787623/)  
+   Link: <a href="https://www.facebook.com/fox8news/posts/ufo-swarm-new-evidence-has-surfaced-regarding-a-swarm-of-unknown-objects-that-su/10158026354787623/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox8news/posts/ufo-swarm-new-evidence-has-surfaced-regarding-a-swarm-of-unknown-objects-that-su/10158026354787623/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SWARM: New evidence has surfaced regarding a...New evidence has surfaced regarding a swarm of unknown objects that surrounded multip...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: gizmodo.com  
    Title: navy acknowledges weird footage of unidentified objects 1846684702  
-   Link: [https://gizmodo.com/navy-acknowledges-weird-footage-of-unidentified-objects-1846684702](https://gizmodo.com/navy-acknowledges-weird-footage-of-unidentified-objects-1846684702)  
+   Link: <a href="https://gizmodo.com/navy-acknowledges-weird-footage-of-unidentified-objects-1846684702" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/navy-acknowledges-weird-footage-of-unidentified-objects-1846684702</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy Acknowledges Weird Footage of Unidentified Objects...14 Apr 2021 — The night-vision video was presumably filmed by the Ship&#x27;s Nauti...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: gizmodo.com  
    Title: navy still has no idea what unidentified drones that st 1846629629  
-   Link: [https://gizmodo.com/navy-still-has-no-idea-what-unidentified-drones-that-st-1846629629](https://gizmodo.com/navy-still-has-no-idea-what-unidentified-drones-that-st-1846629629)  
+   Link: <a href="https://gizmodo.com/navy-still-has-no-idea-what-unidentified-drones-that-st-1846629629" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/navy-still-has-no-idea-what-unidentified-drones-that-st-1846629629</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy still has no idea who sent a swarm of drones to buzz warships off the coast of California in July 2019, or really even what...Read...</p></details>
    Published: July 2019  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: New details are emerging about drones that flew over U.S  
-   Link: [https://www.facebook.com/NewsNationNow/posts/new-details-are-emerging-about-drones-that-flew-over-us-military-bases-last-year/562712996135722/](https://www.facebook.com/NewsNationNow/posts/new-details-are-emerging-about-drones-that-flew-over-us-military-bases-last-year/562712996135722/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/new-details-are-emerging-about-drones-that-flew-over-us-military-bases-last-year/562712996135722/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/new-details-are-emerging-about-drones-that-flew-over-us-military-bases-last-year/562712996135722/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A detailed account of the 2019 encounter published by The Drive shows the drama began on the night of July 14 2019. Deck logs from the US...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: metabunk.org  
    Title: uss kidd and other ships drones encounter 2019.11681  
-   Link: [https://www.metabunk.org/threads/uss-kidd-and-other-ships-drones-encounter-2019.11681/](https://www.metabunk.org/threads/uss-kidd-and-other-ships-drones-encounter-2019.11681/)  
+   Link: <a href="https://www.metabunk.org/threads/uss-kidd-and-other-ships-drones-encounter-2019.11681/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/uss-kidd-and-other-ships-drones-encounter-2019.11681/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>USS Kidd (and other Ships) &quot;Drones&quot; Encounter, 201925 Mar 2021 — The drones were described as flying for prolonged periods in low-visibil...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thedrive/posts/a-reference-buried-in-a-destroyers-logs-confirms-that-portable-counter-drone-dev/4828367350576122/](https://www.facebook.com/thedrive/posts/a-reference-buried-in-a-destroyers-logs-confirms-that-portable-counter-drone-dev/4828367350576122/)  
+   Link: <a href="https://www.facebook.com/thedrive/posts/a-reference-buried-in-a-destroyers-logs-confirms-that-portable-counter-drone-dev/4828367350576122/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thedrive/posts/a-reference-buried-in-a-destroyers-logs-confirms-that-portable-counter-drone-dev/4828367350576122/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>evices were eventually deployed during a spate of swarm events in...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1rct8wc/black_vault_mystery_as_ufo_vault_with_38_million/](https://www.reddit.com/r/UFOs/comments/1rct8wc/black_vault_mystery_as_ufo_vault_with_38_million/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rct8wc/black_vault_mystery_as_ufo_vault_with_38_million/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rct8wc/black_vault_mystery_as_ufo_vault_with_38_million/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3.8 million files were backed up in secure locations and the site...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: in july 2019 the uss omaha and other navy ships  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/15uxhzg/in_july_2019_the_uss_omaha_and_other_navy_ships/](https://www.reddit.com/r/UnresolvedMysteries/comments/15uxhzg/in_july_2019_the_uss_omaha_and_other_navy_ships/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/15uxhzg/in_july_2019_the_uss_omaha_and_other_navy_ships/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/15uxhzg/in_july_2019_the_uss_omaha_and_other_navy_ships/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In July 2019, the USS Omaha and other Navy ships were...A sighting by the Russell on July 30, 2019 detected five &#x27;unknown UAS&#x27; according...</p></details>
    Published: july 2019  
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
    Title: in july 2019 the uss omaha and other navy ships  
-   Link: [https://www.reddit.com/r/nonmurdermysteries/comments/15ux4r2/in_july_2019_the_uss_omaha_and_other_navy_ships/](https://www.reddit.com/r/nonmurdermysteries/comments/15ux4r2/in_july_2019_the_uss_omaha_and_other_navy_ships/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAugust 18, 2023 — A sighting by the Russell on July 30, 2019 detected five &#x27;unknown UAS&#x27; according to a Navy description of the inc...</p></details>
+   Link: <a href="https://www.reddit.com/r/nonmurdermysteries/comments/15ux4r2/in_july_2019_the_uss_omaha_and_other_navy_ships/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nonmurdermysteries/comments/15ux4r2/in_july_2019_the_uss_omaha_and_other_navy_ships/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 18, 2023 — A sighting by the Russell on July 30, 2019 detected five &#x27;unknown UAS&#x27; according to a Navy description of the inc...</p></details>
    Published: july 2019  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/io9.com/posts/the-pentagon-has-officially-verified-that-night-vision-video-circulating-of-unid/10159553128311694/](https://www.facebook.com/io9.com/posts/the-pentagon-has-officially-verified-that-night-vision-video-circulating-of-unid/10159553128311694/)  
+   Link: <a href="https://www.facebook.com/io9.com/posts/the-pentagon-has-officially-verified-that-night-vision-video-circulating-of-unid/10159553128311694/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/io9.com/posts/the-pentagon-has-officially-verified-that-night-vision-video-circulating-of-unid/10159553128311694/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of unidentified, triangular aerial craft swarming around the Navy&#x27;s...</p></details>

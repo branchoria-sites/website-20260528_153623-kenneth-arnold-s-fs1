@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /clyde-tombaugh-sighting-1949/
 nav_short_title: Reflection Theory
 title: Could Reflected Windows Explain the Sighting?
-title_full: Could Reflected Windows Explain the Sighting? | Tombaugh Sighting
+title_full: Could Reflected Windows Explain the Sighting?
 display_title_short: Reflection Theory
 display_title: Reflection Theory
 heading_title: Could Reflected Windows Explain the Sighting?
@@ -233,7 +233,7 @@ next_link:
   permalink: /retellings/
   short_title: Retellings
   heading_title: How a Faint Sighting Became a UFO Ship
-date: '2026-06-08 23:26:13 '
+date: '2026-06-11 13:16:16 '
 header:
   og_image: /assets/images/Clyde_Tombaugh_sight_af62cd_reflection_theory_7795f8-Illustration-1-social.jpg
   preview_image: /assets/images/Clyde_Tombaugh_sight_af62cd_reflection_theory_7795f8-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/Clyde_Tombaugh_sight_af62cd_reflection_theory_7795f8-Illus
 ## Introduction
 
 The most widely cited sceptical explanation for the 1949 Clyde Tombaugh sighting is not that the astronomer misidentified an aircraft or planet, but that he briefly observed a rare atmospheric reflection effect. In this interpretation, unusual temperature and density layers in the night air acted like a weak optical mirror, reflecting distant ground lights into the sky and creating the appearance of organised, moving rectangular forms. What makes this explanation notable is that Tombaugh himself regarded some kind of atmospheric optical phenomenon as more plausible than an extraterrestrial craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Clyde_Tombaugh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Clyde Tombaugh</span><span class="citation-popover-snippet">Clyde Tombaugh</span></span></span>
-
 
 <img src="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_reflection_theory_7795f8-Illustration-1-dark.svg" | relative_url }}" alt="Reflection Theory illustration 1" data-theme-src-dark="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_reflection_theory_7795f8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_reflection_theory_7795f8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The reflection theory matters because it attempts to explain several otherwise awkward features of the sighting at once: the faint luminosity, the rectangular “window-like” appearance, the silent motion, the rapid fading, and the way the objects seemed to distort as they moved away from the zenith. Yet the explanation has never fully settled the case. Critics argue that the geometry, motion and rarity of the observation still leave unresolved questions even if an inversion-layer reflection is accepted as the leading candidate.
@@ -258,7 +257,6 @@ Tombaugh later described the phenomenon in language that strongly points towards
 
 The reflection hypothesis also matches the observation’s short duration. Mirage-like effects caused by layered air can collapse abruptly as viewing geometry changes. A witness may see a coherent structure for only seconds before the reflected light path disappears entirely.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Crbi2in-PHc" title="Reflections on Clyde Tombaugh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Crbi2in-PHc" target="_blank" rel="noopener noreferrer">Reflections on Clyde Tombaugh</a></p><p class="youtube-embed-meta">Channel: NASA Solar System &middot; Views: 18.4K &middot; Uploaded: May 2015 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Crbi2in-PHc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Crbi2in-PHc">Open on YouTube</a></p></div></div></div>
 
 ## Why Reflected House Windows Fit Key Details
@@ -268,7 +266,6 @@ Donald Menzel and Lyle Boyd’s sceptical analysis argued that the “window-lik
 That detail is unusually specific. Natural luminous phenomena rarely produce neat rectangles, whereas artificial windows do. A reflected row of distant illuminated windows could plausibly appear as separated rectangular lights with consistent spacing. If reflected through unstable atmospheric layers, they could also seem suspended overhead rather than near the horizon.
 
 Several parts of the observation align surprisingly well with this mechanism:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -286,7 +283,6 @@ The fading pattern is especially important. Tombaugh stated that the lights weak
 
 The theory also explains why Tombaugh’s wife perceived the event less sharply than he did. She reportedly saw more of a diffuse glow with embedded spots rather than crisp rectangles. Atmospheric mirages often degrade quickly depending on exact viewing angle, observer position and visual acuity. Two nearby witnesses can therefore report slightly different shapes from the same optical event.
 
-
 <img src="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_reflection_theory_7795f8-Illustration-2-dark.svg" | relative_url }}" alt="Reflection Theory illustration 2" data-theme-src-dark="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_reflection_theory_7795f8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_reflection_theory_7795f8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Reflection Theory Became the Leading Sceptical View
 
@@ -299,7 +295,6 @@ Importantly, accepting the reflection theory does not require assuming Tombaugh 
 This differs from simplistic dismissals sometimes attached to UFO cases. The argument is not “he saw Venus” or “he imagined it”. Rather, the claim is that he witnessed a genuine optical phenomenon produced by rare environmental conditions.
 
 That distinction helps explain why the case remains historically interesting despite the lack of evidence for spacecraft. The witness was credible, the observation was sincere, and the proposed explanation itself involves an uncommon physical mechanism rather than an ordinary misidentification.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T_U3TXHBt-0" title="Temperature Inversions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T_U3TXHBt-0" target="_blank" rel="noopener noreferrer">Temperature Inversions</a></p><p class="youtube-embed-meta">Channel: University of Illinois Extension &middot; Views: 230.2K &middot; Uploaded: December 2014 &middot; Length: 2 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T_U3TXHBt-0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T_U3TXHBt-0">Open on YouTube</a></p></div></div></div>
 
@@ -315,7 +310,6 @@ The spacing of the rectangles raises additional questions. Tombaugh described si
 
 There is also the problem of rarity. Tombaugh stressed that he had never seen anything similar before or afterwards despite spending enormous amounts of time observing the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Infrared_window" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Infrared window</span><span class="citation-popover-snippet">Infrared windowThe infrared atmospheric window is an atmospheric window in the infrared spectrum where there is relatively little abso...</span></span></span> Supporters of the reflection theory interpret this as evidence that the necessary atmospheric conditions were extraordinarily uncommon. Opponents argue that an explanation requiring such precise circumstances begins to look ad hoc.
 
-
 <img src="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_reflection_theory_7795f8-Illustration-3-dark.svg" | relative_url }}" alt="Reflection Theory illustration 3" data-theme-src-dark="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_reflection_theory_7795f8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_reflection_theory_7795f8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Reflection Theory Still Dominates Discussion of the Case
 
@@ -325,49 +319,89 @@ Most importantly, the reflection theory accommodates Tombaugh’s own interpreta
 
 For that reason, the Clyde Tombaugh sighting occupies an unusual place in UFO history. It is neither a cleanly solved case nor a strong spacecraft case. Instead, it is often treated as an example of how rare atmospheric optics can generate highly persuasive aerial anomalies — anomalies compelling enough to surprise even one of the twentieth century’s best-known visual astronomers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Infrared_window" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Infrared window</span><span class="citation-popover-snippet">Infrared windowThe infrared atmospheric window is an atmospheric window in the infrared spectrum where there is relatively little abso...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i_UPCOOuNg8" title="How Clyde Tombaugh Discovered Pluto | “Transformational Technologies” Episode 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i_UPCOOuNg8" target="_blank" rel="noopener noreferrer">How Clyde Tombaugh Discovered Pluto | “Transformational Technologies” Episode 3</a></p><p class="youtube-embed-meta">Channel: Smithsonian National Air and Space Museum &middot; Views: 15.1K &middot; Uploaded: March 2023 &middot; Length: 1 minute 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i_UPCOOuNg8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i_UPCOOuNg8">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Could Reflected Windows Explain the Sighting?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Could Reflected Windows Explain the Sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Clyde Tombaugh guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Clyde+Tombaugh+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lovetalk%3B+how+to+Say+what+You+Mean+to+Someone+You+Love+by+Lois+Wyse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lovetalk; how to Say what You Mean to Someone You Love on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZwysKtJ89oYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Lovetalk; how to Say what You Mean to Someone You Love" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Lovetalk%3B+how+to+Say+what+You+Mean+to+Someone+You+Love+by+Lois+Wyse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lovetalk; how to Say what You Mean to Someone You Love">Lovetalk; how to Say what You Mean to Someone You Love</a>
+        </h4>
+        <p class="fr-book-author">By Lois Wyse</p>
+        
+        <p class="fr-book-desc">Provides the atmospheric optical analysis and physics of temperature inversions, directly comparing them to the Tombaugh sighting details.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Lovetalk%3B+how+to+Say+what+You+Mean+to+Someone+You+Love+by+Lois+Wyse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">New Mexico State University guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=New+Mexico+State+University+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the reflection hypothesis, explaining why scientific experts like Tombaugh considered it a more plausible explanation than inter...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Las Cruces guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Las+Cruces+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Discusses why rare optical anomalies in the night air are frequently the most sound explanation for geometrically structured light reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Provides methodological tools to check witness statements against physical phenomena like atmospheric inversion, refraction, and optical...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lovetalk%3B+how+to+Say+what+You+Mean+to+Someone+You+Love&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lovetalk; how to Say what You Mean to Someone You Love</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -404,15 +438,15 @@ For that reason, the Clyde Tombaugh sighting occupies an unusual place in UFO hi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy art print -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique map MOON selenographic Victorian Dower 1852 astronomy art print poster"><img src="{{ '/assets/images/marketplace-covers/58299ae79a51aade6e68.jpg' | relative_url }}" alt="Listing image for Antique map MOON selenographic Victorian Dower 1852 astronomy art print poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy art print -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo" target="_blank" rel="sponsored noopener noreferrer">Antique map MOON selenographic Victorian Dower 1852 astronomy art print poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy art print -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy art print -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -420,15 +454,15 @@ For that reason, the Clyde Tombaugh sighting occupies an unusual place in UFO hi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy art print -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy art print -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy art print -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy art print -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -436,31 +470,15 @@ For that reason, the Clyde Tombaugh sighting occupies an unusual place in UFO hi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy art print -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL"><img src="{{ '/assets/images/marketplace-covers/a6c54d90e907a807b9eb.jpg' | relative_url }}" alt="Listing image for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy art print -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo" target="_blank" rel="sponsored noopener noreferrer">Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy art print -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy art print -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -468,7 +486,7 @@ For that reason, the Clyde Tombaugh sighting occupies an unusual place in UFO hi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy art print -book -books" data-ebay-reference="reflection-theory-could-reflected-windows-explain-the-sighting-clyde-tombaugh-sighting-1949-astronomy-art-print-book-boo" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -684,72 +702,72 @@ For that reason, the Clyde Tombaugh sighting occupies an unusual place in UFO hi
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Clyde Tombaugh  
-   Link: [https://en.wikipedia.org/wiki/Clyde_Tombaugh](https://en.wikipedia.org/wiki/Clyde_Tombaugh)  
+   Link: <a href="https://en.wikipedia.org/wiki/Clyde_Tombaugh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Clyde_Tombaugh</a>  
 
 2. <a id="endnote-2"></a>
    Source: radio.astro.gla.ac.uk  
    Title: a2oa sec5  
-   Link: [https://radio.astro.gla.ac.uk/a2_oa/a2oa_sec5.pdf](https://radio.astro.gla.ac.uk/a2_oa/a2oa_sec5.pdf)  
+   Link: <a href="https://radio.astro.gla.ac.uk/a2_oa/a2oa_sec5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://radio.astro.gla.ac.uk/a2_oa/a2oa_sec5.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy Through the AtmosphereFebruary 23, 2009 — The Earth&#x27;s atmosphere is opaque to E-M radiation, apart from two windows: in the opt...</p></details>
    Published: February 23, 2009  
 
 3. <a id="endnote-3"></a>
    Source: lowell.edu  
-   Link: [https://lowell.edu/discover/telescopes-exhibits/pluto-discovery-telescope/](https://lowell.edu/discover/telescopes-exhibits/pluto-discovery-telescope/)  
+   Link: <a href="https://lowell.edu/discover/telescopes-exhibits/pluto-discovery-telescope/" target="_blank" rel="noopener noreferrer nofollow">https://lowell.edu/discover/telescopes-exhibits/pluto-discovery-telescope/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lowell ObservatoryPluto Discovery TelescopeReviewing a set of glass negatives on February 18, 1930, observatory assistant Clyde Tombaugh...</p></details>
    Published: February 18, 1930  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Infrared window  
-   Link: [https://en.wikipedia.org/wiki/Infrared_window](https://en.wikipedia.org/wiki/Infrared_window)  
+   Link: <a href="https://en.wikipedia.org/wiki/Infrared_window" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Infrared_window</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrared windowThe infrared atmospheric window is an atmospheric window in the infrared spectrum where there is relatively little abso...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: lowell.edu  
    Title: i♥pluto festival 2022 who was clyde tombaugh  
-   Link: [https://lowell.edu/i%E2%99%A5pluto-festival-2022-who-was-clyde-tombaugh/](https://lowell.edu/i%E2%99%A5pluto-festival-2022-who-was-clyde-tombaugh/)  
+   Link: <a href="https://lowell.edu/i%E2%99%A5pluto-festival-2022-who-was-clyde-tombaugh/" target="_blank" rel="noopener noreferrer nofollow">https://lowell.edu/i%E2%99%A5pluto-festival-2022-who-was-clyde-tombaugh/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>He began helping his father around the farm at an early age, planting corn, threshing oats and wheat.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: lowell.edu  
-   Link: [https://lowell.edu/discover/history-of-pluto/](https://lowell.edu/discover/history-of-pluto/)  
+   Link: <a href="https://lowell.edu/discover/history-of-pluto/" target="_blank" rel="noopener noreferrer nofollow">https://lowell.edu/discover/history-of-pluto/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pluto and Lowell ObservatoryOn February 18, 1930, Clyde Tombaugh discovered Pluto. Thus kicked off a hectic time for the entire observato...</p></details>
    Published: February 18, 1930  
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: Yes mirages can happen in cold weather and here is why | Your Morning  
-   Link: [http://www.youtube.com/watch?v=3Sfj4HaMp3k](http://www.youtube.com/watch?v=3Sfj4HaMp3k)  
+   Link: <a href="http://www.youtube.com/watch?v=3Sfj4HaMp3k" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=3Sfj4HaMp3k</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Temperature Inversions...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Temperature Inversions  
-   Link: [http://www.youtube.com/watch?v=T_U3TXHBt-0](http://www.youtube.com/watch?v=T_U3TXHBt-0)  
+   Link: <a href="http://www.youtube.com/watch?v=T_U3TXHBt-0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=T_U3TXHBt-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Invisible Iceberg...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: achievement.org  
    Title: clyde tombaugh  
-   Link: [https://achievement.org/achiever/clyde-tombaugh/](https://achievement.org/achiever/clyde-tombaugh/)  
+   Link: <a href="https://achievement.org/achiever/clyde-tombaugh/" target="_blank" rel="noopener noreferrer nofollow">https://achievement.org/achiever/clyde-tombaugh/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Feb 2022 — Tombaugh in the backyard of his home in Las Cruces, New Mexico, with his homemade telescopes, including the 9-inch Newtonian...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/1962InfPh...2...31A/abstract](https://ui.adsabs.harvard.edu/abs/1962InfPh...2...31A/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/1962InfPh...2...31A/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/1962InfPh...2...31A/abstract</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The narrow region of transmission is characterized by ten absorption lines...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: lindahall.org  
    Title: clyde tombaugh  
-   Link: [https://www.lindahall.org/about/news/scientist-of-the-day/clyde-tombaugh/](https://www.lindahall.org/about/news/scientist-of-the-day/clyde-tombaugh/)  
+   Link: <a href="https://www.lindahall.org/about/news/scientist-of-the-day/clyde-tombaugh/" target="_blank" rel="noopener noreferrer nofollow">https://www.lindahall.org/about/news/scientist-of-the-day/clyde-tombaugh/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Feb 2021 — Stained-glass window commemorating the life of Clyde Tombaugh, at Unitarian Universalist Church, Las Cruces, New Mexico (nbc...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: astronomy.com  
    Title: remembering clyde tombaugh on plutos doorstep  
-   Link: [https://www.astronomy.com/science/remembering-clyde-tombaugh-on-plutos-doorstep/](https://www.astronomy.com/science/remembering-clyde-tombaugh-on-plutos-doorstep/)  
+   Link: <a href="https://www.astronomy.com/science/remembering-clyde-tombaugh-on-plutos-doorstep/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/remembering-clyde-tombaugh-on-plutos-doorstep/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Remembering Clyde Tombaugh on Pluto&#x27;s doorstep26 May 2015 — Clyde Tombaugh is best known for finding Pluto, but he&#x27;s also remembered for...</p></details>
    Published: May 2015  
 
@@ -758,57 +776,57 @@ For that reason, the Clyde Tombaugh sighting occupies an unusual place in UFO hi
 13. <a id="endnote-13"></a>
    Source: nasa.gov  
    Title: happy birthday clyde tombaugh new horizons returns new images of pluto  
-   Link: [https://www.nasa.gov/solar-system/happy-birthday-clyde-tombaugh-new-horizons-returns-new-images-of-pluto/](https://www.nasa.gov/solar-system/happy-birthday-clyde-tombaugh-new-horizons-returns-new-images-of-pluto/)  
+   Link: <a href="https://www.nasa.gov/solar-system/happy-birthday-clyde-tombaugh-new-horizons-returns-new-images-of-pluto/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/solar-system/happy-birthday-clyde-tombaugh-new-horizons-returns-new-images-of-pluto/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Happy Birthday Clyde Tombaugh: New Horizons Returns...4 Feb 2015 — Pluto discoverer Clyde Tombaugh could only dream of a spacecraft flyi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: on this day 1997 clyde tombaugh the astronomer who discovered pluto died at age  
-   Link: [https://www.facebook.com/airandspace/posts/on-this-day-1997-clyde-tombaugh-the-astronomer-who-discovered-pluto-died-at-age-/1283843270445745/](https://www.facebook.com/airandspace/posts/on-this-day-1997-clyde-tombaugh-the-astronomer-who-discovered-pluto-died-at-age-/1283843270445745/)  
+   Link: <a href="https://www.facebook.com/airandspace/posts/on-this-day-1997-clyde-tombaugh-the-astronomer-who-discovered-pluto-died-at-age-/1283843270445745/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/airandspace/posts/on-this-day-1997-clyde-tombaugh-the-astronomer-who-discovered-pluto-died-at-age-/1283843270445745/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day 1997, Clyde Tombaugh, the astronomer who...On this day 1997, Clyde Tombaugh, the astronomer who discovered Pluto, died at ag...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nmspacemuseum.org  
-   Link: [https://nmspacemuseum.org/inductee/clyde-w-tombaugh/](https://nmspacemuseum.org/inductee/clyde-w-tombaugh/)  
+   Link: <a href="https://nmspacemuseum.org/inductee/clyde-w-tombaugh/" target="_blank" rel="noopener noreferrer nofollow">https://nmspacemuseum.org/inductee/clyde-w-tombaugh/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clyde W. TombaughClyde William Tombaugh was born in Streator, Illinois on February 4, 1906. He grew up on the family farm there until 192...</p></details>
    Published: February 4, 1906  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Crbi2in-PHc](https://www.youtube.com/watch?v=Crbi2in-PHc)  
+   Link: <a href="https://www.youtube.com/watch?v=Crbi2in-PHc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Crbi2in-PHc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reflections on Clyde TombaughAnnette and Alden Tombaugh, the children of Clyde Tombaugh, remember their father and his discovery of Pluto...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: armaghplanet.com  
    Title: clyde tombaugh and the mysterious satellite  
-   Link: [https://armaghplanet.com/clyde-tombaugh-and-the-mysterious-satellite.html](https://armaghplanet.com/clyde-tombaugh-and-the-mysterious-satellite.html)  
+   Link: <a href="https://armaghplanet.com/clyde-tombaugh-and-the-mysterious-satellite.html" target="_blank" rel="noopener noreferrer nofollow">https://armaghplanet.com/clyde-tombaugh-and-the-mysterious-satellite.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronotes19 Nov 2013 — Tombaugh&#x27;s research was proposed to try to photograph objects with a magnitude of down to (Pluto at maximum brigh...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ui.adsabs.harvard.edu  
    Title: By far his best to date, this one was also noteworthy.Read more  
-   Link: [https://ui.adsabs.harvard.edu/abs/2023AAS...24114702S/abstract](https://ui.adsabs.harvard.edu/abs/2023AAS...24114702S/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2023AAS...24114702S/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2023AAS...24114702S/abstract</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tombaugh&#x27;s Extraordinary 9-Inch Telescopeby K Schindler · 2023 — In 1928, Clyde Tombaugh completed construction of his third telescope, a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: tombaugh.lcps.net  
    Title: biography of clyde w tombaugh  
-   Link: [https://tombaugh.lcps.net/page/biography-of-clyde-w-tombaugh/](https://tombaugh.lcps.net/page/biography-of-clyde-w-tombaugh/)  
+   Link: <a href="https://tombaugh.lcps.net/page/biography-of-clyde-w-tombaugh/" target="_blank" rel="noopener noreferrer nofollow">https://tombaugh.lcps.net/page/biography-of-clyde-w-tombaugh/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Clyde W. TombaughClyde Tombaugh died at home in Las Cruces, shortly before his 91st birthday. More information on Clyde W. Tombaugh. F...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: aps.org  
-   Link: [https://www.aps.org/apsnews/2009/03/tombaugh-discovery-pluto-1930](https://www.aps.org/apsnews/2009/03/tombaugh-discovery-pluto-1930)  
+   Link: <a href="https://www.aps.org/apsnews/2009/03/tombaugh-discovery-pluto-1930" target="_blank" rel="noopener noreferrer nofollow">https://www.aps.org/apsnews/2009/03/tombaugh-discovery-pluto-1930</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 13, 1930: Clyde Tombaugh&#x27;s discovery of Pluto...1 Mar 2009 — In early 1930, Pluto was discovered by a farm boy from Kansas with no...</p></details>
    Published: March 13, 1930  
 
 21. <a id="endnote-21"></a>
    Source: libexhibits.nmsu.edu  
-   Link: [https://libexhibits.nmsu.edu/onlinexhibits/tombaugh/index.html](https://libexhibits.nmsu.edu/onlinexhibits/tombaugh/index.html)  
+   Link: <a href="https://libexhibits.nmsu.edu/onlinexhibits/tombaugh/index.html" target="_blank" rel="noopener noreferrer nofollow">https://libexhibits.nmsu.edu/onlinexhibits/tombaugh/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clyde W. Tombaugh, 1906-1997 | New Mexico State UniversityClyde W. Tombaugh is best known for his February 18, 1930, discovery of Pluto...</p></details>
    Published: February 18, 1930  
 
 22. <a id="endnote-22"></a>
    Source: amt.copernicus.org  
-   Link: [https://amt.copernicus.org/articles/11/2159/2018/](https://amt.copernicus.org/articles/11/2159/2018/)  
+   Link: <a href="https://amt.copernicus.org/articles/11/2159/2018/" target="_blank" rel="noopener noreferrer nofollow">https://amt.copernicus.org/articles/11/2159/2018/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>water vapour self-continuum absorption in the infrared...by L Lechevallier · 2018 · Cited by 58 — We have determined the self-continuum...</p></details>

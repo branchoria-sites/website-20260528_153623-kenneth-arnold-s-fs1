@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Kinross
   permalink: /kinross-incident-1953/
   short_title: Kinross
-date: '2026-06-08 23:18:16 '
+date: '2026-06-11 13:11:09 '
 header:
   og_image: /assets/images/Kenneth_Arnold_s_fir_b696ba-overview-social.jpg
   preview_image: /assets/images/Kenneth_Arnold_s_fir_b696ba-overview.webp
@@ -758,8 +758,7 @@ image: /assets/images/Kenneth_Arnold_s_fir_b696ba-overview-social.jpg
 
 ## What Arnold said happened over the Cascades
 
-On the afternoon of 24 June 1947, Arnold took off from Chehalis, Washington, intending to fly towards Yakima and then on to Pendleton, Oregon. According to the Smithsonian National Air and Space Museum’s summary, he was an experienced pilot with about 4,000 flying hours and belonged to an Idaho search-and-rescue unit. He detoured because a U.S. Marine Corps Curtiss C-46 Commando transport had crashed in the Mount Rainier area with 32 Marines aboard, and a reward had been offered for locating the wreckage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer | National Air and Space Museum...</span></span></span>
-
+On the afternoon of 24 June 1947, Arnold took off from Chehalis, Washington, intending to fly towards Yakima and then on to Pendleton, Oregon. According to the Smithsonian National Air and Space Museum’s summary, he was an experienced pilot with about 4,000 flying hours and belonged to an Idaho search-and-rescue unit. He detoured because a U.S. Marine Corps Curtiss C-46 Commando transport had crashed in the Mount Rainier area with 32 Marines aboard, and a reward had been offered for locating the wreckage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer &#124; National Air and Space Museum...</span></span></span>
 
 <img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba-overview.webp" | relative_url }}" alt="Overview image for Kenneth Arnold s first sighting 1947" loading="eager" decoding="sync" fetchpriority="high">
 Arnold later placed the key moment shortly before 3 p.m. He was near Mount Rainier, at roughly 9,200 feet, when he noticed bright flashes to his left. In the surviving KWRC radio interview broadcast from Pendleton on 26 June 1947, Arnold described seeing “a chain” of objects that looked like “the tail of a Chinese kite”, weaving and moving at a “terrific speed” across the face of Mount Rainier. He said he first considered geese, then “new jet planes in formation”, before rejecting both impressions because of their speed and lack of visible tails. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arnoldrepsmith.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Kenneth Arnold, June 24, 1947 - The june 25, 1947, KWRC interview by Ted Smith...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
@@ -774,8 +773,7 @@ Arnold’s account entered public life through the East Oregonian in Pendleton. 
 
 The wording problem is central to the case. Arnold later complained that his meaning had been distorted: he said he had meant the objects moved like saucers skipping over water, not necessarily that they were literal round saucers. Yet early descriptions are more complicated than a simple misquote. Bequette’s fuller report had Arnold describing the objects as “flat like a pie-pan” and “somewhat bat-shaped”, while the 26 June KWRC interview preserves Arnold’s own language about a weaving chain, flashes, no tails, and a shape he found difficult to classify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arnoldrepsmith.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Kenneth Arnold, June 24, 1947 - The june 25, 1947, KWRC interview by Ted Smith...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
 
-This is why the “saucer” issue should be handled carefully. A later sceptical tradition, associated with writers such as Martin Kottmeyer, argues that the press transformed a motion description into a shape category, helping create a cultural mould into which later sightings were poured. That argument has force, especially because the phrase “flying saucer” became a ready-made label almost immediately. But it should not be simplified into “Arnold never described anything saucer-like”; early accounts include both motion language and shape comparisons to flat, thin, rounded or crescent-like forms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science What Was the First UFO Sighting? | Live Science</span><span class="citation-popover-snippet">Live Science What Was the First UFO Sighting? | Live Science</span></span></span>
-
+This is why the “saucer” issue should be handled carefully. A later sceptical tradition, associated with writers such as Martin Kottmeyer, argues that the press transformed a motion description into a shape category, helping create a cultural mould into which later sightings were poured. That argument has force, especially because the phrase “flying saucer” became a ready-made label almost immediately. But it should not be simplified into “Arnold never described anything saucer-like”; early accounts include both motion language and shape comparisons to flat, thin, rounded or crescent-like forms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science What Was the First UFO Sighting? &#124; Live Science</span><span class="citation-popover-snippet">Live Science What Was the First UFO Sighting? &#124; Live Science</span></span></span>
 
 <img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba-Illustration-1-dark.svg" | relative_url }}" alt="Kenneth Arnold s first sighting 1947 illustration 1" data-theme-src-dark="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Arnold seemed credible, and why that is not enough
@@ -784,8 +782,7 @@ Arnold was not an anonymous rumour source. He was a businessman, a private pilot
 
 The case also benefited from Arnold’s immediate behaviour. He did not wait years to tell the story. He spoke to people after landing, gave press interviews within a day, and described details before “flying saucer” folklore had fully formed. That timing makes the first reports valuable for historians, because they precede much of the later mythology attached to UFOs, Roswell, government secrecy and extraterrestrial visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arnoldrepsmith.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: Kenneth Arnold, June 24, 1947 - The june 25, 1947, KWRC interview by Ted Smith...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
 
-Even so, credibility is not the same as identification. A credible pilot can misjudge distance, size, speed or altitude, especially when an object’s true range is unknown. Arnold’s speed estimate depended on assuming the objects were near distant mountain landmarks rather than much closer to his aircraft. If the range estimate was wrong, the speed estimate could be dramatically wrong too. The evidential core is therefore a sincere visual report, not a measured [flight path]({{ 'flight-path/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science What Was the First UFO Sighting? | Live Science</span><span class="citation-popover-snippet">Live Science What Was the First UFO Sighting? | Live Science</span></span></span>
-
+Even so, credibility is not the same as identification. A credible pilot can misjudge distance, size, speed or altitude, especially when an object’s true range is unknown. Arnold’s speed estimate depended on assuming the objects were near distant mountain landmarks rather than much closer to his aircraft. If the range estimate was wrong, the speed estimate could be dramatically wrong too. The evidential core is therefore a sincere visual report, not a measured [flight path]({{ 'flight-path/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science What Was the First UFO Sighting? &#124; Live Science</span><span class="citation-popover-snippet">Live Science What Was the First UFO Sighting? &#124; Live Science</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rih9-80p0Ec" title="The Truth about Roswell: Decoding Decades of Deception" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer">The Truth about Roswell: Decoding Decades of Deception</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 9.8M &middot; Uploaded: June 2023 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rih9-80p0Ec">Open on YouTube</a></p></div></div></div>
 
@@ -797,7 +794,6 @@ The surviving documentation trail is important but uneven for public readers. Th
 
 The Air Force’s later public conclusions were broad rather than Arnold-specific. In its Project Blue Book fact sheet, the Air Force said that, across the programme as a whole, it found no evidence that investigated UFO reports indicated a national security threat, advanced technology beyond scientific knowledge, or extraterrestrial vehicles. That does not “solve” Arnold’s report on its own, but it does frame how official interpretation moved: from initial concern about unknown aircraft to a long-term position that UFO reports did not demonstrate exotic technology or alien craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba-Illustration-2-dark.svg" | relative_url }}" alt="Kenneth Arnold s first sighting 1947 illustration 2" data-theme-src-dark="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest ordinary explanations
 
@@ -807,10 +803,9 @@ Several non-extraordinary explanations have been proposed, and none is universal
 
 **Mirage or atmospheric distortion** was one official-style explanation associated with early Air Force thinking. It has the advantage of involving mountains, snowfields, sunlight and distance — all central to Arnold’s account. Its weakness is that Arnold reported multiple discrete objects moving in formation and flashing, not merely a distorted horizon or one ambiguous reflection. A mirage may explain some visual oddities, but it does not straightforwardly reproduce the whole story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Meteors or a breaking fireball** can explain bright, fast, chain-like motion, especially if fragments travelled at a shallow angle. But Arnold described objects weaving relative to mountains and appearing to follow the Cascade range; he also observed them for up to a couple of minutes, longer than many meteor-like events would plausibly match in this context. As a result, meteor explanations tend to fit speed and brightness better than the reported manoeuvring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science What Was the First UFO Sighting? | Live Science</span><span class="citation-popover-snippet">Live Science What Was the First UFO Sighting? | Live Science</span></span></span>
+**Meteors or a breaking fireball** can explain bright, fast, chain-like motion, especially if fragments travelled at a shallow angle. But Arnold described objects weaving relative to mountains and appearing to follow the Cascade range; he also observed them for up to a couple of minutes, longer than many meteor-like events would plausibly match in this context. As a result, meteor explanations tend to fit speed and brightness better than the reported manoeuvring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science What Was the First UFO Sighting? &#124; Live Science</span><span class="citation-popover-snippet">Live Science What Was the First UFO Sighting? &#124; Live Science</span></span></span>
 
-**Birds, especially pelicans,** remain one of the more persistent sceptical explanations. The argument is that Arnold may have misjudged distance: large pale birds closer to the aircraft could glint in sunlight, fly in formation, appear crescent-like or boomerang-like, and seem to weave. Live Science summarises this view through sceptical writer Robert Sheaffer, who suggested pelicans flying in formation, with Arnold mistaking nearby birds for distant large objects. The weakness is that Arnold rejected geese at the time and believed the objects were too fast and too high; the strength is that his speed calculation collapses if his assumed distance was wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science What Was the First UFO Sighting? | Live Science</span><span class="citation-popover-snippet">Live Science What Was the First UFO Sighting? | Live Science</span></span></span>
-
+**Birds, especially pelicans,** remain one of the more persistent sceptical explanations. The argument is that Arnold may have misjudged distance: large pale birds closer to the aircraft could glint in sunlight, fly in formation, appear crescent-like or boomerang-like, and seem to weave. Live Science summarises this view through sceptical writer Robert Sheaffer, who suggested pelicans flying in formation, with Arnold mistaking nearby birds for distant large objects. The weakness is that Arnold rejected geese at the time and believed the objects were too fast and too high; the strength is that his speed calculation collapses if his assumed distance was wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science What Was the First UFO Sighting? &#124; Live Science</span><span class="citation-popover-snippet">Live Science What Was the First UFO Sighting? &#124; Live Science</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qdXNAOxs6mo" title="Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer">Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 5.1K &middot; Uploaded: June 2019 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qdXNAOxs6mo">Open on YouTube</a></p></div></div></div>
 
@@ -818,10 +813,9 @@ Several non-extraordinary explanations have been proposed, and none is universal
 
 Arnold’s sighting did not remain isolated. Newspapers and later researchers collected other reports from the same general period, and the National Archives describes a broader flood of UFO reports after Arnold’s claim. The historian Ted Bloecher’s 1967 study of the 1947 wave, while a UFO-oriented source rather than an official investigation, is still frequently cited because it tried to catalogue the burst of reports that followed the Arnold publicity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Corroboration, however, has to be graded. Reports made after a national headline may show that many people were watching the sky and interpreting ambiguous sights through a new vocabulary. They do not automatically confirm that Arnold saw the same kind of object, or that the objects were technological craft. The more useful corroboration would be independent, same-time, same-direction observations recorded before the story spread widely; that kind of evidence is much thinner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science What Was the First UFO Sighting? | Live Science</span><span class="citation-popover-snippet">Live Science What Was the First UFO Sighting? | Live Science</span></span></span>
+Corroboration, however, has to be graded. Reports made after a national headline may show that many people were watching the sky and interpreting ambiguous sights through a new vocabulary. They do not automatically confirm that Arnold saw the same kind of object, or that the objects were technological craft. The more useful corroboration would be independent, same-time, same-direction observations recorded before the story spread widely; that kind of evidence is much thinner. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">Live Science What Was the First UFO Sighting? &#124; Live Science</span><span class="citation-popover-snippet">Live Science What Was the First UFO Sighting? &#124; Live Science</span></span></span>
 
 The later United Airlines crew sighting on 4 July 1947 is often linked to Arnold because it was another pilot-based report during the same wave. It is relevant as a sibling branch in the 1947 flying-disc dossier, not as direct proof of Arnold’s specific observation. It shows that the early saucer wave quickly acquired multiple aviation witnesses, which increased official interest, but it does not provide physical evidence for the Mount Rainier event itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba-Illustration-3-dark.svg" | relative_url }}" alt="Kenneth Arnold s first sighting 1947 illustration 3" data-theme-src-dark="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case can and cannot prove
@@ -832,52 +826,93 @@ It can also support a narrower evidential point: Arnold appears to have sincerel
 
 What the case cannot prove is more important. It cannot establish extraterrestrial origin, advanced technology, or even definite artificial craft. There is no surviving photograph from Arnold’s aircraft, no recovered object, no radar confirmation tied to the sighting, and no independent instrument track. The case rests on human observation under conditions where range and scale were uncertain. That is enough to make the case historically foundational, but not enough to make it physically conclusive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jqJzZ-V5Jv8" title="1947: The Kenneth Arnold Sighting | Weird History Ep. #5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jqJzZ-V5Jv8" target="_blank" rel="noopener noreferrer">1947: The Kenneth Arnold Sighting | Weird History Ep. #5</a></p><p class="youtube-embed-meta">Channel: Stupid Beyond Belief &middot; Views: 6.2K &middot; Uploaded: December 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jqJzZ-V5Jv8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jqJzZ-V5Jv8">Open on YouTube</a></p></div></div></div>
 
 ## Bottom line
 
-Kenneth Arnold’s first sighting is best understood as the founding public case of the modern UFO era rather than as a solved mystery or a proven encounter with extraordinary craft. The witness was credible, the report was early and consequential, and the press chain can be reconstructed with unusual clarity. But the evidence remains observational, not physical; the speed estimate depends on uncertain distance; and [ordinary explanations]({{ 'explanations/' | relative_url }}) such as birds, aircraft, mirage effects or other misperceptions remain plausible even where none perfectly fits every reported detail. Its enduring importance lies in the combination of testimony, media amplification and official reaction: Arnold’s few minutes near Mount Rainier changed the language of the sky.
+Kenneth Arnold’s first sighting is best understood as the founding public case of the modern UFO era rather than as a solved mystery or a proven encounter with extraordinary craft. The witness was credible, the report was early and consequential, and the press chain can be reconstructed with unusual clarity. But the evidence remains observational, not physical; the speed estimate depends on uncertain distance; and ordinary explanations such as birds, aircraft, mirage effects or other misperceptions remain plausible even where none perfectly fits every reported detail. Its enduring importance lies in the combination of testimony, media amplification and official reaction: Arnold’s few minutes near Mount Rainier changed the language of the sky.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Did Kenneth Arnold Really See?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Did Kenneth Arnold Really See?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Kenneth Arnold guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Kenneth+Arnold+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Contains direct first-hand archival details regarding Kenneth Arnold&#x27;s 24 June 1947 Mount Rainier flight logs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Mount Rainier guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Mount+Rainier+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the absolute baseline narrative of Arnold&#x27;s CallAir A-2 search flight, the nine shiny objects, and the ensuing cultural contagion.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Flying Saucer guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Flying+Saucer+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Traces how Arnold&#x27;s private search-and-rescue status forced early Air Materiel Command analysts to review the Cascade paths.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Examines why personal pilot credentials cannot override a total lack of accompanying radar returns or physical data parameters.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -914,15 +949,15 @@ Kenneth Arnold’s first sighting is best understood as the founding public case
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -930,15 +965,15 @@ Kenneth Arnold’s first sighting is best understood as the founding public case
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -946,31 +981,15 @@ Kenneth Arnold’s first sighting is best understood as the founding public case
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -978,7 +997,7 @@ Kenneth Arnold’s first sighting is best understood as the founding public case
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="kenneth-arnold-s-first-sighting-1947-what-did-kenneth-arnold-really-see-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1193,118 +1212,118 @@ Kenneth Arnold’s first sighting is best understood as the founding public case
 
 1. <a id="endnote-1"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 2. <a id="endnote-2"></a>
    Source: spokesman.com  
    Title: Review Flying saucers still evasive 70 years after pilot’s report  
-   Link: [https://www.spokesman.com/stories/2017/jun/25/flying-saucers-still-evasive-70-years-after-pilots/](https://www.spokesman.com/stories/2017/jun/25/flying-saucers-still-evasive-70-years-after-pilots/)  
+   Link: <a href="https://www.spokesman.com/stories/2017/jun/25/flying-saucers-still-evasive-70-years-after-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/2017/jun/25/flying-saucers-still-evasive-70-years-after-pilots/</a>  
 
 3. <a id="endnote-3"></a>
    Source: wyominghistoryday.org  
    Title: project 10073 record witness kenneth arnold june 24 1947  
-   Link: [https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/project-10073-record-witness-kenneth-arnold-june-24-1947](https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/project-10073-record-witness-kenneth-arnold-june-24-1947)  
+   Link: <a href="https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/project-10073-record-witness-kenneth-arnold-june-24-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/index.php/theme-topics/collections/items/project-10073-record-witness-kenneth-arnold-june-24-1947</a>  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 5. <a id="endnote-5"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 1  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 3  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: space.com  
    Title: 12066 flying saucers turn 64 ufos origins  
-   Link: [https://www.space.com/amp/12066-flying-saucers-turn-64-ufos-origins.html](https://www.space.com/amp/12066-flying-saucers-turn-64-ufos-origins.html)  
+   Link: <a href="https://www.space.com/amp/12066-flying-saucers-turn-64-ufos-origins.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/amp/12066-flying-saucers-turn-64-ufos-origins.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: [https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer](https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer)  
+   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer | National Air and Space Museum...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/arnoldrepsmith.htm](https://ufologie.patrickgross.org/htm/arnoldrepsmith.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/arnoldrepsmith.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/arnoldrepsmith.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: Kenneth Arnold, June 24, 1947 - The june 25, 1947, KWRC interview by Ted Smith...</p></details>
    Published: June 24, 1947  
 
 10. <a id="endnote-10"></a>
    Source: livescience.com  
    Title: Live Science What Was the First UFO Sighting? | Live Science  
-   Link: [https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html](https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html)  
+   Link: <a href="https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/arnoldrepbequette.htm](https://ufologie.patrickgross.org/htm/arnoldrepbequette.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/arnoldrepbequette.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/arnoldrepbequette.htm</a>  
 
 12. <a id="endnote-12"></a>
    Source: eastoregonian.com  
    Title: the sighting  
-   Link: [https://eastoregonian.com/2017/06/16/the-sighting/](https://eastoregonian.com/2017/06/16/the-sighting/)  
+   Link: <a href="https://eastoregonian.com/2017/06/16/the-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://eastoregonian.com/2017/06/16/the-sighting/</a>  
 
 13. <a id="endnote-13"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: [https://www.history.com/articles/kenneth-arnold](https://www.history.com/articles/kenneth-arnold)  
+   Link: <a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
 
 14. <a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Kenneth Arnold and the First UFOs  
-   Link: [https://www.youtube.com/watch?v=qdXNAOxs6mo](https://www.youtube.com/watch?v=qdXNAOxs6mo)  
+   Link: <a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdXNAOxs6mo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Kenneth Arnold UFO Sighting The First UFOs  
-   Link: [https://www.youtube.com/watch?v=xLuHgsXGpqc](https://www.youtube.com/watch?v=xLuHgsXGpqc)  
+   Link: <a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1947: The Kenneth Arnold Sighting | Weird History Ep. #5...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Truth about Roswell: Decoding Decades of Deception  
-   Link: [https://www.youtube.com/watch?v=rih9-80p0Ec](https://www.youtube.com/watch?v=rih9-80p0Ec)  
+   Link: <a href="https://www.youtube.com/watch?v=rih9-80p0Ec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rih9-80p0Ec</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Yet Another...Paranormal Podcast Episode #1: The Kenneth Arnold UFO Sighting...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010002-9.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010002-9.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010002-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010002-9.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jqJzZ-V5Jv8](https://www.youtube.com/watch?v=jqJzZ-V5Jv8)  
+   Link: <a href="https://www.youtube.com/watch?v=jqJzZ-V5Jv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jqJzZ-V5Jv8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth about Roswell: Decoding Decades of Deception...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets_1946-1947](https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets_1946-1947)  
+   Link: <a href="https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets_1946-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/304652761_A_Ghost_in_the_Machine_How_Sociology_Tried_to_Explain_Away_American_Flying_Saucers_and_European_Ghost_Rockets_1946-1947</a>  
 
 21. <a id="endnote-21"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html](https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html)  
+   Link: <a href="https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/haynes-ufo-investigations-manual-ufo-investigations-from-1892-to-the-present-day-085733400x-9780857334008.html</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/511792402341480/posts/2803790443141653/](https://www.facebook.com/groups/511792402341480/posts/2803790443141653/)  
+   Link: <a href="https://www.facebook.com/groups/511792402341480/posts/2803790443141653/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/511792402341480/posts/2803790443141653/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/](https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/)  
+   Link: <a href="https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/</a>  
 
 24. <a id="endnote-24"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2014/05/mount-rainier-saucer-magnet/](https://skepticalinquirer.org/2014/05/mount-rainier-saucer-magnet/)  
+   Link: <a href="https://skepticalinquirer.org/2014/05/mount-rainier-saucer-magnet/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2014/05/mount-rainier-saucer-magnet/</a>

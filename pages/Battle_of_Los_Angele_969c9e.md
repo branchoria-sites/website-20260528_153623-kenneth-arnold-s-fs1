@@ -360,9 +360,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -396,9 +396,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -436,9 +436,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Belgium UFO Wave
   permalink: /belgium-radarvisual-sightings-1989/
   short_title: Belgium UFO Wave
-date: '2026-06-08 23:39:59 '
+date: '2026-06-11 13:23:09 '
 header:
   og_image: /assets/images/Battle_of_Los_Angele_969c9e-overview-social.jpg
   preview_image: /assets/images/Battle_of_Los_Angele_969c9e-overview.webp
@@ -760,7 +760,6 @@ image: /assets/images/Battle_of_Los_Angele_969c9e-overview-social.jpg
 
 The immediate setting was unusually tense. The United States had entered the Second World War after Pearl Harbor on 7 December 1941, and Los Angeles was not merely a civilian city: it was a major aircraft-production centre with significant harbour and defence infrastructure. The Smithsonian’s account stresses that early 1942 West Coast fear was not imagined from nothing; Los Angeles had industrial and military value, and the region was braced for possible attack. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Battle_of_Los_Angele_969c9e-overview.webp" | relative_url }}" alt="Overview image for Battle of Los Angeles 1942" loading="eager" decoding="sync" fetchpriority="high">
 The most important local trigger came on 23 February 1942, when Japanese submarine I-17 shelled the Ellwood oil area near Santa Barbara. The damage was limited, but the psychological effect was large. Contemporary and military-museum summaries describe shells fired at or near oil installations, with some damage to rigging and pumping equipment and several shells falling short or failing to explode. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.militarymuseum.org/Ellwood.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarymuseum.org">[militarymuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarymuseum.org</span><span class="citation-popover-title">California in World War II: The Shelling of Ellwood</span><span class="citation-popover-snippet">California in World War II: The Shelling of Ellwood</span></span></span>
 
@@ -769,7 +768,6 @@ In the early hours of 25 February, Los Angeles moved from anxiety into action. T
 The reconstructed military chronology is messy but revealing. The Office of Air Force History account, reproduced by the Virtual Museum of the City of San Francisco, says radar tracked an approaching target to within a few miles of the coast, after which the information centre was flooded with aircraft reports even though the initial radar target appears to have vanished. At 3:06 a.m., a balloon carrying a red flare was seen over Santa Monica; four anti-aircraft batteries opened fire; from that point, reports diverged wildly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">The Battle of Los Angeles</span></span></span>
 
 The firing was substantial. The later Army Air Forces account notes the incident as a “hysteria” episode in the wider problem of U.S. continental air defence, while the Los Angeles Times archive gives a figure of 1,433 rounds fired and the Air Force History excerpt gives 1,440 rounds. The difference is not important for interpretation: the essential point is that a large volume of anti-aircraft fire was directed into a sky from which no confirmed enemy aircraft emerged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibiblio.org/hyperwar/AAF/VI/AAF-VI-3.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[Ibiblio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-title">The Army Air Forces in World War II Volume VI: Men and Planes: Chapter 3</span><span class="citation-popover-snippet">The Army Air Forces in World War II Volume VI: Men and Planes: Chapter 3</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[2sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">The Battle of Los Angeles</span></span></span>
-
 
 <img src="{{ "/assets/images/Battle_of_Los_Angele_969c9e-Illustration-1-dark.svg" | relative_url }}" alt="Battle of Los Angeles 1942 illustration 1" data-theme-src-dark="{{ "/assets/images/Battle_of_Los_Angele_969c9e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Battle_of_Los_Angele_969c9e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The night’s evidence is strong on panic, weak on enemy aircraft
@@ -782,7 +780,6 @@ The physical evidence also points away from a successful engagement with enemy a
 
 There was, however, real damage and real human cost. The Los Angeles Times archive describes five fatalities: three people killed in automobile accidents during the blackout chaos and two who died of heart attacks. It also records injuries among wardens and others, plus scattered damage from anti-aircraft shells that failed to explode in the air and then struck the ground. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la me fw archives 1942 battle la 20170221 story</span><span class="citation-popover-snippet">Los Angeles TimesFrom the Archives: The 1942 Battle of L.A. - Los Angeles Times...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6oY8HIWBS-Y" title="The Battle of Los Angeles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6oY8HIWBS-Y" target="_blank" rel="noopener noreferrer">The Battle of Los Angeles</a></p><p class="youtube-embed-meta">Channel: LEMMiNO &middot; Views: 7.7M &middot; Uploaded: August 2018 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6oY8HIWBS-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6oY8HIWBS-Y">Open on YouTube</a></p></div></div></div>
 
 ## The official explanations did not arrive as one tidy answer
@@ -792,7 +789,6 @@ One reason the case stayed alive is that official [explanations]({{ 'explanation
 The later, more considered explanation is less dramatic. According to the same Los Angeles Times retrospective, an Army document at war’s end attributed the episode to lighted weather balloons being mistaken for aircraft and to shell bursts illuminated by searchlights being mistaken for further targets. The Air Force History account similarly emphasises meteorological balloons, flares, shell bursts, and confusion once firing began. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">The Battle of Los Angeles</span></span></span>
 
 This does not mean every detail is solved. The initial radar contact, the timing of separate visual reports, and the precise identity of every light or object seen that night remain difficult to reconstruct. But the gap between “not every report can be individually explained” and “there was a hostile craft” is large. The best-supported explanation is cumulative: several ordinary wartime stimuli became extraordinary when filtered through alert systems, blackout conditions, searchlights, anti-aircraft fire, and public fear.
-
 
 <img src="{{ "/assets/images/Battle_of_Los_Angele_969c9e-Illustration-2-dark.svg" | relative_url }}" alt="Battle of Los Angeles 1942 illustration 2" data-theme-src-dark="{{ "/assets/images/Battle_of_Los_Angele_969c9e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Battle_of_Los_Angele_969c9e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the UFO interpretation took hold
@@ -804,7 +800,6 @@ The most famous visual anchor is the Los Angeles Times searchlight photograph pu
 Larry Harnisch, a retired Los Angeles Times journalist who examined the image history in detail, argued that the supposed UFO in the photograph is better understood as a convergence of light beams with clusters of light rather than a clear object. His conclusion is sceptical, but the important evidential point is narrower: the famous image is not a clean, unaltered photograph of a structured craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ladailymirror.com/2011/03/13/another-good-story-ruined-saucers-over-la-part-7/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ladailymirror.com">[ladailymirror.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ladailymirror.com</span><span class="citation-popover-title">another good story ruined saucers over la part 7</span><span class="citation-popover-snippet">another good story ruined saucers over la part 7</span></span></span>
 
 That does not make the witnesses foolish. It makes the case a reminder that visual evidence changes meaning when reproduced, cropped, retouched, captioned, and reinterpreted decades later. In this case, the photograph is better evidence for how the event became mythologised than for what was physically present in the sky.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kIbBCIrorYY" title="The Alien Threat Behind the Battle of LA | History&#x27;s Greatest Mysteries (S5)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kIbBCIrorYY" target="_blank" rel="noopener noreferrer">The Alien Threat Behind the Battle of LA | History&#x27;s Greatest Mysteries (S5)</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 165.5K &middot; Uploaded: March 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kIbBCIrorYY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kIbBCIrorYY">Open on YouTube</a></p></div></div></div>
 
@@ -820,7 +815,6 @@ The case is best assessed by separating four claims that are often blurred toget
 
 **An extraterrestrial craft was present.** This remains a popular folklore claim, but it lacks comparable evidential support. It relies heavily on ambiguous witness reports and the famous retouched searchlight photograph, neither of which establishes a structured non-human craft. The photo’s publication history actively weakens its value as primary visual evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la me fw archives 1942 battle la 20170221 story</span><span class="citation-popover-snippet">Los Angeles TimesFrom the Archives: The 1942 Battle of L.A. - Los Angeles Times...</span></span></span>
 
-
 <img src="{{ "/assets/images/Battle_of_Los_Angele_969c9e-Illustration-3-dark.svg" | relative_url }}" alt="Battle of Los Angeles 1942 illustration 3" data-theme-src-dark="{{ "/assets/images/Battle_of_Los_Angele_969c9e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Battle_of_Los_Angele_969c9e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case reveals about wartime Los Angeles
 
@@ -832,7 +826,6 @@ That climate shaped reactions after the raid. The Los Angeles Times archive note
 
 The National Archives’ guide to Office of Civilian Defense records also helps place the episode within a wider infrastructure of wartime preparedness: air-raid protection, blackout practice, communications, wardens, camouflage, emergency services, and regional defence administration were not marginal activities but organised parts of the home-front state. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/milestone-documents/executive-order-9066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">executive order 9066</span><span class="citation-popover-snippet">executive order 9066</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mbsU-pe2NVo" title="The UnXplained: The FORGOTTEN Battle of Los Angeles in WWII (Season 6) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mbsU-pe2NVo" target="_blank" rel="noopener noreferrer">The UnXplained: The FORGOTTEN Battle of Los Angeles in WWII (Season 6) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 89.9K &middot; Uploaded: January 2024 &middot; Length: 4 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mbsU-pe2NVo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mbsU-pe2NVo">Open on YouTube</a></p></div></div></div>
 
 ## Bottom line
@@ -842,44 +835,86 @@ The most credible conclusion is that the Battle of Los Angeles was a real false 
 Its endurance as a UFO case depends less on a strong chain of physical evidence than on ambiguity: a dramatic night, inconsistent reports, official embarrassment, and an arresting photograph whose retouched form invited later reinterpretation. Properly understood, the case is most valuable not as proof of a hidden craft, but as a cautionary study in how extraordinary narratives can grow from ordinary stimuli under extraordinary pressure.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened Over Los Angeles?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened Over Los Angeles?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO folklore guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+folklore+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Analyzes collective delusions, war nerves, and how optical patterns in dark skies trigger self-reinforcing panic loops.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=California+Warplanes+by+Harold+Skaarup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open California Warplanes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gfQllbVmng0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for California Warplanes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=California+Warplanes+by+Harold+Skaarup&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="California Warplanes">California Warplanes</a>
+        </h4>
+        <p class="fr-book-author">By Harold Skaarup</p>
+        
+        <p class="fr-book-desc">Details the West Coast air defense commands, anti-aircraft battery placement, and wartime sirens active around Los Angeles in 1942.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=California+Warplanes+by+Harold+Skaarup&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Devotes significant study to the Battle of LA, tracking how a false air raid transformed into a modern legend.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Purpose+Based+Retirement&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Purpose Based Retirement on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Purpose+Based+Retirement&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purpose Based Retirement">Purpose Based Retirement</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+        
+        <p class="fr-book-desc">Contains the complete official investigation, anti-aircraft logs, and radar data evaluations for the night of February 25.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Purpose+Based+Retirement&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=California+Warplanes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">California Warplanes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -916,15 +951,15 @@ Its endurance as a UFO case depends less on a strong chain of physical evidence 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large Framed WWII Allied Propaganda Poster – Henry Koerner – 127 x 90 cm"><img src="{{ '/assets/images/marketplace-covers/e4d89fa55ff9b59e543e.jpg' | relative_url }}" alt="Listing image for Large Framed WWII Allied Propaganda Poster – Henry Koerner – 127 x 90 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large Framed WWII Allied Propaganda Poster – Henry Koerner – 127 x 90 cm</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for WWII poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: WWII poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -932,15 +967,15 @@ Its endurance as a UFO case depends less on a strong chain of physical evidence 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WB17 Vintage WW2 Fine Work Canal Workers Carry On British WWII War Poster A4"><img src="{{ '/assets/images/marketplace-covers/55b1411129a34cefb8f9.jpg' | relative_url }}" alt="Listing image for WB17 Vintage WW2 Fine Work Canal Workers Carry On British WWII War Poster A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">WB17 Vintage WW2 Fine Work Canal Workers Carry On British WWII War Poster A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for WWII poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: WWII poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -948,31 +983,15 @@ Its endurance as a UFO case depends less on a strong chain of physical evidence 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage WWII Poster Orbis Publishing Print LETS GIVE HIM ENOUGH AND ON TIME 70s"><img src="{{ '/assets/images/marketplace-covers/93c310d16a6e2ba0e186.jpg' | relative_url }}" alt="Listing image for Vintage WWII Poster Orbis Publishing Print LETS GIVE HIM ENOUGH AND ON TIME 70s" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage WWII Poster Orbis Publishing Print LETS GIVE HIM ENOUGH AND ON TIME 70s</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for WWII poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: WWII poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -980,7 +999,7 @@ Its endurance as a UFO case depends less on a strong chain of physical evidence 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="battle-of-los-angeles-1942-what-really-happened-over-los-angeles-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1196,219 +1215,219 @@ Its endurance as a UFO case depends less on a strong chain of physical evidence 
 1. <a id="endnote-1"></a>
    Source: sfmuseum.org  
    Title: The Battle of Los Angeles  
-   Link: [https://sfmuseum.org/hist9/aaf2.html](https://sfmuseum.org/hist9/aaf2.html)  
+   Link: <a href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow">https://sfmuseum.org/hist9/aaf2.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: militarymuseum.org  
    Title: California in World War II: The Shelling of Ellwood  
-   Link: [https://www.militarymuseum.org/Ellwood.html](https://www.militarymuseum.org/Ellwood.html)  
+   Link: <a href="https://www.militarymuseum.org/Ellwood.html" target="_blank" rel="noopener noreferrer nofollow">https://www.militarymuseum.org/Ellwood.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: ibiblio.org  
    Title: The Army Air Forces in World War II Volume VI: Men and Planes: Chapter 3  
-   Link: [https://www.ibiblio.org/hyperwar/AAF/VI/AAF-VI-3.html](https://www.ibiblio.org/hyperwar/AAF/VI/AAF-VI-3.html)  
+   Link: <a href="https://www.ibiblio.org/hyperwar/AAF/VI/AAF-VI-3.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/hyperwar/AAF/VI/AAF-VI-3.html</a>  
 
 4. <a id="endnote-4"></a>
    Source: ladailymirror.com  
    Title: another good story ruined saucers over la part 7  
-   Link: [https://ladailymirror.com/2011/03/13/another-good-story-ruined-saucers-over-la-part-7/](https://ladailymirror.com/2011/03/13/another-good-story-ruined-saucers-over-la-part-7/)  
+   Link: <a href="https://ladailymirror.com/2011/03/13/another-good-story-ruined-saucers-over-la-part-7/" target="_blank" rel="noopener noreferrer nofollow">https://ladailymirror.com/2011/03/13/another-good-story-ruined-saucers-over-la-part-7/</a>  
 
 5. <a id="endnote-5"></a>
    Source: archives.gov  
    Title: executive order 9066  
-   Link: [https://www.archives.gov/milestone-documents/executive-order-9066](https://www.archives.gov/milestone-documents/executive-order-9066)  
+   Link: <a href="https://www.archives.gov/milestone-documents/executive-order-9066" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/milestone-documents/executive-order-9066</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Records of the office of Civilian Defense [OCD]  
-   Link: [https://www.archives.gov/research/guide-fed-records/groups/171.html](https://www.archives.gov/research/guide-fed-records/groups/171.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/groups/171.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/171.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/m/magic-background-pearl-harbor-vol4.html](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/m/magic-background-pearl-harbor-vol4.html)  
+   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/m/magic-background-pearl-harbor-vol4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/m/magic-background-pearl-harbor-vol4.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/b/beans-bullets-black-oil.html](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/b/beans-bullets-black-oil.html)  
+   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/b/beans-bullets-black-oil.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/b/beans-bullets-black-oil.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/n/navy-depart-communiques-1-300-pertinent-press-releases.html](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/n/navy-depart-communiques-1-300-pertinent-press-releases.html)  
+   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/n/navy-depart-communiques-1-300-pertinent-press-releases.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/n/navy-depart-communiques-1-300-pertinent-press-releases.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/pearl-harbor-why-how.html](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/pearl-harbor-why-how.html)  
+   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/pearl-harbor-why-how.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/pearl-harbor-why-how.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: history.navy.mil  
    Title: H Gram 010  
-   Link: [https://www.history.navy.mil/content/dam/nhhc/about-us/leadership/hgram_pdfs/H-Gram_010.pdf](https://www.history.navy.mil/content/dam/nhhc/about-us/leadership/hgram_pdfs/H-Gram_010.pdf)  
+   Link: <a href="https://www.history.navy.mil/content/dam/nhhc/about-us/leadership/hgram_pdfs/H-Gram_010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/dam/nhhc/about-us/leadership/hgram_pdfs/H-Gram_010.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: history.navy.mil  
    Title: mil Pentagon 9/11  
-   Link: [https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/pentagon-9-11-footnotes.html](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/pentagon-9-11-footnotes.html)  
+   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/pentagon-9-11-footnotes.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/pentagon-9-11-footnotes.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/content/dam/museums/Seabee/Cruisebooks/wwiicruisebooks/ncb-cruisebooks/5%20%20NCB.pdf](https://www.history.navy.mil/content/dam/museums/Seabee/Cruisebooks/wwiicruisebooks/ncb-cruisebooks/5%20%20NCB.pdf)  
+   Link: <a href="https://www.history.navy.mil/content/dam/museums/Seabee/Cruisebooks/wwiicruisebooks/ncb-cruisebooks/5%20%20NCB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/dam/museums/Seabee/Cruisebooks/wwiicruisebooks/ncb-cruisebooks/5%20%20NCB.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/content/dam/nhhc/research/library/online-reading-room/war-and-conflict/wwii/pearl-harbor/pearlharborwallin/d767_92_w3.pdf](https://www.history.navy.mil/content/dam/nhhc/research/library/online-reading-room/war-and-conflict/wwii/pearl-harbor/pearlharborwallin/d767_92_w3.pdf)  
+   Link: <a href="https://www.history.navy.mil/content/dam/nhhc/research/library/online-reading-room/war-and-conflict/wwii/pearl-harbor/pearlharborwallin/d767_92_w3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/dam/nhhc/research/library/online-reading-room/war-and-conflict/wwii/pearl-harbor/pearlharborwallin/d767_92_w3.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: history.navy.mil  
    Title: mil4th SPECIAL  
-   Link: [https://www.history.navy.mil/content/dam/museums/Seabee/Cruisebooks/wwiicruisebooks/specials-cruisebooks/4%20%20Spec.%20%20NCB%20%201943-44%2C%201944-46.pdf](https://www.history.navy.mil/content/dam/museums/Seabee/Cruisebooks/wwiicruisebooks/specials-cruisebooks/4%20%20Spec.%20%20NCB%20%201943-44%2C%201944-46.pdf)  
+   Link: <a href="https://www.history.navy.mil/content/dam/museums/Seabee/Cruisebooks/wwiicruisebooks/specials-cruisebooks/4%20%20Spec.%20%20NCB%20%201943-44%2C%201944-46.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/dam/museums/Seabee/Cruisebooks/wwiicruisebooks/specials-cruisebooks/4%20%20Spec.%20%20NCB%20%201943-44%2C%201944-46.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: history.navy.mil  
    Title: mil Best Beloved  
-   Link: [https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/Best%20Beloved%20508%20edition.pdf](https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/Best%20Beloved%20508%20edition.pdf)  
+   Link: <a href="https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/Best%20Beloved%20508%20edition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/dam/nhhc/research/publications/publication-508-pdf/Best%20Beloved%20508%20edition.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-6.html](https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-6.html)  
+   Link: <a href="https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-010/h-010-6.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/guide-fed-records/groups/338.html](https://www.archives.gov/research/guide-fed-records/groups/338.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/groups/338.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/groups/338.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: archives.gov  
    Title: hoover dam  
-   Link: [https://www.archives.gov/publications/prologue/2003/summer/hoover-dam](https://www.archives.gov/publications/prologue/2003/summer/hoover-dam)  
+   Link: <a href="https://www.archives.gov/publications/prologue/2003/summer/hoover-dam" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/publications/prologue/2003/summer/hoover-dam</a>  
 
 20. <a id="endnote-20"></a>
    Source: archives.gov  
    Title: holdings guide 06  
-   Link: [https://www.archives.gov/san-francisco/finding-aids/holdings-guide-06.html](https://www.archives.gov/san-francisco/finding-aids/holdings-guide-06.html)  
+   Link: <a href="https://www.archives.gov/san-francisco/finding-aids/holdings-guide-06.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/san-francisco/finding-aids/holdings-guide-06.html</a>  
 
 21. <a id="endnote-21"></a>
    Source: archives.gov  
    Title: part 1 notes  
-   Link: [https://www.archives.gov/research/holocaust/finding-aid/military/part-1-notes.html](https://www.archives.gov/research/holocaust/finding-aid/military/part-1-notes.html)  
+   Link: <a href="https://www.archives.gov/research/holocaust/finding-aid/military/part-1-notes.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/holocaust/finding-aid/military/part-1-notes.html</a>  
 
 22. <a id="endnote-22"></a>
    Source: archives.gov  
    Title: directors microfilm roll list  
-   Link: [https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf](https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf)  
+   Link: <a href="https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/iwg/declassified-records/rg-226-oss/directors-microfilm-roll-list.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: archives.gov  
    Title: chapter 2  
-   Link: [https://www.archives.gov/files/research/japanese-americans/justice-denied/chapter-2.pdf](https://www.archives.gov/files/research/japanese-americans/justice-denied/chapter-2.pdf)  
+   Link: <a href="https://www.archives.gov/files/research/japanese-americans/justice-denied/chapter-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/research/japanese-americans/justice-denied/chapter-2.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/files/publications/ref-info-papers/rip105.pdf](https://www.archives.gov/files/publications/ref-info-papers/rip105.pdf)  
+   Link: <a href="https://www.archives.gov/files/publications/ref-info-papers/rip105.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/publications/ref-info-papers/rip105.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: archives.gov  
    Title: Federal Records Guide: Alphabetical Index  
-   Link: [https://www.archives.gov/research/guide-fed-records/index-alpha/a.html](https://www.archives.gov/research/guide-fed-records/index-alpha/a.html)  
+   Link: <a href="https://www.archives.gov/research/guide-fed-records/index-alpha/a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/guide-fed-records/index-alpha/a.html</a>  
 
 26. <a id="endnote-26"></a>
    Source: us.shop.battle.net  
-   Link: [https://us.shop.battle.net/en-us](https://us.shop.battle.net/en-us)  
+   Link: <a href="https://us.shop.battle.net/en-us" target="_blank" rel="noopener noreferrer nofollow">https://us.shop.battle.net/en-us</a>  
 
 27. <a id="endnote-27"></a>
    Source: history.com  
    Title: world war iis bizarre battle of los angeles  
-   Link: [https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles](https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles)  
+   Link: <a href="https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles</a>  
 
 28. <a id="endnote-28"></a>
    Source: military.com  
-   Link: [https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html](https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html)  
+   Link: <a href="https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html</a>  
 
 29. <a id="endnote-29"></a>
    Source: ladailymirror.com  
    Title: another good story ruined saucers over la part 1  
-   Link: [https://ladailymirror.com/2011/03/07/another-good-story-ruined-saucers-over-la-part-1/](https://ladailymirror.com/2011/03/07/another-good-story-ruined-saucers-over-la-part-1/)  
+   Link: <a href="https://ladailymirror.com/2011/03/07/another-good-story-ruined-saucers-over-la-part-1/" target="_blank" rel="noopener noreferrer nofollow">https://ladailymirror.com/2011/03/07/another-good-story-ruined-saucers-over-la-part-1/</a>  
 
 30. <a id="endnote-30"></a>
    Source: ladailymirror.com  
-   Link: [https://ladailymirror.com/](https://ladailymirror.com/)  
+   Link: <a href="https://ladailymirror.com/" target="_blank" rel="noopener noreferrer nofollow">https://ladailymirror.com/</a>  
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: The Battle of Los Angeles  
-   Link: [https://www.youtube.com/watch?v=6oY8HIWBS-Y](https://www.youtube.com/watch?v=6oY8HIWBS-Y)  
+   Link: <a href="https://www.youtube.com/watch?v=6oY8HIWBS-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6oY8HIWBS-Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Threat Behind the Battle of LA | History&#x27;s Greatest Mysteries (S5)...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: latimes.com  
    Title: la me fw archives 1942 battle la 20170221 story  
-   Link: [https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html](https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html)  
+   Link: <a href="https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles TimesFrom the Archives: The 1942 Battle of L.A. - Los Angeles Times...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: smithsonianmag.com  
-   Link: [https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/](https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/)  
+   Link: <a href="https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/</a>  
 
 34. <a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Battle of Los Angeles  
-   Link: [https://en.wikipedia.org/wiki/Battle_of_Los_Angeles](https://en.wikipedia.org/wiki/Battle_of_Los_Angeles)  
+   Link: <a href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Battle_of_Los_Angeles</a>  
 
 35. <a id="endnote-35"></a>
    Source: historyanswers.co.uk  
    Title: the battle of los angeles  
-   Link: [https://www.historyanswers.co.uk/history-of-war/the-battle-of-los-angeles/](https://www.historyanswers.co.uk/history-of-war/the-battle-of-los-angeles/)  
+   Link: <a href="https://www.historyanswers.co.uk/history-of-war/the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyanswers.co.uk/history-of-war/the-battle-of-los-angeles/</a>  
 
 36. <a id="endnote-36"></a>
    Source: blog.eastmanleather.com  
    Title: the battle of los angeles  
-   Link: [https://blog.eastmanleather.com/view-post/the-battle-of-los-angeles](https://blog.eastmanleather.com/view-post/the-battle-of-los-angeles)  
+   Link: <a href="https://blog.eastmanleather.com/view-post/the-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow">https://blog.eastmanleather.com/view-post/the-battle-of-los-angeles</a>  
 
 37. <a id="endnote-37"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/history/battle-los-angeles](https://www.ebsco.com/research-starters/history/battle-los-angeles)  
+   Link: <a href="https://www.ebsco.com/research-starters/history/battle-los-angeles" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/battle-los-angeles</a>  
 
 ### Additional References
 
 38. <a id="endnote-38"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=mbsU-pe2NVo](https://www.youtube.com/watch?v=mbsU-pe2NVo)  
+   Link: <a href="https://www.youtube.com/watch?v=mbsU-pe2NVo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mbsU-pe2NVo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Battle of Los Angeles | Full Documentary...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: youtube.com  
    Title: The Alien Threat Behind the Battle of LA | History's Greatest Mysteries (S5)  
-   Link: [https://www.youtube.com/watch?v=kIbBCIrorYY](https://www.youtube.com/watch?v=kIbBCIrorYY)  
+   Link: <a href="https://www.youtube.com/watch?v=kIbBCIrorYY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kIbBCIrorYY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wartime Paranoia and the Battle of Los Angeles...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/chroniclingamerica/newspapers/](https://www.loc.gov/chroniclingamerica/newspapers/)  
+   Link: <a href="https://www.loc.gov/chroniclingamerica/newspapers/" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/chroniclingamerica/newspapers/</a>  
 
 41. <a id="endnote-41"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/resource/sn82015425/1942-10-04/ed-1/?st=text](https://www.loc.gov/resource/sn82015425/1942-10-04/ed-1/?st=text)  
+   Link: <a href="https://www.loc.gov/resource/sn82015425/1942-10-04/ed-1/?st=text" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/resource/sn82015425/1942-10-04/ed-1/?st=text</a>  
 
 42. <a id="endnote-42"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/resource/sn92070146/1942-02-04/ed-1/?st=text](https://www.loc.gov/resource/sn92070146/1942-02-04/ed-1/?st=text)  
+   Link: <a href="https://www.loc.gov/resource/sn92070146/1942-02-04/ed-1/?st=text" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/resource/sn92070146/1942-02-04/ed-1/?st=text</a>  
 
 43. <a id="endnote-43"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/resource/sn83045462/1942-09-29/ed-1/?dl=page&q=ferdinand+r%C3%B6ssler&sp=2&st=text](https://www.loc.gov/resource/sn83045462/1942-09-29/ed-1/?dl=page&q=ferdinand+r%C3%B6ssler&sp=2&st=text)  
+   Link: <a href="https://www.loc.gov/resource/sn83045462/1942-09-29/ed-1/?dl=page&amp;q=ferdinand+r%C3%B6ssler&amp;sp=2&amp;st=text" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/resource/sn83045462/1942-09-29/ed-1/?dl=page&amp;q=ferdinand+r%C3%B6ssler&amp;sp=2&amp;st=text</a>  
 
 44. <a id="endnote-44"></a>
    Source: loc.gov  
-   Link: [https://www.loc.gov/resource/sn83045462/1942-09-26/ed-1/?dl=page&q=ferdinand+r%C3%B6ssler&sp=5&st=text](https://www.loc.gov/resource/sn83045462/1942-09-26/ed-1/?dl=page&q=ferdinand+r%C3%B6ssler&sp=5&st=text)  
+   Link: <a href="https://www.loc.gov/resource/sn83045462/1942-09-26/ed-1/?dl=page&amp;q=ferdinand+r%C3%B6ssler&amp;sp=5&amp;st=text" target="_blank" rel="noopener noreferrer nofollow">https://www.loc.gov/resource/sn83045462/1942-09-26/ed-1/?dl=page&amp;q=ferdinand+r%C3%B6ssler&amp;sp=5&amp;st=text</a>  
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
    Title: Wartime Paranoia and the Battle of Los Angeles  
-   Link: [https://www.youtube.com/watch?v=QrxBg5L_nPY](https://www.youtube.com/watch?v=QrxBg5L_nPY)  
+   Link: <a href="https://www.youtube.com/watch?v=QrxBg5L_nPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QrxBg5L_nPY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UnXplained: The FORGOTTEN Battle of Los Angeles in WWII (Season 6) | History...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: cnrs-scrn.org  
-   Link: [https://www.cnrs-scrn.org/northern_mariner/vol10/tnm_10_1_73-139.pdf](https://www.cnrs-scrn.org/northern_mariner/vol10/tnm_10_1_73-139.pdf)  
+   Link: <a href="https://www.cnrs-scrn.org/northern_mariner/vol10/tnm_10_1_73-139.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnrs-scrn.org/northern_mariner/vol10/tnm_10_1_73-139.pdf</a>  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RATM/posts/the-battle-of-los-angeles-26-years-ago-today/1391624455657017/](https://www.facebook.com/RATM/posts/the-battle-of-los-angeles-26-years-ago-today/1391624455657017/)  
+   Link: <a href="https://www.facebook.com/RATM/posts/the-battle-of-los-angeles-26-years-ago-today/1391624455657017/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RATM/posts/the-battle-of-los-angeles-26-years-ago-today/1391624455657017/</a>

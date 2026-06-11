@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /andreasson-abduction-e8bccf-index/
 description: Focused pages that expand on Andreasson abduction 1967.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Andreasson_abduction_e8bccf
 parent_title: Andreasson abduction 1967

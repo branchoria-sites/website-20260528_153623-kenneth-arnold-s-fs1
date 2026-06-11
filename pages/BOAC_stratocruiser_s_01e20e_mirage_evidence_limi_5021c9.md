@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /boac-stratocruiser-sighting-1954/
 nav_short_title: Mirage Theory
 title: Could a Mirage Explain the Objects?
-title_full: Could a Mirage Explain the Objects? | BOAC Sighting
+title_full: Could a Mirage Explain the Objects?
 display_title_short: Mirage Theory
 display_title: Mirage Theory
 heading_title: Could a Mirage Explain the Objects?
@@ -233,7 +233,7 @@ next_link:
   permalink: /timeline-49c35d/
   short_title: Timeline
   heading_title: How the BOAC Sighting Unfolded
-date: '2026-06-08 23:26:49 '
+date: '2026-06-11 13:16:33 '
 header:
   og_image: /assets/images/BOAC_stratocruiser_s_01e20e_mirage_evidence_limi_5021c9-Illustration-1-social.jpg
   preview_image: /assets/images/BOAC_stratocruiser_s_01e20e_mirage_evidence_limi_5021c9-Illustration-1.webp
@@ -242,20 +242,18 @@ image: /assets/images/BOAC_stratocruiser_s_01e20e_mirage_evidence_limi_5021c9-Il
 
 ## Introduction
 
-The strongest sceptical explanation for the 1954 [BOAC Stratocruiser]({{ 'boac-stratocruiser-sighting-1954/' | relative_url }}) sighting is not fraud, hallucination, or a conventional aircraft. Instead, later investigators increasingly focused on an unusual atmospheric mirage: a rare optical effect caused by temperature inversions and long-distance refraction near the horizon. The idea gained prominence because the reported objects behaved in ways that are sometimes associated with superior mirages or “Fata Morgana” effects, especially over cold oceanic or sub-Arctic environments. Yet the evidence for this explanation is incomplete. No surviving meteorological reconstruction can prove that the necessary atmospheric ducting existed at the exact place and time of the sighting, and the lack of radar confirmation leaves the case suspended between a plausible natural explanation and an unresolved aviation mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caelestia.be/BOAC.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[caelestia.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-snippet">CAELESTIA The BOAC Labrador sightingSeveral theories have been advanced. Were these objects spaceships, a giant flock of migrating starli...</span></span></span> [3Academia 3Wikipedia]
-
+The strongest sceptical explanation for the 1954 BOAC Stratocruiser sighting is not fraud, hallucination, or a conventional aircraft. Instead, later investigators increasingly focused on an unusual atmospheric mirage: a rare optical effect caused by temperature inversions and long-distance refraction near the horizon. The idea gained prominence because the reported objects behaved in ways that are sometimes associated with superior mirages or “Fata Morgana” effects, especially over cold oceanic or sub-Arctic environments. Yet the evidence for this explanation is incomplete. No surviving meteorological reconstruction can prove that the necessary atmospheric ducting existed at the exact place and time of the sighting, and the lack of radar confirmation leaves the case suspended between a plausible natural explanation and an unresolved aviation mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caelestia.be/BOAC.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[caelestia.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-snippet">CAELESTIA The BOAC Labrador sightingSeveral theories have been advanced. Were these objects spaceships, a giant flock of migrating starli...</span></span></span> [3Academia 3Wikipedia]
 
 <img src="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_mirage_evidence_limi_5021c9-Illustration-1-dark.svg" | relative_url }}" alt="Mirage Theory illustration 1" data-theme-src-dark="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_mirage_evidence_limi_5021c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_mirage_evidence_limi_5021c9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Could a rare atmospheric mirage produce the reported shapes?
 
-The mirage theory became influential largely because the BOAC crew did not describe a simple metallic disc or a sharply defined craft. Captain James Howard’s descriptions shifted over time: the main object sometimes resembled a dark blob, sometimes an inverted pear shape, and the smaller objects appeared to alter position relative to it. Such unstable geometry is consistent with some superior mirage phenomena, where distant objects become distorted, stretched, stacked, inverted, or apparently multiplied by layers of refracting air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia2 National Aviation Reporting Center on Anomalous...Study of an Unusual Phenomenon Observed by BOAC Aircrew over Labrador, Newfo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">is completely unrecognizable. A Fata...Read more...</span></span></span>
+The mirage theory became influential largely because the BOAC crew did not describe a simple metallic disc or a sharply defined craft. Captain James Howard’s descriptions shifted over time: the main object sometimes resembled a dark blob, sometimes an inverted pear shape, and the smaller objects appeared to alter position relative to it. Such unstable geometry is consistent with some superior mirage phenomena, where distant objects become distorted, stretched, stacked, inverted, or apparently multiplied by layers of refracting air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">2 National Aviation Reporting Center on Anomalous...Study of an Unusual Phenomenon Observed by BOAC Aircrew over Labrador, Newfo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">is completely unrecognizable. A Fata...Read more...</span></span></span>
 
 A superior mirage occurs when cold dense air lies below warmer air, creating a temperature inversion that bends light downward over long distances. Under stronger conditions, an atmospheric duct can form, allowing distant lights, cloud tops, ships, coastlines, or celestial objects to appear elevated far above the horizon and severely distorted. In extreme forms, known as Fata Morgana mirages, the apparent objects can rapidly change shape and even appear to hover or pace an observer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atoptics.org.uk/fz150.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[2atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-title">Strange Ships, Superior Mirages</span><span class="citation-popover-snippet">The lower picture has parts of a third upright ship above the inverted one! These are &#x27;superior&#x27; mirages -...Read more...</span></span></span>
 
 The Labrador and Newfoundland region is one of the environments where such effects are physically plausible. Cold ocean surfaces, strong inversion layers, and low-angle sunlight near sunset can create complex refractive conditions. Martin Shough’s later analysis argued that the BOAC objects may have been distant cloud structures or other horizon features transformed by unusual refraction at high altitude. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/66678850/Report_on_aerial_phenomena_observed_near_the_Channel_Islands_UK_April_23_2007_Report_on_aerial_phenomena_observed_near_the_Channel_Islands_UK_April_23_2007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">http... If real this would rule out a simple mirage theory. This is not a...Read more...</span></span></span>
 
-The timing also matters. The sighting occurred close to sunset, with the sun low on the port side of the aircraft. Mirage phenomena are often enhanced under low solar angles because lighting contrast becomes exaggerated and distant features can appear unusually dark or sharply outlined against bright sky backgrounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Academia2 National Aviation Reporting Center on Anomalous...Study of an Unusual Phenomenon Observed by BOAC Aircrew over Labrador, Newfo...</span></span></span>
-
+The timing also matters. The sighting occurred close to sunset, with the sun low on the port side of the aircraft. Mirage phenomena are often enhanced under low solar angles because lighting contrast becomes exaggerated and distant features can appear unusually dark or sharply outlined against bright sky backgrounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">2 National Aviation Reporting Center on Anomalous...Study of an Unusual Phenomenon Observed by BOAC Aircrew over Labrador, Newfo...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Uy9adgmxQ_A" title="What is Superior Mirage? Why the Ship looks Floating?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Uy9adgmxQ_A" target="_blank" rel="noopener noreferrer">What is Superior Mirage? Why the Ship looks Floating?</a></p><p class="youtube-embed-meta">Channel: LoudScope &middot; Views: 143.7K &middot; Uploaded: March 2021 &middot; Length: 2 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Uy9adgmxQ_A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Uy9adgmxQ_A">Open on YouTube</a></p></div></div></div>
 
@@ -274,7 +272,6 @@ The committee also considered the possibility that the [witnesses]({{ 'witnesses
 
 This was a crucial distinction. The BOAC witnesses were widely regarded as credible and experienced. The mirage theory effectively argued that reliable observers can still misinterpret extraordinary atmospheric conditions, especially during prolonged observations over featureless terrain or ocean. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/66678850/Report_on_aerial_phenomena_observed_near_the_Channel_Islands_UK_April_23_2007_Report_on_aerial_phenomena_observed_near_the_Channel_Islands_UK_April_23_2007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">http... If real this would rule out a simple mirage theory. This is not a...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_mirage_evidence_limi_5021c9-Illustration-2-dark.svg" | relative_url }}" alt="Mirage Theory illustration 2" data-theme-src-dark="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_mirage_evidence_limi_5021c9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_mirage_evidence_limi_5021c9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The radar problem never fully disappeared
 
@@ -290,9 +287,7 @@ The surviving records are incomplete, and there is no detailed technical reconst
 
 The same limitation affects the mirage theory itself. If the objects were refracted images of distant physical features, investigators would ideally want detailed meteorological records, upper-air soundings, and exact atmospheric profiles from the region at the relevant time. Much of that material either was never preserved or has not survived in accessible form. The optical explanation therefore remains partly inferential rather than experimentally demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/66678850/Report_on_aerial_phenomena_observed_near_the_Channel_Islands_UK_April_23_2007_Report_on_aerial_phenomena_observed_near_the_Channel_Islands_UK_April_23_2007" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">http... If real this would rule out a simple mirage theory. This is not a...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kI3_wWQAyyk" title="1954 USA: PROGRESS: DEVELOPMENTS IN THE AIR:Giant stratocruiser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kI3_wWQAyyk" target="_blank" rel="noopener noreferrer">1954 USA: PROGRESS: DEVELOPMENTS IN THE AIR:Giant stratocruiser</a></p><p class="youtube-embed-meta">Channel: Reuters Connect &middot; Views: 3 &middot; Uploaded: April 2026 &middot; Length: 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kI3_wWQAyyk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kI3_wWQAyyk">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9u5UOHMyd4c" title="B. O. A. C. Stratocruiser (1951)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9u5UOHMyd4c" target="_blank" rel="noopener noreferrer">B. O. A. C. Stratocruiser (1951)</a></p><p class="youtube-embed-meta">Channel: British Pathé &middot; Views: 8.5K &middot; Uploaded: April 2014 &middot; Length: 1 minute 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9u5UOHMyd4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9u5UOHMyd4c">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +298,6 @@ The mirage theory survives because it explains more of the reported behaviour th
 Simple astronomical misidentifications struggle to explain the multiple objects and changing forms. Conventional aircraft explanations face problems with the long duration, apparent station-keeping, and lack of confirmed radar contact. Balloons do not easily account for the visual transformations described by the crew. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caelestia.be/BOAC.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caelestia.be">[caelestia.be]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caelestia.be</span><span class="citation-popover-snippet">CAELESTIA The BOAC Labrador sightingSeveral theories have been advanced. Were these objects spaceships, a giant flock of migrating starli...</span></span></span>
 
 A complex superior mirage, by contrast, can theoretically produce:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,48 +315,89 @@ That rarity matters historically. The BOAC sighting is not remembered because in
 
 The result is a case that sits in an uncomfortable middle ground. The available evidence is too weak to establish extraordinary craft, but also too incomplete to demonstrate decisively that a mirage occurred. For many researchers, that unresolved balance is precisely what has kept the BOAC Stratocruiser sighting alive in UFO literature for decades.
 
-
 <img src="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_mirage_evidence_limi_5021c9-Illustration-3-dark.svg" | relative_url }}" alt="Mirage Theory illustration 3" data-theme-src-dark="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_mirage_evidence_limi_5021c9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/BOAC_stratocruiser_s_01e20e_mirage_evidence_limi_5021c9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Could a Mirage Explain the Objects?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Could a Mirage Explain the Objects?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">BOAC Stratocruiser guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=BOAC+Stratocruiser+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Color+and+Light+in+Nature+by+David+K.+Lynch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Color and Light in Nature on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4Abp5FdhskAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Color and Light in Nature" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Color+and+Light+in+Nature+by+David+K.+Lynch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Color and Light in Nature">Color and Light in Nature</a>
+        </h4>
+        <p class="fr-book-author">By David K. Lynch, William Charles Livingston</p>
+        
+        <p class="fr-book-desc">Explains the exact physics of superior mirages, &#x27;Fata Morgana&#x27; transformations, atmospheric ducting, and how light bends over sub-Arctic...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Color+and+Light+in+Nature+by+David+K.+Lynch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Superior Mirage guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Superior+Mirage+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Addresses how a total lack of radar data combined with fluctuating, geometric shapes points to environmental rather than mechanical causes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">University of Colorado guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=University+of+Colorado+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Logan&#x27;s Run on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Logan&#x27;s Run">Logan&#x27;s Run</a>
+        </h4>
+        <p class="fr-book-author">By William F. Nolan, George Clayton Johnson</p>
+        
+        <p class="fr-book-desc">This specific historical investigation explicitly favored an optical mirage explanation for the 1954 BOAC incident.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Logan%27s+Run+by+William+F.+Nolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anatomy of a Phenomenon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anatomy of a Phenomenon">Anatomy of a Phenomenon</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Presents a balanced history of early pilot cases, highlighting how researchers struggle between natural atmospheric variables and unexpla...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Color+and+Light+in+Nature&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Color and Light in Nature</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Logan%27s+Run&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Logan&#x27;s Run</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -399,15 +434,15 @@ The result is a case that sits in an uncomfortable middle ground. The available 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for New Ray / Hobby Dax United Airlines Boeing Stratocruiser 377 Model Kit New"><img src="{{ '/assets/images/marketplace-covers/cebff4714260ae3b9d54.jpg' | relative_url }}" alt="Listing image for New Ray / Hobby Dax United Airlines Boeing Stratocruiser 377 Model Kit New" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer">New Ray / Hobby Dax United Airlines Boeing Stratocruiser 377 Model Kit New</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Boeing 377 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Boeing 377 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -415,15 +450,15 @@ The result is a case that sits in an uncomfortable middle ground. The available 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dragon Wings 1:400 Boeing 377 Stratocruiser Northwest"><img src="{{ '/assets/images/marketplace-covers/d9d1ec04ce5d3ffb2259.jpg' | relative_url }}" alt="Listing image for Dragon Wings 1:400 Boeing 377 Stratocruiser Northwest" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer">Dragon Wings 1:400 Boeing 377 Stratocruiser Northwest</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Boeing 377 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Boeing 377 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -431,31 +466,15 @@ The result is a case that sits in an uncomfortable middle ground. The available 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boeing 377-SGT Super Guppy Airbus Skylink F-BPPA Desk Model 1/100 AV Airplane"><img src="{{ '/assets/images/marketplace-covers/1bd4677ea33ea333b517.jpg' | relative_url }}" alt="Listing image for Boeing 377-SGT Super Guppy Airbus Skylink F-BPPA Desk Model 1/100 AV Airplane" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer">Boeing 377-SGT Super Guppy Airbus Skylink F-BPPA Desk Model 1/100 AV Airplane</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Boeing 377 model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Boeing 377 model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -463,7 +482,7 @@ The result is a case that sits in an uncomfortable middle ground. The available 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Boeing+377+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Boeing 377 model" data-ebay-reference="mirage-theory-could-a-mirage-explain-the-objects-boac-stratocruiser-sighting-1954-boeing-377-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -678,127 +697,127 @@ The result is a case that sits in an uncomfortable middle ground. The available 
 
 1. <a id="endnote-1"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland](https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia2 National Aviation Reporting Center on Anomalous...Study of an Unusual Phenomenon Observed by BOAC Aircrew over Labrador, Newfo...</p></details>
+   Link: <a href="https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71626867/2_National_Aviation_Reporting_Center_on_Anomalous_Phenomena_www_narcap_org_Study_of_an_Unusual_Phenomenon_Observed_by_BOAC_Aircrew_over_Labrador_Newfoundland</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>2 National Aviation Reporting Center on Anomalous...Study of an Unusual Phenomenon Observed by BOAC Aircrew over Labrador, Newfo...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29](https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>is completely unrecognizable. A Fata...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: atoptics.org.uk  
    Title: Strange Ships, Superior Mirages  
-   Link: [https://www.atoptics.org.uk/fz150.htm](https://www.atoptics.org.uk/fz150.htm)  
+   Link: <a href="https://www.atoptics.org.uk/fz150.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.atoptics.org.uk/fz150.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The lower picture has parts of a third upright ship above the inverted one! These are &#x27;superior&#x27; mirages -...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: caelestia.be  
-   Link: [https://www.caelestia.be/BOAC.html](https://www.caelestia.be/BOAC.html)  
+   Link: <a href="https://www.caelestia.be/BOAC.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caelestia.be/BOAC.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CAELESTIA The BOAC Labrador sightingSeveral theories have been advanced. Were these objects spaceships, a giant flock of migrating starli...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: [https://en.wikipedia.org/wiki/Condon_Committee](https://en.wikipedia.org/wiki/Condon_Committee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 17, 2026 — The Condon Committee was the informal name of the University of Colorado UFO Project, a group funded by the United State...</p></details>
    Published: April 17, 2026  
 
 6. <a id="endnote-6"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/boac.htm](https://www.nicap.org/reports/boac.htm)  
+   Link: <a href="https://www.nicap.org/reports/boac.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/boac.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOAC Case: UFOS Follow British Airliner Over LabradorUnfortunately, Goose Bay had only short range airfield control radar at the time, an...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: dokumen.pub  
    Title: The Outsider's Guide to UFOs Volume 2: What are They?  
-   Link: [https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html](https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html)  
+   Link: <a href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-outsiders-guide-to-ufos-volume-2-what-are-they-0244797315-9780244797317.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Having said all that, the outsider should take a good look at the NARCAP study which is set out on Martin Shough&#x27;s website. In common wit...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/66678850/Report_on_aerial_phenomena_observed_near_the_Channel_Islands_UK_April_23_2007_Report_on_aerial_phenomena_observed_near_the_Channel_Islands_UK_April_23_2007](https://www.academia.edu/66678850/Report_on_aerial_phenomena_observed_near_the_Channel_Islands_UK_April_23_2007_Report_on_aerial_phenomena_observed_near_the_Channel_Islands_UK_April_23_2007)  
+   Link: <a href="https://www.academia.edu/66678850/Report_on_aerial_phenomena_observed_near_the_Channel_Islands_UK_April_23_2007_Report_on_aerial_phenomena_observed_near_the_Channel_Islands_UK_April_23_2007" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/66678850/Report_on_aerial_phenomena_observed_near_the_Channel_Islands_UK_April_23_2007_Report_on_aerial_phenomena_observed_near_the_Channel_Islands_UK_April_23_2007</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>http... If real this would rule out a simple mirage theory. This is not a...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nicap.org  
    Title: 11/30/12 Category 09  
-   Link: [https://www.nicap.org/NSID_DBListingbyCat9.pdf](https://www.nicap.org/NSID_DBListingbyCat9.pdf)  
+   Link: <a href="https://www.nicap.org/NSID_DBListingbyCat9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/NSID_DBListingbyCat9.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The object, showing on ground radar along with the F-94.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: UFO sightings in the United Kingdom  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom](https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_the_United_Kingdom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in the United KingdomThis is a list of notable alleged sightings of unidentified flying objects (UFOs) in the United Kin...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: narcap.org  
    Title: IR 4 DWeinstein NEW 3 21 12  
-   Link: [https://www.narcap.org/s/narcap_IR-4_DWeinstein_NEW_3-21-12.pdf](https://www.narcap.org/s/narcap_IR-4_DWeinstein_NEW_3-21-12.pdf)  
+   Link: <a href="https://www.narcap.org/s/narcap_IR-4_DWeinstein_NEW_3-21-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/s/narcap_IR-4_DWeinstein_NEW_3-21-12.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Aviation Safety and Unidentified Aerial Phenomenaby DF Weinstein · 2012 · Cited by 6 — This report presents the findings of a comprehen...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: narcap.org  
-   Link: [https://www.narcap.org/project-sphere](https://www.narcap.org/project-sphere)  
+   Link: <a href="https://www.narcap.org/project-sphere" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/project-sphere</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ntific Observations and Physical Hypotheses, Danger Evaluation for Aviation and...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: narcap.org  
-   Link: [https://www.narcap.org/technical-reports](https://www.narcap.org/technical-reports)  
+   Link: <a href="https://www.narcap.org/technical-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.org/technical-reports</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>na, UAP, commonly associated with aviation safety incidents.Read more...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...... Goose Bay, Labrador radar blip enlarged as object seemed to wobble. G, V... A, V Decembe...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: studylib.net  
-   Link: [https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns](https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns)  
+   Link: <a href="https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/18714430/catalog-of-project-blue-book-unknowns</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Unknowns CatalogA comprehensive catalog of Project Blue Book UFO unknowns, compiled by Brad Sparks. Database aids i...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/confusing_perspective/comments/1h3hxae/superior_mirage/](https://www.reddit.com/r/confusing_perspective/comments/1h3hxae/superior_mirage/)  
+   Link: <a href="https://www.reddit.com/r/confusing_perspective/comments/1h3hxae/superior_mirage/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/confusing_perspective/comments/1h3hxae/superior_mirage/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Superior mirage: r/confusing_perspectiveA superior mirage is an optical illusion that occurs when light from an object bends downward an...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/hauntedliverpoolbooks/posts/tom-refers-to-an-aeronautical-mystery-in-his-bookstheres-a-hoary-old-report-that/326421642262560/](https://www.facebook.com/hauntedliverpoolbooks/posts/tom-refers-to-an-aeronautical-mystery-in-his-bookstheres-a-hoary-old-report-that/326421642262560/)  
+   Link: <a href="https://www.facebook.com/hauntedliverpoolbooks/posts/tom-refers-to-an-aeronautical-mystery-in-his-bookstheres-a-hoary-old-report-that/326421642262560/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/hauntedliverpoolbooks/posts/tom-refers-to-an-aeronautical-mystery-in-his-bookstheres-a-hoary-old-report-that/326421642262560/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: on september 29 1960 two independent pilots near grand junction colorado one fly  
-   Link: [https://www.facebook.com/61557494554888/posts/on-september-29-1960-two-independent-pilots-near-grand-junction-colorado-one-fly/122240766326249818/](https://www.facebook.com/61557494554888/posts/on-september-29-1960-two-independent-pilots-near-grand-junction-colorado-one-fly/122240766326249818/)  
+   Link: <a href="https://www.facebook.com/61557494554888/posts/on-september-29-1960-two-independent-pilots-near-grand-junction-colorado-one-fly/122240766326249818/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61557494554888/posts/on-september-29-1960-two-independent-pilots-near-grand-junction-colorado-one-fly/122240766326249818/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On September 29, 1960, two independent pilots near...In 2010, ufologist Martin Shough reexamined the case and concluded that the object...</p></details>
    Published: September 29, 1960  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: onthisday 1954 captain james howard sketched a ufo he and his crew had observed  
-   Link: [https://www.facebook.com/BBCArchive/posts/onthisday-1954-captain-james-howard-sketched-a-ufo-he-and-his-crew-had-observed-/833521543687544/](https://www.facebook.com/BBCArchive/posts/onthisday-1954-captain-james-howard-sketched-a-ufo-he-and-his-crew-had-observed-/833521543687544/)  
+   Link: <a href="https://www.facebook.com/BBCArchive/posts/onthisday-1954-captain-james-howard-sketched-a-ufo-he-and-his-crew-had-observed-/833521543687544/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/onthisday-1954-captain-james-howard-sketched-a-ufo-he-and-his-crew-had-observed-/833521543687544/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Captain James Howard sketched a UFO he and his crew...#OnThisDay 1954: Captain James Howard sketched a UFO he and his crew had observed...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Scientific Study Of Unidentified Flying Objects  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon &amp; Walter Sullivan Condon Report, University of Colorado Submission Letter 9/25/2014 UNIVERSITY OF COLORADO PRESIDENT&#x27;S OFFICE BOUL...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/](https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/)  
+   Link: <a href="https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/onthisday-1954-british-airline-pilot-captain-james-howard-and-his-crew-reported-/486815347076731/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Twenty minutes after the objects disappeared, the plane landed safely at...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/592060026020601/posts/922750122951588/](https://www.facebook.com/groups/592060026020601/posts/922750122951588/)  
+   Link: <a href="https://www.facebook.com/groups/592060026020601/posts/922750122951588/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/592060026020601/posts/922750122951588/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>disappeared, the plane landed safely at...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Uy9adgmxQ_A](https://www.youtube.com/watch?v=Uy9adgmxQ_A)  
+   Link: <a href="https://www.youtube.com/watch?v=Uy9adgmxQ_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Uy9adgmxQ_A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sion where cold air lies close to the sea with warmer air above it...</p></details>

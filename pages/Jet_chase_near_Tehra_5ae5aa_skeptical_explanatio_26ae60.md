@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /jet-chase-near-tehran-iran-1976/
 nav_short_title: Doubts
 title: Could Tehran Have Been Misidentified?
-title_full: Could Tehran Have Been Misidentified? | Tehran UFO
+title_full: Could Tehran Have Been Misidentified?
 display_title_short: Doubts
 display_title: Doubts
 heading_title: Could Tehran Have Been Misidentified?
@@ -233,7 +233,7 @@ next_link:
   permalink: /evidence-883793/
   short_title: Evidence
   heading_title: How Strong Is the Tehran Evidence?
-date: '2026-06-08 23:26:53 '
+date: '2026-06-11 13:16:35 '
 header:
   og_image: /assets/images/Jet_chase_near_Tehra_5ae5aa_skeptical_explanatio_26ae60-Illustration-1-social.jpg
   preview_image: /assets/images/Jet_chase_near_Tehra_5ae5aa_skeptical_explanatio_26ae60-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/Jet_chase_near_Tehra_5ae5aa_skeptical_explanatio_26ae60-Il
 ## Introduction
 
 The 1976 Tehran jet chase remains controversial partly because its strongest elements are also its weakest. The case includes military pilots, radar claims, reported electrical failures and an official U.S. intelligence message, yet the surviving public record is thin on raw technical [evidence]({{ 'evidence-883793/' | relative_url }}). No radar tapes, maintenance logs, cockpit recordings or telemetry data have surfaced publicly in a form that allows modern forensic review. That gap has allowed two very different interpretations to persist: one sees the event as a remarkably credible unidentified aerial phenomenon, while sceptics argue it can be explained through a mixture of astronomical misidentification, stressed aircrews, equipment problems and later storytelling inflation. NSA The sceptical position does not usually claim that <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[nsa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">us gov iran case</span><span class="citation-popover-snippet">THE U.S. GOVERNMENT &amp;&quot;THE IRAN&quot;&#x27;CASEThis report forwards information concerning the sighting of an UFO in. Iran on 19 September 1976. A...</span><span class="citation-popover-meta">Published: September 1976</span></span></span>“nothing happened” over Tehran. Instead, it argues that several ordinary problems may have become fused into a dramatic narrative over time. The unresolved issue is whether those ordinary explanations fully account for the pilots’ experiences and the reported radar and weapons anomalies, or whether important details remain genuinely unexplained.
-
 
 <img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_skeptical_explanatio_26ae60-Illustration-1-dark.svg" | relative_url }}" alt="Doubts illustration 1" data-theme-src-dark="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_skeptical_explanatio_26ae60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_skeptical_explanatio_26ae60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Could the pilots have mistaken celestial objects for something extraordinary?
@@ -268,7 +267,6 @@ Sceptics also note that military radar systems of the 1970s were far from immune
 
 Supporters of the case answer that this explanation still leaves multiple correlated observations: visual sightings from the ground, airborne sightings, and at least some reported radar confirmation. But because the underlying technical data are unavailable, neither side can conclusively prove its interpretation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ThOiGn37cyI" title="What Happened in The Skies Above Iran in 1976?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ThOiGn37cyI" target="_blank" rel="noopener noreferrer">What Happened in The Skies Above Iran in 1976?</a></p><p class="youtube-embed-meta">Channel: Top5s &middot; Views: 115.4K &middot; Uploaded: November 2021 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ThOiGn37cyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ThOiGn37cyI">Open on YouTube</a></p></div></div></div>
 
 ## Were the aircraft malfunctions actually unusual?
@@ -283,7 +281,6 @@ The reported missile-launch failure also has more ambiguity than many retellings
 
 At the same time, the coincidence remains striking. The timing of the failures — allegedly occurring during attempted engagement — is one reason the case continues to attract attention. Even sceptical analyses often concede that the pilots genuinely experienced confusing and stressful technical problems during the intercept.
 
-
 <img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_skeptical_explanatio_26ae60-Illustration-2-dark.svg" | relative_url }}" alt="Doubts illustration 2" data-theme-src-dark="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_skeptical_explanatio_26ae60-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_skeptical_explanatio_26ae60-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Meteor showers, atmospheric effects and the “falling object”
 
@@ -294,7 +291,6 @@ Brian Dunning noted that the date of the incident coincided with active meteor s
 The later helicopter search for a supposed landing site also produced ambiguous results rather than hard evidence. Investigators reportedly detected a beeping signal, which later sceptical accounts associated with an emergency locator beacon from a military aircraft rather than a crashed unknown object. According to accounts linked to Lt. Col. Olin Mooy, similar beacons sometimes detached accidentally due to turbulence in mountainous areas north of Tehran. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1976_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 in the United Kingdom</span><span class="citation-popover-snippet">1976 in the United KingdomEvents from the year 1976 in the United Kingdom. This year is notable for the prolonged drought and subseque...</span></span></span>
 
 These interpretations do not completely erase the mystery, but they reduce the need for extraordinary explanations. Under the sceptical reading, the “descending craft” becomes a combination of meteor activity and unrelated beacon signals interpreted through the lens of an already tense pursuit.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bJZ9fIgvk5A" title="TIMELINE 1976 - Everything That Happened In &#x27;76" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bJZ9fIgvk5A" target="_blank" rel="noopener noreferrer">TIMELINE 1976 - Everything That Happened In &#x27;76</a></p><p class="youtube-embed-meta">Channel: Weird History &middot; Views: 1.8M &middot; Uploaded: October 2022 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bJZ9fIgvk5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bJZ9fIgvk5A">Open on YouTube</a></p></div></div></div>
 
@@ -308,14 +304,12 @@ This is a wider problem in historical UFO research. Many famous incidents become
 
 Sceptics therefore warn against treating later dramatic summaries as equivalent to contemporaneous records. Details such as exact manoeuvres, distances, electromagnetic effects and object shapes sometimes differ across sources. Even small inconsistencies matter in a case that depends heavily on witness recollection.
 
-
 <img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_skeptical_explanatio_26ae60-Illustration-3-dark.svg" | relative_url }}" alt="Doubts illustration 3" data-theme-src-dark="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_skeptical_explanatio_26ae60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa_skeptical_explanatio_26ae60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What still cannot be resolved cleanly
 
 The Tehran incident survives sceptical scrutiny better than many UFO stories because there really was an official military response and because trained aircrews unquestionably believed they were chasing something unusual. The unresolved problem is not whether people saw lights in the sky — they clearly did — but whether the combined observations amount to evidence of a truly anomalous craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1976_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1976 in the United Kingdom</span><span class="citation-popover-snippet">1976 in the United KingdomEvents from the year 1976 in the United Kingdom. This year is notable for the prolonged drought and subseque...</span></span></span>
 
 Several major gaps prevent a definitive answer:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -329,49 +323,89 @@ Several major gaps prevent a definitive answer:
 
 That combination explains why the Tehran case occupies an unusual position in UFO debates. It is neither easily dismissed nor cleanly verified. Believers see multiple witnesses, radar claims and military reactions pointing to a genuine unknown. Sceptics see a classic example of how ambiguous observations, technical problems and memory reconstruction can merge into a legendary UFO narrative without requiring extraterrestrial technology.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tdoDpCIpcbM" title="The Tehran UFO Battle in 1976" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tdoDpCIpcbM" target="_blank" rel="noopener noreferrer">The Tehran UFO Battle in 1976</a></p><p class="youtube-embed-meta">Channel: Consciousness &middot; Views: 2.4K &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tdoDpCIpcbM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tdoDpCIpcbM">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Could Tehran Have Been Misidentified?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Could Tehran Have Been Misidentified?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+        </h4>
+        <p class="fr-book-author">By Philip J. Klass</p>
+        
+        <p class="fr-book-desc">Contains Klass&#x27;s specific arguments detailing how a brilliant planet Jupiter low in the sky misled pilots already primed for interception.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Presents the declassified NSA cables detailing the weapons-panel failures, providing a baseline to check against James Oberg&#x27;s theories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Deconstructs how a complete lack of public maintenance logs or raw telemetry data allows unproven myths to persist over half a century.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Details why the U.S. military collected and filed accounts of foreign airspace encounters while lacking direct forensic review capabilities.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -382,29 +416,29 @@ That combination explains why the Tehran case occupies an unusual position in UF
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: 1976 Tehran UFO incident  
-   Link: [https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident](https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1976_Tehran_UFO_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: nsa.gov  
    Title: us gov iran case  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE U.S. GOVERNMENT &amp;&quot;THE IRAN&quot;&#x27;CASEThis report forwards information concerning the sighting of an UFO in. Iran on 19 September 1976. A...</p></details>
    Published: September 1976  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/1976](https://en.wikipedia.org/wiki/1976)  
+   Link: <a href="https://en.wikipedia.org/wiki/1976" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1976</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>19761976 (MCMLXXVI) was a leap year starting on Thursday of the Gregorian calendar, the 1976th year of the Common Era (CE) and Anno Do...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: 1976 in the United Kingdom  
-   Link: [https://en.wikipedia.org/wiki/1976_in_the_United_Kingdom](https://en.wikipedia.org/wiki/1976_in_the_United_Kingdom)  
+   Link: <a href="https://en.wikipedia.org/wiki/1976_in_the_United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1976_in_the_United_Kingdom</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1976 in the United KingdomEvents from the year 1976 in the United Kingdom. This year is notable for the prolonged drought and subseque...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: onthisday.com  
-   Link: [https://www.onthisday.com/events/date/1976](https://www.onthisday.com/events/date/1976)  
+   Link: <a href="https://www.onthisday.com/events/date/1976" target="_blank" rel="noopener noreferrer nofollow">https://www.onthisday.com/events/date/1976</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Events in 1976Historical events from year 1976. Learn about 570 famous, scandalous and important events that happened in 1976...</p></details>
 
 ### Additional References
@@ -412,56 +446,56 @@ That combination explains why the Tehran case occupies an unusual position in UF
 6. <a id="endnote-6"></a>
    Source: newspaceeconomy.ca  
    Title: the 1976 tehran ufo incident a military encounter with the unknown  
-   Link: [https://newspaceeconomy.ca/2025/02/08/the-1976-tehran-ufo-incident-a-military-encounter-with-the-unknown/](https://newspaceeconomy.ca/2025/02/08/the-1976-tehran-ufo-incident-a-military-encounter-with-the-unknown/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/02/08/the-1976-tehran-ufo-incident-a-military-encounter-with-the-unknown/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/02/08/the-1976-tehran-ufo-incident-a-military-encounter-with-the-unknown/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1976 Tehran UFO Incident: A Military Encounter With the...8 Feb 2025 — The film treats alien contact as a problem of information, tr...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: vocal.media  
    Title: Some speculated that it was an alien spacecraft that visited Earth  
-   Link: [https://vocal.media/futurism/the-tehran-ufo-incident](https://vocal.media/futurism/the-tehran-ufo-incident)  
+   Link: <a href="https://vocal.media/futurism/the-tehran-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/the-tehran-ufo-incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tehran UFO Incident: | Futurism - Vocal MediaBut despite all this evidence, no one could explain what the UFO was or where it came from...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: something like a black monster has swallowed the sky over tehran  
-   Link: [https://www.facebook.com/futurism/posts/something-like-a-black-monster-has-swallowed-the-sky-over-tehran/1280432137286497/](https://www.facebook.com/futurism/posts/something-like-a-black-monster-has-swallowed-the-sky-over-tehran/1280432137286497/)  
+   Link: <a href="https://www.facebook.com/futurism/posts/something-like-a-black-monster-has-swallowed-the-sky-over-tehran/1280432137286497/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/futurism/posts/something-like-a-black-monster-has-swallowed-the-sky-over-tehran/1280432137286497/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Something like a black monster has swallowed the sky...The 1976 Tehran UFO Incident dolat was a radar and visual sighting of an unident...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: silviolobo.com.br  
-   Link: [https://silviolobo.com.br/leitura/en/mysteries-xv/1976-tehran-incident-case](https://silviolobo.com.br/leitura/en/mysteries-xv/1976-tehran-incident-case)  
+   Link: <a href="https://silviolobo.com.br/leitura/en/mysteries-xv/1976-tehran-incident-case" target="_blank" rel="noopener noreferrer nofollow">https://silviolobo.com.br/leitura/en/mysteries-xv/1976-tehran-incident-case</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1976 Tehran Incident Case - Sílvio de Souza Lôbo Júnior2 days ago — Conspiracy and Paranormal Theories: UFO/Aliens: This is the most popu...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/1976-Fascinating-Historic-Politics-Surprising/dp/B0FKFNFSVH](https://www.amazon.co.uk/1976-Fascinating-Historic-Politics-Surprising/dp/B0FKFNFSVH)  
+   Link: <a href="https://www.amazon.co.uk/1976-Fascinating-Historic-Politics-Surprising/dp/B0FKFNFSVH" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/1976-Fascinating-Historic-Politics-Surprising/dp/B0FKFNFSVH</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1976: A Year in Facts – 76 Fascinating Events That...Step back into 1976, a year of global change, thrilling milestones, and unforgettab...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CollectiveEvolutionPage/posts/in-1976-residents-of-tehran-iran-noticed-a-big-bright-object-in-the-sky-the-airp/1400973575409718/](https://www.facebook.com/CollectiveEvolutionPage/posts/in-1976-residents-of-tehran-iran-noticed-a-big-bright-object-in-the-sky-the-airp/1400973575409718/)  
+   Link: <a href="https://www.facebook.com/CollectiveEvolutionPage/posts/in-1976-residents-of-tehran-iran-noticed-a-big-bright-object-in-the-sky-the-airp/1400973575409718/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CollectiveEvolutionPage/posts/in-1976-residents-of-tehran-iran-noticed-a-big-bright-object-in-the-sky-the-airp/1400973575409718/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1976 residents of Tehran, Iran noticed a big bright object...The radar signature of the UFO resembled that of a Boeing 707 aircraft...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/g2hdp8/anyone_notice_how_wikipedia_articles_on_big_ufo/](https://www.reddit.com/r/UFOs/comments/g2hdp8/anyone_notice_how_wikipedia_articles_on_big_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/g2hdp8/anyone_notice_how_wikipedia_articles_on_big_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/g2hdp8/anyone_notice_how_wikipedia_articles_on_big_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and obsessed with conventional explanations? Discussion.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: thegalacticmind.com  
    Title: case file tehran ufo incident 1976 iran  
-   Link: [https://www.thegalacticmind.com/case-file-tehran-ufo-incident-1976-iran/](https://www.thegalacticmind.com/case-file-tehran-ufo-incident-1976-iran/)  
+   Link: <a href="https://www.thegalacticmind.com/case-file-tehran-ufo-incident-1976-iran/" target="_blank" rel="noopener noreferrer nofollow">https://www.thegalacticmind.com/case-file-tehran-ufo-incident-1976-iran/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Case File: Tehran UFO Incident 1976, IranTehran UFO Incident (1976, Iran) · Overview · [Timeline](&amp;#123;&amp;#123; &#x27;timeline-238323/&#x27; | relative_url &amp;#125;&amp;#125;) · Primary sources · Claims and countercla...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: metabunk.org  
    Title: the 1976 iran f4 uap ufo case.12965  
-   Link: [https://www.metabunk.org/threads/the-1976-iran-f4-uap-ufo-case.12965/](https://www.metabunk.org/threads/the-1976-iran-f4-uap-ufo-case.12965/)  
+   Link: <a href="https://www.metabunk.org/threads/the-1976-iran-f4-uap-ufo-case.12965/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-1976-iran-f4-uap-ufo-case.12965/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1976 Iran F4 UAP/UFO case23 May 2023 —... COMMUNICATIONS FAILURE IN THE SAME VICINITY... 1976 UFO case is that planes were chasing...</p></details>
    Published: May 2023  
 
 15. <a id="endnote-15"></a>
    Source: forbes.com  
    Title: did iranian fighters battle ufos  
-   Link: [https://www.forbes.com/sites/michaelpeck/2014/01/14/did-iranian-fighters-battle-ufos/](https://www.forbes.com/sites/michaelpeck/2014/01/14/did-iranian-fighters-battle-ufos/)  
+   Link: <a href="https://www.forbes.com/sites/michaelpeck/2014/01/14/did-iranian-fighters-battle-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/michaelpeck/2014/01/14/did-iranian-fighters-battle-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?14 Jan 2014 — As if the Iran-UFO connection (the Axis of Alien-ness?) couldn&#x27;t get any weirder, it now appears that the Iranian Air Forc...</p></details>

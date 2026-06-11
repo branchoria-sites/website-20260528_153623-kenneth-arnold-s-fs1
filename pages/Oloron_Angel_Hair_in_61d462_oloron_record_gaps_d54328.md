@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /oloron-angel-hair-incident-1952/
 nav_short_title: Record Gaps
 title: Why The Oloron Evidence Still Frustrates Investigators
-title_full: Why The Oloron Evidence Still Frustrates Investigators | Oloron Angel Hair
+title_full: Why The Oloron Evidence Still Frustrates Investigators
 display_title_short: Record Gaps
 display_title: Record Gaps
 heading_title: Why The Oloron Evidence Still Frustrates Investigators
@@ -233,7 +233,7 @@ next_link:
   permalink: /spider-silk/
   short_title: Spider Silk
   heading_title: Was Angel Hair Really Spider Silk?
-date: '2026-06-08 23:40:31 '
+date: '2026-06-11 13:23:27 '
 header:
   og_image: /assets/images/Oloron_Angel_Hair_in_61d462_oloron_record_gaps_d54328-Illustration-1-social.jpg
   preview_image: /assets/images/Oloron_Angel_Hair_in_61d462_oloron_record_gaps_d54328-Illustration-1.webp
@@ -242,20 +242,18 @@ image: /assets/images/Oloron_Angel_Hair_in_61d462_oloron_record_gaps_d54328-Illu
 
 ## Introduction
 
-The Oloron “angel hair” incident remains difficult to evaluate not because the story lacks [witnesses]({{ 'witnesses-062a30/' | relative_url }}), but because almost every potentially decisive piece of evidence disappeared, was never preserved, or cannot now be verified. Reports from October 1952 describe white fibrous material falling across Oloron-Sainte-Marie while multiple aerial objects crossed the sky, yet no authenticated sample survives, no complete laboratory report is publicly available, and no modern official French case file has emerged. That combination of vivid testimony and missing documentation has kept the case suspended between folklore, misunderstood natural phenomenon, and unresolved UFO narrative for decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks For investigators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">angel hair ufo</span><span class="citation-popover-snippet">HowStuffWorksAngel Hair UFOs in Oloron, France9 Jun 2023 — In 1952, angel hair came drifting from the sky, falling over the French towns...</span></span></span>, the most frustrating part of the case is not the sighting itself. It is the documentary vacuum around it. Claims of military collection, gendarmerie interviews, radar awareness, and transient physical traces appear repeatedly in later UFO literature, but the original evidential chain is fragmented. The result is a classic archival problem: the case became famous before its evidence became stable.
-
+The Oloron “angel hair” incident remains difficult to evaluate not because the story lacks [witnesses]({{ 'witnesses-062a30/' | relative_url }}), but because almost every potentially decisive piece of evidence disappeared, was never preserved, or cannot now be verified. Reports from October 1952 describe white fibrous material falling across Oloron-Sainte-Marie while multiple aerial objects crossed the sky, yet no authenticated sample survives, no complete laboratory report is publicly available, and no modern official French case file has emerged. That combination of vivid testimony and missing documentation has kept the case suspended between folklore, misunderstood natural phenomenon, and unresolved UFO narrative for decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks For investigators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">angel hair ufo</span><span class="citation-popover-snippet">Angel Hair UFOs in Oloron, France9 Jun 2023 — In 1952, angel hair came drifting from the sky, falling over the French towns...</span></span></span>, the most frustrating part of the case is not the sighting itself. It is the documentary vacuum around it. Claims of military collection, gendarmerie interviews, radar awareness, and transient physical traces appear repeatedly in later UFO literature, but the original evidential chain is fragmented. The result is a classic archival problem: the case became famous before its evidence became stable.
 
 <img src="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_oloron_record_gaps_d54328-Illustration-1-dark.svg" | relative_url }}" alt="Record Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_oloron_record_gaps_d54328-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_oloron_record_gaps_d54328-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The vanished filament samples
 
-The strongest claim attached to Oloron was always the reported “angel hair” residue. Witnesses said the material draped over wires, roofs and trees, and some accounts insist it could briefly be gathered by hand before dissolving or turning gelatinous. That feature gave the case unusual weight within early European UFO lore because it appeared to involve a tangible trace rather than a distant light in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">angel hair ufo</span><span class="citation-popover-snippet">HowStuffWorksAngel Hair UFOs in Oloron, France9 Jun 2023 — In 1952, angel hair came drifting from the sky, falling over the French towns...</span></span></span>
+The strongest claim attached to Oloron was always the reported “angel hair” residue. Witnesses said the material draped over wires, roofs and trees, and some accounts insist it could briefly be gathered by hand before dissolving or turning gelatinous. That feature gave the case unusual weight within early European UFO lore because it appeared to involve a tangible trace rather than a distant light in the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">angel hair ufo</span><span class="citation-popover-snippet">Angel Hair UFOs in Oloron, France9 Jun 2023 — In 1952, angel hair came drifting from the sky, falling over the French towns...</span></span></span>
 
-Yet the same characteristic that made the material dramatic also destroyed its evidential value. According to later retellings, collected samples either evaporated, degraded rapidly, or were never formally analysed under controlled conditions. One recurring account states that a sports teacher collected strands at a municipal stadium for military examination, only for the material to vanish before testing could occur. Variants of that story circulated widely in UFO publications during the following decades, but no preserved chain of custody survives. No authenticated container, microscope slide, laboratory log, or photographic analysis has been publicly linked to the Oloron sample itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">angel hair ufo</span><span class="citation-popover-snippet">HowStuffWorksAngel Hair UFOs in Oloron, France9 Jun 2023 — In 1952, angel hair came drifting from the sky, falling over the French towns...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia That absence matters because other]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Angel hair (folklore</span><span class="citation-popover-snippet">Angel hair (folklore</span></span></span>“angel hair” incidents occasionally did leave behind analysable residue. The 1954 Florence case, for example, produced samples examined spectrographically, while some later incidents were identified as [spider silk]({{ 'spider-silk/' | relative_url }}) or airborne gossamer. Oloron lacks even that limited scientific foothold. The material exists mainly through recollection and repetition in secondary literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Angel hair (folklore</span><span class="citation-popover-snippet">Angel hair (folklore</span></span></span>
+Yet the same characteristic that made the material dramatic also destroyed its evidential value. According to later retellings, collected samples either evaporated, degraded rapidly, or were never formally analysed under controlled conditions. One recurring account states that a sports teacher collected strands at a municipal stadium for military examination, only for the material to vanish before testing could occur. Variants of that story circulated widely in UFO publications during the following decades, but no preserved chain of custody survives. No authenticated container, microscope slide, laboratory log, or photographic analysis has been publicly linked to the Oloron sample itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">angel hair ufo</span><span class="citation-popover-snippet">Angel Hair UFOs in Oloron, France9 Jun 2023 — In 1952, angel hair came drifting from the sky, falling over the French towns...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia That absence matters because other]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Angel hair (folklore</span><span class="citation-popover-snippet">Angel hair (folklore</span></span></span>“angel hair” incidents occasionally did leave behind analysable residue. The 1954 Florence case, for example, produced samples examined spectrographically, while some later incidents were identified as [spider silk]({{ 'spider-silk/' | relative_url }}) or airborne gossamer. Oloron lacks even that limited scientific foothold. The material exists mainly through recollection and repetition in secondary literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Angel hair (folklore</span><span class="citation-popover-snippet">Angel hair (folklore</span></span></span>
 
 ### Why the missing samples changed the debate
 
 Without preserved specimens, the case shifted from laboratory science to narrative credibility. Investigators could no longer ask:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -270,7 +268,6 @@ Instead, debate became dependent on witness memory and later interpretation.
 
 This gap strongly favoured sceptical explanations. Spider ballooning is a documented atmospheric phenomenon in which spiders release silk strands that drift over large areas and sometimes accumulate dramatically on vegetation, wires and buildings. Scientists and sceptics repeatedly noted that “angel hair” reports often resemble these mass silk dispersal events. The instability of the material at Oloron — disappearing, thinning or clumping when touched — is also consistent with fragile airborne filament structures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atlasobscura.com/articles/alien-impact-or-spiders-taking-over" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">alien impact or spiders taking over</span><span class="citation-popover-snippet">Atlas ObscuraWhy UFO Conspiracists Have So Many Opinions About &#x27;...18 Oct 2016 — The white thread, or angel hair, was the result of spid...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Ufologists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Angel hair (folklore</span><span class="citation-popover-snippet">Angel hair (folklore</span></span></span>, however, argued that the Oloron residue behaved unusually even by those standards. Some witnesses described the filaments as denser, flatter or more opaque than ordinary cobwebs. Others linked the material directly to manoeuvring aerial objects rather than to weather conditions. Because no surviving sample exists, neither side can definitively test its claims.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EbC5bXzIOK4" title="Military Shocked By Real UFO Invasion Above Washington, D. C." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EbC5bXzIOK4" target="_blank" rel="noopener noreferrer">Military Shocked By Real UFO Invasion Above Washington, D. C.</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 469.8K &middot; Uploaded: December 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EbC5bXzIOK4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EbC5bXzIOK4">Open on YouTube</a></p></div></div></div>
 
 ## Why no complete official file survives
@@ -282,7 +279,6 @@ Contemporary press reports indicate that local gendarmes took witness statements
 This timing is crucial. The early 1950s were the peak of global “flying saucer” publicity, and many local police or military agencies treated sightings as ephemeral disturbances rather than long-term research material. Reports might be logged briefly, summarised in local correspondence, or discarded after routine review. Unless a case involved defence implications, aviation incidents or sustained intelligence concern, records often remained scattered.
 
 For Oloron, later researchers therefore relied heavily on:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -296,7 +292,6 @@ For Oloron, later researchers therefore relied heavily on:
 
 That process gradually detached the story from its original documentation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dgroqLFDaW0" title="FBI UFO Files Reveal Chilling 1948 Encounters Near Military Bases | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer">FBI UFO Files Reveal Chilling 1948 Encounters Near Military Bases | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 2.3K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dgroqLFDaW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dgroqLFDaW0">Open on YouTube</a></p></div></div></div>
 
 ### The problem of citation loops
@@ -304,7 +299,6 @@ That process gradually detached the story from its original documentation.
 Another archival weakness is the repeated recycling of the same small cluster of sources. Many English-language summaries ultimately trace back to a limited set of French newspaper reports and later UFO compilations. Over time, uncertain details hardened into accepted narrative.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -318,22 +312,20 @@ Examples include:
 
 Because later writers often cited each other rather than primary files, the distinction between documented fact and repeated tradition became blurred. This is a common pattern in classic UFO cases, especially those from the pre-digital archive era.
 
-
 <img src="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_oloron_record_gaps_d54328-Illustration-2-dark.svg" | relative_url }}" alt="Record Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_oloron_record_gaps_d54328-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_oloron_record_gaps_d54328-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Gendarmerie, military and radar claims
 
 Claims involving official observation give Oloron much of its enduring mystique, yet these are also among the weakest evidentially documented parts of the case.
 
-Some later accounts state that gendarmes interviewed dozens of witnesses across the region, including hunters and local officials. Regional retrospectives support the idea that witness statements were indeed collected locally. However, complete interview transcripts have not surfaced publicly in a verified archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">angel hair ufo</span><span class="citation-popover-snippet">HowStuffWorksAngel Hair UFOs in Oloron, France9 Jun 2023 — In 1952, angel hair came drifting from the sky, falling over the French towns...</span></span></span>
+Some later accounts state that gendarmes interviewed dozens of witnesses across the region, including hunters and local officials. Regional retrospectives support the idea that witness statements were indeed collected locally. However, complete interview transcripts have not surfaced publicly in a verified archive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">angel hair ufo</span><span class="citation-popover-snippet">Angel Hair UFOs in Oloron, France9 Jun 2023 — In 1952, angel hair came drifting from the sky, falling over the French towns...</span></span></span>
 
-Military involvement is even harder to reconstruct. Stories persist that authorities examined the residue or followed the aerial activity, but no publicly available French defence memorandum comparable to later Cold War UFO files has emerged. Unlike better-documented radar-visual cases such as the Washington incidents of 1952, Oloron lacks surviving operational logs tying military systems directly to the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufo-archives.com/en/cases/washington-1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-archives.com">[UFO ARCHIVES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-archives.com</span><span class="citation-popover-title">The US Air Force response,</span><span class="citation-popover-snippet">UFO ARCHIVESThe Washington 1952 radar visual wave | UFO ARCHIVESJuly 19, 1952 — In July 1952, several Washington radar stations detected...</span><span class="citation-popover-meta">Published: July 19, 1952</span></span></span>
+Military involvement is even harder to reconstruct. Stories persist that authorities examined the residue or followed the aerial activity, but no publicly available French defence memorandum comparable to later Cold War UFO files has emerged. Unlike better-documented radar-visual cases such as the Washington incidents of 1952, Oloron lacks surviving operational logs tying military systems directly to the event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufo-archives.com/en/cases/washington-1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-archives.com">[UFO ARCHIVES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-archives.com</span><span class="citation-popover-title">The US Air Force response,</span><span class="citation-popover-snippet">UFO ARCHIVESThe Washington 1952 radar visual wave &#124; UFO ARCHIVESJuly 19, 1952 — In July 1952, several Washington radar stations detected...</span><span class="citation-popover-meta">Published: July 19, 1952</span></span></span>
 
-The radar issue is particularly important because radar corroboration often changes how historians classify UFO cases. In the Washington sightings of the same year, surviving Air Force documents preserved the dispute over radar anomalies and visual observations. Oloron has no equivalent evidential archive. Assertions about radar awareness therefore remain largely anecdotal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufo-archives.com/en/cases/washington-1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-archives.com">[UFO ARCHIVES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-archives.com</span><span class="citation-popover-title">The US Air Force response,</span><span class="citation-popover-snippet">UFO ARCHIVESThe Washington 1952 radar visual wave | UFO ARCHIVESJuly 19, 1952 — In July 1952, several Washington radar stations detected...</span><span class="citation-popover-meta">Published: July 19, 1952</span></span></span>
+The radar issue is particularly important because radar corroboration often changes how historians classify UFO cases. In the Washington sightings of the same year, surviving Air Force documents preserved the dispute over radar anomalies and visual observations. Oloron has no equivalent evidential archive. Assertions about radar awareness therefore remain largely anecdotal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufo-archives.com/en/cases/washington-1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufo-archives.com">[UFO ARCHIVES]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufo-archives.com</span><span class="citation-popover-title">The US Air Force response,</span><span class="citation-popover-snippet">UFO ARCHIVESThe Washington 1952 radar visual wave &#124; UFO ARCHIVESJuly 19, 1952 — In July 1952, several Washington radar stations detected...</span><span class="citation-popover-meta">Published: July 19, 1952</span></span></span>
 
 ### What historians can still verify
 
 Despite the missing files, several elements remain reasonably well supported:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -346,7 +338,6 @@ Despite the missing files, several elements remain reasonably well supported:
 </div>
 
 That is a narrower evidential core than many popular retellings suggest, but it is stronger than a purely invented legend.
-
 
 <img src="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_oloron_record_gaps_d54328-Illustration-3-dark.svg" | relative_url }}" alt="Record Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_oloron_record_gaps_d54328-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_oloron_record_gaps_d54328-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later UFO archives reshaped the case
@@ -371,49 +362,89 @@ For UFO researchers, the same gaps preserve the possibility that something genui
 
 The result is a case remembered less for what investigators proved than for what they could never securely examine.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T3xAfuvIaqE" title="Aliens Already Live Here! NASA Physicist Reveals UFOs Shutting Down Nuclear Missiles Since The 1960s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T3xAfuvIaqE" target="_blank" rel="noopener noreferrer">Aliens Already Live Here! NASA Physicist Reveals UFOs Shutting Down Nuclear Missiles Since The 1960s</a></p><p class="youtube-embed-meta">Channel: Dr. Mayim Bialik &middot; Views: 268.0K &middot; Uploaded: April 2026 &middot; Length: 1 hour 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T3xAfuvIaqE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T3xAfuvIaqE">Open on YouTube</a></p></div></div></div>
-
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hfrg0rhIaGg" title="UFO Emits Weird White Material Onto Small French Town | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hfrg0rhIaGg" target="_blank" rel="noopener noreferrer">UFO Emits Weird White Material Onto Small French Town | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 1.4M &middot; Uploaded: October 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hfrg0rhIaGg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hfrg0rhIaGg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why The Oloron Evidence Still Frustrates Investigators, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why The Oloron Evidence Still Frustrates Investigators. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides an objective profile of the Oloron case, clarifying why investigative files eventually failed to satisfy researchers due to data...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Contains investigative records from the era, providing essential institutional context for why case files are often incomplete.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">1952 UFO guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=1952+UFO+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches investigative standards to differentiate verified military logs from investigative rumors.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Reviews how early investigative bureaus managed the public relations pressure during the 1950s sighting wave.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -450,15 +481,15 @@ The result is a case remembered less for what investigators proved than for what
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -466,15 +497,15 @@ The result is a case remembered less for what investigators proved than for what
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -482,31 +513,15 @@ The result is a case remembered less for what investigators proved than for what
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,7 +529,7 @@ The result is a case remembered less for what investigators proved than for what
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-cd+-schenker+-michael+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -cd -schenker -michael -lp" data-ebay-reference="record-gaps-why-the-oloron-evidence-still-frustrates-investigators-oloron-angel-hair-incident-19-ufo-memorabilia-book-bo" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -730,95 +745,95 @@ The result is a case remembered less for what investigators proved than for what
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Angel hair (folklore)  
-   Link: [https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29](https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29</a>  
 
 2. <a id="endnote-2"></a>
    Source: science.howstuffworks.com  
    Title: angel hair ufo  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm](https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HowStuffWorksAngel Hair UFOs in Oloron, France9 Jun 2023 — In 1952, angel hair came drifting from the sky, falling over the French towns...</p></details>
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Angel Hair UFOs in Oloron, France9 Jun 2023 — In 1952, angel hair came drifting from the sky, falling over the French towns...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO sightings in France  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_France](https://en.wikipedia.org/wiki/UFO_sightings_in_France)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_France</a>  
 
 4. <a id="endnote-4"></a>
    Source: documents2.theblackvault.com  
    Title: Condon Report Complete  
-   Link: [https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf](https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1%8. Final Report of the. Scicntifi c Study of Un&#x27;,dentified Plying Objects cond&#x27;Jcted by the &quot;r...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ufo-archives.com  
    Title: The US Air Force response,  
-   Link: [https://ufo-archives.com/en/cases/washington-1952](https://ufo-archives.com/en/cases/washington-1952)  
+   Link: <a href="https://ufo-archives.com/en/cases/washington-1952" target="_blank" rel="noopener noreferrer nofollow">https://ufo-archives.com/en/cases/washington-1952</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ARCHIVESThe Washington 1952 radar visual wave | UFO ARCHIVESJuly 19, 1952 — In July 1952, several Washington radar stations detected...</p></details>
    Published: July 19, 1952  
 
 6. <a id="endnote-6"></a>
    Source: ia600600.us.archive.org  
    Title: 492780987 The UFO Book Encyclopedia of the Extraterrestrial PDFDrive  
-   Link: [https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf](https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/32/items/492780987-the-ufo-book-encyclopedia-of-the-extraterrestrial-pdfdrive/492780987-The-UFO-Book-Encyclopedia-of-the-Extraterrestrial-PDFDrive.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Angel Hair • Anomalous Aerial Phenomena Before. 1800 • Arnold Sighting. B-PAGE... records of the event are missing. The Air. Force would...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: [https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf](https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFINITIVE CASEBOOKMilitary radar at Pease Air Force. Base apparently tracked an anomalous UFO... ® Oloron, Oloron-Ste Marie, Pays Basqu...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: atlasobscura.com  
    Title: alien impact or spiders taking over  
-   Link: [https://www.atlasobscura.com/articles/alien-impact-or-spiders-taking-over](https://www.atlasobscura.com/articles/alien-impact-or-spiders-taking-over)  
+   Link: <a href="https://www.atlasobscura.com/articles/alien-impact-or-spiders-taking-over" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/articles/alien-impact-or-spiders-taking-over</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraWhy UFO Conspiracists Have So Many Opinions About &#x27;...18 Oct 2016 — The white thread, or angel hair, was the result of spid...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/CrOAONNOohB/](https://www.instagram.com/p/CrOAONNOohB/)  
+   Link: <a href="https://www.instagram.com/p/CrOAONNOohB/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CrOAONNOohB/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ANGEL HAIR UFO Angel hair or siliceous cotton is a sticky...Angel hair or siliceous cotton is a sticky, fibrous substance reported in c...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MatthewSantoroVideos/videos/angel-hair-the-ufo-mystery-falling-from-the-sky/733605892938090/](https://www.facebook.com/MatthewSantoroVideos/videos/angel-hair-the-ufo-mystery-falling-from-the-sky/733605892938090/)  
+   Link: <a href="https://www.facebook.com/MatthewSantoroVideos/videos/angel-hair-the-ufo-mystery-falling-from-the-sky/733605892938090/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MatthewSantoroVideos/videos/angel-hair-the-ufo-mystery-falling-from-the-sky/733605892938090/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Angel Hair: The UFO Mystery Falling From The SkyThose examples of &quot;angel hair&quot; are merely webs woven by various types of spiders.... Rep...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: inlibra.com  
-   Link: [https://www.inlibra.com/10.5771/9780759122598.pdf](https://www.inlibra.com/10.5771/9780759122598.pdf)  
+   Link: <a href="https://www.inlibra.com/10.5771/9780759122598.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inlibra.com/10.5771/9780759122598.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jewish Responses to PersecutionThis groundbreaking series provides a new perspective on history using first- hand accounts of the lives o...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: tomlantosinstitute.hu  
-   Link: [https://www.tomlantosinstitute.hu/files/en-115-romaresistance-online.pdf](https://www.tomlantosinstitute.hu/files/en-115-romaresistance-online.pdf)  
+   Link: <a href="https://www.tomlantosinstitute.hu/files/en-115-romaresistance-online.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tomlantosinstitute.hu/files/en-115-romaresistance-online.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roma Resistance during the Holocaust and in its AftermathThe Tom Lantos Institute (TLI) is an independent human and minority rights organ...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsRadar reportedly tracked an unknown object over central Belgium, and the Belgian Air Force scrambled two F-16s. The pilots rep...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/txxy3y/ufos_over_oloron_france_dropped_a_cottony/](https://www.reddit.com/r/UFOs/comments/txxy3y/ufos_over_oloron_france_dropped_a_cottony/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/txxy3y/ufos_over_oloron_france_dropped_a_cottony/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/txxy3y/ufos_over_oloron_france_dropped_a_cottony/</a>  
 
 15. <a id="endnote-15"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angels-hair](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angels-hair)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angels-hair" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angels-hair</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/479466012136607/posts/1648101745273022/](https://www.facebook.com/groups/479466012136607/posts/1648101745273022/)  
+   Link: <a href="https://www.facebook.com/groups/479466012136607/posts/1648101745273022/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/479466012136607/posts/1648101745273022/</a>  
 
 17. <a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Science of Unidentified Aerospace-Undersea...In fact, several posited examples of angel hair have been found to be spider silk [...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/living-with-the-enemy-german-occupation-collaboration-and-justice-in-the-western-pyrenees-1940-1948.html](https://dokumen.pub/living-with-the-enemy-german-occupation-collaboration-and-justice-in-the-western-pyrenees-1940-1948.html)  
+   Link: <a href="https://dokumen.pub/living-with-the-enemy-german-occupation-collaboration-and-justice-in-the-western-pyrenees-1940-1948.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/living-with-the-enemy-german-occupation-collaboration-and-justice-in-the-western-pyrenees-1940-1948.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The B´earnais people have long protested that, contrary to popular belief, they...Read more...</p></details>

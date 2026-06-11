@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Carter UFO
   permalink: /jimmy-carter-sighting-1969/
   short_title: Carter UFO
-date: '2026-06-08 23:26:51 '
+date: '2026-06-11 13:16:34 '
 header:
   og_image: /assets/images/Jet_chase_near_Tehra_5ae5aa-overview-social.jpg
   preview_image: /assets/images/Jet_chase_near_Tehra_5ae5aa-overview.webp
@@ -760,14 +760,12 @@ image: /assets/images/Jet_chase_near_Tehra_5ae5aa-overview-social.jpg
 
 The official U.S. cable says the incident began at about 12:30 a.m. on 19 September 1976, when several citizens in the Shemiran area reported strange objects in the sky. Some described a bird-like object; others compared it to a helicopter with a light, although the report says no helicopters were airborne at that time. After initially treating the reports as likely stars, the responsible officer looked for himself, saw an unusually bright object, and decided to scramble an F-4 from Shahrokhi Air Base to investigate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">us gov iran case</span><span class="citation-popover-snippet">us gov iran case</span></span></span>
 
-
 <img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-overview.webp" | relative_url }}" alt="Overview image for Jet chase near Tehran Iran 1976" loading="eager" decoding="sync" fetchpriority="high">
 The first F-4 took off at about 1:30 a.m. and flew towards a point roughly 40 nautical miles north of Tehran. According to the cable, the object was bright enough to be seen from 70 miles away. When the aircraft closed to about 25 nautical miles, the pilot reported losing instrumentation and UHF/intercom communications. He broke off the intercept and returned towards Shahrokhi; the report says the instruments and communications came back after the aircraft turned away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">joint chiefs staff report</span><span class="citation-popover-snippet">joint chiefs staff report</span></span></span>
 
 A second F-4 was launched at about 1:40 a.m. This aircraft’s back-seater reportedly obtained radar lock at 27 nautical miles, with the object at the 12 o’clock high position and a closing speed of about 150 nautical miles per hour. As the fighter closed to 25 nautical miles, the object was said to move away and maintain that separation. The radar return was described as comparable to a Boeing 707 tanker, while the visible object was too bright for its body to be clearly seen and appeared as rapidly alternating blue, green, red and orange strobe lights in a rectangular pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-snippet">Open source on nsa.gov.</span></span></span>
 
 The most dramatic part of the report concerns a smaller bright object allegedly emerging from the primary object and heading towards the second F-4. The pilot reportedly tried to fire an AIM-9 missile, but at that moment the weapons-control panel went off and communications were lost. The pilot then turned and made a negative-G dive; the smaller object was reported to fall in behind the aircraft before returning to the primary object. Shortly afterwards, another object was said to descend towards the ground, lighting an area of roughly two to three kilometres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsa.gov">[NSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsa.gov</span><span class="citation-popover-title">us gov iran case</span><span class="citation-popover-snippet">us gov iran case</span></span></span>
-
 
 <img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-1-dark.svg" | relative_url }}" alt="Jet chase near Tehran Iran 1976 illustration 1" data-theme-src-dark="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case is treated as unusually strong
@@ -777,7 +775,6 @@ The Tehran case has a stronger documentary spine than many UFO reports. The key 
 The case also has multiple witness categories rather than a single observer. The source trail includes civilian callers, the Mehrabad tower, Iranian military commanders, two F-4 crews, and at least one reported nearby civil-airliner radio failure. A later Defence Intelligence Agency evaluation, quoted in Maccabee’s compilation, called it an “outstanding report” and listed features that made it valuable for study: multiple viewpoints, credible witnesses, radar-visual correlation, electromagnetic effects reported by more than one aircraft, and unusual manoeuvrability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/760919tehran_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
 Those strengths should not be overstated. The available public record is still mostly a chain of reports about observations, not the raw technical evidence itself. The public does not have the original radar recording, cockpit audio, complete aircraft-maintenance files, confirmed radiation-test results, or a recovered physical object. That means the case is well documented as a report of an extraordinary encounter, but not proven as an extraordinary craft. The difference is central to assessing it fairly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">760919tehran rep</span><span class="citation-popover-snippet">760919tehran rep</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_jDjxWkNde4" title="1976 Tehran UFO Incident - Military Jets Chase UFO Over Iran | Richard Dolan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_jDjxWkNde4" target="_blank" rel="noopener noreferrer">1976 Tehran UFO Incident - Military Jets Chase UFO Over Iran | Richard Dolan</a></p><p class="youtube-embed-meta">Channel: 4biddenknowledge Podcast Network &middot; Views: 5.9K &middot; Uploaded: January 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_jDjxWkNde4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_jDjxWkNde4">Open on YouTube</a></p></div></div></div>
 
@@ -789,7 +786,6 @@ The radar claim is also important, but it is not as clean as it first appears. T
 
 The “landing” or descent claim is weaker. The cable says a descending object appeared to come down gently and cast bright light over a wide area; the next day, a helicopter search reportedly found no obvious trace at the presumed site, though a beeper signal was detected near a small house whose occupants described a loud noise and bright light. The same passage says aircraft and the area were to be checked for possible radiation, but Maccabee notes no further U.S. Air Force memoranda on the case are publicly available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/760919tehran_NICAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-
 <img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-2-dark.svg" | relative_url }}" alt="Jet chase near Tehran Iran 1976 illustration 2" data-theme-src-dark="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where sceptical explanations bite
 
@@ -798,7 +794,6 @@ The best sceptical readings do not need to claim that everyone invented the stor
 This line of explanation has real force because several key elements are vulnerable. Bright celestial objects can be misjudged at night, especially when observers lack distance cues. Aircraft malfunctions can occur without exotic causes. Radar modes and operator interpretation can produce misleading impressions. The case also passed through newspapers, interviews and UFO-investigator reconstructions, creating room for conflation between the narrower official cable and more elaborate later accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bootcampmilitaryfitnessinstitute.com/2021/09/12/what-was-the-tehran-ufo-incident-1976/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bootcampmilitaryfitnessinstitute.com">[Boot Camp &amp; Military Fitness Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bootcampmilitaryfitnessinstitute.com</span><span class="citation-popover-title">what was the tehran ufo incident 1976</span><span class="citation-popover-snippet">what was the tehran ufo incident 1976</span></span></span>
 
 However, sceptical accounts also have to explain why trained aircrew, tower personnel and military commanders treated the event as serious in real time, and why the official cable describes repeated proximity-linked equipment effects rather than a single unreliable aircraft. Maccabee’s reconstruction records that Westinghouse avionics personnel later found no permanent faults in the aircraft systems, which can be read in two ways: either there was no lasting technical evidence of a special external cause, or the reported failures were transient and therefore unusually difficult to prove afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/760919_tehran_Maccabee_report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">IRANIAN JET CASE</span><span class="citation-popover-snippet">IRANIAN JET CASE</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jxbXb0qNcQo" title="Top 10 Things Pilots Saw Mid Flight That Made No Sense" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jxbXb0qNcQo" target="_blank" rel="noopener noreferrer">Top 10 Things Pilots Saw Mid Flight That Made No Sense</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10 &middot; Views: 9.8K &middot; Uploaded: May 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jxbXb0qNcQo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jxbXb0qNcQo">Open on YouTube</a></p></div></div></div>
 
@@ -810,7 +805,6 @@ The Center for UFO Studies summarises the case as a radar-visual incident with e
 
 Recent public summaries, including Enigma Labs and The Black Vault, show why the case remains prominent: it is readable, dramatic, and supported by declassified material. They also show a risk common to famous UFO cases: once a case becomes a canonical example, each retelling can add confidence while the underlying public evidence remains largely the same. The responsible reading is therefore to separate the original cable, later interviews, newspaper reports, and modern summaries rather than treating them as one seamless evidentiary block. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-1976-iran-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">the 1976 iran incident</span><span class="citation-popover-snippet">the 1976 iran incident</span></span></span>
 
-
 <img src="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-3-dark.svg" | relative_url }}" alt="Jet chase near Tehran Iran 1976 illustration 3" data-theme-src-dark="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jet_chase_near_Tehra_5ae5aa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What can and cannot be concluded
 
@@ -820,358 +814,92 @@ The case does not, however, prove an extraterrestrial vehicle, a hostile craft, 
 
 For a case dossier, the Tehran jet chase belongs beside sibling branches on witness credibility, radar-visual cases, electromagnetic-interference claims, and sceptical astronomy-based explanations. Its lasting value is not that it settles the UFO question, but that it shows why some cases remain contested: the record is better than folklore, weaker than proof, and full of details that matter only when chronology, source provenance and technical limitations are kept separate.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DhmnQyDdpzI" title="The Tehran 1976 UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DhmnQyDdpzI" target="_blank" rel="noopener noreferrer">The Tehran 1976 UFO</a></p><p class="youtube-embed-meta">Channel: Skeptoid Media &middot; Views: 921 &middot; Uploaded: May 2018 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DhmnQyDdpzI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DhmnQyDdpzI">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened Over Tehran?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened Over Tehran?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Features intensive analysis of the declassified U.S. military-intelligence cable and the scrambled F-4 Phantom II interception sequence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+        </h4>
+        <p class="fr-book-author">By Ross Coulthart</p>
+        
+        <p class="fr-book-desc">Reviews the Tehran jet chase, tracking the Imperial Iranian Air Force commander logs, radar contact points, and system failure claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides structural context on how the Defense Intelligence Agency logged and routed the Shahrokhi Air Base fighter logs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Addresses why inconsistent later retellings by flight crew members naturally inflate ordinary sky lights into extraordinary encounters.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="jet-chase-near-tehran-iran-1976-what-really-happened-over-tehran-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function localeMatches() {
-    var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
-    try {
-      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
-      else if (navigator.language) languages = [navigator.language];
-    } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
-      var normalized = normalize(languages[i]);
-      if (!normalized) continue;
-      if (localeMarketMap[normalized]) {
-        exactMarket = localeMarketMap[normalized];
-        break;
-      }
-      var languageOnly = normalized.split('-')[0];
-      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
-    }
-    return { exact: exactMarket, language: languageMarket };
-  }
-  function inferFromLocale() {
-    var matches = localeMatches();
-    return matches.exact || matches.language || '';
-  }
-  function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
-      var rule = timezoneRules[i] || {};
-      try {
-        if (new RegExp(rule.pattern).test(tz)) return rule.market;
-      } catch (err) {}
-    }
-    return '';
-  }
-  function inferMarket(available, options) {
-    available = Array.isArray(available) ? available : [];
-    options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
-    try {
-      var saved = window.localStorage && localStorage.getItem(storageKey);
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var timezoneMarket = inferFromTimezone();
-    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
-    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
-    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
-  }
-  window.PhoenixAffiliateLocation = {
-    normalize: normalize,
-    inferMarket: inferMarket,
-    inferFromLocale: inferFromLocale,
-    inferFromTimezone: inferFromTimezone
-  };
-})();
-</script>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-localized-links]');
-  if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
-  function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
-  }
-  function buildUrl(query, reference, marketId) {
-    var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
-    var params = [];
-    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
-    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
-    params.push('mkevt=1');
-    params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
-    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
-    return url + joiner + params.join('&');
-  }
-  function domainLabel(marketId) {
-    var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
-  }
-  function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function closeMenu(section) {
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var picker = section.querySelector('.fr-ebay-market-picker');
-    if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
-    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
-  }
-  function availableMarkets(section) {
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select) {
-      return Array.prototype.slice.call(select.options)
-        .map(function (option) { return option.value; })
-        .filter(function (marketId) { return !!markets[marketId]; });
-    }
-    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
-      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
-      .filter(function (marketId) { return !!markets[marketId]; });
-  }
-  function applyMarket(section, marketId, persist) {
-    var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
-      link.setAttribute('href', buildUrl(query, reference, marketId));
-    });
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
-    var selectedText = marketId;
-    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-      label.textContent = selectedText;
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-      flag.className = flagClass(marketId);
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-      label.textContent = selectedText;
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
-      label.textContent = domainLabel(marketId);
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
-      var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
-    });
-    section.setAttribute('data-ebay-selected-market', marketId);
-    if (persist) {
-      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
-    }
-    closeMenu(section);
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
-    var available = availableMarkets(section);
-    var marketId = defaultMarket;
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: defaultMarket
-      });
-    } else if (available.indexOf(defaultMarket) < 0) {
-      marketId = available[0] || defaultMarket;
-    }
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select) {
-      select.addEventListener('change', function () {
-        applyMarket(section, select.value, true);
-      });
-    }
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    if (trigger && menu) {
-      trigger.addEventListener('click', function (event) {
-        event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
-        menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-        var picker = trigger.closest('.fr-ebay-market-picker');
-        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
-      });
-      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.addEventListener('click', function (event) {
-          event.stopPropagation();
-          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
-        });
-      });
-      document.addEventListener('click', function () { closeMenu(section); });
-    }
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
-      button.addEventListener('click', function () {
-        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
-      });
-    });
-    applyMarket(section, marketId, false);
-  });
-})();
-</script>
 </section>
 
 ## Endnotes
@@ -1179,121 +907,121 @@ For a case dossier, the Tehran jet chase belongs beside sibling branches on witn
 1. <a id="endnote-1"></a>
    Source: nsa.gov  
    Title: us gov iran case  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/us_gov_iran_case.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: nsa.gov  
    Title: joint chiefs staff report  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/joint_chiefs_staff_report.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
    Title: IRANIAN JET CASE  
-   Link: [https://www.nicap.org/reports/760919_tehran_Maccabee_report.pdf](https://www.nicap.org/reports/760919_tehran_Maccabee_report.pdf)  
+   Link: <a href="https://www.nicap.org/reports/760919_tehran_Maccabee_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/760919_tehran_Maccabee_report.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: skeptoid.com  
-   Link: [https://skeptoid.com/episodes/315](https://skeptoid.com/episodes/315)  
+   Link: <a href="https://skeptoid.com/episodes/315" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/315</a>  
 
 5. <a id="endnote-5"></a>
    Source: enigmalabs.io  
    Title: Enigma Labs | Report a UFO sighting Tehran Incident | Enigma Labs  
-   Link: [https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217](https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217)  
+   Link: <a href="https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/931061e0-3eb3-497f-8535-a62aea968217</a>  
 
 6. <a id="endnote-6"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/](https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/)  
+   Link: <a href="https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/FOIA-Reports-and-Releases/FOIA-Reports-and-Releases-List/igphoto/2002761354/</a>  
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/760919tehran_dir.htm](https://www.nicap.org/760919tehran_dir.htm)  
+   Link: <a href="https://www.nicap.org/760919tehran_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/760919tehran_dir.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: nicap.org  
    Title: 760919tehran rep  
-   Link: [https://www.nicap.org/reports/760919tehran_rep.htm](https://www.nicap.org/reports/760919tehran_rep.htm)  
+   Link: <a href="https://www.nicap.org/reports/760919tehran_rep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/760919tehran_rep.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/760919tehran_NICAP.pdf](https://www.nicap.org/reports/760919tehran_NICAP.pdf)  
+   Link: <a href="https://www.nicap.org/reports/760919tehran_NICAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/760919tehran_NICAP.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: skeptoid.com  
-   Link: [https://skeptoid.com/episodes/358](https://skeptoid.com/episodes/358)  
+   Link: <a href="https://skeptoid.com/episodes/358" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/358</a>  
 
 11. <a id="endnote-11"></a>
    Source: theblackvault.com  
    Title: the 1976 iran incident  
-   Link: [https://www.theblackvault.com/casefiles/the-1976-iran-incident/](https://www.theblackvault.com/casefiles/the-1976-iran-incident/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/the-1976-iran-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-1976-iran-incident/</a>  
 
 12. <a id="endnote-12"></a>
    Source: bootcampmilitaryfitnessinstitute.com  
    Title: what was the tehran ufo incident 1976  
-   Link: [https://bootcampmilitaryfitnessinstitute.com/2021/09/12/what-was-the-tehran-ufo-incident-1976/](https://bootcampmilitaryfitnessinstitute.com/2021/09/12/what-was-the-tehran-ufo-incident-1976/)  
+   Link: <a href="https://bootcampmilitaryfitnessinstitute.com/2021/09/12/what-was-the-tehran-ufo-incident-1976/" target="_blank" rel="noopener noreferrer nofollow">https://bootcampmilitaryfitnessinstitute.com/2021/09/12/what-was-the-tehran-ufo-incident-1976/</a>  
 
 13. <a id="endnote-13"></a>
    Source: cufos.org  
    Title: Center for UFO Studies Radar and Radar-Visual  
-   Link: [https://cufos.org/types-of-ufos/radar-and-radar-visual/](https://cufos.org/types-of-ufos/radar-and-radar-visual/)  
+   Link: <a href="https://cufos.org/types-of-ufos/radar-and-radar-visual/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/types-of-ufos/radar-and-radar-visual/</a>  
 
 14. <a id="endnote-14"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/06935701](https://www.cia.gov/readingroom/document/06935701)  
+   Link: <a href="https://www.cia.gov/readingroom/document/06935701" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06935701</a>  
 
 15. <a id="endnote-15"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/06741356](https://www.cia.gov/readingroom/document/06741356)  
+   Link: <a href="https://www.cia.gov/readingroom/document/06741356" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06741356</a>  
 
 16. <a id="endnote-16"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/06984637](https://www.cia.gov/readingroom/document/06984637)  
+   Link: <a href="https://www.cia.gov/readingroom/document/06984637" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/06984637</a>  
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=j7SPXwnnNYk](https://www.youtube.com/watch?v=j7SPXwnnNYk)  
+   Link: <a href="https://www.youtube.com/watch?v=j7SPXwnnNYk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j7SPXwnnNYk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1976 Tehran UFO Incident and Crypt of Civilization - 500 Open Tabs Episode 15...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: مستند پرنده های ناشناس در آسمان تهران  
-   Link: [https://www.youtube.com/watch?v=t8ufOwyJvu0](https://www.youtube.com/watch?v=t8ufOwyJvu0)  
+   Link: <a href="https://www.youtube.com/watch?v=t8ufOwyJvu0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t8ufOwyJvu0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ارتش شاهنشاهی در جدال با فرازمینی ها || مستند کامل رویارویی ارتش با یوفو در تهران 1355...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: UFO Attacks Iranian Fighter Jets? An Incident Covered Up for 20 Years!  
-   Link: [https://www.youtube.com/watch?v=B2u_aNn1_W8](https://www.youtube.com/watch?v=B2u_aNn1_W8)  
+   Link: <a href="https://www.youtube.com/watch?v=B2u_aNn1_W8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B2u_aNn1_W8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Things Pilots Saw Mid Flight That Made No Sense...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/0005516652](https://www.cia.gov/readingroom/document/0005516652)  
+   Link: <a href="https://www.cia.gov/readingroom/document/0005516652" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005516652</a>  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Top 10 Things Pilots Saw Mid Flight That Made No Sense  
-   Link: [https://www.youtube.com/watch?v=jxbXb0qNcQo](https://www.youtube.com/watch?v=jxbXb0qNcQo)  
+   Link: <a href="https://www.youtube.com/watch?v=jxbXb0qNcQo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jxbXb0qNcQo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>مستند پرنده های ناشناس در آسمان تهران - شهریور ۱۳۵۵...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: war.gov  
    Title: Opentaught the proper reactions in the event an aircraft encounters a UFO. I  
-   Link: [https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/deepuniversee/posts/former-british-government-ufo-investigator-nick-pope-spent-years-examining-class/955080860623136/](https://www.facebook.com/deepuniversee/posts/former-british-government-ufo-investigator-nick-pope-spent-years-examining-class/955080860623136/)  
+   Link: <a href="https://www.facebook.com/deepuniversee/posts/former-british-government-ufo-investigator-nick-pope-spent-years-examining-class/955080860623136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/former-british-government-ufo-investigator-nick-pope-spent-years-examining-class/955080860623136/</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/todayilearned/comments/1ykbq4/til_an_iranian_fighter_attempted_to_down_a_ufo_he/](https://www.reddit.com/r/todayilearned/comments/1ykbq4/til_an_iranian_fighter_attempted_to_down_a_ufo_he/)  
+   Link: <a href="https://www.reddit.com/r/todayilearned/comments/1ykbq4/til_an_iranian_fighter_attempted_to_down_a_ufo_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/1ykbq4/til_an_iranian_fighter_attempted_to_down_a_ufo_he/</a>  
 
 25. <a id="endnote-25"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/attachments/omni-with-iran-f4-article-oberg-pdf.59596/](https://www.metabunk.org/attachments/omni-with-iran-f4-article-oberg-pdf.59596/)  
+   Link: <a href="https://www.metabunk.org/attachments/omni-with-iran-f4-article-oberg-pdf.59596/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/attachments/omni-with-iran-f4-article-oberg-pdf.59596/</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/EconomicTimes/posts/-watch-pentagon-ufo-files-reveal-mysterious-uap-formations-over-iran-%EF%B8%8F/1475995904556313/](https://www.facebook.com/EconomicTimes/posts/-watch-pentagon-ufo-files-reveal-mysterious-uap-formations-over-iran-%EF%B8%8F/1475995904556313/)  
+   Link: <a href="https://www.facebook.com/EconomicTimes/posts/-watch-pentagon-ufo-files-reveal-mysterious-uap-formations-over-iran-%EF%B8%8F/1475995904556313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EconomicTimes/posts/-watch-pentagon-ufo-files-reveal-mysterious-uap-formations-over-iran-%EF%B8%8F/1475995904556313/</a>

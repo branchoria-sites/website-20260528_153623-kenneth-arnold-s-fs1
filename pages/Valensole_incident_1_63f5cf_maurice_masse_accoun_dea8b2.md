@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /valensole-incident-1965/
 nav_short_title: The Witness
 title: How Reliable Was Maurice Masse's Story?
-title_full: How Reliable Was Maurice Masse's Story? | Valensole
+title_full: How Reliable Was Maurice Masse's Story?
 display_title_short: The Witness
 display_title: The Witness
 heading_title: How Reliable Was Maurice Masse's Story?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /ground-traces/
   short_title: Ground Traces
   heading_title: Did the Valensole Traces Prove Anything?
-date: '2026-06-08 23:31:10 '
+date: '2026-06-11 13:19:04 '
 header:
   og_image: /assets/images/Valensole_incident_1_63f5cf_maurice_masse_accoun_dea8b2-Illustration-1-social.jpg
   preview_image: /assets/images/Valensole_incident_1_63f5cf_maurice_masse_accoun_dea8b2-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Valensole_incident_1_63f5cf_maurice_masse_accoun_dea8b2-Il
 
 ## Introduction
 
-Maurice Masse’s testimony is the foundation of the [Valensole incident]({{ 'valensole-incident-1965/' | relative_url }}). Without his account, the case would probably have remained an obscure report about unusual marks in a lavender field. What made the story famous was the combination of a calm rural witness, a highly detailed narrative, and physical traces that investigators considered difficult to dismiss outright. At the same time, nearly every major weakness in the case also begins with Masse himself: he was alone, his story evolved over time, and several important details appeared only in later statements rather than in the earliest police interviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rencontre de Valensole</span><span class="citation-popover-snippet">Rencontre de Valensole</span></span></span>
-
+Maurice Masse’s testimony is the foundation of the Valensole incident. Without his account, the case would probably have remained an obscure report about unusual marks in a lavender field. What made the story famous was the combination of a calm rural witness, a highly detailed narrative, and physical traces that investigators considered difficult to dismiss outright. At the same time, nearly every major weakness in the case also begins with Masse himself: he was alone, his story evolved over time, and several important details appeared only in later statements rather than in the earliest police interviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rencontre de Valensole</span><span class="citation-popover-snippet">Rencontre de Valensole</span></span></span>
 
 <img src="{{ "/assets/images/Valensole_incident_1_63f5cf_maurice_masse_accoun_dea8b2-Illustration-1-dark.svg" | relative_url }}" alt="The Witness illustration 1" data-theme-src-dark="{{ "/assets/images/Valensole_incident_1_63f5cf_maurice_masse_accoun_dea8b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valensole_incident_1_63f5cf_maurice_masse_accoun_dea8b2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This tension explains why the Valensole incident still divides researchers. Supporters argue that Masse behaved like a sincere witness who had no obvious motive to invent an elaborate encounter. Critics counter that sincerity is not the same thing as accuracy, especially in a case dependent almost entirely on memory and interpretation. The contradictions in distance estimates, craft structure, paralysis effects, and later embellishments are therefore not minor details. They are central to evaluating how reliable Maurice Masse’s story actually was. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">List of reported UFO sightingsFrench farmer, Maurice Massé, witnessed a spherical vehicle in his lavender field. He noticed and approa...</span></span></span>
@@ -252,9 +251,9 @@ This tension explains why the Valensole incident still divides researchers. Supp
 
 ### What Masse initially claimed to see
 
-According to the earliest versions of the account, Masse was working near dawn in his lavender field outside Valensole when he heard a whistling or humming sound. Expecting perhaps a helicopter or trespassers, he walked towards the source and saw an unfamiliar object resting near the ground. He later compared its size to a Renault Dauphine car and described it as oval or rugby-ball shaped. Nearby stood two small humanoid figures. HowStuffWorks Masse said the figures were short and broad rather than thin <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">HowStuffWorksThe 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</span></span></span>, with oversized heads and unusual facial features. Different retellings vary on details such as ears, chin shape, and skin tone, but most agree that he described them as wearing close-fitting clothing and communicating through guttural sounds rather than normal speech. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in France</span><span class="citation-popover-snippet">UFO sightings in FranceJuly 1, 1965, Valensole, Alpes-de-Haute-Provence. An alleged UFO sighting and close encounter (Rencontre de Val...</span><span class="citation-popover-meta">Published: July 1, 1965</span></span></span>
+According to the earliest versions of the account, Masse was working near dawn in his lavender field outside Valensole when he heard a whistling or humming sound. Expecting perhaps a helicopter or trespassers, he walked towards the source and saw an unfamiliar object resting near the ground. He later compared its size to a Renault Dauphine car and described it as oval or rugby-ball shaped. Nearby stood two small humanoid figures. HowStuffWorks Masse said the figures were short and broad rather than thin <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</span></span></span>, with oversized heads and unusual facial features. Different retellings vary on details such as ears, chin shape, and skin tone, but most agree that he described them as wearing close-fitting clothing and communicating through guttural sounds rather than normal speech. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in France</span><span class="citation-popover-snippet">UFO sightings in FranceJuly 1, 1965, Valensole, Alpes-de-Haute-Provence. An alleged UFO sighting and close encounter (Rencontre de Val...</span><span class="citation-popover-meta">Published: July 1, 1965</span></span></span>
 
-The central dramatic moment came when one figure allegedly pointed a tube-like device at him. Masse claimed he immediately became unable to move while remaining conscious. He watched the beings return to the craft before it departed rapidly. The paralysis reportedly lasted between fifteen and twenty minutes. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">HowStuffWorksThe 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</span></span></span>
+The central dramatic moment came when one figure allegedly pointed a tube-like device at him. Masse claimed he immediately became unable to move while remaining conscious. He watched the beings return to the craft before it departed rapidly. The paralysis reportedly lasted between fifteen and twenty minutes. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</span></span></span>
 
 ### Why the timeline matters
 
@@ -269,7 +268,6 @@ That does not automatically mean the story was invented. Witnesses often remembe
 One of the most persistent weaknesses in Masse’s account is the inconsistency in how close he actually came to the alleged craft.
 
 Different records associated with the case mention substantially different distances:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -290,7 +288,6 @@ This discrepancy created a serious interpretive problem:
 
 Supporters often argue that the witness viewed the object only briefly under stressful conditions and may have miscounted structural elements. Critics respond that the landing gear was one of the easiest features to observe and should not have varied so substantially.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jm3rXww0Q4E" title="Valensole 1965 : Le mystère OVNI qui intrigue encore 60 ans après" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jm3rXww0Q4E" target="_blank" rel="noopener noreferrer">Valensole 1965 : Le mystère OVNI qui intrigue encore 60 ans après</a></p><p class="youtube-embed-meta">Channel: ANews Sécurité &middot; Views: 69.5K &middot; Uploaded: August 2025 &middot; Length: 1 hour 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jm3rXww0Q4E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jm3rXww0Q4E">Open on YouTube</a></p></div></div></div>
 
 ## The Paralysis Claim and Its Difficulties
@@ -305,10 +302,11 @@ First, there was no independent witness. Nobody observed Masse during the allege
 
 Second, the physiological description is unusual. Temporary immobility without collapse, confusion, or loss of balance does not easily fit common medical conditions. Sceptics have proposed shock, fear-induced freezing, or altered memory reconstruction after the event. None fully explains the story, but neither does the testimony provide objective evidence of an external paralysis mechanism.
 
-Third, the duration changed somewhat across retellings. Some versions mention roughly fifteen minutes; others suggest closer to twenty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">HowStuffWorksThe 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</span></span></span>
+Third, the duration changed somewhat across retellings. Some versions mention roughly fifteen minutes; others suggest closer to twenty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">valensole ufo</span><span class="citation-popover-snippet">The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</span></span></span>
 
 Supporters see this as normal variation in human estimation under stress. Critics see it as another indication that the story became more dramatic over time.
 
+<img src="{{ "/assets/images/Valensole_incident_1_63f5cf_maurice_masse_accoun_dea8b2-Illustration-2-dark.svg" | relative_url }}" alt="The Witness illustration 2" data-theme-src-dark="{{ "/assets/images/Valensole_incident_1_63f5cf_maurice_masse_accoun_dea8b2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valensole_incident_1_63f5cf_maurice_masse_accoun_dea8b2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Was Maurice Masse a Credible Witness?
 
 ### Why investigators took him seriously
@@ -319,15 +317,11 @@ This reputation mattered enormously in 1965 rural France. Masse was not presenti
 
 The physical traces also reinforced the perception that something unusual had occurred. Investigators documented a central hole and hardened soil, and later claims emerged that lavender growth was affected for years afterward. These details helped prevent the case from being dismissed immediately as fantasy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in France</span><span class="citation-popover-snippet">UFO sightings in FranceJuly 1, 1965, Valensole, Alpes-de-Haute-Provence. An alleged UFO sighting and close encounter (Rencontre de Val...</span><span class="citation-popover-meta">Published: July 1, 1965</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RLP_sXOkFy4" title="24 H POUR FILMER UN OVNI A VALENSOLE ( révélation choc )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RLP_sXOkFy4" target="_blank" rel="noopener noreferrer">24 H POUR FILMER UN OVNI A VALENSOLE ( révélation choc )</a></p><p class="youtube-embed-meta">Channel: Clément EXPLORATION &middot; Views: 28.5K &middot; Uploaded: August 2025 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RLP_sXOkFy4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RLP_sXOkFy4">Open on YouTube</a></p></div></div></div>
-
 ### Why sincerity does not settle the case
 
 The strongest sceptical point is that a sincere witness can still misinterpret events or unconsciously reshape memory. Modern psychology treats eyewitness testimony as vulnerable to suggestion, reconstruction, and retrospective embellishment, especially after repeated retelling.
 
 Several features of the Valensole account became more elaborate over time:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -343,6 +337,8 @@ These additions do not prove deception, but they weaken the argument that the ac
 Another issue is exposure to popular UFO imagery. Critics have noted similarities between elements of Masse’s story and earlier science-fiction or comic-book depictions involving small humanoids, landed craft, and paralysis rays. One hypothesis proposed that the narrative may have been unconsciously influenced by illustrated stories circulating in France during the 1950s and early 1960s. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in France</span><span class="citation-popover-snippet">UFO sightings in FranceJuly 1, 1965, Valensole, Alpes-de-Haute-Provence. An alleged UFO sighting and close encounter (Rencontre de Val...</span><span class="citation-popover-meta">Published: July 1, 1965</span></span></span>
 
 That argument remains disputed. Even sceptical psychologists examining the case acknowledged that the parallels were incomplete rather than exact copies. Still, the possibility of cultural influence complicates claims that the account was wholly original.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RLP_sXOkFy4" title="24 H POUR FILMER UN OVNI A VALENSOLE ( révélation choc )" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RLP_sXOkFy4" target="_blank" rel="noopener noreferrer">24 H POUR FILMER UN OVNI A VALENSOLE ( révélation choc )</a></p><p class="youtube-embed-meta">Channel: Clément EXPLORATION &middot; Views: 28.5K &middot; Uploaded: August 2025 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RLP_sXOkFy4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RLP_sXOkFy4">Open on YouTube</a></p></div></div></div>
 
 ## Missing Corroboration
 
@@ -360,9 +356,7 @@ Masse strongly rejected this interpretation, insisting he knew what helicopters 
 
 The problem for sceptics is that a normal helicopter does not easily explain the humanoid figures or the paralysis claim. The problem for believers is that Masse’s evolving descriptions make it difficult to know exactly what he first perceived before the narrative became fixed around a UFO interpretation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lDoVf2dyXEk" title="Top 10 Recent UFO Sightings We Can No Longer Deny - Part 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lDoVf2dyXEk" target="_blank" rel="noopener noreferrer">Top 10 Recent UFO Sightings We Can No Longer Deny - Part 3</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10 &middot; Views: 27.1K &middot; Uploaded: March 2023 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lDoVf2dyXEk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lDoVf2dyXEk">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Valensole_incident_1_63f5cf_maurice_masse_accoun_dea8b2-Illustration-3-dark.svg" | relative_url }}" alt="The Witness illustration 3" data-theme-src-dark="{{ "/assets/images/Valensole_incident_1_63f5cf_maurice_masse_accoun_dea8b2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valensole_incident_1_63f5cf_maurice_masse_accoun_dea8b2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Agricultural equipment hypothesis
 
 Another theory proposed that the traces came from a fertiliser tank or agricultural machinery. Critics pointed out that some ground marks resembled farming equipment more than exotic landing gear. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO sightings in France</span><span class="citation-popover-snippet">UFO sightings in FranceJuly 1, 1965, Valensole, Alpes-de-Haute-Provence. An alleged UFO sighting and close encounter (Rencontre de Val...</span><span class="citation-popover-meta">Published: July 1, 1965</span></span></span>
@@ -377,12 +371,11 @@ Maurice Masse remained adamant for decades that he had not seen a helicopter or 
 
 Yet the evidence supporting that conviction remained limited:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * The key observations came from one person.
 * Important details changed over time.
-* The physical traces were ambiguous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/ynar1g/1965_french_ufo_case_from_valensole_with_physical/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">1965 french ufo case from valensole with physical</span><span class="citation-popover-snippet">Reddit1965 French UFO case from Valensole with physical tracesNovember 5, 2022 — Maurice Masse indicated that he was totally immobilized...</span><span class="citation-popover-meta">Published: November 5, 2022</span></span></span>
+* The physical traces were ambiguous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/ynar1g/1965_french_ufo_case_from_valensole_with_physical/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">1965 french ufo case from valensole with physical</span><span class="citation-popover-snippet">1965 French UFO case from Valensole with physical tracesNovember 5, 2022 — Maurice Masse indicated that he was totally immobilized...</span><span class="citation-popover-meta">Published: November 5, 2022</span></span></span>
 * The most sensational elements could not be independently verified.
 
 </div>
@@ -391,45 +384,89 @@ This combination is precisely why the case remains influential. Valensole is not
 
 For believers, Maurice Masse represents a credible rural witness reporting something genuinely anomalous. For sceptics, he represents how a sincere person can gradually build an extraordinary narrative around an unusual but ultimately mundane experience. The enduring mystery of Valensole lies in the fact that neither interpretation completely eliminates the other.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lDoVf2dyXEk" title="Top 10 Recent UFO Sightings We Can No Longer Deny - Part 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lDoVf2dyXEk" target="_blank" rel="noopener noreferrer">Top 10 Recent UFO Sightings We Can No Longer Deny - Part 3</a></p><p class="youtube-embed-meta">Channel: MostAmazingTop10 &middot; Views: 27.1K &middot; Uploaded: March 2023 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lDoVf2dyXEk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lDoVf2dyXEk">Open on YouTube</a></p></div></div></div>
+
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Reliable Was Maurice Masse&#x27;s Story?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Reliable Was Maurice Masse&#x27;s Story?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Maurice Masse guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Maurice+Masse+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Contains direct case notes tracking his 5:45 a.m. timeline, his distance estimates, the rugby-ball shaped object, and the bodily paralysi...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Landing Gear guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Landing+Gear+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles Masse&#x27;s background as a sincere witness with no obvious motive to invent an elaborate close encounter with small figures.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Maurice Masse books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Maurice+Masse+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches methodology to track down how memory and retrospective interpretation systemically add details over decades of retellings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anatomy of a Phenomenon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anatomy of a Phenomenon">Anatomy of a Phenomenon</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Analyzes the critical delta separating witness sincerity from sensory accuracy when observing unusual sights near dawn rise.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -466,15 +503,15 @@ For believers, Maurice Masse represents a credible rural witness reporting somet
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Valensole Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8ebcd5d474de2648e2ae.jpg' | relative_url }}" alt="Listing image for Valensole Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Valensole Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Valensole poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Valensole poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -482,15 +519,15 @@ For believers, Maurice Masse represents a credible rural witness reporting somet
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for POSTER POSTER VALENSOLE"><img src="{{ '/assets/images/marketplace-covers/a33e1eb17350428eca58.jpg' | relative_url }}" alt="Listing image for POSTER POSTER VALENSOLE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">POSTER POSTER VALENSOLE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Valensole poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Valensole poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +535,15 @@ For believers, Maurice Masse represents a credible rural witness reporting somet
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Valensole France Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e7b8d43c2e71cabc2b23.jpg' | relative_url }}" alt="Listing image for Valensole France Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Valensole France Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Valensole poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Valensole poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +551,15 @@ For believers, Maurice Masse represents a credible rural witness reporting somet
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for POSTER POSTER VALENSOLE"><img src="{{ '/assets/images/marketplace-covers/e3eeb3ee0f2326e40ecb.jpg' | relative_url }}" alt="Listing image for POSTER POSTER VALENSOLE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">POSTER POSTER VALENSOLE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Valensole poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Valensole poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,7 +567,7 @@ For believers, Maurice Masse represents a credible rural witness reporting somet
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="the-witness-de4755-how-reliable-was-maurice-masse-s-story-valensole-incident-1965-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -746,59 +783,59 @@ For believers, Maurice Masse represents a credible rural witness reporting somet
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Rencontre de Valensole  
-   Link: [https://fr.wikipedia.org/wiki/Rencontre_de_Valensole](https://fr.wikipedia.org/wiki/Rencontre_de_Valensole)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Rencontre_de_Valensole</a>  
 
 2. <a id="endnote-2"></a>
    Source: verdonxp.com  
    Title: Verdon-XPVerdon and the extraterrestrials  
-   Link: [https://verdonxp.com/en/verdon-and-extraterrestrials-the-valensole-meeting/](https://verdonxp.com/en/verdon-and-extraterrestrials-the-valensole-meeting/)  
+   Link: <a href="https://verdonxp.com/en/verdon-and-extraterrestrials-the-valensole-meeting/" target="_blank" rel="noopener noreferrer nofollow">https://verdonxp.com/en/verdon-and-extraterrestrials-the-valensole-meeting/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is a first-hand account of a...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.howstuffworks.com  
    Title: valensole ufo  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm](https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HowStuffWorksThe 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</p></details>
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/valensole-ufo.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1965 Valensole UFO EncounterIn 1965, the Valensole UFO landed near Maurice Masse&#x27;s workplace, and two figures exited the...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsFrench farmer, Maurice Massé, witnessed a spherical vehicle in his lavender field. He noticed and approa...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: valensole france ufo incident 1965 2 alien beings  
-   Link: [https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/](https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/sjkgcx/valensole_france_ufo_incident_1965_2_alien_beings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Valensole France UFO incident, 1965 - 2 alien beings...Valensole France UFO incident, 1965 - 2 alien beings paralyze a farmer with a &#x27;tu...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: 1965 french ufo case from valensole with physical  
-   Link: [https://www.reddit.com/r/UFOs/comments/ynar1g/1965_french_ufo_case_from_valensole_with_physical/](https://www.reddit.com/r/UFOs/comments/ynar1g/1965_french_ufo_case_from_valensole_with_physical/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit1965 French UFO case from Valensole with physical tracesNovember 5, 2022 — Maurice Masse indicated that he was totally immobilized...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/ynar1g/1965_french_ufo_case_from_valensole_with_physical/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/ynar1g/1965_french_ufo_case_from_valensole_with_physical/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>1965 French UFO case from Valensole with physical tracesNovember 5, 2022 — Maurice Masse indicated that he was totally immobilized...</p></details>
    Published: November 5, 2022  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: UFO sightings in France  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_France](https://en.wikipedia.org/wiki/UFO_sightings_in_France)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_France</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in FranceJuly 1, 1965, Valensole, Alpes-de-Haute-Provence. An alleged UFO sighting and close encounter (Rencontre de Val...</p></details>
    Published: July 1, 1965  
 
 8. <a id="endnote-8"></a>
    Source: thinkaboutitdocs.com  
-   Link: [https://www.thinkaboutitdocs.com/valensole-france-landing-maurice-masse-case/](https://www.thinkaboutitdocs.com/valensole-france-landing-maurice-masse-case/)  
+   Link: <a href="https://www.thinkaboutitdocs.com/valensole-france-landing-maurice-masse-case/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkaboutitdocs.com/valensole-france-landing-maurice-masse-case/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Think About It Docs1965: Valensole, France Landing (Maurice Masse Case)8 Apr 2013 — Masse reported his encounter in detail to local autho...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: silviolobo.com.br  
-   Link: [https://silviolobo.com.br/leitura/en/mysteries-xv/valensole-incident](https://silviolobo.com.br/leitura/en/mysteries-xv/valensole-incident)  
+   Link: <a href="https://silviolobo.com.br/leitura/en/mysteries-xv/valensole-incident" target="_blank" rel="noopener noreferrer nofollow">https://silviolobo.com.br/leitura/en/mysteries-xv/valensole-incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Valensole Incident - Sílvio de Souza Lôbo JúniorEvidence/Arguments: The detailed and consistent testimony of Maurice Masse, who seemed ge...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: viralufos.com  
    Title: valensole ufo  
-   Link: [https://www.viralufos.com/modern-encounters/valensole-ufo/](https://www.viralufos.com/modern-encounters/valensole-ufo/)  
+   Link: <a href="https://www.viralufos.com/modern-encounters/valensole-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.viralufos.com/modern-encounters/valensole-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Mysterious Encounter in 196510 Jun 2024 — One of the most compelling testimonies of the Valensole UFO incident comes from Maurice Masse...</p></details>
 
 ### Additional References
@@ -806,56 +843,56 @@ For believers, Maurice Masse represents a credible rural witness reporting somet
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: france valensole 1965 at dawn farmer maurice masse discovers a ufo in his lavend  
-   Link: [https://www.facebook.com/capcityfilmfest/posts/france-valensole-1965-at-dawn-farmer-maurice-masse-discovers-a-ufo-in-his-lavend/1170606348398500/](https://www.facebook.com/capcityfilmfest/posts/france-valensole-1965-at-dawn-farmer-maurice-masse-discovers-a-ufo-in-his-lavend/1170606348398500/)  
+   Link: <a href="https://www.facebook.com/capcityfilmfest/posts/france-valensole-1965-at-dawn-farmer-maurice-masse-discovers-a-ufo-in-his-lavend/1170606348398500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/capcityfilmfest/posts/france-valensole-1965-at-dawn-farmer-maurice-masse-discovers-a-ufo-in-his-lavend/1170606348398500/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>At dawn, farmer Maurice Masse...At dawn, farmer Maurice Masse discovers a UFO in his lavender field that takes off at an astonishing spe...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: linkedin.com  
    Title: stephaniesoquet activity 7358836061625556992 S uo  
-   Link: [https://www.linkedin.com/posts/stephaniesoquet_activity-7358836061625556992-S_uo](https://www.linkedin.com/posts/stephaniesoquet_activity-7358836061625556992-S_uo)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Stephanie SoquetAt dawn on July 1st, 1965, Maurice Masse, a lavender farmer in Provence, reported seeing non-human entities near a land...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/stephaniesoquet_activity-7358836061625556992-S_uo" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/stephaniesoquet_activity-7358836061625556992-S_uo</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stephanie SoquetAt dawn on July 1st, 1965, Maurice Masse, a lavender farmer in Provence, reported seeing non-human entities near a land...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/rawfans/posts/1376498592453057/](https://www.facebook.com/groups/rawfans/posts/1376498592453057/)  
+   Link: <a href="https://www.facebook.com/groups/rawfans/posts/1376498592453057/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/rawfans/posts/1376498592453057/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>simultaneously – for their accounts to...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/IFLScience/posts/the-team-think-the-glowing-is-actually-a-defense-mechanism/1469564548167991/](https://www.facebook.com/IFLScience/posts/the-team-think-the-glowing-is-actually-a-defense-mechanism/1469564548167991/)  
+   Link: <a href="https://www.facebook.com/IFLScience/posts/the-team-think-the-glowing-is-actually-a-defense-mechanism/1469564548167991/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IFLScience/posts/the-team-think-the-glowing-is-actually-a-defense-mechanism/1469564548167991/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The team think the glowing is actually a defense mechanism.Masse was left standing paralyzed in his field, but regained his mobility abou...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: open.spotify.com  
    Title: 5z6b5R7Klnwmn8Lzjkp Lq L  
-   Link: [https://open.spotify.com/episode/5z6b5R7Klnwmn8LzjkpLqL](https://open.spotify.com/episode/5z6b5R7Klnwmn8LzjkpLqL)  
+   Link: <a href="https://open.spotify.com/episode/5z6b5R7Klnwmn8LzjkpLqL" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/5z6b5R7Klnwmn8LzjkpLqL</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Valensole, France, where farmer Maurice Masse had a close encounter of the third kind in July 1965. While taking a cigarette break, Masse...</p></details>
    Published: July 1965  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/4aviation.flightline/posts/5621311381294224/](https://www.facebook.com/groups/4aviation.flightline/posts/5621311381294224/)  
+   Link: <a href="https://www.facebook.com/groups/4aviation.flightline/posts/5621311381294224/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/4aviation.flightline/posts/5621311381294224/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystere 4A 59 of ET 1/8 at Cazaux on 29 June 1975.Masse was left standing paralyzed in his field, but regained his mobility about fifteen...</p></details>
    Published: June 1975  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Valensole UFO Incident  
-   Link: [https://www.youtube.com/watch?v=9svxP5t_kXM](https://www.youtube.com/watch?v=9svxP5t_kXM)  
+   Link: <a href="https://www.youtube.com/watch?v=9svxP5t_kXM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9svxP5t_kXM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>France&#x27;s RoswellIn 1965, a farmer in rural in France spotted what he believed was a helicopter landing in one of his fields. When he ran...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Jm3rXww0Q4E](https://www.youtube.com/watch?v=Jm3rXww0Q4E)  
+   Link: <a href="https://www.youtube.com/watch?v=Jm3rXww0Q4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jm3rXww0Q4E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Valensole 1965&quot;: a French encounter of the third kind...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: 24 HOURS TO FILM A UFO IN VALENSOLE (shocking revelation)  
-   Link: [https://www.youtube.com/watch?v=RLP_sXOkFy4](https://www.youtube.com/watch?v=RLP_sXOkFy4)  
+   Link: <a href="https://www.youtube.com/watch?v=RLP_sXOkFy4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RLP_sXOkFy4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Recent UFO Sightings We Can No Longer Deny - Part 3...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/ru/podcast/291-valensole-ufo-encounter-of-1965/id1503581022?i=1000748318381&l=uk](https://podcasts.apple.com/ru/podcast/291-valensole-ufo-encounter-of-1965/id1503581022?i=1000748318381&l=uk)  
+   Link: <a href="https://podcasts.apple.com/ru/podcast/291-valensole-ufo-encounter-of-1965/id1503581022?i=1000748318381&amp;l=uk" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ru/podcast/291-valensole-ufo-encounter-of-1965/id1503581022?i=1000748318381&amp;l=uk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com291 Valensole UFO Encounter of 19654 Feb 2026 — The paranormal comedy podcast where we probe a top ten French UFO case - the 196...</p></details>

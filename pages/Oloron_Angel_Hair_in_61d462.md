@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Mainbrace Sightings
   permalink: /operation-mainbrace-sightings-1952/
   short_title: Mainbrace Sightings
-date: '2026-06-08 23:40:28 '
+date: '2026-06-11 13:23:26 '
 header:
   og_image: /assets/images/Oloron_Angel_Hair_in_61d462-overview-social.jpg
   preview_image: /assets/images/Oloron_Angel_Hair_in_61d462-overview.webp
@@ -760,16 +760,14 @@ image: /assets/images/Oloron_Angel_Hair_in_61d462-overview-social.jpg
 
 The Oloron “angel hair” incident was a reported UFO sighting at Oloron-Sainte-Marie in south-west France on 17 October 1952, in which [witnesses]({{ 'witnesses-062a30/' | relative_url }}) described a large, tilted, cigar-shaped object, many smaller red-and-yellow “saucer” forms, and white filaments falling over roofs, trees and wires. It matters because the case sits at the intersection of three things that often pull UFO reports in different directions: multiple witnesses, striking physical-looking residue, and a plausible natural mechanism. The strongest cautious reading is that people probably did see an unusual airborne filament event, but the leap from that to structured craft is much less secure. Later sceptical and scientific discussions point especially to spider ballooning: the autumn dispersal of small spiders on long gossamer threads, a real phenomenon that can coat fields and drift through the air in large quantities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rr0.org/science/crypto/ufo/enquete/dossier/Oloron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[rr0.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">L&#x27;observation d&#x27;Oloron-Sainte-Marie</span><span class="citation-popover-snippet">L&#x27;observation d&#x27;Oloron-Sainte-Marie</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.france-pittoresque.com/spip.php?article13187=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: france-pittoresque.com">[france-pittoresque.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">france-pittoresque.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhm.ac.uk/discover/what-are-spider-webs-made-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Oloron_Angel_Hair_in_61d462-overview.webp" | relative_url }}" alt="Overview image for Oloron Angel Hair incident 1952" loading="eager" decoding="sync" fetchpriority="high">
 ## What witnesses said happened over Oloron
 
-The central account comes from Yves Prigent, described in French summaries as a school supervisor, who reportedly saw the phenomenon with members of his family and other witnesses in and around Oloron-Sainte-Marie. The reported motion was towards the south-west. Later compilations describe a large white “cigar” inclined at about 45 degrees, with a plume or smoke-like feature, and roughly 30 smaller objects moving in pairs or zigzags nearby. Some accounts say Prigent used binoculars or opera glasses and perceived red spheres surrounded by yellow rings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rr0.org/science/crypto/ufo/enquete/indice/residu/filament/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[rr0.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-snippet">Open source on rr0.org.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works Angel Hair UFOs in Oloron, France | How Stuff Works</span><span class="citation-popover-snippet">How Stuff Works Angel Hair UFOs in Oloron, France | How Stuff Works</span></span></span>
+The central account comes from Yves Prigent, described in French summaries as a school supervisor, who reportedly saw the phenomenon with members of his family and other witnesses in and around Oloron-Sainte-Marie. The reported motion was towards the south-west. Later compilations describe a large white “cigar” inclined at about 45 degrees, with a plume or smoke-like feature, and roughly 30 smaller objects moving in pairs or zigzags nearby. Some accounts say Prigent used binoculars or opera glasses and perceived red spheres surrounded by yellow rings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rr0.org/science/crypto/ufo/enquete/indice/residu/filament/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[rr0.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-snippet">Open source on rr0.org.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works Angel Hair UFOs in Oloron, France &#124; How Stuff Works</span><span class="citation-popover-snippet">How Stuff Works Angel Hair UFOs in Oloron, France &#124; How Stuff Works</span></span></span>
 
-The most memorable part of the story is the falling material. Witnesses described white, hairlike strands or flakes settling on telephone wires, tree branches, roofs and open ground. In UFO literature this material became known as “angel hair”; in French discussion it is often connected with “threads of the Virgin”, a folk name used for airborne gossamer. Several retellings say the substance became gelatinous or vanished when handled, a detail that helped make the case famous but also makes the physical evidence hard to assess after the fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works Angel Hair UFOs in Oloron, France | How Stuff Works</span><span class="citation-popover-snippet">How Stuff Works Angel Hair UFOs in Oloron, France | How Stuff Works</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rr0.org/science/crypto/ufo/enquete/dossier/Oloron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[rr0.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">L&#x27;observation d&#x27;Oloron-Sainte-Marie</span><span class="citation-popover-snippet">L&#x27;observation d&#x27;Oloron-Sainte-Marie</span></span></span>
+The most memorable part of the story is the falling material. Witnesses described white, hairlike strands or flakes settling on telephone wires, tree branches, roofs and open ground. In UFO literature this material became known as “angel hair”; in French discussion it is often connected with “threads of the Virgin”, a folk name used for airborne gossamer. Several retellings say the substance became gelatinous or vanished when handled, a detail that helped make the case famous but also makes the physical evidence hard to assess after the fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works Angel Hair UFOs in Oloron, France &#124; How Stuff Works</span><span class="citation-popover-snippet">How Stuff Works Angel Hair UFOs in Oloron, France &#124; How Stuff Works</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rr0.org/science/crypto/ufo/enquete/dossier/Oloron/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[rr0.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">L&#x27;observation d&#x27;Oloron-Sainte-Marie</span><span class="citation-popover-snippet">L&#x27;observation d&#x27;Oloron-Sainte-Marie</span></span></span>
 
 The incident was not remembered only through later UFO books. Local and regional press accounts kept it in public memory: a later Sud Ouest-linked retrospective notes that France Dimanche put the Oloron “flying saucers” on its front page in October 1952, and that contemporary testimony was also gathered by Sud Ouest. That same retrospective reports that dozens of people gave descriptions to gendarmes, including hunters from the Josbaig area and the mayor of Géronce, while a witness named Michel Gylbert later recalled seeing light, transparent cloud-like material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.france-pittoresque.com/spip.php?article13187=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: france-pittoresque.com">[france-pittoresque.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">france-pittoresque.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Oloron_Angel_Hair_in_61d462-Illustration-1-dark.svg" | relative_url }}" alt="Oloron Angel Hair incident 1952 illustration 1" data-theme-src-dark="{{ "/assets/images/Oloron_Angel_Hair_in_61d462-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oloron_Angel_Hair_in_61d462-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the “angel hair” looked like evidence
@@ -780,19 +778,17 @@ That is also why the case remains frustrating. The material was reportedly trans
 
 The broader UFO literature has long recognised this problem with “angel hair” cases. The Condon Report’s section on direct physical evidence described such material as fibrous, unstable and prone to disintegration, with reports of streamers hanging from wires and branches, vanishing on touch, burning like cellophane, or disappearing during observation. That report also noted that some “angel hair” deposits had been identified as cobwebs from ballooning spiders, and that in at least one case small spiders were found in the material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report Section III, Chapter 3: Direct Physical Evidence...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hfrg0rhIaGg" title="UFO Emits Weird White Material Onto Small French Town | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hfrg0rhIaGg" target="_blank" rel="noopener noreferrer">UFO Emits Weird White Material Onto Small French Town | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 1.4M &middot; Uploaded: October 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hfrg0rhIaGg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hfrg0rhIaGg">Open on YouTube</a></p></div></div></div>
 
 ## The spider-ballooning explanation
 
 The leading ordinary explanation for the Oloron filaments is spider ballooning, sometimes called kiting. Small spiders climb to an elevated point, release silk threads, and are lifted or carried by wind and sometimes electrostatic currents. The Natural History Museum describes this as a mass dispersal method used by spiderlings and small adults; it can carry them many thousands of metres, and mass events can leave whole fields coated in gossamer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhm.ac.uk/discover/what-are-spider-webs-made-of.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhm.ac.uk">[Natural History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhm.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The British Arachnological Society gives the same mechanism in plainer field terms: young spiders climb grass, posts or other structures, point their abdomen upwards, release silk, and the wind catches the thread. The spider may travel only a short distance or, in some cases, far longer. The society particularly associates this behaviour with small spiders such as money spiders of the family Linyphiidae. <span class="citation-chip-wrap"><a class="citation-chip" href="https://britishspiders.org.uk/flying-spiders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishspiders.org.uk">[British Arachnological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishspiders.org.uk</span><span class="citation-popover-title">British Arachnological Society Flying Spiders | British Arachnological Society</span><span class="citation-popover-snippet">British Arachnological Society Flying Spiders | British Arachnological Society</span></span></span>
+The British Arachnological Society gives the same mechanism in plainer field terms: young spiders climb grass, posts or other structures, point their abdomen upwards, release silk, and the wind catches the thread. The spider may travel only a short distance or, in some cases, far longer. The society particularly associates this behaviour with small spiders such as money spiders of the family Linyphiidae. <span class="citation-chip-wrap"><a class="citation-chip" href="https://britishspiders.org.uk/flying-spiders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishspiders.org.uk">[British Arachnological Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishspiders.org.uk</span><span class="citation-popover-title">British Arachnological Society Flying Spiders &#124; British Arachnological Society</span><span class="citation-popover-snippet">British Arachnological Society Flying Spiders &#124; British Arachnological Society</span></span></span>
 
 This explanation fits several Oloron details well. The date was mid-October, exactly the season in which gossamer falls are commonly noticed in temperate regions. Witnesses described drifting filaments, air-current movement, deposits on wires and trees, and fragile material that did not survive ordinary handling. A French sceptical article in Science et pseudo-sciences explicitly links the Oloron “filament tail” to a spider specialist’s explanation: threads emitted in autumn by a variety of spiders, a familiar phenomenon to gardeners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afis.org/L-invasion-des-ovnis-ou-en-est-on-actuellement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afis.org">[Afis Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afis.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 It does not automatically explain every visual claim. A mass of sunlit silk can create bright, shimmering, cloudlike, or streaking forms; binocular viewing, wind motion and expectation can add structure. But the specific claims of a large cigar-shaped object, red spheres, yellow rings, and paired zigzagging objects depend mainly on witness interpretation rather than surviving physical evidence. That is the central evidential divide in the case: the filaments have a strong natural analogue, while the “craft” descriptions remain testimonial.
-
 
 <img src="{{ "/assets/images/Oloron_Angel_Hair_in_61d462-Illustration-2-dark.svg" | relative_url }}" alt="Oloron Angel Hair incident 1952 illustration 2" data-theme-src-dark="{{ "/assets/images/Oloron_Angel_Hair_in_61d462-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oloron_Angel_Hair_in_61d462-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Were there official findings?
@@ -802,7 +798,6 @@ There is no modern French GEIPAN case file from 1952 to lean on in the way one c
 What the Oloron record appears to contain instead is a mixture of press reporting, witness testimony, gendarmerie contact, informal or semi-formal attention from military authorities, and later ufological compilation. The later Sud Ouest-linked account says witnesses described the scene to gendarmes and that collected filaments were meant for the military, but the available public summaries do not provide a preserved laboratory chain of custody or a surviving analytic report for the Oloron material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.france-pittoresque.com/spip.php?article13187=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: france-pittoresque.com">[france-pittoresque.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">france-pittoresque.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A further caution concerns claims sometimes repeated in UFO summaries that radar at Mont-de-Marsan also detected the objects. RR0’s dossier mentions such a claim but marks it with “Source?”; that is an important warning. Without a traceable radar record, operator statement, time match, and technical context, the radar element should not be treated as established corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rr0.org/science/crypto/ufo/enquete/indice/residu/filament/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[rr0.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-snippet">Open source on rr0.org.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B8_brGAmvHY" title="Angel Hair, UFO&#x27;s, High Voltage, and Superconductors!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B8_brGAmvHY" target="_blank" rel="noopener noreferrer">Angel Hair, UFO&#x27;s, High Voltage, and Superconductors!</a></p><p class="youtube-embed-meta">Channel: jaynes network &middot; Views: 3.2K &middot; Uploaded: December 2020 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B8_brGAmvHY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B8_brGAmvHY">Open on YouTube</a></p></div></div></div>
 
@@ -814,7 +809,6 @@ But witness quantity is not the same as proof of an extraordinary origin. Many w
 
 The “angel hair” itself also weakens as physical evidence because it was not preserved under documented conditions. The Condon Report’s broader treatment of such material is relevant here: many alleged UFO residues lose evidential force when they vanish, are not collected securely, or turn out to have ordinary origins such as spider silk, house paint residue, or radar chaff in other cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report Section III, Chapter 3: Direct Physical Evidence...</span></span></span>
 
-
 <img src="{{ "/assets/images/Oloron_Angel_Hair_in_61d462-Illustration-3-dark.svg" | relative_url }}" alt="Oloron Angel Hair incident 1952 illustration 3" data-theme-src-dark="{{ "/assets/images/Oloron_Angel_Hair_in_61d462-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oloron_Angel_Hair_in_61d462-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Oloron fits into the 1952 UFO wave
 
@@ -822,8 +816,7 @@ Oloron took place during a major period of UFO attention in the early 1950s. In 
 
 That wider context matters because 1952 was a year when “flying saucers” were already a cultural and media phenomenon. Reports were being read through a new vocabulary of discs, cigars and aerial formations. France also experienced a strong UFO press wave in the early 1950s, and Oloron’s press framing helped make it one of the country’s classic cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.afis.org/L-invasion-des-ovnis-ou-en-est-on-actuellement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afis.org">[Afis Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afis.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A closely related report was made ten days later at Gaillac, also in France, where another “angel hair” episode entered UFO literature. That comparison is useful, but it should not be used to inflate Oloron by association. It shows that similar reports were circulating in the same period; it does not, by itself, prove a common extraordinary cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works Angel Hair UFOs in Oloron, France | How Stuff Works</span><span class="citation-popover-snippet">How Stuff Works Angel Hair UFOs in Oloron, France | How Stuff Works</span></span></span>
-
+A closely related report was made ten days later at Gaillac, also in France, where another “angel hair” episode entered UFO literature. That comparison is useful, but it should not be used to inflate Oloron by association. It shows that similar reports were circulating in the same period; it does not, by itself, prove a common extraordinary cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works Angel Hair UFOs in Oloron, France &#124; How Stuff Works</span><span class="citation-popover-snippet">How Stuff Works Angel Hair UFOs in Oloron, France &#124; How Stuff Works</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JrS0igctMi0" title="Watch a ‘ballooning’ spider take flight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JrS0igctMi0" target="_blank" rel="noopener noreferrer">Watch a ‘ballooning’ spider take flight</a></p><p class="youtube-embed-meta">Channel: Science Magazine &middot; Views: 387.4K &middot; Uploaded: April 2018 &middot; Length: 1 minute 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JrS0igctMi0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JrS0igctMi0">Open on YouTube</a></p></div></div></div>
 
@@ -836,44 +829,86 @@ The strongest explanation for the physical-looking part of the case is spider go
 The result is a case that is valuable less as proof of alien craft than as a lesson in UFO evidence. Oloron shows how a real natural phenomenon can become extraordinary when seen in unusual conditions, interpreted through a “flying saucer” moment, reported by many people, and then preserved in books and archives long after the physical material has vanished.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Fell Over Oloron?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Fell Over Oloron?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Oloron incident objectively, summarizing the observations of the falling filaments and the structured craft claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Contextualizes Oloron as a part of the long history of &#x27;angel hair&#x27; phenomena within the wider UFO literature.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches investigative standards to differentiate between unidentified atmospheric phenomena and misinterpreted biological ballooning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Explains the institutional context behind how UFO reports were processed in mid-century France and elsewhere.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -910,15 +945,15 @@ The result is a case that is valuable less as proof of alien craft than as a les
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -926,15 +961,15 @@ The result is a case that is valuable less as proof of alien craft than as a les
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -942,15 +977,15 @@ The result is a case that is valuable less as proof of alien craft than as a les
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -958,15 +993,15 @@ The result is a case that is valuable less as proof of alien craft than as a les
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -974,7 +1009,7 @@ The result is a case that is valuable less as proof of alien craft than as a les
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="oloron-angel-hair-incident-1952-what-really-fell-over-oloron-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-fell-over-oloron-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-fell-over-oloron-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1190,160 +1225,160 @@ The result is a case that is valuable less as proof of alien craft than as a les
 1. <a id="endnote-1"></a>
    Source: rr0.org  
    Title: L'observation d'Oloron-Sainte-Marie  
-   Link: [https://rr0.org/science/crypto/ufo/enquete/dossier/Oloron/](https://rr0.org/science/crypto/ufo/enquete/dossier/Oloron/)  
+   Link: <a href="https://rr0.org/science/crypto/ufo/enquete/dossier/Oloron/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier/Oloron/</a>  
 
 2. <a id="endnote-2"></a>
    Source: france-pittoresque.com  
-   Link: [https://www.france-pittoresque.com/spip.php?article13187=](https://www.france-pittoresque.com/spip.php?article13187=)  
+   Link: <a href="https://www.france-pittoresque.com/spip.php?article13187=" target="_blank" rel="noopener noreferrer nofollow">https://www.france-pittoresque.com/spip.php?article13187=</a>  
 
 3. <a id="endnote-3"></a>
    Source: science.howstuffworks.com  
    Title: How Stuff Works Angel Hair UFOs in Oloron, France | How Stuff Works  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm](https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/angel-hair-ufo.htm</a>  
 
 4. <a id="endnote-4"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/s3chap03.htm](https://files.ncas.org/condon/text/s3chap03.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap03.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report Section III, Chapter 3: Direct Physical Evidence...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: afis.org  
-   Link: [https://www.afis.org/L-invasion-des-ovnis-ou-en-est-on-actuellement](https://www.afis.org/L-invasion-des-ovnis-ou-en-est-on-actuellement)  
+   Link: <a href="https://www.afis.org/L-invasion-des-ovnis-ou-en-est-on-actuellement" target="_blank" rel="noopener noreferrer nofollow">https://www.afis.org/L-invasion-des-ovnis-ou-en-est-on-actuellement</a>  
 
 6. <a id="endnote-6"></a>
    Source: cnes.fr  
-   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
+   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 8. <a id="endnote-8"></a>
    Source: science.howstuffworks.com  
    Title: angel hair phenomenon  
-   Link: [https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/angel-hair-phenomenon.htm](https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/angel-hair-phenomenon.htm)  
+   Link: <a href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/angel-hair-phenomenon.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/angel-hair-phenomenon.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: ncas.org  
-   Link: [https://www.ncas.org/p/library.html](https://www.ncas.org/p/library.html)  
+   Link: <a href="https://www.ncas.org/p/library.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ncas.org/p/library.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf](https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf)  
+   Link: <a href="https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/1965JacquesValleeAnatomyOfAPhenomenonnotOCR/%281965%29%20Jacques%20Vallee%20-%20Anatomy%20of%20a%20Phenomenon%20%28not%20OCR%29.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: [https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf](https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
 
 12. <a id="endnote-12"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
 13. <a id="endnote-13"></a>
    Source: rr0.org  
-   Link: [https://rr0.org/science/crypto/ufo/enquete/indice/residu/filament/](https://rr0.org/science/crypto/ufo/enquete/indice/residu/filament/)  
+   Link: <a href="https://rr0.org/science/crypto/ufo/enquete/indice/residu/filament/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/indice/residu/filament/</a>  
 
 14. <a id="endnote-14"></a>
    Source: nhm.ac.uk  
-   Link: [https://www.nhm.ac.uk/discover/what-are-spider-webs-made-of.html](https://www.nhm.ac.uk/discover/what-are-spider-webs-made-of.html)  
+   Link: <a href="https://www.nhm.ac.uk/discover/what-are-spider-webs-made-of.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nhm.ac.uk/discover/what-are-spider-webs-made-of.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: britishspiders.org.uk  
    Title: British Arachnological Society Flying Spiders | British Arachnological Society  
-   Link: [https://britishspiders.org.uk/flying-spiders](https://britishspiders.org.uk/flying-spiders)  
+   Link: <a href="https://britishspiders.org.uk/flying-spiders" target="_blank" rel="noopener noreferrer nofollow">https://britishspiders.org.uk/flying-spiders</a>  
 
 16. <a id="endnote-16"></a>
    Source: cnes-geipan.fr  
    Title: missions methodes et resultats  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
 
 17. <a id="endnote-17"></a>
    Source: isaackoi.com  
    Title: 19521017 oloron qangel hairq incident  
-   Link: [https://isaackoi.com/ufo-history/ufo/19521017-oloron-qangel-hairq-incident/](https://isaackoi.com/ufo-history/ufo/19521017-oloron-qangel-hairq-incident/)  
+   Link: <a href="https://isaackoi.com/ufo-history/ufo/19521017-oloron-qangel-hairq-incident/" target="_blank" rel="noopener noreferrer nofollow">https://isaackoi.com/ufo-history/ufo/19521017-oloron-qangel-hairq-incident/</a>  
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 19. <a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/GEIPAN](https://en.wikipedia.org/wiki/GEIPAN)  
+   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
 
 20. <a id="endnote-20"></a>
    Source: newspaceeconomy.ca  
    Title: GEIPA N: Frances UAP Investigation Unit  
-   Link: [https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/](https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/)  
+   Link: <a href="https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/07/29/geipan-frances-uap-investigation-unit/</a>  
 
 21. <a id="endnote-21"></a>
    Source: academieairespace.com  
    Title: GEIPA N studies UAPs/UFOs  
-   Link: [https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en](https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en)  
+   Link: <a href="https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://academieairespace.com/event/geipan-studies-uaps-ufos/?lang=en</a>  
 
 22. <a id="endnote-22"></a>
    Source: uapedia.ai  
    Title: geipan frances official uap unit  
-   Link: [https://uapedia.ai/wiki/geipan-frances-official-uap-unit/](https://uapedia.ai/wiki/geipan-frances-official-uap-unit/)  
+   Link: <a href="https://uapedia.ai/wiki/geipan-frances-official-uap-unit/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/geipan-frances-official-uap-unit/</a>  
 
 23. <a id="endnote-23"></a>
    Source: mysteriousworld.fandom.com  
    Title: Angel hair  
-   Link: [https://mysteriousworld.fandom.com/wiki/Angel_hair](https://mysteriousworld.fandom.com/wiki/Angel_hair)  
+   Link: <a href="https://mysteriousworld.fandom.com/wiki/Angel_hair" target="_blank" rel="noopener noreferrer nofollow">https://mysteriousworld.fandom.com/wiki/Angel_hair</a>  
 
 24. <a id="endnote-24"></a>
    Source: encyclopedia.com  
    Title: condon report  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/condon-report</a>  
 
 25. <a id="endnote-25"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Mysterious Threads Fell From The Sky | Angel Hair Phenomena  
-   Link: [https://www.youtube.com/watch?v=9pRq_EhGMPw](https://www.youtube.com/watch?v=9pRq_EhGMPw)  
+   Link: <a href="https://www.youtube.com/watch?v=9pRq_EhGMPw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9pRq_EhGMPw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1952: THE INVASION OF WASHINGTON | DOCUMENTARY | 2024 | V ORIGINAL | TRAILER...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
 28. <a id="endnote-28"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
 29. <a id="endnote-29"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction](https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction)  
+   Link: <a href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction</a>  
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
    Title: Angel Hair, UFO's, High Voltage, and Superconductors!  
-   Link: [https://www.youtube.com/watch?v=B8_brGAmvHY](https://www.youtube.com/watch?v=B8_brGAmvHY)  
+   Link: <a href="https://www.youtube.com/watch?v=B8_brGAmvHY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B8_brGAmvHY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Threads Fell From The Sky | Angel Hair Phenomena...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/q839es/angel_hair_is_a_phenomenon_barely_talked_about/](https://www.reddit.com/r/ufo/comments/q839es/angel_hair_is_a_phenomenon_barely_talked_about/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/q839es/angel_hair_is_a_phenomenon_barely_talked_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/q839es/angel_hair_is_a_phenomenon_barely_talked_about/</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/9NewsMelbourne/posts/are-you-seeing-what-were-seeing-hundreds-of-thousands-of-spider-webs-have-floate/2583460148584297/](https://www.facebook.com/9NewsMelbourne/posts/are-you-seeing-what-were-seeing-hundreds-of-thousands-of-spider-webs-have-floate/2583460148584297/)  
+   Link: <a href="https://www.facebook.com/9NewsMelbourne/posts/are-you-seeing-what-were-seeing-hundreds-of-thousands-of-spider-webs-have-floate/2583460148584297/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/9NewsMelbourne/posts/are-you-seeing-what-were-seeing-hundreds-of-thousands-of-spider-webs-have-floate/2583460148584297/</a>  
 
 34. <a id="endnote-34"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com](https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
 
 35. <a id="endnote-35"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/264153635/An-Analysis-of-AngeL-Hair](https://www.scribd.com/document/264153635/An-Analysis-of-AngeL-Hair)  
+   Link: <a href="https://www.scribd.com/document/264153635/An-Analysis-of-AngeL-Hair" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/264153635/An-Analysis-of-AngeL-Hair</a>

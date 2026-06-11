@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /betty-and-barney-hill-abduction-1961/
 nav_short_title: Blue Book
 title: What Did the Air Force Actually Record?
-title_full: What Did the Air Force Actually Record? | Hill Encounter
+title_full: What Did the Air Force Actually Record?
 display_title_short: Blue Book
 display_title: Blue Book
 heading_title: What Did the Air Force Actually Record?
@@ -233,7 +233,7 @@ next_link:
   permalink: /hypnosis/
   short_title: Hypnosis
   heading_title: Can Hypnosis Recover Alien Memories?
-date: '2026-06-08 23:18:30 '
+date: '2026-06-11 13:11:19 '
 header:
   og_image: /assets/images/Betty_and_Barney_Hil_3bcafa_blue_book_evidence_520b99-Illustration-1-social.jpg
   preview_image: /assets/images/Betty_and_Barney_Hil_3bcafa_blue_book_evidence_520b99-Illustration-1.webp
@@ -242,20 +242,18 @@ image: /assets/images/Betty_and_Barney_Hil_3bcafa_blue_book_evidence_520b99-Illu
 
 ## Introduction
 
-The [Betty and Barney]({{ 'betty-and-barney-hill-abduction-1961/' | relative_url }}) Hill case entered the historical record not as a fully formed alien-abduction story, but as an official United States Air Force UFO report. That distinction matters. The earliest documentation from Project Blue Book and related investigators confirms that the Hills promptly reported a disturbing aerial sighting in September 1961 and that military personnel considered the report unusual enough to file and investigate. What the records do not confirm is an extraterrestrial abduction. Instead, the official file shows a gradual shift from an unresolved close-encounter report toward an “insufficient data” classification that reflected uncertainty rather than endorsement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mentalfloss.com/article/649683/betty-and-barney-hill-alien-abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalfloss.com">[Mental Floss]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalfloss.com</span><span class="citation-popover-title">betty and barney hill alien abduction</span><span class="citation-popover-snippet">” The Hills&#x27; case was filed under “insufficient data,” a...Read more...</span></span></span> NICAP This early documentary trail is important because it predates the famous hypnosis sessions and later media retellings. Before the <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPBlue Book, 0450-74On November 15, 1961, almost two months after the Barney and Betty Hill sighting, a Project Blue Book official tel...</span><span class="citation-popover-meta">Published: November 15, 1961</span></span></span>“missing time” narrative became central to UFO culture, there were Air Force memos, witness interviews, notes about lights over New Hampshire, and attempts — sometimes incomplete or speculative — to explain what the Hills saw. The surviving evidence therefore reveals less about proven alien contact than about how Cold War-era investigators handled a credible but ambiguous UFO report.
-
+The Betty and Barney Hill case entered the historical record not as a fully formed alien-abduction story, but as an official United States Air Force UFO report. That distinction matters. The earliest documentation from Project Blue Book and related investigators confirms that the Hills promptly reported a disturbing aerial sighting in September 1961 and that military personnel considered the report unusual enough to file and investigate. What the records do not confirm is an extraterrestrial abduction. Instead, the official file shows a gradual shift from an unresolved close-encounter report toward an “insufficient data” classification that reflected uncertainty rather than endorsement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mentalfloss.com/article/649683/betty-and-barney-hill-alien-abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalfloss.com">[Mental Floss]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalfloss.com</span><span class="citation-popover-title">betty and barney hill alien abduction</span><span class="citation-popover-snippet">” The Hills&#x27; case was filed under “insufficient data,” a...Read more...</span></span></span> NICAP This early documentary trail is important because it predates the famous hypnosis sessions and later media retellings. Before the <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Blue Book, 0450-74On November 15, 1961, almost two months after the Barney and Betty Hill sighting, a Project Blue Book official tel...</span><span class="citation-popover-meta">Published: November 15, 1961</span></span></span>“missing time” narrative became central to UFO culture, there were Air Force memos, witness interviews, notes about lights over New Hampshire, and attempts — sometimes incomplete or speculative — to explain what the Hills saw. The surviving evidence therefore reveals less about proven alien contact than about how Cold War-era investigators handled a credible but ambiguous UFO report.
 
 <img src="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_blue_book_evidence_520b99-Illustration-1-dark.svg" | relative_url }}" alt="Blue Book illustration 1" data-theme-src-dark="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_blue_book_evidence_520b99-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_blue_book_evidence_520b99-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Did the Air Force Actually Record?
 
 ### The Henderson information report
 
-The first official response began almost immediately after the Hills returned home to Portsmouth, New Hampshire. Betty Hill contacted Pease Air Force Base within days of the incident, and Major Paul W. Henderson gathered a formal account for Project Blue Book. Contemporary summaries and later archival references show that the Air Force treated the event as a legitimate UFO sighting report rather than dismissing it outright as a prank or fantasy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/on-the-trail-of-the-saucers/how-a-determined-reporter-broke-ufo-journalisms-first-viral-story-fe92b4bc0e71" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumThe Reporter Who Really Broke the Hill UFO Abduction StoryThe next day Major Paul Henderson at Pease AFB took a second full account...</span></span></span>
+The first official response began almost immediately after the Hills returned home to Portsmouth, New Hampshire. Betty Hill contacted Pease Air Force Base within days of the incident, and Major Paul W. Henderson gathered a formal account for Project Blue Book. Contemporary summaries and later archival references show that the Air Force treated the event as a legitimate UFO sighting report rather than dismissing it outright as a prank or fantasy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/on-the-trail-of-the-saucers/how-a-determined-reporter-broke-ufo-journalisms-first-viral-story-fe92b4bc0e71" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The Reporter Who Really Broke the Hill UFO Abduction StoryThe next day Major Paul Henderson at Pease AFB took a second full account...</span></span></span>
 
 The Henderson report described a brightly illuminated object observed during the night drive through the White Mountains near Lincoln, New Hampshire. The Hills reported that the object appeared to manoeuvre erratically, change apparent shape, and descend toward their vehicle. According to later reproductions of the report, Barney described seeing rows of windows and figures through binoculars while the object hovered at relatively low altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barney and Betty Hill incident</span><span class="citation-popover-snippet">Barney and Betty Hill incident</span></span></span>
 
 Several details in the early file are significant because they appeared before the [hypnosis]({{ 'hypnosis/' | relative_url }}) sessions that later generated the abduction narrative:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -276,7 +274,6 @@ The timing of the report also mattered. Because the Hills contacted military aut
 
 Still, “credible witnesses” did not mean “confirmed extraordinary event”. The surviving Blue Book material reflects caution throughout. Officials documented what the Hills claimed to have seen, but they never authenticated the more dramatic conclusions later associated with the case.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SmDxXcRCkN4" title="The Truth About Betty Hill&#x27;s UFO Star Map | UFO: The Lost Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SmDxXcRCkN4" target="_blank" rel="noopener noreferrer">The Truth About Betty Hill&#x27;s UFO Star Map | UFO: The Lost Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery UK &middot; Views: 234.0K &middot; Uploaded: August 2019 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SmDxXcRCkN4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SmDxXcRCkN4">Open on YouTube</a></p></div></div></div>
 
 ## Why the Case Became “Insufficient Data”
@@ -293,20 +290,18 @@ The Hills’ report contained several weaknesses from an evidential standpoint:
 * Distance and size estimates changed over time.
 * The most dramatic claims depended entirely on witness memory.
 * The [timeline]({{ 'timeline/' | relative_url }}) became more elaborate after hypnosis.
-* Independent radar confirmation remained uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPBlue Book, 0450-74On November 15, 1961, almost two months after the Barney and Betty Hill sighting, a Project Blue Book official tel...</span><span class="citation-popover-meta">Published: November 15, 1961</span></span></span>
+* Independent radar confirmation remained uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Blue Book, 0450-74On November 15, 1961, almost two months after the Barney and Betty Hill sighting, a Project Blue Book official tel...</span><span class="citation-popover-meta">Published: November 15, 1961</span></span></span>
 
 Blue Book investigators also explored conventional explanations. Some later sceptical analyses proposed that the Hills may initially have observed Jupiter or another bright celestial object under unusual viewing conditions. Others suggested aircraft lights, atmospheric distortion, fatigue, stress, or misperception during a long nighttime drive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ronanwills.com/ronans-blog/2019/10/14/spooky-or-not-the-abduction-of-betty-and-barney-hill" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ronanwills.com">[Ronan&#x27;s Internet Content Venue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ronanwills.com</span><span class="citation-popover-title">spooky or not the abduction of betty and barney hill</span><span class="citation-popover-snippet">Ronan&#x27;s Internet Content VenueSpooky or Not: The Abduction of Betty and Barney Hill15 Oct 2019 — The Hills got a friendlier reception fro...</span></span></span>
-
 
 <img src="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_blue_book_evidence_520b99-Illustration-2-dark.svg" | relative_url }}" alt="Blue Book illustration 2" data-theme-src-dark="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_blue_book_evidence_520b99-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_blue_book_evidence_520b99-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The limits of the Air Force investigation
 
-One reason the Hill case remains controversial is that Blue Book’s investigation appears incomplete even by the standards of the era. Later researchers critical of the Air Force response argued that officials pursued speculative explanations without fully testing them. NICAP-associated commentary claimed that Blue Book explored atmospheric inversion theories and searchlight explanations but conducted limited follow-up work with scientific facilities that might have analysed the claims more rigorously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPBlue Book, 0450-74On November 15, 1961, almost two months after the Barney and Betty Hill sighting, a Project Blue Book official tel...</span><span class="citation-popover-meta">Published: November 15, 1961</span></span></span>
+One reason the Hill case remains controversial is that Blue Book’s investigation appears incomplete even by the standards of the era. Later researchers critical of the Air Force response argued that officials pursued speculative explanations without fully testing them. NICAP-associated commentary claimed that Blue Book explored atmospheric inversion theories and searchlight explanations but conducted limited follow-up work with scientific facilities that might have analysed the claims more rigorously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Blue Book, 0450-74On November 15, 1961, almost two months after the Barney and Betty Hill sighting, a Project Blue Book official tel...</span><span class="citation-popover-meta">Published: November 15, 1961</span></span></span>
 
 This has produced two competing interpretations of the same record.
 
 Believers argue that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -318,7 +313,6 @@ Believers argue that:
 
 Sceptics argue that:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * unresolved does not mean extraterrestrial;
@@ -328,7 +322,6 @@ Sceptics argue that:
 </div>
 
 The official file itself ultimately supports neither extreme position cleanly. It documents a sincere and unsettling report while stopping far short of validating alien contact.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gKXBpZGhbaI" title="Hypnotherapy Used To Uncover Hidden Memories Of Alien Abduction | UFOs: The Lost Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gKXBpZGhbaI" target="_blank" rel="noopener noreferrer">Hypnotherapy Used To Uncover Hidden Memories Of Alien Abduction | UFOs: The Lost Evidence</a></p><p class="youtube-embed-meta">Channel: Discovery Australia &middot; Views: 71.5K &middot; Uploaded: July 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gKXBpZGhbaI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gKXBpZGhbaI">Open on YouTube</a></p></div></div></div>
 
@@ -346,11 +339,10 @@ The dress was never shown conclusively to contain exotic materials or radiation.
 
 From a forensic perspective, the problem was not merely that the traces were ordinary; it was that they were ambiguous. Torn clothing, scuffs, stains, and magnetic reactions can arise through many mundane causes, especially when documentation begins after the fact.
 
-
 <img src="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_blue_book_evidence_520b99-Illustration-3-dark.svg" | relative_url }}" alt="Blue Book illustration 3" data-theme-src-dark="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_blue_book_evidence_520b99-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Betty_and_Barney_Hil_3bcafa_blue_book_evidence_520b99-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The “missing time” problem
 
-The strongest emotional component of the early evidence was not physical residue but chronology. The Hills believed that approximately two hours of travel time were unaccounted for during the drive through New Hampshire. This became one of the defining features of later alien-abduction narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/frequency-machine/origin-story-the-night-ufo-abductions-were-born-9c4513927e90" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumOrigin Story: The Night UFO Abductions Were BornA New Hampshire couple on a road trip named Barney and Betty Hill encountered stran...</span></span></span>
+The strongest emotional component of the early evidence was not physical residue but chronology. The Hills believed that approximately two hours of travel time were unaccounted for during the drive through New Hampshire. This became one of the defining features of later alien-abduction narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/frequency-machine/origin-story-the-night-ufo-abductions-were-born-9c4513927e90" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Origin Story: The Night UFO Abductions Were BornA New Hampshire couple on a road trip named Barney and Betty Hill encountered stran...</span></span></span>
 
 However, the early official record treated this cautiously. Investigators could not independently establish what happened during the allegedly missing period. No external witness placed the Hills elsewhere, and no objective timing mechanism verified a disappearance.
 
@@ -370,53 +362,93 @@ At the same time, the official record also imposed limits that are sometimes los
 * Betty and Barney Hill genuinely reported an alarming UFO sighting in 1961. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Barney and Betty Hill incident</span><span class="citation-popover-snippet">Barney and Betty Hill incident</span></span></span>
 * Military personnel formally documented the report.
 * Investigators could not fully explain what the Hills believed they saw.
-* The Air Force did not conclude that aliens abducted the couple. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mentalfloss.com/article/649683/betty-and-barney-hill-alien-abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalfloss.com">[Mental Floss]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalfloss.com</span><span class="citation-popover-title">betty and barney hill alien abduction</span><span class="citation-popover-snippet">” The Hills&#x27; case was filed under “insufficient data,” a...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP That gap between]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPBlue Book, 0450-74On November 15, 1961, almost two months after the Barney and Betty Hill sighting, a Project Blue Book official tel...</span><span class="citation-popover-meta">Published: November 15, 1961</span></span></span>“unexplained” and “proven extraterrestrial event” became central to the wider UFO debate. The Hill case survived for decades precisely because it occupies that uncertain middle ground: stronger than a casual sighting story, but far weaker than definitive evidence of alien visitation.
+* The Air Force did not conclude that aliens abducted the couple. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mentalfloss.com/article/649683/betty-and-barney-hill-alien-abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalfloss.com">[Mental Floss]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalfloss.com</span><span class="citation-popover-title">betty and barney hill alien abduction</span><span class="citation-popover-snippet">” The Hills&#x27; case was filed under “insufficient data,” a...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP That gap between]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Blue Book, 0450-74On November 15, 1961, almost two months after the Barney and Betty Hill sighting, a Project Blue Book official tel...</span><span class="citation-popover-meta">Published: November 15, 1961</span></span></span>“unexplained” and “proven extraterrestrial event” became central to the wider UFO debate. The Hill case survived for decades precisely because it occupies that uncertain middle ground: stronger than a casual sighting story, but far weaker than definitive evidence of alien visitation.
 
 The Blue Book records therefore matter less as proof of abduction than as evidence of how a puzzling Cold War UFO report evolved into one of the most influential narratives in modern paranormal culture.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qn9ArqHkurA" title="Project Blue Book: Declassified – The True Story of The Hill Abduction | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qn9ArqHkurA" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of The Hill Abduction | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 68.0K &middot; Uploaded: March 2019 &middot; Length: 2 minutes 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qn9ArqHkurA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qn9ArqHkurA">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Did the Air Force Actually Record?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Did the Air Force Actually Record?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Reproduces the formal Blue Book information report data collected by Major Paul W. Henderson near Pease Air Force Base.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides an objective cross-examination checking the initial aerial sighting against later abduction narrative layers.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches fundamental tools to audit military information report logs independently of pop-culture book retellings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Analyzes the Air Force&#x27;s classification protocols, explaining why reports often drifted from &#x27;unknown&#x27; to &#x27;insufficient data&#x27;.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -453,15 +485,15 @@ The Blue Book records therefore matter less as proof of abduction than as eviden
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -469,15 +501,15 @@ The Blue Book records therefore matter less as proof of abduction than as eviden
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -485,31 +517,15 @@ The Blue Book records therefore matter less as proof of abduction than as eviden
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,7 +533,7 @@ The Blue Book records therefore matter less as proof of abduction than as eviden
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="blue-book-what-did-the-air-force-actually-record-betty-and-barney-hill-abduction-1961-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -732,100 +748,100 @@ The Blue Book records therefore matter less as proof of abduction than as eviden
 
 1. <a id="endnote-1"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/0450-74.htm](https://www.nicap.org/reports/0450-74.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPBlue Book, 0450-74On November 15, 1961, almost two months after the Barney and Betty Hill sighting, a Project Blue Book official tel...</p></details>
+   Link: <a href="https://www.nicap.org/reports/0450-74.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/0450-74.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book, 0450-74On November 15, 1961, almost two months after the Barney and Betty Hill sighting, a Project Blue Book official tel...</p></details>
    Published: November 15, 1961  
 
 2. <a id="endnote-2"></a>
    Source: medium.com  
-   Link: [https://medium.com/on-the-trail-of-the-saucers/how-a-determined-reporter-broke-ufo-journalisms-first-viral-story-fe92b4bc0e71](https://medium.com/on-the-trail-of-the-saucers/how-a-determined-reporter-broke-ufo-journalisms-first-viral-story-fe92b4bc0e71)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumThe Reporter Who Really Broke the Hill UFO Abduction StoryThe next day Major Paul Henderson at Pease AFB took a second full account...</p></details>
+   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/how-a-determined-reporter-broke-ufo-journalisms-first-viral-story-fe92b4bc0e71" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/how-a-determined-reporter-broke-ufo-journalisms-first-viral-story-fe92b4bc0e71</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reporter Who Really Broke the Hill UFO Abduction StoryThe next day Major Paul Henderson at Pease AFB took a second full account...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Barney and Betty Hill incident  
-   Link: [https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident](https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident</a>  
 
 4. <a id="endnote-4"></a>
    Source: area51aliencenter.net  
    Title: the abduction of betty and barney hill  
-   Link: [https://area51aliencenter.net/stories/the-abduction-of-betty-and-barney-hill/](https://area51aliencenter.net/stories/the-abduction-of-betty-and-barney-hill/)  
+   Link: <a href="https://area51aliencenter.net/stories/the-abduction-of-betty-and-barney-hill/" target="_blank" rel="noopener noreferrer nofollow">https://area51aliencenter.net/stories/the-abduction-of-betty-and-barney-hill/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Apr 2022 — The report was amended later to remove that claim and include the words &quot;optical condition,&quot; &quot;inversion,&quot; and &quot;insufficient...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: medium.com  
-   Link: [https://medium.com/frequency-machine/origin-story-the-night-ufo-abductions-were-born-9c4513927e90](https://medium.com/frequency-machine/origin-story-the-night-ufo-abductions-were-born-9c4513927e90)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumOrigin Story: The Night UFO Abductions Were BornA New Hampshire couple on a road trip named Barney and Betty Hill encountered stran...</p></details>
+   Link: <a href="https://medium.com/frequency-machine/origin-story-the-night-ufo-abductions-were-born-9c4513927e90" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/frequency-machine/origin-story-the-night-ufo-abductions-were-born-9c4513927e90</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Origin Story: The Night UFO Abductions Were BornA New Hampshire couple on a road trip named Barney and Betty Hill encountered stran...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740](https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740)  
+   Link: <a href="https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>passport to magoniaVallee compiled this from reports submitted to Project Blue Book, the French GEPA organization, the British Flying Sau...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: mentalfloss.com  
    Title: betty and barney hill alien abduction  
-   Link: [https://www.mentalfloss.com/article/649683/betty-and-barney-hill-alien-abduction](https://www.mentalfloss.com/article/649683/betty-and-barney-hill-alien-abduction)  
+   Link: <a href="https://www.mentalfloss.com/article/649683/betty-and-barney-hill-alien-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalfloss.com/article/649683/betty-and-barney-hill-alien-abduction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>” The Hills&#x27; case was filed under “insufficient data,” a...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ronanwills.com  
    Title: spooky or not the abduction of betty and barney hill  
-   Link: [https://www.ronanwills.com/ronans-blog/2019/10/14/spooky-or-not-the-abduction-of-betty-and-barney-hill](https://www.ronanwills.com/ronans-blog/2019/10/14/spooky-or-not-the-abduction-of-betty-and-barney-hill)  
+   Link: <a href="https://www.ronanwills.com/ronans-blog/2019/10/14/spooky-or-not-the-abduction-of-betty-and-barney-hill" target="_blank" rel="noopener noreferrer nofollow">https://www.ronanwills.com/ronans-blog/2019/10/14/spooky-or-not-the-abduction-of-betty-and-barney-hill</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ronan&#x27;s Internet Content VenueSpooky or Not: The Abduction of Betty and Barney Hill15 Oct 2019 — The Hills got a friendlier reception fro...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010003-8](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010003-8)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010003-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010003-8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABOARD A FLYING SAUCER THE ADVENTURES OF...... Betty and Barney Hill to the office of Dr. Benjamin Simon, the distinguished... They had...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: studylib.net  
-   Link: [https://studylib.net/doc/27362977/barney-i-betty-hill](https://studylib.net/doc/27362977/barney-i-betty-hill)  
+   Link: <a href="https://studylib.net/doc/27362977/barney-i-betty-hill" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/27362977/barney-i-betty-hill</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Barney and Betty Hill Alien Abduction: A Detailed AccountExplore the Barney and Betty Hill alien abduction case, the first widely publici...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/sqhwpp/betty_and_barney_hill_investigator_walter_webbs/](https://www.reddit.com/r/aliens/comments/sqhwpp/betty_and_barney_hill_investigator_walter_webbs/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditBetty and Barney Hill investigator Walter Webb&#x27;s report...The Barney and Betty Hill affair, as the first widely publicized missing...</p></details>
+   Link: <a href="https://www.reddit.com/r/aliens/comments/sqhwpp/betty_and_barney_hill_investigator_walter_webbs/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/sqhwpp/betty_and_barney_hill_investigator_walter_webbs/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Betty and Barney Hill investigator Walter Webb&#x27;s report...The Barney and Betty Hill affair, as the first widely publicized missing...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/captured-the-betty-and-barney-hill-ufo-experience-the-true-story-of-the-worlds-first-documented-alien-abduction-9781564149718-1564149714.html](https://dokumen.pub/captured-the-betty-and-barney-hill-ufo-experience-the-true-story-of-the-worlds-first-documented-alien-abduction-9781564149718-1564149714.html)  
+   Link: <a href="https://dokumen.pub/captured-the-betty-and-barney-hill-ufo-experience-the-true-story-of-the-worlds-first-documented-alien-abduction-9781564149718-1564149714.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/captured-the-betty-and-barney-hill-ufo-experience-the-true-story-of-the-worlds-first-documented-alien-abduction-9781564149718-1564149714.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Captured!: the Betty and Barney Hill UFO experienceThis book exposes the shocking events that took place during and after she and her hus...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1nqdnqr/new_to_this_sub_and_just_a_general_question/](https://www.reddit.com/r/aliens/comments/1nqdnqr/new_to_this_sub_and_just_a_general_question/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1nqdnqr/new_to_this_sub_and_just_a_general_question/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1nqdnqr/new_to_this_sub_and_just_a_general_question/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New to this sub and just a general question: r/aliensThe Hynek UFO Report: The Authoritative Account of the Project Blue Book Cover-Up b...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: ep 302 the abduction of betty and barney hill in the fall of 1961 a couple drivi  
-   Link: [https://www.facebook.com/npafterdarkpodcast/posts/ep-302-the-abduction-of-betty-and-barney-hill-in-the-fall-of-1961-a-couple-drivi/1150405427105540/](https://www.facebook.com/npafterdarkpodcast/posts/ep-302-the-abduction-of-betty-and-barney-hill-in-the-fall-of-1961-a-couple-drivi/1150405427105540/)  
+   Link: <a href="https://www.facebook.com/npafterdarkpodcast/posts/ep-302-the-abduction-of-betty-and-barney-hill-in-the-fall-of-1961-a-couple-drivi/1150405427105540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/npafterdarkpodcast/posts/ep-302-the-abduction-of-betty-and-barney-hill-in-the-fall-of-1961-a-couple-drivi/1150405427105540/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Abduction of Betty and Barney Hill. In the fall of 1961...In the fall of 1961, a couple driving through New Hampshire&#x27;s White Mounta...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TravelChannel/posts/in-this-rare-interview-from-1968-betty-hill-describes-what-happened-after-she-an/10160059193993851/](https://www.facebook.com/TravelChannel/posts/in-this-rare-interview-from-1968-betty-hill-describes-what-happened-after-she-an/10160059193993851/)  
+   Link: <a href="https://www.facebook.com/TravelChannel/posts/in-this-rare-interview-from-1968-betty-hill-describes-what-happened-after-she-an/10160059193993851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TravelChannel/posts/in-this-rare-interview-from-1968-betty-hill-describes-what-happened-after-she-an/10160059193993851/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In this rare interview from 1968, Betty Hill describes what...Both reported physical examinations involving the taking of skin, hair, an...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: history.com  
    Title: project blue book declassified the true story of the hill abduction  
-   Link: [https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-hill-abduction](https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-hill-abduction)  
+   Link: <a href="https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-hill-abduction" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/project-blue-book-declassified-the-true-story-of-the-hill-abduction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The True Story of The Hill Abduction | HISTORYProject Blue Book episode “Abduction” is framed based on the 1961 reported UFO abduction of...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>But here is a &quot;good&quot; UFO report with an &quot;unknown&quot; conclusion: On July 24, 1952, two...Read more...</p></details>
    Published: July 24, 1952  
 
 18. <a id="endnote-18"></a>
    Source: concordmonitor.com  
    Title: in lincoln a ufo story that is out of this world 15987667  
-   Link: [https://www.concordmonitor.com/2018/03/17/in-lincoln-a-ufo-story-that-is-out-of-this-world-15987667/](https://www.concordmonitor.com/2018/03/17/in-lincoln-a-ufo-story-that-is-out-of-this-world-15987667/)  
+   Link: <a href="https://www.concordmonitor.com/2018/03/17/in-lincoln-a-ufo-story-that-is-out-of-this-world-15987667/" target="_blank" rel="noopener noreferrer nofollow">https://www.concordmonitor.com/2018/03/17/in-lincoln-a-ufo-story-that-is-out-of-this-world-15987667/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Once upon a time, Betty and Barney Hill told a story that...17 Mar 2018 — They filed an official Air Force Project Blue Book report of a...</p></details>

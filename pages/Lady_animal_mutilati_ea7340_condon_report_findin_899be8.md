@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /lady-animal-mutilation-1966/
 nav_short_title: Condon Report
 title: Did the Official Review Debunk Snippy?
-title_full: Did the Official Review Debunk Snippy? | Snippy
+title_full: Did the Official Review Debunk Snippy?
 display_title_short: Condon Report
 display_title: Condon Report
 heading_title: Did the Official Review Debunk Snippy?
@@ -233,7 +233,7 @@ next_link:
   permalink: /folklore-impact/
   short_title: Folklore Impact
   heading_title: Why Did Snippy Become a UFO Template?
-date: '2026-06-08 23:27:34 '
+date: '2026-06-11 13:16:50 '
 header:
   og_image: /assets/images/Lady_animal_mutilati_ea7340_condon_report_findin_899be8-Illustration-1-social.jpg
   preview_image: /assets/images/Lady_animal_mutilati_ea7340_condon_report_findin_899be8-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/Lady_animal_mutilati_ea7340_condon_report_findin_899be8-Il
 ## Introduction
 
 The University of Colorado UFO study, commonly called the Condon Report, became the most influential official-style review of the “Snippy” or “Lady” horse case because it directly examined the physical evidence behind the mutilation claims. Its conclusion was blunt: investigators found no persuasive evidence that the horse’s death involved UFOs, exotic technology, or any other abnormal cause. Instead, the report argued that ordinary veterinary pathology, scavenger activity, and contaminated scene evidence could account for the most dramatic features of the carcass. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mutilation of &quot;Snippy&quot; the horse</span><span class="citation-popover-snippet">Mutilation of &quot;Snippy&quot; the horse</span></span></span>
-
 
 <img src="{{ "/assets/images/Lady_animal_mutilati_ea7340_condon_report_findin_899be8-Illustration-1-dark.svg" | relative_url }}" alt="Condon Report illustration 1" data-theme-src-dark="{{ "/assets/images/Lady_animal_mutilati_ea7340_condon_report_findin_899be8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lady_animal_mutilati_ea7340_condon_report_findin_899be8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That finding did not end the controversy. Believers in anomalous animal mutilations argued that the report underestimated unusual details such as allegedly bloodless tissue removal, strange ground marks, and radiation readings. Skeptics countered that many of those details were poorly documented, appeared only after publicity spread, or came from witnesses revisiting a compromised site days later. The dispute matters because the Snippy case became an early template for later cattle mutilation narratives across the American West. <span class="citation-chip-wrap"><a class="citation-chip" href="https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.denverlibrary.org">[Denver Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.denverlibrary.org</span><span class="citation-popover-title">ufos and horse called snippy</span><span class="citation-popover-snippet">Denver Public LibraryUFOs and a Horse Called Snippy20 Oct 2020 — Snippy is mutilated Alamosa County Thur. September 7, 1967. Another hors...</span><span class="citation-popover-meta">Published: September 7, 1967</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cattle_mutilation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cattle mutilation</span><span class="citation-popover-snippet">Cattle mutilation</span></span></span>
@@ -262,7 +261,6 @@ The committee also treated several famous features of the story as unreliable be
 
 The official review focused on three broad categories of claims:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The physical condition of the carcass.
@@ -276,7 +274,6 @@ The report accepted that the remains looked disturbing, particularly the strippe
 The committee also examined claims that the horse had been surgically dissected with impossible precision. According to the report, the evidence for “surgical” cutting was weak. Observers described the tissue edges differently, photographs were limited, and exposure to weather and scavengers complicated interpretation. The report suggested that an initial wound or opening in the neck region could have allowed predators and carrion feeders easier access to soft tissue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Final Report of the. Scienti fj c Study of Un;,dentified Flying Objects condllcted by the &#x27;in:&#x27;,ers i ty of Colorado under contract to t~...</span></span></span>
 
 Another overlooked point is chronology. The carcass was not discovered immediately after death, and some observations came from later visits after decomposition had advanced. This matters because animal remains can change appearance dramatically over a short period in dry, high-altitude conditions such as the San Luis Valley.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SwMh0Gt-shE" title="Are UFOs killing cows? We investigate the &quot;cattle mutilation&quot; phenomenon | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SwMh0Gt-shE" target="_blank" rel="noopener noreferrer">Are UFOs killing cows? We investigate the &quot;cattle mutilation&quot; phenomenon | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 73.3K &middot; Uploaded: July 2024 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SwMh0Gt-shE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SwMh0Gt-shE">Open on YouTube</a></p></div></div></div>
 
@@ -292,7 +289,6 @@ The report also pushed back against claims that the body had been completely dra
 
 Skeptics later pointed out that many later mutilation scares repeated the same pattern seen in the Snippy case: witnesses interpreted decomposition effects as evidence of advanced tools or unknown technology.
 
-
 <img src="{{ "/assets/images/Lady_animal_mutilati_ea7340_condon_report_findin_899be8-Illustration-2-dark.svg" | relative_url }}" alt="Condon Report illustration 2" data-theme-src-dark="{{ "/assets/images/Lady_animal_mutilati_ea7340_condon_report_findin_899be8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lady_animal_mutilati_ea7340_condon_report_findin_899be8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Radiation, Ground Marks, and Site Contamination
 
@@ -306,7 +302,6 @@ The committee was similarly cautious about alleged landing traces. Witnesses des
 
 This contamination issue became central to the committee’s reasoning. Once a site has been widely visited and discussed, it becomes extremely difficult to separate original observations from later alterations, mistaken memories, or rumours added through retelling.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lJJfsaHvSXQ" title="SHOCKING Animal Mutilation! Was It Aliens?! (Unexplained Mystery!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lJJfsaHvSXQ" target="_blank" rel="noopener noreferrer">SHOCKING Animal Mutilation! Was It Aliens?! (Unexplained Mystery!)</a></p><p class="youtube-embed-meta">Channel: Wild Charles &middot; Views: 835 &middot; Uploaded: July 2023 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lJJfsaHvSXQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lJJfsaHvSXQ">Open on YouTube</a></p></div></div></div>
 
 ## Why the Condon Findings Did Not End the Mystery
@@ -318,7 +313,6 @@ First, the visual impact of the carcass was powerful. Even skeptically minded ob
 Second, many believers distrusted the Condon Committee itself. UFO researchers criticised the broader Colorado project for what they saw as a dismissive attitude toward unexplained cases. Some writers later argued that the Snippy investigation reflected a predetermined skeptical framework. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Condon Committee</span><span class="citation-popover-snippet">Condon Committee</span></span></span>
 
 Third, later mutilation reports appeared to echo details from the Snippy case:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -334,12 +328,10 @@ Because those patterns reappeared in later stories, believers treated Snippy as 
 
 Skeptics reached the opposite conclusion. To them, the case demonstrated how sensational reporting, contaminated evidence, and ordinary decomposition could generate a durable folklore template that later witnesses unconsciously copied.
 
-
 <img src="{{ "/assets/images/Lady_animal_mutilati_ea7340_condon_report_findin_899be8-Illustration-3-dark.svg" | relative_url }}" alt="Condon Report illustration 3" data-theme-src-dark="{{ "/assets/images/Lady_animal_mutilati_ea7340_condon_report_findin_899be8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lady_animal_mutilati_ea7340_condon_report_findin_899be8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Strongest Skeptical Point
 
 The most important legacy of the Condon analysis is not any single veterinary detail but the broader evidential problem it identified. Nearly every extraordinary claim attached to the case depended on observations that were:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -353,49 +345,89 @@ The most important legacy of the Condon analysis is not any single veterinary de
 
 That weakness matters because the Snippy case is often remembered as a foundational “animal mutilation” mystery. Yet the strongest official investigation available concluded that ordinary explanations remained sufficient and that no verified evidence linked the horse’s death to UFOs or unknown technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Final Report of the. Scienti fj c Study of Un;,dentified Flying Objects condllcted by the &#x27;in:&#x27;,ers i ty of Colorado under contract to t~...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1ryEktN2CVA" title="What Happened To Snippy? | Unsolved &amp; Unkempt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1ryEktN2CVA" target="_blank" rel="noopener noreferrer">What Happened To Snippy? | Unsolved &amp; Unkempt</a></p><p class="youtube-embed-meta">Channel: Raleigh Link &middot; Views: 59.9K &middot; Uploaded: May 2023 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1ryEktN2CVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1ryEktN2CVA">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Did the Official Review Debunk Snippy?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Did the Official Review Debunk Snippy?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO study guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+study+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Presents an objective file on Case 32, comparing the official Condon Report findings against the initial mutilation claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches investigative methodologies for assessing how livestock-death reports are categorized in scientific versus popular literature.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Examines why limited physical evidence often fails to support paranormal theories when subjected to rigorous laboratory review.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides necessary historical context on why large scientific studies (like Condon) often leave cases open when data is incomplete.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sister States, Enemy States</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -432,15 +464,15 @@ That weakness matters because the Snippy case is often remembered as a foundatio
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -448,15 +480,15 @@ That weakness matters because the Snippy case is often remembered as a foundatio
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -464,15 +496,15 @@ That weakness matters because the Snippy case is often remembered as a foundatio
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -480,15 +512,15 @@ That weakness matters because the Snippy case is often remembered as a foundatio
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -496,7 +528,7 @@ That weakness matters because the Snippy case is often remembered as a foundatio
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-did-the-official-review-debunk-snippy-lady-animal-mutilation-1966-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-official-review-debunk-snippy-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-official-review-debunk-snippy-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -712,93 +744,93 @@ That weakness matters because the Snippy case is often remembered as a foundatio
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mutilation of "Snippy" the horse  
-   Link: [https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse](https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mutilation_of_%22Snippy%22_the_horse</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Cattle mutilation  
-   Link: [https://en.wikipedia.org/wiki/Cattle_mutilation](https://en.wikipedia.org/wiki/Cattle_mutilation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cattle_mutilation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cattle_mutilation</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: [https://en.wikipedia.org/wiki/Condon_Committee](https://en.wikipedia.org/wiki/Condon_Committee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
 4. <a id="endnote-4"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf](https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Final Report of the. Scienti fj c Study of Un;,dentified Flying Objects condllcted by the &#x27;in:&#x27;,ers i ty of Colorado under contract to t~...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: history.denverlibrary.org  
    Title: ufos and horse called snippy  
-   Link: [https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy](https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy)  
+   Link: <a href="https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/ufos-and-horse-called-snippy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Denver Public LibraryUFOs and a Horse Called Snippy20 Oct 2020 — Snippy is mutilated Alamosa County Thur. September 7, 1967. Another hors...</p></details>
    Published: September 7, 1967  
 
 6. <a id="endnote-6"></a>
    Source: bahaistudies.net  
-   Link: [https://www.bahaistudies.net/asma/mutilations.pdf](https://www.bahaistudies.net/asma/mutilations.pdf)  
+   Link: <a href="https://www.bahaistudies.net/asma/mutilations.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/mutilations.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Here in Montana, we&#x27;ve hit just about everything on the road — and I&#x27;ve never hit an alien.&quot;.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: snap.berkeley.edu  
-   Link: [https://snap.berkeley.edu/project/12316474](https://snap.berkeley.edu/project/12316474)  
+   Link: <a href="https://snap.berkeley.edu/project/12316474" target="_blank" rel="noopener noreferrer nofollow">https://snap.berkeley.edu/project/12316474</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>normal&quot; x=&quot;5&quot; y=&quot;0&quot; color=&quot;243,118,29&quot; hidden=&quot;true&quot;/&gt;&lt;watcher var=&quot;10,000 words&quot; style=&quot;normal&quot; x=&quot;63.40000000000009&quot; y=&quot;0&quot; color=&quot;243,1...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: denvergazette.com  
-   Link: [https://www.denvergazette.com/2021/11/24/looking-back-ufo-blamed-for-horse-mutilation-in-colorado-3011fe21-575b-5545-a2b6-7d5ef9c93601/](https://www.denvergazette.com/2021/11/24/looking-back-ufo-blamed-for-horse-mutilation-in-colorado-3011fe21-575b-5545-a2b6-7d5ef9c93601/)  
+   Link: <a href="https://www.denvergazette.com/2021/11/24/looking-back-ufo-blamed-for-horse-mutilation-in-colorado-3011fe21-575b-5545-a2b6-7d5ef9c93601/" target="_blank" rel="noopener noreferrer nofollow">https://www.denvergazette.com/2021/11/24/looking-back-ufo-blamed-for-horse-mutilation-in-colorado-3011fe21-575b-5545-a2b6-7d5ef9c93601/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LOOKING BACK: UFO blamed for horse mutilation in...24 Nov 2021 — “Flying Saucer Sought in Death of Horse,” read a headline following the...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: gazette.com  
-   Link: [https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/](https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/)  
+   Link: <a href="https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/" target="_blank" rel="noopener noreferrer nofollow">https://gazette.com/2022/05/22/ufo-legend-horse-found-dead-and-mutilated-55-years-ago-in-colorado-gets-new-life-at-roadside-attraction-130b0e6c-ca4a-11ec-af09-ffeb7d7ab0f4/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO legend: Horse found dead and mutilated 55 years ago...22 May 2022 — UFO legend: Horse found dead and mutilated 55 years ago in Color...</p></details>
    Published: May 2022  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=lJJfsaHvSXQ](https://www.youtube.com/watch?v=lJJfsaHvSXQ)  
+   Link: <a href="https://www.youtube.com/watch?v=lJJfsaHvSXQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lJJfsaHvSXQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SHOCKING Animal Mutilation! Was It Aliens?! (Unexplained...This video explores the bizarre case of Snippy, a horse found dead in the des...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1ryEktN2CVA](https://www.youtube.com/watch?v=1ryEktN2CVA)  
+   Link: <a href="https://www.youtube.com/watch?v=1ryEktN2CVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1ryEktN2CVA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Happened To Snippy? | Unsolved &amp; UnkemptThis is my all-time favorite horse mystery abduction story. I doubt that we&#x27;re gonna solve i...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cs.arizona.edu  
-   Link: [https://cs.arizona.edu/~mercer/Projects/BoggleWords](https://cs.arizona.edu/~mercer/Projects/BoggleWords)  
+   Link: <a href="https://cs.arizona.edu/~mercer/Projects/BoggleWords" target="_blank" rel="noopener noreferrer nofollow">https://cs.arizona.edu/~mercer/Projects/BoggleWords</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>background backgrounder backgrounders backgrounds backhand backhanded... horse horseback horsebacks horsed horseflesh horseflies horsefl...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/tonight-we-journey-to-oregons-remote-ranches-to-investigate-the-baffling-mystery/1172311007795207/](https://www.facebook.com/HISTORY/posts/tonight-we-journey-to-oregons-remote-ranches-to-investigate-the-baffling-mystery/1172311007795207/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/tonight-we-journey-to-oregons-remote-ranches-to-investigate-the-baffling-mystery/1172311007795207/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/tonight-we-journey-to-oregons-remote-ranches-to-investigate-the-baffling-mystery/1172311007795207/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>itted by aliens who are gathering genetic material for...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: alamosanews.com  
    Title: after 50 years snippy still a mystery,36843  
-   Link: [https://www.alamosanews.com/stories/after-50-years-snippy-still-a-mystery%2C36843](https://www.alamosanews.com/stories/after-50-years-snippy-still-a-mystery%2C36843)  
+   Link: <a href="https://www.alamosanews.com/stories/after-50-years-snippy-still-a-mystery%2C36843" target="_blank" rel="noopener noreferrer nofollow">https://www.alamosanews.com/stories/after-50-years-snippy-still-a-mystery%2C36843</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>After 50 years, Snippy still a mystery29 Sept 2017 — The mutilation was blamed on space aliens, but those who didn&#x27;t believe stories of f...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pt.scribd.com  
    Title: Cattle Mutilations And UFOs pdf  
-   Link: [https://pt.scribd.com/document/479452017/CattleMutilationsAndUFOs-pdf](https://pt.scribd.com/document/479452017/CattleMutilationsAndUFOs-pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| PDF12 Feb 2026 — “Snippy” in Colorado — included UFO reports, too. • Here are just a few news reports of mutilations with UFOs: Evidenc...</p></details>
+   Link: <a href="https://pt.scribd.com/document/479452017/CattleMutilationsAndUFOs-pdf" target="_blank" rel="noopener noreferrer nofollow">https://pt.scribd.com/document/479452017/CattleMutilationsAndUFOs-pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>PDF12 Feb 2026 — “Snippy” in Colorado — included UFO reports, too. • Here are just a few news reports of mutilations with UFOs: Evidenc...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: apnews.com  
    Title: colorado 47caa6f8871a41d520be8c70f3a0d256  
-   Link: [https://apnews.com/article/colorado-47caa6f8871a41d520be8c70f3a0d256](https://apnews.com/article/colorado-47caa6f8871a41d520be8c70f3a0d256)  
+   Link: <a href="https://apnews.com/article/colorado-47caa6f8871a41d520be8c70f3a0d256" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/colorado-47caa6f8871a41d520be8c70f3a0d256</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>By... When it comes to “mutilation cases,” as they&#x27;re known in his field...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Are UFOs killing cows?  
-   Link: [https://www.youtube.com/watch?v=SwMh0Gt-shE](https://www.youtube.com/watch?v=SwMh0Gt-shE)  
+   Link: <a href="https://www.youtube.com/watch?v=SwMh0Gt-shE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SwMh0Gt-shE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We investigate the &quot;cattle mutilation...Cows killed by aliens that may sound like the premise of a science fiction film but it&#x27;s somethi...</p></details>

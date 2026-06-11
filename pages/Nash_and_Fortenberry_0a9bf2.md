@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Oloron Angel Hair
   permalink: /oloron-angel-hair-incident-1952/
   short_title: Oloron Angel Hair
-date: '2026-06-08 23:26:15 '
+date: '2026-06-11 13:16:17 '
 header:
   og_image: /assets/images/Nash_and_Fortenberry_0a9bf2-overview-social.jpg
   preview_image: /assets/images/Nash_and_Fortenberry_0a9bf2-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Nash_and_Fortenberry_0a9bf2-overview-social.jpg
 ## What Nash and Fortenberry said they saw
 
 On 14 July 1952, a Pan American DC-4 was flying from New York to Miami with ten passengers and three crew members. Nash and Fortenberry were in the cockpit as the aircraft approached the Norfolk area at about 8,000 feet. Accounts based on the pilots’ report describe a red or orange-red glow appearing ahead and below the aircraft, which resolved into six disc-like lights moving in formation. Two more similar objects then appeared and joined the group before all eight receded and vanished. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
-
 
 <img src="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2-overview.webp" | relative_url }}" alt="Overview image for Nash and Fortenberry sighting 1952" loading="eager" decoding="sync" fetchpriority="high">
 The most memorable part of the report was not simply “lights in the sky”, but the claimed manoeuvre. The pilots said the objects were in a narrow echelon formation, turned edge-on, reversed order, changed direction sharply, and then moved away westward. They estimated the objects as roughly 100 feet in diameter and 15 feet thick, with the sighting lasting about 12 to 15 seconds. Those estimates produced very high calculated speeds, but they depended on inferred distance and size rather than measured range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
@@ -773,7 +772,6 @@ Nash and Fortenberry were not casual observers on the ground. They were professi
 That said, pilot credibility is not the same as physical measurement. The case depends heavily on estimates made during a startling event lasting seconds, at dusk or night, with unknown objects of unknown size and distance. Donald Menzel and Lyle Boyd, writing from a sceptical scientific perspective, made this point central to their analysis: if the distance estimate is uncertain, then the size and speed estimates become uncertain too. They argued that even skilled pilots cannot reliably determine the range of an unfamiliar light in darkness without a known reference object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
 
 This distinction is crucial. The strongest version of the case says two competent pilots saw a structured formation behave in a way they could not explain. The weaker claim is that the objects were definitively huge, solid machines travelling thousands of miles per hour. The first claim is well supported by the witness record; the second depends on assumptions about range, size, and solidity that the evidence cannot independently verify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
-
 
 <img src="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2-Illustration-1-dark.svg" | relative_url }}" alt="Nash and Fortenberry sighting 1952 illustration 1" data-theme-src-dark="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What happened after the report
@@ -791,7 +789,6 @@ The case is often described as corroborated by ground witnesses, but this claim 
 This makes the corroboration interesting but not decisive. It is valuable because it suggests the pilots may not have been the only people in the region seeing unusual lights that evening. It is limited because the timing, geometry, and independence of those reports are not as well documented as the cockpit account, and some reports were apparently absent from the official Blue Book file. That leaves room for competing interpretations: either a broader local phenomenon occurred, or several separate observations were later linked because they sounded similar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A related but separate Hampton Roads sighting occurred two nights later, when a National Advisory Committee for Aeronautics scientist and another man reported amber lights near the same region. Edward Ruppelt, former head of Project Blue Book, treated that later report as part of the build-up to the Washington sightings and noted that a conventional aircraft explanation was considered but remained troublesome in his account. This later sighting should not be merged into the Nash-Fortenberry event, but it does show why investigators and writers saw the Norfolk region as active during that week. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bVJpDLXyNs4" title="Nash-Fortenberry UFO sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bVJpDLXyNs4" target="_blank" rel="noopener noreferrer">Nash-Fortenberry UFO sighting</a></p><p class="youtube-embed-meta">Channel: WikiReader &middot; Views: 61 &middot; Uploaded: January 2022 &middot; Length: 1 minute 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bVJpDLXyNs4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bVJpDLXyNs4">Open on YouTube</a></p></div></div></div>
 
@@ -813,14 +810,12 @@ Their weather argument relied on localised temperature or humidity discontinuiti
 
 Other sceptical suggestions have been less persuasive or less fully developed. The idea that the pilots saw ordinary jets struggles with the shape, colour, formation, and speed reported by the witnesses, and the Air Force paperwork indicates that known aircraft checks did not solve the case. A pure astronomical explanation also has difficulty accounting for the formation and abrupt relative motions described, although critics of the report would answer that those motions may be perceptual or optical rather than physical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/520714norfolk_docs2a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">520714norfolk docs2a</span><span class="citation-popover-snippet">520714norfolk docs2a</span></span></span>
 
-
 <img src="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2-Illustration-2-dark.svg" | relative_url }}" alt="Nash and Fortenberry sighting 1952 illustration 2" data-theme-src-dark="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What makes the case strong
 
 The case has several features that make it stronger than many famous UFO stories. The witnesses were trained aviation professionals. The report was made promptly rather than years later. The description includes time, aircraft position, altitude, direction, colour, formation, and sequence of motion. The Air Force investigated and did not file the case under a simple conventional label in the surviving summary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/books/coufo/coufo_complete.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Challenge of UFOs</span><span class="citation-popover-snippet">Challenge of UFOs</span></span></span>
 
 The case also has a clear internal narrative. The pilots did not report a vague glow for several minutes and then speculate; they described a rapid sequence of formation flight, edge-on turning, reversal, two additional objects joining, and disappearance. That level of detail is why the sighting became useful to both sides: UFO advocates could argue it suggested intelligent control, while sceptics could test whether the apparent structure might be an artefact of viewing geometry and light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-title">Project Gutenbergwww.gutenberg.org</span><span class="citation-popover-snippet">Project Gutenbergwww.gutenberg.org</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C0TNVNydVrw" title="航空機のパイロットたちが目撃した説明不可能な飛行物体、 訓練された観察者による信憑性の高いUFO遭遇事例の科学的検証" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C0TNVNydVrw" target="_blank" rel="noopener noreferrer">航空機のパイロットたちが目撃した説明不可能な飛行物体、 訓練された観察者による信憑性の高いUFO遭遇事例の科学的検証</a></p><p class="youtube-embed-meta">Channel: LALALA MYSTERY &middot; Views: 15.3K &middot; Uploaded: November 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C0TNVNydVrw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C0TNVNydVrw">Open on YouTube</a></p></div></div></div>
 
@@ -832,7 +827,6 @@ The possible ground-witness reports add texture but not a clean independent fix.
 
 The result is a case that remains unresolved in a narrow sense, but not equally supportive of every explanation. It is fair to say the Air Force did not identify the sighting. It is not fair to say the case proves extraterrestrial craft. It is also not quite fair to say the sceptical optical explanation has solved every detail, because it does not identify the exact light source and relies on reconstructed atmospheric conditions rather than direct measurement at the aircraft’s line of sight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.nationalarchives.gov.uk</span><span class="citation-popover-title">briefing guide 12 07 12</span><span class="citation-popover-snippet">briefing guide 12 07 12</span></span></span>
 
-
 <img src="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2-Illustration-3-dark.svg" | relative_url }}" alt="Nash and Fortenberry sighting 1952 illustration 3" data-theme-src-dark="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nash_and_Fortenberry_0a9bf2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Best reading of the evidence
 
@@ -843,44 +837,86 @@ The leap from “unidentified” to “solid, intelligently controlled extraterr
 That is why the Nash and Fortenberry sighting still matters. It is not a clean debunked case, nor is it a clean proof case. It is a strong example of the central problem in classic UFO evidence: credible people can report something genuinely puzzling, official investigators can fail to identify it, and yet the remaining evidence can still be too thin to support the most extraordinary interpretation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened Over Hampton Roads?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened Over Hampton Roads?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Contains direct first-hand notes on the investigation into Pan American pilots William Nash and William Fortenberry&#x27;s immediate radio rep...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Evaluates the historical weight of the 1952 Hampton Roads DC-4 report, reviewing the precision of the pilots&#x27; echelon formation logs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Features an objective overview of the 14 July 1952 Virginia encounter, mapping out the eight disc-like lights and their sharp directional...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Traces why the Air Force system maintained an &#x27;Unknown&#x27; status for specific high-profile commercial flight records.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -917,15 +953,15 @@ That is why the Nash and Fortenberry sighting still matters. It is not a clean d
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -933,15 +969,15 @@ That is why the Nash and Fortenberry sighting still matters. It is not a clean d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -949,15 +985,15 @@ That is why the Nash and Fortenberry sighting still matters. It is not a clean d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -965,15 +1001,15 @@ That is why the Nash and Fortenberry sighting still matters. It is not a clean d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -981,7 +1017,7 @@ That is why the Nash and Fortenberry sighting still matters. It is not a clean d
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="nash-and-fortenberry-sighting-1952-what-really-happened-over-hampton-roads-ufo-poster-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1197,124 +1233,124 @@ That is why the Nash and Fortenberry sighting still matters. It is not a clean d
 1. <a id="endnote-1"></a>
    Source: nicap.org  
    Title: 520714norfolk docs2a  
-   Link: [https://www.nicap.org/docs/520714norfolk_docs2a.pdf](https://www.nicap.org/docs/520714norfolk_docs2a.pdf)  
+   Link: <a href="https://www.nicap.org/docs/520714norfolk_docs2a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/520714norfolk_docs2a.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: gutenberg.org  
    Title: Project Gutenbergwww.gutenberg.org  
-   Link: [https://www.gutenberg.org/ebooks/66639.txt.utf-8](https://www.gutenberg.org/ebooks/66639.txt.utf-8)  
+   Link: <a href="https://www.gutenberg.org/ebooks/66639.txt.utf-8" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/ebooks/66639.txt.utf-8</a>  
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 4. <a id="endnote-4"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/library/ciaufo.html](https://sgp.fas.org/library/ciaufo.html)  
+   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
 
 6. <a id="endnote-6"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/47cats/usnavydraft1.htm](https://www.project1947.com/47cats/usnavydraft1.htm)  
+   Link: <a href="https://www.project1947.com/47cats/usnavydraft1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/47cats/usnavydraft1.htm</a>  
 
 7. <a id="endnote-7"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952](https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952)  
+   Link: <a href="https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/83831064/Revisiting_One_of_the_Classics_The_Nash_Fortenberry_UFO_Sighting_14_July_1952</a>  
 
 8. <a id="endnote-8"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 9. <a id="endnote-9"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100010001 0  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/rg-collections](https://www.archives.gov/research/topics/uaps/rg-collections)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/rg-collections" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/rg-collections</a>  
 
 12. <a id="endnote-12"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/fig/1953a.htm](https://www.project1947.com/fig/1953a.htm)  
+   Link: <a href="https://www.project1947.com/fig/1953a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/1953a.htm</a>  
 
 13. <a id="endnote-13"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/files/66639/66639-h/66639-h.htm](https://www.gutenberg.org/files/66639/66639-h/66639-h.htm)  
+   Link: <a href="https://www.gutenberg.org/files/66639/66639-h/66639-h.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/files/66639/66639-h/66639-h.htm</a>  
 
 14. <a id="endnote-14"></a>
    Source: nicap.org  
    Title: Challenge of UFOs  
-   Link: [https://www.nicap.org/books/coufo/coufo_complete.htm](https://www.nicap.org/books/coufo/coufo_complete.htm)  
+   Link: <a href="https://www.nicap.org/books/coufo/coufo_complete.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/books/coufo/coufo_complete.htm</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 16. <a id="endnote-16"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf](https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=C0TNVNydVrw](https://www.youtube.com/watch?v=C0TNVNydVrw)  
+   Link: <a href="https://www.youtube.com/watch?v=C0TNVNydVrw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C0TNVNydVrw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Encounters: A Complete Timeline &amp; Comprehensive UFO Adjacent Rabbit Hole Guide...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=eyCziOrLm-U](https://www.youtube.com/watch?v=eyCziOrLm-U)  
+   Link: <a href="https://www.youtube.com/watch?v=eyCziOrLm-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eyCziOrLm-U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fall Asleep to Project Blue Book UFO Files...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Nash-Fortenberry UFO sighting  
-   Link: [https://www.youtube.com/watch?v=bVJpDLXyNs4](https://www.youtube.com/watch?v=bVJpDLXyNs4)  
+   Link: <a href="https://www.youtube.com/watch?v=bVJpDLXyNs4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bVJpDLXyNs4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained flying objects witnessed by airline pilots: Scientific verification of credible UFOs...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PAAMUSEUM/posts/though-we-dont-know-what-they-were-what-they-were-doing-or-where-they-came-from-/1244531289222587/](https://www.facebook.com/PAAMUSEUM/posts/though-we-dont-know-what-they-were-what-they-were-doing-or-where-they-came-from-/1244531289222587/)  
+   Link: <a href="https://www.facebook.com/PAAMUSEUM/posts/though-we-dont-know-what-they-were-what-they-were-doing-or-where-they-came-from-/1244531289222587/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PAAMUSEUM/posts/though-we-dont-know-what-they-were-what-they-were-doing-or-where-they-came-from-/1244531289222587/</a>  
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PAAMUSEUM/posts/though-we-dont-know-what-they-were-what-they-were-doing-or-where-they-came-from-/1061919269473491/](https://www.facebook.com/PAAMUSEUM/posts/though-we-dont-know-what-they-were-what-they-were-doing-or-where-they-came-from-/1061919269473491/)  
+   Link: <a href="https://www.facebook.com/PAAMUSEUM/posts/though-we-dont-know-what-they-were-what-they-were-doing-or-where-they-came-from-/1061919269473491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PAAMUSEUM/posts/though-we-dont-know-what-they-were-what-they-were-doing-or-where-they-came-from-/1061919269473491/</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/countrymusictunes/posts/it-was-a-quiet-night-flight-from-fort-worth-texas-to-nashville-tennessee-kacey-m/122165397398929568/](https://www.facebook.com/countrymusictunes/posts/it-was-a-quiet-night-flight-from-fort-worth-texas-to-nashville-tennessee-kacey-m/122165397398929568/)  
+   Link: <a href="https://www.facebook.com/countrymusictunes/posts/it-was-a-quiet-night-flight-from-fort-worth-texas-to-nashville-tennessee-kacey-m/122165397398929568/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/countrymusictunes/posts/it-was-a-quiet-night-flight-from-fort-worth-texas-to-nashville-tennessee-kacey-m/122165397398929568/</a>  
 
 25. <a id="endnote-25"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/81391762/Donald-Keyhoe-Flying-Saucers-From-Outer-Space](https://www.scribd.com/doc/81391762/Donald-Keyhoe-Flying-Saucers-From-Outer-Space)  
+   Link: <a href="https://www.scribd.com/doc/81391762/Donald-Keyhoe-Flying-Saucers-From-Outer-Space" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/81391762/Donald-Keyhoe-Flying-Saucers-From-Outer-Space</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/793429382786885/posts/1550258523770630/](https://www.facebook.com/groups/793429382786885/posts/1550258523770630/)  
+   Link: <a href="https://www.facebook.com/groups/793429382786885/posts/1550258523770630/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/793429382786885/posts/1550258523770630/</a>  
 
 27. <a id="endnote-27"></a>
    Source: ufoevidence.org  
-   Link: [https://www.ufoevidence.org/cases/case92.htm](https://www.ufoevidence.org/cases/case92.htm)  
+   Link: <a href="https://www.ufoevidence.org/cases/case92.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case92.htm</a>  
 
 28. <a id="endnote-28"></a>
    Source: saturdaynightuforia.com  
-   Link: [https://www.saturdaynightuforia.com/html/articles/articlehtml/thepilotstale.html](https://www.saturdaynightuforia.com/html/articles/articlehtml/thepilotstale.html)  
+   Link: <a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/thepilotstale.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/thepilotstale.html</a>

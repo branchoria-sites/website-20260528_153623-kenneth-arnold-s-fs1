@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /maury-island-incident-1947/
 nav_short_title: B 25 Crash
 title: Why Did the B 25 Crash Fuel the Legend?
-title_full: Why Did the B 25 Crash Fuel the Legend? | Maury Island
+title_full: Why Did the B 25 Crash Fuel the Legend?
 display_title_short: B 25 Crash
 display_title: B 25 Crash
 heading_title: Why Did the B 25 Crash Fuel the Legend?
@@ -233,7 +233,7 @@ next_link:
   permalink: /debris-trail/
   short_title: Debris Trail
   heading_title: Was the Maury Island Debris Ever Evidence?
-date: '2026-06-08 23:20:29 '
+date: '2026-06-11 13:12:32 '
 header:
   og_image: /assets/images/Maury_Island_inciden_ec4432_b25_crash_legend_d8f473-Illustration-1-social.jpg
   preview_image: /assets/images/Maury_Island_inciden_ec4432_b25_crash_legend_d8f473-Illustration-1.webp
@@ -244,7 +244,6 @@ image: /assets/images/Maury_Island_inciden_ec4432_b25_crash_legend_d8f473-Illust
 
 The deaths of Captain William L. Davidson and First Lieutenant Frank M. Brown transformed the Maury Island incident from a shaky “flying saucer” story into one of the founding legends of UFO secrecy. In the early hours of 1 August 1947, the two Army Air Forces intelligence officers crashed in a B-25 bomber near Kelso, Washington, after interviewing witnesses connected to the Maury Island claims and collecting alleged debris samples. Official investigators concluded that the aircraft suffered an engine fire and that the underlying saucer story was a hoax. Yet the timing of the crash, the mention of “classified” cargo, and later retellings by UFO writers created enduring rumours that the officers had been silenced or were carrying genuine extraterrestrial evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo04.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">a few hours the two officers were dead. The B-25 crashed near Kelso, Washington. The crew chief and a passenger had parachuted to safety...</span></span></span>
 
-
 <img src="{{ "/assets/images/Maury_Island_inciden_ec4432_b25_crash_legend_d8f473-Illustration-1-dark.svg" | relative_url }}" alt="B 25 Crash illustration 1" data-theme-src-dark="{{ "/assets/images/Maury_Island_inciden_ec4432_b25_crash_legend_d8f473-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maury_Island_inciden_ec4432_b25_crash_legend_d8f473-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The B-25 crash became culturally important because it fused several themes that would later dominate UFO mythology: suspicious military deaths, hidden evidence, intelligence investigations, and allegations of government suppression. Even though the available evidence points much more strongly toward an ordinary aviation accident than sabotage, the tragedy gave the Maury Island story emotional weight that the original testimony alone probably could not have sustained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury Island incident</span><span class="citation-popover-snippet">Maury Island incident</span></span></span>
 
@@ -254,14 +253,13 @@ By late July 1947, the Maury Island claims had already attracted attention far b
 
 Arnold reportedly became sceptical after examining the supposed fragments. Accounts from the period describe the material as ordinary slag or industrial debris rather than anything technologically exotic. Nevertheless, the Army Air Forces took enough interest to send intelligence officers Davidson and Brown from Hamilton Field in California to interview the witnesses directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_%28talk_show%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury (talk show</span><span class="citation-popover-snippet">Maury (talk show)Maury is an American daytime talk show that was hosted by Maury Povich. The show ran in syndication for thirty-one se...</span></span></span>
 
-This military involvement later became central to conspiracy narratives. Supporters of the cover-up theory argued that intelligence officers would not have travelled to Tacoma unless the government already suspected something extraordinary. Skeptics countered that the summer of 1947 produced hundreds of unusual-aircraft reports, and the military was under pressure to determine whether any sightings reflected Soviet technology, hoaxes, mass hysteria, or genuine security threats. The officers’ presence therefore does not itself imply belief in extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seattlesouthside.com">[Explore Seattle Southside]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seattlesouthside.com</span><span class="citation-popover-title">Explore Seattle Southside Maury Island UFO Incident Mural | Explore Seattle</span><span class="citation-popover-snippet">Captain William Davidson and Lieutenant Frank Brown. On July 31st, 1947, the two intelligence officers fly to McCord field in Tacoma in a...</span></span></span>
+This military involvement later became central to conspiracy narratives. Supporters of the cover-up theory argued that intelligence officers would not have travelled to Tacoma unless the government already suspected something extraordinary. Skeptics countered that the summer of 1947 produced hundreds of unusual-aircraft reports, and the military was under pressure to determine whether any sightings reflected Soviet technology, hoaxes, mass hysteria, or genuine security threats. The officers’ presence therefore does not itself imply belief in extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seattlesouthside.com">[Explore Seattle Southside]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seattlesouthside.com</span><span class="citation-popover-title">Explore Seattle Southside Maury Island UFO Incident Mural &#124; Explore Seattle</span><span class="citation-popover-snippet">Captain William Davidson and Lieutenant Frank Brown. On July 31st, 1947, the two intelligence officers fly to McCord field in Tacoma in a...</span></span></span>
 
 ### The “Top Secret Cargo” Detail
 
-One reason the crash became legendary was the repeated claim that Davidson and Brown were transporting “top secret” material recovered from the incident. Some later retellings describe the debris as sealed evidence connected to a possible flying saucer recovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ripleys.com/stories/maury-island-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ripleys.com">[Ripley&#x27;s]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ripleys.com</span><span class="citation-popover-title">maury island ufo</span><span class="citation-popover-snippet">On August 1, 1947, Davidson and Brown took off in a B-25 bomber with samples of material—slag—that allegedly fell from the Maury...Read...</span><span class="citation-popover-meta">Published: August 1, 1947</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seattlesouthside.com">[Explore Seattle Southside]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seattlesouthside.com</span><span class="citation-popover-title">Explore Seattle Southside Maury Island UFO Incident Mural | Explore Seattle</span><span class="citation-popover-snippet">Captain William Davidson and Lieutenant Frank Brown. On July 31st, 1947, the two intelligence officers fly to McCord field in Tacoma in a...</span></span></span>
+One reason the crash became legendary was the repeated claim that Davidson and Brown were transporting “top secret” material recovered from the incident. Some later retellings describe the debris as sealed evidence connected to a possible flying saucer recovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ripleys.com/stories/maury-island-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ripleys.com">[Ripley&#x27;s]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ripleys.com</span><span class="citation-popover-title">maury island ufo</span><span class="citation-popover-snippet">On August 1, 1947, Davidson and Brown took off in a B-25 bomber with samples of material—slag—that allegedly fell from the Maury...Read...</span><span class="citation-popover-meta">Published: August 1, 1947</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seattlesouthside.com">[Explore Seattle Southside]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seattlesouthside.com</span><span class="citation-popover-title">Explore Seattle Southside Maury Island UFO Incident Mural &#124; Explore Seattle</span><span class="citation-popover-snippet">Captain William Davidson and Lieutenant Frank Brown. On July 31st, 1947, the two intelligence officers fly to McCord field in Tacoma in a...</span></span></span>
 
 However, the phrase “classified” or “secret” cargo was less dramatic in military aviation context than UFO mythology later suggested. Intelligence officers routinely transported official materials under restricted handling procedures. Contemporary and later investigators generally concluded that the debris itself was mundane. The mystery survived partly because the exact chain of custody for the material was poorly documented in public reporting, leaving room for speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_Povich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury Povich</span><span class="citation-popover-snippet">Maury PovichMaurice Richard Povich (born January 17, 1939) is an American former television personality, best known for hosting the ta...</span><span class="citation-popover-meta">Published: January 17, 1939</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m6n5jqfb_xg" title="I Cheated with Our Cousin ... Is He The Father? | Maury S11 EP135 | Full Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m6n5jqfb_xg" target="_blank" rel="noopener noreferrer">I Cheated with Our Cousin ... Is He The Father? | Maury S11 EP135 | Full Episode</a></p><p class="youtube-embed-meta">Channel: Nosey &middot; Views: 115.4K &middot; Uploaded: November 2025 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m6n5jqfb_xg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m6n5jqfb_xg">Open on YouTube</a></p></div></div></div>
 
@@ -272,7 +270,6 @@ Davidson and Brown departed McChord Field shortly after completing interviews in
 The official explanation was comparatively straightforward: an engine fire developed during flight, leading to loss of control and the crash. Contemporary military investigations treated the accident as an aviation failure rather than sabotage. No publicly documented inquiry produced evidence of explosives, hostile action, or deliberate interference with the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Maury Island incident</span><span class="citation-popover-snippet">Maury Island incident</span></span></span>
 
 Still, several details encouraged suspicion:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -293,7 +290,6 @@ Ray Palmer and other early flying-saucer promoters also contributed to the atmos
 
 Another reason the rumours survived is psychological rather than evidential. A fatal crash gives emotional credibility to a weak story. Without the deaths of Davidson and Brown, the Maury Island case might have remained a regional hoax involving dubious witnesses and slag fragments. The crash created a sense that “something serious” must have happened, even though accidents involving wartime aircraft were not uncommon in 1947. The coincidence itself became the evidence in popular imagination.
 
-
 <img src="{{ "/assets/images/Maury_Island_inciden_ec4432_b25_crash_legend_d8f473-Illustration-2-dark.svg" | relative_url }}" alt="B 25 Crash illustration 2" data-theme-src-dark="{{ "/assets/images/Maury_Island_inciden_ec4432_b25_crash_legend_d8f473-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maury_Island_inciden_ec4432_b25_crash_legend_d8f473-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The FBI Investigation Undercut the Conspiracy Narrative
 
@@ -307,7 +303,6 @@ Ruppelt also addressed a recurring question from believers: if the story was fal
 
 The B-25 crash had a far greater impact on UFO culture than the original Maury Island testimony. The event helped establish several motifs that later became standard parts of UFO mythology.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a5KXsiBZjOM" title="The CIA, Men in Black and the Plot to Take Out JFK | The Maury Island Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a5KXsiBZjOM" target="_blank" rel="noopener noreferrer">The CIA, Men in Black and the Plot to Take Out JFK | The Maury Island Incident</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 3.2M &middot; Uploaded: October 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a5KXsiBZjOM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a5KXsiBZjOM">Open on YouTube</a></p></div></div></div>
 
 ### Military deaths became part of UFO storytelling
@@ -320,8 +315,7 @@ Maury Island is often cited as one of the first UFO stories involving mysterious
 
 ### It blurred hoax and legend
 
-One unusual aspect of Maury Island is that even many UFO researchers eventually accepted the basic hoax explanation while still treating the crash as eerie or unresolved. The result was a hybrid story: the debris claims looked fraudulent, but the fatal aftermath remained emotionally compelling. That tension helped keep the incident alive in books, documentaries, local festivals, and paranormal tourism long after stronger UFO cases faded from memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — Harold Dahl and Fred Crissman report the explosion on J...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vashonbeachcomber.com/2022/06/22/time-again-75th-anniversary-of-the-maury-island-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vashonbeachcomber.com">[Vashon-Maury Island Beachcomber]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vashonbeachcomber.com</span><span class="citation-popover-title">time again 75th anniversary of the maury island incident</span><span class="citation-popover-snippet">Vashon-Maury Island BeachcomberTime &amp; Again: 75th Anniversary of The Maury Island Incident22 Jun 2022 — On June 21, 1947, Harold Dahl enc...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
-
+One unusual aspect of Maury Island is that even many UFO researchers eventually accepted the basic hoax explanation while still treating the crash as eerie or unresolved. The result was a hybrid story: the debris claims looked fraudulent, but the fatal aftermath remained emotionally compelling. That tension helped keep the incident alive in books, documentaries, local festivals, and paranormal tourism long after stronger UFO cases faded from memory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — Harold Dahl and Fred Crissman report the explosion on J...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vashonbeachcomber.com/2022/06/22/time-again-75th-anniversary-of-the-maury-island-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vashonbeachcomber.com">[Vashon-Maury Island Beachcomber]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vashonbeachcomber.com</span><span class="citation-popover-title">time again 75th anniversary of the maury island incident</span><span class="citation-popover-snippet">Vashon-Maury Island BeachcomberTime &amp; Again: 75th Anniversary of The Maury Island Incident22 Jun 2022 — On June 21, 1947, Harold Dahl enc...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>
 
 <img src="{{ "/assets/images/Maury_Island_inciden_ec4432_b25_crash_legend_d8f473-Illustration-3-dark.svg" | relative_url }}" alt="B 25 Crash illustration 3" data-theme-src-dark="{{ "/assets/images/Maury_Island_inciden_ec4432_b25_crash_legend_d8f473-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Maury_Island_inciden_ec4432_b25_crash_legend_d8f473-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Cover-Up Theory Remains Weak
@@ -338,52 +332,93 @@ Several points weigh heavily against the conspiracy interpretation:
 
 At the same time, the rumours never disappeared because the crash sits at the intersection of coincidence and mythology. A dramatic death immediately following a UFO investigation naturally invites speculation, especially when combined with intelligence officers, classified cargo, and contradictory witness accounts. The emotional power of the story has consistently outweighed the quality of the evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qt3sR5BQBLQ" title="UFOs in Washington" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qt3sR5BQBLQ" target="_blank" rel="noopener noreferrer">UFOs in Washington</a></p><p class="youtube-embed-meta">Channel: Pretty Gritty Tours &middot; Views: 1.0K &middot; Uploaded: June 2024 &middot; Length: 2 minutes 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qt3sR5BQBLQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qt3sR5BQBLQ">Open on YouTube</a></p></div></div></div>
 
 ## The Lasting Importance of the Crash
 
-The Maury Island incident is often remembered less for Harold Dahl’s original claims than for what happened afterward. The B-25 crash gave the case a tragic centre and helped turn a probable hoax into a foundational chapter of UFO folklore. It connected early flying-saucer culture with themes of secrecy, government suspicion, and fatal consequences that would later dominate popular UFO narratives from Roswell onward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink Historically]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — Harold Dahl and Fred Crissman report the explosion on J...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>, the crash is most significant not as evidence of extraterrestrial contact, but as an example of how fragile stories become enduring myths. A poorly supported debris tale might have vanished within weeks. The deaths of Davidson and Brown ensured that Maury Island would instead become one of the earliest American UFO legends associated with conspiracy and cover-up rumours.
+The Maury Island incident is often remembered less for Harold Dahl’s original claims than for what happened afterward. The B-25 crash gave the case a tragic centre and helped turn a probable hoax into a foundational chapter of UFO folklore. It connected early flying-saucer culture with themes of secrecy, government suspicion, and fatal consequences that would later dominate popular UFO narratives from Roswell onward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historylink.org">[HistoryLink Historically]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historylink.org</span><span class="citation-popover-snippet">Dahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — Harold Dahl and Fred Crissman report the explosion on J...</span><span class="citation-popover-meta">Published: June 21, 1947</span></span></span>, the crash is most significant not as evidence of extraterrestrial contact, but as an example of how fragile stories become enduring myths. A poorly supported debris tale might have vanished within weeks. The deaths of Davidson and Brown ensured that Maury Island would instead become one of the earliest American UFO legends associated with conspiracy and cover-up rumours.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why Did the B 25 Crash Fuel the Legend?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why Did the B 25 Crash Fuel the Legend?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Maury Island incident guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Maury+Island+incident+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the crash and the associated cover-up claims, distinguishing historical record from later myth-building.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Kelso crash guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Kelso+crash+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Archives how military and government files are documented, establishing standards for separating crashes from UFO claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Men in Black guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Men+in+Black+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches methodologies to distinguish between actual military aviation accidents and the retroactive fabrication of sabotage stories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Documents how investigative bodies indexed crash incidents and the challenges of confirming secret-cargo rumors.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -420,15 +455,15 @@ The Maury Island incident is often remembered less for Harold Dahl’s original 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -436,15 +471,15 @@ The Maury Island incident is often remembered less for Harold Dahl’s original 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -452,31 +487,15 @@ The Maury Island incident is often remembered less for Harold Dahl’s original 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -484,7 +503,7 @@ The Maury Island incident is often remembered less for Harold Dahl’s original 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="b-25-crash-why-did-the-b-25-crash-fuel-the-legend-maury-island-incident-1947-ufo-poster-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -700,134 +719,134 @@ The Maury Island incident is often remembered less for Harold Dahl’s original 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Maury Island incident  
-   Link: [https://en.wikipedia.org/wiki/Maury_Island_incident](https://en.wikipedia.org/wiki/Maury_Island_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Maury_Island_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maury_Island_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: historylink.org  
-   Link: [https://www.historylink.org/File/2068](https://www.historylink.org/File/2068)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryLinkDahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — Harold Dahl and Fred Crissman report the explosion on J...</p></details>
+   Link: <a href="https://www.historylink.org/File/2068" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/2068</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dahl and Crissman report a June 21, 1947, explosion of...1 Jan 2000 — Harold Dahl and Fred Crissman report the explosion on J...</p></details>
    Published: June 21, 1947  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: The Coming of the Saucers  
-   Link: [https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers](https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Coming of the SaucersThe Coming of the Saucers is a 1952 book by original &#x27;flying saucer&#x27; witness Kenneth Arnold and magazine publ...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Maury (talk show)  
-   Link: [https://en.wikipedia.org/wiki/Maury_%28talk_show%29](https://en.wikipedia.org/wiki/Maury_%28talk_show%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Maury_%28talk_show%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maury_%28talk_show%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maury (talk show)Maury is an American daytime talk show that was hosted by Maury Povich. The show ran in syndication for thirty-one se...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Maury Povich  
-   Link: [https://en.wikipedia.org/wiki/Maury_Povich](https://en.wikipedia.org/wiki/Maury_Povich)  
+   Link: <a href="https://en.wikipedia.org/wiki/Maury_Povich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Maury_Povich</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maury PovichMaurice Richard Povich (born January 17, 1939) is an American former television personality, best known for hosting the ta...</p></details>
    Published: January 17, 1939  
 
 6. <a id="endnote-6"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo04.htm](https://sacred-texts.com/ufo/rufo/rufo04.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo04.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo04.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>a few hours the two officers were dead. The B-25 crashed near Kelso, Washington. The crew chief and a passenger had parachuted to safety...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: seattlesouthside.com  
    Title: Explore Seattle Southside Maury Island UFO Incident Mural | Explore Seattle  
-   Link: [https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/](https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/)  
+   Link: <a href="https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/" target="_blank" rel="noopener noreferrer nofollow">https://www.seattlesouthside.com/seattle-southside-stories/maury-island-ufo-incident-mural/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Captain William Davidson and Lieutenant Frank Brown. On July 31st, 1947, the two intelligence officers fly to McCord field in Tacoma in a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ripleys.com  
    Title: maury island ufo  
-   Link: [https://www.ripleys.com/stories/maury-island-ufo](https://www.ripleys.com/stories/maury-island-ufo)  
+   Link: <a href="https://www.ripleys.com/stories/maury-island-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ripleys.com/stories/maury-island-ufo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On August 1, 1947, Davidson and Brown took off in a B-25 bomber with samples of material—slag—that allegedly fell from the Maury...Read...</p></details>
    Published: August 1, 1947  
 
 9. <a id="endnote-9"></a>
    Source: seattlesouthside.com  
    Title: Explore Seattle Southside The Real Start of UFO History | Maury Island Incident  
-   Link: [https://www.seattlesouthside.com/welcome-back-aliens/ufo-history/](https://www.seattlesouthside.com/welcome-back-aliens/ufo-history/)  
+   Link: <a href="https://www.seattlesouthside.com/welcome-back-aliens/ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://www.seattlesouthside.com/welcome-back-aliens/ufo-history/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On the way back to base, the B-25 crashed near Kelso, Washington, killing both officers. While the official cause was listed as an engine...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: tangentonline.com  
-   Link: [https://tangentonline.com/the-pulp-magazines/the-pulp-magazines-the-pulp-magazines/flying-saucers-a-the-stymie-factor-by-raymond-a-palmer/](https://tangentonline.com/the-pulp-magazines/the-pulp-magazines-the-pulp-magazines/flying-saucers-a-the-stymie-factor-by-raymond-a-palmer/)  
+   Link: <a href="https://tangentonline.com/the-pulp-magazines/the-pulp-magazines-the-pulp-magazines/flying-saucers-a-the-stymie-factor-by-raymond-a-palmer/" target="_blank" rel="noopener noreferrer nofollow">https://tangentonline.com/the-pulp-magazines/the-pulp-magazines-the-pulp-magazines/flying-saucers-a-the-stymie-factor-by-raymond-a-palmer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PalmerNov 18, 2017 — He also speaks at length about his belief in UFOs (sparked by Kenneth Arnold&#x27;s sightings), and other paranormal phen...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: vashonbeachcomber.com  
    Title: time again 75th anniversary of the maury island incident  
-   Link: [https://www.vashonbeachcomber.com/2022/06/22/time-again-75th-anniversary-of-the-maury-island-incident/](https://www.vashonbeachcomber.com/2022/06/22/time-again-75th-anniversary-of-the-maury-island-incident/)  
+   Link: <a href="https://www.vashonbeachcomber.com/2022/06/22/time-again-75th-anniversary-of-the-maury-island-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.vashonbeachcomber.com/2022/06/22/time-again-75th-anniversary-of-the-maury-island-incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vashon-Maury Island BeachcomberTime &amp; Again: 75th Anniversary of The Maury Island Incident22 Jun 2022 — On June 21, 1947, Harold Dahl enc...</p></details>
    Published: June 21, 1947  
 
 12. <a id="endnote-12"></a>
    Source: twinpeaks.fandom.com  
    Title: Davidson and Brown  
-   Link: [https://twinpeaks.fandom.com/wiki/Davidson_and_Brown](https://twinpeaks.fandom.com/wiki/Davidson_and_Brown)  
+   Link: <a href="https://twinpeaks.fandom.com/wiki/Davidson_and_Brown" target="_blank" rel="noopener noreferrer nofollow">https://twinpeaks.fandom.com/wiki/Davidson_and_Brown</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Brown | Twin Peaks Wiki - FandomCaptain William Lee Davidson and Lieutenant Frank Brown were Army Air Force officers who died in a pl...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: twinpeaks.fandom.com  
    Title: Ray Palmer  
-   Link: [https://twinpeaks.fandom.com/wiki/Ray_Palmer](https://twinpeaks.fandom.com/wiki/Ray_Palmer)  
+   Link: <a href="https://twinpeaks.fandom.com/wiki/Ray_Palmer" target="_blank" rel="noopener noreferrer nofollow">https://twinpeaks.fandom.com/wiki/Ray_Palmer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Palmer | Twin Peaks Wiki - FandomPalmer offered Arnold $200 to investigate the Maury Island Incident and to write an article for Amazing...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_3.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarpRCaptain Davidson and Lieutenant Brown left Tacoma, Washineton in a B-25 to return to Hamilton Field, California a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: museumofflight.org  
-   Link: [https://www.museumofflight.org/exhibits-and-events/calendar-of-events/8036/the-maury-island-incident](https://www.museumofflight.org/exhibits-and-events/calendar-of-events/8036/the-maury-island-incident)  
+   Link: <a href="https://www.museumofflight.org/exhibits-and-events/calendar-of-events/8036/the-maury-island-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.museumofflight.org/exhibits-and-events/calendar-of-events/8036/the-maury-island-incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Maury Island IncidentBased on the incredible and often forgotten story of Harold Dahl, who on June 21, 1947, alleged a UFO sighting o...</p></details>
    Published: June 21, 1947  
 
 16. <a id="endnote-16"></a>
    Source: crystalinks.com  
-   Link: [https://www.crystalinks.com/mauryisland1947.html](https://www.crystalinks.com/mauryisland1947.html)  
+   Link: <a href="https://www.crystalinks.com/mauryisland1947.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalinks.com/mauryisland1947.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: b-townblog.com  
    Title: local historians seek state recognition for infamous 1947 flying disc story  
-   Link: [https://b-townblog.com/local-historians-seek-state-recognition-for-infamous-1947-flying-disc-story/](https://b-townblog.com/local-historians-seek-state-recognition-for-infamous-1947-flying-disc-story/)  
+   Link: <a href="https://b-townblog.com/local-historians-seek-state-recognition-for-infamous-1947-flying-disc-story/" target="_blank" rel="noopener noreferrer nofollow">https://b-townblog.com/local-historians-seek-state-recognition-for-infamous-1947-flying-disc-story/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Davidson and Lt. Frank M. Brown lost their lives when the B-25 Bomber they were piloting crashed outside of Kelso, Washington...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/channel/UCcoB7_8vWOW88GIFe_SXv6A](https://www.youtube.com/channel/UCcoB7_8vWOW88GIFe_SXv6A)  
+   Link: <a href="https://www.youtube.com/channel/UCcoB7_8vWOW88GIFe_SXv6A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCcoB7_8vWOW88GIFe_SXv6A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Maury ShowMaury Show · Guests Caught in the Messiest Love Triangles! | Maury · Past live streams · WHERE ARE THEY NOW | MAURY · YOU ARE N...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: waterlandblog.com  
    Title: resolution recognizing the maury island incident passed in state senate  
-   Link: [https://waterlandblog.com/resolution-recognizing-the-maury-island-incident-passed-in-state-senate/](https://waterlandblog.com/resolution-recognizing-the-maury-island-incident-passed-in-state-senate/)  
+   Link: <a href="https://waterlandblog.com/resolution-recognizing-the-maury-island-incident-passed-in-state-senate/" target="_blank" rel="noopener noreferrer nofollow">https://waterlandblog.com/resolution-recognizing-the-maury-island-incident-passed-in-state-senate/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Davidson and 1st Lt. Frank M. Brown, who were tragically killed when their B-25 mysteriously crashed near Kelso, WA. The airplane was...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: b-townblog.com  
    Title: resolution recognizing the maury island incident passed in state senate  
-   Link: [https://b-townblog.com/resolution-recognizing-the-maury-island-incident-passed-in-state-senate/](https://b-townblog.com/resolution-recognizing-the-maury-island-incident-passed-in-state-senate/)  
+   Link: <a href="https://b-townblog.com/resolution-recognizing-the-maury-island-incident-passed-in-state-senate/" target="_blank" rel="noopener noreferrer nofollow">https://b-townblog.com/resolution-recognizing-the-maury-island-incident-passed-in-state-senate/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frank M. Brown, who interviewed Harold Dahl about his sighting, lost their lives when the B-25 Bomber they were piloting...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: mauryshow.com  
-   Link: [https://mauryshow.com/](https://mauryshow.com/)  
+   Link: <a href="https://mauryshow.com/" target="_blank" rel="noopener noreferrer nofollow">https://mauryshow.com/</a>  
 
 22. <a id="endnote-22"></a>
    Source: thehistorictrust.org  
    Title: ufo northwest how washington state spawned the men in black  
-   Link: [https://www.thehistorictrust.org/calendar/ufo-northwest-how-washington-state-spawned-the-men-in-black/](https://www.thehistorictrust.org/calendar/ufo-northwest-how-washington-state-spawned-the-men-in-black/)  
+   Link: <a href="https://www.thehistorictrust.org/calendar/ufo-northwest-how-washington-state-spawned-the-men-in-black/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistorictrust.org/calendar/ufo-northwest-how-washington-state-spawned-the-men-in-black/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Northwest: How Washington State Spawned the Men...10 Apr 2025 — On August 1, 1947, the tragic crash of a B-25 bomber in Washington S...</p></details>
    Published: August 1, 1947  
 
 23. <a id="endnote-23"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40steveedmistonQ45/when-is-a-hoax-not-a-hoax-a-75th-anniversary-reassessment-of-the-maury-island-incident-4a70d83a95b8](https://medium.com/%40steveedmistonQ45/when-is-a-hoax-not-a-hoax-a-75th-anniversary-reassessment-of-the-maury-island-incident-4a70d83a95b8)  
+   Link: <a href="https://medium.com/%40steveedmistonQ45/when-is-a-hoax-not-a-hoax-a-75th-anniversary-reassessment-of-the-maury-island-incident-4a70d83a95b8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40steveedmistonQ45/when-is-a-hoax-not-a-hoax-a-75th-anniversary-reassessment-of-the-maury-island-incident-4a70d83a95b8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 1, 1947, Captain Davidson and Lt. Brown returned to their B-25 Bomber...Read more...</p></details>
-   Published: August 1, 1947  
+   Published: August 1, 1947

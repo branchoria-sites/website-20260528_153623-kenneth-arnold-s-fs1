@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /fred-m-johnson-sighting-1947/
 nav_short_title: Arnold Link
 title: Was Johnson a Ground Witness to Arnold's Sighting?
-title_full: Was Johnson a Ground Witness to Arnold's Sighting? | Johnson Sighting
+title_full: Was Johnson a Ground Witness to Arnold's Sighting?
 display_title_short: Arnold Link
 display_title: Arnold Link
 heading_title: Was Johnson a Ground Witness to Arnold's Sighting?
@@ -233,7 +233,7 @@ next_link:
   permalink: /compass-claim/
   short_title: Compass Claim
   heading_title: Did the UFOs Affect Johnson's Compass?
-date: '2026-06-08 23:33:11 '
+date: '2026-06-11 13:20:03 '
 header:
   og_image: /assets/images/Fred_M_Johnson_sight_b34b17_arnold_link_1b2fce-Illustration-1-social.jpg
   preview_image: /assets/images/Fred_M_Johnson_sight_b34b17_arnold_link_1b2fce-Illustration-1.webp
@@ -244,14 +244,12 @@ image: /assets/images/Fred_M_Johnson_sight_b34b17_arnold_link_1b2fce-Illustratio
 
 The **1947 sighting by Kenneth Arnold** is widely recognised as the spark that ignited the modern UFO era — not because it was the first unidentified aerial sighting ever, but because it was the first to **generate nationwide media interest and catalyse a wave of similar reports**. Arnold’s June 24, 1947 account near Mount Rainier, Washington, led to the press coining the term *“flying saucer”* and triggered a surge of public sightings and official investigations — a backdrop that profoundly shaped how later reports were framed, including the nearby but lesser‑known **Fred M Johnson sighting**.[Wikipedia]
 
-
 <img src="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_arnold_link_1b2fce-Illustration-1-dark.svg" | relative_url }}" alt="Arnold Link illustration 1" data-theme-src-dark="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_arnold_link_1b2fce-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_arnold_link_1b2fce-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Same‑Day Timing and Regional Geography
 
 Arnold was flying his light aircraft over the Cascade Range in far northwestern Washington on the **afternoon of 24 June 1947** when he reported seeing **nine bright, fast‑moving, unidentified objects** swooping past Mount Rainier at very high speed. His estimate of their velocity — at least 1,200 mph — and the objects’ reflective brightness made his claim noteworthy to both reporters and aviation officials.[Wikipedia]
 
 After landing in Yakima, he recounted his sighting to local newspapers; a report in the *East Oregonian* and subsequent press coverage, embellished with the phrase *“flying saucer”*, ensured that his encounter reached a national audience. The nearly simultaneous descriptions of disc‑like objects over the Pacific Northwest helped fix the event in both space and time, and the **geographical proximity of Arnold’s and Johnson’s reports** — both in mountainous terrain of Washington’s Cascade region on the same calendar day — has encouraged later writers to link the two sightings as part of a single phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/projsauc.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">sic) Ranier incident that touched off the saucer</span><span class="citation-popover-snippet">PROJECT 1947 - 1949: PROJECT SAUCERApril 27, 1949 — * * * WHO SAW THE SAUCERS Although occasional sightings of strange aerial objects wer...</span><span class="citation-popover-meta">Published: April 27, 1949</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MJp-YR34XBs" title="The First UFO Sighting In America | UFOs: The Lost Evidence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MJp-YR34XBs" target="_blank" rel="noopener noreferrer">The First UFO Sighting In America | UFOs: The Lost Evidence</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 182.5K &middot; Uploaded: December 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MJp-YR34XBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MJp-YR34XBs">Open on YouTube</a></p></div></div></div>
 
@@ -261,7 +259,6 @@ The appeal of linking Johnson’s report to Arnold’s stems largely from *chron
 
 For UFO researchers and enthusiasts, the fact that Johnson said he saw objects “about the same time” as Arnold and within the *same broad Pacific Northwest region* invites speculation that Johnson might have witnessed **the same objects** at a lower angle or in a different phase of their flight. This narrative is reinforced in UFO literature precisely because Arnold’s sighting, being first and best‑documented, serves as an anchor point for the rest of the wave. The idea that Johnson was a *ground‑level corroborator* to Arnold’s airborne encounter makes for a compelling addition to the 1947 saga.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/projsauc.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">sic) Ranier incident that touched off the saucer</span><span class="citation-popover-snippet">PROJECT 1947 - 1949: PROJECT SAUCERApril 27, 1949 — * * * WHO SAW THE SAUCERS Although occasional sightings of strange aerial objects wer...</span><span class="citation-popover-meta">Published: April 27, 1949</span></span></span>
 
-
 <img src="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_arnold_link_1b2fce-Illustration-2-dark.svg" | relative_url }}" alt="Arnold Link illustration 2" data-theme-src-dark="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_arnold_link_1b2fce-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_arnold_link_1b2fce-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Chronology Remains Uncertain
 
@@ -269,9 +266,7 @@ Despite the attractive storyline, **the chronology linking Johnson and Arnold is
 
 Moreover, early press coverage of the 1947 *flying disc craze* suggests that sightings were bubbling under the surface even before Arnold’s encounter became public, and that the surge in reports afterwards was as much a product of media attention and social contagion as it was of concurrent physical phenomena. This context complicates the assumption that Johnson’s account represents an independent confirmation of Arnold’s objects rather than an example of a **report shaped by the new language and expectations of the moment**.[NICAP]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xLuHgsXGpqc" title="Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer">Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 9.8K &middot; Uploaded: October 2025 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xLuHgsXGpqc">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qdXNAOxs6mo" title="Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer">Kenneth Arnold and the First UFOs - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 5.1K &middot; Uploaded: June 2019 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qdXNAOxs6mo">Open on YouTube</a></p></div></div></div>
 
@@ -281,48 +276,89 @@ History and UFO research agree on one central point: Arnold’s June 24 encounte
 
 This wave context is essential for understanding why later accounts like Johnson’s were documented and circulated at all: they occurred in a **historically receptive environment** created by Arnold’s high‑profile report. It remains the defining backdrop against which all same‑day or same‑region reports, including the Johnson case, are assessed — whether as possible corroborations, contemporaneous sightings, or as echoes of a media and perception phenomenon triggered by one pilot’s [testimony]({{ 'testimony/' | relative_url }}).[Wikipedia]
 
-
 <img src="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_arnold_link_1b2fce-Illustration-3-dark.svg" | relative_url }}" alt="Arnold Link illustration 3" data-theme-src-dark="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_arnold_link_1b2fce-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_arnold_link_1b2fce-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Was Johnson a Ground Witness to Arnold&#x27;s Sighting?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Was Johnson a Ground Witness to Arnold&#x27;s Sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Summarizes the chronology of June 1947, detailing the relationship between Arnold&#x27;s high-profile sighting and ground reports like Johnson&#x27;s.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Reviews how the national media response linked Arnold’s sighting to local ground reports, shaping early UFO history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings evidence books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+evidence+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches methodologies to distinguish separate observations from those artificially grouped together for narrative cohesion.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Documents how investigative bodies indexed sighting clusters and the challenges of confirming geographical links retrospectively.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -359,15 +395,15 @@ This wave context is essential for understanding why later accounts like Johnson
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;"><img src="https://i.ebayimg.com/images/g/KJAAAeSwHlpqIC~m/s-l225.jpg" alt="Listing image for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -375,15 +411,15 @@ This wave context is essential for understanding why later accounts like Johnson
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Desktop Model ! (B)"><img src="https://i.ebayimg.com/images/g/rYEAAeSwX3lnzul9/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Desktop Model ! (B)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Desktop Model ! (B)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -391,15 +427,15 @@ This wave context is essential for understanding why later accounts like Johnson
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small"><img src="https://i.ebayimg.com/images/g/iQIAAOSwqSZm7mOi/s-l225.jpg" alt="Listing image for Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Sport Model UFO/Flying Saucer - from S4 Area 51 - Revealed by Bob Lazar - small</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -407,15 +443,15 @@ This wave context is essential for understanding why later accounts like Johnson
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift"><img src="https://i.ebayimg.com/images/g/zEoAAeSwzHBo29i9/s-l225.jpg" alt="Listing image for Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Gulf Breeze UFO Model | UAP Model | UFO Toy | Flying Saucer Model | Geek Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -423,7 +459,7 @@ This wave context is essential for understanding why later accounts like Johnson
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="arnold-link-was-johnson-a-ground-witness-to-arnold-s-sighting-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="was-johnson-a-ground-witness-to-arnold-s-sighting-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -639,126 +675,126 @@ This wave context is essential for understanding why later accounts like Johnson
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting](https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
 2. <a id="endnote-2"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/fig/47docdex.htm](https://www.project1947.com/fig/47docdex.htm)  
+   Link: <a href="https://www.project1947.com/fig/47docdex.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/47docdex.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947PROJECT 1947 - INDEX 1947...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: [https://en.wikipedia.org/wiki/1947_flying_disc_craze](https://en.wikipedia.org/wiki/1947_flying_disc_craze)  
+   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
 4. <a id="endnote-4"></a>
    Source: nicap.org  
    Title: ReportUFOWave1947 SectionI  
-   Link: [https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionI.htm](https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionI.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPReport on UFO Wave of 1947 Section I...</p></details>
+   Link: <a href="https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionI.htm" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionI.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on UFO Wave of 1947 Section I...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: [https://en.wikipedia.org/wiki/Flying_saucer](https://en.wikipedia.org/wiki/Flying_saucer)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
 6. <a id="endnote-6"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: [https://www.history.com/articles/kenneth-arnold](https://www.history.com/articles/kenneth-arnold)  
+   Link: <a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, 1947 &amp; Flying Saucer | HISTORYFebruary 22, 2010 — By: HISTORY.com Editors Mysteries &amp; Folklore KENNETH ARNOLD HISTORY.com Editors Im...</p></details>
    Published: February 22, 2010  
 
 7. <a id="endnote-7"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: [https://www.history.com/topics/folklore/kenneth-arnold](https://www.history.com/topics/folklore/kenneth-arnold)  
+   Link: <a href="https://www.history.com/topics/folklore/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/topics/folklore/kenneth-arnold</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, 1947 &amp; Flying Saucer | HISTORYFebruary 22, 2010 — By: HISTORY.com Editors Mysteries &amp; Folklore KENNETH ARNOLD HISTORY.com Editors Im...</p></details>
    Published: February 22, 2010  
 
 8. <a id="endnote-8"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/arnold_1947a.htm](https://www.nicap.org/reports/arnold_1947a.htm)  
+   Link: <a href="https://www.nicap.org/reports/arnold_1947a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/arnold_1947a.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO ReportImage PROJECT 1947 UFO REPORTS - 1947 * * * &gt; The beginning of the modern UFO era is often traced back to June 24, 1947, when b...</p></details>
    Published: June 24, 1947  
 
 9. <a id="endnote-9"></a>
    Source: project1947.com  
    Title: (sic) Ranier incident that touched off the saucer  
-   Link: [https://www.project1947.com/fig/projsauc.htm](https://www.project1947.com/fig/projsauc.htm)  
+   Link: <a href="https://www.project1947.com/fig/projsauc.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/projsauc.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT 1947 - 1949: PROJECT SAUCERApril 27, 1949 — * * * WHO SAW THE SAUCERS Although occasional sightings of strange aerial objects wer...</p></details>
    Published: April 27, 1949  
 
 10. <a id="endnote-10"></a>
    Source: paranormal-encyclopedia.com  
    Title: kenneth arnold  
-   Link: [https://www.paranormal-encyclopedia.com/u/ufo/sightings/1947/kenneth-arnold.html](https://www.paranormal-encyclopedia.com/u/ufo/sightings/1947/kenneth-arnold.html)  
+   Link: <a href="https://www.paranormal-encyclopedia.com/u/ufo/sightings/1947/kenneth-arnold.html" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormal-encyclopedia.com/u/ufo/sightings/1947/kenneth-arnold.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting (1947)UFO SIGHTING: KENNETH ARNOLD (1947) Image: Kenneth Arnold Kenneth Arnold with a UFO drawing The modern phenomena of &quot;f...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: seattletimes.com  
-   Link: [https://www.seattletimes.com/seattle-news/northwest/flying-saucers-became-a-thing-70-years-ago-saturday-with-sighting-near-mount-rainier/](https://www.seattletimes.com/seattle-news/northwest/flying-saucers-became-a-thing-70-years-ago-saturday-with-sighting-near-mount-rainier/)  
+   Link: <a href="https://www.seattletimes.com/seattle-news/northwest/flying-saucers-became-a-thing-70-years-ago-saturday-with-sighting-near-mount-rainier/" target="_blank" rel="noopener noreferrer nofollow">https://www.seattletimes.com/seattle-news/northwest/flying-saucers-became-a-thing-70-years-ago-saturday-with-sighting-near-mount-rainier/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 2017 — ‘FLYING SAUCERS’ BECAME A THING 70 YEARS AGO SATURDAY WITH SIGHTING NEAR MOUNT RAINIER Originally published June 24, 2017...</p></details>
    Published: June 24, 2017  
 
 12. <a id="endnote-12"></a>
    Source: guinnessworldrecords.com  
    Title: Guinness World Records First report of a flying saucer | Guinness World Records  
-   Link: [https://www.guinnessworldrecords.com/world-records/116237-first-report-of-a-flying-saucer](https://www.guinnessworldrecords.com/world-records/116237-first-report-of-a-flying-saucer)  
+   Link: <a href="https://www.guinnessworldrecords.com/world-records/116237-first-report-of-a-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/world-records/116237-first-report-of-a-flying-saucer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>First report of a flying saucer | Guinness World RecordsJune 24, 1947 — FIRST REPORT OF A FLYING SAUCER Image: First report of a flying s...</p></details>
    Published: June 24, 1947  
 
 13. <a id="endnote-13"></a>
    Source: daviddarling.info  
    Title: flying saucer FLYING SAUCERS: A MODERN MYTH Image: Kenneth Arnold Figure 1  
-   Link: [https://www.daviddarling.info/encyclopedia/F/flyingsau.html](https://www.daviddarling.info/encyclopedia/F/flyingsau.html)  
+   Link: <a href="https://www.daviddarling.info/encyclopedia/F/flyingsau.html" target="_blank" rel="noopener noreferrer nofollow">https://www.daviddarling.info/encyclopedia/F/flyingsau.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold. Image: flying saucer Figure 2. A purported flying saucer over a house in post-war suburban USA. &#x27;Flying saucer&#x27; was...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: historylink.org  
-   Link: [https://www.historylink.org/File/5336](https://www.historylink.org/File/5336)  
+   Link: <a href="https://www.historylink.org/File/5336" target="_blank" rel="noopener noreferrer nofollow">https://www.historylink.org/File/5336</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2003 — FLYING SAUCERS, FIRST IN WORLD, REPORTED NEAR MOUNT RAINIER ON JUNE 24, 1947. * By Walt Crowley * Posted 3/01/2003 * Hist...</p></details>
    Published: March 1, 2003  
 
 15. <a id="endnote-15"></a>
    Source: ufoinsight.com  
    Title: The Kenneth Arnold Sighting – The Start Of The Modern UFO Era  
-   Link: [https://www.ufoinsight.com/ufos/sightings/kenneth-arnold-sighting-modern-ufo-era](https://www.ufoinsight.com/ufos/sightings/kenneth-arnold-sighting-modern-ufo-era)  
+   Link: <a href="https://www.ufoinsight.com/ufos/sightings/kenneth-arnold-sighting-modern-ufo-era" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/sightings/kenneth-arnold-sighting-modern-ufo-era</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightMarch 9, 2019 — THE KENNETH ARNOLD SIGHTING – THE START OF THE MODERN UFO ERA By Marcus Lowth Image: Published Date March 9, 2...</p></details>
    Published: March 9, 2019  
 
 16. <a id="endnote-16"></a>
    Source: airandspaceforces.com  
    Title: USA F and the UFOs | Air & Space Forces Magazine  
-   Link: [https://www.airandspaceforces.com/article/0611ufo/](https://www.airandspaceforces.com/article/0611ufo/)  
+   Link: <a href="https://www.airandspaceforces.com/article/0611ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.airandspaceforces.com/article/0611ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Correll June 1, 2011 Audio of this article is brought to you by the Air &amp; Space Forces Association, honoring and supporting our Airmen, G...</p></details>
    Published: June 1, 2011  
 
 17. <a id="endnote-17"></a>
    Source: wired.com  
    Title: It was only a matter of time until paranoia set  
-   Link: [https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession/](https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession/)  
+   Link: <a href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How UFO Sightings Became an American Obsession | WIREDMarch 3, 2020 — Mar 3, 2020 7:00 AM HOW UFO SIGHTINGS BECAME AN AMERICAN OBSESSION...</p></details>
    Published: March 3, 2020  
 
 18. <a id="endnote-18"></a>
    Source: wired.com  
    Title: 0624first flying saucer sighting  
-   Link: [https://www.wired.com/2011/06/0624first-flying-saucer-sighting/](https://www.wired.com/2011/06/0624first-flying-saucer-sighting/)  
+   Link: <a href="https://www.wired.com/2011/06/0624first-flying-saucer-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2011/06/0624first-flying-saucer-sighting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Outer Space? | WIREDJune 24, 2011 — Tony Long Jun 24, 2011 7:00 AM JUNE 24, 1947: THEY CAME FROM... OUTER SPACE? Pilot Kenneth Arnold si...</p></details>
    Published: June 24, 2011  
 
 19. <a id="endnote-19"></a>
    Source: livescience.com  
    Title: What Was the First UFO Sighting?  
-   Link: [https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html](https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Live ScienceJune 21, 2011 — WHAT WAS THE FIRST UFO SIGHTING? Image: Natalie Wolchover&#x27;s avatar By Natalie Wolchover published 21 June 2...</p></details>
+   Link: <a href="https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/33351-flying-saucers-turn-64-look-back-origins-ufos.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceJune 21, 2011 — WHAT WAS THE FIRST UFO SIGHTING? Image: Natalie Wolchover&#x27;s avatar By Natalie Wolchover published 21 June 2...</p></details>
    Published: June 21, 2011  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Kenneth Arnold and the First UFOs  
-   Link: [https://www.youtube.com/watch?v=qdXNAOxs6mo](https://www.youtube.com/watch?v=qdXNAOxs6mo)  
+   Link: <a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdXNAOxs6mo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World...</p></details>

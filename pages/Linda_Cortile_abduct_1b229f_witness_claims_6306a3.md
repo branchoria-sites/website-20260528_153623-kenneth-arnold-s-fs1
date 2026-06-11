@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /linda-cortile-abduction-1989/
 nav_short_title: Witnesses
 title: Did Anyone Really See the Abduction?
-title_full: Did Anyone Really See the Abduction? | Cortile Case
+title_full: Did Anyone Really See the Abduction?
 display_title_short: Witnesses
 display_title: Witnesses
 heading_title: Did Anyone Really See the Abduction?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /implant/
   short_title: Implant
   heading_title: Was There Any Physical Evidence?
-date: '2026-06-08 23:28:05 '
+date: '2026-06-11 13:17:05 '
 header:
   og_image: /assets/images/Linda_Cortile_abduct_1b229f_witness_claims_6306a3-Illustration-1-social.jpg
   preview_image: /assets/images/Linda_Cortile_abduct_1b229f_witness_claims_6306a3-Illustration-1.webp
@@ -244,14 +244,12 @@ image: /assets/images/Linda_Cortile_abduct_1b229f_witness_claims_6306a3-Illustra
 
 The strongest argument for the “Linda Cortile” or Linda Napolitano abduction story was never the bedroom account itself. What made the case famous was Budd [Hopkins]({{ 'hopkins/' | relative_url }})’s insistence that independent witnesses saw the event from outside: motorists on or near the Brooklyn Bridge, people in nearby buildings, and allegedly even security personnel connected to a major international political figure. If true, that would make the case radically different from most alien-abduction claims, which usually depend on private memories, hypnosis sessions, or unverified personal testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gregsandow.com/ufo/Contents/From_IUR_--_An_Analysis_of_the/from_iur_--_an_analysis_of_the.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gregsandow.com">[gregsandow.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gregsandow.com</span><span class="citation-popover-snippet">Greg Sandow -- Examination of the &quot;Linda&quot; caseApart from de Cuellar, the three known people who (supposedly) saw Cortile&#x27;s abduction are...</span></span></span> Wikipedia Yet the witness layer also became the case’s weakest point. Many of the most important observers remained anonymous <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Manhattan Alien Abduction</span><span class="citation-popover-snippet">The Manhattan Alien Abduction</span></span></span>, used pseudonyms, communicated mainly through letters or telephone calls, or were never independently verified. Critics argued that the corroboration sounded impressive in summary form but became much harder to confirm under scrutiny. The debate over the Brooklyn Bridge witnesses therefore became a larger argument about how extraordinary claims should be investigated: whether consistency between stories is enough, or whether independent identity checks, direct interviews, and documentary confirmation are essential.
 
-
 <img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f_witness_claims_6306a3-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f_witness_claims_6306a3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f_witness_claims_6306a3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Did Anyone Really See the Abduction?
 
 According to Hopkins’s reconstruction, Linda Napolitano floated out of her Manhattan apartment window during the early hours of 30 November 1989 and rose towards a hovering craft near the Brooklyn Bridge. Hopkins later claimed that more than twenty people witnessed some aspect of the event. Wikipedia Netflix That claim transformed the story from a conventional UFO-abduction narrative into what Hopkins eventually called one of the strongest cases h <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[netflix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-snippet">nhattan apartment in 1989...</span></span></span> e had ever investigated. His 1996 book *Witnessed: The True Story of the Brooklyn Bridge UFO Abductions* centred heavily on these supposed observers rather than only on Napolitano herself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amazon.co.uk/Witnessed-Story-Brooklyn-Bridge-Abduction/dp/0747531935" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.co.uk">[Amazon UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.co.uk</span><span class="citation-popover-snippet">authority in the field of UFO research, conducted a thorough investigation, including...Read more...</span></span></span>
 
 The reported witnesses fell into several categories:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -267,10 +265,9 @@ The problem was that these categories varied enormously in reliability. Some wit
 
 ## What the Alleged Witnesses Reportedly Saw
 
-Hopkins described the central outside witnesses as motorists who experienced a temporary blackout or vehicle malfunction while travelling near the Brooklyn Bridge around 3 a.m. They allegedly saw a glowing craft and a human figure rising through the air accompanied by smaller beings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/38734707/A_Critique_of_Budd_Hopkins_Case_of_the_UFO_Abduction_of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaA Critique of Budd Hopkins&#x27; Case of the UFO Abduction of&quot; Witness on the Brooklyn Bridge In the summer of 1991, a year and a half...</span></span></span>
+Hopkins described the central outside witnesses as motorists who experienced a temporary blackout or vehicle malfunction while travelling near the Brooklyn Bridge around 3 a.m. They allegedly saw a glowing craft and a human figure rising through the air accompanied by smaller beings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/38734707/A_Critique_of_Budd_Hopkins_Case_of_the_UFO_Abduction_of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">A Critique of Budd Hopkins&#x27; Case of the UFO Abduction of&quot; Witness on the Brooklyn Bridge In the summer of 1991, a year and a half...</span></span></span>
 
 The reports included several recurring elements:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -291,19 +288,17 @@ Another issue was that most of the detailed witness material reached the public 
 
 ## Richard, Dan, and the Unnamed World Figure
 
-The most controversial part of the witness story involved two men called “Richard” and “Dan”. Hopkins said they were security guards or intelligence-linked personnel accompanying a globally important political figure near the Brooklyn Bridge on the night of the incident. Over time, speculation centred on then United Nations Secretary-General Javier Pérez de Cuéllar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/38734707/A_Critique_of_Budd_Hopkins_Case_of_the_UFO_Abduction_of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaA Critique of Budd Hopkins&#x27; Case of the UFO Abduction of&quot; Witness on the Brooklyn Bridge In the summer of 1991, a year and a half...</span></span></span>
+The most controversial part of the witness story involved two men called “Richard” and “Dan”. Hopkins said they were security guards or intelligence-linked personnel accompanying a globally important political figure near the Brooklyn Bridge on the night of the incident. Over time, speculation centred on then United Nations Secretary-General Javier Pérez de Cuéllar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/38734707/A_Critique_of_Budd_Hopkins_Case_of_the_UFO_Abduction_of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">A Critique of Budd Hopkins&#x27; Case of the UFO Abduction of&quot; Witness on the Brooklyn Bridge In the summer of 1991, a year and a half...</span></span></span>
 
 According to Hopkins, the men witnessed Napolitano being levitated into a craft and became traumatised by the experience. He claimed they later contacted him through letters and indirect communication, expressing fear and confusion about what they had seen. Some versions of the story also alleged that one of the men later abducted or temporarily detained Napolitano in an attempt to understand the event better. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Manhattan Alien Abduction</span><span class="citation-popover-snippet">The Manhattan Alien Abduction</span></span></span>
 
 This was the dramatic centrepiece of *Witnessed*. It also became one of its biggest evidential problems.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4TQIiVlHYxY" title="The Brooklyn Bridge UFO | The Weirdest Story You&#x27;ll Ever Hear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4TQIiVlHYxY" target="_blank" rel="noopener noreferrer">The Brooklyn Bridge UFO | The Weirdest Story You&#x27;ll Ever Hear</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 4.3M &middot; Uploaded: January 2023 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4TQIiVlHYxY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4TQIiVlHYxY">Open on YouTube</a></p></div></div></div>
 
 ### The identification problem
 
 The alleged witnesses never emerged publicly under verifiable names. Critics repeatedly noted that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,7 +316,7 @@ For sceptics, that denial was devastating because the story depended heavily on 
 
 ### The delayed contact issue
 
-Critics also questioned the timing. According to discussions published by sceptical investigators, “Richard” and “Dan” supposedly waited well over a year before contacting Hopkins and Napolitano. Some analysts argued this behaviour made little sense if they had truly witnessed a terrifying and extraordinary public event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/38734707/A_Critique_of_Budd_Hopkins_Case_of_the_UFO_Abduction_of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaA Critique of Budd Hopkins&#x27; Case of the UFO Abduction of&quot; Witness on the Brooklyn Bridge In the summer of 1991, a year and a half...</span></span></span>
+Critics also questioned the timing. According to discussions published by sceptical investigators, “Richard” and “Dan” supposedly waited well over a year before contacting Hopkins and Napolitano. Some analysts argued this behaviour made little sense if they had truly witnessed a terrifying and extraordinary public event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/38734707/A_Critique_of_Budd_Hopkins_Case_of_the_UFO_Abduction_of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">A Critique of Budd Hopkins&#x27; Case of the UFO Abduction of&quot; Witness on the Brooklyn Bridge In the summer of 1991, a year and a half...</span></span></span>
 
 Another oddity was procedural. The men allegedly knew where Napolitano lived because they had seen the event occur at her apartment building. Critics therefore wondered why they contacted Hopkins first instead of approaching Napolitano directly or reporting the incident through official channels.
 
@@ -333,12 +328,10 @@ Anonymous witnesses are common in UFO literature, especially when claims involve
 
 That created several major problems.
 
-
 <img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f_witness_claims_6306a3-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f_witness_claims_6306a3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f_witness_claims_6306a3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Independent confirmation became impossible
 
 A witness who cannot be publicly identified cannot easily be checked against ordinary records:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -354,12 +347,11 @@ Because many answers remained unavailable, outsiders had to rely heavily on Hopk
 
 ### Letters are weaker than direct testimony
 
-Much of the famous witness evidence reportedly arrived through correspondence. Critics argued that letters are easier to manipulate, misinterpret, selectively quote, or even fabricate than in-person interviews with documented recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/38734707/A_Critique_of_Budd_Hopkins_Case_of_the_UFO_Abduction_of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaA Critique of Budd Hopkins&#x27; Case of the UFO Abduction of&quot; Witness on the Brooklyn Bridge In the summer of 1991, a year and a half...</span></span></span>
+Much of the famous witness evidence reportedly arrived through correspondence. Critics argued that letters are easier to manipulate, misinterpret, selectively quote, or even fabricate than in-person interviews with documented recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/38734707/A_Critique_of_Budd_Hopkins_Case_of_the_UFO_Abduction_of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">A Critique of Budd Hopkins&#x27; Case of the UFO Abduction of&quot; Witness on the Brooklyn Bridge In the summer of 1991, a year and a half...</span></span></span>
 
 Even supporters admitted that the case depended unusually heavily on mediated communication. Some witnesses supposedly refused meetings, cancelled interviews, or communicated only intermittently.
 
 That does not automatically invalidate the claims. Witnesses to traumatic or socially embarrassing events often avoid publicity. But it does reduce the level of confidence that independent investigators can reasonably assign.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dpoHdjDxCwQ" title="Linda Napolitano: The Manhattan Alien Abduction Story - Lights Out Podcast #13" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dpoHdjDxCwQ" target="_blank" rel="noopener noreferrer">Linda Napolitano: The Manhattan Alien Abduction Story - Lights Out Podcast #13</a></p><p class="youtube-embed-meta">Channel: Lights Out &middot; Views: 375.2K &middot; Uploaded: July 2020 &middot; Length: 1 hour 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dpoHdjDxCwQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dpoHdjDxCwQ">Open on YouTube</a></p></div></div></div>
 
@@ -377,7 +369,6 @@ But the phrase can be misleading because not all alleged witnesses claimed to se
 
 Some reportedly saw:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Lights in the sky
@@ -393,7 +384,6 @@ The evidential strength of these observations varied enormously. Seeing unexplai
 
 Critics therefore argued that Hopkins sometimes grouped together highly different forms of testimony under a single headline number, creating the impression of stronger corroboration than actually existed.
 
-
 <img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f_witness_claims_6306a3-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f_witness_claims_6306a3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f_witness_claims_6306a3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Problem of Suggestion and Reinforcement
 
@@ -402,7 +392,6 @@ The Cortile case emerged during a period when alien-abduction research often rel
 That concern mattered especially in the witness phase of the investigation.
 
 Once media coverage spread, later witnesses could have encountered:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -421,7 +410,6 @@ The Brooklyn Bridge claims therefore sit in a difficult middle ground: <span cla
 * Too elaborate to dismiss as a simple single-witness misunderstanding
 * Yet lacking the transparent documentation needed for strong independent verification
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kfBKycVeHnY" title="The Manhattan Alien Abduction | Official Trailer | Netflix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kfBKycVeHnY" target="_blank" rel="noopener noreferrer">The Manhattan Alien Abduction | Official Trailer | Netflix</a></p><p class="youtube-embed-meta">Channel: movie-trailer &middot; Views: 87 &middot; Uploaded: September 2024 &middot; Length: 2 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kfBKycVeHnY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kfBKycVeHnY">Open on YouTube</a></p></div></div></div>
 
 ## Why the Witness Issue Still Matters
@@ -435,44 +423,86 @@ But the same factor also intensified scrutiny. The stronger the claimed corrobor
 As a result, the Brooklyn Bridge witness claims occupy an unusual place in UFO history. Supporters still treat them as unprecedented corroboration for an abduction case. Sceptics view them as a cautionary example of how anonymity, investigator influence, and fragmented testimony can create the appearance of strong evidence without producing conclusive proof.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Did Anyone Really See the Abduction?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Did Anyone Really See the Abduction?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Linda Cortile abduction case, documenting the claims, the witness anonymity issues, and the subsequent controversies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+        </h4>
+        <p class="fr-book-author">By John E. Mack, Mack</p>
+        
+        <p class="fr-book-desc">Explains the psychological dynamics of abduction testimony and why corroboration is such a persistent hurdle in the field.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches forensic standards for auditing witness testimony, particularly in cases involving anonymous or unverifiable observers.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Contextualizes the difficulty of verifying abduction claims that rely on anecdotal, non-documentary testimony.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -509,15 +539,15 @@ As a result, the Brooklyn Bridge witness claims occupy an unusual place in UFO h
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,15 +555,15 @@ As a result, the Brooklyn Bridge witness claims occupy an unusual place in UFO h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +571,15 @@ As a result, the Brooklyn Bridge witness claims occupy an unusual place in UFO h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,15 +587,15 @@ As a result, the Brooklyn Bridge witness claims occupy an unusual place in UFO h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,7 +603,7 @@ As a result, the Brooklyn Bridge witness claims occupy an unusual place in UFO h
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-011357-did-anyone-really-see-the-abduction-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-anyone-really-see-the-abduction-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-anyone-really-see-the-abduction-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -788,65 +818,65 @@ As a result, the Brooklyn Bridge witness claims occupy an unusual place in UFO h
 
 1. <a id="endnote-1"></a>
    Source: gregsandow.com  
-   Link: [https://gregsandow.com/ufo/Contents/From_IUR_--_An_Analysis_of_the/from_iur_--_an_analysis_of_the.htm](https://gregsandow.com/ufo/Contents/From_IUR_--_An_Analysis_of_the/from_iur_--_an_analysis_of_the.htm)  
+   Link: <a href="https://gregsandow.com/ufo/Contents/From_IUR_--_An_Analysis_of_the/from_iur_--_an_analysis_of_the.htm" target="_blank" rel="noopener noreferrer nofollow">https://gregsandow.com/ufo/Contents/From_IUR_--_An_Analysis_of_the/from_iur_--_an_analysis_of_the.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Greg Sandow -- Examination of the &quot;Linda&quot; caseApart from de Cuellar, the three known people who (supposedly) saw Cortile&#x27;s abduction are...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: The Manhattan Alien Abduction  
-   Link: [https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction](https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction</a>  
 
 3. <a id="endnote-3"></a>
    Source: netflix.com  
-   Link: [https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news](https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news)  
+   Link: <a href="https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nhattan apartment in 1989...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: The Brooklyn Bridge UFO Abduction  
-   Link: [https://en.wikipedia.org/wiki/The_Brooklyn_Bridge_UFO_Abduction](https://en.wikipedia.org/wiki/The_Brooklyn_Bridge_UFO_Abduction)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Brooklyn_Bridge_UFO_Abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Brooklyn_Bridge_UFO_Abduction</a>  
 
 5. <a id="endnote-5"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Witnessed-Story-Brooklyn-Bridge-Abduction/dp/0747531935](https://www.amazon.co.uk/Witnessed-Story-Brooklyn-Bridge-Abduction/dp/0747531935)  
+   Link: <a href="https://www.amazon.co.uk/Witnessed-Story-Brooklyn-Bridge-Abduction/dp/0747531935" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Witnessed-Story-Brooklyn-Bridge-Abduction/dp/0747531935</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>authority in the field of UFO research, conducted a thorough investigation, including...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Budd Hopkins  
-   Link: [https://en.wikipedia.org/wiki/Budd_Hopkins](https://en.wikipedia.org/wiki/Budd_Hopkins)  
+   Link: <a href="https://en.wikipedia.org/wiki/Budd_Hopkins" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Budd_Hopkins</a>  
 
 7. <a id="endnote-7"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/38734707/A_Critique_of_Budd_Hopkins_Case_of_the_UFO_Abduction_of](https://www.academia.edu/38734707/A_Critique_of_Budd_Hopkins_Case_of_the_UFO_Abduction_of)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaA Critique of Budd Hopkins&#x27; Case of the UFO Abduction of&quot; Witness on the Brooklyn Bridge In the summer of 1991, a year and a half...</p></details>
+   Link: <a href="https://www.academia.edu/38734707/A_Critique_of_Budd_Hopkins_Case_of_the_UFO_Abduction_of" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/38734707/A_Critique_of_Budd_Hopkins_Case_of_the_UFO_Abduction_of</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Critique of Budd Hopkins&#x27; Case of the UFO Abduction of&quot; Witness on the Brooklyn Bridge In the summer of 1991, a year and a half...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: time.com  
-   Link: [https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/](https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/)  
+   Link: <a href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Napolitano claimed three extraterrestrial beings kidnapped her from her Manhattan apartment and performed experiments. Budd Hopkins, a pr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: [https://en.wikipedia.org/wiki/UFO_conspiracy_theories](https://en.wikipedia.org/wiki/UFO_conspiracy_theories)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Brooklyn Bridge UFO | The Weirdest Story You'll Ever Hear  
-   Link: [https://www.youtube.com/watch?v=4TQIiVlHYxY](https://www.youtube.com/watch?v=4TQIiVlHYxY)  
+   Link: <a href="https://www.youtube.com/watch?v=4TQIiVlHYxY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4TQIiVlHYxY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Manhattan Alien Abduction | Official Trailer | Netflix...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Manhattan Alien Abduction | Official Trailer | Netflix  
-   Link: [https://www.youtube.com/watch?v=kfBKycVeHnY](https://www.youtube.com/watch?v=kfBKycVeHnY)  
+   Link: <a href="https://www.youtube.com/watch?v=kfBKycVeHnY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kfBKycVeHnY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Witnessed Alien Abduction? Linda Napolitano Floats over the Brooklyn Bridge...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nypost.com  
    Title: manhattan alien abduction woman claiming 1989 story sues netflix over doc  
-   Link: [https://nypost.com/2024/10/31/entertainment/manhattan-alien-abduction-woman-claiming-1989-story-sues-netflix-over-doc/](https://nypost.com/2024/10/31/entertainment/manhattan-alien-abduction-woman-claiming-1989-story-sues-netflix-over-doc/)  
+   Link: <a href="https://nypost.com/2024/10/31/entertainment/manhattan-alien-abduction-woman-claiming-1989-story-sues-netflix-over-doc/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/31/entertainment/manhattan-alien-abduction-woman-claiming-1989-story-sues-netflix-over-doc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>She alleged that she was levitated from her 12th-floor apartment near the Brooklyn Bridge into a spaceship where she was experimented on...</p></details>
 
 ### Additional References
@@ -854,55 +884,55 @@ As a result, the Brooklyn Bridge witness claims occupy an unusual place in UFO h
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: linda napolitano says she was abducted by aliens in 1989 and her story attracted  
-   Link: [https://www.facebook.com/NewsNationNow/posts/linda-napolitano-says-she-was-abducted-by-aliens-in-1989-and-her-story-attracted/573693635037658/](https://www.facebook.com/NewsNationNow/posts/linda-napolitano-says-she-was-abducted-by-aliens-in-1989-and-her-story-attracted/573693635037658/)  
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/linda-napolitano-says-she-was-abducted-by-aliens-in-1989-and-her-story-attracted/573693635037658/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/linda-napolitano-says-she-was-abducted-by-aliens-in-1989-and-her-story-attracted/573693635037658/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Linda Napolitano says she was abducted by aliens in 1989...More than a year after Cortile&#x27;s experience, Hopkins received mail correspond...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: the woman whose claim of a 1989 alien abduction is chronicled in a new netflix d  
-   Link: [https://www.facebook.com/forbes/posts/the-woman-whose-claim-of-a-1989-alien-abduction-is-chronicled-in-a-new-netflix-d/934961318493859/](https://www.facebook.com/forbes/posts/the-woman-whose-claim-of-a-1989-alien-abduction-is-chronicled-in-a-new-netflix-d/934961318493859/)  
+   Link: <a href="https://www.facebook.com/forbes/posts/the-woman-whose-claim-of-a-1989-alien-abduction-is-chronicled-in-a-new-netflix-d/934961318493859/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/forbes/posts/the-woman-whose-claim-of-a-1989-alien-abduction-is-chronicled-in-a-new-netflix-d/934961318493859/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The woman whose claim of a 1989 alien abduction...The Manhattan Abduction Linda Napolitano (originally aliased as Linda Cortile) trigger...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thommq.medium.com  
-   Link: [https://thommq.medium.com/the-truth-story-of-the-manhattan-transfer-abduction-2aed49af553f](https://thommq.medium.com/the-truth-story-of-the-manhattan-transfer-abduction-2aed49af553f)  
+   Link: <a href="https://thommq.medium.com/the-truth-story-of-the-manhattan-transfer-abduction-2aed49af553f" target="_blank" rel="noopener noreferrer nofollow">https://thommq.medium.com/the-truth-story-of-the-manhattan-transfer-abduction-2aed49af553f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Truth Story of the Manhattan Transfer AbductionOn the morning of November 30, 1989, Linda Cortile was apparently a temporary and involunt...</p></details>
    Published: November 30, 1989  
 
 16. <a id="endnote-16"></a>
    Source: independent.co.uk  
    Title: netflix manhattan alien abduction ufo linda napolitano b2637980  
-   Link: [https://www.independent.co.uk/news/world/americas/netflix-manhattan-alien-abduction-ufo-linda-napolitano-b2637980.html](https://www.independent.co.uk/news/world/americas/netflix-manhattan-alien-abduction-ufo-linda-napolitano-b2637980.html)  
+   Link: <a href="https://www.independent.co.uk/news/world/americas/netflix-manhattan-alien-abduction-ufo-linda-napolitano-b2637980.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/netflix-manhattan-alien-abduction-ufo-linda-napolitano-b2637980.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brooklyn Bridge Abduction... In 2011, Hopkins&#x27;s ex-wife published an article debunking the idea of alien abductions and lambasted his re...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: what is everyones opinion of the 1989 linda  
-   Link: [https://www.reddit.com/r/ufo/comments/1dcokeg/what_is_everyones_opinion_of_the_1989_linda/](https://www.reddit.com/r/ufo/comments/1dcokeg/what_is_everyones_opinion_of_the_1989_linda/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1dcokeg/what_is_everyones_opinion_of_the_1989_linda/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1dcokeg/what_is_everyones_opinion_of_the_1989_linda/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I don&#x27;t think the event occurred at all. It&#x27;s Netflix. Entertainment. I believe in alien abductions, but I think it&#x27;s all made...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
    Title: Just finished Alien Abduction in Manhattan  
-   Link: [https://www.reddit.com/r/netflix/comments/1ggweji/just_finished_alien_abduction_in_manhattan_im_on/](https://www.reddit.com/r/netflix/comments/1ggweji/just_finished_alien_abduction_in_manhattan_im_on/)  
+   Link: <a href="https://www.reddit.com/r/netflix/comments/1ggweji/just_finished_alien_abduction_in_manhattan_im_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/netflix/comments/1ggweji/just_finished_alien_abduction_in_manhattan_im_on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m on Carol&#x27;s...EVERYTHING deemed as evidence to support Linda&#x27;s claim was subject to corruption and manipulation. Carol demonstrated t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/NetflixBangers/posts/2701721250214986/](https://www.facebook.com/groups/NetflixBangers/posts/2701721250214986/)  
+   Link: <a href="https://www.facebook.com/groups/NetflixBangers/posts/2701721250214986/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/NetflixBangers/posts/2701721250214986/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>one of the most well-documented UFO abduction cases...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=qnY2tq8S6WI](https://www.youtube.com/watch?v=qnY2tq8S6WI)  
+   Link: <a href="https://www.youtube.com/watch?v=qnY2tq8S6WI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qnY2tq8S6WI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Men In Black &amp; The Terrifying Brooklyn Bridge Alien Abduction of Linda Napolitano...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=fUvR7JRMHi0](https://www.youtube.com/watch?v=fUvR7JRMHi0)  
+   Link: <a href="https://www.youtube.com/watch?v=fUvR7JRMHi0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fUvR7JRMHi0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Abduction of the Century - Linda Napolitano | Full Documentary...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dpoHdjDxCwQ](https://www.youtube.com/watch?v=dpoHdjDxCwQ)  
+   Link: <a href="https://www.youtube.com/watch?v=dpoHdjDxCwQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dpoHdjDxCwQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e well-known and respected Budd Hopkins. Linda claimed that...</p></details>

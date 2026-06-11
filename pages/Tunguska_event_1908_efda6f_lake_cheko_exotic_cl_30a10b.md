@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /tunguska-event-1908/
 nav_short_title: Claims
 title: Did Tunguska Have a Hidden Crater?
-title_full: Did Tunguska Have a Hidden Crater? | Tunguska
+title_full: Did Tunguska Have a Hidden Crater?
 display_title_short: Claims
 display_title: Claims
 heading_title: Did Tunguska Have a Hidden Crater?
@@ -239,7 +239,7 @@ next_link:
   permalink: /evidence/
   short_title: Evidence
   heading_title: What Witnesses and Trees Reveal
-date: '2026-06-08 23:20:41 '
+date: '2026-06-11 13:12:45 '
 header:
   og_image: /assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-1-social.jpg
   preview_image: /assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-1.webp
@@ -250,9 +250,8 @@ image: /assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Ill
 
 The Tunguska explosion of 1908 is famous partly because it left behind enormous destruction without a clear impact crater. That absence created a long-running scientific puzzle and, eventually, a breeding ground for more speculative ideas. One of the most debated claims emerged nearly a century later around Lake Cheko, a small Siberian lake roughly 8 kilometres from the main blast zone. Some researchers argued that the lake might actually be a hidden impact crater created by a surviving fragment of the Tunguska object. Critics responded that the lake is older than the event and naturally formed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Tunguska_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tunguska event</span><span class="citation-popover-snippet">Tunguska event</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tunguska.tsc.ru/files/4780/MainPart/cheko-2009.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tunguska.tsc.ru">[2tunguska.tsc.ru]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tunguska.tsc.ru</span><span class="citation-popover-title">cheko 2009</span><span class="citation-popover-snippet">Sediments from Lake Cheko (Siberia), a possible impact...by L Gasperini · 2009 · Cited by 43 — These data may indicate that the Cheko ba...</span></span></span>
 
-
 <img src="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-1-dark.svg" | relative_url }}" alt="Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The dispute matters because it touches the central mystery of Tunguska itself. If Lake Cheko really formed in 1908, then at least part of the incoming body survived the atmospheric explosion and struck the ground. If not, Tunguska remains primarily an [airburst]({{ 'airburst/' | relative_url }}) event with little surviving debris. The uncertainty has also helped fuel a wider culture of exotic explanations ranging from antimatter and miniature black holes to alien spacecraft and Nikola Tesla “death ray” stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/milestones/june-2018-1908-tunguska-event-and-threats-tomorrow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-snippet">OriginsThe 1908 Tunguska Event and the Threats of Tomorrow | OriginsFrom this point forward, endless explanations were offered about alie...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://teslauniverse.com/nikola-tesla/articles/death-ray-nikola-tesla" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teslauniverse.com">[Tesla Universe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teslauniverse.com</span><span class="citation-popover-snippet">The Death Ray of Nikola TeslaAlternative versions of the disaster see a renegade mini-black hole or an alien space ship crashing into the...</span></span></span>
+The dispute matters because it touches the central mystery of Tunguska itself. If Lake Cheko really formed in 1908, then at least part of the incoming body survived the atmospheric explosion and struck the ground. If not, Tunguska remains primarily an [airburst]({{ 'airburst/' | relative_url }}) event with little surviving debris. The uncertainty has also helped fuel a wider culture of exotic explanations ranging from antimatter and miniature black holes to alien spacecraft and Nikola Tesla “death ray” stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/milestones/june-2018-1908-tunguska-event-and-threats-tomorrow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-snippet">The 1908 Tunguska Event and the Threats of Tomorrow &#124; OriginsFrom this point forward, endless explanations were offered about alie...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://teslauniverse.com/nikola-tesla/articles/death-ray-nikola-tesla" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teslauniverse.com">[Tesla Universe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teslauniverse.com</span><span class="citation-popover-snippet">The Death Ray of Nikola TeslaAlternative versions of the disaster see a renegade mini-black hole or an alien space ship crashing into the...</span></span></span>
 
 ## The Lake Cheko impact claim
 
@@ -271,7 +270,6 @@ Further studies by members of the same research group tried to strengthen the ca
 
 The theory attracted widespread public attention because it appeared to solve one of the oldest questions surrounding Tunguska: where, if anywhere, did surviving fragments land?
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PVF1NDrHPeo" title="Tunguska: When the Sky Fell to Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PVF1NDrHPeo" target="_blank" rel="noopener noreferrer">Tunguska: When the Sky Fell to Earth</a></p><p class="youtube-embed-meta">Channel: Geographics &middot; Views: 3.1M &middot; Uploaded: September 2019 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PVF1NDrHPeo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PVF1NDrHPeo">Open on YouTube</a></p></div></div></div>
 
 ## Why critics dispute the crater theory
@@ -286,7 +284,6 @@ Another criticism is geographical. Some modern modelling studies of the Tunguska
 
 Sceptics also note that impact craters normally produce unmistakable geological signatures:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * shock-metamorphosed minerals,
@@ -300,7 +297,6 @@ Lake Cheko has not produced universally accepted evidence of that kind. <span cl
 
 This does not entirely eliminate the possibility of a small soft-ground impact into wet permafrost, but it keeps the claim far from settled science. The debate illustrates a broader feature of Tunguska research: incomplete evidence allows plausible-sounding reconstructions to survive for decades without universal agreement.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0kyfIIbgxiU" title="Scientists Discovered An Ancient Object In Siberia That Shouldn&#x27;t Exist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0kyfIIbgxiU" target="_blank" rel="noopener noreferrer">Scientists Discovered An Ancient Object In Siberia That Shouldn&#x27;t Exist</a></p><p class="youtube-embed-meta">Channel: LifesBiggestQuestions &middot; Views: 5.8K &middot; Uploaded: March 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0kyfIIbgxiU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0kyfIIbgxiU">Open on YouTube</a></p></div></div></div>
 
 ## Why Tunguska attracts exotic theories
@@ -308,7 +304,6 @@ This does not entirely eliminate the possibility of a small soft-ground impact i
 The Lake Cheko debate exists inside a larger history of speculation surrounding Tunguska. Few natural disasters generated such a mix of real scientific uncertainty and imaginative storytelling.
 
 Several conditions encouraged this:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,8 +315,7 @@ Several conditions encouraged this:
 
 </div>
 
-Those gaps created space for theories that ranged far beyond conventional asteroid science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/davidbressan/2019/06/29/for-more-than-111-years-scientist-puzzled-over-the-tunguska-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">ForbesFor Almost 100 Years, Scientists Puzzled Over The...Jun 29, 2019 — Kulik suggested that an iron meteorite exploded in the atmosphe...</span></span></span>
-
+Those gaps created space for theories that ranged far beyond conventional asteroid science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/davidbressan/2019/06/29/for-more-than-111-years-scientist-puzzled-over-the-tunguska-event/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">For Almost 100 Years, Scientists Puzzled Over The...Jun 29, 2019 — Kulik suggested that an iron meteorite exploded in the atmosphe...</span></span></span>
 
 <img src="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-2-dark.svg" | relative_url }}" alt="Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### UFO crash stories
@@ -329,7 +323,6 @@ Those gaps created space for theories that ranged far beyond conventional astero
 The most famous fringe interpretation claims Tunguska involved an alien spacecraft. Versions differ wildly: some describe a crashed UFO, others a self-destructing craft that intentionally exploded to save Earth from impact. Soviet-era science fiction and later UFO literature helped popularise these narratives. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticink.com/gps/2014/11/19/what-happened-in-the-skies-above-tunguska-in-1908/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticink.com">[Skeptic Ink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticink.com</span><span class="citation-popover-title">what happened in the skies above tunguska in 1908</span><span class="citation-popover-snippet">Tesla and an exploding alien spacecraft, an idea taken by a few journalists as a real hypothesis from Russian UFOlogist and author Alexan...</span></span></span>
 
 Supporters often pointed to unusual eyewitness descriptions of glowing objects changing direction or the absence of a large crater. But these claims suffer from major problems:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -339,16 +332,15 @@ Supporters often pointed to unusual eyewitness descriptions of glowing objects c
 
 </div>
 
-Astronomers and impact specialists overwhelmingly reject the spacecraft idea in favour of a natural airburst explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/250-russian-alien-spaceship-claims-raise-eyebrows-skepticism.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">250 russian alien spaceship claims raise eyebrows skepticism</span><span class="citation-popover-snippet">SpaceRussian Alien Spaceship Claims Raise Eyebrows...12 Aug 2004 — An expedition of Russian researchers claims to have found evidence th...</span></span></span>
+Astronomers and impact specialists overwhelmingly reject the spacecraft idea in favour of a natural airburst explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/250-russian-alien-spaceship-claims-raise-eyebrows-skepticism.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">250 russian alien spaceship claims raise eyebrows skepticism</span><span class="citation-popover-snippet">Russian Alien Spaceship Claims Raise Eyebrows...12 Aug 2004 — An expedition of Russian researchers claims to have found evidence th...</span></span></span>
 
 ### Antimatter and miniature black holes
 
 Some speculative scientific proposals tried to explain Tunguska using exotic physics rather than extraterrestrial visitors.
 
-One idea suggested that an antimatter body annihilated itself in the atmosphere. Another proposed that a microscopic black hole passed through Earth, causing the blast without leaving a normal crater. These concepts gained attention largely because they appeared to explain the missing debris problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/predict/what-really-caused-the-1908-explosion-in-tunguska-c3d314cd1f3b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">what really caused the 1908 explosion in tunguska c3d314cd1f3b</span><span class="citation-popover-snippet">MediumWhat Really Caused the 1908 Explosion in Tunguska?UFO crash landings, death rays, and other wild hypotheses. · Alien Spaceship Cras...</span></span></span>
+One idea suggested that an antimatter body annihilated itself in the atmosphere. Another proposed that a microscopic black hole passed through Earth, causing the blast without leaving a normal crater. These concepts gained attention largely because they appeared to explain the missing debris problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/predict/what-really-caused-the-1908-explosion-in-tunguska-c3d314cd1f3b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">what really caused the 1908 explosion in tunguska c3d314cd1f3b</span><span class="citation-popover-snippet">What Really Caused the 1908 Explosion in Tunguska?UFO crash landings, death rays, and other wild hypotheses. · Alien Spaceship Cras...</span></span></span>
 
 The difficulty is that such events should have produced additional detectable effects:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -360,14 +352,12 @@ The difficulty is that such events should have produced additional detectable ef
 
 No convincing evidence for those effects exists. Modern planetary science treats these hypotheses as speculative curiosities rather than serious competing explanations.
 
-
 <img src="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-3-dark.svg" | relative_url }}" alt="Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunguska_event_1908_efda6f_lake_cheko_exotic_cl_30a10b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Tesla “death ray” claims
 
-A persistent legend claims inventor Nikola Tesla accidentally caused Tunguska through experiments in wireless energy transmission or a secret directed-energy weapon. The story became especially popular after the Cold War, when conspiracy literature linked Tunguska to Tesla’s experiments at Wardenclyffe Tower. <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/milestones/june-2018-1908-tunguska-event-and-threats-tomorrow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-snippet">OriginsThe 1908 Tunguska Event and the Threats of Tomorrow | OriginsFrom this point forward, endless explanations were offered about alie...</span></span></span>
+A persistent legend claims inventor Nikola Tesla accidentally caused Tunguska through experiments in wireless energy transmission or a secret directed-energy weapon. The story became especially popular after the Cold War, when conspiracy literature linked Tunguska to Tesla’s experiments at Wardenclyffe Tower. <span class="citation-chip-wrap"><a class="citation-chip" href="https://origins.osu.edu/milestones/june-2018-1908-tunguska-event-and-threats-tomorrow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: origins.osu.edu">[Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">origins.osu.edu</span><span class="citation-popover-snippet">The 1908 Tunguska Event and the Threats of Tomorrow &#124; OriginsFrom this point forward, endless explanations were offered about alie...</span></span></span>
 
 The theory collapses under basic historical and technical scrutiny:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -387,49 +377,89 @@ At the same time, the theory remains disputed enough that it continues to functi
 
 The wider scientific consensus still favours a high-altitude airburst caused by an asteroid or cometary body exploding before ground impact. Even some researchers open to surviving fragments do not necessarily accept Lake Cheko itself as the crater. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Tunguska_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tunguska event</span><span class="citation-popover-snippet">Tunguska event</span></span></span> ScienceDirect That leaves Lake Cheko less as a solved discovery than as a case study in how scientific uncertainty evolves. Tunguska’s missing debris probl <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0019103523004244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">•. Lake Cheko is not an impact crater because outside the most likely strewn field. Abstract. On June 30, 1908, at...Read more...</span><span class="citation-popover-meta">Published: June 30, 1908</span></span></span> em created a vacuum that invited both legitimate investigation and increasingly exotic storytelling. More than a century later, the debate continues because the event combined dramatic physical evidence with just enough ambiguity to resist a perfectly clean explanation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IImrX2G-SlY" title="The Tunguska Mystery Explosion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IImrX2G-SlY" target="_blank" rel="noopener noreferrer">The Tunguska Mystery Explosion</a></p><p class="youtube-embed-meta">Channel: Origins OSU &middot; Views: 9.0K &middot; Uploaded: March 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IImrX2G-SlY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IImrX2G-SlY">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Did Tunguska Have a Hidden Crater?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Did Tunguska Have a Hidden Crater?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tunguska+Mystery+by+Vladimir+Rubtsov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tunguska Mystery on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OLKwiiUtWfUC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Tunguska Mystery" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Tunguska+Mystery+by+Vladimir+Rubtsov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tunguska Mystery">The Tunguska Mystery</a>
+        </h4>
+        <p class="fr-book-author">By Vladimir Rubtsov</p>
+        
+        <p class="fr-book-desc">Examines the Italian research team&#x27;s claims regarding Lake Cheko filling a hidden crater against critics who model it as an older formation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Tunguska+Mystery+by+Vladimir+Rubtsov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Wizard+by+Marc+J.+Seifer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wizard on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_EKV1A22x0sC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Wizard" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Wizard+by+Marc+J.+Seifer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wizard">Wizard</a>
+        </h4>
+        <p class="fr-book-author">By Marc J. Seifer</p>
+        
+        <p class="fr-book-desc">Addresses how speculative folklore retroactively tied the 1908 explosion to Nikola Tesla&#x27;s Wardenclyffe death ray experiments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Wizard+by+Marc+J.+Seifer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Provides reasoning frameworks to identify why an absence of immediate data encourages the growth of unverified myth structures.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Impact%21+by+Gerrit+L.+Verschuur&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Impact! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kXY8DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Impact!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Impact%21+by+Gerrit+L.+Verschuur&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Impact!">Impact!</a>
+        </h4>
+        <p class="fr-book-author">By Gerrit L. Verschuur</p>
+        
+        <p class="fr-book-desc">Reviews how miniature black hole and antimatter hypotheses were systemically evaluated and rejected by the global scientific consensus.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Impact%21+by+Gerrit+L.+Verschuur&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tunguska+Mystery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tunguska Mystery</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Wizard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wizard</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -466,15 +496,15 @@ The wider scientific consensus still favours a high-altitude airburst caused by 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GAME11 NINTENDO GAME ADVERT 11X8 SECRET FILES TUNGUSKA DS/WII"><img src="https://i.ebayimg.com/images/g/2oAAAOSwgOtjtAXE/s-l225.jpg" alt="Listing image for GAME11 NINTENDO GAME ADVERT 11X8 SECRET FILES TUNGUSKA DS/WII" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer">GAME11 NINTENDO GAME ADVERT 11X8 SECRET FILES TUNGUSKA DS/WII</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tunguska poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tunguska poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -482,15 +512,15 @@ The wider scientific consensus still favours a high-altitude airburst caused by 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X-FILES - FILE 7: TUNGUSKA - 1997 - Original UK DVD Poster - DAVID DUCHOVNY"><img src="https://i.ebayimg.com/images/g/bqUAAOSwvTpaOl5c/s-l225.jpg" alt="Listing image for X-FILES - FILE 7: TUNGUSKA - 1997 - Original UK DVD Poster - DAVID DUCHOVNY" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer">X-FILES - FILE 7: TUNGUSKA - 1997 - Original UK DVD Poster - DAVID DUCHOVNY</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tunguska poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tunguska poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +528,15 @@ The wider scientific consensus still favours a high-altitude airburst caused by 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GAME12 NINTENDO GAME ADVERT 11X8 SEXRET FILES TUNGUSKA WII/DS"><img src="https://i.ebayimg.com/images/g/3TUAAOSw9fRjtEIo/s-l225.jpg" alt="Listing image for GAME12 NINTENDO GAME ADVERT 11X8 SEXRET FILES TUNGUSKA WII/DS" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer">GAME12 NINTENDO GAME ADVERT 11X8 SEXRET FILES TUNGUSKA WII/DS</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tunguska poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tunguska poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +544,15 @@ The wider scientific consensus still favours a high-altitude airburst caused by 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Niko-Pirosmani-photo-A4-tunguska-river-emut(1).jpg"><img src="https://i.ebayimg.com/images/g/CC0AAOSw7RBhEmbd/s-l225.jpg" alt="Listing image for Niko-Pirosmani-photo-A4-tunguska-river-emut(1).jpg" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer">Niko-Pirosmani-photo-A4-tunguska-river-emut(1).jpg</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tunguska poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tunguska poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,7 +560,7 @@ The wider scientific consensus still favours a high-altitude airburst caused by 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="claims-did-tunguska-have-a-hidden-crater-tunguska-event-1908-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-tunguska-have-a-hidden-crater-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="did-tunguska-have-a-hidden-crater-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -746,154 +776,154 @@ The wider scientific consensus still favours a high-altitude airburst caused by 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Tunguska event  
-   Link: [https://en.wikipedia.org/wiki/Tunguska_event](https://en.wikipedia.org/wiki/Tunguska_event)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tunguska_event" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tunguska_event</a>  
 
 2. <a id="endnote-2"></a>
    Source: tunguska.tsc.ru  
    Title: cheko 2009  
-   Link: [https://tunguska.tsc.ru/files/4780/MainPart/cheko-2009.pdf](https://tunguska.tsc.ru/files/4780/MainPart/cheko-2009.pdf)  
+   Link: <a href="https://tunguska.tsc.ru/files/4780/MainPart/cheko-2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tunguska.tsc.ru/files/4780/MainPart/cheko-2009.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sediments from Lake Cheko (Siberia), a possible impact...by L Gasperini · 2009 · Cited by 43 — These data may indicate that the Cheko ba...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ksc.krasn.ru  
    Title: Ozero cheko  
-   Link: [https://ksc.krasn.ru/en/news/Ozero_cheko/](https://ksc.krasn.ru/en/news/Ozero_cheko/)  
+   Link: <a href="https://ksc.krasn.ru/en/news/Ozero_cheko/" target="_blank" rel="noopener noreferrer nofollow">https://ksc.krasn.ru/en/news/Ozero_cheko/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The researchers found two more similar lakes near the alleged epicenter of the...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: space.com  
    Title: 250 russian alien spaceship claims raise eyebrows skepticism  
-   Link: [https://www.space.com/250-russian-alien-spaceship-claims-raise-eyebrows-skepticism.html](https://www.space.com/250-russian-alien-spaceship-claims-raise-eyebrows-skepticism.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceRussian Alien Spaceship Claims Raise Eyebrows...12 Aug 2004 — An expedition of Russian researchers claims to have found evidence th...</p></details>
+   Link: <a href="https://www.space.com/250-russian-alien-spaceship-claims-raise-eyebrows-skepticism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/250-russian-alien-spaceship-claims-raise-eyebrows-skepticism.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian Alien Spaceship Claims Raise Eyebrows...12 Aug 2004 — An expedition of Russian researchers claims to have found evidence th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/tunguska-event-and-cheko-lake-origin-dendrochronological-analysis/1E9BB6F9BC1BF452A8B04C081EE7FFCD](https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/tunguska-event-and-cheko-lake-origin-dendrochronological-analysis/1E9BB6F9BC1BF452A8B04C081EE7FFCD)  
+   Link: <a href="https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/tunguska-event-and-cheko-lake-origin-dendrochronological-analysis/1E9BB6F9BC1BF452A8B04C081EE7FFCD" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/tunguska-event-and-cheko-lake-origin-dendrochronological-analysis/1E9BB6F9BC1BF452A8B04C081EE7FFCD</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe Tunguska event and Cheko lake originby F Rosanna · 2015 · Cited by 8 — This observation suppor...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0019103523004244](https://www.sciencedirect.com/science/article/abs/pii/S0019103523004244)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103523004244" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0019103523004244</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>•. Lake Cheko is not an impact crater because outside the most likely strewn field. Abstract. On June 30, 1908, at...Read more...</p></details>
    Published: June 30, 1908  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0012821X14006827](https://www.sciencedirect.com/science/article/abs/pii/S0012821X14006827)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectDirect evidence of ancient shock metamorphism at the site...by P Vannucchi · 2015 · Cited by 20 — The shock metamorphism th...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0012821X14006827" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0012821X14006827</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Direct evidence of ancient shock metamorphism at the site...by P Vannucchi · 2015 · Cited by 20 — The shock metamorphism th...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/davidbressan/2019/06/29/for-more-than-111-years-scientist-puzzled-over-the-tunguska-event/](https://www.forbes.com/sites/davidbressan/2019/06/29/for-more-than-111-years-scientist-puzzled-over-the-tunguska-event/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForbesFor Almost 100 Years, Scientists Puzzled Over The...Jun 29, 2019 — Kulik suggested that an iron meteorite exploded in the atmosphe...</p></details>
+   Link: <a href="https://www.forbes.com/sites/davidbressan/2019/06/29/for-more-than-111-years-scientist-puzzled-over-the-tunguska-event/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/davidbressan/2019/06/29/for-more-than-111-years-scientist-puzzled-over-the-tunguska-event/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>For Almost 100 Years, Scientists Puzzled Over The...Jun 29, 2019 — Kulik suggested that an iron meteorite exploded in the atmosphe...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Views from Afar (Chapter 9)  
-   Link: [https://www.cambridge.org/core/books/tunguska/views-from-afar/623EF56D28345163D44B0FFCC976DE1E](https://www.cambridge.org/core/books/tunguska/views-from-afar/623EF56D28345163D44B0FFCC976DE1E)  
+   Link: <a href="https://www.cambridge.org/core/books/tunguska/views-from-afar/623EF56D28345163D44B0FFCC976DE1E" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/tunguska/views-from-afar/623EF56D28345163D44B0FFCC976DE1E</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Views from Afar (Chapter 9) - TunguskaIf our imaginary aliens ever attain any glimmers of information about the Tunguska... the continue...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: medium.com  
    Title: what really caused the 1908 explosion in tunguska c3d314cd1f3b  
-   Link: [https://medium.com/predict/what-really-caused-the-1908-explosion-in-tunguska-c3d314cd1f3b](https://medium.com/predict/what-really-caused-the-1908-explosion-in-tunguska-c3d314cd1f3b)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumWhat Really Caused the 1908 Explosion in Tunguska?UFO crash landings, death rays, and other wild hypotheses. · Alien Spaceship Cras...</p></details>
+   Link: <a href="https://medium.com/predict/what-really-caused-the-1908-explosion-in-tunguska-c3d314cd1f3b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/what-really-caused-the-1908-explosion-in-tunguska-c3d314cd1f3b</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Really Caused the 1908 Explosion in Tunguska?UFO crash landings, death rays, and other wild hypotheses. · Alien Spaceship Cras...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S003206339700144X](https://www.sciencedirect.com/science/article/abs/pii/S003206339700144X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S003206339700144X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S003206339700144X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Outlined are the results...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0032063313001116](https://www.sciencedirect.com/science/article/abs/pii/S0032063313001116)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0032063313001116" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0032063313001116</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New evidence of meteoritic origin of the Tunguska cosmic...by V Kvasnytsya · 2013 · Cited by 52 — This study shows that the Tunguska sam...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: medium.com  
-   Link: [https://medium.com/twenty-tales/aliens-black-holes-and-tesla-the-theories-behind-tunguska-event-1908-a7caa492105c](https://medium.com/twenty-tales/aliens-black-holes-and-tesla-the-theories-behind-tunguska-event-1908-a7caa492105c)  
+   Link: <a href="https://medium.com/twenty-tales/aliens-black-holes-and-tesla-the-theories-behind-tunguska-event-1908-a7caa492105c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/twenty-tales/aliens-black-holes-and-tesla-the-theories-behind-tunguska-event-1908-a7caa492105c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tunguska Event (1908) by Twenty TalesAliens, Black Holes, and Tesla: The Theories Behind Tunguska Event (1908)... As in, a UFO exploded...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/quaternary-research/article/tracking-late-holocene-climate-change-and-the-1908-tunguska-impact-event-from-lake-sediments-in-central-siberia/D8FA95EC49BBE12D2FDEAE26BF93E19E](https://www.cambridge.org/core/journals/quaternary-research/article/tracking-late-holocene-climate-change-and-the-1908-tunguska-impact-event-from-lake-sediments-in-central-siberia/D8FA95EC49BBE12D2FDEAE26BF93E19E)  
+   Link: <a href="https://www.cambridge.org/core/journals/quaternary-research/article/tracking-late-holocene-climate-change-and-the-1908-tunguska-impact-event-from-lake-sediments-in-central-siberia/D8FA95EC49BBE12D2FDEAE26BF93E19E" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/quaternary-research/article/tracking-late-holocene-climate-change-and-the-1908-tunguska-impact-event-from-lake-sediments-in-central-siberia/D8FA95EC49BBE12D2FDEAE26BF93E19E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In СН I (2200–1600 BP), the chironomid communities consisted of...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: space.com  
    Title: 5573 huge tunguska explosion remains mysterious 100 years  
-   Link: [https://www.space.com/5573-huge-tunguska-explosion-remains-mysterious-100-years.html](https://www.space.com/5573-huge-tunguska-explosion-remains-mysterious-100-years.html)  
+   Link: <a href="https://www.space.com/5573-huge-tunguska-explosion-remains-mysterious-100-years.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/5573-huge-tunguska-explosion-remains-mysterious-100-years.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A black hole zipping through Earth.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: origins.osu.edu  
-   Link: [https://origins.osu.edu/milestones/june-2018-1908-tunguska-event-and-threats-tomorrow](https://origins.osu.edu/milestones/june-2018-1908-tunguska-event-and-threats-tomorrow)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OriginsThe 1908 Tunguska Event and the Threats of Tomorrow | OriginsFrom this point forward, endless explanations were offered about alie...</p></details>
+   Link: <a href="https://origins.osu.edu/milestones/june-2018-1908-tunguska-event-and-threats-tomorrow" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/milestones/june-2018-1908-tunguska-event-and-threats-tomorrow</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1908 Tunguska Event and the Threats of Tomorrow | OriginsFrom this point forward, endless explanations were offered about alie...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: teslauniverse.com  
-   Link: [https://teslauniverse.com/nikola-tesla/articles/death-ray-nikola-tesla](https://teslauniverse.com/nikola-tesla/articles/death-ray-nikola-tesla)  
+   Link: <a href="https://teslauniverse.com/nikola-tesla/articles/death-ray-nikola-tesla" target="_blank" rel="noopener noreferrer nofollow">https://teslauniverse.com/nikola-tesla/articles/death-ray-nikola-tesla</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Death Ray of Nikola TeslaAlternative versions of the disaster see a renegade mini-black hole or an alien space ship crashing into the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: skepticink.com  
    Title: what happened in the skies above tunguska in 1908  
-   Link: [https://skepticink.com/gps/2014/11/19/what-happened-in-the-skies-above-tunguska-in-1908/](https://skepticink.com/gps/2014/11/19/what-happened-in-the-skies-above-tunguska-in-1908/)  
+   Link: <a href="https://skepticink.com/gps/2014/11/19/what-happened-in-the-skies-above-tunguska-in-1908/" target="_blank" rel="noopener noreferrer nofollow">https://skepticink.com/gps/2014/11/19/what-happened-in-the-skies-above-tunguska-in-1908/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tesla and an exploding alien spacecraft, an idea taken by a few journalists as a real hypothesis from Russian UFOlogist and author Alexan...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2022.777631/full](https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2022.777631/full)  
+   Link: <a href="https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2022.777631/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2022.777631/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Suzdalevo Lake (Central Siberia, Russia)—A Tunguska...by R Kavková · 2022 · Cited by 7 — However, apart from oral testimony, there is no...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: rbth.com  
    Title: scientists uncover evidence in siberias century old meteorite myster 16012  
-   Link: [https://www.rbth.com/articles/2012/06/28/scientists_uncover_evidence_in_siberias_century-old_meteorite_myster_16012.html](https://www.rbth.com/articles/2012/06/28/scientists_uncover_evidence_in_siberias_century-old_meteorite_myster_16012.html)  
+   Link: <a href="https://www.rbth.com/articles/2012/06/28/scientists_uncover_evidence_in_siberias_century-old_meteorite_myster_16012.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rbth.com/articles/2012/06/28/scientists_uncover_evidence_in_siberias_century-old_meteorite_myster_16012.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists uncover evidence in Siberia&#x27;s century-old...Jun 28, 2012 — Italian scientists claim they have found the remnants of a meteori...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nasa.gov  
    Title: 115 years ago the tunguska asteroid impact event  
-   Link: [https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/](https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/)  
+   Link: <a href="https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>115 Years Ago: The Tunguska Asteroid Impact Event13 Feb 2026 — The first scientific expedition did not reach the area until 1927, but sti...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/230602622_Magnetic_and_seismic_reflection_study_of_Lake_Cheko_a_possible_impact_crater_for_the_1908_Tunguska_Event](https://www.researchgate.net/publication/230602622_Magnetic_and_seismic_reflection_study_of_Lake_Cheko_a_possible_impact_crater_for_the_1908_Tunguska_Event)  
+   Link: <a href="https://www.researchgate.net/publication/230602622_Magnetic_and_seismic_reflection_study_of_Lake_Cheko_a_possible_impact_crater_for_the_1908_Tunguska_Event" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230602622_Magnetic_and_seismic_reflection_study_of_Lake_Cheko_a_possible_impact_crater_for_the_1908_Tunguska_Event</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cosmic body that exploded about 5-10 km above ground, releasing in the atmosphere 10...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/14069757/Lake_Cheko_and_the_Tunguska_Event_impact_or_non_impact](https://www.academia.edu/14069757/Lake_Cheko_and_the_Tunguska_Event_impact_or_non_impact)  
+   Link: <a href="https://www.academia.edu/14069757/Lake_Cheko_and_the_Tunguska_Event_impact_or_non_impact" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/14069757/Lake_Cheko_and_the_Tunguska_Event_impact_or_non_impact</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tially linked to the TE, through sediment analysis, radiometric dating, and...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/227628049_Evidence_that_Lake_Cheko_is_not_an_impact_crater](https://www.researchgate.net/publication/227628049_Evidence_that_Lake_Cheko_is_not_an_impact_crater)  
+   Link: <a href="https://www.researchgate.net/publication/227628049_Evidence_that_Lake_Cheko_is_not_an_impact_crater" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227628049_Evidence_that_Lake_Cheko_is_not_an_impact_crater</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A 175-cm long core, collected near the center of the lake, consists...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
    Title: how likely is it that the tunguska event of 1908  
-   Link: [https://www.reddit.com/r/history/comments/5a7yim/how_likely_is_it_that_the_tunguska_event_of_1908/](https://www.reddit.com/r/history/comments/5a7yim/how_likely_is_it_that_the_tunguska_event_of_1908/)  
+   Link: <a href="https://www.reddit.com/r/history/comments/5a7yim/how_likely_is_it_that_the_tunguska_event_of_1908/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/history/comments/5a7yim/how_likely_is_it_that_the_tunguska_event_of_1908/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How likely is it that the &#x27;Tunguska Event&#x27; of 1908 was a...For a college class, I have to write a research paper on the Tunguska Event...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: science.howstuffworks.com  
    Title: what caused massive 1908 explosion at tunguska  
-   Link: [https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/what-caused-massive-1908-explosion-at-tunguska.htm](https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/what-caused-massive-1908-explosion-at-tunguska.htm)  
+   Link: <a href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/what-caused-massive-1908-explosion-at-tunguska.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/what-caused-massive-1908-explosion-at-tunguska.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>One Knows What Caused a Massive 1908 Explosion in...9 Jun 2023 — One writer even suggested an alien spaceship was trying to get to the n...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: scientificamerican.com  
-   Link: [https://www.scientificamerican.com/article/the-tunguska-mystery-100-years-later/](https://www.scientificamerican.com/article/the-tunguska-mystery-100-years-later/)  
+   Link: <a href="https://www.scientificamerican.com/article/the-tunguska-mystery-100-years-later/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/the-tunguska-mystery-100-years-later/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Tunguska Mystery--100 Years LaterJun 30, 2008 — The idea that Lake Cheko might fill an impact crater became more attractive to us...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: worldaroundus.org.uk  
    Title: knowledge gain in the historical sciences  
-   Link: [https://worldaroundus.org.uk/knowledge-gallery/knowledge-gain-in-the-historical-sciences/](https://worldaroundus.org.uk/knowledge-gallery/knowledge-gain-in-the-historical-sciences/)  
+   Link: <a href="https://worldaroundus.org.uk/knowledge-gallery/knowledge-gain-in-the-historical-sciences/" target="_blank" rel="noopener noreferrer nofollow">https://worldaroundus.org.uk/knowledge-gallery/knowledge-gain-in-the-historical-sciences/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Aug 2018 — The unexpected discoveries about the bed of Lake Cheko have led to the development of a hypothesis that the lake is a water...</p></details>

@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /lubbock-lights-sightings-1951/
 nav_short_title: Witnesses
 title: How Reliable Were the First Witnesses?
-title_full: How Reliable Were the First Witnesses? | Lubbock Lights
+title_full: How Reliable Were the First Witnesses?
 display_title_short: Witnesses
 display_title: Witnesses
 heading_title: How Reliable Were the First Witnesses?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /photos-a19897/
   short_title: Photos
   heading_title: Did the Famous Photos Prove Anything?
-date: '2026-06-08 23:23:36 '
+date: '2026-06-11 13:14:57 '
 header:
   og_image: /assets/images/Lubbock_Lights_sight_4eabd8_witness_chronology_39ff2b-Illustration-1-social.jpg
   preview_image: /assets/images/Lubbock_Lights_sight_4eabd8_witness_chronology_39ff2b-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/Lubbock_Lights_sight_4eabd8_witness_chronology_39ff2b-Illu
 ## Introduction
 
 The first Lubbock Lights reports in August 1951 became influential not because they offered clear physical proof, but because the earliest witnesses were unusually credible by UFO-case standards. Several observers were professors at Texas Technological College, later Texas Tech University, with backgrounds in geology, engineering, chemistry and physics. They described repeated formations of bluish-green lights crossing the night sky silently and at apparent high speed. Their professional status gave the case immediate weight with newspapers, the US Air Force and later UFO researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">When four college professors, a geologist, a chemist, a physicist, and a petroleum engineer, report seeing the same UFO&#x27;s on...</span></span></span>
-
 
 <img src="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_witness_chronology_39ff2b-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_witness_chronology_39ff2b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_witness_chronology_39ff2b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Yet the same case also reveals the limits of eyewitness authority. The professors agreed on the existence of unusual lights, but struggled to measure altitude, speed or distance with confidence. Investigators later argued that some observations could be explained by migrating birds reflecting Lubbock’s newly installed mercury-vapour streetlights. The debate over witness credibility therefore became central to the entire Lubbock Lights story: were trained observers seeing something extraordinary, or were intelligent people misjudging an unusual but ordinary night-sky effect? <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">When four college professors, a geologist, a chemist, a physicist, and a petroleum engineer, report seeing the same UFO&#x27;s on...</span></span></span>
@@ -262,7 +261,6 @@ The credibility of the August sightings depended heavily on the reputations of t
 
 The group included:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **W. I. Robinson**, a geologist.
@@ -279,7 +277,6 @@ Ruppelt’s writing often treated the professors as sincere and competent, even 
 
 At the same time, scientific training did not automatically solve the central problem of night-sky observation. Even skilled observers can misjudge speed, distance and scale when there are few visual reference points. The Lubbock witnesses saw lights against a dark sky with no known object for comparison. Their estimates therefore carried authority, but not certainty.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F8YFGCeM6eI" title="UFOs Revisited: The Lights of Phoenix and Lubbock | Episode 15 | America’s Most Famous UFO Sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F8YFGCeM6eI" target="_blank" rel="noopener noreferrer">UFOs Revisited: The Lights of Phoenix and Lubbock | Episode 15 | America’s Most Famous UFO Sightings</a></p><p class="youtube-embed-meta">Channel: Free4All &middot; Views: 773 &middot; Uploaded: November 2025 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F8YFGCeM6eI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F8YFGCeM6eI">Open on YouTube</a></p></div></div></div>
 
 ## What the Witnesses Agreed On
@@ -292,7 +289,7 @@ Across multiple reports, witnesses generally agreed that the lights:
 * Moved quickly and smoothly.
 * Produced little or no sound.
 * Had a bluish-green or pale white glow.
-* Reappeared over multiple nights. Wikipedia History The reports also spread beyond the professors themselves. Local residents <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/lubbock-lights-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">One person even took photos.Read more</span><span class="citation-popover-snippet">HistoryThe Unsolved Mystery of the Lubbock Lights UFO Sightings24 Aug 2018 — Hundreds of people, including several university scientists...</span></span></span>, including non-academic witnesses, claimed to see similar formations during the same period. Some accounts involved only fleeting lights overhead; others described repeated passes. The broader pattern helped convince investigators that something real was being observed, even if its identity remained uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pt.wikipedia.org/wiki/Luzes_de_Lubbock" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luzes de Lubbock</span><span class="citation-popover-snippet">Luzes de Lubbock</span></span></span>
+* Reappeared over multiple nights. Wikipedia History The reports also spread beyond the professors themselves. Local residents <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/lubbock-lights-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">One person even took photos.Read more</span><span class="citation-popover-snippet">The Unsolved Mystery of the Lubbock Lights UFO Sightings24 Aug 2018 — Hundreds of people, including several university scientists...</span></span></span>, including non-academic witnesses, claimed to see similar formations during the same period. Some accounts involved only fleeting lights overhead; others described repeated passes. The broader pattern helped convince investigators that something real was being observed, even if its identity remained uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pt.wikipedia.org/wiki/Luzes_de_Lubbock" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luzes de Lubbock</span><span class="citation-popover-snippet">Luzes de Lubbock</span></span></span>
 
 Importantly, the professors did attempt limited forms of verification. According to later accounts, they organised observation sessions and tried to position teams in separate locations to estimate altitude and speed through triangulation. Those efforts largely failed because the appearances were brief and unpredictable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">When four college professors, a geologist, a chemist, a physicist, and a petroleum engineer, report seeing the same UFO&#x27;s on...</span></span></span>
 
@@ -310,7 +307,6 @@ Witnesses believed the lights moved extremely fast, with some later estimates pl
 
 Nighttime visual perception is especially vulnerable to this problem. Without clear depth references, small nearby objects can appear identical to distant large ones.
 
-
 <img src="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_witness_chronology_39ff2b-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_witness_chronology_39ff2b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_witness_chronology_39ff2b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Formation ambiguity
 
@@ -326,7 +322,6 @@ Witnesses repeatedly stressed the lack of sound. Yet silence alone is difficult 
 
 As publicity increased, accounts became more detailed and sometimes more dramatic. This is common in highly publicised incidents. Later retellings often blended separate nights and separate observations into a single narrative, making reconstruction difficult.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UDkxMu3Jipo" title="THE TEX FILES - &quot;LUBBOCK LIGHTS&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UDkxMu3Jipo" target="_blank" rel="noopener noreferrer">THE TEX FILES - &quot;LUBBOCK LIGHTS&quot;</a></p><p class="youtube-embed-meta">Channel: FOX 4 Dallas-Fort Worth &middot; Views: 9.1K &middot; Uploaded: February 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UDkxMu3Jipo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UDkxMu3Jipo">Open on YouTube</a></p></div></div></div>
 
 ## The Bird Explanation and the Credibility Problem
@@ -339,7 +334,6 @@ However, the explanation did not fully settle the matter. Some witnesses strongl
 
 The credibility issue therefore became more nuanced than a simple choice between “truthful” and “mistaken”. Most investigators accepted that the professors genuinely saw something. The disagreement centred on interpretation rather than honesty.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CIhGAev0ZU4" title="Project Blue Book: Declassified – The True Story of the Lubbock Lights | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Lubbock Lights | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 45.0K &middot; Uploaded: February 2019 &middot; Length: 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CIhGAev0ZU4">Open on YouTube</a></p></div></div></div>
 
 ## What Corroboration Could and Could Not Prove
@@ -347,7 +341,6 @@ The credibility issue therefore became more nuanced than a simple choice between
 The August 1951 sightings demonstrate an important distinction in UFO investigations: corroboration can confirm that witnesses experienced an event, but not necessarily what caused it.
 
 The Lubbock case had unusually broad corroboration for an early UFO report:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -363,7 +356,6 @@ But corroboration had limits.
 
 The witnesses could not reliably establish:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Exact altitude.
@@ -375,7 +367,6 @@ The witnesses could not reliably establish:
 </div>
 
 This distinction explains why the case remains historically important without becoming conclusive evidence of extraordinary craft. The professors strengthened the credibility of the observations themselves, yet they could not remove the ambiguities inherent in brief nighttime sightings.
-
 
 <img src="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_witness_chronology_39ff2b-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_witness_chronology_39ff2b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_witness_chronology_39ff2b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the August Sightings Still Matter
@@ -389,44 +380,86 @@ At the same time, the case illustrates how even trained observers can struggle w
 That unresolved tension is why the first August sightings continue to occupy a central place in discussions of the broader Lubbock Lights incident.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Reliable Were the First Witnesses?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Reliable Were the First Witnesses?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Chronicles the initial night over Lubbock, outlining the silent, high-speed bluish-green V-formations noted by the college professors.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Documents Ruppelt&#x27;s interviews with professors W.I. Robinson, A.G. Oberg, and W.L. Ducker regarding their 25 August 1951 outdoor observat...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Examines why military intelligence units prioritized statements from trained scientists and engineers over casual civilian records.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Breaks down why scientific credentials do not exempt a human brain from common night-sky misinterpretations and social reinforcement loops.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -463,15 +496,15 @@ That unresolved tension is why the first August sightings continue to occupy a c
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,15 +512,15 @@ That unresolved tension is why the first August sightings continue to occupy a c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,15 +528,15 @@ That unresolved tension is why the first August sightings continue to occupy a c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,15 +544,15 @@ That unresolved tension is why the first August sightings continue to occupy a c
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,7 +560,7 @@ That unresolved tension is why the first August sightings continue to occupy a c
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-322ab6-how-reliable-were-the-first-witnesses-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-reliable-were-the-first-witnesses-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-reliable-were-the-first-witnesses-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -743,57 +776,57 @@ That unresolved tension is why the first August sightings continue to occupy a c
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Lubbock Lights  
-   Link: [https://en.wikipedia.org/wiki/Lubbock_Lights](https://en.wikipedia.org/wiki/Lubbock_Lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lubbock_Lights</a>  
 
 2. <a id="endnote-2"></a>
    Source: history.com  
    Title: One person even took [photos](&#123;&#123; 'photos-a19897/' | relative_url &#125;&#125;). Read more  
-   Link: [https://www.history.com/articles/lubbock-lights-ufo-sightings](https://www.history.com/articles/lubbock-lights-ufo-sightings)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryThe Unsolved Mystery of the Lubbock Lights UFO Sightings24 Aug 2018 — Hundreds of people, including several university scientists...</p></details>
+   Link: <a href="https://www.history.com/articles/lubbock-lights-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/lubbock-lights-ufo-sightings</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unsolved Mystery of the Lubbock Lights UFO Sightings24 Aug 2018 — Hundreds of people, including several university scientists...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: medium.com  
    Title: the lubbock lights a 1950s ufo sighting c1483dc167dd  
-   Link: [https://medium.com/%40darkkat/the-lubbock-lights-a-1950s-ufo-sighting-c1483dc167dd](https://medium.com/%40darkkat/the-lubbock-lights-a-1950s-ufo-sighting-c1483dc167dd)  
+   Link: <a href="https://medium.com/%40darkkat/the-lubbock-lights-a-1950s-ufo-sighting-c1483dc167dd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40darkkat/the-lubbock-lights-a-1950s-ufo-sighting-c1483dc167dd</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is best known for a photograph of one of the sightings.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Luzes de Lubbock  
-   Link: [https://pt.wikipedia.org/wiki/Luzes_de_Lubbock](https://pt.wikipedia.org/wiki/Luzes_de_Lubbock)  
+   Link: <a href="https://pt.wikipedia.org/wiki/Luzes_de_Lubbock" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Luzes_de_Lubbock</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: The Report on Unidentified Flying Objects  
-   Link: [https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects](https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThe Report on Unidentified Flying Objects is a 1956 book by then-retired Air Force UFO invest...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ia800501.us.archive.org  
    Title: Edward J Ruppelt The Report on Unidentified Flying Objects  
-   Link: [https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf](https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf)  
+   Link: <a href="https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia800501.us.archive.org/20/items/FritjofCapraTheTurningPoint/Edward%20J%20Ruppelt%20-%20The%20Report%20on%20Unidentified%20Flying%20Objects.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ruppelt not only was the head of the United States Air Force&#x27;s secret. Project Blue Book that studied UFOs, but he also was the head of the...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo10.htm](https://sacred-texts.com/ufo/rufo/rufo10.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo10.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When four college professors, a geologist, a chemist, a physicist, and a petroleum engineer, report seeing the same UFO&#x27;s on...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: lubbocklights.com  
    Title: Lubbock Lights Part of the reason we're named Lubbock Lights honors '51  
-   Link: [https://lubbocklights.com/part-of-the-reason-were-named-lubbock-lights-honors-51-ufo-mystery-heres-the-story-of-how-answer-died-with-investigator/](https://lubbocklights.com/part-of-the-reason-were-named-lubbock-lights-honors-51-ufo-mystery-heres-the-story-of-how-answer-died-with-investigator/)  
+   Link: <a href="https://lubbocklights.com/part-of-the-reason-were-named-lubbock-lights-honors-51-ufo-mystery-heres-the-story-of-how-answer-died-with-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://lubbocklights.com/part-of-the-reason-were-named-lubbock-lights-honors-51-ufo-mystery-heres-the-story-of-how-answer-died-with-investigator/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lubbock LightsPart of the reason we&#x27;re named Lubbock Lights honors &#x27;51...October 31, 2024 — 31 Oct 2024 — “If a group had been hand-pick...</p></details>
    Published: October 31, 2024  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/708546534557759/posts/1254330919979315/](https://www.facebook.com/groups/708546534557759/posts/1254330919979315/)  
+   Link: <a href="https://www.facebook.com/groups/708546534557759/posts/1254330919979315/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/708546534557759/posts/1254330919979315/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lubbock lights ufo sightings in Texas investigatedCredibility: The sightings were deemed credible because they were witnessed by three Te...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: scottbakal.com  
-   Link: [https://www.scottbakal.com/lubbocklights](https://www.scottbakal.com/lubbocklights)  
+   Link: <a href="https://www.scottbakal.com/lubbocklights" target="_blank" rel="noopener noreferrer nofollow">https://www.scottbakal.com/lubbocklights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lubbock LightsFrom various sources: Hundreds of people, including several university scientists, witnessed the flying blue-green lights i...</p></details>
 
 ### Additional References
@@ -801,56 +834,56 @@ That unresolved tension is why the first August sightings continue to occupy a c
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: between august and september of 1951 the people of lubbock texas witnessed odd l  
-   Link: [https://www.facebook.com/eros.love.712714/photos/between-august-and-september-of-1951-the-people-of-lubbock-texas-witnessed-odd-l/1239445271150181/](https://www.facebook.com/eros.love.712714/photos/between-august-and-september-of-1951-the-people-of-lubbock-texas-witnessed-odd-l/1239445271150181/)  
+   Link: <a href="https://www.facebook.com/eros.love.712714/photos/between-august-and-september-of-1951-the-people-of-lubbock-texas-witnessed-odd-l/1239445271150181/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/eros.love.712714/photos/between-august-and-september-of-1951-the-people-of-lubbock-texas-witnessed-odd-l/1239445271150181/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eros28 May 2025 — Edward J. Ruppelt, a US Air Force officer and supervisor for Project Bluebook examined the photos and determined that t...</p></details>
    Published: May 2025  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: in 1951 a ufo flew over texas and an entire city lost power the government blame  
-   Link: [https://www.facebook.com/HISTORY/posts/in-1951-a-ufo-flew-over-texas-and-an-entire-city-lost-power-the-government-blame/10155711775626184/](https://www.facebook.com/HISTORY/posts/in-1951-a-ufo-flew-over-texas-and-an-entire-city-lost-power-the-government-blame/10155711775626184/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/in-1951-a-ufo-flew-over-texas-and-an-entire-city-lost-power-the-government-blame/10155711775626184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/in-1951-a-ufo-flew-over-texas-and-an-entire-city-lost-power-the-government-blame/10155711775626184/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1951, a UFO flew over Texas and an entire city lost...While investigating the Lubbock Lights, Ruppelt wrote the first sighting was re...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: in 1951 dozens of lubbock texas residents reported seeing a formation of mysteri  
-   Link: [https://www.facebook.com/txchronicles/posts/in-1951-dozens-of-lubbock-texas-residents-reported-seeing-a-formation-of-mysteri/1370210314761338/](https://www.facebook.com/txchronicles/posts/in-1951-dozens-of-lubbock-texas-residents-reported-seeing-a-formation-of-mysteri/1370210314761338/)  
+   Link: <a href="https://www.facebook.com/txchronicles/posts/in-1951-dozens-of-lubbock-texas-residents-reported-seeing-a-formation-of-mysteri/1370210314761338/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/in-1951-dozens-of-lubbock-texas-residents-reported-seeing-a-formation-of-mysteri/1370210314761338/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1951, dozens of Lubbock, Texas, residents reported...The Lubbock Lights A UFO sighting in Lubbock, Texas, in 1951 includes some of th...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: the lubbock lights phenomenon is one of the most intriguing ufo sightings in ame  
-   Link: [https://www.facebook.com/txchronicles/posts/the-lubbock-lights-phenomenon-is-one-of-the-most-intriguing-ufo-sightings-in-ame/1050724940043212/](https://www.facebook.com/txchronicles/posts/the-lubbock-lights-phenomenon-is-one-of-the-most-intriguing-ufo-sightings-in-ame/1050724940043212/)  
+   Link: <a href="https://www.facebook.com/txchronicles/posts/the-lubbock-lights-phenomenon-is-one-of-the-most-intriguing-ufo-sightings-in-ame/1050724940043212/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-lubbock-lights-phenomenon-is-one-of-the-most-intriguing-ufo-sightings-in-ame/1050724940043212/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lubbock Lights phenomenon is one of the most...The Lubbock Lights A UFO sighting in Lubbock, Texas, in 1951 includes some of the mos...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: casefiles.space  
-   Link: [https://www.casefiles.space/cases/the-lubbock-lights-multiple-witnesses-and-photographic-evidence](https://www.casefiles.space/cases/the-lubbock-lights-multiple-witnesses-and-photographic-evidence)  
+   Link: <a href="https://www.casefiles.space/cases/the-lubbock-lights-multiple-witnesses-and-photographic-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.casefiles.space/cases/the-lubbock-lights-multiple-witnesses-and-photographic-evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ruppelt personally investigated the case, conducting interviews with witnesses and analyzing the photographic evidence...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/](https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16vc2eu/have_you_read_the_report_on_unidentified_flying/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>l 1952, but was considered the most open minded leader...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=F8YFGCeM6eI](https://www.youtube.com/watch?v=F8YFGCeM6eI)  
+   Link: <a href="https://www.youtube.com/watch?v=F8YFGCeM6eI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F8YFGCeM6eI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PROJECT BLUE BOOK: The True Story of the &quot;V&quot; Lights That the Government Tried to Suppress...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1paa968/1951_lubbock_lights_v_shape_flying_wing_9x_lights/](https://www.reddit.com/r/UFOs/comments/1paa968/1951_lubbock_lights_v_shape_flying_wing_9x_lights/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1paa968/1951_lubbock_lights_v_shape_flying_wing_9x_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1paa968/1951_lubbock_lights_v_shape_flying_wing_9x_lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1951 Lubbock Lights - V shape flying wing, 9x lights per wingAnother pair of witnesses, Joe Bryant and his wife, on August 25 observed gr...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified – The True Story of the Lubbock Lights  
-   Link: [https://www.youtube.com/watch?v=CIhGAev0ZU4](https://www.youtube.com/watch?v=CIhGAev0ZU4)  
+   Link: <a href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CIhGAev0ZU4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unexplained UFO Sighting Witnessed by Scientists | Lubbock Lights...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nicap.org  
    Title: What Our Air Force Found Out About UFOs  
-   Link: [https://www.nicap.org/true-rup1.htm](https://www.nicap.org/true-rup1.htm)  
+   Link: <a href="https://www.nicap.org/true-rup1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/true-rup1.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Theirs were dull and glowing. Third, with much of the town scanning the...</p></details>

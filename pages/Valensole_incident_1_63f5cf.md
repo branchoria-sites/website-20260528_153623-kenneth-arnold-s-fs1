@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Valentich
   permalink: /valentich-disappearance-1978/
   short_title: Valentich
-date: '2026-06-08 23:31:03 '
+date: '2026-06-11 13:18:51 '
 header:
   og_image: /assets/images/Valensole_incident_1_63f5cf-overview-social.jpg
   preview_image: /assets/images/Valensole_incident_1_63f5cf-overview.webp
@@ -758,13 +758,12 @@ image: /assets/images/Valensole_incident_1_63f5cf-overview-social.jpg
 
 ## Introduction
 
-That classification does not prove an extraterrestrial event. GEIPAN explicitly says it has no proof of extraterrestrial life and works by comparing testimony with known physical and psychological hypotheses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification | GEIPAN</span><span class="citation-popover-snippet">Classification | GEIPAN</span></span></span> The enduring interest of Valensole lies in the tension between a coherent rural witness account, documented physical traces, rapid press attention, and unresolved sceptical alternatives such as a helicopter, a fertiliser tank, lightning-related marks, or a story embellished from popular UFO imagery.
-
+That classification does not prove an extraterrestrial event. GEIPAN explicitly says it has no proof of extraterrestrial life and works by comparing testimony with known physical and psychological hypotheses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification &#124; GEIPAN</span><span class="citation-popover-snippet">Classification &#124; GEIPAN</span></span></span> The enduring interest of Valensole lies in the tension between a coherent rural witness account, documented physical traces, rapid press attention, and unresolved sceptical alternatives such as a helicopter, a fertiliser tank, lightning-related marks, or a story embellished from popular UFO imagery.
 
 <img src="{{ "/assets/images/Valensole_incident_1_63f5cf-overview.webp" | relative_url }}" alt="Overview image for Valensole incident 1965" loading="eager" decoding="sync" fetchpriority="high">
 ## What Maurice Masse said happened that morning
 
-The core episode begins before sunrise on Thursday 1 July 1965. GEIPAN’s case summary gives the time as 5:45 a.m. and describes a farmer in a lavender field who heard a whistling sound, moved towards it, and saw an unfamiliar dark, matt object resting on the ground. He then observed two figures for four to five minutes before they re-entered the object, which took off obliquely and disappeared rapidly towards Manosque. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification | GEIPAN</span><span class="citation-popover-snippet">Classification | GEIPAN</span></span></span>
+The core episode begins before sunrise on Thursday 1 July 1965. GEIPAN’s case summary gives the time as 5:45 a.m. and describes a farmer in a lavender field who heard a whistling sound, moved towards it, and saw an unfamiliar dark, matt object resting on the ground. He then observed two figures for four to five minutes before they re-entered the object, which took off obliquely and disappeared rapidly towards Manosque. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification &#124; GEIPAN</span><span class="citation-popover-snippet">Classification &#124; GEIPAN</span></span></span>
 
 Later retellings add the most memorable details: Masse reportedly first thought he might be dealing with people stealing lavender, approached cautiously, and saw two small beings near or inside an object compared in size to a Renault Dauphine car. The COMETA report’s English translation says the object was roughly 90 metres away when first seen, had six legs and a central pivot, and that Masse later approached to about ten metres before one of the beings pointed a tube-like object at him, after which he felt immobilised but conscious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.de">[narcap.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.de</span><span class="citation-popover-title">COMET A-Bericht-englisch.doc</span><span class="citation-popover-snippet">COMET A-Bericht-englisch.doc</span></span></span>
 
@@ -774,19 +773,18 @@ The case contains a built-in chronology problem that careful summaries should pr
 
 The strongest reason Valensole remained prominent is that the report was followed quickly by physical-site claims. GEIPAN states that about ten minutes after the object’s departure Masse found star-shaped traces with a cylindrical hole in the centre, in damp earth; when he returned around 8:30 p.m. with his daughter, the ground had become “hard as cement”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/46691" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span>
 
-The next day, 2 July, public rumour brought visitors to the site, and GEIPAN notes that the traces were quickly trampled by curious onlookers. The local gendarmerie first questioned Masse on the evening of 2 July, accompanied him to the site around 10 p.m., took a further statement later that night, and another brigade drew up a formal report on 3 July with measurements and photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification | GEIPAN</span><span class="citation-popover-snippet">Classification | GEIPAN</span></span></span>
+The next day, 2 July, public rumour brought visitors to the site, and GEIPAN notes that the traces were quickly trampled by curious onlookers. The local gendarmerie first questioned Masse on the evening of 2 July, accompanied him to the site around 10 p.m., took a further statement later that night, and another brigade drew up a formal report on 3 July with measurements and photographs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification &#124; GEIPAN</span><span class="citation-popover-snippet">Classification &#124; GEIPAN</span></span></span>
 
 A contemporary press account in Le Dauphiné Libéré, preserved in a scan-and-transcription archive, reported that gendarmes saw a hole roughly 20 centimetres in diameter and 50 centimetres deep, with X-shaped traces radiating from it, and described the surrounding ground as hardened while nearby soil crumbled normally. The same article also recorded early caution: there was “something” at the site, but no clear explanation could yet be given. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/press/dauphinelibere4jul1965b.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The later COMETA report gives a slightly different measurement: an 18-centimetre-diameter, 40-centimetre-deep cylindrical hole with smooth walls, plus three smaller bent holes at the bottom. It also states that lavender beds dried up along the alleged flight axis for about 100 metres and that replanting near the trace failed for years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.de">[narcap.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.de</span><span class="citation-popover-title">COMET A-Bericht-englisch.doc</span><span class="citation-popover-snippet">COMET A-Bericht-englisch.doc</span></span></span> These details are often cited by UFO writers, but they should be read with caution: COMETA was an independent, pro-investigation French UFO report, not the original 1965 gendarmerie file itself.
-
 
 <img src="{{ "/assets/images/Valensole_incident_1_63f5cf-Illustration-1-dark.svg" | relative_url }}" alt="Valensole incident 1965 illustration 1" data-theme-src-dark="{{ "/assets/images/Valensole_incident_1_63f5cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valensole_incident_1_63f5cf-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the official classification actually means
 
 GEIPAN’s Valensole page lists the case as classification D, with the phenomenon type described as an unusual phenomenon of medium or strong consistency. Its case summary says no other testimony was collected and no other clue was found around the observation site by the gendarmerie. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/46691" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span> That is a crucial limitation: Valensole is not a multi-witness landing case. It is a single-witness close encounter with investigated ground traces.
 
-GEIPAN’s own classification guide explains that cases are judged using two broad criteria: strangeness, meaning distance from the best known explanation, and consistency, meaning the quantity and reliability of available information. Category D means the phenomenon remains not identified after investigation, while category C means there is not enough reliable data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification | GEIPAN</span><span class="citation-popover-snippet">Classification | GEIPAN</span></span></span>
+GEIPAN’s own classification guide explains that cases are judged using two broad criteria: strangeness, meaning distance from the best known explanation, and consistency, meaning the quantity and reliability of available information. Category D means the phenomenon remains not identified after investigation, while category C means there is not enough reliable data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-title">Classification &#124; GEIPAN</span><span class="citation-popover-snippet">Classification &#124; GEIPAN</span></span></span>
 
 For Valensole specifically, GEIPAN’s 2015 synthesis is unusually careful. It says GEPAN did not exist in 1965, that later GEPAN, SEPRA, and GEIPAN officials collected and received documents about the affair but did not publish an in-depth investigation, and that a late GEPAN inquiry would probably have been of limited value after the gendarmerie work and investigations by figures such as Pierre Guérin and Jacques Vallée. The same synthesis says GEIPAN made the most reliable documents public: the three gendarmerie reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cnes-geipan.fr/sites/default/files/Synthese.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">Open source on cnes-geipan.fr.</span></span></span>
 
@@ -799,7 +797,6 @@ Masse’s credibility is one of the main reasons the case survived in UFO litera
 That is meaningful but not decisive. A sincere witness can misperceive, misremember, or interpret a real but ordinary event through an extraordinary frame. GEIPAN’s own general methodology treats testimony as central but also weighs reliability, coherence, links between witnesses, and objective material such as photographs or traces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.geipan.fr/en/node/46691" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geipan.fr">[geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geipan.fr</span><span class="citation-popover-snippet">Open source on geipan.fr.</span></span></span> In Valensole, the objective side is limited to post-event ground observations and environmental claims; there is no photograph of the object, no radar data, and no independent eyewitness to the beings or departure.
 
 The reported after-effects on Masse also became part of the case. COMETA says he slept twelve to fifteen hours a night for months after the paralysis episode. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: narcap.de">[narcap.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">narcap.de</span><span class="citation-popover-title">COMET A-Bericht-englisch.doc</span><span class="citation-popover-snippet">COMET A-Bericht-englisch.doc</span></span></span> Such symptoms could be interpreted in several ways: physical effect, psychological shock, stress from unwanted publicity, or retrospective embellishment. They are relevant to the human story, but they do not identify the object.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9svxP5t_kXM" title="The Valensole UFO Incident - France&#x27;s Roswell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9svxP5t_kXM" target="_blank" rel="noopener noreferrer">The Valensole UFO Incident - France&#x27;s Roswell</a></p><p class="youtube-embed-meta">Channel: This Paranormal Life &middot; Views: 4.7K &middot; Uploaded: November 2025 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9svxP5t_kXM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9svxP5t_kXM">Open on YouTube</a></p></div></div></div>
 
@@ -821,9 +818,7 @@ Another sceptical line, presented by Raoul Robé and discussed by psychologist G
 
 This is where Valensole is often mishandled. The presence of traces does not by itself prove a landed craft. But the existence of mundane trace mechanisms does not by itself prove fabrication either. The trace evidence is real enough to explain why investigators paid attention, yet too contaminated and ambiguous to settle the case.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xu4oTBBI5UE" title="Project Blue Book: America&#x27;s Obsession with UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer">Project Blue Book: America&#x27;s Obsession with UFOs</a></p><p class="youtube-embed-meta">Channel: Origins OSU &middot; Views: 1.6K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xu4oTBBI5UE">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Valensole_incident_1_63f5cf-Illustration-2-dark.svg" | relative_url }}" alt="Valensole incident 1965 illustration 2" data-theme-src-dark="{{ "/assets/images/Valensole_incident_1_63f5cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valensole_incident_1_63f5cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The comic-book hoax theory is suggestive, not conclusive
 
 One of the more unusual sceptical [explanations]({{ 'explanations-325d4f/' | relative_url }}) is that Masse’s story may have drawn on a French comic-book story involving Provence, a flying saucer, small beings, and a paralysing ray. Gilles Fernandez’s 2017 article presents this as a hypothesis by Raoul Robé, noting a comic published in the 1950s and reissued in 1960 that contained several ingredients resembling the later Valensole narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticversustheflyingsaucers.blogspot.com/2017/11/maurice-masse-encounter-valensole.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticversustheflyingsaucers.blogspot.com">[Skeptic Versus The Flying Saucers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticversustheflyingsaucers.blogspot.com</span><span class="citation-popover-title">maurice masse encounter valensole</span><span class="citation-popover-snippet">maurice masse encounter valensole</span></span></span>
@@ -832,12 +827,13 @@ The theory has two attractive features. First, it explains why the story’s det
 
 Its weakness is direct proof. There is no demonstrated chain showing Masse read that specific comic and transformed it into his report. Fernandez himself says that once he had more of the story, he saw few similarities and too many differences, making the scenario improbable though not impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticversustheflyingsaucers.blogspot.com/2017/11/maurice-masse-encounter-valensole.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticversustheflyingsaucers.blogspot.com">[Skeptic Versus The Flying Saucers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticversustheflyingsaucers.blogspot.com</span><span class="citation-popover-title">maurice masse encounter valensole</span><span class="citation-popover-snippet">maurice masse encounter valensole</span></span></span> The comic-book theory is therefore best treated as a reminder of cultural contamination, not as a solved debunking.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WiGeR6y72gA" title="They Landed in His Field – The Untold Truth Behind the Valensole UFO Encounter (1965)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WiGeR6y72gA" target="_blank" rel="noopener noreferrer">They Landed in His Field – The Untold Truth Behind the Valensole UFO Encounter (1965)</a></p><p class="youtube-embed-meta">Channel: The Deep Dark Secrets &middot; Views: 180 &middot; Uploaded: April 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WiGeR6y72gA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WiGeR6y72gA">Open on YouTube</a></p></div></div></div>
+
 ## Why the case still feels unresolved
 
 Valensole remains difficult because each side has genuine points but none has a complete solution.
 
 For the case being unusual:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -849,7 +845,6 @@ For the case being unusual:
 </div>
 
 Against a strong UFO conclusion:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -863,8 +858,7 @@ Against a strong UFO conclusion:
 
 The result is a classic “high-strangeness, medium-evidence” case. It is stronger than a bare anecdote, but weaker than a physically secured, multi-witness incident.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WiGeR6y72gA" title="They Landed in His Field – The Untold Truth Behind the Valensole UFO Encounter (1965)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WiGeR6y72gA" target="_blank" rel="noopener noreferrer">They Landed in His Field – The Untold Truth Behind the Valensole UFO Encounter (1965)</a></p><p class="youtube-embed-meta">Channel: The Deep Dark Secrets &middot; Views: 180 &middot; Uploaded: April 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WiGeR6y72gA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WiGeR6y72gA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xu4oTBBI5UE" title="Project Blue Book: America&#x27;s Obsession with UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer">Project Blue Book: America&#x27;s Obsession with UFOs</a></p><p class="youtube-embed-meta">Channel: Origins OSU &middot; Views: 1.6K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xu4oTBBI5UE">Open on YouTube</a></p></div></div></div>
 
 ## The best current reading of Valensole
 
@@ -882,45 +876,89 @@ A cautious assessment should separate four layers:
 
 Valensole is therefore not a clean proof case. It is a historically important French UFO case because it shows how quickly a rural observation could become an official file, a press event, a physical-trace mystery, and a long-running argument about witness sincerity, cultural imagery, and the limits of retrospective investigation.
 
+<img src="{{ "/assets/images/Valensole_incident_1_63f5cf-Illustration-3-dark.svg" | relative_url }}" alt="Valensole incident 1965 illustration 3" data-theme-src-dark="{{ "/assets/images/Valensole_incident_1_63f5cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valensole_incident_1_63f5cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened at Valensole?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened at Valensole?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Contains direct analytical files on the 1 July 1965 Valensole incident, examining Maurice Masse&#x27;s lavender field encounter and the small...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides an objective case file summary detailing the French gendarmerie statements, the rapid press attention, and GEIPAN&#x27;s category D s...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Provides structural forensic guidelines to evaluate how stories are embellished from popular science fiction imagery.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anatomy of a Phenomenon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anatomy of a Phenomenon">Anatomy of a Phenomenon</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Examines how official space agencies like GEIPAN collect, categorize, and cross-reference rural visual statement sheets.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Anatomy+of+a+Phenomenon+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -957,15 +995,15 @@ Valensole is therefore not a clean proof case. It is a historically important Fr
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Valensole France Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e7b8d43c2e71cabc2b23.jpg' | relative_url }}" alt="Listing image for Valensole France Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Valensole France Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Valensole poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Valensole poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -973,15 +1011,15 @@ Valensole is therefore not a clean proof case. It is a historically important Fr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Valensole France Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cc6e81b898e10cd4f31d.jpg' | relative_url }}" alt="Listing image for Valensole France Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Valensole France Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Valensole poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Valensole poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -989,15 +1027,15 @@ Valensole is therefore not a clean proof case. It is a historically important Fr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for POSTER POSTER VALENSOLE"><img src="{{ '/assets/images/marketplace-covers/e3eeb3ee0f2326e40ecb.jpg' | relative_url }}" alt="Listing image for POSTER POSTER VALENSOLE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">POSTER POSTER VALENSOLE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Valensole poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Valensole poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -1005,15 +1043,15 @@ Valensole is therefore not a clean proof case. It is a historically important Fr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Valensole France Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7fe3ab5bcfdcfb1e9e65.jpg' | relative_url }}" alt="Listing image for Valensole France Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Valensole France Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Valensole poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Valensole poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -1021,7 +1059,7 @@ Valensole is therefore not a clean proof case. It is a historically important Fr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Valensole+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Valensole poster -book -books" data-ebay-reference="valensole-incident-1965-what-really-happened-at-valensole-valensole-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1237,131 +1275,131 @@ Valensole is therefore not a clean proof case. It is a historically important Fr
 1. <a id="endnote-1"></a>
    Source: geipan.fr  
    Title: Classification | GEIPAN  
-   Link: [https://www.geipan.fr/en/node/58787](https://www.geipan.fr/en/node/58787)  
+   Link: <a href="https://www.geipan.fr/en/node/58787" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/58787</a>  
 
 2. <a id="endnote-2"></a>
    Source: narcap.de  
    Title: COMET A-Bericht-englisch.doc  
-   Link: [https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf](https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf)  
+   Link: <a href="https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.narcap.de/dokumente/COMETA-Report-englisch.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: geipan.fr  
-   Link: [https://www.geipan.fr/en/node/46691](https://www.geipan.fr/en/node/46691)  
+   Link: <a href="https://www.geipan.fr/en/node/46691" target="_blank" rel="noopener noreferrer nofollow">https://www.geipan.fr/en/node/46691</a>  
 
 4. <a id="endnote-4"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/sites/default/files/Synthese.pdf](https://www.cnes-geipan.fr/sites/default/files/Synthese.pdf)  
+   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Synthese.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Synthese.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Rencontre de Valensole  
-   Link: [https://fr.wikipedia.org/wiki/Rencontre_de_Valensole](https://fr.wikipedia.org/wiki/Rencontre_de_Valensole)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Rencontre_de_Valensole" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Rencontre_de_Valensole</a>  
 
 6. <a id="endnote-6"></a>
    Source: ia801803.us.archive.org  
-   Link: [https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf](https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf)  
+   Link: <a href="https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801803.us.archive.org/27/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt](https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Incidente di Valensole  
-   Link: [https://it.wikipedia.org/wiki/Incidente_di_Valensole](https://it.wikipedia.org/wiki/Incidente_di_Valensole)  
+   Link: <a href="https://it.wikipedia.org/wiki/Incidente_di_Valensole" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incidente_di_Valensole</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Close encounter  
-   Link: [https://en.wikipedia.org/wiki/Close_encounter](https://en.wikipedia.org/wiki/Close_encounter)  
+   Link: <a href="https://en.wikipedia.org/wiki/Close_encounter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Close_encounter</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: UFO sightings in France  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_France](https://en.wikipedia.org/wiki/UFO_sightings_in_France)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_France" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_France</a>  
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Liste de canulars d'ovnis  
-   Link: [https://fr.wikipedia.org/wiki/Liste_de_canulars_d%27ovnis](https://fr.wikipedia.org/wiki/Liste_de_canulars_d%27ovnis)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Liste_de_canulars_d%27ovnis" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Liste_de_canulars_d%27ovnis</a>  
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 13. <a id="endnote-13"></a>
    Source: space.com  
    Title: project blue book season 2 explained  
-   Link: [https://www.space.com/project-blue-book-season-2-explained.html](https://www.space.com/project-blue-book-season-2-explained.html)  
+   Link: <a href="https://www.space.com/project-blue-book-season-2-explained.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/project-blue-book-season-2-explained.html</a>  
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
    Title: passport to magonia b9fea8bb0740  
-   Link: [https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740](https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740)  
+   Link: <a href="https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740</a>  
 
 15. <a id="endnote-15"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/node/46692](https://www.cnes-geipan.fr/en/node/46692)  
+   Link: <a href="https://www.cnes-geipan.fr/en/node/46692" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/node/46692</a>  
 
 16. <a id="endnote-16"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/press/dauphinelibere4jul1965b.htm](https://ufologie.patrickgross.org/press/dauphinelibere4jul1965b.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/press/dauphinelibere4jul1965b.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/press/dauphinelibere4jul1965b.htm</a>  
 
 17. <a id="endnote-17"></a>
    Source: skepticversustheflyingsaucers.blogspot.com  
    Title: maurice masse encounter valensole  
-   Link: [https://skepticversustheflyingsaucers.blogspot.com/2017/11/maurice-masse-encounter-valensole.html](https://skepticversustheflyingsaucers.blogspot.com/2017/11/maurice-masse-encounter-valensole.html)  
+   Link: <a href="https://skepticversustheflyingsaucers.blogspot.com/2017/11/maurice-masse-encounter-valensole.html" target="_blank" rel="noopener noreferrer nofollow">https://skepticversustheflyingsaucers.blogspot.com/2017/11/maurice-masse-encounter-valensole.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/valensole1965.htm](https://ufologie.patrickgross.org/htm/valensole1965.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/valensole1965.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/valensole1965.htm</a>  
 
 19. <a id="endnote-19"></a>
    Source: netowne.com  
-   Link: [https://www.netowne.com/ufos/important/cometa.html](https://www.netowne.com/ufos/important/cometa.html)  
+   Link: <a href="https://www.netowne.com/ufos/important/cometa.html" target="_blank" rel="noopener noreferrer nofollow">https://www.netowne.com/ufos/important/cometa.html</a>  
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PwXIAUr7DIE](https://www.youtube.com/watch?v=PwXIAUr7DIE)  
+   Link: <a href="https://www.youtube.com/watch?v=PwXIAUr7DIE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PwXIAUr7DIE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jacques Vallée: les OVNIS sont un réel sujet scientifique (conférence complète)...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Valensole, the most mysterious UFO case in France  
-   Link: [https://www.youtube.com/watch?v=1UeGcXw_efE](https://www.youtube.com/watch?v=1UeGcXw_efE)  
+   Link: <a href="https://www.youtube.com/watch?v=1UeGcXw_efE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1UeGcXw_efE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Valensole 1965&quot;: a French encounter of the third kind...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/402498918_UFOs_and_Defense_What_Should_We_Prepare_For_-An_independent_report_on_UFOs_written_by_the_French_association_COMETA_This_report_details_the_results_of_a_study_by_the_Institute_of_Higher_Studies_for_Na](https://www.researchgate.net/publication/402498918_UFOs_and_Defense_What_Should_We_Prepare_For_-An_independent_report_on_UFOs_written_by_the_French_association_COMETA_This_report_details_the_results_of_a_study_by_the_Institute_of_Higher_Studies_for_Na)  
+   Link: <a href="https://www.researchgate.net/publication/402498918_UFOs_and_Defense_What_Should_We_Prepare_For_-An_independent_report_on_UFOs_written_by_the_French_association_COMETA_This_report_details_the_results_of_a_study_by_the_Institute_of_Higher_Studies_for_Na" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/402498918_UFOs_and_Defense_What_Should_We_Prepare_For_-An_independent_report_on_UFOs_written_by_the_French_association_COMETA_This_report_details_the_results_of_a_study_by_the_Institute_of_Higher_Studies_for_Na</a>  
 
 24. <a id="endnote-24"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/CNESFrance/posts/-imaginez-un-mix-entre-pagnol-et-spielberg-si-si-valensole-1965-est-un-film-insp/1141881474646500/](https://www.facebook.com/CNESFrance/posts/-imaginez-un-mix-entre-pagnol-et-spielberg-si-si-valensole-1965-est-un-film-insp/1141881474646500/)  
+   Link: <a href="https://www.facebook.com/CNESFrance/posts/-imaginez-un-mix-entre-pagnol-et-spielberg-si-si-valensole-1965-est-un-film-insp/1141881474646500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CNESFrance/posts/-imaginez-un-mix-entre-pagnol-et-spielberg-si-si-valensole-1965-est-un-film-insp/1141881474646500/</a>  
 
 26. <a id="endnote-26"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/43436028/Cometa-Report-Part1](https://www.scribd.com/doc/43436028/Cometa-Report-Part1)  
+   Link: <a href="https://www.scribd.com/doc/43436028/Cometa-Report-Part1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/43436028/Cometa-Report-Part1</a>  
 
 27. <a id="endnote-27"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10590031/files/Reliability_IV-6_Robe.pdf](https://zenodo.org/records/10590031/files/Reliability_IV-6_Robe.pdf)  
+   Link: <a href="https://zenodo.org/records/10590031/files/Reliability_IV-6_Robe.pdf" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10590031/files/Reliability_IV-6_Robe.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/france3provencealpes/posts/cest-une-histoire-qui-avait-d%C3%A9fray%C3%A9-la-chronique-dans-les-alpes-de-haute-provenc/1149352687228040/](https://www.facebook.com/france3provencealpes/posts/cest-une-histoire-qui-avait-d%C3%A9fray%C3%A9-la-chronique-dans-les-alpes-de-haute-provenc/1149352687228040/)  
+   Link: <a href="https://www.facebook.com/france3provencealpes/posts/cest-une-histoire-qui-avait-d%C3%A9fray%C3%A9-la-chronique-dans-les-alpes-de-haute-provenc/1149352687228040/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/france3provencealpes/posts/cest-une-histoire-qui-avait-d%C3%A9fray%C3%A9-la-chronique-dans-les-alpes-de-haute-provenc/1149352687228040/</a>  
 
 29. <a id="endnote-29"></a>
    Source: ufo-archives.com  
-   Link: [https://ufo-archives.com/en/](https://ufo-archives.com/en/)  
+   Link: <a href="https://ufo-archives.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://ufo-archives.com/en/</a>

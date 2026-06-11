@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /antonio-villas-boas-abduction-1957/
 nav_short_title: Timeline
 title: How the Villas Boas Story Unfolded
-title_full: How the Villas Boas Story Unfolded | Villas Boas
+title_full: How the Villas Boas Story Unfolded
 display_title_short: Timeline
 display_title: Timeline
 heading_title: How the Villas Boas Story Unfolded
@@ -233,7 +233,7 @@ prev_link:
   permalink: /sceptics/
   short_title: Sceptics
   heading_title: Was the Case Shaped by UFO Culture?
-date: '2026-06-08 23:30:19 '
+date: '2026-06-11 13:18:27 '
 header:
   og_image: /assets/images/Antonio_Villas-Boas_1a3f4f_testimony_timeline_a5c3da-Illustration-1-social.jpg
   preview_image: /assets/images/Antonio_Villas-Boas_1a3f4f_testimony_timeline_a5c3da-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/Antonio_Villas-Boas_1a3f4f_testimony_timeline_a5c3da-Illus
 ## Introduction
 
 The Antonio Villas-Boas case is often described as the first modern alien abduction narrative because it already contained many of the themes that later became standard in UFO lore: missing time, physical examination, strange humanoids, medical symptoms, and an alleged reproductive motive. What makes the story historically important is not that it was proven true — it was never independently verified — but that the chronology was unusually detailed and was recorded before alien-abduction stories became globally familiar through later cases such as Betty and Barney Hill. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesJoão Martins, who was the man first contacted by the witness Antônio Villas Boas. Antôni...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Antônio Vilas-Boas</span><span class="citation-popover-snippet">Antônio Vilas-Boas</span></span></span> The timeline itself is central to the controversy. Villas-Boas described a sequence beginning with unusual lights seen days earlier, followed by the main encounter on the night of 15–16 October 1957 in rural Minas Gerais, Brazil. He then reported physical after-effects, delayed disclosure, medical examinations, and years of retelling under increasingly intense public scrutiny. Supporters argue that the consistency of the sequence strengthens his credibility. Skeptics counter that the delay in publication, the absence of independent witnesses to the abduction itself, and the evolving retellings weaken the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesJoão Martins, who was the man first contacted by the witness Antônio Villas Boas. Antôni...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thinkanomalous.com/vilas-boas-abduction.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkanomalous.com">[Think Anomalous]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkanomalous.com</span><span class="citation-popover-title">vilas boas abduction</span><span class="citation-popover-snippet">Think AnomalousAbduction of Antônio Vilas-Boas, 1957 - Think AnomalousA documentary summary of the 1957 abduction of Antonio Vilas-Boas...</span></span></span>
-
 
 <img src="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_testimony_timeline_a5c3da-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_testimony_timeline_a5c3da-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_testimony_timeline_a5c3da-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The 14 October red light prelude
@@ -264,7 +263,6 @@ One of the most repeated details in later retellings is the landing sequence. Vi
 
 That sequence became highly influential in later UFO storytelling because it linked mechanical interference with close encounters. Yet it also introduced a problem for investigators: there was no surviving physical evidence from the tractor itself, and no contemporaneous technical inspection was documented.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ItrBOFOVf3Y" title="The Most BIZARRE Alien Encounter - Antonio Villas Boas - DEBRIEFED ep. 46" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ItrBOFOVf3Y" target="_blank" rel="noopener noreferrer">The Most BIZARRE Alien Encounter - Antonio Villas Boas - DEBRIEFED ep. 46</a></p><p class="youtube-embed-meta">Channel: Area52 &middot; Views: 472.6K &middot; Uploaded: July 2025 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ItrBOFOVf3Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ItrBOFOVf3Y">Open on YouTube</a></p></div></div></div>
 
 ### The reported capture
@@ -282,7 +280,6 @@ According to the testimony, the humanoids took blood samples and exposed him to 
 This part of the story was deeply controversial even within UFO research circles. Some early investigators reportedly hesitated to publish the case because the sexual content risked ridicule. Yet the reproductive theme later became common in abduction narratives from the 1960s onward, leading believers to argue that Villas-Boas anticipated later patterns before they were culturally widespread. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-snippet">Unidentified Flying Objects and the OccultOne, the story of a young Brazilian man, Antonio Villas Boas, who claimed to have been abducted...</span></span></span>
 
 Skeptics see the same material differently. The combination of fear, paralysis-like helplessness, bodily examination, and sexual imagery has often been compared to dream states, sleep paralysis experiences, or psychologically constructed narratives shaped by contemporary anxieties and emerging science-fiction imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">Captured by Aliens?: A History and Analysis of American</span><span class="citation-popover-snippet">Antonio Villas Boas were subject to this phenomenon. Conesa suggested that geomagnetic activity might trigger SP experiences and that bir...</span></span></span>
-
 
 <img src="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_testimony_timeline_a5c3da-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_testimony_timeline_a5c3da-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_testimony_timeline_a5c3da-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From escape to later testimony
@@ -305,7 +302,6 @@ That delay matters historically. The most detailed versions of the case are not 
 
 Supporters argue that the delay actually helped credibility because Martins and Fontes initially withheld publication out of concern that the account sounded too extreme. Skeptics respond that the long gap allowed embellishment, memory distortion, and myth-building.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UmSOSX_uAUM" title="Expedition Brazil: #OCEARCHVISION Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UmSOSX_uAUM" target="_blank" rel="noopener noreferrer">Expedition Brazil: #OCEARCHVISION Part 1</a></p><p class="youtube-embed-meta">Channel: OCEARCH &middot; Views: 13.6K &middot; Uploaded: August 2014 &middot; Length: 3 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UmSOSX_uAUM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UmSOSX_uAUM">Open on YouTube</a></p></div></div></div>
 
 ### Consistency and later retellings
@@ -315,7 +311,6 @@ One reason the Villas-Boas account remained influential is that he reportedly ma
 Even so, the testimony was never entirely stable across all versions. Different publications varied in details such as timings, room descriptions, the appearance of the humanoids, and the sequence of onboard events. Some discrepancies likely emerged through translation from Portuguese into English and through repeated retelling by UFO researchers rather than direct transcripts from Villas-Boas himself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ignaciodarnaude.es">[Ignacio Darnaude Rojas-Marcos.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ignaciodarnaude.es</span><span class="citation-popover-snippet">Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesJoão Martins, who was the man first contacted by the witness Antônio Villas Boas. Antôni...</span></span></span>
 
 This creates a recurring problem in assessing the timeline. Researchers are often comparing not a single original document but layered retellings published years apart.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GOwg2AaB71k" title="The Alien Abduction That Shocked the World: Antônio Vilas-Boas!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GOwg2AaB71k" target="_blank" rel="noopener noreferrer">The Alien Abduction That Shocked the World: Antônio Vilas-Boas!</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE Universe &middot; Views: 4.9K &middot; Uploaded: January 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GOwg2AaB71k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GOwg2AaB71k">Open on YouTube</a></p></div></div></div>
 
@@ -331,7 +326,6 @@ The Villas-Boas timeline shaped later abduction narratives in several important 
 
 The case also exposed an enduring divide within UFO research itself. Some investigators saw the detailed chronology as evidence of sincerity. Others believed the story was either a hoax, a fantasy shaped by science fiction, or a psychologically constructed experience later reinforced by investigators searching for patterns.
 
-
 <img src="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_testimony_timeline_a5c3da-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_testimony_timeline_a5c3da-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antonio_Villas-Boas_1a3f4f_testimony_timeline_a5c3da-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The unresolved tension in the timeline
 
@@ -342,44 +336,86 @@ Its weakest aspect is the evidence trail. Nearly every major detail ultimately d
 That tension is why the case continues to occupy a strange position in UFO history. It is historically important, highly influential, and unusually detailed — yet still fundamentally unresolved.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How the Villas Boas Story Unfolded, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How the Villas Boas Story Unfolded. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Presents a comprehensive chronological summary of the October 1957 event, establishing the firmest available timeline for the tractor enc...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+        </h4>
+        <p class="fr-book-author">By John E. Mack, Mack</p>
+        
+        <p class="fr-book-desc">Contextualizes the Villas-Boas testimony as an foundational blueprint for the timeline of medical examinations and reproductive-focused a...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Traces the evolution of Brazilian sighting accounts and how they were integrated into wider 1950s UFO reporting databases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Provides analytical tools to evaluate witness reliability based on the contemporaneous recording of testimony versus later retellings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -416,15 +452,15 @@ That tension is why the case continues to occupy a strange position in UFO histo
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -432,15 +468,15 @@ That tension is why the case continues to occupy a strange position in UFO histo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -448,15 +484,15 @@ That tension is why the case continues to occupy a strange position in UFO histo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -464,15 +500,15 @@ That tension is why the case continues to occupy a strange position in UFO histo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -480,7 +516,7 @@ That tension is why the case continues to occupy a strange position in UFO histo
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-d13b71-how-the-villas-boas-story-unfolded-antonio-villas-boas-abduction-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-villas-boas-story-unfolded-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-the-villas-boas-story-unfolded-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -696,58 +732,58 @@ That tension is why the case continues to occupy a strange position in UFO histo
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Antônio Vilas-Boas  
-   Link: [https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas](https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ant%C3%B4nio_Vilas-Boas</a>  
 
 2. <a id="endnote-2"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo](https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and the OccultOne, the story of a young Brazilian man, [Antonio Villas Boas](&amp;#123;&amp;#123; &#x27;antonio-villas-boas-abduction-1957/&#x27; | relative_url &amp;#125;&amp;#125;), who claimed to have been abducted...</p></details>
+   Link: <a href="https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science-and-technology/technology/aviation-general/ufo</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and the OccultOne, the story of a young Brazilian man, Antonio Villas Boas, who claimed to have been abducted...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dokumen.pub  
    Title: Captured by Aliens?: A History and Analysis of American  
-   Link: [https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html](https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html)  
+   Link: <a href="https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Antonio Villas Boas were subject to this phenomenon. Conesa suggested that geomagnetic activity might trigger SP experiences and that bir...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=UmSOSX_uAUM](https://www.youtube.com/watch?v=UmSOSX_uAUM)  
+   Link: <a href="https://www.youtube.com/watch?v=UmSOSX_uAUM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UmSOSX_uAUM</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Terrifying Alien Encounter That&#x27;s Never Been Explained...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ignaciodarnaude.es  
-   Link: [https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf](https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf)  
+   Link: <a href="https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ignaciodarnaude.es/wp-content/uploads/2022/05/Abduction-A.Vilas-Boas1957FSR-3.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ignacio Darnaude Rojas-Marcos.by Dr. Olavo FontesJoão Martins, who was the man first contacted by the witness Antônio Villas Boas. Antôni...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: thinkanomalous.com  
    Title: vilas boas abduction  
-   Link: [https://www.thinkanomalous.com/vilas-boas-abduction.html](https://www.thinkanomalous.com/vilas-boas-abduction.html)  
+   Link: <a href="https://www.thinkanomalous.com/vilas-boas-abduction.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkanomalous.com/vilas-boas-abduction.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Think AnomalousAbduction of Antônio Vilas-Boas, 1957 - Think AnomalousA documentary summary of the 1957 abduction of Antonio Vilas-Boas...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: livescience.com  
    Title: 20250 alien abductions origins  
-   Link: [https://www.livescience.com/20250-alien-abductions-origins.html](https://www.livescience.com/20250-alien-abductions-origins.html)  
+   Link: <a href="https://www.livescience.com/20250-alien-abductions-origins.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/20250-alien-abductions-origins.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceThe Surprising Origin of Alien Abduction Stories11 May 2012 — Olavo Fontes. The farmer&#x27;s name was Antonio Villas Boas, and he...</p></details>
    Published: May 2012  
 
 8. <a id="endnote-8"></a>
    Source: thirdhalf.net  
-   Link: [https://thirdhalf.net/archive/article/gigolo/gigolo.htm](https://thirdhalf.net/archive/article/gigolo/gigolo.htm)  
+   Link: <a href="https://thirdhalf.net/archive/article/gigolo/gigolo.htm" target="_blank" rel="noopener noreferrer nofollow">https://thirdhalf.net/archive/article/gigolo/gigolo.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Third HalfThird Half-Antonio Villas-Boas: Space GigoloNine days later, on the night of October 14, 1957, Antonio and Jao were out plowing...</p></details>
    Published: October 14, 1957  
 
 9. <a id="endnote-9"></a>
    Source: psmag.com  
-   Link: [https://psmag.com/environment/might-come-believe-youve-abducted-alien-73267/](https://psmag.com/environment/might-come-believe-youve-abducted-alien-73267/)  
+   Link: <a href="https://psmag.com/environment/might-come-believe-youve-abducted-alien-73267/" target="_blank" rel="noopener noreferrer nofollow">https://psmag.com/environment/might-come-believe-youve-abducted-alien-73267/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pacific StandardHow You Might Come to Believe You&#x27;ve Been Abducted by...January 24, 2014 — 24 Jan 2014 — Three legs emerged from the cra...</p></details>
    Published: January 24, 2014  
 
 10. <a id="endnote-10"></a>
    Source: amazon.co.uk  
    Title: Flying Saucer Review  
-   Link: [https://www.amazon.co.uk/Flying-Saucer-Review-Histories-Supplement-ebook/dp/B01MRMUCKX](https://www.amazon.co.uk/Flying-Saucer-Review-Histories-Supplement-ebook/dp/B01MRMUCKX)  
+   Link: <a href="https://www.amazon.co.uk/Flying-Saucer-Review-Histories-Supplement-ebook/dp/B01MRMUCKX" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Flying-Saucer-Review-Histories-Supplement-ebook/dp/B01MRMUCKX</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Case Histories - Supplement EightFlying Saucer Review - Case Histories - Supplement Eight: February 1972 (FSR).Read more...</p></details>
    Published: February 1972  
 
@@ -755,59 +791,59 @@ That tension is why the case continues to occupy a strange position in UFO histo
 
 11. <a id="endnote-11"></a>
    Source: files.secure.website  
-   Link: [https://files.secure.website/wscfus/10582237/26186013/top-secret-nick-redfern-team-enki-free-pdf.pdf](https://files.secure.website/wscfus/10582237/26186013/top-secret-nick-redfern-team-enki-free-pdf.pdf)  
+   Link: <a href="https://files.secure.website/wscfus/10582237/26186013/top-secret-nick-redfern-team-enki-free-pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.secure.website/wscfus/10582237/26186013/top-secret-nick-redfern-team-enki-free-pdf.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Alien Abduction FilesWith the background to how the story surfaced in hand, let&#x27;s now see what, precisely, happened to Antonio Vil...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: uapedia.ai  
    Title: antonio villas boas case 1957 the night brazil first met the abduction era  
-   Link: [https://www.uapedia.ai/wiki/antonio-villas-boas-case-1957-the-night-brazil-first-met-the-abduction-era/](https://www.uapedia.ai/wiki/antonio-villas-boas-case-1957-the-night-brazil-first-met-the-abduction-era/)  
+   Link: <a href="https://www.uapedia.ai/wiki/antonio-villas-boas-case-1957-the-night-brazil-first-met-the-abduction-era/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/antonio-villas-boas-case-1957-the-night-brazil-first-met-the-abduction-era/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Antônio Villas-Boas Case, 1957: The Night Brazil First Met...Discover the 1957 Antônio Villas‑Boas encounter, Brazil&#x27;s landmark UAP abdu...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: newdawnmagazine.com  
    Title: New Dawn – World's Most Unusual Magazine Freemasons from Outer Space!  
-   Link: [https://www.newdawnmagazine.com/articles/freemasons-from-outer-space](https://www.newdawnmagazine.com/articles/freemasons-from-outer-space)  
+   Link: <a href="https://www.newdawnmagazine.com/articles/freemasons-from-outer-space" target="_blank" rel="noopener noreferrer nofollow">https://www.newdawnmagazine.com/articles/freemasons-from-outer-space</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Dawn MagazineVillas-Boas was a twenty-three-year-old Brazilian farmer whose life abruptly turned upside down at 1:00 A.M. on Wednesda...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: in october 1957 ufo abduction a kidnapped  
-   Link: [https://www.reddit.com/r/UFOs/comments/t03ux6/in_october_1957_ufo_abduction_a_kidnapped/](https://www.reddit.com/r/UFOs/comments/t03ux6/in_october_1957_ufo_abduction_a_kidnapped/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/t03ux6/in_october_1957_ufo_abduction_a_kidnapped/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t03ux6/in_october_1957_ufo_abduction_a_kidnapped/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in October 1957, UFO Abduction, a kidnapped Brazilian...In 1957, a farmer named Antonio Villas Boas claimed to be abducted from his fiel...</p></details>
    Published: october 1957  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ParanormalFilesuk/posts/the-antonio-villas-boas-casethe-ant%C3%B4nio-villas-boas-ufo-abduction-case-also-know/814568413984193/](https://www.facebook.com/ParanormalFilesuk/posts/the-antonio-villas-boas-casethe-ant%C3%B4nio-villas-boas-ufo-abduction-case-also-know/814568413984193/)  
+   Link: <a href="https://www.facebook.com/ParanormalFilesuk/posts/the-antonio-villas-boas-casethe-ant%C3%B4nio-villas-boas-ufo-abduction-case-also-know/814568413984193/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ParanormalFilesuk/posts/the-antonio-villas-boas-casethe-ant%C3%B4nio-villas-boas-ufo-abduction-case-also-know/814568413984193/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fontes later conducted a detailed investigation...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: medium.com  
    Title: PASSPORT TO MAGONIA. On UFOs, Folklore  
-   Link: [https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740](https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumOlavo Fontes found physical evidence consistent with Villas Boas&#x27;s account, including radiation-consistent skin lesions. Vallee con...</p></details>
+   Link: <a href="https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40hfwnbq/passport-to-magonia-b9fea8bb0740</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Olavo Fontes found physical evidence consistent with Villas Boas&#x27;s account, including radiation-consistent skin lesions. Vallee con...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: podcasts.apple.com  
    Title: comantonio villas boas alien abduction  
-   Link: [https://podcasts.apple.com/gb/podcast/antonio-villas-boas-alien-abduction/id1431872901?i=1000714375942](https://podcasts.apple.com/gb/podcast/antonio-villas-boas-alien-abduction/id1431872901?i=1000714375942)  
+   Link: <a href="https://podcasts.apple.com/gb/podcast/antonio-villas-boas-alien-abduction/id1431872901?i=1000714375942" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/gb/podcast/antonio-villas-boas-alien-abduction/id1431872901?i=1000714375942</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>villas boas alien abduction - UFO WARNING24 Jun 2025 — The October, 1957 alien abduction of Antonio Villas Boas is one of the earliest an...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: inexplicata.blogspot.com  
    Title: antonio villas boas total abduction by  
-   Link: [https://inexplicata.blogspot.com/2007/11/antonio-villas-boas-total-abduction-by.html](https://inexplicata.blogspot.com/2007/11/antonio-villas-boas-total-abduction-by.html)  
+   Link: <a href="https://inexplicata.blogspot.com/2007/11/antonio-villas-boas-total-abduction-by.html" target="_blank" rel="noopener noreferrer nofollow">https://inexplicata.blogspot.com/2007/11/antonio-villas-boas-total-abduction-by.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Antonio Villas Boas: Total Abduction5 Nov 2007 — Olavo Fontes, a major name in Brazilian ufology, who subjected Villas Boas to a battery...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/514745622413411/posts/1769923603562267/](https://www.facebook.com/groups/514745622413411/posts/1769923603562267/)  
+   Link: <a href="https://www.facebook.com/groups/514745622413411/posts/1769923603562267/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/514745622413411/posts/1769923603562267/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>📍Abduction of Antônio Vilas-BoasOn October 16, 1957, he was ploughing fields near São Francisco de Sales when he saw what he described as...</p></details>
    Published: October 16, 1957  
 
 20. <a id="endnote-20"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: [https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf](https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFINITIVE CASEBOOKthe UK in the pages of Flying Saucer Review. It has gradually lost ground in favour of the next two lines of thought...</p></details>

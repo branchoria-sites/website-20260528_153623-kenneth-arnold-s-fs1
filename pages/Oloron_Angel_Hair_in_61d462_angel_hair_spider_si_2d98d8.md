@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /oloron-angel-hair-incident-1952/
 nav_short_title: Spider Silk
 title: Was Angel Hair Really Spider Silk?
-title_full: Was Angel Hair Really Spider Silk? | Oloron Angel Hair
+title_full: Was Angel Hair Really Spider Silk?
 display_title_short: Spider Silk
 display_title: Spider Silk
 heading_title: Was Angel Hair Really Spider Silk?
@@ -239,7 +239,7 @@ next_link:
   permalink: /witnesses-062a30/
   short_title: Witnesses
   heading_title: Who Saw What Over Oloron?
-date: '2026-06-08 23:40:33 '
+date: '2026-06-11 13:23:29 '
 header:
   og_image: /assets/images/Oloron_Angel_Hair_in_61d462_angel_hair_spider_si_2d98d8-Illustration-1-social.jpg
   preview_image: /assets/images/Oloron_Angel_Hair_in_61d462_angel_hair_spider_si_2d98d8-Illustration-1.webp
@@ -250,14 +250,12 @@ image: /assets/images/Oloron_Angel_Hair_in_61d462_angel_hair_spider_si_2d98d8-Il
 
 In the 1952 Oloron‑Sainte‑Marie “angel hair” incident, [witnesses]({{ 'witnesses-062a30/' | relative_url }}) reported a white, hair‑like material raining down alongside alleged aerial objects — a detail that has made this case one of the more memorable and physically suggestive events in UFO lore. The substance, colloquially dubbed *angel hair*, was said to cling to telephone wires, tree branches and roofs and then to dissolve, vanish or turn gelatinous on contact with human hands. That transient, fibrous quality became central to debates over what, if anything, had been seen. The most grounded alternative to extraordinary interpretation is a natural terrestrial mechanism: fine spider silk lofted into the air by ballooning spiders. This page focuses on that specific explanation and the evidence surrounding it.
 
-
 <img src="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_angel_hair_spider_si_2d98d8-Illustration-1-dark.svg" | relative_url }}" alt="Spider Silk illustration 1" data-theme-src-dark="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_angel_hair_spider_si_2d98d8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_angel_hair_spider_si_2d98d8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Witnesses Reported About the Filaments
 
 Witness accounts from Oloron describe the residue as white, hair‑like filaments falling from the sky and quickly vanishing when gathered or touched. Some said the strands turned into a gel‑like mass that disappeared shortly after collection. The behaviour of the material — ephemeral and elusive — contributed to its mystique and made it difficult to preserve for analysis. Because no authenticated physical samples from Oloron survive today, the nature of the material is known mainly through witness testimony and later summaries in the UFO literature. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Angel hair (folklore</span><span class="citation-popover-snippet">Angel hair (folklore</span></span></span>
 
 These descriptions — fine, cottony filaments that disintegrate rapidly — are strikingly similar to other historical “angel hair” reports. Accounts stretching back decades and even centuries often speak of wispy threads falling from the sky only to disappear soon after they land. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angels-hair" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">angels hair</span><span class="citation-popover-snippet">Angel&#x27;s HairIn the 1950s angel hair became associated with UFOs. A famous case occurred in France in 1952 during which a local high schoo...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GRrUxi6d7so" title="Electric fields elicit ballooning in spiders" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GRrUxi6d7so" target="_blank" rel="noopener noreferrer">Electric fields elicit ballooning in spiders</a></p><p class="youtube-embed-meta">Channel: University of Bristol &middot; Views: 170.9K &middot; Uploaded: July 2018 &middot; Length: 3 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GRrUxi6d7so" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GRrUxi6d7so">Open on YouTube</a></p></div></div></div>
 
@@ -269,12 +267,10 @@ Ballooning silk is exceedingly thin and can stretch out over metres. Under calm 
 
 Once airborne, wind shear and turbulence can break up dense clouds of ballooning silk into filaments that drift downwards, coating vegetation, wires and buildings. On landing, these threads are delicate and can break apart or seem to vanish as they dry, unravel and are blown away. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ballooning_%28spider%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ballooning (spider</span><span class="citation-popover-snippet">Ballooning (spider</span></span></span>
 
-
 <img src="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_angel_hair_spider_si_2d98d8-Illustration-2-dark.svg" | relative_url }}" alt="Spider Silk illustration 2" data-theme-src-dark="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_angel_hair_spider_si_2d98d8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_angel_hair_spider_si_2d98d8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the Spider Silk Explanation Fits the Oloron Filaments
 
 Several aspects of the Oloron angel hair align with the spider ballooning mechanism: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Angel hair (folklore</span><span class="citation-popover-snippet">Angel hair (folklore</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -287,8 +283,7 @@ Several aspects of the Oloron angel hair align with the spider ballooning mechan
 
 Skeptics have noted that transient, web‑like falls often occur independently of any UFO sighting, appearing simply as “spider rain” or airborne cobwebs in reports unconnected with unexplained aerial objects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ballooning_%28spider%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ballooning (spider</span><span class="citation-popover-snippet">Ballooning (spider</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hfrg0rhIaGg" title="UFO Emits Weird White Material Onto Small French Town | Close Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hfrg0rhIaGg" target="_blank" rel="noopener noreferrer">UFO Emits Weird White Material Onto Small French Town | Close Encounters</a></p><p class="youtube-embed-meta">Channel: Quest TV &middot; Views: 1.4M &middot; Uploaded: October 2019 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hfrg0rhIaGg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hfrg0rhIaGg">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8rTEe2vS-VI" title="Spiders Spin Balloons to Fly Away | National Geographic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8rTEe2vS-VI" target="_blank" rel="noopener noreferrer">Spiders Spin Balloons to Fly Away | National Geographic</a></p><p class="youtube-embed-meta">Channel: National Geographic &middot; Views: 357.5K &middot; Uploaded: April 2018 &middot; Length: 1 minute 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8rTEe2vS-VI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8rTEe2vS-VI">Open on YouTube</a></p></div></div></div>
 
 ## Limits and Competing Considerations
 
@@ -298,7 +293,6 @@ While spider ballooning is a well‑documented biological phenomenon that produc
 * **Witness interpretations:** In some historical angel hair accounts beyond Oloron, observers reported the threads seeming to originate from or trail objects in the sky — an observation that believers in anomalous explanations take as suggestive of non‑natural causation. Interpretation of aerial phenomena and silk drifting can be confounded by parallax, lighting effects and human perception of moving airborne material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ballooning_%28spider%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ballooning (spider</span><span class="citation-popover-snippet">Ballooning (spider</span></span></span>
 * **Chemical composition differences in other cases:** On rare occasions elsewhere, analyses of collected angel hair have yielded unexpected elemental compositions not typical of spider silk, though such results are not from the Oloron event and have been debated in terms of sample contamination and analytical method. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ballooning_%28spider%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ballooning (spider</span><span class="citation-popover-snippet">Ballooning (spider</span></span></span>
 
-
 <img src="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_angel_hair_spider_si_2d98d8-Illustration-3-dark.svg" | relative_url }}" alt="Spider Silk illustration 3" data-theme-src-dark="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_angel_hair_spider_si_2d98d8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Oloron_Angel_Hair_in_61d462_angel_hair_spider_si_2d98d8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Spider Silk Explains Many Angel Hair Reports
 
@@ -306,52 +300,93 @@ Taken as a whole, spider ballooning offers the most grounded terrestrial explana
 
 Crucially, ballooning is a natural, observable biological process that can produce vast quantities of threads capable of aloft dispersal across landscapes. This makes spider silk a compelling candidate explanation for Oloron’s angel hair residue, especially given the absence of authenticated anomalous physical evidence from the incident itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ballooning_%28spider%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ballooning (spider</span><span class="citation-popover-snippet">Ballooning (spider</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8rTEe2vS-VI" title="Spiders Spin Balloons to Fly Away | National Geographic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8rTEe2vS-VI" target="_blank" rel="noopener noreferrer">Spiders Spin Balloons to Fly Away | National Geographic</a></p><p class="youtube-embed-meta">Channel: National Geographic &middot; Views: 357.5K &middot; Uploaded: April 2018 &middot; Length: 1 minute 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8rTEe2vS-VI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8rTEe2vS-VI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LpGc_SGfSmY" title="“Spider Rain” Coats Australian Town In Webs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LpGc_SGfSmY" target="_blank" rel="noopener noreferrer">“Spider Rain” Coats Australian Town In Webs</a></p><p class="youtube-embed-meta">Channel: Vocativ &middot; Views: 105.3K &middot; Uploaded: May 2015 &middot; Length: 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LpGc_SGfSmY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LpGc_SGfSmY">Open on YouTube</a></p></div></div></div>
 
 ## Concluding Notes on the Spider Silk Hypothesis
 
-Within the broader study of the [Oloron angel hair]({{ 'oloron-angel-hair-incident-1952/' | relative_url }}) phenomenon, the spider ballooning explanation operates as the leading skeptical interpretation of the filaments themselves. It fits both the general characteristics of the reported material and the known behaviour of spiders producing airborne gossamer threads. While it does not resolve every debate surrounding angel hair — particularly the aerial sighting component — it offers a parsimonious natural mechanism for the physical residue at the heart of this subtopic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ballooning_%28spider%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ballooning (spider</span><span class="citation-popover-snippet">Ballooning (spider</span></span></span>
+Within the broader study of the Oloron angel hair phenomenon, the spider ballooning explanation operates as the leading skeptical interpretation of the filaments themselves. It fits both the general characteristics of the reported material and the known behaviour of spiders producing airborne gossamer threads. While it does not resolve every debate surrounding angel hair — particularly the aerial sighting component — it offers a parsimonious natural mechanism for the physical residue at the heart of this subtopic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ballooning_%28spider%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ballooning (spider</span><span class="citation-popover-snippet">Ballooning (spider</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Was Angel Hair Really Spider Silk?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Was Angel Hair Really Spider Silk?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Angel Hair Phenomenon guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Angel+Hair+Phenomenon+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides objective profiles on &#x27;angel hair&#x27; cases and compares witness observations against known natural filament dispersal patterns.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Spider Silk guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Spider+Silk+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches forensic investigation techniques to isolate original reports and evaluate the likelihood of natural arachnid ballooning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Oloron France guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Oloron+France+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Details why comparing witness-reported filament decay against actual spider-silk properties is the best practice for isolating truth.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Analyzes why official government transcripts are the primary baseline for history versus secondary investigative folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -388,15 +423,15 @@ Within the broader study of the [Oloron angel hair]({{ 'oloron-angel-hair-incide
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="{{ '/assets/images/marketplace-covers/4353dda57fefeae45a72.jpg' | relative_url }}" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -404,15 +439,15 @@ Within the broader study of the [Oloron angel hair]({{ 'oloron-angel-hair-incide
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/84e3114d732933008429.jpg' | relative_url }}" alt="Listing image for Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -420,15 +455,15 @@ Within the broader study of the [Oloron angel hair]({{ 'oloron-angel-hair-incide
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Boy - Science Lover Science Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4a37d6613d5926c50108.jpg' | relative_url }}" alt="Listing image for Science Boy - Science Lover Science Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science Boy - Science Lover Science Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -436,15 +471,15 @@ Within the broader study of the [Oloron angel hair]({{ 'oloron-angel-hair-incide
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3cdfff053ac0a1a8635b.jpg' | relative_url }}" alt="Listing image for Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">Science Is Like Magic But Real Unic Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: science wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -452,7 +487,7 @@ Within the broader study of the [Oloron angel hair]({{ 'oloron-angel-hair-incide
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science wall art" data-ebay-reference="spider-silk-was-angel-hair-really-spider-silk-oloron-angel-hair-incident-1952-science-wall-art" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -668,100 +703,100 @@ Within the broader study of the [Oloron angel hair]({{ 'oloron-angel-hair-incide
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Angel hair (folklore)  
-   Link: [https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29](https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Angel_hair_%28folklore%29</a>  
 
 2. <a id="endnote-2"></a>
    Source: encyclopedia.com  
    Title: angels hair  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angels-hair](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angels-hair)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angels-hair" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angels-hair</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Angel&#x27;s HairIn the 1950s angel hair became associated with UFOs. A famous case occurred in France in 1952 during which a local high schoo...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Ballooning (spider)  
-   Link: [https://en.wikipedia.org/wiki/Ballooning_%28spider%29](https://en.wikipedia.org/wiki/Ballooning_%28spider%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ballooning_%28spider%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ballooning_%28spider%29</a>  
 
 4. <a id="endnote-4"></a>
    Source: area51aliencenter.net  
-   Link: [https://area51aliencenter.net/historical-events/angel-hair-ufos-in-1952-france/](https://area51aliencenter.net/historical-events/angel-hair-ufos-in-1952-france/)  
+   Link: <a href="https://area51aliencenter.net/historical-events/angel-hair-ufos-in-1952-france/" target="_blank" rel="noopener noreferrer nofollow">https://area51aliencenter.net/historical-events/angel-hair-ufos-in-1952-france/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Angel Hair UFO&#x27;s in 1952 France | Area 51 Alien CenterAugust 16, 2022 — in Historical Events ANGEL HAIR UFOS IN 1952 FRANCE by Area 51 Al...</p></details>
    Published: August 16, 2022  
 
 5. <a id="endnote-5"></a>
    Source: xparanormality.com  
    Title: Angel Hair Phenomenon  
-   Link: [https://www.xparanormality.com/2012/01/angel-hair-phenomenon.html](https://www.xparanormality.com/2012/01/angel-hair-phenomenon.html)  
+   Link: <a href="https://www.xparanormality.com/2012/01/angel-hair-phenomenon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.xparanormality.com/2012/01/angel-hair-phenomenon.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>on January 11, 2012 Angel hair or siliceous cotton is a substance said to be dispersed from UFOs as they fly overhead. It is made up of s...</p></details>
    Published: January 11, 2012  
 
 6. <a id="endnote-6"></a>
    Source: science.howstuffworks.com  
    Title: angel hair phenomenon  
-   Link: [https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/angel-hair-phenomenon.htm](https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/angel-hair-phenomenon.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| HowStuffWorksWHAT IS THE ANGEL HAIR PHENOMENON? By: Kate Kershner * * * * * Image: cobweb &quot;Image: cobweb&quot; No scientist has been able to...</p></details>
+   Link: <a href="https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/angel-hair-phenomenon.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/science-vs-myth/unexplained-phenomena/angel-hair-phenomenon.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>HowStuffWorksWHAT IS THE ANGEL HAIR PHENOMENON? By: Kate Kershner * * * * * Image: cobweb &quot;Image: cobweb&quot; No scientist has been able to...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: mysteriousworld.fandom.com  
    Title: Angel hair  
-   Link: [https://mysteriousworld.fandom.com/wiki/Angel_hair](https://mysteriousworld.fandom.com/wiki/Angel_hair)  
+   Link: <a href="https://mysteriousworld.fandom.com/wiki/Angel_hair" target="_blank" rel="noopener noreferrer nofollow">https://mysteriousworld.fandom.com/wiki/Angel_hair</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>hair | Mysterious world Wiki | FandomANGEL HAIR Sign In to Save Save Edit * History * Purge * Talk (0) iframe Angel hair or &quot;siliceous co...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RoyalSocBio/posts/spiders-have-been-detected-by-atmospheric-data-balloons-at-heights-of-nearly-5km/3648817295146038/](https://www.facebook.com/RoyalSocBio/posts/spiders-have-been-detected-by-atmospheric-data-balloons-at-heights-of-nearly-5km/3648817295146038/)  
+   Link: <a href="https://www.facebook.com/RoyalSocBio/posts/spiders-have-been-detected-by-atmospheric-data-balloons-at-heights-of-nearly-5km/3648817295146038/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoyalSocBio/posts/spiders-have-been-detected-by-atmospheric-data-balloons-at-heights-of-nearly-5km/3648817295146038/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spiders have been detected by atmospheric data balloons...Ballooning is a mode of aerial dispersal often seen in spiderlings, that invol...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nationalgeographic.com  
    Title: Spider 'Ballooning' Flight With Silk Caught on Video | National Geographic  
-   Link: [https://www.nationalgeographic.com/animals/article/spider-silk-ballooning-flying-animals-spd](https://www.nationalgeographic.com/animals/article/spider-silk-ballooning-flying-animals-spd)  
+   Link: <a href="https://www.nationalgeographic.com/animals/article/spider-silk-ballooning-flying-animals-spd" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/animals/article/spider-silk-ballooning-flying-animals-spd</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 9, 2018 — 01:07 Spiders Spin Balloons to Fly Away * VIDEO SEE HOW SPIDERS &#x27;FLY&#x27; AROUND THE WORLD ON THEIR SILK By releasing a silky...</p></details>
    Published: April 9, 2018  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GRrUxi6d7so](https://www.youtube.com/watch?v=GRrUxi6d7so)  
+   Link: <a href="https://www.youtube.com/watch?v=GRrUxi6d7so" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GRrUxi6d7so</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Electric fields elicit ballooning in spidersSpiders can balloon using electrostatic forces alone but in all likelihood they would use a c...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ufoexplorations.com  
    Title: They were supposedly seen to "shed off" of objects seen in the sky like  
-   Link: [https://www.ufoexplorations.com/ufo-fads-what-happened-to-crop-circles-cattle-mutilations-alien-abductions-angel-hair](https://www.ufoexplorations.com/ufo-fads-what-happened-to-crop-circles-cattle-mutilations-alien-abductions-angel-hair)  
+   Link: <a href="https://www.ufoexplorations.com/ufo-fads-what-happened-to-crop-circles-cattle-mutilations-alien-abductions-angel-hair" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoexplorations.com/ufo-fads-what-happened-to-crop-circles-cattle-mutilations-alien-abductions-angel-hair</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Explorations | UFO Fads: Whatever Happened To Crop Circles, Cattle Mutilations, Alien Abductions and Angel Hair?&quot;ANGEL HAIR&quot; HOOPLA &quot;...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: english.pravda.ru  
    Title: ru Mysterious angel hair phenomenon often reported after UFO sightings  
-   Link: [https://english.pravda.ru/science/92473-angel_hair/](https://english.pravda.ru/science/92473-angel_hair/)  
+   Link: <a href="https://english.pravda.ru/science/92473-angel_hair/" target="_blank" rel="noopener noreferrer nofollow">https://english.pravda.ru/science/92473-angel_hair/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>angel hair phenomenon often reported after UFO sightingsMay 30, 2007 — Dmitry Sudakov 30.05.2007 08:09 MYSTERIOUS ANGEL HAIR PHENOMENON O...</p></details>
    Published: May 30, 2007  
 
 13. <a id="endnote-13"></a>
    Source: tall-white-aliens.com  
    Title: It was the strangest sight to ever grace the sky over Oloron, France  
-   Link: [https://www.tall-white-aliens.com/angel-hair-ufos-in-oloron-france/](https://www.tall-white-aliens.com/angel-hair-ufos-in-oloron-france/)  
+   Link: <a href="https://www.tall-white-aliens.com/angel-hair-ufos-in-oloron-france/" target="_blank" rel="noopener noreferrer nofollow">https://www.tall-white-aliens.com/angel-hair-ufos-in-oloron-france/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In the early afternoon of October 17, 1952, according to one of the many witnesses, high school superintendent Jean-Yves Prigent, there a...</p></details>
    Published: October 17, 1952  
 
 14. <a id="endnote-14"></a>
    Source: dspace.mit.edu  
-   Link: [https://dspace.mit.edu/bitstream/handle/1721.1/125314/Spider_Review__Springer_journals_.pdf?isAllowed=y&sequence=2](https://dspace.mit.edu/bitstream/handle/1721.1/125314/Spider_Review__Springer_journals_.pdf?isAllowed=y&sequence=2)  
+   Link: <a href="https://dspace.mit.edu/bitstream/handle/1721.1/125314/Spider_Review__Springer_journals_.pdf?isAllowed=y&amp;sequence=2" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/bitstream/handle/1721.1/125314/Spider_Review__Springer_journals_.pdf?isAllowed=y&amp;sequence=2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Physics of Spider Ballooningby KS Sheldon · 2017 · Cited by 31 — One such mechanism that can be observed in spiders (Araneae), is a t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: occult-world.com  
-   Link: [https://occult-world.com/angel-hair/](https://occult-world.com/angel-hair/)  
+   Link: <a href="https://occult-world.com/angel-hair/" target="_blank" rel="noopener noreferrer nofollow">https://occult-world.com/angel-hair/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This phenomenon is often, but not always, associated with UFOs. Angel hair is...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
    Title: "Angel hair" is a phenomenon barely talked about  
-   Link: [https://www.reddit.com/r/ufo/comments/q839es/angel_hair_is_a_phenomenon_barely_talked_about/](https://www.reddit.com/r/ufo/comments/q839es/angel_hair_is_a_phenomenon_barely_talked_about/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/q839es/angel_hair_is_a_phenomenon_barely_talked_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/q839es/angel_hair_is_a_phenomenon_barely_talked_about/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What do...For those who don&#x27;t know, there&#x27;s a strange phenomenon generally associated with UFO sightings where a strange substance resem...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/264153635/An-Analysis-of-AngeL-Hair](https://www.scribd.com/document/264153635/An-Analysis-of-AngeL-Hair)  
+   Link: <a href="https://www.scribd.com/document/264153635/An-Analysis-of-AngeL-Hair" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/264153635/An-Analysis-of-AngeL-Hair</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>h early assessments correlated some samples with spider webs...Read more...</p></details>

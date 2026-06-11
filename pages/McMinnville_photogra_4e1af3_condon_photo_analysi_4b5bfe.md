@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /mc-minnville-photographs-1950/
 nav_short_title: Condon Report
 title: Why the Official Study Did Not Settle It
-title_full: Why the Official Study Did Not Settle It | Mc Minnville Photos
+title_full: Why the Official Study Did Not Settle It
 display_title_short: Condon Report
 display_title: Condon Report
 heading_title: Why the Official Study Did Not Settle It
@@ -233,7 +233,7 @@ next_link:
   permalink: /hoax-theory/
   short_title: Hoax Theory
   heading_title: Could It Have Been a Hanging Model?
-date: '2026-06-08 23:30:57 '
+date: '2026-06-11 13:18:47 '
 header:
   og_image: /assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-1-social.jpg
   preview_image: /assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Il
 ## Introduction
 
 The McMinnville photographs received unusually serious treatment in the Air Force-funded Condon Report, the University of Colorado study that became the most influential official UFO review of the 1960s. Astronomer William K. Hartmann did not dismiss the pictures as obvious fakery. Instead, after examining the recovered negatives and interviewing Paul and Evelyn Trent, he concluded that the photographs were consistent with a real, apparently metallic object at some distance from the camera. At the same time, Hartmann stopped short of declaring the case solved. His own report acknowledged a loophole that later sceptics would focus on relentlessly: the possibility that the object was a small model suspended from overhead wires. The importance of the Condon analysis lies precisely in that tension. It elevated the McMinnville photographs above most UFO imagery of the era, yet it also left enough uncertainty for later critics to argue that the official study had never truly eliminated a staged hoax. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">There was no noise</span><span class="citation-popover-snippet">NCAS FilesCondon Report, Photographic Case Studies: Cases 46 - 59The rather bright, aluminum-like, but not specular, reflecting surface a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mc Minnville UFO photographs</span><span class="citation-popover-snippet">Mc Minnville UFO photographs</span></span></span>
-
 
 <img src="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-1-dark.svg" | relative_url }}" alt="Condon Report illustration 1" data-theme-src-dark="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Hartmann thought the photos showed
@@ -255,7 +254,6 @@ His conclusion became one of the most quoted passages in UFO history. Hartmann w
 Hartmann was also influenced by the Trents themselves. He reported finding them sincere and noted that they had not attempted to profit from the photographs. Supporters of the case later used this point heavily, arguing that the Trents did not behave like publicity seekers or professional hoaxers. Hartmann’s account therefore blended technical analysis with witness assessment rather than relying solely on photographic measurements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fr.wikipedia.org/wiki/Photographies_de_McMinnville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Photographies de Mc Minnville</span><span class="citation-popover-snippet">Photographies de Mc Minnville</span></span></span>
 
 Yet even in the original report, the endorsement was more cautious than later UFO literature sometimes implied. Hartmann did not claim proof of extraterrestrial craft, and he repeatedly framed his conclusions as interpretations consistent with the available evidence rather than definitive demonstrations. The report’s language sounds stronger when quoted in isolation than when read alongside its reservations.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M8gUCGLjea4" title="UFO confirmed!? The McMinnville Mystery | Photographiliac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M8gUCGLjea4" target="_blank" rel="noopener noreferrer">UFO confirmed!? The McMinnville Mystery | Photographiliac</a></p><p class="youtube-embed-meta">Channel: OGbsmitty &middot; Views: 242 &middot; Uploaded: March 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M8gUCGLjea4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M8gUCGLjea4">Open on YouTube</a></p></div></div></div>
 
@@ -269,8 +267,7 @@ That conclusion had major implications. If the object really was distant, then a
 
 Later defenders of the photographs, especially optical physicist Bruce Maccabee, expanded on this line of argument. Maccabee used densitometric measurements from the negatives to argue that the object’s reflectivity and lighting did not behave like a tiny nearby model. In pro-UFO interpretations, Hartmann’s work became the foundation for claiming that the photographs had survived serious scientific scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mc Minnville UFO photographs</span><span class="citation-popover-snippet">Mc Minnville UFO photographs</span></span></span>
 
-The problem was that the photometric argument depended heavily on assumptions about lighting conditions, surface reflectivity, film response, and object geometry. The photographs were taken under overcast skies with limited reference information. No independent measurements existed for the object itself because its true nature was unknown. Critics later argued that these uncertainties weakened the confidence that could reasonably be placed in Hartmann’s distant-object interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">IpacoThe McMinnville pictures - IPACO.frAt the end of this simple geometric and radiometric analysis, we conclude that the hypothesis of...</span></span></span>
-
+The problem was that the photometric argument depended heavily on assumptions about lighting conditions, surface reflectivity, film response, and object geometry. The photographs were taken under overcast skies with limited reference information. No independent measurements existed for the object itself because its true nature was unknown. Critics later argued that these uncertainties weakened the confidence that could reasonably be placed in Hartmann’s distant-object interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">The McMinnville pictures - IPACO.frAt the end of this simple geometric and radiometric analysis, we conclude that the hypothesis of...</span></span></span>
 
 <img src="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-2-dark.svg" | relative_url }}" alt="Condon Report illustration 2" data-theme-src-dark="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The unresolved wire-suspension loophole
@@ -281,13 +278,11 @@ This mattered because the object remained in nearly the same relative position b
 
 That unresolved opening became the centre of later sceptical work. Philip J. Klass argued that the photographs were probably a hoax involving a small suspended object, perhaps a side-view mirror or similar metallic item. Robert Sheaffer later pushed the same interpretation and also highlighted inconsistencies in witness retellings over the decades. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Fotograf%C3%ADas_de_ovnis_de_McMinnville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fotografías de ovnis de Mc Minnville</span><span class="citation-popover-snippet">Fotografías de ovnis de Mc Minnville</span></span></span>
 
-The modern version of the sceptical argument became more technically elaborate in 2013, when researchers associated with the IPACO image-analysis project published studies claiming the geometry matched a small model hanging from a thread attached to the overhead lines. They also argued that digital enhancement revealed evidence of a suspension thread above the object. Their conclusion was direct: the McMinnville UFO was most likely a hanging model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">IpacoThe McMinnville pictures - IPACO.frAt the end of this simple geometric and radiometric analysis, we conclude that the hypothesis of...</span></span></span>
+The modern version of the sceptical argument became more technically elaborate in 2013, when researchers associated with the IPACO image-analysis project published studies claiming the geometry matched a small model hanging from a thread attached to the overhead lines. They also argued that digital enhancement revealed evidence of a suspension thread above the object. Their conclusion was direct: the McMinnville UFO was most likely a hanging model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">The McMinnville pictures - IPACO.frAt the end of this simple geometric and radiometric analysis, we conclude that the hypothesis of...</span></span></span>
 
 Importantly, this later sceptical work did not prove Hartmann incompetent or dishonest. Instead, it highlighted the limits of what his methods could establish in the late 1960s. Hartmann had access to original negatives and carried out serious analysis, but he lacked modern digital enhancement tools and could not definitively exclude all small-model scenarios. The official study therefore narrowed the debate rather than ending it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eQLD1oOXXt8" title="Oregon History 101—“The 1960s Came to Oregon… and Never Left”" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eQLD1oOXXt8" target="_blank" rel="noopener noreferrer">Oregon History 101—“The 1960s Came to Oregon… and Never Left”</a></p><p class="youtube-embed-meta">Channel: Oregon Historical Society &middot; Views: 1.2K &middot; Uploaded: August 2015 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eQLD1oOXXt8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eQLD1oOXXt8">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TuW4oGKzVKc" title="John F. Kennedy Moon Speech (1962)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TuW4oGKzVKc" target="_blank" rel="noopener noreferrer">John F. Kennedy Moon Speech (1962)</a></p><p class="youtube-embed-meta">Channel: AIRBOYD &middot; Views: 750.7K &middot; Uploaded: July 2009 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TuW4oGKzVKc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TuW4oGKzVKc">Open on YouTube</a></p></div></div></div>
 
@@ -297,52 +292,93 @@ The enduring importance of the Condon analysis is that it simultaneously strengt
 
 On the other hand, the report stopped well short of excluding deception. The central weakness was not photographic tampering after the fact but the possibility of a staged physical object placed in front of the camera before exposure. That distinction is crucial. Hartmann’s work addressed whether the negatives had been altered and whether the lighting looked natural, but those findings alone could not disprove a carefully positioned model. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Fotograf%C3%ADas_de_ovnis_de_McMinnville" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fotografías de ovnis de Mc Minnville</span><span class="citation-popover-snippet">Fotografías de ovnis de Mc Minnville</span></span></span>
 
-The case also demonstrates a broader problem in photographic UFO evidence. A technically authentic photograph is not automatically proof of an extraordinary craft. Cameras faithfully record ordinary objects too. The real dispute in McMinnville has always been object identity and scale, not whether the film itself was genuine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/56070714e4b0aebb8cbe1121/t/5a497c97f9619ae3bb6a8d47/1514765520468/Alien%2BImages%2BBefuddled%2BPress.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-snippet">SquarespaceAlien Images: UFOs, Photography, and BeliefThe Robertson Panel, and later the Condon Report, examined a wide range of cases pr...</span></span></span>
+The case also demonstrates a broader problem in photographic UFO evidence. A technically authentic photograph is not automatically proof of an extraordinary craft. Cameras faithfully record ordinary objects too. The real dispute in McMinnville has always been object identity and scale, not whether the film itself was genuine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/56070714e4b0aebb8cbe1121/t/5a497c97f9619ae3bb6a8d47/1514765520468/Alien%2BImages%2BBefuddled%2BPress.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-snippet">Alien Images: UFOs, Photography, and BeliefThe Robertson Panel, and later the Condon Report, examined a wide range of cases pr...</span></span></span>
 
 That is why the photographs remain historically important despite decades of argument. The Condon Report elevated them into one of the strongest officially examined UFO image cases of the twentieth century, but the report’s own unresolved loophole allowed later sceptics to keep the hoax hypothesis alive. The result is not a clean victory for either side. Instead, the McMinnville photographs became a textbook example of how even serious technical analysis can narrow uncertainty without eliminating it.
-
 
 <img src="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-3-dark.svg" | relative_url }}" alt="Condon Report illustration 3" data-theme-src-dark="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/McMinnville_photogra_4e1af3_condon_photo_analysi_4b5bfe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why the Official Study Did Not Settle It, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why the Official Study Did Not Settle It. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Mc Minnville photographs guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Mc+Minnville+photographs+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Contains direct summaries of the investigative records and the early analysis of the McMinnville negatives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Condon Report guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Condon+Report+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides an objective, encyclopedic profile of the investigation, detailing why military analysts eventually reclassified the findings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Mc Minnville photographs books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Mc+Minnville+photographs+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches investigative standards to differentiate verified photographic analysis from speculative investigative rumors.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Reviews how early investigative bureaus managed intelligence data and scientific review processes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -379,15 +415,15 @@ That is why the photographs remain historically important despite decades of arg
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Vehicle Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/515424d9b9f1d48ff309.jpg' | relative_url }}" alt="Listing image for UFO (TV) Vehicle Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Vehicle Scene 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -395,15 +431,15 @@ That is why the photographs remain historically important despite decades of arg
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/bd6934eaba82fb5a9f41.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -411,15 +447,15 @@ That is why the photographs remain historically important despite decades of arg
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -427,15 +463,15 @@ That is why the photographs remain historically important despite decades of arg
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Antonia Ellis 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/2847c8ac5f521e77be42.jpg' | relative_url }}" alt="Listing image for UFO (TV) Antonia Ellis 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Antonia Ellis 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -443,7 +479,7 @@ That is why the photographs remain historically important despite decades of arg
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="condon-report-2a4d06-why-the-official-study-did-not-settle-it-mc-minnville-photographs-1950-ufo-photo-print-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -659,95 +695,95 @@ That is why the photographs remain historically important despite decades of arg
 1. <a id="endnote-1"></a>
    Source: files.ncas.org  
    Title: There was no noise  
-   Link: [https://files.ncas.org/condon/text/case46.htm](https://files.ncas.org/condon/text/case46.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case46.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCAS FilesCondon Report, Photographic Case Studies: Cases 46 - 59The rather bright, aluminum-like, but not specular, reflecting surface a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Mc Minnville UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/McMinnville_UFO_photographs](https://en.wikipedia.org/wiki/McMinnville_UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/McMinnville_UFO_photographs</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Photographies de Mc Minnville  
-   Link: [https://fr.wikipedia.org/wiki/Photographies_de_McMinnville](https://fr.wikipedia.org/wiki/Photographies_de_McMinnville)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Photographies_de_McMinnville" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Photographies_de_McMinnville</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Fotografías de ovnis de Mc Minnville  
-   Link: [https://es.wikipedia.org/wiki/Fotograf%C3%ADas_de_ovnis_de_McMinnville](https://es.wikipedia.org/wiki/Fotograf%C3%ADas_de_ovnis_de_McMinnville)  
+   Link: <a href="https://es.wikipedia.org/wiki/Fotograf%C3%ADas_de_ovnis_de_McMinnville" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Fotograf%C3%ADas_de_ovnis_de_McMinnville</a>  
 
 5. <a id="endnote-5"></a>
    Source: ipaco.fr  
    Title: The Mc Minnville pictures  
-   Link: [https://www.ipaco.fr/ReportMcMinnville.pdf](https://www.ipaco.fr/ReportMcMinnville.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IpacoThe McMinnville pictures - IPACO.frAt the end of this simple geometric and radiometric analysis, we conclude that the hypothesis of...</p></details>
+   Link: <a href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ipaco.fr/ReportMcMinnville.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The McMinnville pictures - IPACO.frAt the end of this simple geometric and radiometric analysis, we conclude that the hypothesis of...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: static1.squarespace.com  
-   Link: [https://static1.squarespace.com/static/56070714e4b0aebb8cbe1121/t/5a497c97f9619ae3bb6a8d47/1514765520468/Alien%2BImages%2BBefuddled%2BPress.pdf](https://static1.squarespace.com/static/56070714e4b0aebb8cbe1121/t/5a497c97f9619ae3bb6a8d47/1514765520468/Alien%2BImages%2BBefuddled%2BPress.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SquarespaceAlien Images: UFOs, Photography, and BeliefThe Robertson Panel, and later the Condon Report, examined a wide range of cases pr...</p></details>
+   Link: <a href="https://static1.squarespace.com/static/56070714e4b0aebb8cbe1121/t/5a497c97f9619ae3bb6a8d47/1514765520468/Alien%2BImages%2BBefuddled%2BPress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/56070714e4b0aebb8cbe1121/t/5a497c97f9619ae3bb6a8d47/1514765520468/Alien%2BImages%2BBefuddled%2BPress.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Images: UFOs, Photography, and BeliefThe Robertson Panel, and later the Condon Report, examined a wide range of cases pr...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: psionicresearch.com  
-   Link: [https://psionicresearch.com/articles/mcminnville.html](https://psionicresearch.com/articles/mcminnville.html)  
+   Link: <a href="https://psionicresearch.com/articles/mcminnville.html" target="_blank" rel="noopener noreferrer nofollow">https://psionicresearch.com/articles/mcminnville.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psionic ResearchThe McMinnville Photographs: America&#x27;s Most Credible UFO...Photogrammetric analyst William Hartmann, working for the com...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HotelOregon/posts/have-you-ever-wondered-why-were-just-slightly-completely-obsessed-with-aliens-he/798642695636391/](https://www.facebook.com/HotelOregon/posts/have-you-ever-wondered-why-were-just-slightly-completely-obsessed-with-aliens-he/798642695636391/)  
+   Link: <a href="https://www.facebook.com/HotelOregon/posts/have-you-ever-wondered-why-were-just-slightly-completely-obsessed-with-aliens-he/798642695636391/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HotelOregon/posts/have-you-ever-wondered-why-were-just-slightly-completely-obsessed-with-aliens-he/798642695636391/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>McMenamins Hotel Oregon&#x27;s postWhen Sheaffer sent his research and conclusions to William Hartmann, an investigator for the Condon Committ...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: medium.com  
-   Link: [https://medium.com/on-the-trail-of-the-saucers/the-classic-mcminnville-ufo-photos-are-70-years-old-5af8c5cf3b11](https://medium.com/on-the-trail-of-the-saucers/the-classic-mcminnville-ufo-photos-are-70-years-old-5af8c5cf3b11)  
+   Link: <a href="https://medium.com/on-the-trail-of-the-saucers/the-classic-mcminnville-ufo-photos-are-70-years-old-5af8c5cf3b11" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/on-the-trail-of-the-saucers/the-classic-mcminnville-ufo-photos-are-70-years-old-5af8c5cf3b11</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville UFO Photos Still Mystify | Point of ContactMaccabee argued that the brightness of the object&#x27;s underside suggested it was at...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer The Trent UFO Photos—'Best' of All Time—Finally Busted?On  
-   Link: [https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/](https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/)  
+   Link: <a href="https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Trent UFO Photos—&#x27;Best&#x27; of All Time—Finally Busted?On May 11, 1950, farmer Paul Trent of McMinnville, Oregon, snapped two photos of a...</p></details>
    Published: May 11, 1950  
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=M8gUCGLjea4](https://www.youtube.com/watch?v=M8gUCGLjea4)  
+   Link: <a href="https://www.youtube.com/watch?v=M8gUCGLjea4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M8gUCGLjea4</a>  
 
 12. <a id="endnote-12"></a>
    Source: material-civet.files.svdcdn.com  
    Title: Wildlife Crossings providing safe passage for urban wildlife 08012009  
-   Link: [https://material-civet.files.svdcdn.com/production/images/documents/Wildlife-Crossings-providing-safe-passage-for-urban-wildlife-08012009.pdf?dm=1625070785](https://material-civet.files.svdcdn.com/production/images/documents/Wildlife-Crossings-providing-safe-passage-for-urban-wildlife-08012009.pdf?dm=1625070785)  
+   Link: <a href="https://material-civet.files.svdcdn.com/production/images/documents/Wildlife-Crossings-providing-safe-passage-for-urban-wildlife-08012009.pdf?dm=1625070785" target="_blank" rel="noopener noreferrer nofollow">https://material-civet.files.svdcdn.com/production/images/documents/Wildlife-Crossings-providing-safe-passage-for-urban-wildlife-08012009.pdf?dm=1625070785</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CrossingsThis guidebook, Achieving Landscape Permeability in an. Urban Environment: Wildlife Crossings, providing safe passage for urban...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/811161717777571/posts/1083617330532007/](https://www.facebook.com/groups/811161717777571/posts/1083617330532007/)  
+   Link: <a href="https://www.facebook.com/groups/811161717777571/posts/1083617330532007/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/811161717777571/posts/1083617330532007/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 3, 1965 Location: Santa Ana, California, United States Rex Heflin, an Orange County...Read more...</p></details>
    Published: August 3, 1965  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: maybe my all time favorite flying saucer photos  
-   Link: [https://www.facebook.com/art.chantry/posts/maybe-my-all-time-favorite-flying-saucer-photos/10162151390263873/](https://www.facebook.com/art.chantry/posts/maybe-my-all-time-favorite-flying-saucer-photos/10162151390263873/)  
+   Link: <a href="https://www.facebook.com/art.chantry/posts/maybe-my-all-time-favorite-flying-saucer-photos/10162151390263873/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/art.chantry/posts/maybe-my-all-time-favorite-flying-saucer-photos/10162151390263873/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>maybe my all-time favorite flying saucer photos.In 2013, three researchers posted two studies to their Web site titled &quot;Back to McMinnvil...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: hauntedauckland.com  
    Title: Paranormal New Zealand The Trent Farm Photos  
-   Link: [https://hauntedauckland.com/site/trent-farm-photos-analysis/](https://hauntedauckland.com/site/trent-farm-photos-analysis/)  
+   Link: <a href="https://hauntedauckland.com/site/trent-farm-photos-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://hauntedauckland.com/site/trent-farm-photos-analysis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Trent Farm Photos - Analysis12 Jan 2014 — When the effects of veiling glare and the ratio of brightness of vertical and horizontal su...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: newyorker.com  
    Title: the enticing mysteries of ufo photography  
-   Link: [https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography](https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography)  
+   Link: <a href="https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/photo-booth/the-enticing-mysteries-of-ufo-photography</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New YorkerThe Enticing Mysteries of U.F.O. Photography3 Aug 2023 — The resulting images might be the most extensively analyzed U.F.O...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: academia.edu  
    Title: THE YEAR 1954 IN PHOTOS Expanded  
-   Link: [https://www.academia.edu/43961635/THE_YEAR_1954_IN_PHOTOS_Expanded_](https://www.academia.edu/43961635/THE_YEAR_1954_IN_PHOTOS_Expanded_)  
+   Link: <a href="https://www.academia.edu/43961635/THE_YEAR_1954_IN_PHOTOS_Expanded_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43961635/THE_YEAR_1954_IN_PHOTOS_Expanded_</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE YEAR 1954 IN PHOTOS (Expanded)Originally published 2008, this monograph remains to be the most complete reservoir of photographic rec...</p></details>

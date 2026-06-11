@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Levelland UFO
   permalink: /levelland-texas-incident-1957/
   short_title: Levelland UFO
-date: '2026-06-08 23:40:07 '
+date: '2026-06-11 13:23:15 '
 header:
   og_image: /assets/images/Larson_abduction_nea_e9683a-overview-social.jpg
   preview_image: /assets/images/Larson_abduction_nea_e9683a-overview.webp
@@ -758,11 +758,10 @@ image: /assets/images/Larson_abduction_nea_e9683a-overview-social.jpg
 
 ## What reportedly happened on I-94
 
-Most accounts place the incident in the early morning of 26 August 1975, with the trio travelling from Fargo to Bismarck so Sandy Larson could take a real estate examination. Prairie Public’s later Dakota Datebook account states that the journey was normal until about 4 a.m., roughly 45 miles west of Fargo, when the witnesses reported a flash, a rumbling sound, and eight to ten glowing objects in the sky, one larger than the rest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Lights in the Sky | Prairie Public</span><span class="citation-popover-snippet">Prairie Public Lights in the Sky | Prairie Public</span></span></span>
-
+Most accounts place the incident in the early morning of 26 August 1975, with the trio travelling from Fargo to Bismarck so Sandy Larson could take a real estate examination. Prairie Public’s later Dakota Datebook account states that the journey was normal until about 4 a.m., roughly 45 miles west of Fargo, when the witnesses reported a flash, a rumbling sound, and eight to ten glowing objects in the sky, one larger than the rest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Lights in the Sky &#124; Prairie Public</span><span class="citation-popover-snippet">Prairie Public Lights in the Sky &#124; Prairie Public</span></span></span>
 
 <img src="{{ "/assets/images/Larson_abduction_nea_e9683a-overview.webp" | relative_url }}" alt="Overview image for Larson abduction near Fargo 1975" loading="eager" decoding="sync" fetchpriority="high">
-The immediate conscious account is the strongest part of the narrative because it involves all three people in the vehicle, rather than only later hypnotic material. The witnesses reportedly described feeling frozen or unable to move; when the episode ended, the lights were gone, Jackie was no longer where she had been sitting, and the group believed an hour had passed. Prairie Public summarises the claimed “missing time” and the changed seating arrangement, while the Minot Daily News similarly reports that the witnesses found themselves seated differently and with no conscious memory of how that had happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Lights in the Sky | Prairie Public</span><span class="citation-popover-snippet">Prairie Public Lights in the Sky | Prairie Public</span></span></span>
+The immediate conscious account is the strongest part of the narrative because it involves all three people in the vehicle, rather than only later hypnotic material. The witnesses reportedly described feeling frozen or unable to move; when the episode ended, the lights were gone, Jackie was no longer where she had been sitting, and the group believed an hour had passed. Prairie Public summarises the claimed “missing time” and the changed seating arrangement, while the Minot Daily News similarly reports that the witnesses found themselves seated differently and with no conscious memory of how that had happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Lights in the Sky &#124; Prairie Public</span><span class="citation-popover-snippet">Prairie Public Lights in the Sky &#124; Prairie Public</span></span></span>
 
 The details vary slightly across retellings. Some accounts emphasise glowing orange objects, smoke-like effects and a formation moving across the sky; others compress the episode into a local-history anecdote. That variation is not unusual in UFO folklore, but it matters for evidence assessment: the more a case depends on later summaries rather than preserved, signed, contemporaneous statements, the harder it is to separate what the witnesses initially reported from what later writers selected, dramatised, or simplified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mysterioustimes.co.uk/2024/08/01/august-1st-today-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mysterioustimes.co.uk">[Mysterious Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mysterioustimes.co.uk</span><span class="citation-popover-title">Mysterious Times August – Today in UFO history</span><span class="citation-popover-snippet">Mysterious Times August – Today in UFO history</span></span></span>
 
@@ -772,8 +771,7 @@ The most elaborate parts of the Larson case come from [hypnosis]({{ 'hypnosis-dc
 
 In the hypnotically recovered account, Sandy Larson described a medical-style examination: a clear liquid applied to her body, probing procedures, and a metal tool used to scrape inside her nostril. The imagery that made the case memorable was the alleged entity description: beings “like mummies”, with bulging eyes and arms compared to segmented metal rods or a Meccano-like construction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">the sandra larson incident</span></span></span>
 
-Prairie Public’s account says Sandy and Jackie went to the University of Wyoming about a year later, where both underwent hypnosis, and that Sandy recalled being floated into the UFO while Terry was also taken and examined. It also notes that Terry confirmed the incident but did not want further involvement. That last point is important: O’Leary’s reported reluctance limits the public record, because a fully documented case would ideally include independent, detailed statements from each witness, taken before hypnotic sessions and before sustained publicity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Lights in the Sky | Prairie Public</span><span class="citation-popover-snippet">Prairie Public Lights in the Sky | Prairie Public</span></span></span>
-
+Prairie Public’s account says Sandy and Jackie went to the University of Wyoming about a year later, where both underwent hypnosis, and that Sandy recalled being floated into the UFO while Terry was also taken and examined. It also notes that Terry confirmed the incident but did not want further involvement. That last point is important: O’Leary’s reported reluctance limits the public record, because a fully documented case would ideally include independent, detailed statements from each witness, taken before hypnotic sessions and before sustained publicity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Lights in the Sky &#124; Prairie Public</span><span class="citation-popover-snippet">Prairie Public Lights in the Sky &#124; Prairie Public</span></span></span>
 
 <img src="{{ "/assets/images/Larson_abduction_nea_e9683a-Illustration-1-dark.svg" | relative_url }}" alt="Larson abduction near Fargo 1975 illustration 1" data-theme-src-dark="{{ "/assets/images/Larson_abduction_nea_e9683a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Larson_abduction_nea_e9683a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The evidence is vivid, but thin
@@ -783,7 +781,6 @@ The Larson case has three main evidence categories: multiple-witness sighting te
 There is no strong public record of physical trace evidence comparable to a verified medical finding, instrument record, radar track, police report, official investigation file, or independently preserved material sample. Public retellings mention effects such as paralysis, time loss and medical examination, but the accessible accounts do not provide a chain of custody, clinical documentation, or laboratory testing that would allow the abduction claim to be checked independently. The Isaac Koi archive page treats the case mainly as a bibliographic and timeline entry, noting that it appears in many UFO books, rather than presenting official findings or primary physical documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19750826-larson-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19750826 larson abduction</span><span class="citation-popover-snippet">19750826 larson abduction</span></span></span>
 
 That does not mean the witnesses must have fabricated the experience. It means the public evidential record is not strong enough to establish the extraordinary interpretation. A careful reading separates sincerity from verification: the trio may have genuinely experienced fear, confusion, unusual lights, and a puzzling interval, while the later alien-abduction interpretation remains unproven.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oKquY6-NOOc" title="Fire In The Sky - The Travis Walton UFO Abduction Story 4K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oKquY6-NOOc" target="_blank" rel="noopener noreferrer">Fire In The Sky - The Travis Walton UFO Abduction Story 4K</a></p><p class="youtube-embed-meta">Channel: grimmlifecollective &middot; Views: 210.4K &middot; Uploaded: January 2025 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oKquY6-NOOc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oKquY6-NOOc">Open on YouTube</a></p></div></div></div>
 
@@ -795,7 +792,6 @@ Research on alien-abduction memories is especially relevant. A Journal of Abnorm
 
 A broader psychological account by Leonard Newman and Roy Baumeister argued that UFO abduction memories can be created and maintained through cognitive and motivational processes, including hypnotic elaboration and spurious memory formation. Again, that does not prove what happened on I-94, but it gives a plausible non-extraterrestrial mechanism for how a frightening or confusing episode could later become a detailed abduction story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0702_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-title">s15327965pli0702 1</span><span class="citation-popover-snippet">s15327965pli0702 1</span></span></span>
 
-
 <img src="{{ "/assets/images/Larson_abduction_nea_e9683a-Illustration-2-dark.svg" | relative_url }}" alt="Larson abduction near Fargo 1975 illustration 2" data-theme-src-dark="{{ "/assets/images/Larson_abduction_nea_e9683a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Larson_abduction_nea_e9683a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Official investigation and documentary standing
 
@@ -804,7 +800,6 @@ The Larson case does not appear to have benefited from the kind of formal US Air
 That timing matters. A 1975 North Dakota report would not naturally fall into the active Blue Book pipeline, and public accounts of the Larson case rely far more on UFO writers, later local histories, and hypnosis-related retellings than on official investigative documentation. The US Air Force fact sheet on Project Blue Book says the programme ran from 1947 to 1969, collected 12,618 sightings, and left 701 unidentified, but that institutional framework had already closed years before the Larson claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The case’s documentary standing is therefore uneven. It is well known within UFO literature: Isaac Koi’s archive lists it as Case 96 in his “Top 100” UFO cases by frequency of book references, with 29 book references in the survey he compiled. But frequency of retelling is not the same as evidential strength. It shows that the case became part of the UFO canon, not that it was officially validated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19750826-larson-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19750826 larson abduction</span><span class="citation-popover-snippet">19750826 larson abduction</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1G9WtN3NVNw" title="The UFO case that still divides investigators | SLICE SCIENCE | FULL DOC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1G9WtN3NVNw" target="_blank" rel="noopener noreferrer">The UFO case that still divides investigators | SLICE SCIENCE | FULL DOC</a></p><p class="youtube-embed-meta">Channel: SLICE Science &middot; Views: 37.8K &middot; Uploaded: April 2026 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1G9WtN3NVNw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1G9WtN3NVNw">Open on YouTube</a></p></div></div></div>
 
@@ -816,7 +811,6 @@ A more cautious interpretation accepts that an unusual sighting and a disturbing
 
 The sceptical interpretation gives greatest weight to the absence of corroborating physical evidence and the risks of hypnotic elaboration. High Plains Reader notes that Larson’s account has faced scrutiny, including claims of hoax, hallucination, or mental instability, and describes the case as one of North Dakota’s best-known but least believable UFO encounters. The stronger sceptical argument does not need to assert fraud: it only needs to show that the evidence does not justify the extraordinary conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">the sandra larson incident</span></span></span>
 
-
 <img src="{{ "/assets/images/Larson_abduction_nea_e9683a-Illustration-3-dark.svg" | relative_url }}" alt="Larson abduction near Fargo 1975 illustration 3" data-theme-src-dark="{{ "/assets/images/Larson_abduction_nea_e9683a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Larson_abduction_nea_e9683a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Larson case fits the wider 1970s abduction pattern
 
@@ -826,54 +820,95 @@ Within the Fargo case dossier, the Larson page is best understood as a testimony
 
 That tension is why the Larson abduction remains interesting but not conclusive. It is not merely a random local legend, because it has named witnesses, a date, a route, and a long bibliographic afterlife. But it is also not a high-confidence evidential case, because the public record lacks official confirmation, independent physical documentation, and a reliable method for validating the hypnotically recovered material.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ctNnL1fUHLs" title="12. Truth &amp; Lies with UFO Investigator Katie Paige" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ctNnL1fUHLs" target="_blank" rel="noopener noreferrer">12. Truth &amp; Lies with UFO Investigator Katie Paige</a></p><p class="youtube-embed-meta">Channel: Chinwag Podcast &middot; Views: 6.0K &middot; Uploaded: June 2023 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ctNnL1fUHLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ctNnL1fUHLs">Open on YouTube</a></p></div></div></div>
 
 ## Best current assessment
 
-The best-supported statement is modest: on 26 August 1975, Sandy Larson, Jackie Larson and Terry O’Leary reportedly experienced a frightening early-morning UFO sighting and apparent missing-time episode west of Fargo, and later hypnosis produced a dramatic abduction narrative. The case became widely cited in UFO literature and local retellings, but the public evidence does not establish that an abduction actually occurred. Isaac Koi Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Lights in the Sky | Prairie Public</span><span class="citation-popover-snippet">Prairie Public Lights in the Sky | Prairie Public</span></span></span>
+The best-supported statement is modest: on 26 August 1975, Sandy Larson, Jackie Larson and Terry O’Leary reportedly experienced a frightening early-morning UFO sighting and apparent missing-time episode west of Fargo, and later hypnosis produced a dramatic abduction narrative. The case became widely cited in UFO literature and local retellings, but the public evidence does not establish that an abduction actually occurred. Isaac Koi Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">Prairie Public Lights in the Sky &#124; Prairie Public</span><span class="citation-popover-snippet">Prairie Public Lights in the Sky &#124; Prairie Public</span></span></span>
 
 For readers comparing this case with sibling branches in the same UFO dossier, Larson is useful as a cautionary benchmark. It shows how a case can be culturally prominent while remaining evidentially fragile. The strongest material is the initial multi-witness report of lights and confusion; the weakest material is the detailed onboard narrative recovered under hypnosis. Any serious assessment should keep those layers separate rather than treating the whole story as one equally reliable block.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened on I 94?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened on I 94?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Larson abduction claim, documenting the timeline and the subsequent secondary investigations that built its reputation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+        </h4>
+        <p class="fr-book-author">By John E. Mack, Mack</p>
+        
+        <p class="fr-book-desc">Places the Larson report within the larger history of regional close-encounter sightings, analyzing the reliability of high-profile witne...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches investigative skills to identify forensic limitations when cases are primarily built on notes and subjective drawings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Documents how official intelligence bureaus index and analyze sightings that rely heavily on civilian, non-instrument-based reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -910,15 +945,15 @@ For readers comparing this case with sibling branches in the same UFO dossier, L
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;"><img src="{{ '/assets/images/marketplace-covers/2501a43cedfa1b44778d.jpg' | relative_url }}" alt="Listing image for Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -926,15 +961,15 @@ For readers comparing this case with sibling branches in the same UFO dossier, L
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Movie Photo / Poster Up To 30&quot;"><img src="{{ '/assets/images/marketplace-covers/1bc2ddce555309e018c7.jpg' | relative_url }}" alt="Listing image for Alien Abduction Movie Photo / Poster Up To 30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Movie Photo / Poster Up To 30&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -942,15 +977,15 @@ For readers comparing this case with sibling branches in the same UFO dossier, L
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bcdcd82feb52eda5f467.jpg' | relative_url }}" alt="Listing image for Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -958,15 +993,15 @@ For readers comparing this case with sibling branches in the same UFO dossier, L
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor"><img src="{{ '/assets/images/marketplace-covers/8a69c01cfb4e71ca93d8.jpg' | relative_url }}" alt="Listing image for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -974,7 +1009,7 @@ For readers comparing this case with sibling branches in the same UFO dossier, L
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="larson-abduction-near-fargo-1975-what-really-happened-on-i-94-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1190,160 +1225,160 @@ For readers comparing this case with sibling branches in the same UFO dossier, L
 1. <a id="endnote-1"></a>
    Source: hpr1.com  
    Title: the sandra larson incident  
-   Link: [https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident](https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident)  
+   Link: <a href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow">https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 3. <a id="endnote-3"></a>
    Source: dn721804.ca.archive.org  
    Title: Bad UFOs_ Critical Thinking About UFO Claims  
-   Link: [https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf](https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf)  
+   Link: <a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 5. <a id="endnote-5"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf](https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf)  
+   Link: <a href="https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/36311975-shuessler-ufo-related-human-physiological-effects-1996/36311975-Shuessler-UFO-Related-Human-Physiological-Effects-1996_text.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: news.prairiepublic.org  
    Title: Prairie Public Lights in the Sky | Prairie Public  
-   Link: [https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky](https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky)  
+   Link: <a href="https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/show/dakota-datebook-archive/2022-06-02/lights-in-the-sky</a>  
 
 7. <a id="endnote-7"></a>
    Source: isaackoi.com  
    Title: 19750826 larson abduction  
-   Link: [https://isaackoi.com/ufo-history/ufo/19750826-larson-abduction/](https://isaackoi.com/ufo-history/ufo/19750826-larson-abduction/)  
+   Link: <a href="https://isaackoi.com/ufo-history/ufo/19750826-larson-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://isaackoi.com/ufo-history/ufo/19750826-larson-abduction/</a>  
 
 8. <a id="endnote-8"></a>
    Source: mysterioustimes.co.uk  
    Title: Mysterious Times August – Today in UFO history  
-   Link: [https://mysterioustimes.co.uk/2024/08/01/august-1st-today-in-ufo-history/](https://mysterioustimes.co.uk/2024/08/01/august-1st-today-in-ufo-history/)  
+   Link: <a href="https://mysterioustimes.co.uk/2024/08/01/august-1st-today-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://mysterioustimes.co.uk/2024/08/01/august-1st-today-in-ufo-history/</a>  
 
 9. <a id="endnote-9"></a>
    Source: apa.org  
-   Link: [https://www.apa.org/monitor/2011/01/hypnosis](https://www.apa.org/monitor/2011/01/hypnosis)  
+   Link: <a href="https://www.apa.org/monitor/2011/01/hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/monitor/2011/01/hypnosis</a>  
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/12150421/](https://pubmed.ncbi.nlm.nih.gov/12150421/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
 
 11. <a id="endnote-11"></a>
    Source: tandfonline.com  
    Title: s15327965pli0702 1  
-   Link: [https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0702_1](https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0702_1)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0702_1" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1207/s15327965pli0702_1</a>  
 
 12. <a id="endnote-12"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Alien abduction  
-   Link: [https://en.wikipedia.org/wiki/Alien_abduction](https://en.wikipedia.org/wiki/Alien_abduction)  
+   Link: <a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 15. <a id="endnote-15"></a>
    Source: isaackoi.com  
    Title: 13 the top 100 ufo cases  
-   Link: [https://isaackoi.com/ufog/best-ufo-cases/13-the-top-100-ufo-cases/](https://isaackoi.com/ufog/best-ufo-cases/13-the-top-100-ufo-cases/)  
+   Link: <a href="https://isaackoi.com/ufog/best-ufo-cases/13-the-top-100-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://isaackoi.com/ufog/best-ufo-cases/13-the-top-100-ufo-cases/</a>  
 
 16. <a id="endnote-16"></a>
    Source: theironskeptic.com  
-   Link: [https://www.theironskeptic.com/articles/larson/larson.htm](https://www.theironskeptic.com/articles/larson/larson.htm)  
+   Link: <a href="https://www.theironskeptic.com/articles/larson/larson.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.theironskeptic.com/articles/larson/larson.htm</a>  
 
 17. <a id="endnote-17"></a>
    Source: dash.harvard.edu  
    Title: alien abduction  
-   Link: [https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf](https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf)  
+   Link: <a href="https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dash.harvard.edu/bitstream/handle/1/8862147/alien_abduction.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 19. <a id="endnote-19"></a>
    Source: unconventionalindividualist.wordpress.com  
    Title: top 100 ufo cases  
-   Link: [https://unconventionalindividualist.wordpress.com/2008/01/23/top-100-ufo-cases/](https://unconventionalindividualist.wordpress.com/2008/01/23/top-100-ufo-cases/)  
+   Link: <a href="https://unconventionalindividualist.wordpress.com/2008/01/23/top-100-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://unconventionalindividualist.wordpress.com/2008/01/23/top-100-ufo-cases/</a>  
 
 20. <a id="endnote-20"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
 
 21. <a id="endnote-21"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Project Blue Book  
-   Link: [https://www.youtube.com/watch?v=_xyesq1k3Ns](https://www.youtube.com/watch?v=_xyesq1k3Ns)  
+   Link: <a href="https://www.youtube.com/watch?v=_xyesq1k3Ns" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_xyesq1k3Ns</a>  
 
 23. <a id="endnote-23"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 24. <a id="endnote-24"></a>
    Source: mysterioustimes.co.uk  
    Title: october 1st today in ufo history  
-   Link: [https://mysterioustimes.co.uk/2024/10/31/october-1st-today-in-ufo-history/](https://mysterioustimes.co.uk/2024/10/31/october-1st-today-in-ufo-history/)  
+   Link: <a href="https://mysterioustimes.co.uk/2024/10/31/october-1st-today-in-ufo-history/" target="_blank" rel="noopener noreferrer nofollow">https://mysterioustimes.co.uk/2024/10/31/october-1st-today-in-ufo-history/</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: The UFO case that still divides investigators | SLICE SCIENCE | FULL DOC  
-   Link: [https://www.youtube.com/watch?v=1G9WtN3NVNw](https://www.youtube.com/watch?v=1G9WtN3NVNw)  
+   Link: <a href="https://www.youtube.com/watch?v=1G9WtN3NVNw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1G9WtN3NVNw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fire In The Sky - The Travis Walton UFO Abduction Story 4K...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Fire In The Sky  
-   Link: [https://www.youtube.com/watch?v=oKquY6-NOOc](https://www.youtube.com/watch?v=oKquY6-NOOc)  
+   Link: <a href="https://www.youtube.com/watch?v=oKquY6-NOOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oKquY6-NOOc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misty Brew&#x27;s Creature Feature- &quot;The UFO Incident&quot; (1975) (Full Movie Episode)...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Truth & Lies with UFO Investigator Katie Paige  
-   Link: [https://www.youtube.com/watch?v=ctNnL1fUHLs](https://www.youtube.com/watch?v=ctNnL1fUHLs)  
+   Link: <a href="https://www.youtube.com/watch?v=ctNnL1fUHLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ctNnL1fUHLs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO case that still divides investigators | SLICE SCIENCE | FULL DOC...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: apmagazine.info  
-   Link: [https://apmagazine.info/index.php?id=723&option=com_content&view=article](https://apmagazine.info/index.php?id=723&option=com_content&view=article)  
+   Link: <a href="https://apmagazine.info/index.php?id=723&amp;option=com_content&amp;view=article" target="_blank" rel="noopener noreferrer nofollow">https://apmagazine.info/index.php?id=723&amp;option=com_content&amp;view=article</a>  
 
 30. <a id="endnote-30"></a>
    Source: neuroscigroup.us  
-   Link: [https://www.neuroscigroup.us/articles/APT-4-116.php](https://www.neuroscigroup.us/articles/APT-4-116.php)  
+   Link: <a href="https://www.neuroscigroup.us/articles/APT-4-116.php" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroscigroup.us/articles/APT-4-116.php</a>  
 
 31. <a id="endnote-31"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/gb/articles/200303/alien-abductions-the-real-deal](https://www.psychologytoday.com/gb/articles/200303/alien-abductions-the-real-deal)  
+   Link: <a href="https://www.psychologytoday.com/gb/articles/200303/alien-abductions-the-real-deal" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/articles/200303/alien-abductions-the-real-deal</a>  
 
 32. <a id="endnote-32"></a>
    Source: neuroscigroup.us  
-   Link: [https://www.neuroscigroup.us/articles/APT-5-137.php](https://www.neuroscigroup.us/articles/APT-5-137.php)  
+   Link: <a href="https://www.neuroscigroup.us/articles/APT-5-137.php" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroscigroup.us/articles/APT-5-137.php</a>  
 
 33. <a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/247503301_Alleged_Alien_Abductions_False_Memories_Hypnosis_and_Fantasy_Proneness](https://www.researchgate.net/publication/247503301_Alleged_Alien_Abductions_False_Memories_Hypnosis_and_Fantasy_Proneness)  
+   Link: <a href="https://www.researchgate.net/publication/247503301_Alleged_Alien_Abductions_False_Memories_Hypnosis_and_Fantasy_Proneness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247503301_Alleged_Alien_Abductions_False_Memories_Hypnosis_and_Fantasy_Proneness</a>  
 
 34. <a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/profile/Steven_Lynn3/publication/247503301_Alleged_Alien_Abductions_False_Memories_Hypnosis_and_Fantasy_Proneness/links/00b7d5389315b339e9000000/Alleged-Alien-Abductions-False-Memories-Hypnosis-and-Fantasy-Proneness.pdf](https://www.researchgate.net/profile/Steven_Lynn3/publication/247503301_Alleged_Alien_Abductions_False_Memories_Hypnosis_and_Fantasy_Proneness/links/00b7d5389315b339e9000000/Alleged-Alien-Abductions-False-Memories-Hypnosis-and-Fantasy-Proneness.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Steven_Lynn3/publication/247503301_Alleged_Alien_Abductions_False_Memories_Hypnosis_and_Fantasy_Proneness/links/00b7d5389315b339e9000000/Alleged-Alien-Abductions-False-Memories-Hypnosis-and-Fantasy-Proneness.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Steven_Lynn3/publication/247503301_Alleged_Alien_Abductions_False_Memories_Hypnosis_and_Fantasy_Proneness/links/00b7d5389315b339e9000000/Alleged-Alien-Abductions-False-Memories-Hypnosis-and-Fantasy-Proneness.pdf</a>

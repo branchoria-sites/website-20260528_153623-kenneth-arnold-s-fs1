@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /claude-vorilhon-contact-1973/
 nav_short_title: Evidence
 title: How Strong Is the Evidence for the Contact?
-title_full: How Strong Is the Evidence for the Contact? | Rael Contact
+title_full: How Strong Is the Evidence for the Contact?
 display_title_short: Evidence
 display_title: Evidence
 heading_title: How Strong Is the Evidence for the Contact?
@@ -233,7 +233,7 @@ next_link:
   permalink: /raelism/
   short_title: Raelism
   heading_title: How Did a UFO Claim Become Raelism?
-date: '2026-06-08 23:37:30 '
+date: '2026-06-11 13:21:48 '
 header:
   og_image: /assets/images/Claude_Vorilhon_cont_ec941c_contact_evidence_gap_fdc804-Illustration-1-social.jpg
   preview_image: /assets/images/Claude_Vorilhon_cont_ec941c_contact_evidence_gap_fdc804-Illustration-1.webp
@@ -242,14 +242,12 @@ image: /assets/images/Claude_Vorilhon_cont_ec941c_contact_evidence_gap_fdc804-Il
 
 ## Introduction
 
-The public evidence for Claude Vorilhon’s claimed 1973 extraterrestrial contact is unusually thin for a case that later produced a global religious movement. Almost everything known about the alleged encounter at Puy de Lassolas comes from Vorilhon himself, later known as Raël, and from books, interviews, and organisational literature produced after the fact. There are no independently verified photographs, no confirmed physical traces, no contemporaneous police or scientific reports, and no publicly documented eyewitnesses who observed the encounter itself. Even sympathetic academic discussions of Raëlism generally treat the event as a founding revelation narrative rather than as a verified UFO incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581370/files/Reliability_I-11_Palmer.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">Reliability I 11 Palmer</span><span class="citation-popover-snippet">ZenodoThe Case of Raël, UFO Prophet, and the Question of...16 Jan 2003 — Abstract: This chapter features the case of Claude Vorilhon (“R...</span></span></span> Wikipedia That does not make the claim meaningless historically. The alleged contact clearly mattered because it became the basis for the Ra <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ra%C3%ABlism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>ëlian movement, shaped a coherent belief system, and attracted followers across several countries. But when the question is narrowed specifically to evidence, the case depends overwhelmingly on a single narrator recounting extraordinary events that cannot be independently checked. The main debate is therefore not whether the contact has been scientifically demonstrated, but whether any external evidence meaningfully supports Vorilhon’s account beyond his own testimony.
-
+The public evidence for Claude Vorilhon’s claimed 1973 extraterrestrial contact is unusually thin for a case that later produced a global religious movement. Almost everything known about the alleged encounter at Puy de Lassolas comes from Vorilhon himself, later known as Raël, and from books, interviews, and organisational literature produced after the fact. There are no independently verified photographs, no confirmed physical traces, no contemporaneous police or scientific reports, and no publicly documented eyewitnesses who observed the encounter itself. Even sympathetic academic discussions of Raëlism generally treat the event as a founding revelation narrative rather than as a verified UFO incident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581370/files/Reliability_I-11_Palmer.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">Reliability I 11 Palmer</span><span class="citation-popover-snippet">The Case of Raël, UFO Prophet, and the Question of...16 Jan 2003 — Abstract: This chapter features the case of Claude Vorilhon (“R...</span></span></span> Wikipedia That does not make the claim meaningless historically. The alleged contact clearly mattered because it became the basis for the Ra <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ra%C3%ABlism" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>ëlian movement, shaped a coherent belief system, and attracted followers across several countries. But when the question is narrowed specifically to evidence, the case depends overwhelmingly on a single narrator recounting extraordinary events that cannot be independently checked. The main debate is therefore not whether the contact has been scientifically demonstrated, but whether any external evidence meaningfully supports Vorilhon’s account beyond his own testimony.
 
 <img src="{{ "/assets/images/Claude_Vorilhon_cont_ec941c_contact_evidence_gap_fdc804-Illustration-1-dark.svg" | relative_url }}" alt="Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Claude_Vorilhon_cont_ec941c_contact_evidence_gap_fdc804-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Claude_Vorilhon_cont_ec941c_contact_evidence_gap_fdc804-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the case rests almost entirely on one witness
 
-The most important evidence gap is simple: the 1973 contact claim is fundamentally a single-witness case. According to the standard Raëlian narrative, Vorilhon encountered a small humanoid being near Puy de Lassolas on 13 December 1973 and returned repeatedly over several days for further meetings. Yet no independent witness has publicly confirmed seeing the landing, the being, or the alleged craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">CDAMM15 Jan 2021 — On 13 December 1973, Claude Vorilhon (Raël) reportedly saw an unidentified flying object—&#x27;a flying saucer,&#x27; according...</span><span class="citation-popover-meta">Published: December 1973</span></span></span> This matters because UFO investigations usually become stronger when at least one of the following exists:
-
+The most important evidence gap is simple: the 1973 contact claim is fundamentally a single-witness case. According to the standard Raëlian narrative, Vorilhon encountered a small humanoid being near Puy de Lassolas on 13 December 1973 and returned repeatedly over several days for further meetings. Yet no independent witness has publicly confirmed seeing the landing, the being, or the alleged craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">15 Jan 2021 — On 13 December 1973, Claude Vorilhon (Raël) reportedly saw an unidentified flying object—&#x27;a flying saucer,&#x27; according...</span><span class="citation-popover-meta">Published: December 1973</span></span></span> This matters because UFO investigations usually become stronger when at least one of the following exists:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -266,7 +264,6 @@ The Vorilhon case lacks all of these publicly accessible forms of corroboration.
 
 Even within UFO culture, this places the case closer to the “contactee” tradition than to a conventional unexplained aerial event. Contactee narratives often revolve around spiritual or prophetic messages delivered privately to a chosen individual. Scholars of religion usually analyse Raëlism through that framework rather than treating the original encounter as a solved evidential mystery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/zygo.12162" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryNEW RELIGIOUS MOVEMENTS AND SCIENCE: RAEL&#x27;S...12 Feb 2015 — The most relevant difference between Vorilhon&#x27;s writings...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uFr6MayAjYo" title="ChiFilmFest 2020 | The Prophet and the Space Aliens - Official Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uFr6MayAjYo" target="_blank" rel="noopener noreferrer">ChiFilmFest 2020 | The Prophet and the Space Aliens - Official Trailer</a></p><p class="youtube-embed-meta">Channel: Chicago International Film Festival &middot; Views: 8.1K &middot; Uploaded: October 2020 &middot; Length: 1 minute 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uFr6MayAjYo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uFr6MayAjYo">Open on YouTube</a></p></div></div></div>
 
 ## The missing physical evidence
@@ -274,7 +271,6 @@ Even within UFO culture, this places the case closer to the “contactee” trad
 One of the strongest weaknesses in the case is the absence of verifiable physical evidence from the alleged landing site.
 
 Vorilhon described a metallic craft descending into the volcanic landscape near Clermont-Ferrand and claimed repeated meetings occurred there. Yet there is no widely accepted public record of:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -293,7 +289,6 @@ This distinguishes the claim from better-known UFO incidents that at least gener
 
 Another issue is that the location itself — a volcanic landscape frequently associated with mist, unusual terrain, and dramatic scenery — naturally lends itself to symbolic storytelling. Skeptics have argued that the setting functions more effectively as a mythic stage than as a documented forensic scene.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SvkKS2eD3Ys" title="Cults Case Study | The Raelian Movement | Beliefs in Society | A Level Sociology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SvkKS2eD3Ys" target="_blank" rel="noopener noreferrer">Cults Case Study | The Raelian Movement | Beliefs in Society | A Level Sociology</a></p><p class="youtube-embed-meta">Channel: tutor2u &middot; Views: 709 &middot; Uploaded: April 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SvkKS2eD3Ys" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SvkKS2eD3Ys">Open on YouTube</a></p></div></div></div>
 
 ## The documentary record begins after the revelation story
@@ -306,7 +301,6 @@ But those records prove only that Vorilhon consistently told the story — not t
 
 This distinction is crucial. Historians can confidently establish that:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Vorilhon publicly claimed extraterrestrial contact in the early 1970s;
@@ -317,8 +311,7 @@ This distinction is crucial. Historians can confidently establish that:
 
 What cannot be independently established is whether an extraterrestrial encounter actually happened at Puy de Lassolas.
 
-The evidential gap is especially visible when researchers look for contemporaneous material from December 1973 itself. Publicly available accounts do not include independently verified diaries, third-party witness statements written immediately after the event, official investigative files, or authenticated recordings created during the alleged meetings. Most detailed descriptions derive from retrospective narration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581370/files/Reliability_I-11_Palmer.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">Reliability I 11 Palmer</span><span class="citation-popover-snippet">ZenodoThe Case of Raël, UFO Prophet, and the Question of...16 Jan 2003 — Abstract: This chapter features the case of Claude Vorilhon (“R...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://harvest.usask.ca/bitstream/10388/etd-10172005-123540/1/RAELthesis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: harvest.usask.ca">[2harvest.usask.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">harvest.usask.ca</span><span class="citation-popover-snippet">THE “RAEL” WORLD Narratives of the Raelian Movementby TL Hanson · 2005 · Cited by 3 — The founder of the Raelian Movement, Claude Vorilho...</span></span></span>
-
+The evidential gap is especially visible when researchers look for contemporaneous material from December 1973 itself. Publicly available accounts do not include independently verified diaries, third-party witness statements written immediately after the event, official investigative files, or authenticated recordings created during the alleged meetings. Most detailed descriptions derive from retrospective narration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581370/files/Reliability_I-11_Palmer.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">Reliability I 11 Palmer</span><span class="citation-popover-snippet">The Case of Raël, UFO Prophet, and the Question of...16 Jan 2003 — Abstract: This chapter features the case of Claude Vorilhon (“R...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://harvest.usask.ca/bitstream/10388/etd-10172005-123540/1/RAELthesis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: harvest.usask.ca">[2harvest.usask.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">harvest.usask.ca</span><span class="citation-popover-snippet">THE “RAEL” WORLD Narratives of the Raelian Movementby TL Hanson · 2005 · Cited by 3 — The founder of the Raelian Movement, Claude Vorilho...</span></span></span>
 
 <img src="{{ "/assets/images/Claude_Vorilhon_cont_ec941c_contact_evidence_gap_fdc804-Illustration-2-dark.svg" | relative_url }}" alt="Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Claude_Vorilhon_cont_ec941c_contact_evidence_gap_fdc804-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Claude_Vorilhon_cont_ec941c_contact_evidence_gap_fdc804-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Date inconsistencies and narrative development
@@ -336,7 +329,6 @@ Critics argue that this pattern resembles the evolution of a religious mythos ra
 Skeptical analyses usually focus less on disproving a spaceship landing and more on explaining why the story emerged in the cultural environment of the early 1970s.
 
 Several contextual factors are repeatedly cited:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -356,7 +348,6 @@ Some skeptical writers go further and characterise Vorilhon as a charismatic rel
 
 Importantly, there has never been a decisive debunking in the narrow sense of proving exactly what happened at Puy de Lassolas. The weakness of the case is not that investigators uncovered a confirmed hoax mechanism; it is that the supporting evidence never rose beyond personal testimony in the first place.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZXUinB6MIyQ" title="RR0203/A Canada: Cloning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZXUinB6MIyQ" target="_blank" rel="noopener noreferrer">RR0203/A Canada: Cloning</a></p><p class="youtube-embed-meta">Channel: AP Archive &middot; Views: 174.9K &middot; Uploaded: July 2015 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZXUinB6MIyQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZXUinB6MIyQ">Open on YouTube</a></p></div></div></div>
 
 ## What the surviving records actually demonstrate
@@ -365,7 +356,7 @@ When stripped down to evidence that can genuinely be supported, the historical r
 
 ### The claim was made early and consistently
 
-There is little doubt that Vorilhon publicly promoted the encounter narrative shortly after the alleged event and continued doing so for decades. The continuity of the message is historically important because it shows the story was not a recent invention retroactively attached to the movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">CDAMM15 Jan 2021 — On 13 December 1973, Claude Vorilhon (Raël) reportedly saw an unidentified flying object—&#x27;a flying saucer,&#x27; according...</span><span class="citation-popover-meta">Published: December 1973</span></span></span>
+There is little doubt that Vorilhon publicly promoted the encounter narrative shortly after the alleged event and continued doing so for decades. The continuity of the message is historically important because it shows the story was not a recent invention retroactively attached to the movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">International Raëlian Movement</span><span class="citation-popover-snippet">15 Jan 2021 — On 13 December 1973, Claude Vorilhon (Raël) reportedly saw an unidentified flying object—&#x27;a flying saucer,&#x27; according...</span><span class="citation-popover-meta">Published: December 1973</span></span></span>
 
 ### The encounter narrative successfully generated a movement
 
@@ -373,8 +364,7 @@ The contact story demonstrably inspired the creation of MADECH and later the Int
 
 ### The case lacks independent verification
 
-No publicly available evidence confirms extraterrestrial involvement. No scientific body, government investigation, or independent forensic inquiry has authenticated the core claim. Even favourable accounts generally rely on Vorilhon’s testimony rather than external proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581370/files/Reliability_I-11_Palmer.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">Reliability I 11 Palmer</span><span class="citation-popover-snippet">ZenodoThe Case of Raël, UFO Prophet, and the Question of...16 Jan 2003 — Abstract: This chapter features the case of Claude Vorilhon (“R...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.zygonjournal.org/article/14220/galley/28817/download/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zygonjournal.org">[2zygonjournal.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zygonjournal.org</span><span class="citation-popover-snippet">NEW RELIGIOUS MOVEMENTS AND SCIENCEby S Bigliardi · 2015 · Cited by 14 — The first section reconstructs the revelation received by Vorilh...</span></span></span>
-
+No publicly available evidence confirms extraterrestrial involvement. No scientific body, government investigation, or independent forensic inquiry has authenticated the core claim. Even favourable accounts generally rely on Vorilhon’s testimony rather than external proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zenodo.org/records/10581370/files/Reliability_I-11_Palmer.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zenodo.org">[Zenodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zenodo.org</span><span class="citation-popover-title">Reliability I 11 Palmer</span><span class="citation-popover-snippet">The Case of Raël, UFO Prophet, and the Question of...16 Jan 2003 — Abstract: This chapter features the case of Claude Vorilhon (“R...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.zygonjournal.org/article/14220/galley/28817/download/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zygonjournal.org">[2zygonjournal.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zygonjournal.org</span><span class="citation-popover-snippet">NEW RELIGIOUS MOVEMENTS AND SCIENCEby S Bigliardi · 2015 · Cited by 14 — The first section reconstructs the revelation received by Vorilh...</span></span></span>
 
 <img src="{{ "/assets/images/Claude_Vorilhon_cont_ec941c_contact_evidence_gap_fdc804-Illustration-3-dark.svg" | relative_url }}" alt="Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Claude_Vorilhon_cont_ec941c_contact_evidence_gap_fdc804-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Claude_Vorilhon_cont_ec941c_contact_evidence_gap_fdc804-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the evidence question still matters
@@ -386,44 +376,86 @@ The Raël story demonstrates how a modern movement can emerge from a single reve
 That makes the case historically significant even though the evidential foundation remains extremely limited. For believers, the absence of proof may not matter because the account functions as revelation. For skeptics and investigators, however, the same absence places the claim firmly in the category of unverified contact narratives rather than substantiated extraterrestrial encounters.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Strong Is the Evidence for the Contact?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Strong Is the Evidence for the Contact?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO contactee guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+contactee+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Provides the essential analysis on why founding narratives built solely on testimony lack the forensic weight required for validation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches fundamental skills for evaluating cases that rely on single-witness testimony versus established record trails.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the evidentiary weaknesses and lack of independent corroborate evidence for the Puy de Lassolas contact claim.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Contextualizes the standard of proof required for historical UFO investigation in contrast to movement-led revelation narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -460,15 +492,15 @@ That makes the case historically significant even though the evidential foundati
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -476,15 +508,15 @@ That makes the case historically significant even though the evidential foundati
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -492,15 +524,15 @@ That makes the case historically significant even though the evidential foundati
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +540,15 @@ That makes the case historically significant even though the evidential foundati
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,7 +556,7 @@ That makes the case historically significant even though the evidential foundati
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="evidence-7bbec9-how-strong-is-the-evidence-for-the-contact-claude-vorilhon-contact-1973-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -740,120 +772,120 @@ That makes the case historically significant even though the evidential foundati
 1. <a id="endnote-1"></a>
    Source: zenodo.org  
    Title: Reliability I 11 Palmer  
-   Link: [https://zenodo.org/records/10581370/files/Reliability_I-11_Palmer.pdf?download=1](https://zenodo.org/records/10581370/files/Reliability_I-11_Palmer.pdf?download=1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ZenodoThe Case of Raël, UFO Prophet, and the Question of...16 Jan 2003 — Abstract: This chapter features the case of Claude Vorilhon (“R...</p></details>
+   Link: <a href="https://zenodo.org/records/10581370/files/Reliability_I-11_Palmer.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10581370/files/Reliability_I-11_Palmer.pdf?download=1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Case of Raël, UFO Prophet, and the Question of...16 Jan 2003 — Abstract: This chapter features the case of Claude Vorilhon (“R...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Ra%C3%ABlism](https://en.wikipedia.org/wiki/Ra%C3%ABlism)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ra%C3%ABlism" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ra%C3%ABlism</a>  
 
 3. <a id="endnote-3"></a>
    Source: cdamm.org  
    Title: International Raëlian Movement  
-   Link: [https://www.cdamm.org/articles/international-raelian-movement](https://www.cdamm.org/articles/international-raelian-movement)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDAMM15 Jan 2021 — On 13 December 1973, Claude Vorilhon (Raël) reportedly saw an unidentified flying object—&#x27;a flying saucer,&#x27; according...</p></details>
+   Link: <a href="https://www.cdamm.org/articles/international-raelian-movement" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/international-raelian-movement</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Jan 2021 — On 13 December 1973, Claude Vorilhon (Raël) reportedly saw an unidentified flying object—&#x27;a flying saucer,&#x27; according...</p></details>
    Published: December 1973  
 
 4. <a id="endnote-4"></a>
    Source: harvest.usask.ca  
-   Link: [https://harvest.usask.ca/bitstream/10388/etd-10172005-123540/1/RAELthesis.pdf](https://harvest.usask.ca/bitstream/10388/etd-10172005-123540/1/RAELthesis.pdf)  
+   Link: <a href="https://harvest.usask.ca/bitstream/10388/etd-10172005-123540/1/RAELthesis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://harvest.usask.ca/bitstream/10388/etd-10172005-123540/1/RAELthesis.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE “RAEL” WORLD Narratives of the Raelian Movementby TL Hanson · 2005 · Cited by 3 — The founder of the Raelian Movement, Claude Vorilho...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Contactee](https://en.wikipedia.org/wiki/Contactee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
 
 6. <a id="endnote-6"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1111/zygo.12162](https://onlinelibrary.wiley.com/doi/10.1111/zygo.12162)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/zygo.12162" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/zygo.12162</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryNEW RELIGIOUS MOVEMENTS AND SCIENCE: RAEL&#x27;S...12 Feb 2015 — The most relevant difference between Vorilhon&#x27;s writings...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: zygonjournal.org  
-   Link: [https://www.zygonjournal.org/article/14220/galley/28817/download/](https://www.zygonjournal.org/article/14220/galley/28817/download/)  
+   Link: <a href="https://www.zygonjournal.org/article/14220/galley/28817/download/" target="_blank" rel="noopener noreferrer nofollow">https://www.zygonjournal.org/article/14220/galley/28817/download/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NEW RELIGIOUS MOVEMENTS AND SCIENCEby S Bigliardi · 2015 · Cited by 14 — The first section reconstructs the revelation received by Vorilh...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ecoi.net  
-   Link: [https://www.ecoi.net/en/document/1099512.html](https://www.ecoi.net/en/document/1099512.html)  
+   Link: <a href="https://www.ecoi.net/en/document/1099512.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ecoi.net/en/document/1099512.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Information on the Raelian movement [CAN18842.E]”...5 Dec 1994 — Claude Vorilhon, born on 30 April 1946, reported meeting an extraterre...</p></details>
    Published: April 1946  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Ra%C3%ABl](https://en.wikipedia.org/wiki/Ra%C3%ABl)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ra%C3%ABl" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ra%C3%ABl</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RaëlBefore becoming a religious leader, Raël, then known as Claude Vorilhon, worked as a sports-car journalist and test driver for his...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Aliens Adored  
-   Link: [https://en.wikipedia.org/wiki/Aliens_Adored](https://en.wikipedia.org/wiki/Aliens_Adored)  
+   Link: <a href="https://en.wikipedia.org/wiki/Aliens_Adored" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aliens_Adored</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens AdoredThe group was founded after Claude Vorilhon (who changed his name to Raël) claimed in 1973 he had been visited by aliens...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sites.pitt.edu  
-   Link: [https://sites.pitt.edu/~dash/rael.html](https://sites.pitt.edu/~dash/rael.html)  
+   Link: <a href="https://sites.pitt.edu/~dash/rael.html" target="_blank" rel="noopener noreferrer nofollow">https://sites.pitt.edu/~dash/rael.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Raelian Creation of Life on EarthScientists from another planet created all life on earth using DNA. On December 13, 1973, in the heart o...</p></details>
    Published: December 13, 1973  
 
 12. <a id="endnote-12"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/26417827](https://www.jstor.org/stable/26417827)  
+   Link: <a href="https://www.jstor.org/stable/26417827" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/26417827</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Cousinsby S Bigliardi · 2016 · Cited by 5 — ABSTRACT: In this paper I discuss the work of two French authors who advocate a &#x27;&#x27;scie...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: pdcnet.org  
-   Link: [https://www.pdcnet.org/collection-anonymous/pdf2image?file_type=pdf&pdfname=asrr_2013_0004_0002_0284_0299.pdf](https://www.pdcnet.org/collection-anonymous/pdf2image?file_type=pdf&pdfname=asrr_2013_0004_0002_0284_0299.pdf)  
+   Link: <a href="https://www.pdcnet.org/collection-anonymous/pdf2image?file_type=pdf&amp;pdfname=asrr_2013_0004_0002_0284_0299.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pdcnet.org/collection-anonymous/pdf2image?file_type=pdf&amp;pdfname=asrr_2013_0004_0002_0284_0299.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Astronauts And Creationism In The Raëlian ReligioniThis essay will discuss the religious creation of the Frenchman Claude. Vorilh...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/raelians](https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/raelians)  
+   Link: <a href="https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/raelians" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/raelians</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RaëliansVorilhon has reported that he experienced a close encounter of the third kind on December 13, 1973, in the crater of an extinct v...</p></details>
    Published: December 13, 1973  
 
 15. <a id="endnote-15"></a>
    Source: kar.kent.ac.uk  
-   Link: [https://kar.kent.ac.uk/86204/1/342159.pdf](https://kar.kent.ac.uk/86204/1/342159.pdf)  
+   Link: <a href="https://kar.kent.ac.uk/86204/1/342159.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/86204/1/342159.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kent Academic Repositoryby S Palmer · 2000 · Cited by 1 — Claude Vorilhon, &quot;Real&quot; Space Aliens Took Me to Their Planet Waduz, Lichtenstei...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: equip.org  
-   Link: [https://www.equip.org/articles/descending-masters-a-history-of-the-raelian-movement/](https://www.equip.org/articles/descending-masters-a-history-of-the-raelian-movement/)  
+   Link: <a href="https://www.equip.org/articles/descending-masters-a-history-of-the-raelian-movement/" target="_blank" rel="noopener noreferrer nofollow">https://www.equip.org/articles/descending-masters-a-history-of-the-raelian-movement/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1946), a former French racecar driver, sports magazine editor, and resident of Quebec, Canada...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: dergipark.org.tr  
-   Link: [https://dergipark.org.tr/tr/download/article-file/3751239](https://dergipark.org.tr/tr/download/article-file/3751239)  
+   Link: <a href="https://dergipark.org.tr/tr/download/article-file/3751239" target="_blank" rel="noopener noreferrer nofollow">https://dergipark.org.tr/tr/download/article-file/3751239</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ETs) since 1961, Vorilhon stated that he had received messages about humanity&#x27;s future...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100050407333581/posts/etranges-croyances-claude-vorilhon-alias-ra%C3%ABl-photo-a-fond%C3%A9-la-secte-des-raelien/1325969319093300/](https://www.facebook.com/100050407333581/posts/etranges-croyances-claude-vorilhon-alias-ra%C3%ABl-photo-a-fond%C3%A9-la-secte-des-raelien/1325969319093300/)  
+   Link: <a href="https://www.facebook.com/100050407333581/posts/etranges-croyances-claude-vorilhon-alias-ra%C3%ABl-photo-a-fond%C3%A9-la-secte-des-raelien/1325969319093300/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100050407333581/posts/etranges-croyances-claude-vorilhon-alias-ra%C3%ABl-photo-a-fond%C3%A9-la-secte-des-raelien/1325969319093300/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ETRANGES CROYANCES. Claude Vorilhon alias Raël...On December 13, 1973, he reported meeting an alien named Yahweh in a volcanic crater, w...</p></details>
    Published: December 13, 1973  
 
 19. <a id="endnote-19"></a>
    Source: encyclopedia.com  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/raelian-movement](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/raelian-movement)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/raelian-movement" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/raelian-movement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Raelian MovementVorilhon claimed that on December 1, 1973, he encountered a small humanoid being who arrived on Earth in a spacecraft. Th...</p></details>
    Published: December 1, 1973  
 
 20. <a id="endnote-20"></a>
    Source: academia.edu  
    Title: The Reliability of UFO Witness Testimony  
-   Link: [https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony](https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony)  
+   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Vorilhon lies, starting with the very beginning of his 1973 alleged contact.... The Witness Claude Vorilhon was born in 1946 in Ambert (...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: scientificamerican.com  
    Title: human clone claim stirs c  
-   Link: [https://www.scientificamerican.com/article/human-clone-claim-stirs-c/](https://www.scientificamerican.com/article/human-clone-claim-stirs-c/)  
+   Link: <a href="https://www.scientificamerican.com/article/human-clone-claim-stirs-c/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/human-clone-claim-stirs-c/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ontroversy31 Dec 2002 — The announcement last week that the first human clone had been born was met with skepticism, concern and outrage...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SvkKS2eD3Ys](https://www.youtube.com/watch?v=SvkKS2eD3Ys)  
+   Link: <a href="https://www.youtube.com/watch?v=SvkKS2eD3Ys" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SvkKS2eD3Ys</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>leadership and alternative doctrines can foster devout followings...</p></details>

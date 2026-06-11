@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /george-adamski-encounters-1953/
 nav_short_title: Timeline
 title: When Did the Adamski Encounter Really Happen?
-title_full: When Did the Adamski Encounter Really Happen? | Adamski
+title_full: When Did the Adamski Encounter Really Happen?
 display_title_short: Timeline
 display_title: Timeline
 heading_title: When Did the Adamski Encounter Really Happen?
@@ -239,7 +239,7 @@ next_link:
   permalink: /witnesses/
   short_title: Witnesses
   heading_title: How Strong Were Adamski's Witnesses?
-date: '2026-06-08 23:18:44 '
+date: '2026-06-11 13:11:28 '
 header:
   og_image: /assets/images/George_Adamski_encou_795ba9_desert_center_timeli_e5342c-Illustration-1-social.jpg
   preview_image: /assets/images/George_Adamski_encou_795ba9_desert_center_timeli_e5342c-Illustration-1.webp
@@ -250,16 +250,14 @@ image: /assets/images/George_Adamski_encou_795ba9_desert_center_timeli_e5342c-Il
 
 The event that made George Adamski internationally famous did not initially arrive as a polished “1953 UFO case”. The core encounter narrative was dated to 20 November 1952 near Desert Center, California, but the story evolved over months through lectures, affidavits, newspaper circulation, photographs and finally the bestselling 1953 book *Flying Saucers Have Landed*. That publication trail matters because many later assumptions about the case depend on sources written after the alleged encounter itself. The timeline reveals how Adamski’s account expanded from a desert sighting into a foundational “contactee” mythology centred on benevolent Venusian visitors, anti-nuclear warnings and physical traces supposedly left in the sand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[Bahá&#x27;í Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">Bahá&#x27;í StudiesFLYING SAUCERS HAVE LANDEDby D LESLIE · Cited by 150 — The affidavits vouching for Adamski&#x27;s meeting with the Venusian, Nov...</span></span></span> Wikipedia The chronology also exposes one of the major disputes surrounding the case: critics argued that details became more elaborate as publicity gr <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Adamski</span><span class="citation-popover-snippet">George Adamski</span></span></span> ew, while supporters treated the later publications as clarification rather than embellishment. Understanding when each claim entered the public record is therefore essential to evaluating the credibility of the Desert Center encounter.
 
-
 <img src="{{ "/assets/images/George_Adamski_encou_795ba9_desert_center_timeli_e5342c-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/George_Adamski_encou_795ba9_desert_center_timeli_e5342c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/George_Adamski_encou_795ba9_desert_center_timeli_e5342c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The November 1952 desert outing
 
 ### What Adamski said happened on 20 November
 
-According to Adamski’s later published account, he travelled into the Colorado Desert near Desert Center with several companions on 20 November 1952 after claiming to have received indications that extraterrestrials wished to contact him. The group reportedly included George Hunt Williamson and other associates from Adamski’s occult and UFO circle. Wikipedia 3Wikipedia HowStuffWorks Adamski said the party observed a large cigar-shaped object in the sky before he separated from the others and walked into the desert alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">HowStuffWorksGeorge Adamski and the Space BrothersBut the events that began on November 20, 1952, would make Adamski a saucer immortal...</span><span class="citation-popover-meta">Published: November 20, 1952</span></span></span> There, he claimed, a smaller scout craft landed and a humanoid visitor emerged. The being was later identified as “Orthon”, supposedly from Venus. Adamski described communication through gestures, telepathy and emotional impressions rather than sustained spoken conversation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[Bahá&#x27;í Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">Bahá&#x27;í StudiesFLYING SAUCERS HAVE LANDEDby D LESLIE · Cited by 150 — The affidavits vouching for Adamski&#x27;s meeting with the Venusian, Nov...</span></span></span>
+According to Adamski’s later published account, he travelled into the Colorado Desert near Desert Center with several companions on 20 November 1952 after claiming to have received indications that extraterrestrials wished to contact him. The group reportedly included George Hunt Williamson and other associates from Adamski’s occult and UFO circle. Wikipedia 3Wikipedia HowStuffWorks Adamski said the party observed a large cigar-shaped object in the sky before he separated from the others and walked into the desert alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">George Adamski and the Space BrothersBut the events that began on November 20, 1952, would make Adamski a saucer immortal...</span><span class="citation-popover-meta">Published: November 20, 1952</span></span></span> There, he claimed, a smaller scout craft landed and a humanoid visitor emerged. The being was later identified as “Orthon”, supposedly from Venus. Adamski described communication through gestures, telepathy and emotional impressions rather than sustained spoken conversation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[Bahá&#x27;í Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">Bahá&#x27;í StudiesFLYING SAUCERS HAVE LANDEDby D LESLIE · Cited by 150 — The affidavits vouching for Adamski&#x27;s meeting with the Venusian, Nov...</span></span></span>
 
 One important timeline detail is that the famous visual elements of the story were not all claimed immediately. The encounter narrative later became associated with:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -293,7 +291,6 @@ At this stage, Adamski was already known in fringe UFO and occult circles becaus
 
 The timing mattered. The story emerged directly after the enormous 1952 UFO wave in the United States, when public interest in flying saucers was unusually high following radar incidents over Washington, DC and intense media coverage of unexplained aerial reports. Adamski’s claims entered a cultural environment already primed for extraterrestrial speculation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Coming of the Saucers</span><span class="citation-popover-snippet">The Coming of the Saucers</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w3mGvTQ5lyc" title="The Report on Unidentified Flying Objects by Edward J. RUPPELT Part 3/3 | Full Audio Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w3mGvTQ5lyc" target="_blank" rel="noopener noreferrer">The Report on Unidentified Flying Objects by Edward J. RUPPELT Part 3/3 | Full Audio Book</a></p><p class="youtube-embed-meta">Channel: LibriVox Audiobooks &middot; Views: 14.7K &middot; Uploaded: September 2018 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w3mGvTQ5lyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w3mGvTQ5lyc">Open on YouTube</a></p></div></div></div>
 
 ### Affidavits and supporting documents
@@ -312,7 +309,6 @@ That combination helped distinguish Adamski from purely spiritualist contact cla
 
 Critics later argued that the affidavits proved little because they mainly confirmed that witnesses accompanied Adamski into the desert, not that they independently verified extraterrestrial contact. Nonetheless, the documents became central to the mythology surrounding the case and were repeatedly cited in later UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[Bahá&#x27;í Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">Bahá&#x27;í StudiesFLYING SAUCERS HAVE LANDEDby D LESLIE · Cited by 150 — The affidavits vouching for Adamski&#x27;s meeting with the Venusian, Nov...</span></span></span>
 
-
 <img src="{{ "/assets/images/George_Adamski_encou_795ba9_desert_center_timeli_e5342c-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/George_Adamski_encou_795ba9_desert_center_timeli_e5342c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/George_Adamski_encou_795ba9_desert_center_timeli_e5342c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why *Flying Saucers Have Landed* changed everything
 
@@ -329,7 +325,6 @@ Equally important, the book standardised the timeline. After 1953, later retelli
 ### “The 1953 Adamski case” actually began in 1952
 
 Many summaries casually refer to the “1953 Adamski encounter”, but this compresses two distinct phases:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5GIjWsTCnUQ" title="The Secret of the Nordic Aliens // 3D CGI Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5GIjWsTCnUQ" target="_blank" rel="noopener noreferrer">The Secret of the Nordic Aliens // 3D CGI Animation</a></p><p class="youtube-embed-meta">Channel: Mac Mave Studios &middot; Views: 597.1K &middot; Uploaded: August 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5GIjWsTCnUQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5GIjWsTCnUQ">Open on YouTube</a></p></div></div></div>
 
@@ -348,14 +343,12 @@ For critics, that escalation damaged the credibility of the original Desert Cent
 
 Supporters interpreted the same progression differently. To them, the November 1952 meeting was simply the first public stage of a continuing relationship between Adamski and extraterrestrial visitors.
 
-
 <img src="{{ "/assets/images/George_Adamski_encou_795ba9_desert_center_timeli_e5342c-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/George_Adamski_encou_795ba9_desert_center_timeli_e5342c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/George_Adamski_encou_795ba9_desert_center_timeli_e5342c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Investigators later revisited the chronology itself
 
 The chronology became part of the sceptical case against Adamski. Edward J. Ruppelt investigated Adamski’s activities during the early 1950s and concluded that the contactee was an exceptionally persuasive storyteller rather than a reliable witness. Ruppelt described Adamski’s ability to project sincerity during public lectures and informal gatherings at Palomar Gardens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">BY EDWARD J. RUPPELT Former Head of the Air Force Project Blue Book. Published by. DOUBLEDAY &amp; COMPANY, INC. Garden...Read more...</span></span></span>
 
 Later critics focused on inconsistencies between:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -372,7 +365,6 @@ The fact that the most famous version of the story emerged after a period of gro
 
 The Desert Center timeline became a template for later contactee stories. Several features first consolidated through Adamski’s 1952–1953 publication cycle reappeared repeatedly in UFO culture:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * benevolent humanoid aliens,
@@ -385,9 +377,7 @@ The Desert Center timeline became a template for later contactee stories. Severa
 
 Because *Flying Saucers Have Landed* reached a mass audience, the chronology itself became culturally influential. Later contactees often followed a similar pattern:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XL_8faQRBok" title="Flying Saucers Have Landed, parts 1 &amp; 2 - Dewey, George &amp; Jack (1956)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XL_8faQRBok" target="_blank" rel="noopener noreferrer">Flying Saucers Have Landed, parts 1 &amp; 2 - Dewey, George &amp; Jack (1956)</a></p><p class="youtube-embed-meta">Channel: WButane &middot; Views: 8.5K &middot; Uploaded: February 2011 &middot; Length: 4 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XL_8faQRBok" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XL_8faQRBok">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -398,47 +388,89 @@ Because *Flying Saucers Have Landed* reached a mass audience, the chronology its
 
 </div>
 
-That publication model helped shift UFO culture away from purely unexplained aerial sightings and toward personality-driven narratives centred on chosen intermediaries. The Desert Center encounter therefore matters not only as an alleged event in November 1952, but as one of the clearest examples of how a UFO story became a modern media phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[Bahá&#x27;í Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">Bahá&#x27;í StudiesFLYING SAUCERS HAVE LANDEDby D LESLIE · Cited by 150 — The affidavits vouching for Adamski&#x27;s meeting with the Venusian, Nov...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">HowStuffWorksGeorge Adamski and the Space BrothersBut the events that began on November 20, 1952, would make Adamski a saucer immortal...</span><span class="citation-popover-meta">Published: November 20, 1952</span></span></span>
+That publication model helped shift UFO culture away from purely unexplained aerial sightings and toward personality-driven narratives centred on chosen intermediaries. The Desert Center encounter therefore matters not only as an alleged event in November 1952, but as one of the clearest examples of how a UFO story became a modern media phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bahaistudies.net">[Bahá&#x27;í Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bahaistudies.net</span><span class="citation-popover-snippet">Bahá&#x27;í StudiesFLYING SAUCERS HAVE LANDEDby D LESLIE · Cited by 150 — The affidavits vouching for Adamski&#x27;s meeting with the Venusian, Nov...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">George Adamski and the Space BrothersBut the events that began on November 20, 1952, would make Adamski a saucer immortal...</span><span class="citation-popover-meta">Published: November 20, 1952</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for When Did the Adamski Encounter Really Happen?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to When Did the Adamski Encounter Really Happen?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nikola Tesla Journey to Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hd0LAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nikola Tesla Journey to Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nikola Tesla Journey to Mars">Nikola Tesla Journey to Mars</a>
+        </h4>
+        <p class="fr-book-author">By Sean Casteel</p>
+        
+        <p class="fr-book-desc">Tracks how the original desert outing grew into a complex, multi-stage occult mythology centered on Venusian visitations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Examines the structural evolution of early contactee lore, analyzing the inflation of physical footprint claims in the sand.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches methodology for isolating contemporary witness cross-examination data from subsequent promotional lecture files.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+George+Adamski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers Have Landed on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+George+Adamski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers Have Landed">Flying Saucers Have Landed</a>
+        </h4>
+        <p class="fr-book-author">By George Adamski, Desmond Leslie</p>
+        
+        <p class="fr-book-desc">Details the 20 November 1952 outing logs, George Hunt Williamson&#x27;s affidavits, and the anti-nuclear warning messages.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Flying+Saucers+Have+Landed+by+George+Adamski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nikola Tesla Journey to Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -475,15 +507,15 @@ That publication model helped shift UFO culture away from purely unexplained aer
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+desert+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO desert poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+desert+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO desert poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+desert+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO desert poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO desert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO desert poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+desert+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO desert poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -491,15 +523,15 @@ That publication model helped shift UFO culture away from purely unexplained aer
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+desert+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO desert poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235"><img src="{{ '/assets/images/marketplace-covers/eb003ae46dc2da753565.jpg' | relative_url }}" alt="Listing image for ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+desert+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO desert poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO Crash Landed In Desert CANVAS PICTURE POSTER PRINT UNFRAMED 1235</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+desert+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO desert poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO desert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO desert poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+desert+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO desert poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -507,31 +539,15 @@ That publication model helped shift UFO culture away from purely unexplained aer
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+desert+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO desert poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+desert+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO desert poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+desert+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO desert poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO desert poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO desert poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+desert+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO desert poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -539,7 +555,7 @@ That publication model helped shift UFO culture away from purely unexplained aer
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+desert+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO desert poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="timeline-28f171-when-did-the-adamski-encounter-really-happen-george-adamski-encounters-1953-ufo-desert-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -755,144 +771,144 @@ That publication model helped shift UFO culture away from purely unexplained aer
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: George Adamski  
-   Link: [https://en.wikipedia.org/wiki/George_Adamski](https://en.wikipedia.org/wiki/George_Adamski)  
+   Link: <a href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Adamski</a>  
 
 2. <a id="endnote-2"></a>
    Source: books.google.com  
-   Link: [https://books.google.com/books/about/Flying_Saucers_Have_Landed.html?id=B9BBAQAAIAAJ](https://books.google.com/books/about/Flying_Saucers_Have_Landed.html?id=B9BBAQAAIAAJ)  
+   Link: <a href="https://books.google.com/books/about/Flying_Saucers_Have_Landed.html?id=B9BBAQAAIAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Flying_Saucers_Have_Landed.html?id=B9BBAQAAIAAJ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksFlying Saucers Have LandedBibliographic information; Authors, Desmond Leslie, George Adamski; Publisher, British Book Centr...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.howstuffworks.com  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm](https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HowStuffWorksGeorge Adamski and the Space BrothersBut the events that began on November 20, 1952, would make Adamski a saucer immortal...</p></details>
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski and the Space BrothersBut the events that began on November 20, 1952, would make Adamski a saucer immortal...</p></details>
    Published: November 20, 1952  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: George Hunt Williamson  
-   Link: [https://en.wikipedia.org/wiki/George_Hunt_Williamson](https://en.wikipedia.org/wiki/George_Hunt_Williamson)  
+   Link: <a href="https://en.wikipedia.org/wiki/George_Hunt_Williamson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Hunt_Williamson</a>  
 
 5. <a id="endnote-5"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/ACriticalAppraisalOfGeorgeAdamskiTheManWhoSpokeToTheSpaceBrothersREVISEDANDENLARGEDEDITION2016/A%2BCritical%2BAppraisal%2Bof%2BGeorge%2BAdamski%2Bthe%2BMan%2BWho%2BSpoke%2Bto%2Bthe%2BSpace%2BBrothers%2B-REVISED%2BAND%2BENLARGED%2BEDITION%2B-%2B2016_djvu.txt](https://archive.org/stream/ACriticalAppraisalOfGeorgeAdamskiTheManWhoSpokeToTheSpaceBrothersREVISEDANDENLARGEDEDITION2016/A%2BCritical%2BAppraisal%2Bof%2BGeorge%2BAdamski%2Bthe%2BMan%2BWho%2BSpoke%2Bto%2Bthe%2BSpace%2BBrothers%2B-REVISED%2BAND%2BENLARGED%2BEDITION%2B-%2B2016_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ACriticalAppraisalOfGeorgeAdamskiTheManWhoSpokeToTheSpaceBrothersREVISEDANDENLARGEDEDITION2016/A%2BCritical%2BAppraisal%2Bof%2BGeorge%2BAdamski%2Bthe%2BMan%2BWho%2BSpoke%2Bto%2Bthe%2BSpace%2BBrothers%2B-REVISED%2BAND%2BENLARGED%2BEDITION%2B-%2B2016_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ACriticalAppraisalOfGeorgeAdamskiTheManWhoSpokeToTheSpaceBrothersREVISEDANDENLARGEDEDITION2016/A%2BCritical%2BAppraisal%2Bof%2BGeorge%2BAdamski%2Bthe%2BMan%2BWho%2BSpoke%2Bto%2Bthe%2BSpace%2BBrothers%2B-REVISED%2BAND%2BENLARGED%2BEDITION%2B-%2B2016_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;A Critical Appraisal Of George Adamski The...In Flying Saucers Have Landed, Adamski reproduced three affid...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BY EDWARD J. RUPPELT Former Head of the Air Force Project Blue Book. Published by. DOUBLEDAY &amp; COMPANY, INC. Garden...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: books.google.com  
    Title: The Flying Saucers Have Landed  
-   Link: [https://books.google.com/books/about/The_Flying_Saucers_Have_Landed.html?id=ufz8CAAAQBAJ](https://books.google.com/books/about/The_Flying_Saucers_Have_Landed.html?id=ufz8CAAAQBAJ)  
+   Link: <a href="https://books.google.com/books/about/The_Flying_Saucers_Have_Landed.html?id=ufz8CAAAQBAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/The_Flying_Saucers_Have_Landed.html?id=ufz8CAAAQBAJ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google BooksThe Flying Saucers Have Landed: George AdamskiAdamski claimed he met with one Nordic alien, surnamed &quot;Orthon&quot;, in 1952 at Des...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Have We Visitors From Space?  
-   Link: [https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space](https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space)  
+   Link: <a href="https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Have_We_Visitors_From_Space</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: The Coming of the Saucers  
-   Link: [https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers](https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Coming_of_the_Saucers</a>  
 
 10. <a id="endnote-10"></a>
    Source: history.com  
    Title: george adamski ufo alien [photos](&#123;&#123; 'photos/' | relative_url &#125;&#125;)  
-   Link: [https://www.history.com/articles/george-adamski-ufo-alien-photos](https://www.history.com/articles/george-adamski-ufo-alien-photos)  
+   Link: <a href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/george-adamski-ufo-alien-photos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ruppelt, then head of Project Blue Book, who dropped by, incognito, in 1953 to find Adamski holding court and hawking...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: bahaistudies.net  
-   Link: [https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf](https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf)  
+   Link: <a href="https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bahaistudies.net/asma/flying_saucers_have_landed.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bahá&#x27;í StudiesFLYING SAUCERS HAVE LANDEDby D LESLIE · Cited by 150 — The affidavits vouching for Adamski&#x27;s meeting with the Venusian, Nov...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: tvtropes.org  
    Title: Flying Saucers Have Landed  
-   Link: [https://tvtropes.org/pmwiki/pmwiki.php/Literature/FlyingSaucersHaveLanded](https://tvtropes.org/pmwiki/pmwiki.php/Literature/FlyingSaucersHaveLanded)  
+   Link: <a href="https://tvtropes.org/pmwiki/pmwiki.php/Literature/FlyingSaucersHaveLanded" target="_blank" rel="noopener noreferrer nofollow">https://tvtropes.org/pmwiki/pmwiki.php/Literature/FlyingSaucersHaveLanded</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TV TropesFlying Saucers Have Landed (Literature)Flying Saucers Have Landed (Desmond Leslie and George Adamski, 1953) is about UFO&#x27;s, then...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: robertmenziesinstitute.org.au  
    Title: week 11 inside the space ships  
-   Link: [https://www.robertmenziesinstitute.org.au/book-of-the-week/week-11-inside-the-space-ships/](https://www.robertmenziesinstitute.org.au/book-of-the-week/week-11-inside-the-space-ships/)  
+   Link: <a href="https://www.robertmenziesinstitute.org.au/book-of-the-week/week-11-inside-the-space-ships/" target="_blank" rel="noopener noreferrer nofollow">https://www.robertmenziesinstitute.org.au/book-of-the-week/week-11-inside-the-space-ships/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Week 11: Inside the Space ShipsThen in 1952 Adamski sensationally professed to have met aliens from Venus in the California desert, commu...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: avalonlibrary.net  
    Title: Avalon Library George Adamski  
-   Link: [https://avalonlibrary.net/ebooks/George%20Adamski%20-%20Flying%20Saucers%20Farewell.pdf](https://avalonlibrary.net/ebooks/George%20Adamski%20-%20Flying%20Saucers%20Farewell.pdf)  
+   Link: <a href="https://avalonlibrary.net/ebooks/George%20Adamski%20-%20Flying%20Saucers%20Farewell.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/George%20Adamski%20-%20Flying%20Saucers%20Farewell.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski - Flying Saucers FarewellThe results of his efforts were published in 1953 in Flying Saucers Have Landed 2 in which my rep...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: military-history.fandom.com  
    Title: Edward J. Ruppelt  
-   Link: [https://military-history.fandom.com/wiki/Edward_J._Ruppelt](https://military-history.fandom.com/wiki/Edward_J._Ruppelt)  
+   Link: <a href="https://military-history.fandom.com/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Edward_J._Ruppelt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Ruppelt - Military Wiki - FandomEdward J. Ruppelt (July 17, 1923 – September 15, 1960) was a United States Air Force officer probably...</p></details>
    Published: July 17, 1923  
 
 16. <a id="endnote-16"></a>
    Source: kids.kiddle.co  
    Title: George Adamski  
-   Link: [https://kids.kiddle.co/George_Adamski](https://kids.kiddle.co/George_Adamski)  
+   Link: <a href="https://kids.kiddle.co/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/George_Adamski</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Adamski Facts for Kids17 Oct 2025 — In the summer of 1947, after many UFO sightings were reported in the U.S., Adamski claimed he saw 184...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Flying-Saucers-Landed-Desmond-Adamski/dp/B001JOCX3I](https://www.amazon.co.uk/Flying-Saucers-Landed-Desmond-Adamski/dp/B001JOCX3I)  
+   Link: <a href="https://www.amazon.co.uk/Flying-Saucers-Landed-Desmond-Adamski/dp/B001JOCX3I" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Flying-Saucers-Landed-Desmond-Adamski/dp/B001JOCX3I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers Have LandedIn two parts. The second, shorter section is by George Adamski, recounting his experiences with alien craft and...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: georgehbalazs.com  
-   Link: [https://georgehbalazs.com/wp-content/uploads/2020/02/1957-PART-1-OF-2-FLYING-SAUCERS-FROM-OTHER-WORLDS..pdf](https://georgehbalazs.com/wp-content/uploads/2020/02/1957-PART-1-OF-2-FLYING-SAUCERS-FROM-OTHER-WORLDS..pdf)  
+   Link: <a href="https://georgehbalazs.com/wp-content/uploads/2020/02/1957-PART-1-OF-2-FLYING-SAUCERS-FROM-OTHER-WORLDS..pdf" target="_blank" rel="noopener noreferrer nofollow">https://georgehbalazs.com/wp-content/uploads/2020/02/1957-PART-1-OF-2-FLYING-SAUCERS-FROM-OTHER-WORLDS..pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>flying saucersI sat up all night reading an advance copy. It is call- ed Flying Saucers Have Landed and was written by Desmond Leslie and...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: web2.ph.utexas.edu  
-   Link: [https://web2.ph.utexas.edu/~coker2/index.files/adamski.htm](https://web2.ph.utexas.edu/~coker2/index.files/adamski.htm)  
+   Link: <a href="https://web2.ph.utexas.edu/~coker2/index.files/adamski.htm" target="_blank" rel="noopener noreferrer nofollow">https://web2.ph.utexas.edu/~coker2/index.files/adamski.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of PhysicsGeorge Adamski... (November 20, 1952) he had met and communicated with a man from Venus! This historic event had tak...</p></details>
    Published: November 20, 1952  
 
 20. <a id="endnote-20"></a>
    Source: gardenofmemory.net  
-   Link: [https://www.gardenofmemory.net/king-of-the-contactees-the-bizarre-ufo-saga-of-george-adamski/](https://www.gardenofmemory.net/king-of-the-contactees-the-bizarre-ufo-saga-of-george-adamski/)  
+   Link: <a href="https://www.gardenofmemory.net/king-of-the-contactees-the-bizarre-ufo-saga-of-george-adamski/" target="_blank" rel="noopener noreferrer nofollow">https://www.gardenofmemory.net/king-of-the-contactees-the-bizarre-ufo-saga-of-george-adamski/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>King of the “Contactees”: The bizarre UFO saga of George...26 Apr 2025 — This is the original 1952 &quot;chicken brooder&quot; photo passed off by...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/a-classic-disc-shaped-ufo-resembling-descriptions-from-the-1952-george-adamski-s/1620468503413116/](https://www.facebook.com/HiddenFactsss/posts/a-classic-disc-shaped-ufo-resembling-descriptions-from-the-1952-george-adamski-s/1620468503413116/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/a-classic-disc-shaped-ufo-resembling-descriptions-from-the-1952-george-adamski-s/1620468503413116/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/a-classic-disc-shaped-ufo-resembling-descriptions-from-the-1952-george-adamski-s/1620468503413116/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>isible propulsion system, while Adamski claimed...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/live/video/77ae7b248a26452fbc7bb49f5dcd67ef?ref_=asvh_vdp](https://www.amazon.com/live/video/77ae7b248a26452fbc7bb49f5dcd67ef?ref_=asvh_vdp)  
+   Link: <a href="https://www.amazon.com/live/video/77ae7b248a26452fbc7bb49f5dcd67ef?ref_=asvh_vdp" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/live/video/77ae7b248a26452fbc7bb49f5dcd67ef?ref_=asvh_vdp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mber 20th 1952 near Desert Center in California...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/8060460/George_Adamski](https://www.academia.edu/8060460/George_Adamski)  
+   Link: <a href="https://www.academia.edu/8060460/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8060460/George_Adamski</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 20, 1952, Adamski and several friends were in the Colorado Desert near the town of Desert Center, California, when they purporte...</p></details>
    Published: November 20, 1952  
 
 24. <a id="endnote-24"></a>
    Source: sqpn.com  
    Title: george adamski alien contactee  
-   Link: [https://sqpn.com/2026/04/george-adamski-alien-contactee/](https://sqpn.com/2026/04/george-adamski-alien-contactee/)  
+   Link: <a href="https://sqpn.com/2026/04/george-adamski-alien-contactee/" target="_blank" rel="noopener noreferrer nofollow">https://sqpn.com/2026/04/george-adamski-alien-contactee/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski: Alien Contactee!1 Apr 2026 — MYS411: In 1952, George Adamski became the first UFO contactee — not merely a witness to fly...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1m04key/george_adamskis_abductions_one_of_the_most_the/](https://www.reddit.com/r/aliens/comments/1m04key/george_adamskis_abductions_one_of_the_most_the/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1m04key/george_adamskis_abductions_one_of_the_most_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1m04key/george_adamskis_abductions_one_of_the_most_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>irect contact with extraterrestrials.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: sdonline.org  
    Title: Flying Saucers Are Real!  
-   Link: [https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state](https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state)  
+   Link: <a href="https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state" target="_blank" rel="noopener noreferrer nofollow">https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Navy, Unidentified Flying...The lecturer who received the most such attention was George Adamski, the leading “contactee” of the...</p></details>

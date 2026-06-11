@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /lubbock-lights-sightings-1951/
 nav_short_title: Photos
 title: Did the Famous Photos Prove Anything?
-title_full: Did the Famous Photos Prove Anything? | Lubbock Lights
+title_full: Did the Famous Photos Prove Anything?
 display_title_short: Photos
 display_title: Photos
 heading_title: Did the Famous Photos Prove Anything?
@@ -239,7 +239,7 @@ next_link:
   permalink: /witnesses-322ab6/
   short_title: Witnesses
   heading_title: How Reliable Were the First Witnesses?
-date: '2026-06-08 23:23:34 '
+date: '2026-06-11 13:14:55 '
 header:
   og_image: /assets/images/Lubbock_Lights_sight_4eabd8_hart_photographs_d3321f-Illustration-1-social.jpg
   preview_image: /assets/images/Lubbock_Lights_sight_4eabd8_hart_photographs_d3321f-Illustration-1.webp
@@ -249,7 +249,6 @@ image: /assets/images/Lubbock_Lights_sight_4eabd8_hart_photographs_d3321f-Illust
 ## Introduction
 
 Carl Hart Jr.’s photographs transformed the Lubbock Lights from a regional curiosity into one of the most widely discussed UFO cases of the early Cold War period. Taken in late August 1951 by a Texas Tech freshman using a simple 35 mm Kodak camera, the images appeared to show a formation of glowing lights crossing the night sky above Lubbock, Texas. Newspapers across the United States reproduced them, LIFE magazine helped popularise them nationally, and the Air Force treated them seriously enough to conduct laboratory analysis. Yet the photographs never settled the case. Instead, they became contested evidence: persuasive enough to keep the mystery alive, but too ambiguous to prove what the lights actually were. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lubbock Lights</span><span class="citation-popover-snippet">Lubbock Lights</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO photographs</span><span class="citation-popover-snippet">UFO photographs</span></span></span>
-
 
 <img src="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_hart_photographs_d3321f-Illustration-1-dark.svg" | relative_url }}" alt="Photos illustration 1" data-theme-src-dark="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_hart_photographs_d3321f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_hart_photographs_d3321f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The core problem was not whether Hart really photographed lights. Few investigators argued that the negatives were outright fabricated. The dispute centred on what the lights represented. The images lacked reliable scale, altitude, and speed information, and some aspects of the formations differed from what the original Texas Tech professor [witnesses]({{ 'witnesses-322ab6/' | relative_url }}) described. Over time, the photographs became a textbook example of how apparently dramatic UFO evidence can remain open to radically different interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Luces_de_Lubbock" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luces de Lubbock</span><span class="citation-popover-snippet">Luces de Lubbock</span></span></span>
@@ -278,13 +277,11 @@ Project Blue Book and specialists connected to Wright-Patterson Air Force Base e
 
 That ambiguous conclusion is important because it is often simplified in later retellings. The Air Force did not certify the photographs as evidence of alien technology, but it also did not place them in the category of easily debunked frauds. The negatives appeared authentic in the narrow photographic sense: analysts did not establish that Hart had physically altered or double-exposed the film. The unresolved question was whether the camera had captured unusual aerial objects or a misunderstood natural phenomenon.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BExAaq7mp3E" title="The grave of Carl Hart Jr" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BExAaq7mp3E" target="_blank" rel="noopener noreferrer">The grave of Carl Hart Jr</a></p><p class="youtube-embed-meta">Channel: Lamont At Large &middot; Views: 38.9K &middot; Uploaded: December 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BExAaq7mp3E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BExAaq7mp3E">Open on YouTube</a></p></div></div></div>
 
 ### What the photographs could not determine
 
 Even detailed photographic analysis ran into severe limitations:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,16 +302,14 @@ Sceptical investigators tried to recreate Hart-like images under controlled cond
 
 According to later summaries of the investigation, photographers attempted night photographs of birds crossing illuminated skies. These tests reportedly failed to duplicate the exact appearance of Hart’s images, which sceptics and believers interpreted differently. UFO advocates argued that the failure undermined the bird theory. Sceptics countered that unsuccessful reconstruction attempts did not automatically validate extraordinary [explanations]({{ 'explanations-b647f3/' | relative_url }}), especially because lighting, exposure timing, and flock behaviour could vary substantially. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
-
 <img src="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_hart_photographs_d3321f-Illustration-2-dark.svg" | relative_url }}" alt="Photos illustration 2" data-theme-src-dark="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_hart_photographs_d3321f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_hart_photographs_d3321f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Images Did Not Match Every Sighting
 
 ### The professors described something different
 
-One of the most important weaknesses in the Hart photographs was that they did not fully align with the testimony of the original Texas Tech professor group. Several of those witnesses described the lights as forming more of a broad U-shaped or semicircular arrangement rather than the tighter V-shaped formations visible in Hart’s images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1s4zv8g/in_1951_five_texas_tech_professors_watched_1830/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">in 1951 five texas tech professors watched 1830</span><span class="citation-popover-snippet">RedditIn 1951 five Texas Tech professors watched 18-30 lights fly...The professors explicitly stated Hart&#x27;s photographs did NOT match wh...</span></span></span>
+One of the most important weaknesses in the Hart photographs was that they did not fully align with the testimony of the original Texas Tech professor group. Several of those witnesses described the lights as forming more of a broad U-shaped or semicircular arrangement rather than the tighter V-shaped formations visible in Hart’s images. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1s4zv8g/in_1951_five_texas_tech_professors_watched_1830/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">in 1951 five texas tech professors watched 1830</span><span class="citation-popover-snippet">In 1951 five Texas Tech professors watched 18-30 lights fly...The professors explicitly stated Hart&#x27;s photographs did NOT match wh...</span></span></span>
 
 This discrepancy complicated efforts to treat the photographs as definitive proof of the professors’ sightings. If Hart had photographed the same phenomenon, why did the geometry appear different? Several possibilities emerged:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -326,7 +321,6 @@ This discrepancy complicated efforts to treat the photographs as definitive proo
 </div>
 
 None of those explanations could be ruled out conclusively.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7XBDhjzMULQ" title="The Unexplained UFO Sighting Witnessed by Scientists | Lubbock Lights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7XBDhjzMULQ" target="_blank" rel="noopener noreferrer">The Unexplained UFO Sighting Witnessed by Scientists | Lubbock Lights</a></p><p class="youtube-embed-meta">Channel: Red Web &middot; Views: 9.5K &middot; Uploaded: April 2025 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7XBDhjzMULQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7XBDhjzMULQ">Open on YouTube</a></p></div></div></div>
 
@@ -342,7 +336,6 @@ Ruppelt gradually leaned toward the idea that at least some Lubbock Lights sight
 
 Yet critics of the bird explanation pointed to several unresolved issues:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Some witnesses believed the lights moved too quickly for birds.
@@ -353,7 +346,6 @@ Yet critics of the bird explanation pointed to several unresolved issues:
 </div>
 
 Even supporters of conventional explanations acknowledged that the photographs themselves did not conclusively prove the bird theory. The argument instead rested on whether birds plus lighting effects provided the least extraordinary explanation for the broader cluster of sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lunaticsproject.com/post/famous-ufo-and-uap-encounters-from-the-1900s" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lunaticsproject.com">[Lunatics Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lunaticsproject.com</span><span class="citation-popover-snippet">Lunatics ProjectFamous UFO and UAP Encounters from the 1900s3 Jan 2025 — Ruppelt concluded that the sightings were actually due to a type...</span></span></span>
-
 
 <img src="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_hart_photographs_d3321f-Illustration-3-dark.svg" | relative_url }}" alt="Photos illustration 3" data-theme-src-dark="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_hart_photographs_d3321f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lubbock_Lights_sight_4eabd8_hart_photographs_d3321f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Hart Photographs Still Matter
@@ -370,7 +362,6 @@ Without Hart’s camera, the Lubbock Lights might have remained a regional witne
 
 The photographs also influenced later UFO culture by reinforcing the idea that photographic evidence could both strengthen and weaken a case simultaneously. The more analysts studied the Hart images, the clearer it became that photographs alone rarely answer the hardest questions. Instead, they often shift the debate toward interpretation: what exactly is being seen, under what conditions, and how much confidence should viewers place in incomplete visual information?
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CIhGAev0ZU4" title="Project Blue Book: Declassified – The True Story of the Lubbock Lights | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer">Project Blue Book: Declassified – The True Story of the Lubbock Lights | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 45.0K &middot; Uploaded: February 2019 &middot; Length: 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CIhGAev0ZU4">Open on YouTube</a></p></div></div></div>
 
 ## The Lasting Dispute Over What the Camera Captured
@@ -380,44 +371,86 @@ More than seventy years later, the Hart photographs remain unresolved in a narro
 To believers, the inability of investigators to debunk the negatives decisively suggests that something genuinely unusual crossed the skies above Lubbock in 1951. To sceptics, the same ambiguity demonstrates the limits of photographic evidence when context, scale, and environmental conditions are poorly controlled. The enduring debate is therefore not just about what Hart photographed. It is about how much evidential weight a striking image should carry when the image itself cannot answer the most important questions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Did the Famous Photos Prove Anything?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Did the Famous Photos Prove Anything?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Provides the primary, first-hand account of the technical analysis of the five 35mm Kodak exposures and explains why they remained contes...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Details how the Carl Hart photographs gained immense national popularity via LIFE magazine and analyzes their ambiguous lack of altitude...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Teaches fundamental critical tools to evaluate why highly publicized historical images frequently face radically conflicting interpretati...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Tracks why early Air Force investigators treated the Lubbock V-formation images seriously without confirming an exotic craft model.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -454,15 +487,15 @@ To believers, the inability of investigators to debunk the negatives decisively 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -470,15 +503,15 @@ To believers, the inability of investigators to debunk the negatives decisively 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -486,15 +519,15 @@ To believers, the inability of investigators to debunk the negatives decisively 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +535,15 @@ To believers, the inability of investigators to debunk the negatives decisively 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,7 +551,7 @@ To believers, the inability of investigators to debunk the negatives decisively 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photos-a19897-did-the-famous-photos-prove-anything-lubbock-lights-sightings-1951-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-famous-photos-prove-anything-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-the-famous-photos-prove-anything-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -734,63 +767,63 @@ To believers, the inability of investigators to debunk the negatives decisively 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Lubbock Lights  
-   Link: [https://en.wikipedia.org/wiki/Lubbock_Lights](https://en.wikipedia.org/wiki/Lubbock_Lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lubbock_Lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lubbock_Lights</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/UFO_photographs](https://en.wikipedia.org/wiki/UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_photographs</a>  
 
 3. <a id="endnote-3"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BY EDWARD J. RUPPELT Former Head of the Air Force Project Blue Book. Published by. DOUBLEDAY &amp; COMPANY, INC. Garden...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Luces de Lubbock  
-   Link: [https://es.wikipedia.org/wiki/Luces_de_Lubbock](https://es.wikipedia.org/wiki/Luces_de_Lubbock)  
+   Link: <a href="https://es.wikipedia.org/wiki/Luces_de_Lubbock" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Luces_de_Lubbock</a>  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: in 1951 five texas tech professors watched 1830  
-   Link: [https://www.reddit.com/r/aliens/comments/1s4zv8g/in_1951_five_texas_tech_professors_watched_1830/](https://www.reddit.com/r/aliens/comments/1s4zv8g/in_1951_five_texas_tech_professors_watched_1830/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditIn 1951 five Texas Tech professors watched 18-30 lights fly...The professors explicitly stated Hart&#x27;s photographs did NOT match wh...</p></details>
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1s4zv8g/in_1951_five_texas_tech_professors_watched_1830/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1s4zv8g/in_1951_five_texas_tech_professors_watched_1830/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1951 five Texas Tech professors watched 18-30 lights fly...The professors explicitly stated Hart&#x27;s photographs did NOT match wh...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1paa968/1951_lubbock_lights_v_shape_flying_wing_9x_lights/](https://www.reddit.com/r/UFOs/comments/1paa968/1951_lubbock_lights_v_shape_flying_wing_9x_lights/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1paa968/1951_lubbock_lights_v_shape_flying_wing_9x_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1paa968/1951_lubbock_lights_v_shape_flying_wing_9x_lights/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1951 Lubbock Lights - V shape flying wing, 9x lights per wingThis phenomena, known as the Lubbock Lights, was seen by more than a few peo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: lubbocklights.com  
-   Link: [https://lubbocklights.com/part-of-the-reason-were-named-lubbock-lights-honors-51-ufo-mystery-heres-the-story-of-how-answer-died-with-investigator/](https://lubbocklights.com/part-of-the-reason-were-named-lubbock-lights-honors-51-ufo-mystery-heres-the-story-of-how-answer-died-with-investigator/)  
+   Link: <a href="https://lubbocklights.com/part-of-the-reason-were-named-lubbock-lights-honors-51-ufo-mystery-heres-the-story-of-how-answer-died-with-investigator/" target="_blank" rel="noopener noreferrer nofollow">https://lubbocklights.com/part-of-the-reason-were-named-lubbock-lights-honors-51-ufo-mystery-heres-the-story-of-how-answer-died-with-investigator/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The lights showed up brighter on film...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: lunaticsproject.com  
-   Link: [https://www.lunaticsproject.com/post/famous-ufo-and-uap-encounters-from-the-1900s](https://www.lunaticsproject.com/post/famous-ufo-and-uap-encounters-from-the-1900s)  
+   Link: <a href="https://www.lunaticsproject.com/post/famous-ufo-and-uap-encounters-from-the-1900s" target="_blank" rel="noopener noreferrer nofollow">https://www.lunaticsproject.com/post/famous-ufo-and-uap-encounters-from-the-1900s</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lunatics ProjectFamous UFO and UAP Encounters from the 1900s3 Jan 2025 — Ruppelt concluded that the sightings were actually due to a type...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/GrewUpInLubbock/posts/2517119708371687/](https://www.facebook.com/groups/GrewUpInLubbock/posts/2517119708371687/)  
+   Link: <a href="https://www.facebook.com/groups/GrewUpInLubbock/posts/2517119708371687/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/GrewUpInLubbock/posts/2517119708371687/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lubbock Lights UFO sighting newspaper articleThe problem with the bird explanation is that the lights were distinctly circular, even in C...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: scottbakal.com  
-   Link: [https://www.scottbakal.com/lubbocklights](https://www.scottbakal.com/lubbocklights)  
+   Link: <a href="https://www.scottbakal.com/lubbocklights" target="_blank" rel="noopener noreferrer nofollow">https://www.scottbakal.com/lubbocklights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lubbock LightsThe Lubbock Lights were an unusual formation of lights seen over the city of Lubbock, Texas in August and September 1951.Re...</p></details>
    Published: September 1951  
 
 12. <a id="endnote-12"></a>
    Source: alamy.com  
-   Link: [https://www.alamy.com/stock-photo/lubbock-lights-carl-hart.html](https://www.alamy.com/stock-photo/lubbock-lights-carl-hart.html)  
+   Link: <a href="https://www.alamy.com/stock-photo/lubbock-lights-carl-hart.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/lubbock-lights-carl-hart.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lubbock lights carl hart hi-res stock photography and imagesFind the perfect lubbock lights carl hart stock photo, image, vector, illustr...</p></details>
 
 ### Additional References
@@ -798,54 +831,54 @@ To believers, the inability of investigators to debunk the negatives decisively 
 13. <a id="endnote-13"></a>
    Source: granger.com  
    Title: 0095052 ufo lubbock lights 1951 flying formation of lights photogra image  
-   Link: [https://www.granger.com/0095052-ufo-lubbock-lights-1951-flying-formation-of-lights-photogra-image.html](https://www.granger.com/0095052-ufo-lubbock-lights-1951-flying-formation-of-lights-photogra-image.html)  
+   Link: <a href="https://www.granger.com/0095052-ufo-lubbock-lights-1951-flying-formation-of-lights-photogra-image.html" target="_blank" rel="noopener noreferrer nofollow">https://www.granger.com/0095052-ufo-lubbock-lights-1951-flying-formation-of-lights-photogra-image.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Formation Of Lights Photographed By Carl Hart, Jr....In 1951, Carl Hart, Jr. captured a mesmerizing sight in Lubbock, Texas - a f...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: in 1951 dozens of lubbock texas residents reported seeing a formation of mysteri  
-   Link: [https://www.facebook.com/txchronicles/posts/in-1951-dozens-of-lubbock-texas-residents-reported-seeing-a-formation-of-mysteri/1370210314761338/](https://www.facebook.com/txchronicles/posts/in-1951-dozens-of-lubbock-texas-residents-reported-seeing-a-formation-of-mysteri/1370210314761338/)  
+   Link: <a href="https://www.facebook.com/txchronicles/posts/in-1951-dozens-of-lubbock-texas-residents-reported-seeing-a-formation-of-mysteri/1370210314761338/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/in-1951-dozens-of-lubbock-texas-residents-reported-seeing-a-formation-of-mysteri/1370210314761338/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>captured photos of the lights, which were analyzed by the Air Force and not found to...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
    Title: the lubbock lights a 1950s ufo sighting c1483dc167dd  
-   Link: [https://medium.com/%40darkkat/the-lubbock-lights-a-1950s-ufo-sighting-c1483dc167dd](https://medium.com/%40darkkat/the-lubbock-lights-a-1950s-ufo-sighting-c1483dc167dd)  
+   Link: <a href="https://medium.com/%40darkkat/the-lubbock-lights-a-1950s-ufo-sighting-c1483dc167dd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40darkkat/the-lubbock-lights-a-1950s-ufo-sighting-c1483dc167dd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lubbock Lights — a 1950s UFO Sighting | by Kat MillerCertainly, the photos that Carl Hart Jr took were not of birds, as this was test...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/txchronicles/posts/the-lubbock-lights-phenomenon-is-one-of-the-most-intriguing-ufo-sightings-in-ame/1050724940043212/](https://www.facebook.com/txchronicles/posts/the-lubbock-lights-phenomenon-is-one-of-the-most-intriguing-ufo-sightings-in-ame/1050724940043212/)  
+   Link: <a href="https://www.facebook.com/txchronicles/posts/the-lubbock-lights-phenomenon-is-one-of-the-most-intriguing-ufo-sightings-in-ame/1050724940043212/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-lubbock-lights-phenomenon-is-one-of-the-most-intriguing-ufo-sightings-in-ame/1050724940043212/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lecting the luminescence from Lubbock&#x27;s new street lamps.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo10.htm](https://sacred-texts.com/ufo/rufo/rufo10.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo10.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo10.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying Objects: Chapter Eight....There had originally been five negatives, but when we asked to borrow them Ha...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/GrewUpInLubbock/posts/2049604735123189/](https://www.facebook.com/groups/GrewUpInLubbock/posts/2049604735123189/)  
+   Link: <a href="https://www.facebook.com/groups/GrewUpInLubbock/posts/2049604735123189/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/GrewUpInLubbock/posts/2049604735123189/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t photographs. After an extensive analysis and...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Unexplained UFO Sighting Witnessed by Scientists | Lubbock Lights  
-   Link: [https://www.youtube.com/watch?v=7XBDhjzMULQ](https://www.youtube.com/watch?v=7XBDhjzMULQ)  
+   Link: <a href="https://www.youtube.com/watch?v=7XBDhjzMULQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7XBDhjzMULQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book: Declassified – The True Story of the Lubbock Lights | History...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: The grave of Carl Hart Jr  
-   Link: [https://www.youtube.com/watch?v=BExAaq7mp3E](https://www.youtube.com/watch?v=BExAaq7mp3E)  
+   Link: <a href="https://www.youtube.com/watch?v=BExAaq7mp3E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BExAaq7mp3E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lights of Phoenix and Lubbock | Episode 15 | America&#x27;s Most Famous UFO Sightings...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Project Blue Book: Declassified – The True Story of the Lubbock Lights | History  
-   Link: [https://www.youtube.com/watch?v=CIhGAev0ZU4](https://www.youtube.com/watch?v=CIhGAev0ZU4)  
+   Link: <a href="https://www.youtube.com/watch?v=CIhGAev0ZU4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CIhGAev0ZU4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE TEX FILES - &quot;LUBBOCK LIGHTS&quot;...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=F8YFGCeM6eI](https://www.youtube.com/watch?v=F8YFGCeM6eI)  
+   Link: <a href="https://www.youtube.com/watch?v=F8YFGCeM6eI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F8YFGCeM6eI</a>

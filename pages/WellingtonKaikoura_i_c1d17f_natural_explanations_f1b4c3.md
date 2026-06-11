@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /wellington-kaikoura-incident-1978/
 nav_short_title: Explanations
 title: Natural Causes or Something Still Unresolved?
-title_full: Natural Causes or Something Still Unresolved? | Kaikoura Lights
+title_full: Natural Causes or Something Still Unresolved?
 display_title_short: Explanations
 display_title: Explanations
 heading_title: Natural Causes or Something Still Unresolved?
@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline-d801ba/
   short_title: Timeline
   heading_title: How the Kaikoura Lights Unfolded
-date: '2026-06-08 23:28:54 '
+date: '2026-06-11 13:17:39 '
 header:
   og_image: /assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-1-social.jpg
   preview_image: /assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-1.webp
@@ -249,7 +249,6 @@ image: /assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Il
 ## Introduction
 
 The unresolved debate surrounding the Wellington/Kaikōura incident of 1978 is not really about whether unusual lights were seen. That much is broadly accepted. The real dispute concerns whether the sightings can be fully explained by ordinary causes acting together under unusual conditions, or whether some observations remain resistant to conventional interpretation. The official New Zealand investigation leaned strongly toward atmospheric effects, astronomical objects, fishing fleets, and misleading radar returns. UFO researchers, pilots, and some technical analysts argued that those explanations only solved parts of the event while leaving key radar-visual episodes unanswered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Through our contacts with CUFOS... The Wellington radar ARV&#x27;s are described in the event description listing...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kaikōura lights</span><span class="citation-popover-snippet">Kaikōura lights</span></span></span> That tension is why the Kaikōura lights case still survives in discussions of UFO [evidence]({{ 'evidence-72f684/' | relative_url }}) decades later. Unlike many famous sightings, the disagreement was not simply “believers versus sceptics”. It involved meteorologists, radar operators, astronomers, defence officials, television crews, and optical analysts looking at the same material and reaching different conclusions about what it meant.
-
 
 <img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Air Force Atmospheric Explanation
@@ -263,7 +262,6 @@ This mattered because radar confirmation had always been one of the strongest fe
 The official position also emphasised how easily night-time perception can become distorted during long flights over water. Pilots looking toward dark horizons can misjudge distance, size, and movement, especially when isolated bright lights appear against cloud layers or haze. Atmospheric refraction can make stars or planets appear larger, brighter, coloured, or apparently mobile. Inversions over coastal regions are particularly known for exaggerating these effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kaikōura lights</span><span class="citation-popover-snippet">Kaikōura lights</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-title">air force report explains kaikoura ufo sightings</span><span class="citation-popover-snippet">Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</span></span></span>
 
 Importantly, the Air Force explanation was cumulative rather than singular. Different observations were assigned different causes:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -291,10 +289,9 @@ Supporters of the Venus explanation pointed out that some descriptions matched c
 * colour shifts caused by atmospheric scintillation,
 * and the illusion of pacing an aircraft.
 
-Critics, however, argued that Venus could not explain all phases of the event. Some witnesses reported lights changing relative position rapidly, appearing on radar, or being observed in locations inconsistent with the planet’s known position. Bruce Maccabee, one of the most prominent civilian investigators of the case, argued that planetary explanations failed to match the full sequence of observations and film characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingKaikoura, New Zealand IncidentMaccabbee concluded that the appearance of Venus and Jupiter neither mat...</span></span></span>
+Critics, however, argued that Venus could not explain all phases of the event. Some witnesses reported lights changing relative position rapidly, appearing on radar, or being observed in locations inconsistent with the planet’s known position. Bruce Maccabee, one of the most prominent civilian investigators of the case, argued that planetary explanations failed to match the full sequence of observations and film characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingKaikoura, New Zealand IncidentMaccabbee concluded that the appearance of Venus and Jupiter neither mat...</span></span></span>
 
 The dispute over Venus illustrates the broader problem with the case: even sceptics often conceded that some observations could plausibly have been Venus while others required different explanations.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ThtNG4lRqK8" title="Strange But True (UFOs - Pilots/UFOs - Kaikoura Lights)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ThtNG4lRqK8" target="_blank" rel="noopener noreferrer">Strange But True (UFOs - Pilots/UFOs - Kaikoura Lights)</a></p><p class="youtube-embed-meta">Channel: Dag Jab &middot; Views: 516 &middot; Uploaded: May 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ThtNG4lRqK8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ThtNG4lRqK8">Open on YouTube</a></p></div></div></div>
 
@@ -306,7 +303,6 @@ Government scientists from New Zealand’s Department of Scientific and Industri
 
 In practical terms, the squid-boat explanation solved several otherwise puzzling aspects of the footage:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * why some lights appeared stationary,
@@ -317,7 +313,7 @@ In practical terms, the squid-boat explanation solved several otherwise puzzling
 
 It also fit the geography of the South Island’s eastern coastal waters, where fishing operations were active.
 
-Yet the theory had weaknesses. Witnesses aboard the aircraft described some lights as apparently moving in coordination with the plane or changing relative position in ways inconsistent with distant vessels. Critics also questioned whether squid boats were actually present in the exact areas proposed at the relevant times. Maccabee in particular challenged the fishing-fleet explanation repeatedly, arguing that available records did not support the government’s assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs | Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingKaikoura, New Zealand IncidentMaccabbee concluded that the appearance of Venus and Jupiter neither mat...</span></span></span>
+Yet the theory had weaknesses. Witnesses aboard the aircraft described some lights as apparently moving in coordination with the plane or changing relative position in ways inconsistent with distant vessels. Critics also questioned whether squid boats were actually present in the exact areas proposed at the relevant times. Maccabee in particular challenged the fishing-fleet explanation repeatedly, arguing that available records did not support the government’s assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[Enigma Labs &#124; Report a UFO sighting]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingKaikoura, New Zealand IncidentMaccabbee concluded that the appearance of Venus and Jupiter neither mat...</span></span></span>
 
 The disagreement became partly methodological. Skeptics focused on whether the filmed lights could visually resemble fishing boats. UFO investigators focused on whether the boats could also account for simultaneous radar behaviour and witness descriptions.
 
@@ -330,7 +326,6 @@ One briefing stated that investigators had reproduced similar effects experiment
 This argument significantly reduced the evidential value of the famous footage in the eyes of sceptics. Instead of showing structured craft, the film might merely document how bright point sources deform under difficult filming conditions.
 
 However, critics of the official conclusion noted that the footage was never the sole basis for the case. Even if the film itself was ambiguous, witnesses still described unusual behaviour independently of the camera images.
-
 
 <img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why UFO Investigators Disputed the Conclusion
@@ -352,7 +347,6 @@ This became the key dividing line in interpretations:
 * sceptics viewed the radar contacts as independent false echoes accidentally matching ordinary lights,
 * while proponents saw the radar-visual overlap as evidence of genuinely anomalous targets.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3nPDmMCk9jo" title="The Kaikoura Lights Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3nPDmMCk9jo" target="_blank" rel="noopener noreferrer">The Kaikoura Lights Part 2</a></p><p class="youtube-embed-meta">Channel: Col &middot; Views: 103 &middot; Uploaded: April 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3nPDmMCk9jo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3nPDmMCk9jo">Open on YouTube</a></p></div></div></div>
 
 ### The Behaviour Described by Pilots
@@ -369,10 +363,9 @@ The unresolved question therefore became psychological as much as physical: how 
 
 One reason the debate never fully ended is that no single explanation covers every reported detail neatly. The official account itself effectively relied on a patchwork solution:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Venus for some lights, <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[enigmalabs.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs | Report a UFO sightingKaikoura, New Zealand IncidentMaccabbee concluded that the appearance of Venus and Jupiter neither mat...</span></span></span>
+* Venus for some lights, <span class="citation-chip-wrap"><a class="citation-chip" href="https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enigmalabs.io">[enigmalabs.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enigmalabs.io</span><span class="citation-popover-snippet">Enigma Labs &#124; Report a UFO sightingKaikoura, New Zealand IncidentMaccabbee concluded that the appearance of Venus and Jupiter neither mat...</span></span></span>
 * squid boats for others,
 * atmospheric refraction for others,
 * and radar ducting for the electronic anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: odt.co.nz">[Otago Daily Times Online News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">odt.co.nz</span><span class="citation-popover-title">air force report explains kaikoura ufo sightings</span><span class="citation-popover-snippet">Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</span></span></span>
@@ -384,7 +377,6 @@ To critics, that appeared overly ad hoc. They argued that a theory requiring sev
 Sceptics responded that real-world sightings often are messy combinations of unrelated events. Human observers naturally compress separate experiences into a single coherent narrative after the fact, especially once media attention intensifies.
 
 In many ways, the Kaikōura case became a textbook example of that broader UFO debate: whether complex reports are best explained by one extraordinary cause or by several overlapping ordinary ones.
-
 
 <img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-3-dark.svg" | relative_url }}" alt="Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f_natural_explanations_f1b4c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Case Still Feels Unsettled
@@ -401,7 +393,6 @@ The surviving uncertainty rests on several factors that continue to make the cas
 
 At the same time, every category of evidence contains weaknesses:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the radar returns may have been atmospherically distorted,
@@ -413,49 +404,89 @@ At the same time, every category of evidence contains weaknesses:
 
 That combination places the Kaikōura lights in an unusual middle ground. It is too well documented to dismiss casually, yet too ambiguous to establish as proof of anything extraordinary. The result is a case that continues to function less as evidence of alien visitation than as a long-running dispute over how humans interpret uncertain technical and visual information under unusual conditions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qceAKPFdXqo" title="THE WEIRDEST SIGHTINGS in NEW ZEALAND" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qceAKPFdXqo" target="_blank" rel="noopener noreferrer">THE WEIRDEST SIGHTINGS in NEW ZEALAND</a></p><p class="youtube-embed-meta">Channel: Shadow Matter &middot; Views: 57.1K &middot; Uploaded: February 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qceAKPFdXqo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qceAKPFdXqo">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Natural Causes or Something Still Unresolved?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Natural Causes or Something Still Unresolved?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Details the Air Force findings attributing the lights to the planet Venus, local fishing boats, and optical illusions under tracking comp...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Color+and+Light+in+Nature+by+David+K.+Lynch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Color and Light in Nature on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4Abp5FdhskAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Color and Light in Nature" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Color+and+Light+in+Nature+by+David+K.+Lynch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Color and Light in Nature">Color and Light in Nature</a>
+        </h4>
+        <p class="fr-book-author">By David K. Lynch, William Charles Livingston</p>
+        
+        <p class="fr-book-desc">Explains the exact physics of atmospheric ducting, superior mirages, and how surface lights are projected into upper tracking levels.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Color+and+Light+in+Nature+by+David+K.+Lynch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Addresses the underlying reasons why a collection of separate natural solutions fails to satisfy enthusiasts demanding a single neat answer.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Details the corporate case records filed by New Zealand defense officials during the formal post-flight inquiries.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Color+and+Light+in+Nature&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Color and Light in Nature</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -492,15 +523,15 @@ That combination places the Kaikōura lights in an unusual middle ground. It is 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Armory Models AR AW14405 Scale model kit 1/144 AW Argosy wheels w/weighted tires"><img src="https://i.ebayimg.com/images/g/gaAAAOSw4fpjtcvz/s-l225.jpg" alt="Listing image for Armory Models AR AW14405 Scale model kit 1/144 AW Argosy wheels w/weighted tires" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Armory Models AR AW14405 Scale model kit 1/144 AW Argosy wheels w/weighted tires</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Argosy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Argosy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +539,15 @@ That combination places the Kaikōura lights in an unusual middle ground. It is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Armory AR AW72422 Scale 1/72 A.W. Argosy wheels w/ weighted tires, early version"><img src="https://i.ebayimg.com/images/g/ZoMAAOSwQTRjuXd5/s-l225.jpg" alt="Listing image for Armory AR AW72422 Scale 1/72 A.W. Argosy wheels w/ weighted tires, early version" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Armory AR AW72422 Scale 1/72 A.W. Argosy wheels w/ weighted tires, early version</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Argosy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Argosy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,15 +555,15 @@ That combination places the Kaikōura lights in an unusual middle ground. It is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:200 Skyline A.W. ARGOSY RAF XP413"><img src="https://i.ebayimg.com/images/g/xaEAAeSwzmBp~aAb/s-l225.jpg" alt="Listing image for 1:200 Skyline A.W. ARGOSY RAF XP413" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:200 Skyline A.W. ARGOSY RAF XP413</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Argosy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Argosy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -540,15 +571,15 @@ That combination places the Kaikōura lights in an unusual middle ground. It is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Armory Models AR AW14406 Scale 1/144 A.W. Argosy wheels w/ weighted tires, late"><img src="https://i.ebayimg.com/images/g/-cwAAOSwCRxjtdTn/s-l225.jpg" alt="Listing image for Armory Models AR AW14406 Scale 1/144 A.W. Argosy wheels w/ weighted tires, late" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Armory Models AR AW14406 Scale 1/144 A.W. Argosy wheels w/ weighted tires, late</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Argosy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Argosy aircraft model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -556,7 +587,7 @@ That combination places the Kaikōura lights in an unusual middle ground. It is 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-3654c8-natural-causes-or-something-still-unresolved-wellington-kaikoura-incident-19-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Argosy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=natural-causes-or-something-still-unresolved-argosy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Argosy aircraft model" data-ebay-reference="natural-causes-or-something-still-unresolved-argosy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -771,81 +802,81 @@ That combination places the Kaikōura lights in an unusual middle ground. It is 
 
 1. <a id="endnote-1"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt](https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt)  
+   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Through our contacts with CUFOS... The Wellington radar ARV&#x27;s are described in the event description listing...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Kaikōura lights  
-   Link: [https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights](https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights</a>  
 
 3. <a id="endnote-3"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0](https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0)  
+   Link: <a href="https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigma Labs | Report a UFO sightingKaikoura, New Zealand IncidentMaccabbee concluded that the appearance of Venus and Jupiter neither mat...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: odt.co.nz  
    Title: air force report explains kaikoura ufo sightings  
-   Link: [https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings](https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings)  
+   Link: <a href="https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings" target="_blank" rel="noopener noreferrer nofollow">https://www.odt.co.nz/news/politics/air-force-report-explains-kaikoura-ufo-sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Otago Daily Times Online NewsAir Force report explains Kaikoura &quot;UFO sightings&quot;23 Dec 2010 — The RNZAF attributed the sightings to &quot;freak...</p></details>
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: nzgeo.com  
-   Link: [https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/](https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/)  
+   Link: <a href="https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/" target="_blank" rel="noopener noreferrer nofollow">https://www.nzgeo.com/stories/crowded-skies-the-ufo-experience-in-new-zealand/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crowded skiesJust after midnight, pilot Bill Startup and copilot Robert Guard noticed unfamiliar lights towards Kaikoura Peninsula.... t...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: tvi.show  
-   Link: [https://www.tvi.show/skywatch-files/the-1978-kaikoura-lights-new-zealands-ufo-enigma-examined-through-eyewitness-accounts-and-investigations](https://www.tvi.show/skywatch-files/the-1978-kaikoura-lights-new-zealands-ufo-enigma-examined-through-eyewitness-accounts-and-investigations)  
+   Link: <a href="https://www.tvi.show/skywatch-files/the-1978-kaikoura-lights-new-zealands-ufo-enigma-examined-through-eyewitness-accounts-and-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/skywatch-files/the-1978-kaikoura-lights-new-zealands-ufo-enigma-examined-through-eyewitness-accounts-and-investigations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1978 Kaikoura Lights UFO Incident: Eyewitness...1 May 2025 — Common explanations include bright planets, stars, the reflection of fi...</p></details>
    Published: May 2025  
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: the rnzafs orions were called to help in a variety of missions over the years bu  
-   Link: [https://www.facebook.com/AirForceMuseumofNewZealand/posts/the-rnzafs-orions-were-called-to-help-in-a-variety-of-missions-over-the-years-bu/745880247571085/](https://www.facebook.com/AirForceMuseumofNewZealand/posts/the-rnzafs-orions-were-called-to-help-in-a-variety-of-missions-over-the-years-bu/745880247571085/)  
+   Link: <a href="https://www.facebook.com/AirForceMuseumofNewZealand/posts/the-rnzafs-orions-were-called-to-help-in-a-variety-of-missions-over-the-years-bu/745880247571085/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirForceMuseumofNewZealand/posts/the-rnzafs-orions-were-called-to-help-in-a-variety-of-missions-over-the-years-bu/745880247571085/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The RNZAF&#x27;s Orions were called to help...In late December 1978 New Zealand was gripped by UFO fever after a series of unexplained sighti...</p></details>
    Published: December 1978  
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=3nPDmMCk9jo](https://www.youtube.com/watch?v=3nPDmMCk9jo)  
+   Link: <a href="https://www.youtube.com/watch?v=3nPDmMCk9jo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3nPDmMCk9jo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kaikoura Lights Part 2Whistleblower reveals UAP retrieval program; object caught on video | NewsNation. NewsNation and Ross Coulthart...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: anomalien.com  
    Title: kaikoura lights revisited new zealands most compelling ufo encounter  
-   Link: [https://anomalien.com/kaikoura-lights-revisited-new-zealands-most-compelling-ufo-encounter/](https://anomalien.com/kaikoura-lights-revisited-new-zealands-most-compelling-ufo-encounter/)  
+   Link: <a href="https://anomalien.com/kaikoura-lights-revisited-new-zealands-most-compelling-ufo-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://anomalien.com/kaikoura-lights-revisited-new-zealands-most-compelling-ufo-encounter/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kaikōura Lights Revisited: New Zealand&#x27;s Most Compelling...18 Feb 2025 — Government reports indicated the lights were most likely natura...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: academia.edu  
    Title: UFOs and the extraterrestrial contact movement a bibliography  
-   Link: [https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography](https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography)  
+   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NEW ZEALAND RADAR-VISUAL-PHOTOGRAPHIC SIGHTINGS OF ANOMALOUS LIGHTS, DECEMBER 31, 1978. [Silver Spring, Md.]: The...Read more...</p></details>
    Published: December 31, 1978  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: til on december 30 1978 an australian television  
-   Link: [https://www.reddit.com/r/todayilearned/comments/5l5x8g/til_on_december_30_1978_an_australian_television/](https://www.reddit.com/r/todayilearned/comments/5l5x8g/til_on_december_30_1978_an_australian_television/)  
+   Link: <a href="https://www.reddit.com/r/todayilearned/comments/5l5x8g/til_on_december_30_1978_an_australian_television/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/5l5x8g/til_on_december_30_1978_an_australian_television/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL on December 30 1978, an Australian television crew...TIL on December 30 1978, an Australian television crew recorded a supposed UFO...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1hh092j/recent_reported_uaps_reminded_me_of_this_story/](https://www.reddit.com/r/aliens/comments/1hh092j/recent_reported_uaps_reminded_me_of_this_story/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1hh092j/recent_reported_uaps_reminded_me_of_this_story/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hh092j/recent_reported_uaps_reminded_me_of_this_story/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t since this topic is intertwined with UFOs/UAPs as well as other...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: revisit ufos over kaikoura  
-   Link: [https://www.facebook.com/renewsnz/videos/revisit-ufos-over-kaikoura/2400155136896226/](https://www.facebook.com/renewsnz/videos/revisit-ufos-over-kaikoura/2400155136896226/)  
+   Link: <a href="https://www.facebook.com/renewsnz/videos/revisit-ufos-over-kaikoura/2400155136896226/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/renewsnz/videos/revisit-ufos-over-kaikoura/2400155136896226/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Since 1978, strange lights and radar readings have been...Since 1978, strange lights and radar readings have been sighted over the Kaiko...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NewZealandBrand/posts/-ufos-over-kaik%C5%8Dura-the-1978-lights-that-shocked-new-zealandin-december-1978-the/1283382197122543/](https://www.facebook.com/NewZealandBrand/posts/-ufos-over-kaik%C5%8Dura-the-1978-lights-that-shocked-new-zealandin-december-1978-the/1283382197122543/)  
+   Link: <a href="https://www.facebook.com/NewZealandBrand/posts/-ufos-over-kaik%C5%8Dura-the-1978-lights-that-shocked-new-zealandin-december-1978-the/1283382197122543/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewZealandBrand/posts/-ufos-over-kaik%C5%8Dura-the-1978-lights-that-shocked-new-zealandin-december-1978-the/1283382197122543/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over Kaikōura: The 1978 Lights That Shocked New...The official explanation pointed to squid boat lights, Venus, and radar anomalies...</p></details>

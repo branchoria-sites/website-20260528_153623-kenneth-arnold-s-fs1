@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Kaikoura Lights
   permalink: /wellington-kaikoura-incident-1978/
   short_title: Kaikoura Lights
-date: '2026-06-08 23:19:41 '
+date: '2026-06-11 13:12:05 '
 header:
   og_image: /assets/images/Washington_National_ee59a4-overview-social.jpg
   preview_image: /assets/images/Washington_National_ee59a4-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Washington_National_ee59a4-overview-social.jpg
 ## Introduction
 
 The case matters because it became the most politically visible incident of the 1952 UFO wave. It alarmed the Truman administration, pushed the Air Force into a major press conference, drew CIA attention to the national-security implications of mass UFO reporting, and helped set the stage for the Robertson Panel in January 1953. It remains a useful test case because both sides of the debate have something real to work with: credible [witnesses]({{ 'witnesses-284eec/' | relative_url }}) and contemporary concern on one side, but plausible technical explanations and weak physical evidence on the other. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Washington_National_ee59a4-overview.webp" | relative_url }}" alt="Overview image for Washington National sightings 1952" loading="eager" decoding="sync" fetchpriority="high">
 ## What happened over Washington in July 1952?
@@ -782,7 +781,6 @@ The witness problem is correlation. A strong radar-visual case would show the sa
 
 There is also a memory problem. Some of the most vivid public recollections were recorded years later, and later witnesses naturally interpreted their memories through decades of UFO controversy. That does not make them worthless, but it means the most reliable reconstruction should give greatest weight to contemporary records, Air Force files, radar-weather analysis and statements made close to the event.
 
-
 <img src="{{ "/assets/images/Washington_National_ee59a4-Illustration-1-dark.svg" | relative_url }}" alt="Washington National sightings 1952 illustration 1" data-theme-src-dark="{{ "/assets/images/Washington_National_ee59a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_National_ee59a4-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The official response was fast, public and uneasy
 
@@ -803,7 +801,6 @@ This explanation was not invented decades later. The CIA’s historical account 
 The most detailed publicly accessible technical discussion is in the Condon Report’s optical and radar analysis. Thayer judged that a 1953 analysis by Borden and Vickers was “an excellent analysis of the probable radar situation” during the July 1952 Washington sightings. According to that review, similar radar targets were observed in August 1952, and their behaviour suggested ground returns seen by partial reflections from moving atmospheric layers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Section II</span><span class="citation-popover-snippet">Files Condon Report, Section II</span></span></span>
 
 Thayer’s summary is important because it does not merely wave at “weather” in a vague way. It states that atmospheric conditions in the Washington area during 19–20 and 25–27 July were conducive to anomalous propagation; that the unidentified radar returns were most likely AP; and that the visual objects were, with one or two possible exceptions, most probably meteors and scintillating stars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p2HCEm-g1TY" title="Did Aliens Invade Washington D.C. In 1952? | Dark History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p2HCEm-g1TY" target="_blank" rel="noopener noreferrer">Did Aliens Invade Washington D.C. In 1952? | Dark History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 249.2K &middot; Uploaded: October 2018 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p2HCEm-g1TY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p2HCEm-g1TY">Open on YouTube</a></p></div></div></div>
 
@@ -827,7 +824,6 @@ The Cold War context matters. CIA officials worried that a flood of UFO reports 
 
 This led to the Robertson Panel, convened in January 1953 under physicist H. P. Robertson. The panel reviewed Air Force UFO evidence and concluded unanimously that the available sightings showed no direct threat to national security and no evidence of extraterrestrial objects. It did, however, warn that continued emphasis on UFO reporting could disrupt government functioning and might be exploited by enemies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Washington_National_ee59a4-Illustration-2-dark.svg" | relative_url }}" alt="Washington National sightings 1952 illustration 2" data-theme-src-dark="{{ "/assets/images/Washington_National_ee59a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_National_ee59a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The case against an extraordinary craft hypothesis
 
@@ -841,7 +837,6 @@ Third, the official long-term position never shifted towards extraordinary techn
 
 That said, the mundane explanation is not perfect in a courtroom sense. It is a best-fit reconstruction from incomplete records, not a frame-by-frame replication of every blip and light. The reasonable sceptical conclusion is therefore narrower than “nothing happened”: something was reported by serious people, but the available evidence is better explained by radar propagation, misidentified lights and Cold War amplification than by unknown craft over Washington.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4-MbGYAv7Cg" title="Maj. Gen. John A. Samford&#x27;s Statement on &quot;Flying Saucers&quot;, Pentagon, Washington, DC, 07/31/1952" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4-MbGYAv7Cg" target="_blank" rel="noopener noreferrer">Maj. Gen. John A. Samford&#x27;s Statement on &quot;Flying Saucers&quot;, Pentagon, Washington, DC, 07/31/1952</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 333.6K &middot; Uploaded: September 2013 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4-MbGYAv7Cg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4-MbGYAv7Cg">Open on YouTube</a></p></div></div></div>
 
 ## Why the 1952 sightings still shape UFO debates
@@ -854,7 +849,6 @@ For sceptics, the case is a textbook warning about over-reading radar. Radar is 
 
 For historians, the case shows how government secrecy can create suspicion even when the underlying concern is mundane. CIA officials wanted to conceal their interest partly because they feared public overreaction. Yet that secrecy later fed claims of cover-up. The CIA’s own historical review acknowledges that keeping Agency sponsorship of the Robertson Panel quiet contributed to later credibility problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[FAS Project on Government Secrecy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jj3DhKSaw0w" title="UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer">UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 18.4K &middot; Uploaded: July 2025 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jj3DhKSaw0w">Open on YouTube</a></p></div></div></div>
 
 ## Best assessment
@@ -865,48 +859,89 @@ The best-supported interpretation, however, is not that structured unknown craft
 
 The lasting lesson of the case is that “unidentified” is not a synonym for “extraordinary vehicle”. In Washington in 1952, unidentified meant that radar, weather, human perception, press pressure and Cold War fear combined faster than investigators could sort them out. That combination made the sightings historically important, but it does not make them strong evidence of extraterrestrial visitation.
 
-
 <img src="{{ "/assets/images/Washington_National_ee59a4-Illustration-3-dark.svg" | relative_url }}" alt="Washington National sightings 1952 illustration 3" data-theme-src-dark="{{ "/assets/images/Washington_National_ee59a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Washington_National_ee59a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Flew Over Washington?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Flew Over Washington?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides an objective case-file entry documenting the Washington National sightings, summarizing the professional witness accounts and th...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Details Ruppelt&#x27;s investigative notes on the Washington events and explains why it was considered a major file in the Project Blue Book era.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches methodologies to evaluate cases based on clustered sighting reports and assess competing natural explanations like temperature in...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides institutional background on how 1950s investigative bureaus managed the public relations and intelligence workload during sighti...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -943,15 +978,15 @@ The lasting lesson of the case is that “unidentified” is not a synonym for �
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -959,15 +994,15 @@ The lasting lesson of the case is that “unidentified” is not a synonym for �
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -975,31 +1010,15 @@ The lasting lesson of the case is that “unidentified” is not a synonym for �
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -1007,7 +1026,7 @@ The lasting lesson of the case is that “unidentified” is not a synonym for �
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="washington-national-sightings-1952-what-really-flew-over-washington-ufo-poster-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1222,225 +1241,225 @@ The lasting lesson of the case is that “unidentified” is not a synonym for �
 
 1. <a id="endnote-1"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/library/ciaufo.html](https://sgp.fas.org/library/ciaufo.html)  
+   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
 
 2. <a id="endnote-2"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/s3chap05.htm](https://files.ncas.org/condon/text/s3chap05.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/s3chap05.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap05.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Sec III, Chapter 5: Optical &amp; Radar Analysis...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/s5chap02.htm](https://files.ncas.org/condon/text/s5chap02.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/s5chap02.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s5chap02.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Sec V, Chapter 2: UFOs: 1947 - 1968...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 5. <a id="endnote-5"></a>
    Source: docsteach.org  
-   Link: [https://docsteach.org/document/samford-statement-on-flying-saucers/](https://docsteach.org/document/samford-statement-on-flying-saucers/)  
+   Link: <a href="https://docsteach.org/document/samford-statement-on-flying-saucers/" target="_blank" rel="noopener noreferrer nofollow">https://docsteach.org/document/samford-statement-on-flying-saucers/</a>  
 
 6. <a id="endnote-6"></a>
    Source: upload.wikimedia.org  
    Title: Commonsdepartment of defense  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/7/78/General_Samford_Press_Conference%2C_July_29%2C_1952.pdf](https://upload.wikimedia.org/wikipedia/commons/7/78/General_Samford_Press_Conference%2C_July_29%2C_1952.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/7/78/General_Samford_Press_Conference%2C_July_29%2C_1952.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/7/78/General_Samford_Press_Conference%2C_July_29%2C_1952.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Edward J. Ruppelt  
-   Link: [https://en.wikipedia.org/wiki/Edward_J._Ruppelt](https://en.wikipedia.org/wiki/Edward_J._Ruppelt)  
+   Link: <a href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edward_J._Ruppelt</a>  
 
 8. <a id="endnote-8"></a>
    Source: files.ncas.org  
    Title: Files Condon Report, Section II  
-   Link: [https://files.ncas.org/condon/text/sec-ii.htm](https://files.ncas.org/condon/text/sec-ii.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-ii.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: [https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident](https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 12. <a id="endnote-12"></a>
    Source: prologue.blogs.archives.gov  
-   Link: [https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf](https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf)  
+   Link: <a href="https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/wp-content/uploads/sites/9/2018/03/report.pdf</a>  
 
 13. <a id="endnote-13"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
 14. <a id="endnote-14"></a>
    Source: prologue.blogs.archives.gov  
    Title: saucers over washington the history of project blue book  
-   Link: [https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/](https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
 15. <a id="endnote-15"></a>
    Source: catalog.archives.gov  
-   Link: [https://catalog.archives.gov/id/25738](https://catalog.archives.gov/id/25738)  
+   Link: <a href="https://catalog.archives.gov/id/25738" target="_blank" rel="noopener noreferrer nofollow">https://catalog.archives.gov/id/25738</a>  
 
 16. <a id="endnote-16"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100010001 0  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010001-0.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
 18. <a id="endnote-18"></a>
    Source: cia.gov  
    Title: CIA RDP81R00560R000100030027 0  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100030027-0.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100030027-0.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100030027-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100030027-0.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: cia.gov  
    Title: CIA RDP79B00752A000300100010 4  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP75-00149R000500070002-1.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP75-00149R000500070002-1.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP75-00149R000500070002-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP75-00149R000500070002-1.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: cia.gov  
    Title: role study UFOs  
-   Link: [https://www.cia.gov/resources/csi/static/cia-role-study-UFOs.pdf](https://www.cia.gov/resources/csi/static/cia-role-study-UFOs.pdf)  
+   Link: <a href="https://www.cia.gov/resources/csi/static/cia-role-study-UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/resources/csi/static/cia-role-study-UFOs.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: cia.gov  
    Title: DOC 0005517565  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0005517565.pdf](https://www.cia.gov/readingroom/docs/DOC_0005517565.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005517565.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005517565.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100030027-0</a>  
 
 24. <a id="endnote-24"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 25. <a id="endnote-25"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf](https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0005516124.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP69B00369R000200240055-8.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP69B00369R000200240055-8.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP69B00369R000200240055-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP69B00369R000200240055-8.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: cia.gov  
    Title: DOC 0000838057  
-   Link: [https://www.cia.gov/readingroom/docs/DOC_0000838057.pdf](https://www.cia.gov/readingroom/docs/DOC_0000838057.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/DOC_0000838057.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/DOC_0000838057.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070010-4.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070010-4.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070010-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP88-01315R000300070010-4.pdf</a>  
 
 29. <a id="endnote-29"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100020012-7.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100020012-7.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100020012-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100020012-7.pdf</a>  
 
 31. <a id="endnote-31"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/s3chap03.htm](https://files.ncas.org/condon/text/s3chap03.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap03.htm</a>  
 
 32. <a id="endnote-32"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/s3chap04.htm](https://files.ncas.org/condon/text/s3chap04.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/s3chap04.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap04.htm</a>  
 
 33. <a id="endnote-33"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/contents.htm](https://files.ncas.org/condon/text/contents.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/contents.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/contents.htm</a>  
 
 34. <a id="endnote-34"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/s3chap01.htm](https://files.ncas.org/condon/text/s3chap01.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/s3chap01.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap01.htm</a>  
 
 35. <a id="endnote-35"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/case49.htm](https://files.ncas.org/condon/text/case49.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case49.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case49.htm</a>  
 
 36. <a id="endnote-36"></a>
    Source: ncas.org  
-   Link: [https://www.ncas.org/condon/text/s6chap07.htm](https://www.ncas.org/condon/text/s6chap07.htm)  
+   Link: <a href="https://www.ncas.org/condon/text/s6chap07.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ncas.org/condon/text/s6chap07.htm</a>  
 
 37. <a id="endnote-37"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/s6chap04.htm](https://files.ncas.org/condon/text/s6chap04.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/s6chap04.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s6chap04.htm</a>  
 
 38. <a id="endnote-38"></a>
    Source: washingtonpost.com  
-   Link: [https://www.washingtonpost.com/archive/lifestyle/2002/07/21/50-years-ago-unidentified-flying-objects-from-way-beyond-the-beltway-seized-the-capitals-imagination/59f74156-51f4-4204-96df-e12be061d3f8/](https://www.washingtonpost.com/archive/lifestyle/2002/07/21/50-years-ago-unidentified-flying-objects-from-way-beyond-the-beltway-seized-the-capitals-imagination/59f74156-51f4-4204-96df-e12be061d3f8/)  
+   Link: <a href="https://www.washingtonpost.com/archive/lifestyle/2002/07/21/50-years-ago-unidentified-flying-objects-from-way-beyond-the-beltway-seized-the-capitals-imagination/59f74156-51f4-4204-96df-e12be061d3f8/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/archive/lifestyle/2002/07/21/50-years-ago-unidentified-flying-objects-from-way-beyond-the-beltway-seized-the-capitals-imagination/59f74156-51f4-4204-96df-e12be061d3f8/</a>  
 
 39. <a id="endnote-39"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf](https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/archives.foundation/posts/watch-the-skies-tonight-there-might-be-something-out-thereon-the-night-of-july-1/10154403111074901/](https://www.facebook.com/archives.foundation/posts/watch-the-skies-tonight-there-might-be-something-out-thereon-the-night-of-july-1/10154403111074901/)  
+   Link: <a href="https://www.facebook.com/archives.foundation/posts/watch-the-skies-tonight-there-might-be-something-out-thereon-the-night-of-july-1/10154403111074901/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/archives.foundation/posts/watch-the-skies-tonight-there-might-be-something-out-thereon-the-night-of-july-1/10154403111074901/</a>  
 
 41. <a id="endnote-41"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=p2HCEm-g1TY](https://www.youtube.com/watch?v=p2HCEm-g1TY)  
+   Link: <a href="https://www.youtube.com/watch?v=p2HCEm-g1TY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p2HCEm-g1TY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: UFO Cover-Up Inside the U.S. Government (Season 5) | History...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: buzzsprout.com  
-   Link: [https://www.buzzsprout.com/2368827/15140336/transcript](https://www.buzzsprout.com/2368827/15140336/transcript)  
+   Link: <a href="https://www.buzzsprout.com/2368827/15140336/transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.buzzsprout.com/2368827/15140336/transcript</a>  
 
 44. <a id="endnote-44"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/scififan/posts/5567239276660528/](https://www.facebook.com/groups/scififan/posts/5567239276660528/)  
+   Link: <a href="https://www.facebook.com/groups/scififan/posts/5567239276660528/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scififan/posts/5567239276660528/</a>  
 
 45. <a id="endnote-45"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/](https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/</a>  
 
 46. <a id="endnote-46"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
 
 47. <a id="endnote-47"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thetimesherald/posts/new-government-ufo-files-reveal-apollo-17-astronauts-saw-fourth-of-july-like-fla/1814543713274775/](https://www.facebook.com/thetimesherald/posts/new-government-ufo-files-reveal-apollo-17-astronauts-saw-fourth-of-july-like-fla/1814543713274775/)  
+   Link: <a href="https://www.facebook.com/thetimesherald/posts/new-government-ufo-files-reveal-apollo-17-astronauts-saw-fourth-of-july-like-fla/1814543713274775/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thetimesherald/posts/new-government-ufo-files-reveal-apollo-17-astronauts-saw-fourth-of-july-like-fla/1814543713274775/</a>  
 
 48. <a id="endnote-48"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/500514746808351/posts/2695407703985700/](https://www.facebook.com/groups/500514746808351/posts/2695407703985700/)  
+   Link: <a href="https://www.facebook.com/groups/500514746808351/posts/2695407703985700/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/500514746808351/posts/2695407703985700/</a>  
 
 49. <a id="endnote-49"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo13.htm](https://sacred-texts.com/ufo/rufo/rufo13.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo13.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo13.htm</a>  
 
 50. <a id="endnote-50"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo14.htm](https://sacred-texts.com/ufo/rufo/rufo14.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo14.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo14.htm</a>  
 
 51. <a id="endnote-51"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/Normanfrankelestian/posts/35652876067692899/](https://www.facebook.com/groups/Normanfrankelestian/posts/35652876067692899/)  
+   Link: <a href="https://www.facebook.com/groups/Normanfrankelestian/posts/35652876067692899/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Normanfrankelestian/posts/35652876067692899/</a>

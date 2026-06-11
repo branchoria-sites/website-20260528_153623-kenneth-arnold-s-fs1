@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /roswell-1947-c36fe7-index/
 description: Focused pages that expand on Roswell 1947.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Roswell_1947_c36fe7
 parent_title: Roswell 1947

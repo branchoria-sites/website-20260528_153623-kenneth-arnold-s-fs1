@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /middle-east-uap-vide-4a6c55-index/
 description: Focused pages that expand on Middle East UAP video 2022.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Middle_East_UAP_vide_4a6c55
 parent_title: Middle East UAP video 2022

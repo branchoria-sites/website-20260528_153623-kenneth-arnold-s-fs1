@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /orfeo-angelucci-encounter-1955/
 nav_short_title: Space Journey
 title: Inside Angelucci's Claimed Journey Into Space
-title_full: Inside Angelucci's Claimed Journey Into Space | Angelucci
+title_full: Inside Angelucci's Claimed Journey Into Space
 display_title_short: Space Journey
 display_title: Space Journey
 heading_title: Inside Angelucci's Claimed Journey Into Space
@@ -216,7 +216,7 @@ sibling_links:
   title: Contactee Era | Was Angelucci's Saucer Story Evidence or Revelation?
   permalink: /contactee-era/
   short_title: Contactee Era
-  heading_title: Why Angelucci Became a 1950s Contactee Figure
+  heading_title: Why Angelucci Became a 1950 s Contactee Figure
 - basename: Orfeo_Angelucci_enco_bef29a_may_1952_first_conta_2f2627
   title: First Contact | Was Angelucci's Saucer Story Evidence or Revelation?
   permalink: /first-contact/
@@ -233,7 +233,7 @@ prev_link:
   permalink: /first-contact/
   short_title: First Contact
   heading_title: What Did Angelucci Say Happened First?
-date: '2026-06-08 23:29:12 '
+date: '2026-06-11 13:17:54 '
 header:
   og_image: /assets/images/Orfeo_Angelucci_enco_bef29a_space_journey_messag_a19ffe-Illustration-1-social.jpg
   preview_image: /assets/images/Orfeo_Angelucci_enco_bef29a_space_journey_messag_a19ffe-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/Orfeo_Angelucci_enco_bef29a_space_journey_messag_a19ffe-Il
 ## Introduction
 
 The most dramatic section of Orfeo Angelucci’s contactee narrative was not his first sighting of strange lights, but his claim that he briefly travelled into space inside a luminous craft in July 1952. In Angelucci’s telling, the journey combined mechanical detail, mystical revelation and moral instruction. He described a glowing “bubble” vehicle near the Hyperion Avenue bridge in Los Angeles, a silent ascent beyond Earth, the sight of a gigantic mother ship, and a message that humanity stood at a spiritual crossroads. The episode became one of the defining stories of the 1950s UFO contactee movement because it merged Cold War anxiety with religious imagery and optimistic cosmic philosophy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos04.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter II</span><span class="citation-popover-snippet">I Travel in a Flyi...May 27, 1955 — The place is eerie and forbidding at night, for huge concrete buttresses rise from it supporting the...</span><span class="citation-popover-meta">Published: May 27, 1955</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Unlike later alien-abduction accounts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Orfeo Angelucci</span><span class="citation-popover-snippet">Orfeo Angelucci</span></span></span>, Angelucci’s story emphasised benevolent beings rather than terror. The alleged visitors warned against war, hatred and materialism, presenting themselves as guardians who could advise humanity but not openly intervene. The resulting narrative sat somewhere between science-fiction adventure, spiritual testimony and apocalyptic sermon, helping to shape the wider “Space Brothers” mythology of the era. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos04.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter II</span><span class="citation-popover-snippet">I Travel in a Flyi...May 27, 1955 — The place is eerie and forbidding at night, for huge concrete buttresses rise from it supporting the...</span><span class="citation-popover-meta">Published: May 27, 1955</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Orfeo Angelucci</span><span class="citation-popover-snippet">Orfeo Angelucci</span></span></span>
-
 
 <img src="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_space_journey_messag_a19ffe-Illustration-1-dark.svg" | relative_url }}" alt="Space Journey illustration 1" data-theme-src-dark="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_space_journey_messag_a19ffe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_space_journey_messag_a19ffe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Bubble-Like Craft Near Hyperion Bridge
@@ -255,7 +254,6 @@ Inside the craft, Angelucci described an iridescent chamber with curved walls an
 The technological imagery is important because it reflected a broader pattern in early contactee literature. Contactees of the 1950s often tried to blend futuristic engineering with spiritual cosmology. Angelucci’s saucer was not portrayed as an industrial machine full of switches and rivets. It behaved more like a living or intelligent system responding to consciousness itself. That approach distinguished contactee stories from later military-style UFO reports focused on radar tracks or structured craft observations.
 
 His account also included altered states of awareness. Angelucci wrote that his consciousness became dulled or dream-like as he approached the object, and later described sensations of serenity and expanded understanding. Critics later argued that these elements resembled dissociation, visionary states or mystical experience more than ordinary physical travel. Even sympathetic UFO researchers acknowledged that the episode moved quickly from claimed observation into metaphysical revelation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HPDbZYvNROM" title="Orfeo M Angelucci Travelling In A Disk From Another World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HPDbZYvNROM" target="_blank" rel="noopener noreferrer">Orfeo M Angelucci Travelling In A Disk From Another World</a></p><p class="youtube-embed-meta">Channel: Brian Scott &middot; Views: 20.2K &middot; Uploaded: October 2021 &middot; Length: 1 hour 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HPDbZYvNROM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HPDbZYvNROM">Open on YouTube</a></p></div></div></div>
 
@@ -271,13 +269,12 @@ The story also carried unmistakable religious overtones. Angelucci described mom
 
 This spiritual framing explains why psychologist Carl Jung paid attention to Angelucci’s account. Jung did not endorse the literal reality of the journey, but he considered it culturally significant because it expressed modern anxieties and hopes through mythic imagery. In Jung’s interpretation, flying-saucer narratives often acted as symbolic dramas about salvation, cosmic order and humanity’s fear of self-destruction during the nuclear age. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Truman_Bethurum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Truman Bethurum</span><span class="citation-popover-snippet">Truman Bethurum</span></span></span>
 
-
 <img src="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_space_journey_messag_a19ffe-Illustration-2-dark.svg" | relative_url }}" alt="Space Journey illustration 2" data-theme-src-dark="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_space_journey_messag_a19ffe-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_space_journey_messag_a19ffe-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## War, Brotherhood and Cosmic Warning
 
 The emotional centre of Angelucci’s journey was not technology but moral warning. The beings in his narrative repeatedly insisted that humanity was spiritually immature and endangered by hatred, violence and atomic weapons. They described themselves not as conquerors but as “older brothers” attempting to guide civilisation away from catastrophe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/sos/sos04.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-title">Internet Sacred Text Archive The Secret of the Saucers: Chapter II</span><span class="citation-popover-snippet">I Travel in a Flyi...May 27, 1955 — The place is eerie and forbidding at night, for huge concrete buttresses rise from it supporting the...</span><span class="citation-popover-meta">Published: May 27, 1955</span></span></span>
 
-These messages reflected the climate of the early Cold War. Angelucci’s experiences began only a few years after Hiroshima and Nagasaki, during a period of nuclear testing, anti-Communist tension and widespread fear of global destruction. Contactee stories often transformed those anxieties into cosmic narratives in which advanced extraterrestrials monitored Earth’s progress and worried about human self-annihilation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/23413704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">JSTORThe UFO Contact Movement from the 1950s to the PresentApril 27, 1995 — by CD Bader · 1995 · Cited by 16 — In 1952 George Adamski col...</span><span class="citation-popover-meta">Published: April 27, 1995</span></span></span>
+These messages reflected the climate of the early Cold War. Angelucci’s experiences began only a few years after Hiroshima and Nagasaki, during a period of nuclear testing, anti-Communist tension and widespread fear of global destruction. Contactee stories often transformed those anxieties into cosmic narratives in which advanced extraterrestrials monitored Earth’s progress and worried about human self-annihilation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/23413704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">The UFO Contact Movement from the 1950s to the PresentApril 27, 1995 — by CD Bader · 1995 · Cited by 16 — In 1952 George Adamski col...</span><span class="citation-popover-meta">Published: April 27, 1995</span></span></span>
 
 Angelucci’s spiritual message rested on several recurring themes:
 
@@ -289,7 +286,6 @@ Angelucci’s spiritual message rested on several recurring themes:
 This message closely matched the broader “Space Brothers” movement of the 1950s, in which contactees claimed encounters with attractive, peaceful humanoids who promoted universal brotherhood and warned against nuclear war. Similar themes appeared in the writings of George Adamski, George Van Tassel and Truman Bethurum. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Van Tassel</span><span class="citation-popover-snippet">George Van Tassel</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Orfeo Angelucci</span><span class="citation-popover-snippet">Orfeo Angelucci</span></span></span>
 
 Yet Angelucci’s version carried a particularly emotional and mystical tone. He presented himself as physically frail, anxious and spiritually searching long before the encounters began. In his telling, that vulnerability made him receptive to higher communication. The journey into space therefore functioned not only as a UFO adventure but also as a personal conversion narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R-zvdf_LZRA" title="Episode 73 Orfeo Angelucci - The Secret of the Saucers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R-zvdf_LZRA" target="_blank" rel="noopener noreferrer">Episode 73 Orfeo Angelucci - The Secret of the Saucers</a></p><p class="youtube-embed-meta">Channel: Astonishing Legends &middot; Views: 1.2K &middot; Uploaded: January 2022 &middot; Length: 2 hours 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R-zvdf_LZRA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R-zvdf_LZRA">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +299,6 @@ Sceptics, however, regarded the journey very differently. Critics argued that th
 
 Even so, the story left a lasting imprint on UFO culture. Many later contactee and New Age movements repeated Angelucci’s themes of cosmic guardianship, hidden spiritual evolution and extraterrestrial concern about nuclear conflict. The combination of saucer technology and moral revelation became one of the defining templates of the [contactee era]({{ 'contactee-era/' | relative_url }}).
 
-
 <img src="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_space_journey_messag_a19ffe-Illustration-3-dark.svg" | relative_url }}" alt="Space Journey illustration 3" data-theme-src-dark="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_space_journey_messag_a19ffe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Orfeo_Angelucci_enco_bef29a_space_journey_messag_a19ffe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Journey as Myth, Vision or Claimed Encounter
 
@@ -311,49 +306,89 @@ Whether interpreted as literal truth, symbolic vision or imaginative constructio
 
 For believers, the episode represented an authentic encounter with advanced intelligences offering guidance to humanity. For sceptics, it illustrated how Cold War fears, science-fiction imagery and mystical longing could merge into compelling personal mythology. Either way, the “space journey” section of Angelucci’s account became the emotional core of his public identity and one of the best-known examples of early UFO spirituality.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nAfaFTehnZU" title="The Secret of the Saucers. By Ofreo M. Angelucci. Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nAfaFTehnZU" target="_blank" rel="noopener noreferrer">The Secret of the Saucers. By Ofreo M. Angelucci. Audiobook</a></p><p class="youtube-embed-meta">Channel: Full Length Audiobooks &middot; Views: 875 &middot; Uploaded: January 2024 &middot; Length: 4 hours 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nAfaFTehnZU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nAfaFTehnZU">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Inside Angelucci&#x27;s Claimed Journey Into Space, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Inside Angelucci&#x27;s Claimed Journey Into Space. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Orfeo Angelucci guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Orfeo+Angelucci+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers+by+Orfeo+Angelucci&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret of the Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LUk4zgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Secret of the Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers+by+Orfeo+Angelucci&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret of the Saucers">The Secret of the Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Orfeo Angelucci</p>
+        
+        <p class="fr-book-desc">Contains his first-hand descriptions of the bubble-like craft near the Hyperion Avenue bridge, the silent ascent, and the giant mother ship.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers+by+Orfeo+Angelucci&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Space Brothers guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Space+Brothers+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Examines why early contactee claims focused on benevolent instruction and mystical revelations rather than the terror of modern abductions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Synthetic Crystal Brains guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Synthetic+Crystal+Brains+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nikola Tesla Journey to Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hd0LAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nikola Tesla Journey to Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nikola Tesla Journey to Mars">Nikola Tesla Journey to Mars</a>
+        </h4>
+        <p class="fr-book-author">By Sean Casteel</p>
+        
+        <p class="fr-book-desc">Details the classic 1950s narrative paradigm of taking physical journeys into orbit inside glowing extraterrestrial vehicles.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars+by+Sean+Casteel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches critical field investigation metrics to analyze why physical trace claims are consistently missing from contactee testimonies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+of+the+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret of the Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nikola+Tesla+Journey+to+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nikola Tesla Journey to Mars</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -390,15 +425,15 @@ For believers, the episode represented an authentic encounter with advanced inte
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -406,15 +441,15 @@ For believers, the episode represented an authentic encounter with advanced inte
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -422,15 +457,15 @@ For believers, the episode represented an authentic encounter with advanced inte
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -438,15 +473,15 @@ For believers, the episode represented an authentic encounter with advanced inte
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -454,7 +489,7 @@ For believers, the episode represented an authentic encounter with advanced inte
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-us-navy-ship-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="space-journey-inside-angelucci-s-claimed-journey-into-space-orfeo-angelucci-encounter-1955-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -670,127 +705,127 @@ For believers, the episode represented an authentic encounter with advanced inte
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Orfeo Angelucci  
-   Link: [https://en.wikipedia.org/wiki/Orfeo_Angelucci](https://en.wikipedia.org/wiki/Orfeo_Angelucci)  
+   Link: <a href="https://en.wikipedia.org/wiki/Orfeo_Angelucci" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Orfeo_Angelucci</a>  
 
 2. <a id="endnote-2"></a>
    Source: encyclopedia.com  
    Title: angelucci orfeo 1912 1993  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angelucci-orfeo-1912-1993](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angelucci-orfeo-1912-1993)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angelucci-orfeo-1912-1993" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/angelucci-orfeo-1912-1993</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci, Orfeo (1912-1993)Orfeo Angelucci, one of the original group of men who claimed to have made contact with the extraterrestrial...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Contactee](https://en.wikipedia.org/wiki/Contactee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Space Brothers  
-   Link: [https://en.wikipedia.org/wiki/Space_Brothers](https://en.wikipedia.org/wiki/Space_Brothers)  
+   Link: <a href="https://en.wikipedia.org/wiki/Space_Brothers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_Brothers</a>  
 
 5. <a id="endnote-5"></a>
    Source: montalk.net  
    Title: Orfeo Angelucci Secret Of The Saucers  
-   Link: [https://montalk.net/OrfeoAngelucci-SecretOfTheSaucers.pdf](https://montalk.net/OrfeoAngelucci-SecretOfTheSaucers.pdf)  
+   Link: <a href="https://montalk.net/OrfeoAngelucci-SecretOfTheSaucers.pdf" target="_blank" rel="noopener noreferrer nofollow">https://montalk.net/OrfeoAngelucci-SecretOfTheSaucers.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE SECRET OF THE SAUCERSJuly 25, 2007 — These impressions are relayed to the Mother. Ship where they are permanently recorded upon what...</p></details>
    Published: July 25, 2007  
 
 6. <a id="endnote-6"></a>
    Source: jstor.org  
-   Link: [https://www.jstor.org/stable/23413704](https://www.jstor.org/stable/23413704)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JSTORThe UFO Contact Movement from the 1950s to the PresentApril 27, 1995 — by CD Bader · 1995 · Cited by 16 — In 1952 George Adamski col...</p></details>
+   Link: <a href="https://www.jstor.org/stable/23413704" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/23413704</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Contact Movement from the 1950s to the PresentApril 27, 1995 — by CD Bader · 1995 · Cited by 16 — In 1952 George Adamski col...</p></details>
    Published: April 27, 1995  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Truman Bethurum  
-   Link: [https://en.wikipedia.org/wiki/Truman_Bethurum](https://en.wikipedia.org/wiki/Truman_Bethurum)  
+   Link: <a href="https://en.wikipedia.org/wiki/Truman_Bethurum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Truman_Bethurum</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: George Van Tassel  
-   Link: [https://en.wikipedia.org/wiki/George_Van_Tassel](https://en.wikipedia.org/wiki/George_Van_Tassel)  
+   Link: <a href="https://en.wikipedia.org/wiki/George_Van_Tassel" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Van_Tassel</a>  
 
 9. <a id="endnote-9"></a>
    Source: sacred-texts.com  
    Title: Internet Sacred Text Archive The Secret of the Saucers: Chapter II  
-   Link: [https://sacred-texts.com/ufo/sos/sos04.htm](https://sacred-texts.com/ufo/sos/sos04.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/sos/sos04.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/sos04.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Travel in a Flyi...May 27, 1955 — The place is eerie and forbidding at night, for huge concrete buttresses rise from it supporting the...</p></details>
    Published: May 27, 1955  
 
 10. <a id="endnote-10"></a>
    Source: sacred-texts.com  
    Title: Internet Sacred Text Archive The Secret of the Saucers: Chapter I  
-   Link: [https://sacred-texts.com/ufo/sos/sos03.htm](https://sacred-texts.com/ufo/sos/sos03.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/sos/sos03.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/sos/sos03.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disk From Anoth...May 27, 1955 — All are of kindly intent and none will harm man. All intelligences capable of space travel can read...</p></details>
    Published: May 27, 1955  
 
 11. <a id="endnote-11"></a>
    Source: globalgreyebooks.com  
    Title: Global Grey The Secret of the Saucers by Ofreo M  
-   Link: [https://www.globalgreyebooks.com/secret-of-the-saucers-ebook.html](https://www.globalgreyebooks.com/secret-of-the-saucers-ebook.html)  
+   Link: <a href="https://www.globalgreyebooks.com/secret-of-the-saucers-ebook.html" target="_blank" rel="noopener noreferrer nofollow">https://www.globalgreyebooks.com/secret-of-the-saucers-ebook.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci, free ebookThis autobiographical account details Angelucci&#x27;s extraordinary encounters with extraterrestrial beings during the h...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scribd.com  
    Title: orfeo angelucci  
-   Link: [https://www.scribd.com/document/800711656/orfeo-angelucci](https://www.scribd.com/document/800711656/orfeo-angelucci)  
+   Link: <a href="https://www.scribd.com/document/800711656/orfeo-angelucci" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/800711656/orfeo-angelucci</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the Saucers (1955), he began to encounter ﬂying saucers and their friendly human-...Read more...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: amazon.co.uk  
-   Link: [https://www.amazon.co.uk/Secret-Saucers-Orfeo-M-Angelucci/dp/1478198370](https://www.amazon.co.uk/Secret-Saucers-Orfeo-M-Angelucci/dp/1478198370)  
+   Link: <a href="https://www.amazon.co.uk/Secret-Saucers-Orfeo-M-Angelucci/dp/1478198370" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Secret-Saucers-Orfeo-M-Angelucci/dp/1478198370</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of the SaucersEventually Angelucci was taken in an unmanned saucer to earth orbit, where he saw a giant &quot;mother ship&quot; drift pa...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: orfeo matthew angelucci and his alleged encounters with extraterrestrialsunited  
-   Link: [https://www.facebook.com/MoviesArchive.Hai/posts/orfeo-matthew-angelucci-and-his-alleged-encounters-with-extraterrestrialsunited-/122211037934551606/](https://www.facebook.com/MoviesArchive.Hai/posts/orfeo-matthew-angelucci-and-his-alleged-encounters-with-extraterrestrialsunited-/122211037934551606/)  
+   Link: <a href="https://www.facebook.com/MoviesArchive.Hai/posts/orfeo-matthew-angelucci-and-his-alleged-encounters-with-extraterrestrialsunited-/122211037934551606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MoviesArchive.Hai/posts/orfeo-matthew-angelucci-and-his-alleged-encounters-with-extraterrestrialsunited-/122211037934551606/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Orfeo Matthew Angelucci and His Alleged Encounters with...12 Mar 2026 — Orfeo Matthew Angelucci and His Alleged Encounters with Extrater...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: abebooks.co.uk  
    Title: It was edited by Ray Palmer, the gray eminence behind  
-   Link: [https://www.abebooks.co.uk/9781605065496/Secret-Saucers-UFOs-Work-Forgotten-1605065498/plp](https://www.abebooks.co.uk/9781605065496/Secret-Saucers-UFOs-Work-Forgotten-1605065498/plp)  
+   Link: <a href="https://www.abebooks.co.uk/9781605065496/Secret-Saucers-UFOs-Work-Forgotten-1605065498/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9781605065496/Secret-Saucers-UFOs-Work-Forgotten-1605065498/plp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AbeBooks UKThe Secret of the Saucers: How UFOs Work (Forgotten...Angelucci&#x27;s Secret of the Saucers is a memoir of a more innocent time...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scribd.com  
    Title: Son of The Sun by Orfeo Angelucci  
-   Link: [https://www.scribd.com/doc/152733461/Son-Of-The-Sun-by-Orfeo-Angelucci-1959](https://www.scribd.com/doc/152733461/Son-Of-The-Sun-by-Orfeo-Angelucci-1959)  
+   Link: <a href="https://www.scribd.com/doc/152733461/Son-Of-The-Sun-by-Orfeo-Angelucci-1959" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/152733461/Son-Of-The-Sun-by-Orfeo-Angelucci-1959</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1959 | PDF... cosmos, Adam saw the riotous state which ignorance had nurtured. Mountains caused storms, and mountains of ignorance caused...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: airandspace.si.edu  
    Title: study flying saucer sightings  
-   Link: [https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings](https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings)  
+   Link: <a href="https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/study-flying-saucer-sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Study of Flying Saucer Sightings18 Dec 2017 — One such contactee was Orfeo Angelucci. Born in Trenton, New Jersey, in 1912, he described...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sdonline.org  
    Title: Flying Saucers Are Real!  
-   Link: [https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state](https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state)  
+   Link: <a href="https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state" target="_blank" rel="noopener noreferrer nofollow">https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Navy, Unidentified Flying...The aliens who contacted Angelucci were anti-Communist. Angelucci was the privileged contactee of his...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/episode/6NpNKRSw17T5kLqnGGU1P6](https://open.spotify.com/episode/6NpNKRSw17T5kLqnGGU1P6)  
+   Link: <a href="https://open.spotify.com/episode/6NpNKRSw17T5kLqnGGU1P6" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/6NpNKRSw17T5kLqnGGU1P6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Angelucci: Secret of the Saucers10 Jun 2017 — But these warm greetings came with a warning: that we must change our harmful ways or else...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: astonishinglegends.com  
    Title: Ep 73: Orfeo Angelucci  
-   Link: [https://astonishinglegends.com/al-podcasts/2017/6/3/ep-73-orfeo-angelucci-secret-of-the-saucers](https://astonishinglegends.com/al-podcasts/2017/6/3/ep-73-orfeo-angelucci-secret-of-the-saucers)  
+   Link: <a href="https://astonishinglegends.com/al-podcasts/2017/6/3/ep-73-orfeo-angelucci-secret-of-the-saucers" target="_blank" rel="noopener noreferrer nofollow">https://astonishinglegends.com/al-podcasts/2017/6/3/ep-73-orfeo-angelucci-secret-of-the-saucers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret of the Saucers9 Jun 2017 — Here we see Scott &amp; Forrest meet up with screenwriter Rich Hatem before setting off to trace the route...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: catdir.loc.gov  
-   Link: [https://catdir.loc.gov/catdir/toc/fy031/00010925.html](https://catdir.loc.gov/catdir/toc/fy031/00010925.html)  
+   Link: <a href="https://catdir.loc.gov/catdir/toc/fy031/00010925.html" target="_blank" rel="noopener noreferrer nofollow">https://catdir.loc.gov/catdir/toc/fy031/00010925.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of contents for UFOs and popular culture...Table of contents for UFOs and popular culture: an encyclopedia of contemporary myth / James...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Orfeo M Angelucci Travelling In A Disk From Another World  
-   Link: [https://www.youtube.com/watch?v=HPDbZYvNROM](https://www.youtube.com/watch?v=HPDbZYvNROM)  
+   Link: <a href="https://www.youtube.com/watch?v=HPDbZYvNROM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HPDbZYvNROM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of the Saucers. By Ofreo M. Angelucci. Audiobook...</p></details>

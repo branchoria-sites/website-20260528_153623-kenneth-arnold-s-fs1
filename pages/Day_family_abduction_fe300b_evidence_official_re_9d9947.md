@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /day-family-abduction-1974/
 nav_short_title: Evidence
 title: What Evidence Exists for the Aveley Case?
-title_full: What Evidence Exists for the Aveley Case? | Aveley Abduction
+title_full: What Evidence Exists for the Aveley Case?
 display_title_short: Evidence
 display_title: Evidence
 heading_title: What Evidence Exists for the Aveley Case?
@@ -233,7 +233,7 @@ next_link:
   permalink: /hypnosis-ece153/
   short_title: Hypnosis
   heading_title: Can Hypnosis Prove an Alien Abduction?
-date: '2026-06-08 23:25:53 '
+date: '2026-06-11 13:16:07 '
 header:
   og_image: /assets/images/Day_family_abduction_fe300b_evidence_official_re_9d9947-Illustration-1-social.jpg
   preview_image: /assets/images/Day_family_abduction_fe300b_evidence_official_re_9d9947-Illustration-1.webp
@@ -242,15 +242,14 @@ image: /assets/images/Day_family_abduction_fe300b_evidence_official_re_9d9947-Il
 
 ## Introduction
 
-The [Day family abduction]({{ 'day-family-abduction-1974/' | relative_url }}) case remains important in British UFO history largely because of how often it was repeated in books, magazines, and later documentaries rather than because of any decisive physical evidence. The alleged 1974 incident near Aveley, Essex, generated a substantial paper trail inside UFO culture, but a much thinner trail in official archives. No confirmed Ministry of Defence conclusion validated an abduction, and no publicly available records demonstrate that investigators recovered hard forensic evidence such as photographs, landing traces, medical anomalies, radar confirmation, or independently verified instrument readings. What survives instead is a layered record of interviews, magazine articles, retrospective testimony, hypnotic regression sessions, and later retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Alien abductionAlien abduction is the phenomenon claimed by people reporting that they or their patients have been kidnapped by extraterr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19741027 day family abduction</span><span class="citation-popover-snippet">Isaac Koi Archive1974.1027 Day family abduction | Isaac Koi ArchiveDay family abduction On 27 October 1974, John and Susan Day (sometime...</span><span class="citation-popover-meta">Published: October 1974</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0005840377ff7fede4ff2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[3calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">John Spencer</span><span class="citation-popover-snippet">World Atlas of UFOsNAME THE AVELEY ABDUCTION DATE 27 OCTOBER 1974 PLACE AVELEY, ESSEX, ENGLAND MAP REF: G12 EVENT ABDUCTION The Aveley ev...</span><span class="citation-popover-meta">Published: OCTOBER 1974</span></span></span>
-
+The Day family abduction case remains important in British UFO history largely because of how often it was repeated in books, magazines, and later documentaries rather than because of any decisive physical evidence. The alleged 1974 incident near Aveley, Essex, generated a substantial paper trail inside UFO culture, but a much thinner trail in official archives. No confirmed Ministry of Defence conclusion validated an abduction, and no publicly available records demonstrate that investigators recovered hard forensic evidence such as photographs, landing traces, medical anomalies, radar confirmation, or independently verified instrument readings. What survives instead is a layered record of interviews, magazine articles, retrospective testimony, hypnotic regression sessions, and later retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Alien abductionAlien abduction is the phenomenon claimed by people reporting that they or their patients have been kidnapped by extraterr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19741027 day family abduction</span><span class="citation-popover-snippet">Isaac Koi Archive1974.1027 Day family abduction &#124; Isaac Koi ArchiveDay family abduction On 27 October 1974, John and Susan Day (sometime...</span><span class="citation-popover-meta">Published: October 1974</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.calameo.com/books/0005840377ff7fede4ff2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calameo.com">[3calameo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calameo.com</span><span class="citation-popover-title">John Spencer</span><span class="citation-popover-snippet">World Atlas of UFOsNAME THE AVELEY ABDUCTION DATE 27 OCTOBER 1974 PLACE AVELEY, ESSEX, ENGLAND MAP REF: G12 EVENT ABDUCTION The Aveley ev...</span><span class="citation-popover-meta">Published: OCTOBER 1974</span></span></span>
 
 <img src="{{ "/assets/images/Day_family_abduction_fe300b_evidence_official_re_9d9947-Illustration-1-dark.svg" | relative_url }}" alt="Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/Day_family_abduction_fe300b_evidence_official_re_9d9947-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Day_family_abduction_fe300b_evidence_official_re_9d9947-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters when assessing the case. The Aveley incident has a strong cultural and bibliographic footprint inside UFO literature, but a weak evidential footprint by conventional investigative standards. The gap between those two things explains why the case continues to attract discussion decades later.
 
 ## Which records actually exist?
 
-The most concrete evidence that the incident entered the public UFO record comes from surviving publications and bibliographies rather than from government archives. Isaac Koi’s archive documents the case under multiple names — “Day family abduction”, “Aveley abduction”, and “Avis family abduction” — and notes that the story appeared in at least 58 UFO books surveyed in his reference project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19741027 day family abduction</span><span class="citation-popover-snippet">Isaac Koi Archive1974.1027 Day family abduction | Isaac Koi ArchiveDay family abduction On 27 October 1974, John and Susan Day (sometime...</span><span class="citation-popover-meta">Published: October 1974</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19741027 day family abduction</span><span class="citation-popover-snippet">Isaac Koi Archive1974.1027 Day family abduction | Isaac Koi ArchiveDay family abduction On 27 October 1974, John and Susan Day (sometime...</span><span class="citation-popover-meta">Published: October 1974</span></span></span>
+The most concrete evidence that the incident entered the public UFO record comes from surviving publications and bibliographies rather than from government archives. Isaac Koi’s archive documents the case under multiple names — “Day family abduction”, “Aveley abduction”, and “Avis family abduction” — and notes that the story appeared in at least 58 UFO books surveyed in his reference project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19741027 day family abduction</span><span class="citation-popover-snippet">Isaac Koi Archive1974.1027 Day family abduction &#124; Isaac Koi ArchiveDay family abduction On 27 October 1974, John and Susan Day (sometime...</span><span class="citation-popover-meta">Published: October 1974</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19741027 day family abduction</span><span class="citation-popover-snippet">Isaac Koi Archive1974.1027 Day family abduction &#124; Isaac Koi ArchiveDay family abduction On 27 October 1974, John and Susan Day (sometime...</span><span class="citation-popover-meta">Published: October 1974</span></span></span>
 
 Several early references repeatedly appear in later bibliographies:
 
@@ -290,10 +289,9 @@ The commonly repeated claims include:
 * Vehicle vibration or malfunction.
 * Missing time lasting roughly three hours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://johnjronline.wordpress.com/2023/08/14/the-aveley-extraterrestrial-abduction-documentary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnjronline.wordpress.com">[johnjronline.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnjronline.wordpress.com</span><span class="citation-popover-title">the aveley extraterrestrial abduction documentary</span><span class="citation-popover-snippet">Additionally, they experienced three hours of missing time. In the...Read more...</span></span></span>
 * Subsequent dreams and nightmares.
-* Alleged paranormal after-effects in the home. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19741027 day family abduction</span><span class="citation-popover-snippet">Isaac Koi Archive1974.1027 Day family abduction | Isaac Koi ArchiveDay family abduction On 27 October 1974, John and Susan Day (sometime...</span><span class="citation-popover-meta">Published: October 1974</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufoidentified.co.uk/articles/f/abduction-series---case-2---the-aveley-abduction?blogcategory=Articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoidentified.co.uk">[UFO Identified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoidentified.co.uk</span><span class="citation-popover-title">UFO Identified Case 2</span><span class="citation-popover-snippet">UFO IdentifiedCase 2 - The Aveley Abduction1 Apr 2021 — Strange buzzing and clicking noises were heard around the house, objects appeared...</span></span></span>
+* Alleged paranormal after-effects in the home. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19741027 day family abduction</span><span class="citation-popover-snippet">Isaac Koi Archive1974.1027 Day family abduction &#124; Isaac Koi ArchiveDay family abduction On 27 October 1974, John and Susan Day (sometime...</span><span class="citation-popover-meta">Published: October 1974</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufoidentified.co.uk/articles/f/abduction-series---case-2---the-aveley-abduction?blogcategory=Articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoidentified.co.uk">[UFO Identified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoidentified.co.uk</span><span class="citation-popover-title">UFO Identified Case 2</span><span class="citation-popover-snippet">UFO IdentifiedCase 2 - The Aveley Abduction1 Apr 2021 — Strange buzzing and clicking noises were heard around the house, objects appeared...</span></span></span>
 
 What is notably absent is equally important.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OUeT32Zc4rY" title="Unearthly Encounters | ALIEN ABDUCTION: THE STRANGEST UFO CASE FILES | Beyond Belief" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OUeT32Zc4rY" target="_blank" rel="noopener noreferrer">Unearthly Encounters | ALIEN ABDUCTION: THE STRANGEST UFO CASE FILES | Beyond Belief</a></p><p class="youtube-embed-meta">Channel: FilmIsNow Movies &middot; Views: 1.2M &middot; Uploaded: May 2024 &middot; Length: 1 hour 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OUeT32Zc4rY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OUeT32Zc4rY">Open on YouTube</a></p></div></div></div>
 
@@ -312,7 +310,7 @@ No publicly available source shows:
 * air-traffic data;
 * contemporaneous scientific measurements;
 * verified vehicle inspection reports;
-* or officially documented landing traces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19741027 day family abduction</span><span class="citation-popover-snippet">Isaac Koi Archive1974.1027 Day family abduction | Isaac Koi ArchiveDay family abduction On 27 October 1974, John and Susan Day (sometime...</span><span class="citation-popover-meta">Published: October 1974</span></span></span>
+* or officially documented landing traces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19741027 day family abduction</span><span class="citation-popover-snippet">Isaac Koi Archive1974.1027 Day family abduction &#124; Isaac Koi ArchiveDay family abduction On 27 October 1974, John and Susan Day (sometime...</span><span class="citation-popover-meta">Published: October 1974</span></span></span>
 
 </div>
 
@@ -320,14 +318,12 @@ The alleged radio and car effects are therefore evidentially fragile because the
 
 Even proponents of the case usually frame it as compelling testimony rather than a solved physical mystery. The strongest surviving material is narrative consistency within parts of the family’s account, not laboratory-grade evidence.
 
-
 <img src="{{ "/assets/images/Day_family_abduction_fe300b_evidence_official_re_9d9947-Illustration-2-dark.svg" | relative_url }}" alt="Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/Day_family_abduction_fe300b_evidence_official_re_9d9947-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Day_family_abduction_fe300b_evidence_official_re_9d9947-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The “missing time” problem
 
 The three-hour time gap became the emotional and narrative centre of the story, but missing-time claims are difficult to verify after the fact unless anchored by reliable timestamps or external witnesses.
 
 Publicly available accounts do not appear to include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -340,7 +336,6 @@ Publicly available accounts do not appear to include:
 </div>
 
 That absence does not prove the experience was invented. It does mean the [timeline]({{ 'timeline-b81f76/' | relative_url }}) cannot be reconstructed with high confidence using surviving public records.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XKzRI7DffWE" title="The Aveley Extraterrestrial Abduction | Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XKzRI7DffWE" target="_blank" rel="noopener noreferrer">The Aveley Extraterrestrial Abduction | Documentary</a></p><p class="youtube-embed-meta">Channel: The Paranormal Scholar &middot; Views: 856.4K &middot; Uploaded: August 2023 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XKzRI7DffWE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XKzRI7DffWE">Open on YouTube</a></p></div></div></div>
 
@@ -358,7 +353,6 @@ This does not automatically invalidate the Day family’s sincerity. It does aff
 * the richer onboard narrative recovered later.
 
 That distinction is crucial because the second layer is substantially more dependent on reconstructive memory techniques.
-
 
 <img src="{{ "/assets/images/Day_family_abduction_fe300b_evidence_official_re_9d9947-Illustration-3-dark.svg" | relative_url }}" alt="Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/Day_family_abduction_fe300b_evidence_official_re_9d9947-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Day_family_abduction_fe300b_evidence_official_re_9d9947-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Claims of paranormal aftermath
@@ -390,7 +384,6 @@ What can be said with confidence is simpler:
 
 The case therefore occupies an unresolved middle ground: culturally influential, heavily discussed, but evidentially incomplete.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_Cs7AVPtnWg" title="The Avis Family Alien Abduction – The Night They Lost Three Hours [Eerie&#x27;s Vault Episode #33]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_Cs7AVPtnWg" target="_blank" rel="noopener noreferrer">The Avis Family Alien Abduction – The Night They Lost Three Hours [Eerie&#x27;s Vault Episode #33]</a></p><p class="youtube-embed-meta">Channel: Eerie&#x27;s Vault &middot; Views: 31.2K &middot; Uploaded: November 2024 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_Cs7AVPtnWg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_Cs7AVPtnWg">Open on YouTube</a></p></div></div></div>
 
 ## Why the case still survives in UFO literature
@@ -406,49 +399,91 @@ The Aveley incident persists because it fits several patterns that became centra
 
 Those features made the story highly reusable in books about alien abduction, even though the underlying evidence remained limited.
 
-Isaac Koi’s bibliographic work is useful partly because it reveals how influence can become mistaken for proof. A case cited dozens of times may appear stronger simply because it is repeatedly mentioned. Yet many of those later mentions ultimately trace back to the same small cluster of original UFO investigations and magazine articles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19741027 day family abduction</span><span class="citation-popover-snippet">Isaac Koi Archive1974.1027 Day family abduction | Isaac Koi ArchiveDay family abduction On 27 October 1974, John and Susan Day (sometime...</span><span class="citation-popover-meta">Published: October 1974</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19741027 day family abduction</span><span class="citation-popover-snippet">Isaac Koi Archive1974.1027 Day family abduction | Isaac Koi ArchiveDay family abduction On 27 October 1974, John and Susan Day (sometime...</span><span class="citation-popover-meta">Published: October 1974</span></span></span>
+Isaac Koi’s bibliographic work is useful partly because it reveals how influence can become mistaken for proof. A case cited dozens of times may appear stronger simply because it is repeatedly mentioned. Yet many of those later mentions ultimately trace back to the same small cluster of original UFO investigations and magazine articles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19741027 day family abduction</span><span class="citation-popover-snippet">Isaac Koi Archive1974.1027 Day family abduction &#124; Isaac Koi ArchiveDay family abduction On 27 October 1974, John and Susan Day (sometime...</span><span class="citation-popover-meta">Published: October 1974</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaackoi.com">[Isaac Koi Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaackoi.com</span><span class="citation-popover-title">19741027 day family abduction</span><span class="citation-popover-snippet">Isaac Koi Archive1974.1027 Day family abduction &#124; Isaac Koi ArchiveDay family abduction On 27 October 1974, John and Susan Day (sometime...</span><span class="citation-popover-meta">Published: October 1974</span></span></span>
 
 The Day family case therefore illustrates a broader issue in UFO history: the difference between archival visibility and evidential strength. The Aveley story became historically important because it circulated widely, not because the surviving public record decisively established what happened on that Essex road in October 1974.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Evidence Exists for the Aveley Case?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Evidence Exists for the Aveley Case?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Essex UFO guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Essex+UFO+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides information on Ministry of Defence (MoD) records, explaining why the national archives show a complete absence of radar validati...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Breaks down why a massive bibliographic footprint in media does not elevate the underlying validity of a historic claim.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches the essential core differences between a case having a strong cultural bibliography vs. an objective evidential footprint.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+        </h4>
+        <p class="fr-book-author">By Budd Hopkins</p>
+        
+        <p class="fr-book-desc">Illustrates how alternative research groups historically compiled and repeated early family-unit close encounter files.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -485,15 +520,15 @@ The Day family case therefore illustrates a broader issue in UFO history: the di
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -501,15 +536,15 @@ The Day family case therefore illustrates a broader issue in UFO history: the di
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,15 +552,15 @@ The Day family case therefore illustrates a broader issue in UFO history: the di
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -533,15 +568,15 @@ The Day family case therefore illustrates a broader issue in UFO history: the di
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -549,7 +584,7 @@ The Day family case therefore illustrates a broader issue in UFO history: the di
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="evidence-08f2dd-what-evidence-exists-for-the-aveley-case-day-family-abduction-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-evidence-exists-for-the-aveley-case-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-evidence-exists-for-the-aveley-case-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -765,155 +800,155 @@ The Day family case therefore illustrates a broader issue in UFO history: the di
 1. <a id="endnote-1"></a>
    Source: calameo.com  
    Title: John Spencer  
-   Link: [https://www.calameo.com/books/0005840377ff7fede4ff2](https://www.calameo.com/books/0005840377ff7fede4ff2)  
+   Link: <a href="https://www.calameo.com/books/0005840377ff7fede4ff2" target="_blank" rel="noopener noreferrer nofollow">https://www.calameo.com/books/0005840377ff7fede4ff2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Atlas of UFOsNAME THE AVELEY ABDUCTION DATE 27 OCTOBER 1974 PLACE AVELEY, ESSEX, ENGLAND MAP REF: G12 EVENT ABDUCTION The Aveley ev...</p></details>
    Published: OCTOBER 1974  
 
 2. <a id="endnote-2"></a>
    Source: yumpu.com  
    Title: A Guide to UFO Research  
-   Link: [https://www.yumpu.com/en/document/view/26128786/a-guide-to-ufo-research-society-for-scientific-exploration](https://www.yumpu.com/en/document/view/26128786/a-guide-to-ufo-research-society-for-scientific-exploration)  
+   Link: <a href="https://www.yumpu.com/en/document/view/26128786/a-guide-to-ufo-research-society-for-scientific-exploration" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/26128786/a-guide-to-ufo-research-society-for-scientific-exploration</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&lt;strong&gt;UFO&lt;/strong&gt;IN Case Report, January 1978.&lt;br /&gt;. Cruttwell, Norman. Flying saucers over Papua. (esp. the Fr. Wm...</p></details>
    Published: January 1978  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Alien_abduction](https://en.wikipedia.org/wiki/Alien_abduction)  
+   Link: <a href="https://en.wikipedia.org/wiki/Alien_abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alien_abduction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien abductionAlien abduction is the phenomenon claimed by people reporting that they or their patients have been kidnapped by extraterr...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: this abduction case from 1974 illustrates  
-   Link: [https://www.reddit.com/r/aliens/comments/sbqati/this_abduction_case_from_1974_illustrates/](https://www.reddit.com/r/aliens/comments/sbqati/this_abduction_case_from_1974_illustrates/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThis abduction case from 1974 illustrates absurdity...January 24, 2022 — This abduction case from 1974 illustrates absurdity, symb...</p></details>
+   Link: <a href="https://www.reddit.com/r/aliens/comments/sbqati/this_abduction_case_from_1974_illustrates/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/sbqati/this_abduction_case_from_1974_illustrates/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This abduction case from 1974 illustrates absurdity...January 24, 2022 — This abduction case from 1974 illustrates absurdity, symb...</p></details>
    Published: January 24, 2022  
 
 5. <a id="endnote-5"></a>
    Source: cosmic-pancakes.com  
    Title: interrupted journey  
-   Link: [https://www.cosmic-pancakes.com/blog/interrupted-journey](https://www.cosmic-pancakes.com/blog/interrupted-journey)  
+   Link: <a href="https://www.cosmic-pancakes.com/blog/interrupted-journey" target="_blank" rel="noopener noreferrer nofollow">https://www.cosmic-pancakes.com/blog/interrupted-journey</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fuller&#x27;s 1966 classic The Interrupted Journey, uncovering Betty and Barney Hill&#x27;s chilling 1961 UFO abduction via hypnosis...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/light-quest-your-guide-to-seeing-and-interacting-with-ufos-mystery-lights-and-plasma-intelligences-0940829495-9780940829497.html](https://dokumen.pub/light-quest-your-guide-to-seeing-and-interacting-with-ufos-mystery-lights-and-plasma-intelligences-0940829495-9780940829497.html)  
+   Link: <a href="https://dokumen.pub/light-quest-your-guide-to-seeing-and-interacting-with-ufos-mystery-lights-and-plasma-intelligences-0940829495-9780940829497.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/light-quest-your-guide-to-seeing-and-interacting-with-ufos-mystery-lights-and-plasma-intelligences-0940829495-9780940829497.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ministry of Defence report codenamed the Condign Project. The 465-page... Aveley abduction from 1974, which we&#x27;ll examine later in this...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ChilluminatiPod/comments/130273o/aveley_ufo_abduction_continued_ufo_sightings/](https://www.reddit.com/r/ChilluminatiPod/comments/130273o/aveley_ufo_abduction_continued_ufo_sightings/)  
+   Link: <a href="https://www.reddit.com/r/ChilluminatiPod/comments/130273o/aveley_ufo_abduction_continued_ufo_sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ChilluminatiPod/comments/130273o/aveley_ufo_abduction_continued_ufo_sightings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>6, so quite a long time after the Aveley abduction...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ia600600.us.archive.org  
    Title: UFOs The Definitive Casebook LQ2  
-   Link: [https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf](https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf)  
+   Link: <a href="https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia600600.us.archive.org/10/items/ufos-the-definitive-casebook-lq-2/UFOs_The_Definitive_Casebook_LQ2.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFINITIVE CASEBOOK® The Aveley Abduction, Aveley, Essex, England. @) The Trident Sighting... Ministry of Defence team: Dr John. Dicki...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: dn721804.ca.archive.org  
    Title: Bad UFOs critical thinking about UFO claims  
-   Link: [https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf](https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf)  
+   Link: <a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs_ Critical Thinking About UFO Claims14 Jan 2016 — This book is titled Bad UFOs, which is also the name of my Blog www.BadUFOs.com. Th...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: isaackoi.com  
    Title: 19741027 day family abduction  
-   Link: [https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/](https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/)  
+   Link: <a href="https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://isaackoi.com/ufo-history/ufo/19741027-day-family-abduction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Isaac Koi Archive1974.1027 Day family abduction | Isaac Koi ArchiveDay family abduction On 27 October 1974, John and Susan Day (sometime...</p></details>
    Published: October 1974  
 
 11. <a id="endnote-11"></a>
    Source: isaackoi.com  
    Title: 13 the top 100 ufo cases  
-   Link: [https://isaackoi.com/ufog/best-ufo-cases/13-the-top-100-ufo-cases/](https://isaackoi.com/ufog/best-ufo-cases/13-the-top-100-ufo-cases/)  
+   Link: <a href="https://isaackoi.com/ufog/best-ufo-cases/13-the-top-100-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://isaackoi.com/ufog/best-ufo-cases/13-the-top-100-ufo-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Isaac Koi Archive13. The Top 100 UFO Cases | Isaac Koi ArchiveDay family abduction (1974) 58 references; Clyde Tombaugh sighting (1949) 5...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: isaackoi.com  
    Title: Isaac Koi Archive14  
-   Link: [https://isaackoi.com/ufog/best-ufo-cases/14-top-10-cases-within-various-categories/](https://isaackoi.com/ufog/best-ufo-cases/14-top-10-cases-within-various-categories/)  
+   Link: <a href="https://isaackoi.com/ufog/best-ufo-cases/14-top-10-cases-within-various-categories/" target="_blank" rel="noopener noreferrer nofollow">https://isaackoi.com/ufog/best-ufo-cases/14-top-10-cases-within-various-categories/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 cases within various categories | Isaac Koi ArchiveDay family abduction (1974) 58 references. BOAC stratocruiser sighting (1954) 5...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ufoidentified.co.uk  
    Title: UFO Identified Case 2  
-   Link: [https://ufoidentified.co.uk/articles/f/abduction-series---case-2---the-aveley-abduction?blogcategory=Articles](https://ufoidentified.co.uk/articles/f/abduction-series---case-2---the-aveley-abduction?blogcategory=Articles)  
+   Link: <a href="https://ufoidentified.co.uk/articles/f/abduction-series---case-2---the-aveley-abduction?blogcategory=Articles" target="_blank" rel="noopener noreferrer nofollow">https://ufoidentified.co.uk/articles/f/abduction-series---case-2---the-aveley-abduction?blogcategory=Articles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO IdentifiedCase 2 - The Aveley Abduction1 Apr 2021 — Strange buzzing and clicking noises were heard around the house, objects appeared...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: johnjronline.wordpress.com  
    Title: the aveley extraterrestrial abduction documentary  
-   Link: [https://johnjronline.wordpress.com/2023/08/14/the-aveley-extraterrestrial-abduction-documentary/](https://johnjronline.wordpress.com/2023/08/14/the-aveley-extraterrestrial-abduction-documentary/)  
+   Link: <a href="https://johnjronline.wordpress.com/2023/08/14/the-aveley-extraterrestrial-abduction-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://johnjronline.wordpress.com/2023/08/14/the-aveley-extraterrestrial-abduction-documentary/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Additionally, they experienced three hours of missing time. In the...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
    Title: World Atlas of UFOs  
-   Link: [https://www.scribd.com/document/209785000/World-Atlas-of-UFOs-John-Spencer](https://www.scribd.com/document/209785000/World-Atlas-of-UFOs-John-Spencer)  
+   Link: <a href="https://www.scribd.com/document/209785000/World-Atlas-of-UFOs-John-Spencer" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/209785000/World-Atlas-of-UFOs-John-Spencer</a>  
 
 16. <a id="endnote-16"></a>
    Source: amazon.co.uk  
    Title: Flying Saucer Review  
-   Link: [https://www.amazon.co.uk/Flying-Saucer-Review-Vol-June-ebook/dp/B06X16WFZ4](https://www.amazon.co.uk/Flying-Saucer-Review-Vol-June-ebook/dp/B06X16WFZ4)  
+   Link: <a href="https://www.amazon.co.uk/Flying-Saucer-Review-Vol-June-ebook/dp/B06X16WFZ4" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Flying-Saucer-Review-Vol-June-ebook/dp/B06X16WFZ4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>24, N. 1: June 1978 (FSR) eBookKing - &#x27;Soldiers Close Encounter on a Yorkshire Moor,&#x27; Omar Fowler - &#x27;Low Level UFO at Mytchett,&#x27; Terry Co...</p></details>
    Published: June 1978  
 
 17. <a id="endnote-17"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en&id=com.wrike](https://play.google.com/store/apps/details?hl=en&id=com.wrike)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.wrike" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.wrike</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Where Work Flows - Apps on Google PlayWrike - Where Work Flows Wrike ([https://www.wrike.com](https://www.wrike.com)) is a powerful cloud software tool for projec...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: neuroscigroup.us  
-   Link: [https://www.neuroscigroup.us/articles/APT-5-137.php](https://www.neuroscigroup.us/articles/APT-5-137.php)  
+   Link: <a href="https://www.neuroscigroup.us/articles/APT-5-137.php" target="_blank" rel="noopener noreferrer nofollow">https://www.neuroscigroup.us/articles/APT-5-137.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clinical evidence in the phenomenon of Alien AbductionIn the literature, the experience of alien abduction consists of the alleged kidnap...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: eparlib.sansad.in  
-   Link: [https://eparlib.sansad.in/bitstream/123456789/2976306/1/index_5_lsd_16-feb_24-dec_1954-p1.pdf](https://eparlib.sansad.in/bitstream/123456789/2976306/1/index_5_lsd_16-feb_24-dec_1954-p1.pdf)  
+   Link: <a href="https://eparlib.sansad.in/bitstream/123456789/2976306/1/index_5_lsd_16-feb_24-dec_1954-p1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eparlib.sansad.in/bitstream/123456789/2976306/1/index_5_lsd_16-feb_24-dec_1954-p1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DEBATES... Day. 61.-15. Republic Day Celebrations. 776. Tribal students. 298... (Kidnapping). 629-30. Shibli Academy. 2015-16. Smuggling...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: files.secure.website  
-   Link: [https://files.secure.website/wscfus/10582237/26186013/top-secret-nick-redfern-team-enki-free-pdf.pdf](https://files.secure.website/wscfus/10582237/26186013/top-secret-nick-redfern-team-enki-free-pdf.pdf)  
+   Link: <a href="https://files.secure.website/wscfus/10582237/26186013/top-secret-nick-redfern-team-enki-free-pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.secure.website/wscfus/10582237/26186013/top-secret-nick-redfern-team-enki-free-pdf.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Secret Alien Abduction FilesKingdom&#x27;s Air Ministry, which is today called the Ministry of Defense. (MoD).... [https://sjhstrangetales.wor...&quot;](https://sjhstrangetales.wor...&quot;)...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1793411717469619/posts/3712750958869009/](https://www.facebook.com/groups/1793411717469619/posts/3712750958869009/)  
+   Link: <a href="https://www.facebook.com/groups/1793411717469619/posts/3712750958869009/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1793411717469619/posts/3712750958869009/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 27 1974 Time: 22:10 John Day, 32, his wife Sue...The car then entered a dense bank of green fog and began to jerk...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYElyq5kRKR/?img_index=6](https://www.instagram.com/p/DYElyq5kRKR/?img_index=6)  
+   Link: <a href="https://www.instagram.com/p/DYElyq5kRKR/?img_index=6" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYElyq5kRKR/?img_index=6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d human trade, they are held captive in separate rooms, divided...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/SYFY/posts/we-finally-know-the-truth-about-the-first-verified-case-of-alien-abduction-nbc-s/971928968132731/](https://www.facebook.com/SYFY/posts/we-finally-know-the-truth-about-the-first-verified-case-of-alien-abduction-nbc-s/971928968132731/)  
+   Link: <a href="https://www.facebook.com/SYFY/posts/we-finally-know-the-truth-about-the-first-verified-case-of-alien-abduction-nbc-s/971928968132731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/we-finally-know-the-truth-about-the-first-verified-case-of-alien-abduction-nbc-s/971928968132731/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the &quot;most important British case&quot; of alien abduction and UFOs...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: news.harvard.edu  
    Title: Gazette Alien abduction claims examined  
-   Link: [https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/](https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/)  
+   Link: <a href="https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/" target="_blank" rel="noopener noreferrer nofollow">https://news.harvard.edu/gazette/story/2003/02/alien-abduction-claims-examined-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard GazetteAlien abduction claims examined - Harvard Gazette20 Feb 2003 — Some researchers at Harvard University devised an experimen...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: yourthurrock.com  
    Title: ufos and alien abduction in aveley  
-   Link: [https://www.yourthurrock.com/2012/02/10/ufos-and-alien-abduction-in-aveley/](https://www.yourthurrock.com/2012/02/10/ufos-and-alien-abduction-in-aveley/)  
+   Link: <a href="https://www.yourthurrock.com/2012/02/10/ufos-and-alien-abduction-in-aveley/" target="_blank" rel="noopener noreferrer nofollow">https://www.yourthurrock.com/2012/02/10/ufos-and-alien-abduction-in-aveley/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO&#x27;s and alien abduction in Aveley?10 Feb 2012 — The alleged alien abduction that occurred near the village of Aveley, Essex, England, i...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/themonthly/posts/amanda-lohreys-unsettling-fable-centred-on-a-psychiatrists-research-into-alien-a/1379033510908322/](https://www.facebook.com/themonthly/posts/amanda-lohreys-unsettling-fable-centred-on-a-psychiatrists-research-into-alien-a/1379033510908322/)  
+   Link: <a href="https://www.facebook.com/themonthly/posts/amanda-lohreys-unsettling-fable-centred-on-a-psychiatrists-research-into-alien-a/1379033510908322/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/themonthly/posts/amanda-lohreys-unsettling-fable-centred-on-a-psychiatrists-research-into-alien-a/1379033510908322/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rred on a dark country road in West Essex in 1974...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=OUeT32Zc4rY](https://www.youtube.com/watch?v=OUeT32Zc4rY)  
+   Link: <a href="https://www.youtube.com/watch?v=OUeT32Zc4rY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OUeT32Zc4rY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ard the spacecraft in the same way the Extraterrestrial crew members would...</p></details>

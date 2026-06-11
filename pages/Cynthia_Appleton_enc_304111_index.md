@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cynthia-appleton-enc-304111-index/
 description: Focused pages that expand on Cynthia Appleton encounter 1957.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Cynthia_Appleton_enc_304111
 parent_title: Cynthia Appleton encounter 1957

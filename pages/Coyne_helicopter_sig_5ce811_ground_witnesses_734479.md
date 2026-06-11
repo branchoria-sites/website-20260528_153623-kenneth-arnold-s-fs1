@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /coyne-helicopter-sighting-1973/
 nav_short_title: Ground Witnesses
 title: Did Witnesses on the Ground Confirm It?
-title_full: Did Witnesses on the Ground Confirm It? | Coyne Sighting
+title_full: Did Witnesses on the Ground Confirm It?
 display_title_short: Ground Witnesses
 display_title: Ground Witnesses
 heading_title: Did Witnesses on the Ground Confirm It?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /explanations-303ba6/
   short_title: Explanations
   heading_title: Could a Meteor Explain the Coyne Case?
-date: '2026-06-08 23:22:40 '
+date: '2026-06-11 13:13:57 '
 header:
   og_image: /assets/images/Coyne_helicopter_sig_5ce811_ground_witnesses_734479-Illustration-1-social.jpg
   preview_image: /assets/images/Coyne_helicopter_sig_5ce811_ground_witnesses_734479-Illustration-1.webp
@@ -242,11 +242,10 @@ image: /assets/images/Coyne_helicopter_sig_5ce811_ground_witnesses_734479-Illust
 
 ## Introduction
 
-One reason the 1973 [Coyne helicopter]({{ 'coyne-helicopter-sighting-1973/' | relative_url }}) sighting remained influential long after the initial reports is that investigators eventually identified civilians on the ground who described a remarkably similar visual feature: an intense green illumination associated with an unidentified airborne object near Charles Mill Reservoir in north-central Ohio. These later witness accounts did not independently prove the helicopter crew’s claims, but they became important because they appeared to overlap with one of the most unusual parts of the aircrew testimony — the sudden flooding of the helicopter cockpit with green light.
-
+One reason the 1973 Coyne helicopter sighting remained influential long after the initial reports is that investigators eventually identified civilians on the ground who described a remarkably similar visual feature: an intense green illumination associated with an unidentified airborne object near Charles Mill Reservoir in north-central Ohio. These later witness accounts did not independently prove the helicopter crew’s claims, but they became important because they appeared to overlap with one of the most unusual parts of the aircrew testimony — the sudden flooding of the helicopter cockpit with green light.
 
 <img src="{{ "/assets/images/Coyne_helicopter_sig_5ce811_ground_witnesses_734479-Illustration-1-dark.svg" | relative_url }}" alt="Ground Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/Coyne_helicopter_sig_5ce811_ground_witnesses_734479-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Coyne_helicopter_sig_5ce811_ground_witnesses_734479-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The value of these witnesses is therefore double-edged. Supporters of the case argue that unrelated civilians described the same strange colour and lighting effect without access to cockpit details. Critics counter that many of the interviews occurred years later, after extensive media circulation of the story, creating the possibility of memory contamination or retrospective shaping. The debate over the ground witnesses is less about whether people saw lights in the sky — that point is widely accepted — and more about how strongly those observations corroborate the helicopter crew’s specific narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richlandcountyhistory.com">[Richland County History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richlandcountyhistory.com</span><span class="citation-popover-title">ufos over richland county 1973</span><span class="citation-popover-snippet">Richland County HistoryUFOs Over Richland County: 1973September 2, 2019 — 2 Sept 2019 — One of the reasons why the Mansfield Encounter re...</span><span class="citation-popover-meta">Published: September 2, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/coyne.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UfologieUFOs at close sight: The Coyne case, Mansfield, Ohio, 197318 Oct 2003 — Investigator Jennie Zeidman conducted a time-line analysi...</span></span></span>
+The value of these witnesses is therefore double-edged. Supporters of the case argue that unrelated civilians described the same strange colour and lighting effect without access to cockpit details. Critics counter that many of the interviews occurred years later, after extensive media circulation of the story, creating the possibility of memory contamination or retrospective shaping. The debate over the ground witnesses is less about whether people saw lights in the sky — that point is widely accepted — and more about how strongly those observations corroborate the helicopter crew’s specific narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richlandcountyhistory.com">[Richland County History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richlandcountyhistory.com</span><span class="citation-popover-title">ufos over richland county 1973</span><span class="citation-popover-snippet">Richland County HistoryUFOs Over Richland County: 1973September 2, 2019 — 2 Sept 2019 — One of the reasons why the Mansfield Encounter re...</span><span class="citation-popover-meta">Published: September 2, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/coyne.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: The Coyne case, Mansfield, Ohio, 197318 Oct 2003 — Investigator Jennie Zeidman conducted a time-line analysi...</span></span></span>
 
 ## Did Witnesses on the Ground Confirm It?
 
@@ -261,7 +260,6 @@ The most frequently cited civilian reports came from two categories:
 
 Researchers argued that these accounts independently matched the helicopter crew’s description of a structured object emitting a green beam or glow. Sceptics replied that the reports were fragmentary, delayed, and often filtered through UFO literature rather than preserved in contemporaneous police or aviation documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://clevelandufo.com/?page_id=18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clevelandufo.com">[Cleveland Ufology Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clevelandufo.com</span><span class="citation-popover-snippet">Cleveland Ufology ProjectCoyne Helicopter Incident – 1973” Neither ground witnesses nor aircrew are sure at what point the two aircraft d...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0BOk598fweI" title="1973 🇺🇸 #UFOB [CASE] Sightings - The Lt. Col. Coyne helicopter case Mansfield Ohio." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0BOk598fweI" target="_blank" rel="noopener noreferrer">1973 🇺🇸 #UFOB [CASE] Sightings - The Lt. Col. Coyne helicopter case Mansfield Ohio.</a></p><p class="youtube-embed-meta">Channel: UFOB | Your UAP Library &middot; Views: 1.1K &middot; Uploaded: March 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0BOk598fweI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0BOk598fweI">Open on YouTube</a></p></div></div></div>
 
 ## Charles Mill Reservoir Accounts
@@ -271,7 +269,6 @@ The Route 430 witnesses became central because their reported location roughly a
 One commonly repeated quotation from the mother described the light as “real, real bright and absolutely beautiful”, while also frightening enough that she wanted to leave immediately with the children. <span class="citation-chip-wrap"><a class="citation-chip" href="https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richlandcountyhistory.com">[Richland County History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richlandcountyhistory.com</span><span class="citation-popover-title">ufos over richland county 1973</span><span class="citation-popover-snippet">Richland County HistoryUFOs Over Richland County: 1973September 2, 2019 — 2 Sept 2019 — One of the reasons why the Mansfield Encounter re...</span><span class="citation-popover-meta">Published: September 2, 2019</span></span></span>
 
 Investigators considered several aspects of this account important:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -293,10 +290,9 @@ The strongest connection between the helicopter crew and the civilians was not s
 
 Captain Lawrence Coyne and the crew repeatedly described a green illumination entering or flooding the helicopter cockpit during the closest phase of the encounter. In CUFOS interviews, Coyne described a green light swinging into position and shining directly into the aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufos.org">[Center for UFO Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufos.org</span><span class="citation-popover-title">Center for UFO Studies A Helicopter-UFO Encounter over Ohio</span><span class="citation-popover-snippet">Hynek: The green, then, was beaming down this way? Coyne: Down on a 45... and this light [...Read more...</span></span></span>
 
-This detail mattered because green illumination was unusual enough to function almost like a signature feature. The ground witnesses also reportedly described the surrounding environment turning green. One account stated that “the helicopter, the trees, the road and everything turned green.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/731018mansfield_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUFO Report... Coyne had established contact with Mansfield control tower. Some witnesses on the ground reported seeing the helicopte...</span></span></span>
+This detail mattered because green illumination was unusual enough to function almost like a signature feature. The ground witnesses also reportedly described the surrounding environment turning green. One account stated that “the helicopter, the trees, the road and everything turned green.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/731018mansfield_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO Report... Coyne had established contact with Mansfield control tower. Some witnesses on the ground reported seeing the helicopte...</span></span></span>
 
 Supporters of the case viewed this overlap as difficult to dismiss. The argument was straightforward:
-
 
 <img src="{{ "/assets/images/Coyne_helicopter_sig_5ce811_ground_witnesses_734479-Illustration-2-dark.svg" | relative_url }}" alt="Ground Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/Coyne_helicopter_sig_5ce811_ground_witnesses_734479-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Coyne_helicopter_sig_5ce811_ground_witnesses_734479-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -308,7 +304,7 @@ Supporters of the case viewed this overlap as difficult to dismiss. The argument
 
 </div>
 
-That overlap became one of the most cited reasons the Coyne case acquired a reputation as a “corroborated” UFO encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/ufo-sightings-encounters-credibility-video-1371313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">NewsweekThe Most Credible UFO Sightings and Encounters in...April 17, 2019 — 17 Apr 2019 — Four crew members of an Army Reserve helicopt...</span><span class="citation-popover-meta">Published: April 17, 2019</span></span></span>
+That overlap became one of the most cited reasons the Coyne case acquired a reputation as a “corroborated” UFO encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/ufo-sightings-encounters-credibility-video-1371313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">The Most Credible UFO Sightings and Encounters in...April 17, 2019 — 17 Apr 2019 — Four crew members of an Army Reserve helicopt...</span><span class="citation-popover-meta">Published: April 17, 2019</span></span></span>
 
 Yet the green-light issue also generated one of the main sceptical counterarguments. Critics proposed that unusual lighting conditions inside the helicopter may have been misunderstood or exaggerated. In later debate, some sceptics and aviation-experienced commentators suggested that existing helicopter lighting could produce green-tinted reflections under certain circumstances. A recurring argument was that bright external light passing through green roof lighting or cockpit components might have created misleading colour effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/8gf3nj/the_1973_coynemansfield_helicopter_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the 1973 coynemansfield helicopter ufo incident</span><span class="citation-popover-snippet">The ROOF LIGHTS on the helicopter are GREEN. A white light shining through it would illuminate the cockpit green...Read more...</span></span></span>
 
@@ -316,17 +312,15 @@ Philip J. Klass, the most persistent sceptical investigator of the case, instead
 
 The disagreement therefore centred not on whether green light was seen, but on what that observation actually represented.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aaj96wWW_qI" title="The 1973 Mansfield UFO Encounter | The Coyne Incident Recreated" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aaj96wWW_qI" target="_blank" rel="noopener noreferrer">The 1973 Mansfield UFO Encounter | The Coyne Incident Recreated</a></p><p class="youtube-embed-meta">Channel: STM Daily News &middot; Views: 620 &middot; Uploaded: August 2025 &middot; Length: 1 minute 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aaj96wWW_qI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aaj96wWW_qI">Open on YouTube</a></p></div></div></div>
 
 ## Why Later Interviews Matter
 
 The delayed emergence of some civilian witnesses is one of the most important credibility questions in the entire Coyne case.
 
-One of the best-known examples involved Jeanne Elias, identified in later reporting as a resident southeast of Mansfield. Accounts published years later stated that she heard an unusually loud helicopter near her home shortly after 11 p.m. Her son reportedly woke after seeing a powerful green illumination entering his bedroom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/coyne.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UfologieUFOs at close sight: The Coyne case, Mansfield, Ohio, 197318 Oct 2003 — Investigator Jennie Zeidman conducted a time-line analysi...</span></span></span> Facebook The problem for investigators was timing. Some reports state that Elias came forward around 1988 <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/MansfieldNewsJournal/posts/reports-of-ufo-visits-to-north-central-ohio-have-increased-in-the-nearly-50-year/10159047681874862/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookReports of UFO visits to North Central Ohio have increased...” One of the primary ground witnesses of the Mansfield Encounter, w...</span></span></span>— roughly fifteen years after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/MansfieldNewsJournal/posts/reports-of-ufo-visits-to-north-central-ohio-have-increased-in-the-nearly-50-year/10159047681874862/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookReports of UFO visits to North Central Ohio have increased...” One of the primary ground witnesses of the Mansfield Encounter, w...</span></span></span>
+One of the best-known examples involved Jeanne Elias, identified in later reporting as a resident southeast of Mansfield. Accounts published years later stated that she heard an unusually loud helicopter near her home shortly after 11 p.m. Her son reportedly woke after seeing a powerful green illumination entering his bedroom. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/coyne.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: The Coyne case, Mansfield, Ohio, 197318 Oct 2003 — Investigator Jennie Zeidman conducted a time-line analysi...</span></span></span> Facebook The problem for investigators was timing. Some reports state that Elias came forward around 1988 <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/MansfieldNewsJournal/posts/reports-of-ufo-visits-to-north-central-ohio-have-increased-in-the-nearly-50-year/10159047681874862/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Reports of UFO visits to North Central Ohio have increased...” One of the primary ground witnesses of the Mansfield Encounter, w...</span></span></span>— roughly fifteen years after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/MansfieldNewsJournal/posts/reports-of-ufo-visits-to-north-central-ohio-have-increased-in-the-nearly-50-year/10159047681874862/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Reports of UFO visits to North Central Ohio have increased...” One of the primary ground witnesses of the Mansfield Encounter, w...</span></span></span>
 
 That creates several methodological complications:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -339,10 +333,9 @@ That creates several methodological complications:
 
 From a historical-evidence perspective, delayed corroboration is weaker than contemporaneous documentation. Aviation investigators generally place greatest weight on records created immediately after an incident: radar logs, control-tower communications, written statements, maintenance reports, or time-stamped witness interviews. The later civilian accounts lack much of that infrastructure.
 
-At the same time, the late interviews were not necessarily worthless. Investigators argued that the witnesses described sensory details — especially the intense green illumination — that were not generic UFO clichés at the time. They also noted that the witnesses appeared geographically consistent with the helicopter’s route. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/coyne.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UfologieUFOs at close sight: The Coyne case, Mansfield, Ohio, 197318 Oct 2003 — Investigator Jennie Zeidman conducted a time-line analysi...</span></span></span>
+At the same time, the late interviews were not necessarily worthless. Investigators argued that the witnesses described sensory details — especially the intense green illumination — that were not generic UFO clichés at the time. They also noted that the witnesses appeared geographically consistent with the helicopter’s route. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/coyne.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">UFOs at close sight: The Coyne case, Mansfield, Ohio, 197318 Oct 2003 — Investigator Jennie Zeidman conducted a time-line analysi...</span></span></span>
 
 This tension explains why the ground witnesses remain controversial rather than decisive. They strengthened the case enough to keep it alive in UFO literature, but not enough to eliminate doubts about memory reliability and retrospective influence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vf7xZ5vMMfk" title="Green beam from a UFO lifts up Army helicopter, observed by Lawrence Coyne and John Healy in 1973" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vf7xZ5vMMfk" target="_blank" rel="noopener noreferrer">Green beam from a UFO lifts up Army helicopter, observed by Lawrence Coyne and John Healy in 1973</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 17.4K &middot; Uploaded: June 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vf7xZ5vMMfk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vf7xZ5vMMfk">Open on YouTube</a></p></div></div></div>
 
@@ -350,8 +343,7 @@ This tension explains why the ground witnesses remain controversial rather than 
 
 The Coyne incident would probably still be remembered without civilian witnesses because of the helicopter crew’s experience, the alleged climb anomaly, and the aviation context. But the ground witnesses changed the structure of the debate.
 
-Without them, sceptics could frame the case mainly as an airborne misperception by a stressed crew at night. With them, investigators could argue that multiple observer groups — separated by altitude and location — witnessed related phenomena involving the same distinctive green illumination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richlandcountyhistory.com">[Richland County History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richlandcountyhistory.com</span><span class="citation-popover-title">ufos over richland county 1973</span><span class="citation-popover-snippet">Richland County HistoryUFOs Over Richland County: 1973September 2, 2019 — 2 Sept 2019 — One of the reasons why the Mansfield Encounter re...</span><span class="citation-popover-meta">Published: September 2, 2019</span></span></span> NICAP That does not automatically validate extraordinary conclusions. The corroboration remains partial and imperfect: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/731018mansfield_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPUFO Report... Coyne had established contact with Mansfield control tower. Some witnesses on the ground reported seeing the helicopte...</span></span></span>
-
+Without them, sceptics could frame the case mainly as an airborne misperception by a stressed crew at night. With them, investigators could argue that multiple observer groups — separated by altitude and location — witnessed related phenomena involving the same distinctive green illumination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: richlandcountyhistory.com">[Richland County History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">richlandcountyhistory.com</span><span class="citation-popover-title">ufos over richland county 1973</span><span class="citation-popover-snippet">Richland County HistoryUFOs Over Richland County: 1973September 2, 2019 — 2 Sept 2019 — One of the reasons why the Mansfield Encounter re...</span><span class="citation-popover-meta">Published: September 2, 2019</span></span></span> NICAP That does not automatically validate extraordinary conclusions. The corroboration remains partial and imperfect: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/731018mansfield_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">UFO Report... Coyne had established contact with Mansfield control tower. Some witnesses on the ground reported seeing the helicopte...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -362,50 +354,91 @@ Without them, sceptics could frame the case mainly as an airborne misperception 
 
 </div>
 
-Still, the ground reports helped elevate the Coyne case above many other 1970s UFO claims. They gave researchers something rare in aviation-UFO history: a possible second layer of observation from outside the aircraft itself. Even critics who reject extraterrestrial interpretations generally acknowledge that the witness overlap — especially the recurring green-light descriptions — is one reason the case remained difficult to dismiss entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[ohiomagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-title">the case of ohio s best documented ufo</span><span class="citation-popover-snippet">The Case of Ohio&#x27;s Best Documented UFOWhat happened in the skies near Charles Mill Lake on Oct. 18, 1973, stands as one of the most credi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/ufo-sightings-encounters-credibility-video-1371313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">NewsweekThe Most Credible UFO Sightings and Encounters in...April 17, 2019 — 17 Apr 2019 — Four crew members of an Army Reserve helicopt...</span><span class="citation-popover-meta">Published: April 17, 2019</span></span></span>
-
+Still, the ground reports helped elevate the Coyne case above many other 1970s UFO claims. They gave researchers something rare in aviation-UFO history: a possible second layer of observation from outside the aircraft itself. Even critics who reject extraterrestrial interpretations generally acknowledge that the witness overlap — especially the recurring green-light descriptions — is one reason the case remained difficult to dismiss entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ohiomagazine.com">[ohiomagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ohiomagazine.com</span><span class="citation-popover-title">the case of ohio s best documented ufo</span><span class="citation-popover-snippet">The Case of Ohio&#x27;s Best Documented UFOWhat happened in the skies near Charles Mill Lake on Oct. 18, 1973, stands as one of the most credi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/ufo-sightings-encounters-credibility-video-1371313" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">The Most Credible UFO Sightings and Encounters in...April 17, 2019 — 17 Apr 2019 — Four crew members of an Army Reserve helicopt...</span><span class="citation-popover-meta">Published: April 17, 2019</span></span></span>
 
 <img src="{{ "/assets/images/Coyne_helicopter_sig_5ce811_ground_witnesses_734479-Illustration-3-dark.svg" | relative_url }}" alt="Ground Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/Coyne_helicopter_sig_5ce811_ground_witnesses_734479-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Coyne_helicopter_sig_5ce811_ground_witnesses_734479-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Did Witnesses on the Ground Confirm It?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Did Witnesses on the Ground Confirm It?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO literature guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+literature+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Addresses how investigators match ground witness observation vectors against recorded aviation telemetry timelines.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+        </h4>
+        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+        
+        <p class="fr-book-desc">Breaks down why interviews conducted years after an incident face a high risk of narrative contamination from media exposure.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Teaches why independent ground alignment requires contemporary reporting to count as objective clinical data.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Details the methods used by groups like NICAP and CUFOS to catalog local regional statements along flight corridors.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -442,15 +475,15 @@ Still, the ground reports helped elevate the Coyne case above many other 1970s U
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -458,15 +491,15 @@ Still, the ground reports helped elevate the Coyne case above many other 1970s U
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -474,31 +507,15 @@ Still, the ground reports helped elevate the Coyne case above many other 1970s U
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,7 +523,7 @@ Still, the ground reports helped elevate the Coyne case above many other 1970s U
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="ground-witnesses-did-witnesses-on-the-ground-confirm-it-coyne-helicopter-sighting-1973-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -721,81 +738,81 @@ Still, the ground reports helped elevate the Coyne case above many other 1970s U
 
 1. <a id="endnote-1"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/731018mansfield_dir.htm](https://www.nicap.org/731018mansfield_dir.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPUFO Report... Coyne had established contact with Mansfield control tower. Some witnesses on the ground reported seeing the helicopte...</p></details>
+   Link: <a href="https://www.nicap.org/731018mansfield_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/731018mansfield_dir.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report... Coyne had established contact with Mansfield control tower. Some witnesses on the ground reported seeing the helicopte...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cufos.org  
    Title: Center for UFO Studies A Helicopter-UFO Encounter over Ohio  
-   Link: [https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf](https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf)  
+   Link: <a href="https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/books/A%20Helicopter-UFO%20Encounter%20Over%20Ohio.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hynek: The green, then, was beaming down this way? Coyne: Down on a 45... and this light [...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: newsweek.com  
-   Link: [https://www.newsweek.com/ufo-sightings-encounters-credibility-video-1371313](https://www.newsweek.com/ufo-sightings-encounters-credibility-video-1371313)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsweekThe Most Credible UFO Sightings and Encounters in...April 17, 2019 — 17 Apr 2019 — Four crew members of an Army Reserve helicopt...</p></details>
+   Link: <a href="https://www.newsweek.com/ufo-sightings-encounters-credibility-video-1371313" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-sightings-encounters-credibility-video-1371313</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Credible UFO Sightings and Encounters in...April 17, 2019 — 17 Apr 2019 — Four crew members of an Army Reserve helicopt...</p></details>
    Published: April 17, 2019  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: the 1973 coynemansfield helicopter ufo incident  
-   Link: [https://www.reddit.com/r/UFOs/comments/8gf3nj/the_1973_coynemansfield_helicopter_ufo_incident/](https://www.reddit.com/r/UFOs/comments/8gf3nj/the_1973_coynemansfield_helicopter_ufo_incident/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/8gf3nj/the_1973_coynemansfield_helicopter_ufo_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/8gf3nj/the_1973_coynemansfield_helicopter_ufo_incident/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The ROOF LIGHTS on the helicopter are GREEN. A white light shining through it would illuminate the cockpit green...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MansfieldNewsJournal/posts/reports-of-ufo-visits-to-north-central-ohio-have-increased-in-the-nearly-50-year/10159047681874862/](https://www.facebook.com/MansfieldNewsJournal/posts/reports-of-ufo-visits-to-north-central-ohio-have-increased-in-the-nearly-50-year/10159047681874862/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookReports of UFO visits to North Central Ohio have increased...” One of the primary ground witnesses of the Mansfield Encounter, w...</p></details>
+   Link: <a href="https://www.facebook.com/MansfieldNewsJournal/posts/reports-of-ufo-visits-to-north-central-ohio-have-increased-in-the-nearly-50-year/10159047681874862/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MansfieldNewsJournal/posts/reports-of-ufo-visits-to-north-central-ohio-have-increased-in-the-nearly-50-year/10159047681874862/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of UFO visits to North Central Ohio have increased...” One of the primary ground witnesses of the Mansfield Encounter, w...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
    Title: fifty years ago on oct 18 1973 one of the most credible ufo sightings of all tim  
-   Link: [https://www.facebook.com/wmfdtv/posts/fifty-years-ago-on-oct-18-1973-one-of-the-most-credible-ufo-sightings-of-all-tim/810747241052578/](https://www.facebook.com/wmfdtv/posts/fifty-years-ago-on-oct-18-1973-one-of-the-most-credible-ufo-sightings-of-all-tim/810747241052578/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookFifty years ago, on Oct. 18, 1973, one of the most credible...” One of the primary ground witnesses of the Mansfield Encounter...</p></details>
+   Link: <a href="https://www.facebook.com/wmfdtv/posts/fifty-years-ago-on-oct-18-1973-one-of-the-most-credible-ufo-sightings-of-all-tim/810747241052578/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wmfdtv/posts/fifty-years-ago-on-oct-18-1973-one-of-the-most-credible-ufo-sightings-of-all-tim/810747241052578/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fifty years ago, on Oct. 18, 1973, one of the most credible...” One of the primary ground witnesses of the Mansfield Encounter...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ohiomagazine.com  
    Title: the case of ohio s best documented ufo  
-   Link: [https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo](https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo)  
+   Link: <a href="https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.ohiomagazine.com/ohio-life/article/the-case-of-ohio-s-best-documented-ufo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Case of Ohio&#x27;s Best Documented UFOWhat happened in the skies near Charles Mill Lake on Oct. 18, 1973, stands as one of the most credi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RichlandSource/posts/to-this-day-the-coyne-incident-near-charles-mill-lake-is-considered-one-of-the-m/411797874285889/](https://www.facebook.com/RichlandSource/posts/to-this-day-the-coyne-incident-near-charles-mill-lake-is-considered-one-of-the-m/411797874285889/)  
+   Link: <a href="https://www.facebook.com/RichlandSource/posts/to-this-day-the-coyne-incident-near-charles-mill-lake-is-considered-one-of-the-m/411797874285889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RichlandSource/posts/to-this-day-the-coyne-incident-near-charles-mill-lake-is-considered-one-of-the-m/411797874285889/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>To this day the Coyne Incident near Charles Mill Lake is...On October 18, 1973, north central Ohio residents witnessed strange lights in...</p></details>
    Published: October 18, 1973  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/BBCArchive/posts/onthisday-1973-nationwide-cameras-captured-incontrovertible-proof-of-the-existen/1439902209716138/](https://www.facebook.com/BBCArchive/posts/onthisday-1973-nationwide-cameras-captured-incontrovertible-proof-of-the-existen/1439902209716138/)  
+   Link: <a href="https://www.facebook.com/BBCArchive/posts/onthisday-1973-nationwide-cameras-captured-incontrovertible-proof-of-the-existen/1439902209716138/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BBCArchive/posts/onthisday-1973-nationwide-cameras-captured-incontrovertible-proof-of-the-existen/1439902209716138/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>orward 15 years later in 1988 is Jeanne Elias, whose home on Mt...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RichlandSource/posts/capt-lawrence-j-coyne-described-himself-as-a-skeptic-of-ufos-but-admitted-he-cou/3438125879567233/](https://www.facebook.com/RichlandSource/posts/capt-lawrence-j-coyne-described-himself-as-a-skeptic-of-ufos-but-admitted-he-cou/3438125879567233/)  
+   Link: <a href="https://www.facebook.com/RichlandSource/posts/capt-lawrence-j-coyne-described-himself-as-a-skeptic-of-ufos-but-admitted-he-cou/3438125879567233/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RichlandSource/posts/capt-lawrence-j-coyne-described-himself-as-a-skeptic-of-ufos-but-admitted-he-cou/3438125879567233/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he couldn&#x27;t provide a reasonable answer for what happened...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: richlandcountyhistory.com  
    Title: ufos over richland county 1973  
-   Link: [https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/](https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/)  
+   Link: <a href="https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/" target="_blank" rel="noopener noreferrer nofollow">https://richlandcountyhistory.com/2019/09/02/ufos-over-richland-county-1973/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Richland County HistoryUFOs Over Richland County: 1973September 2, 2019 — 2 Sept 2019 — One of the reasons why the Mansfield Encounter re...</p></details>
    Published: September 2, 2019  
 
 12. <a id="endnote-12"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/coyne.htm](https://ufologie.patrickgross.org/htm/coyne.htm)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UfologieUFOs at close sight: The Coyne case, Mansfield, Ohio, 197318 Oct 2003 — Investigator Jennie Zeidman conducted a time-line analysi...</p></details>
+   Link: <a href="https://ufologie.patrickgross.org/htm/coyne.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/coyne.htm</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs at close sight: The Coyne case, Mansfield, Ohio, 197318 Oct 2003 — Investigator Jennie Zeidman conducted a time-line analysi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: clevelandufo.com  
-   Link: [https://clevelandufo.com/?page_id=18](https://clevelandufo.com/?page_id=18)  
+   Link: <a href="https://clevelandufo.com/?page_id=18" target="_blank" rel="noopener noreferrer nofollow">https://clevelandufo.com/?page_id=18</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cleveland Ufology ProjectCoyne Helicopter Incident – 1973” Neither ground witnesses nor aircrew are sure at what point the two aircraft d...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: kevinrandle.blogspot.com  
    Title: october 181973 coyne helicopter case  
-   Link: [https://kevinrandle.blogspot.com/2015/06/october-181973-coyne-helicopter-case.html](https://kevinrandle.blogspot.com/2015/06/october-181973-coyne-helicopter-case.html)  
+   Link: <a href="https://kevinrandle.blogspot.com/2015/06/october-181973-coyne-helicopter-case.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2015/06/october-181973-coyne-helicopter-case.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kevin RandleOctober 18,1973: The Coyne Helicopter Case and Philip...22 Jun 2015 — Coyne said that there was a red light at the front of...</p></details>
 
 ### Additional References
@@ -803,53 +820,53 @@ Still, the ground reports helped elevate the Coyne case above many other 1970s U
 15. <a id="endnote-15"></a>
    Source: thetedkarchive.com  
    Title: anne garland the role of shame self criticism and self compassion  
-   Link: [https://www.thetedkarchive.com/library/anne-garland-the-role-of-shame-self-criticism-and-self-compassion](https://www.thetedkarchive.com/library/anne-garland-the-role-of-shame-self-criticism-and-self-compassion)  
+   Link: <a href="https://www.thetedkarchive.com/library/anne-garland-the-role-of-shame-self-criticism-and-self-compassion" target="_blank" rel="noopener noreferrer nofollow">https://www.thetedkarchive.com/library/anne-garland-the-role-of-shame-self-criticism-and-self-compassion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of shame, self-criticism and self-compassionby A Garland · 2020 — There is debate in the research literature as to whether or no...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ashlandsource.com  
    Title: coyne incident over charles mill lake was most credible ufo sighting of 1973  
-   Link: [https://www.ashlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/](https://www.ashlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/)  
+   Link: <a href="https://www.ashlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/" target="_blank" rel="noopener noreferrer nofollow">https://www.ashlandsource.com/2020/10/04/coyne-incident-over-charles-mill-lake-was-most-credible-ufo-sighting-of-1973/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18, 1973, north central ohio residents witnessed strange lights in the sky to the west over Charles Mill Lake.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ryan-sprague51.medium.com  
    Title: the coyne helicopter ufo incident 922d80c6a8b8  
-   Link: [https://ryan-sprague51.medium.com/the-coyne-helicopter-ufo-incident-922d80c6a8b8](https://ryan-sprague51.medium.com/the-coyne-helicopter-ufo-incident-922d80c6a8b8)  
+   Link: <a href="https://ryan-sprague51.medium.com/the-coyne-helicopter-ufo-incident-922d80c6a8b8" target="_blank" rel="noopener noreferrer nofollow">https://ryan-sprague51.medium.com/the-coyne-helicopter-ufo-incident-922d80c6a8b8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coyne Helicopter UFO Incident | by Ryan Sprague | MediumKlass, a noted UFO skeptic, proposed that the crew had actually misidentified a m...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYJo8HJyscP/](https://www.instagram.com/reel/DYJo8HJyscP/)  
+   Link: <a href="https://www.instagram.com/reel/DYJo8HJyscP/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYJo8HJyscP/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>isclosure as a cheap distraction stunt performed as the US...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: richlandsource.com  
-   Link: [https://www.richlandsource.com/2022/04/29/out-of-this-world-coyne-incident-focused-ufo-attention-on-north-central-ohio-in-1973/](https://www.richlandsource.com/2022/04/29/out-of-this-world-coyne-incident-focused-ufo-attention-on-north-central-ohio-in-1973/)  
+   Link: <a href="https://www.richlandsource.com/2022/04/29/out-of-this-world-coyne-incident-focused-ufo-attention-on-north-central-ohio-in-1973/" target="_blank" rel="noopener noreferrer nofollow">https://www.richlandsource.com/2022/04/29/out-of-this-world-coyne-incident-focused-ufo-attention-on-north-central-ohio-in-1973/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Out of this world: Coyne Incident focused UFO attention on...29 Apr 2022 — Several witnesses on the ground also reported seeing an odd r...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: discovery.ucl.ac.uk  
    Title: ucl.ac.uk NEGLEC T IN POLICY PROBLEMS  
-   Link: [https://discovery.ucl.ac.uk/1573231/1/Vanderslott_Final%20Thesis%206%20Sept.pdf](https://discovery.ucl.ac.uk/1573231/1/Vanderslott_Final%20Thesis%206%20Sept.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/1573231/1/Vanderslott_Final%20Thesis%206%20Sept.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1573231/1/Vanderslott_Final%20Thesis%206%20Sept.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IN POLICY PROBLEMS - UCL DiscoveryHowever, Philip Coyne a former. World Bank medical expert, who partnered with the Guinea Worm programme...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-22.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-22.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-22.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-04-22.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Years of Skeptical Inquiry - Paul Kurtz, Kendrick FrazierPhil Klass and John Mack tangled, but we allowed Mack every opportunity to pr...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vf7xZ5vMMfk](https://www.youtube.com/watch?v=vf7xZ5vMMfk)  
+   Link: <a href="https://www.youtube.com/watch?v=vf7xZ5vMMfk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vf7xZ5vMMfk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1973 🇺🇸 #UFOB [CASE] Sightings - The Lt. Col. Coyne helicopter case Mansfield Ohio...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0BOk598fweI](https://www.youtube.com/watch?v=0BOk598fweI)  
+   Link: <a href="https://www.youtube.com/watch?v=0BOk598fweI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0BOk598fweI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1973 Mansfield UFO Encounter | The Coyne Incident Recreated...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=aaj96wWW_qI](https://www.youtube.com/watch?v=aaj96wWW_qI)  
+   Link: <a href="https://www.youtube.com/watch?v=aaj96wWW_qI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aaj96wWW_qI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coyne Helicopter Incident | 1973 Military UFO Case...</p></details>

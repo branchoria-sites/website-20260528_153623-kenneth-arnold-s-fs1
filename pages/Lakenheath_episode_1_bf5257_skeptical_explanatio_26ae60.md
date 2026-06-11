@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /lakenheath-episode-1956/
 nav_short_title: Explanations
 title: Can Ordinary Explanations Solve Lakenheath?
-title_full: Can Ordinary Explanations Solve Lakenheath? | Lakenheath
+title_full: Can Ordinary Explanations Solve Lakenheath?
 display_title_short: Explanations
 display_title: Explanations
 heading_title: Can Ordinary Explanations Solve Lakenheath?
@@ -233,7 +233,7 @@ next_link:
   permalink: /radar-reports/
   short_title: Radar Reports
   heading_title: Did Radar Really Track Something Unusual?
-date: '2026-06-08 23:21:59 '
+date: '2026-06-11 13:13:36 '
 header:
   og_image: /assets/images/Lakenheath_episode_1_bf5257_skeptical_explanatio_26ae60-Illustration-1-social.jpg
   preview_image: /assets/images/Lakenheath_episode_1_bf5257_skeptical_explanatio_26ae60-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Lakenheath_episode_1_bf5257_skeptical_explanatio_26ae60-Il
 
 ## Introduction
 
-The [Lakenheath episode]({{ 'lakenheath-episode-1956/' | relative_url }}) remains compelling partly because sceptical explanations do explain important parts of the night. The early [radar reports]({{ 'radar-reports/' | relative_url }}) at Bentwaters occurred during the Perseid meteor shower, radar operators were working with mid-1950s equipment that could produce misleading returns, and atmospheric conditions can create false or distorted radar targets through a phenomenon known as anomalous propagation. Yet the case has survived decades of criticism because the most difficult segment — the stop-start radar behaviour reported at RAF Lakenheath and the alleged fighter interception — does not fit neatly into any single ordinary explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lakenheath-Bentwaters incident</span><span class="citation-popover-snippet">Lakenheath-Bentwaters incident</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span>
-
+The Lakenheath episode remains compelling partly because sceptical explanations do explain important parts of the night. The early [radar reports]({{ 'radar-reports/' | relative_url }}) at Bentwaters occurred during the Perseid meteor shower, radar operators were working with mid-1950s equipment that could produce misleading returns, and atmospheric conditions can create false or distorted radar targets through a phenomenon known as anomalous propagation. Yet the case has survived decades of criticism because the most difficult segment — the stop-start radar behaviour reported at RAF Lakenheath and the alleged fighter interception — does not fit neatly into any single ordinary explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lakenheath-Bentwaters incident</span><span class="citation-popover-snippet">Lakenheath-Bentwaters incident</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span>
 
 <img src="{{ "/assets/images/Lakenheath_episode_1_bf5257_skeptical_explanatio_26ae60-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/Lakenheath_episode_1_bf5257_skeptical_explanatio_26ae60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lakenheath_episode_1_bf5257_skeptical_explanatio_26ae60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That tension is what makes Lakenheath historically important in UFO research. It is not a clean mystery pointing toward extraterrestrial craft, but neither is it a simple story that collapses once radar error is mentioned. The strongest sceptical analyses weaken the dramatic claims without fully removing the central puzzle.
@@ -255,7 +254,6 @@ The most influential conventional explanation involves anomalous propagation, of
 For a radar operator, AP can create the illusion of objects appearing suddenly, vanishing, hovering, or moving erratically. Because the reflected signal may come from terrain, ships, distant aircraft, or atmospheric layers rather than a real target in the expected position, the displayed track can look extraordinary even when nothing unusual is physically present. Mid-1950s radar systems were especially vulnerable because filtering technology was primitive compared with modern air-defence radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Possible interpretations of UFO reports</span><span class="citation-popover-snippet">Possible interpretations of UFO reports</span></span></span>
 
 This explanation matters at Lakenheath because several reported features are compatible with AP effects:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -270,7 +268,6 @@ This explanation matters at Lakenheath because several reported features are com
 The Condon Committee analyst Gordon Thayer, himself a specialist in radio propagation, treated anomalous propagation seriously as a possible explanation for at least part of the incident. However, he stopped short of calling it a complete solution. He argued that the absence of widespread clutter or large numbers of false targets on the scopes weakened the idea that the entire event was merely atmospheric distortion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Incidente_Lakenheath-Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente Lakenheath-Bentwaters</span><span class="citation-popover-snippet">Incidente Lakenheath-Bentwaters</span></span></span>
 
 That hesitation is important. AP is not controversial science; it is a real and well-documented radar problem. The dispute is whether it can plausibly account for the specific sequence reported at Lakenheath.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/op_wCAep23o" title="SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don’t Explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer">SOMETHING IS HAPPENING — We Are Detecting Anomalous Objects | What They Don’t Explain</a></p><p class="youtube-embed-meta">Channel: Ray&#x27;s Astrophotography &middot; Views: 55.0K &middot; Uploaded: March 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=op_wCAep23o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=op_wCAep23o">Open on YouTube</a></p></div></div></div>
 
@@ -290,6 +287,7 @@ Even Philip J. Klass, one of the most persistent UFO sceptics of the twentieth c
 
 That layered approach is probably the most plausible sceptical reading of the case: not one dramatic mystery object, but several unrelated events compressed into a single narrative over time.
 
+<img src="{{ "/assets/images/Lakenheath_episode_1_bf5257_skeptical_explanatio_26ae60-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/Lakenheath_episode_1_bf5257_skeptical_explanatio_26ae60-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lakenheath_episode_1_bf5257_skeptical_explanatio_26ae60-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why meteors and aircraft fall short
 
 The Perseid meteor shower was active during the incident, and this is one reason sceptics have often pointed to meteors as part of the explanation. Bright meteors can appear startlingly fast, create the illusion of abrupt directional movement, and provoke exaggerated estimates of speed or distance from startled observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kids.kiddle.co/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kids.kiddle.co">[Kiddle]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kids.kiddle.co</span><span class="citation-popover-title">Lakenheath Bentwaters incident</span><span class="citation-popover-snippet">But for this case, they said it was &quot;puzzling.&quot; They thought it was...Read more...</span></span></span>
@@ -298,17 +296,20 @@ Meteors probably do explain some of the visual reports near Bentwaters, especial
 
 But meteors do not comfortably explain the entire sequence:
 
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * A meteor does not hover for minutes.
 * It cannot produce a sustained radar pursuit.
 * It does not repeatedly stop and restart on radar.
-* It cannot account for alleged airborne radar lock-ons during the [Venom interception]({{ 'venom-chase/' | relative_url }}).
+* It cannot account for alleged airborne radar lock-ons during the Venom interception.
+
+</div>
 
 This is why even sceptical analysts who favour conventional explanations usually treat meteors as only a partial solution rather than the complete answer. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pt.wikipedia.org/wiki/Incidente_de_Lakenheath-Bentwaters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incidente de Lakenheath-Bentwaters</span><span class="citation-popover-snippet">Incidente de Lakenheath-Bentwaters</span></span></span>
 
 Ordinary aircraft also struggle as a full explanation. The speeds estimated from the radar tracks were almost certainly unreliable, but even after discounting exaggerated figures, witnesses still described unusual movement patterns inconsistent with routine traffic. Moreover, the stop-start behaviour described at Lakenheath does not resemble the normal track of a jet or transport aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Possible interpretations of UFO reports</span><span class="citation-popover-snippet">Possible interpretations of UFO reports</span></span></span>
 
 Some later researchers suggested that confusion between multiple aircraft, radar reflections, and verbal reports passed between stations may have created a distorted composite story. That is possible, especially in a tense Cold War environment where unidentified radar returns were taken seriously. But reconstructing the exact sequence remains difficult because surviving records are incomplete and later testimony sometimes conflicts.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bi0H_mkwTW0" title="All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer">All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)</a></p><p class="youtube-embed-meta">Channel: National Capital Area Skeptics (NCAS) &middot; Views: 2.6K &middot; Uploaded: April 2026 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bi0H_mkwTW0">Open on YouTube</a></p></div></div></div>
 
@@ -321,6 +322,8 @@ Later historical research complicated this story. Investigations by David Clarke
 This does not prove the interception never happened. It does, however, weaken the cleanest version of the story. The most dramatic details largely depend on retrospective testimony, particularly from Technical Sergeant Forrest Perkins more than a decade after the incident. Once the aircrew recollections became less certain, sceptics gained a stronger argument that confusion and retrospective embellishment played a role.
 
 That shift is significant because the fighter chase was the strongest apparent evidence that the radar targets corresponded to a real physical object.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2nTFWehgP2w" title="Strange Signals From Deep Space | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2nTFWehgP2w" target="_blank" rel="noopener noreferrer">Strange Signals From Deep Space | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 66.5K &middot; Uploaded: April 2026 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2nTFWehgP2w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2nTFWehgP2w">Open on YouTube</a></p></div></div></div>
 
 ## Why unresolved does not mean alien
 
@@ -337,7 +340,6 @@ Lakenheath sits in the uncomfortable middle ground where imperfect data, radar l
 
 In practice, the episode demonstrates several broader lessons about Cold War UFO reports:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Radar data are not automatically objective truth.
@@ -350,49 +352,89 @@ In practice, the episode demonstrates several broader lessons about Cold War UFO
 
 The most cautious modern assessment is therefore neither outright debunking nor endorsement. The anomalous propagation hypothesis weakens the strongest claims surrounding Lakenheath, especially the extraordinary speed estimates, but it does not neatly dissolve the entire event into a single mundane explanation. That unresolved remainder is why the case still appears in serious discussions of historical radar-visual UFO incidents.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2nTFWehgP2w" title="Strange Signals From Deep Space | The Proof Is Out There" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2nTFWehgP2w" target="_blank" rel="noopener noreferrer">Strange Signals From Deep Space | The Proof Is Out There</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 66.5K &middot; Uploaded: April 2026 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2nTFWehgP2w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2nTFWehgP2w">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Lakenheath_episode_1_bf5257_skeptical_explanatio_26ae60-Illustration-3-dark.svg" | relative_url }}" alt="Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/Lakenheath_episode_1_bf5257_skeptical_explanatio_26ae60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Lakenheath_episode_1_bf5257_skeptical_explanatio_26ae60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Can Ordinary Explanations Solve Lakenheath?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Can Ordinary Explanations Solve Lakenheath?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO Research guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+Research+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Contains the original investigative records which sought to distinguish atmospheric radar echoes from solid object reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Lakenheath radar-visual evidence, examining what was documented against meteorological anomaly hypotheses.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO Research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+Research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches forensic methodologies to distinguish atmospheric anomalous propagation from actual solid craft.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Reviews the standards applied by military investigative bodies when checking radar anomalies vs. actual object reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -429,15 +471,15 @@ The most cautious modern assessment is therefore neither outright debunking nor 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -445,15 +487,15 @@ The most cautious modern assessment is therefore neither outright debunking nor 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -461,31 +503,15 @@ The most cautious modern assessment is therefore neither outright debunking nor 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,7 +519,7 @@ The most cautious modern assessment is therefore neither outright debunking nor 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="explanations-5e93a2-can-ordinary-explanations-solve-lakenheath-lakenheath-episode-1956-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -709,106 +735,106 @@ The most cautious modern assessment is therefore neither outright debunking nor 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Lakenheath-Bentwaters incident  
-   Link: [https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident](https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lakenheath-Bentwaters_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Anomalous propagation  
-   Link: [https://en.wikipedia.org/wiki/Anomalous_propagation](https://en.wikipedia.org/wiki/Anomalous_propagation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
 
 3. <a id="endnote-3"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RATCC radar was malfunctioning because of a faulty MTI unit; he feels that once the radar...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Incidente de Lakenheath-Bentwaters  
-   Link: [https://pt.wikipedia.org/wiki/Incidente_de_Lakenheath-Bentwaters](https://pt.wikipedia.org/wiki/Incidente_de_Lakenheath-Bentwaters)  
+   Link: <a href="https://pt.wikipedia.org/wiki/Incidente_de_Lakenheath-Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://pt.wikipedia.org/wiki/Incidente_de_Lakenheath-Bentwaters</a>  
 
 5. <a id="endnote-5"></a>
    Source: kids.kiddle.co  
    Title: Lakenheath Bentwaters incident  
-   Link: [https://kids.kiddle.co/Lakenheath-Bentwaters_incident](https://kids.kiddle.co/Lakenheath-Bentwaters_incident)  
+   Link: <a href="https://kids.kiddle.co/Lakenheath-Bentwaters_incident" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Lakenheath-Bentwaters_incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>But for this case, they said it was &quot;puzzling.&quot; They thought it was...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Possible interpretations of UFO reports  
-   Link: [https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports](https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports)  
+   Link: <a href="https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Possible_interpretations_of_UFO_reports</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Incidente Lakenheath-Bentwaters  
-   Link: [https://es.wikipedia.org/wiki/Incidente_Lakenheath-Bentwaters](https://es.wikipedia.org/wiki/Incidente_Lakenheath-Bentwaters)  
+   Link: <a href="https://es.wikipedia.org/wiki/Incidente_Lakenheath-Bentwaters" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Incidente_Lakenheath-Bentwaters</a>  
 
 8. <a id="endnote-8"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010010-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lakenheath in 1956,&quot; 1970, pages 9-17). &quot;Scientific Study of Unidentified... Anomalous propagation of radar seems equally unlikely as an...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OpenLakenheath &quot;radar/visual&quot; case (1956) in Chapter 2. The RAF and the... conclusions of the Condon report are just one case in point...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thewhitbyguide/posts/ufo-mystery-at-raf-fylingdales-revealed-a-cold-warera-incident-has-revealed-that/1295214269302597/](https://www.facebook.com/thewhitbyguide/posts/ufo-mystery-at-raf-fylingdales-revealed-a-cold-warera-incident-has-revealed-that/1295214269302597/)  
+   Link: <a href="https://www.facebook.com/thewhitbyguide/posts/ufo-mystery-at-raf-fylingdales-revealed-a-cold-warera-incident-has-revealed-that/1295214269302597/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thewhitbyguide/posts/ufo-mystery-at-raf-fylingdales-revealed-a-cold-warera-incident-has-revealed-that/1295214269302597/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO mystery at RAF Fylingdales revealed. 👽 A Cold War–...UFO mystery at RAF Fylingdales revealed. 👽 A Cold War–era incident has revealed...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Scientific Study Of Unidentified Flying Objects  
-   Link: [https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt](https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt)  
+   Link: <a href="https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/pdfy-4vyHjooOJagoGAwN/Scientific%2BStudy%2BOf%2BUnidentified%2BFlying%2BObjects_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Studies of specific UFO radar reports and their interpretation are presented in Section III, Chapters by Gordon Thayer. Thayer is a radio...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: its.ntia.gov  
-   Link: [https://its.ntia.gov/publications/download/76-107.pdf](https://its.ntia.gov/publications/download/76-107.pdf)  
+   Link: <a href="https://its.ntia.gov/publications/download/76-107.pdf" target="_blank" rel="noopener noreferrer nofollow">https://its.ntia.gov/publications/download/76-107.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Propagation and Interference Fieldsby HT Dougherty · 1976 · Cited by 8 — Acquires, analyzes, synthesizes, and disseminates info...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/90805219/RAF_Bentwaters_Lakenheath_Air_visual_Radar_UFO_Observation_13_14_August_1956](https://www.academia.edu/90805219/RAF_Bentwaters_Lakenheath_Air_visual_Radar_UFO_Observation_13_14_August_1956)  
+   Link: <a href="https://www.academia.edu/90805219/RAF_Bentwaters_Lakenheath_Air_visual_Radar_UFO_Observation_13_14_August_1956" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/90805219/RAF_Bentwaters_Lakenheath_Air_visual_Radar_UFO_Observation_13_14_August_1956</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) RAF Bentwaters/Lakenheath, Air-visual/Radar UFO...RAF Bentwaters/Lakenheath, Air-visual/Radar UFO Observation, 13-14 Augus...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: on 13 august 1956 military radar at multiple  
-   Link: [https://www.reddit.com/r/nonmurdermysteries/comments/17gdoze/on_13_august_1956_military_radar_at_multiple/](https://www.reddit.com/r/nonmurdermysteries/comments/17gdoze/on_13_august_1956_military_radar_at_multiple/)  
+   Link: <a href="https://www.reddit.com/r/nonmurdermysteries/comments/17gdoze/on_13_august_1956_military_radar_at_multiple/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nonmurdermysteries/comments/17gdoze/on_13_august_1956_military_radar_at_multiple/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On 13 August 1956, military radar at multiple bases...On 13 August 1956, military radar at multiple bases in England detected an unident...</p></details>
    Published: august 1956  
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: on 13 august 1956 military radar at multiple  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/17gdyu6/on_13_august_1956_military_radar_at_multiple/](https://www.reddit.com/r/UnresolvedMysteries/comments/17gdyu6/on_13_august_1956_military_radar_at_multiple/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/17gdyu6/on_13_august_1956_military_radar_at_multiple/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/17gdyu6/on_13_august_1956_military_radar_at_multiple/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On 13 August 1956, military radar at multiple bases in...The apparently rational, intelligent behavior of the UFO suggests a mechanical...</p></details>
    Published: august 1956  
 
 16. <a id="endnote-16"></a>
    Source: history.co.uk  
    Title: Is there a rational explanation for these curious sightings?Read more  
-   Link: [https://www.history.co.uk/articles/lakenheath-bentwaters-incident-uk-roswell](https://www.history.co.uk/articles/lakenheath-bentwaters-incident-uk-roswell)  
+   Link: <a href="https://www.history.co.uk/articles/lakenheath-bentwaters-incident-uk-roswell" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/articles/lakenheath-bentwaters-incident-uk-roswell</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lakenheath-Bentwaters incident: The UK&#x27;s RoswellOne evening in August 1956, luminous, fast-paced UFOs were spotted in eastern England skies...</p></details>
    Published: August 1956  
 
 17. <a id="endnote-17"></a>
    Source: kirkmcd.princeton.edu  
    Title: Kirk Mc Donaldufos over lakenheath  
-   Link: [https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_9_70.pdf](https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_9_70.pdf)  
+   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_9_70.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_9_70.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirk McDonaldufos over lakenheath - 1956The concurrent detection of a single radar target by a ground radar and an airborne radar under c...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: midimagic.sgc-hosting.com  
    Title: LAKENHEAT H-BENTWATERS  
-   Link: [https://midimagic.sgc-hosting.com/lakenhea.htm](https://midimagic.sgc-hosting.com/lakenhea.htm)  
+   Link: <a href="https://midimagic.sgc-hosting.com/lakenhea.htm" target="_blank" rel="noopener noreferrer nofollow">https://midimagic.sgc-hosting.com/lakenhea.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sgc-hosting.comLAKENHEATH-BENTWATERS - MidiMagicAnomalous propagation causing the RADAR beam to strike the ground at slightly differing r...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bi0H_mkwTW0](https://www.youtube.com/watch?v=bi0H_mkwTW0)  
+   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 Unidentified Aerial Objects Tracked by Military Systems...</p></details>

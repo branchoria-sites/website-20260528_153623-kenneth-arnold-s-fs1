@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /linda-cortile-abduction-1989/
 nav_short_title: Implant
 title: Was There Any Physical Evidence?
-title_full: Was There Any Physical Evidence? | Cortile Case
+title_full: Was There Any Physical Evidence?
 display_title_short: Implant
 display_title: Implant
 heading_title: Was There Any Physical Evidence?
@@ -239,7 +239,7 @@ next_link:
   permalink: /witnesses-011357/
   short_title: Witnesses
   heading_title: Did Anyone Really See the Abduction?
-date: '2026-06-08 23:28:03 '
+date: '2026-06-11 13:17:04 '
 header:
   og_image: /assets/images/Linda_Cortile_abduct_1b229f_nasal_implant_9ade29-Illustration-1-social.jpg
   preview_image: /assets/images/Linda_Cortile_abduct_1b229f_nasal_implant_9ade29-Illustration-1.webp
@@ -248,17 +248,16 @@ image: /assets/images/Linda_Cortile_abduct_1b229f_nasal_implant_9ade29-Illustrat
 
 ## Introduction
 
-The alleged nasal implant in the Linda Cortile, later Linda Napolitano, abduction case became one of the story’s most important claims because it appeared to offer something alien-abduction reports usually lack: a possible piece of physical evidence. According to Napolitano and UFO researcher Budd [Hopkins]({{ 'hopkins/' | relative_url }}), an X-ray showed a small metallic-looking object lodged inside her nose after an earlier encounter experience. Hopkins described it as a potential “radiological smoking gun”, suggesting that it might be a tracking or monitoring device inserted by non-human beings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">The Manhattan Alien Abduction: True Story Behind Netflix</span><span class="citation-popover-snippet">TimeThe Manhattan Alien Abduction: True Story Behind Netflix...October 31, 2024 — Oct 31, 2024 — After this purported first encounter, N...</span><span class="citation-popover-meta">Published: October 31, 2024</span></span></span>
-
+The alleged nasal implant in the Linda Cortile, later Linda Napolitano, abduction case became one of the story’s most important claims because it appeared to offer something alien-abduction reports usually lack: a possible piece of physical evidence. According to Napolitano and UFO researcher Budd [Hopkins]({{ 'hopkins/' | relative_url }}), an X-ray showed a small metallic-looking object lodged inside her nose after an earlier encounter experience. Hopkins described it as a potential “radiological smoking gun”, suggesting that it might be a tracking or monitoring device inserted by non-human beings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">The Manhattan Alien Abduction: True Story Behind Netflix</span><span class="citation-popover-snippet">The Manhattan Alien Abduction: True Story Behind Netflix...October 31, 2024 — Oct 31, 2024 — After this purported first encounter, N...</span><span class="citation-popover-meta">Published: October 31, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f_nasal_implant_9ade29-Illustration-1-dark.svg" | relative_url }}" alt="Implant illustration 1" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f_nasal_implant_9ade29-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f_nasal_implant_9ade29-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Yet the claim never produced the decisive proof supporters hoped for. A later medical attempt to locate or remove the object reportedly failed to recover anything at all. The missing implant became one of the clearest examples of how the Cortile/Napolitano case balanced between extraordinary testimony and unresolved evidence. For believers, the disappearance deepened the mystery. For sceptics, it demonstrated how ambiguous medical images and incomplete documentation can grow into dramatic claims without ever reaching scientific verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">The Manhattan Alien Abduction: True Story Behind Netflix</span><span class="citation-popover-snippet">TimeThe Manhattan Alien Abduction: True Story Behind Netflix...October 31, 2024 — Oct 31, 2024 — After this purported first encounter, N...</span><span class="citation-popover-meta">Published: October 31, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/netflix-faces-lawsuit-over-manhattan-002336540.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">netflix faces lawsuit over manhattan 002336540</span><span class="citation-popover-snippet">Netflix faces lawsuit over &#x27;The Manhattan Alien Abduction&#x27;Nov 1, 2024 — Rainey also believes Napolitano&#x27;s X-rays could have been faked an...</span></span></span>
+Yet the claim never produced the decisive proof supporters hoped for. A later medical attempt to locate or remove the object reportedly failed to recover anything at all. The missing implant became one of the clearest examples of how the Cortile/Napolitano case balanced between extraordinary testimony and unresolved evidence. For believers, the disappearance deepened the mystery. For sceptics, it demonstrated how ambiguous medical images and incomplete documentation can grow into dramatic claims without ever reaching scientific verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">The Manhattan Alien Abduction: True Story Behind Netflix</span><span class="citation-popover-snippet">The Manhattan Alien Abduction: True Story Behind Netflix...October 31, 2024 — Oct 31, 2024 — After this purported first encounter, N...</span><span class="citation-popover-meta">Published: October 31, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yahoo.com/news/netflix-faces-lawsuit-over-manhattan-002336540.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yahoo.com">[Yahoo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yahoo.com</span><span class="citation-popover-title">netflix faces lawsuit over manhattan 002336540</span><span class="citation-popover-snippet">Netflix faces lawsuit over &#x27;The Manhattan Alien Abduction&#x27;Nov 1, 2024 — Rainey also believes Napolitano&#x27;s X-rays could have been faked an...</span></span></span>
 
 ## The X-ray that seemed to change the case
 
-The implant story did not originate with the famous November 1989 Manhattan abduction itself. In later retellings, Napolitano said that after an earlier experience involving small grey beings, she noticed a lump or irritation near her nose accompanied by nosebleeds. An X-ray allegedly revealed a small foreign object inside the nasal area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">The Manhattan Alien Abduction: True Story Behind Netflix</span><span class="citation-popover-snippet">TimeThe Manhattan Alien Abduction: True Story Behind Netflix...October 31, 2024 — Oct 31, 2024 — After this purported first encounter, N...</span><span class="citation-popover-meta">Published: October 31, 2024</span></span></span> Wikipedia Within abduction research culture of the late 1980s and early 1990s <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Budd_Hopkins" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Budd Hopkins... implants that were alluded to (particularly in the case of alleged abductee Linda Cortile) but never recovered, photog...</span></span></span>, this mattered enormously. Physical traces were rare. Most alien-abduction cases depended on memory, hypnosis sessions, dreams, or testimony. A visible object on medical imaging gave Hopkins something he believed could move the discussion away from psychology and towards material evidence.
+The implant story did not originate with the famous November 1989 Manhattan abduction itself. In later retellings, Napolitano said that after an earlier experience involving small grey beings, she noticed a lump or irritation near her nose accompanied by nosebleeds. An X-ray allegedly revealed a small foreign object inside the nasal area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">The Manhattan Alien Abduction: True Story Behind Netflix</span><span class="citation-popover-snippet">The Manhattan Alien Abduction: True Story Behind Netflix...October 31, 2024 — Oct 31, 2024 — After this purported first encounter, N...</span><span class="citation-popover-meta">Published: October 31, 2024</span></span></span> Wikipedia Within abduction research culture of the late 1980s and early 1990s <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Budd_Hopkins" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Budd Hopkins... implants that were alluded to (particularly in the case of alleged abductee Linda Cortile) but never recovered, photog...</span></span></span>, this mattered enormously. Physical traces were rare. Most alien-abduction cases depended on memory, hypnosis sessions, dreams, or testimony. A visible object on medical imaging gave Hopkins something he believed could move the discussion away from psychology and towards material evidence.
 
-Hopkins repeatedly treated the X-ray as unusually important because it appeared independent of memory recovery techniques. Unlike hypnotic testimony, an image could be shown publicly, copied, and interpreted by others. That distinction helped the Cortile case gain influence beyond ordinary UFO circles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wgbh/nova/aliens/cases.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">PBSNOVA Online/Kidnapped by UFOs/Budd Hopkins&#x27; CasesNOVA Online: Kidnapped By UFOs? Excerpts from interview with Budd Hopkins His cases—p...</span></span></span>
+Hopkins repeatedly treated the X-ray as unusually important because it appeared independent of memory recovery techniques. Unlike hypnotic testimony, an image could be shown publicly, copied, and interpreted by others. That distinction helped the Cortile case gain influence beyond ordinary UFO circles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wgbh/nova/aliens/cases.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">NOVA Online/Kidnapped by UFOs/Budd Hopkins&#x27; CasesNOVA Online: Kidnapped By UFOs? Excerpts from interview with Budd Hopkins His cases—p...</span></span></span>
 
 The claim also fit a broader pattern within alien-abduction lore. During the 1980s and 1990s, several researchers promoted the idea that abductees carried implanted devices placed in the body by extraterrestrials. These alleged implants were said to function as tracking tools, monitoring devices, or biological instruments. The Cortile/Napolitano object became one of the better-known examples because of the visibility of the wider Manhattan case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hal.science/hal-03968918/document" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hal.science">[HAL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hal.science</span><span class="citation-popover-snippet">Source details in endnotes.</span><span class="citation-popover-meta">Published: January 1993</span></span></span>
 
@@ -272,12 +271,11 @@ The ambiguity became more serious because accounts of the object varied over tim
 
 * Some descriptions portrayed it as metallic.
 * Others referred more cautiously to a “foreign object”.
-* One account stated that a doctor suggested it could have been residue or material left from a previous medical procedure, something Napolitano denied because she said she had never undergone nasal surgery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/NewsNationNow/posts/linda-napolitano-says-she-was-abducted-by-aliens-in-1989-and-her-story-attracted/573693635037658/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">linda napolitano says she was abducted by aliens in 1989 and her story attracted</span><span class="citation-popover-snippet">FacebookLinda Napolitano says she was abducted by aliens in 1989...Though the doctor informed her that it was likely accidentally left b...</span></span></span>
+* One account stated that a doctor suggested it could have been residue or material left from a previous medical procedure, something Napolitano denied because she said she had never undergone nasal surgery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/NewsNationNow/posts/linda-napolitano-says-she-was-abducted-by-aliens-in-1989-and-her-story-attracted/573693635037658/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">linda napolitano says she was abducted by aliens in 1989 and her story attracted</span><span class="citation-popover-snippet">Linda Napolitano says she was abducted by aliens in 1989...Though the doctor informed her that it was likely accidentally left b...</span></span></span>
 
 Those inconsistencies mattered because the implant claim depended heavily on interpretation rather than laboratory confirmation. An unexplained shape on an X-ray is not automatically evidence of advanced technology. In ordinary medicine, imaging can show calcifications, scar tissue, cartilage irregularities, dental fragments, debris, or shadows that appear unusual without being extraordinary.
 
 Sceptical researchers also pointed out that the available imagery did not establish chain of custody or independent verification. There was no publicly documented progression from image discovery to controlled extraction to laboratory testing. Without that sequence, the object remained suggestive rather than evidential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tricksterbook.com/ArticlesOnline/LindaCase.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tricksterbook.com">[tricksterbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tricksterbook.com</span><span class="citation-popover-snippet">A Critique of Budd Hopkins&#x27; Case of the UFO Abduction of...Linda has reported nose bleeds, and one X-ray displays an implant in her nose...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4TQIiVlHYxY" title="The Brooklyn Bridge UFO | The Weirdest Story You&#x27;ll Ever Hear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4TQIiVlHYxY" target="_blank" rel="noopener noreferrer">The Brooklyn Bridge UFO | The Weirdest Story You&#x27;ll Ever Hear</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 4.3M &middot; Uploaded: January 2023 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4TQIiVlHYxY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4TQIiVlHYxY">Open on YouTube</a></p></div></div></div>
 
@@ -285,14 +283,13 @@ Sceptical researchers also pointed out that the available imagery did not establ
 
 The most damaging development for the implant theory was the reported failure to recover the object during a later medical procedure.
 
-According to later summaries of the case, a specialist attempted to locate or remove the alleged implant but could not find it. The object visible on earlier imaging was reportedly gone by the time surgery took place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">The Manhattan Alien Abduction: True Story Behind Netflix</span><span class="citation-popover-snippet">TimeThe Manhattan Alien Abduction: True Story Behind Netflix...October 31, 2024 — Oct 31, 2024 — After this purported first encounter, N...</span><span class="citation-popover-meta">Published: October 31, 2024</span></span></span>
+According to later summaries of the case, a specialist attempted to locate or remove the alleged implant but could not find it. The object visible on earlier imaging was reportedly gone by the time surgery took place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">The Manhattan Alien Abduction: True Story Behind Netflix</span><span class="citation-popover-snippet">The Manhattan Alien Abduction: True Story Behind Netflix...October 31, 2024 — Oct 31, 2024 — After this purported first encounter, N...</span><span class="citation-popover-meta">Published: October 31, 2024</span></span></span>
 
 For supporters of the abduction narrative, the disappearance became part of the mystery itself. Some suggested the object may have moved, dissolved, or been removed by the same entities alleged to have implanted it. Within UFO-abduction culture, disappearing evidence often reinforced rather than weakened paranormal interpretations because the absence itself was interpreted as intentional concealment.
 
 Outside that belief framework, however, the failed recovery had the opposite effect. If the object could not be physically retrieved, analysed, photographed in situ under controlled conditions, or tested metallurgically, then the strongest potential evidence collapsed back into uncertainty.
 
 This distinction became central to later sceptical critiques of Hopkins’s investigation. Critics argued that the implant episode illustrated a recurring problem in abduction research:
-
 
 <img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f_nasal_implant_9ade29-Illustration-2-dark.svg" | relative_url }}" alt="Implant illustration 2" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f_nasal_implant_9ade29-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f_nasal_implant_9ade29-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -319,7 +316,6 @@ These claims did not conclusively disprove the implant story, but they shifted t
 
 That was especially significant because the wider Cortile/Napolitano case already relied heavily on disputed testimony, pseudonymous witnesses, hypnosis sessions, and undocumented correspondence. The implant had been one of the few elements that appeared materially testable. When that testability disappeared, the case increasingly returned to questions of credibility and interpretation rather than demonstrable physical proof.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aJITrkLe0IA" title="The Manhattan Alien Abduction | Official Trailer | Netflix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aJITrkLe0IA" target="_blank" rel="noopener noreferrer">The Manhattan Alien Abduction | Official Trailer | Netflix</a></p><p class="youtube-embed-meta">Channel: Netflix &middot; Views: 857.1K &middot; Uploaded: September 2024 &middot; Length: 2 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aJITrkLe0IA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aJITrkLe0IA">Open on YouTube</a></p></div></div></div>
 
 ## Why ambiguous evidence became so persuasive
@@ -327,7 +323,6 @@ That was especially significant because the wider Cortile/Napolitano case alread
 The implant story became influential not because it conclusively proved anything, but because it occupied a psychologically powerful middle ground between ordinary testimony and hard science.
 
 Several factors explain why it resonated so strongly:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -340,8 +335,7 @@ Several factors explain why it resonated so strongly:
 
 The timing also mattered. During the late Cold War and early 1990s, public fascination with conspiracies, hidden technology, and government secrecy was growing rapidly. Alien-abduction stories increasingly borrowed the language of medicine, surveillance, and forensic investigation. The Cortile/Napolitano implant fit perfectly into that cultural atmosphere.
 
-Hopkins himself helped frame the evidence in those terms. By treating the X-ray as potentially scientific proof rather than symbolic or spiritual experience, he encouraged audiences to view the case through the lens of investigation and disclosure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wgbh/nova/aliens/cases.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">PBSNOVA Online/Kidnapped by UFOs/Budd Hopkins&#x27; CasesNOVA Online: Kidnapped By UFOs? Excerpts from interview with Budd Hopkins His cases—p...</span></span></span>
-
+Hopkins himself helped frame the evidence in those terms. By treating the X-ray as potentially scientific proof rather than symbolic or spiritual experience, he encouraged audiences to view the case through the lens of investigation and disclosure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/wgbh/nova/aliens/cases.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">NOVA Online/Kidnapped by UFOs/Budd Hopkins&#x27; CasesNOVA Online: Kidnapped By UFOs? Excerpts from interview with Budd Hopkins His cases—p...</span></span></span>
 
 <img src="{{ "/assets/images/Linda_Cortile_abduct_1b229f_nasal_implant_9ade29-Illustration-3-dark.svg" | relative_url }}" alt="Implant illustration 3" data-theme-src-dark="{{ "/assets/images/Linda_Cortile_abduct_1b229f_nasal_implant_9ade29-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Linda_Cortile_abduct_1b229f_nasal_implant_9ade29-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the implant episode ultimately demonstrates
@@ -354,49 +348,89 @@ For supporters, the implant still represents one of the few moments where the ca
 
 The larger importance of the implant story is therefore not what it proved, but what it revealed about the mechanics of belief. A single ambiguous X-ray helped transform the Cortile/Napolitano narrative from an unusual personal account into one of the most debated abduction cases in modern UFO history.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5iBFES2Frv0" title="A Key Witness in the Linda Cortile UFO Abduction Case rev 022214" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5iBFES2Frv0" target="_blank" rel="noopener noreferrer">A Key Witness in the Linda Cortile UFO Abduction Case rev 022214</a></p><p class="youtube-embed-meta">Channel: Carol Rainey &middot; Views: 16.1K &middot; Uploaded: February 2014 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5iBFES2Frv0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5iBFES2Frv0">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Was There Any Physical Evidence?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Was There Any Physical Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Witnessed+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Witnessed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OxtLPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Witnessed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Witnessed+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witnessed">Witnessed</a>
+        </h4>
+        <p class="fr-book-author">By Budd Hopkins</p>
+        
+        <p class="fr-book-desc">Contains Hopkins&#x27;s primary tracking logs labeling the foreign nasal object as a potential radiological smoking gun device.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Witnessed+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches how ambiguous medical images, node shadows, and nosebleed irritation reports grow into unverified physical devices.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=immWvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Missing Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+        </h4>
+        <p class="fr-book-author">By Budd Hopkins</p>
+        
+        <p class="fr-book-desc">Traces why physical trace arguments were highly sought after by late-1980s researchers to anchor purely subjective testimonies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Addresses the extreme evidentiary limits that unfold when a promised radiological tracing device mysteriously vanishes before lab checks.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Witnessed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Witnessed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Missing+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Missing Time</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -433,15 +467,15 @@ The larger importance of the implant story is therefore not what it proved, but 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;"><img src="{{ '/assets/images/marketplace-covers/2501a43cedfa1b44778d.jpg' | relative_url }}" alt="Listing image for Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction / Photo / Poster Up To 36&quot;x24&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -449,15 +483,15 @@ The larger importance of the implant story is therefore not what it proved, but 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Movie Photo / Poster Up To 30&quot;"><img src="{{ '/assets/images/marketplace-covers/1bc2ddce555309e018c7.jpg' | relative_url }}" alt="Listing image for Alien Abduction Movie Photo / Poster Up To 30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Movie Photo / Poster Up To 30&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -465,15 +499,15 @@ The larger importance of the implant story is therefore not what it proved, but 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor"><img src="{{ '/assets/images/marketplace-covers/8a69c01cfb4e71ca93d8.jpg' | relative_url }}" alt="Listing image for UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">UFO ALIEN ABDUCTION Vintage Wall Art,Sci-fi Cryptid Poster, Disclosure UAP Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,15 +515,15 @@ The larger importance of the implant story is therefore not what it proved, but 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/bcdcd82feb52eda5f467.jpg' | relative_url }}" alt="Listing image for Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction - UFO Get In Loser Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien abduction poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien abduction poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,7 +531,7 @@ The larger importance of the implant story is therefore not what it proved, but 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+abduction+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien abduction poster -book -books" data-ebay-reference="implant-was-there-any-physical-evidence-linda-cortile-abduction-1989-alien-abduction-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -713,73 +747,73 @@ The larger importance of the implant story is therefore not what it proved, but 
 1. <a id="endnote-1"></a>
    Source: time.com  
    Title: The Manhattan Alien Abduction: True Story Behind Netflix  
-   Link: [https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/](https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TimeThe Manhattan Alien Abduction: True Story Behind Netflix...October 31, 2024 — Oct 31, 2024 — After this purported first encounter, N...</p></details>
+   Link: <a href="https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7160509/the-manhattan-alien-abduction-netflix-true-story/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Manhattan Alien Abduction: True Story Behind Netflix...October 31, 2024 — Oct 31, 2024 — After this purported first encounter, N...</p></details>
    Published: October 31, 2024  
 
 2. <a id="endnote-2"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/wgbh/nova/aliens/cases.html](https://www.pbs.org/wgbh/nova/aliens/cases.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PBSNOVA Online/Kidnapped by UFOs/Budd Hopkins&#x27; CasesNOVA Online: Kidnapped By UFOs? Excerpts from interview with Budd Hopkins His cases—p...</p></details>
+   Link: <a href="https://www.pbs.org/wgbh/nova/aliens/cases.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/wgbh/nova/aliens/cases.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOVA Online/Kidnapped by UFOs/Budd Hopkins&#x27; CasesNOVA Online: Kidnapped By UFOs? Excerpts from interview with Budd Hopkins His cases—p...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: yahoo.com  
    Title: netflix faces lawsuit over manhattan 002336540  
-   Link: [https://www.yahoo.com/news/netflix-faces-lawsuit-over-manhattan-002336540.html](https://www.yahoo.com/news/netflix-faces-lawsuit-over-manhattan-002336540.html)  
+   Link: <a href="https://www.yahoo.com/news/netflix-faces-lawsuit-over-manhattan-002336540.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/netflix-faces-lawsuit-over-manhattan-002336540.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix faces lawsuit over &#x27;The Manhattan Alien Abduction&#x27;Nov 1, 2024 — Rainey also believes Napolitano&#x27;s X-rays could have been faked an...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Budd_Hopkins](https://en.wikipedia.org/wiki/Budd_Hopkins)  
+   Link: <a href="https://en.wikipedia.org/wiki/Budd_Hopkins" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Budd_Hopkins</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Budd Hopkins... implants that were alluded to (particularly in the case of alleged abductee Linda Cortile) but never recovered, photog...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction](https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Manhattan_Alien_Abduction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Manhattan Alien Abduction&quot; Initially, filmmaker Carol Rainey believed Napolitano&#x27;s story, but she later thought that her ex-husban...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: tricksterbook.com  
-   Link: [https://www.tricksterbook.com/ArticlesOnline/LindaCase.htm](https://www.tricksterbook.com/ArticlesOnline/LindaCase.htm)  
+   Link: <a href="https://www.tricksterbook.com/ArticlesOnline/LindaCase.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.tricksterbook.com/ArticlesOnline/LindaCase.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Critique of Budd Hopkins&#x27; Case of the UFO Abduction of...Linda has reported nose bleeds, and one X-ray displays an implant in her nose...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: hal.science  
-   Link: [https://hal.science/hal-03968918/document](https://hal.science/hal-03968918/document)  
+   Link: <a href="https://hal.science/hal-03968918/document" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-03968918/document</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hopkins&#x27; Case of the UFO Abduction of Linda Napolitano.” (8 January 1993), [http://www.tricksterbook.com/ArticlesOnline...Read](http://www.tricksterbook.com/ArticlesOnline...Read) more...</p></details>
    Published: January 1993  
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: linda napolitano says she was abducted by aliens in 1989 and her story attracted  
-   Link: [https://www.facebook.com/NewsNationNow/posts/linda-napolitano-says-she-was-abducted-by-aliens-in-1989-and-her-story-attracted/573693635037658/](https://www.facebook.com/NewsNationNow/posts/linda-napolitano-says-she-was-abducted-by-aliens-in-1989-and-her-story-attracted/573693635037658/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookLinda Napolitano says she was abducted by aliens in 1989...Though the doctor informed her that it was likely accidentally left b...</p></details>
+   Link: <a href="https://www.facebook.com/NewsNationNow/posts/linda-napolitano-says-she-was-abducted-by-aliens-in-1989-and-her-story-attracted/573693635037658/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/linda-napolitano-says-she-was-abducted-by-aliens-in-1989-and-her-story-attracted/573693635037658/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Linda Napolitano says she was abducted by aliens in 1989...Though the doctor informed her that it was likely accidentally left b...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thebestnetflix/posts/in-an-upcoming-documentary-series-netflix-linda-napolitano-has-shared-her-experi/1287867402467324/](https://www.facebook.com/thebestnetflix/posts/in-an-upcoming-documentary-series-netflix-linda-napolitano-has-shared-her-experi/1287867402467324/)  
+   Link: <a href="https://www.facebook.com/thebestnetflix/posts/in-an-upcoming-documentary-series-netflix-linda-napolitano-has-shared-her-experi/1287867402467324/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thebestnetflix/posts/in-an-upcoming-documentary-series-netflix-linda-napolitano-has-shared-her-experi/1287867402467324/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>e reputation of Hopkins her former husband. She says the...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: netflix.com  
-   Link: [https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news](https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news)  
+   Link: <a href="https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/tudum/articles/the-manhattan-alien-abduction-release-date-news</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Manhattan Alien Abduction: True Story and Plot...In 1989, New York City resident Linda Napolitano said she was abducted by aliens ou...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: My Problems With Netflix Manhattan Alien Abduction  
-   Link: [https://www.youtube.com/watch?v=ovspGU55d_4](https://www.youtube.com/watch?v=ovspGU55d_4)  
+   Link: <a href="https://www.youtube.com/watch?v=ovspGU55d_4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ovspGU55d_4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Manhattan Alien Abduction | Official Trailer | Netflix...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Manhattan Alien Abduction | Official Trailer | Netflix  
-   Link: [https://www.youtube.com/watch?v=aJITrkLe0IA](https://www.youtube.com/watch?v=aJITrkLe0IA)  
+   Link: <a href="https://www.youtube.com/watch?v=aJITrkLe0IA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aJITrkLe0IA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Linda Napolitano implant evidence The Manhattan Alien Abduction | Official Trailer | Netflix Netflix...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/10/31/entertainment/manhattan-alien-abduction-woman-claiming-1989-story-sues-netflix-over-doc/](https://nypost.com/2024/10/31/entertainment/manhattan-alien-abduction-woman-claiming-1989-story-sues-netflix-over-doc/)  
+   Link: <a href="https://nypost.com/2024/10/31/entertainment/manhattan-alien-abduction-woman-claiming-1989-story-sues-netflix-over-doc/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/10/31/entertainment/manhattan-alien-abduction-woman-claiming-1989-story-sues-netflix-over-doc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New York Post&#x27;Manhattan Alien Abduction&#x27;: Woman claiming 1989 story...October 31, 2024 — Oct 31, 2024 — Napolitano also shared an X-ray...</p></details>
    Published: October 31, 2024  
 
@@ -787,49 +821,49 @@ The larger importance of the implant story is therefore not what it proved, but 
 
 14. <a id="endnote-14"></a>
    Source: gregsandow.com  
-   Link: [https://gregsandow.com/ufo/Contents/From_IUR_--_An_Analysis_of_the/from_iur_--_an_analysis_of_the.htm](https://gregsandow.com/ufo/Contents/From_IUR_--_An_Analysis_of_the/from_iur_--_an_analysis_of_the.htm)  
+   Link: <a href="https://gregsandow.com/ufo/Contents/From_IUR_--_An_Analysis_of_the/from_iur_--_an_analysis_of_the.htm" target="_blank" rel="noopener noreferrer nofollow">https://gregsandow.com/ufo/Contents/From_IUR_--_An_Analysis_of_the/from_iur_--_an_analysis_of_the.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Greg Sandow -- Examination of the &quot;Linda&quot; caseA UFO abduction has been witnessed. Linda &quot;Cortile&quot; -- a housewife who lives on the lower e...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: english.elpais.com  
-   Link: [https://english.elpais.com/culture/2024-11-07/abducted-in-front-of-23-witnesses-and-a-un-secretary-general-the-most-famous-ufo-file-is-resurrected-on-netflix.html](https://english.elpais.com/culture/2024-11-07/abducted-in-front-of-23-witnesses-and-a-un-secretary-general-the-most-famous-ufo-file-is-resurrected-on-netflix.html)  
+   Link: <a href="https://english.elpais.com/culture/2024-11-07/abducted-in-front-of-23-witnesses-and-a-un-secretary-general-the-most-famous-ufo-file-is-resurrected-on-netflix.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/culture/2024-11-07/abducted-in-front-of-23-witnesses-and-a-un-secretary-general-the-most-famous-ufo-file-is-resurrected-on-netflix.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EL PAÍS EnglishAbducted in front of 23 witnesses and a UN secretary...Nov 7, 2024 — The case of New Yorker Linda Napolitano, a housewife...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/monicamercuri/2024/11/04/the-true-story-behind-netflixs-the-manhattan-alien-abduction-and-linda-napolitano/](https://www.forbes.com/sites/monicamercuri/2024/11/04/the-true-story-behind-netflixs-the-manhattan-alien-abduction-and-linda-napolitano/)  
+   Link: <a href="https://www.forbes.com/sites/monicamercuri/2024/11/04/the-true-story-behind-netflixs-the-manhattan-alien-abduction-and-linda-napolitano/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/monicamercuri/2024/11/04/the-true-story-behind-netflixs-the-manhattan-alien-abduction-and-linda-napolitano/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The True Story Behind Netflix&#x27;s &#x27;The Manhattan Alien...4 Nov 2024 — Linda Napolitano continues to stand by her story that she was abduct...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thommq.medium.com  
    Title: the truth story of the manhattan transfer abduction 2aed49af553f  
-   Link: [https://thommq.medium.com/the-truth-story-of-the-manhattan-transfer-abduction-2aed49af553f](https://thommq.medium.com/the-truth-story-of-the-manhattan-transfer-abduction-2aed49af553f)  
+   Link: <a href="https://thommq.medium.com/the-truth-story-of-the-manhattan-transfer-abduction-2aed49af553f" target="_blank" rel="noopener noreferrer nofollow">https://thommq.medium.com/the-truth-story-of-the-manhattan-transfer-abduction-2aed49af553f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Truth Story of the Manhattan Transfer AbductionHopkins does not ever express doubt about the reliability of Linda Cortile&#x27;s story and the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: hauntjaunts.net  
    Title: 3 reasons the manhattan alien abduction is a bad docuseries  
-   Link: [https://www.hauntjaunts.net/3-reasons-the-manhattan-alien-abduction-is-a-bad-docuseries/](https://www.hauntjaunts.net/3-reasons-the-manhattan-alien-abduction-is-a-bad-docuseries/)  
+   Link: <a href="https://www.hauntjaunts.net/3-reasons-the-manhattan-alien-abduction-is-a-bad-docuseries/" target="_blank" rel="noopener noreferrer nofollow">https://www.hauntjaunts.net/3-reasons-the-manhattan-alien-abduction-is-a-bad-docuseries/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Reasons the Manhattan Alien Abduction Is a Bad...1 Nov 2024 — &quot;The Manhattan Alien Abduction&quot; is imaginative but not investigative. It...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/netflix/comments/1ggweji/just_finished_alien_abduction_in_manhattan_im_on/](https://www.reddit.com/r/netflix/comments/1ggweji/just_finished_alien_abduction_in_manhattan_im_on/)  
+   Link: <a href="https://www.reddit.com/r/netflix/comments/1ggweji/just_finished_alien_abduction_in_manhattan_im_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/netflix/comments/1ggweji/just_finished_alien_abduction_in_manhattan_im_on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3E18]Richard and Linda, Budd Hopkins, and Abduction Phenomenon.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Brooklyn Bridge UFO | The Weirdest Story You'll Ever Hear  
-   Link: [https://www.youtube.com/watch?v=4TQIiVlHYxY](https://www.youtube.com/watch?v=4TQIiVlHYxY)  
+   Link: <a href="https://www.youtube.com/watch?v=4TQIiVlHYxY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4TQIiVlHYxY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>My Problems With Netflix Manhattan Alien Abduction...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Manhattan Alien Abduction Hoax  
-   Link: [https://www.youtube.com/watch?v=7z-63tl9Hno](https://www.youtube.com/watch?v=7z-63tl9Hno)  
+   Link: <a href="https://www.youtube.com/watch?v=7z-63tl9Hno" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7z-63tl9Hno</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brooklyn Bridge UFO | The Weirdest Story You&#x27;ll Ever Hear...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5iBFES2Frv0](https://www.youtube.com/watch?v=5iBFES2Frv0)  
+   Link: <a href="https://www.youtube.com/watch?v=5iBFES2Frv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5iBFES2Frv0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Manhattan Alien Abduction Hoax...</p></details>

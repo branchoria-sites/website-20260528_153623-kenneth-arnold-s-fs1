@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /fatima-apparition-1917/
 nav_short_title: Church Inquiry
 title: Why Did the Church Approve Fatima?
-title_full: Why Did the Church Approve Fatima? | Fatima
+title_full: Why Did the Church Approve Fatima?
 display_title_short: Church Inquiry
 display_title: Church Inquiry
 heading_title: Why Did the Church Approve Fatima?
@@ -233,7 +233,7 @@ next_link:
   permalink: /sun-miracle/
   short_title: Sun Miracle
   heading_title: Did the Sun Really Dance at Fatima?
-date: '2026-06-08 23:25:01 '
+date: '2026-06-11 13:15:41 '
 header:
   og_image: /assets/images/Fatima_apparition_19_f6784f_church_investigation_2d97a6-Illustration-1-social.jpg
   preview_image: /assets/images/Fatima_apparition_19_f6784f_church_investigation_2d97a6-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Fatima_apparition_19_f6784f_church_investigation_2d97a6-Il
 
 ## Introduction
 
-The Catholic Church did not immediately endorse the reported apparitions at Fatima. For more than a decade after the events of 1917, Church authorities in Portugal treated the claims cautiously, gathering testimony, questioning witnesses and weighing the religious consequences of public devotion around the site. The eventual decision in 1930 was not framed as scientific proof that supernatural events had occurred. Instead, the Bishop of Leiria judged the apparitions “worthy of belief”, meaning Catholics could accept the claims without contradicting Church teaching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/event/Our-Lady-of-Fatima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Our Lady of Fatima</span><span class="citation-popover-snippet">Encyclopedia BritannicaOur Lady of Fatima | Mary, Apparitions, Miracles, &amp; RosaryThe Roman Catholic Church officially recognized the Fáti...</span></span></span>
-
+The Catholic Church did not immediately endorse the reported apparitions at Fatima. For more than a decade after the events of 1917, Church authorities in Portugal treated the claims cautiously, gathering testimony, questioning witnesses and weighing the religious consequences of public devotion around the site. The eventual decision in 1930 was not framed as scientific proof that supernatural events had occurred. Instead, the Bishop of Leiria judged the apparitions “worthy of belief”, meaning Catholics could accept the claims without contradicting Church teaching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/event/Our-Lady-of-Fatima" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-title">Our Lady of Fatima</span><span class="citation-popover-snippet">Encyclopedia BritannicaOur Lady of Fatima &#124; Mary, Apparitions, Miracles, &amp; RosaryThe Roman Catholic Church officially recognized the Fáti...</span></span></span>
 
 <img src="{{ "/assets/images/Fatima_apparition_19_f6784f_church_investigation_2d97a6-Illustration-1-dark.svg" | relative_url }}" alt="Church Inquiry illustration 1" data-theme-src-dark="{{ "/assets/images/Fatima_apparition_19_f6784f_church_investigation_2d97a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fatima_apparition_19_f6784f_church_investigation_2d97a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction is important in understanding why Fatima became one of the most influential Marian apparitions of the twentieth century. The Church’s recognition rested on a combination of factors: the persistence and consistency of [the children]({{ 'the-children/' | relative_url }})’s testimony, the large public response, reports surrounding the October 1917 solar phenomenon, and the absence of doctrinal error in the reported messages. At the same time, sceptics have argued that the investigation reflected religious and political pressures inside Portugal, and that the Church approved devotion rather than verifying a miracle in any empirical sense. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.catholicherald.com/article/local/how-the-catholic-church-determines-a-true-marian-apparition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: catholicherald.com">[Arlington Catholic Herald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">catholicherald.com</span><span class="citation-popover-snippet">Arlington Catholic HeraldHow the Catholic Church determines a true Marian apparitionIn that particular case, the bishop of Leiria — where...</span></span></span>
@@ -256,7 +255,7 @@ The parish priest of Fatima, Father Manuel Ferreira, questioned Lucia repeatedly
 
 This early scepticism is one reason the later approval carried weight within Catholic circles. The Church did not treat the children as automatic visionaries. Instead, clergy attempted to identify contradictions in their testimony, pressed them for details and monitored how the reported messages evolved over time. Lucia, the eldest child, became the central witness because Francisco and Jacinta died young after the influenza pandemic.
 
-Another factor complicating the investigation was the hostility of civil officials. The local administrator, Artur de Oliveira Santos, briefly detained the children in August 1917 in an effort to stop the gatherings at Cova da Iria. His intervention unintentionally strengthened the public perception that the children were enduring pressure rather than profiting from the claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000626_message-fatima_en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vatican.va">[Vatican]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vatican.va</span><span class="citation-popover-title">The Message of Fatima</span><span class="citation-popover-snippet">VaticanThe Message of FatimaINTRODUCTION. As the second millennium gives way to the third, Pope John Paul II has decided to publish the t...</span></span></span>
+Another factor complicating the investigation was the hostility of civil officials. The local administrator, Artur de Oliveira Santos, briefly detained the children in August 1917 in an effort to stop the gatherings at Cova da Iria. His intervention unintentionally strengthened the public perception that the children were enduring pressure rather than profiting from the claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000626_message-fatima_en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vatican.va">[Vatican]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vatican.va</span><span class="citation-popover-title">The Message of Fatima</span><span class="citation-popover-snippet">The Message of FatimaINTRODUCTION. As the second millennium gives way to the third, Pope John Paul II has decided to publish the t...</span></span></span>
 
 ## How the diocesan inquiry was organised
 
@@ -265,7 +264,6 @@ A formal canonical inquiry developed gradually after the events themselves. The 
 In 1922 the bishop authorised a formal diocesan commission to collect evidence and testimony about the apparitions. Investigators interviewed witnesses, reviewed newspaper reports and examined the growing devotional movement surrounding Fatima. One of the most influential investigators was Canon Manuel Nunes Formigão, a priest who had initially approached the claims sceptically but later became convinced that the children were sincere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://slatestarcodex.com/Stuff/fatima_critical1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slatestarcodex.com">[Slate Star Codex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slatestarcodex.com</span><span class="citation-popover-title">Slate Star Codex Critical Documentation of Fatima Selection</span><span class="citation-popover-snippet">Slate Star Codexwas approved by the canonical commission, created by Bishop. José Alves Correia da Silva eight years earlier (doc. 120, p...</span></span></span>
 
 The inquiry focused less on proving that physical laws had been suspended and more on several ecclesiastical questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -288,7 +286,6 @@ On 13 October 1930, exactly thirteen years after the final reported apparition, 
 That wording mattered. The Church did not claim absolute proof that the Virgin Mary had appeared. In Catholic theology, approved apparitions belong to the category of private revelation rather than public revelation. Catholics are permitted to believe them, but they are not required to accept them as articles of faith.
 
 The bishop’s approval effectively did three things:
-
 
 <img src="{{ "/assets/images/Fatima_apparition_19_f6784f_church_investigation_2d97a6-Illustration-2-dark.svg" | relative_url }}" alt="Church Inquiry illustration 2" data-theme-src-dark="{{ "/assets/images/Fatima_apparition_19_f6784f_church_investigation_2d97a6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fatima_apparition_19_f6784f_church_investigation_2d97a6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -318,7 +315,6 @@ Later popes deepened that association:
 
 These papal actions did not redefine the original apparition as dogma, but they reinforced its legitimacy and devotional importance within global Catholicism.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EUzwDJVuzuM" title="Vatican Statement on New Apparition Endangers God&#x27;s Revelation | Fatima Today ep 29" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EUzwDJVuzuM" target="_blank" rel="noopener noreferrer">Vatican Statement on New Apparition Endangers God&#x27;s Revelation | Fatima Today ep 29</a></p><p class="youtube-embed-meta">Channel: The Fatima Center &middot; Views: 4.7K &middot; Uploaded: July 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EUzwDJVuzuM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EUzwDJVuzuM">Open on YouTube</a></p></div></div></div>
 
 ## The long controversy over the “Third Secret”
@@ -327,7 +323,7 @@ No aspect of Fatima generated more speculation than the so-called Third Secret. 
 
 The sealed text was eventually sent to Rome with instructions that it not be opened until 1960 or after Lucia’s death. When 1960 arrived, the Vatican declined to publish it, triggering decades of conspiracy theories. Some Catholics believed the secret contained predictions of apostasy, nuclear war or internal collapse within the Church.
 
-In 2000, the Vatican released the text under Pope John Paul II together with theological commentary by Cardinal Joseph Ratzinger, later Pope Benedict XVI. The published vision described a “bishop dressed in white” moving through scenes of destruction before being killed alongside clergy and believers. The Vatican interpreted the imagery symbolically and connected it to twentieth-century persecution of Christians and especially the 1981 assassination attempt on John Paul II. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000626_message-fatima_en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vatican.va">[Vatican]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vatican.va</span><span class="citation-popover-title">The Message of Fatima</span><span class="citation-popover-snippet">VaticanThe Message of FatimaINTRODUCTION. As the second millennium gives way to the third, Pope John Paul II has decided to publish the t...</span></span></span>
+In 2000, the Vatican released the text under Pope John Paul II together with theological commentary by Cardinal Joseph Ratzinger, later Pope Benedict XVI. The published vision described a “bishop dressed in white” moving through scenes of destruction before being killed alongside clergy and believers. The Vatican interpreted the imagery symbolically and connected it to twentieth-century persecution of Christians and especially the 1981 assassination attempt on John Paul II. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000626_message-fatima_en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vatican.va">[Vatican]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vatican.va</span><span class="citation-popover-title">The Message of Fatima</span><span class="citation-popover-snippet">The Message of FatimaINTRODUCTION. As the second millennium gives way to the third, Pope John Paul II has decided to publish the t...</span></span></span>
 
 The release did not end debate. Critics and some traditionalist Catholic writers argued that the Vatican withheld part of the secret or softened its meaning. Others maintained that the symbolism was vague enough to permit many interpretations. Supporters of the Vatican position argued that Fatima’s message was always intended as spiritual warning and repentance rather than literal predictive coding.
 
@@ -336,7 +332,6 @@ The release did not end debate. Critics and some traditionalist Catholic writers
 Church recognition resolved the question of whether Catholics could legitimately participate in Fatima devotion, but it did not end disputes over what actually happened in 1917.
 
 Even some Catholic writers distinguish between:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -352,48 +347,89 @@ For believers, the investigation’s importance lies elsewhere. The Church did n
 
 That distinction explains why Fatima remains unusual in discussions of anomalous events. It occupies two worlds at once: a deeply influential religious devotion officially recognised by the Catholic Church, and a heavily disputed mass-witness phenomenon still debated by historians, sceptics and researchers of extraordinary claims.
 
-
 <img src="{{ "/assets/images/Fatima_apparition_19_f6784f_church_investigation_2d97a6-Illustration-3-dark.svg" | relative_url }}" alt="Church Inquiry illustration 3" data-theme-src-dark="{{ "/assets/images/Fatima_apparition_19_f6784f_church_investigation_2d97a6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fatima_apparition_19_f6784f_church_investigation_2d97a6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why Did the Church Approve Fatima?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why Did the Church Approve Fatima?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Pope Pius XII books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Pope+Pius+XII+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=St.+Gertrude+the+Great+by+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open St. Gertrude the Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ddNgAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for St. Gertrude the Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=St.+Gertrude+the+Great+by+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="St. Gertrude the Great">St. Gertrude the Great</a>
+        </h4>
+        <p class="fr-book-author">By Anonymous</p>
+        
+        <p class="fr-book-desc">Contains documented summaries of the early investigative parish decisions and the eventual 1930 Church endorsement.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=St.+Gertrude+the+Great+by+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Pope Pius XII guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Pope+Pius+XII+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides objective details on the Church&#x27;s investigation process, distinguishing between religious &#x27;belief&#x27; and forensic miracle-verifica...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Canon Nunes Formigão guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Canon+Nunes+Formig%C3%A3o+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Details the investigative steps required to evaluate cases that sit outside the bounds of conventional science.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides institutional background on how organizations index and close case files with strong social or religious components.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=St.+Gertrude+the+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">St. Gertrude the Great</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -430,15 +466,15 @@ That distinction explains why Fatima remains unusual in discussions of anomalous
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture"><img src="{{ '/assets/images/marketplace-covers/9b4a9e6334af6e05b499.jpg' | relative_url }}" alt="Listing image for The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -446,15 +482,15 @@ That distinction explains why Fatima remains unusual in discussions of anomalous
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for St Saint Thérèse Catholic Holy A4 Poster Wall Art Decor Print Picture"><img src="{{ '/assets/images/marketplace-covers/4dc7aa2a150d0f26092b.jpg' | relative_url }}" alt="Listing image for St Saint Thérèse Catholic Holy A4 Poster Wall Art Decor Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">St Saint Thérèse Catholic Holy A4 Poster Wall Art Decor Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -462,31 +498,15 @@ That distinction explains why Fatima remains unusual in discussions of anomalous
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ornate Gold Sacred Heart Cross Wall Art Vintage Religious Decor Catholic"><img src="{{ '/assets/images/marketplace-covers/def646b19c10e11e8190.jpg' | relative_url }}" alt="Listing image for Ornate Gold Sacred Heart Cross Wall Art Vintage Religious Decor Catholic" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Ornate Gold Sacred Heart Cross Wall Art Vintage Religious Decor Catholic</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,7 +514,7 @@ That distinction explains why Fatima remains unusual in discussions of anomalous
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="church-inquiry-why-did-the-church-approve-fatima-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -709,182 +729,182 @@ That distinction explains why Fatima remains unusual in discussions of anomalous
 
 1. <a id="endnote-1"></a>
    Source: worldfatima-englandwales.org.uk  
-   Link: [https://www.worldfatima-englandwales.org.uk/fatima-in-history](https://www.worldfatima-englandwales.org.uk/fatima-in-history)  
+   Link: <a href="https://www.worldfatima-englandwales.org.uk/fatima-in-history" target="_blank" rel="noopener noreferrer nofollow">https://www.worldfatima-englandwales.org.uk/fatima-in-history</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fatima HistoryDeclare worthy of belief, the visions of the shepherd children in the Cova da Iria, parish of Fatima, in this diocese, from...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: britannica.com  
    Title: Our Lady of Fatima  
-   Link: [https://www.britannica.com/event/Our-Lady-of-Fatima](https://www.britannica.com/event/Our-Lady-of-Fatima)  
+   Link: <a href="https://www.britannica.com/event/Our-Lady-of-Fatima" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Our-Lady-of-Fatima</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaOur Lady of Fatima | Mary, Apparitions, Miracles, &amp; RosaryThe Roman Catholic Church officially recognized the Fáti...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Miracle of the Sun  
-   Link: [https://en.wikipedia.org/wiki/Miracle_of_the_Sun](https://en.wikipedia.org/wiki/Miracle_of_the_Sun)  
+   Link: <a href="https://en.wikipedia.org/wiki/Miracle_of_the_Sun" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Miracle_of_the_Sun</a>  
 
 4. <a id="endnote-4"></a>
    Source: bluearmy.com  
    Title: the story of fatima  
-   Link: [https://www.bluearmy.com/the-story-of-fatima/](https://www.bluearmy.com/the-story-of-fatima/)  
+   Link: <a href="https://www.bluearmy.com/the-story-of-fatima/" target="_blank" rel="noopener noreferrer nofollow">https://www.bluearmy.com/the-story-of-fatima/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Apostolate of Fatima USAThe Story of FatimaIn May 1922, Bishop Correia da Silva issued a pastoral letter on the subject... Declare...</p></details>
    Published: May 1922  
 
 5. <a id="endnote-5"></a>
    Source: vatican.va  
    Title: The Message of Fatima  
-   Link: [https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000626_message-fatima_en.html](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000626_message-fatima_en.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VaticanThe Message of FatimaINTRODUCTION. As the second millennium gives way to the third, Pope John Paul II has decided to publish the t...</p></details>
+   Link: <a href="https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000626_message-fatima_en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000626_message-fatima_en.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Message of FatimaINTRODUCTION. As the second millennium gives way to the third, Pope John Paul II has decided to publish the t...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Our Lady of Fátima  
-   Link: [https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima](https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima)  
+   Link: <a href="https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: José Alves Correia da Silva  
-   Link: [https://en.wikipedia.org/wiki/Jos%C3%A9_Alves_Correia_da_Silva](https://en.wikipedia.org/wiki/Jos%C3%A9_Alves_Correia_da_Silva)  
+   Link: <a href="https://en.wikipedia.org/wiki/Jos%C3%A9_Alves_Correia_da_Silva" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jos%C3%A9_Alves_Correia_da_Silva</a>  
 
 8. <a id="endnote-8"></a>
    Source: adoracja.bielsko.opoka.org.pl  
-   Link: [https://www.adoracja.bielsko.opoka.org.pl/Divine_Providence_Fatima_1930a.html](https://www.adoracja.bielsko.opoka.org.pl/Divine_Providence_Fatima_1930a.html)  
+   Link: <a href="https://www.adoracja.bielsko.opoka.org.pl/Divine_Providence_Fatima_1930a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.adoracja.bielsko.opoka.org.pl/Divine_Providence_Fatima_1930a.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>rning the formal recognition of the cult of Our Lady of Fatima October 13th, 1930.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: catholicphilly.com  
    Title: the meaning of our lady of fatima after 100 years  
-   Link: [https://catholicphilly.com/2017/05/catholic-spirituality/the-meaning-of-our-lady-of-fatima-after-100-years/](https://catholicphilly.com/2017/05/catholic-spirituality/the-meaning-of-our-lady-of-fatima-after-100-years/)  
+   Link: <a href="https://catholicphilly.com/2017/05/catholic-spirituality/the-meaning-of-our-lady-of-fatima-after-100-years/" target="_blank" rel="noopener noreferrer nofollow">https://catholicphilly.com/2017/05/catholic-spirituality/the-meaning-of-our-lady-of-fatima-after-100-years/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Visiting, and living with, Our Lady of Fatima Catholics in America maintain a strong devotion...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: fatima.org  
    Title: approvals by the popes  
-   Link: [https://fatima.org/approvals-by-the-popes/](https://fatima.org/approvals-by-the-popes/)  
+   Link: <a href="https://fatima.org/approvals-by-the-popes/" target="_blank" rel="noopener noreferrer nofollow">https://fatima.org/approvals-by-the-popes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fatima CenterApprovals by the PopesIn addition to its official approval in 1930, the Popes have approved of Fatima in many decisive ways...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Three Secrets of Fátima  
-   Link: [https://en.wikipedia.org/wiki/Three_Secrets_of_F%C3%A1tima](https://en.wikipedia.org/wiki/Three_Secrets_of_F%C3%A1tima)  
+   Link: <a href="https://en.wikipedia.org/wiki/Three_Secrets_of_F%C3%A1tima" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Three_Secrets_of_F%C3%A1tima</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Three Secrets of FátimaThe text of the third secret was officially released by Pope John Paul II in 2000. Some claim that it was not t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: fatima.org  
    Title: approval by the bishop 1930  
-   Link: [https://fatima.org/approval-by-the-bishop-1930/](https://fatima.org/approval-by-the-bishop-1930/)  
+   Link: <a href="https://fatima.org/approval-by-the-bishop-1930/" target="_blank" rel="noopener noreferrer nofollow">https://fatima.org/approval-by-the-bishop-1930/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Approval by the Bishop (1930)Two years after the apparition, Dom Jose Alves Correia da Silva, the Bishop of the Diocese of Leiria-Fatima...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: fatima.org  
    Title: church approval and attack on fatima 1930 2004  
-   Link: [https://fatima.org/church-approval-and-attack-on-fatima-1930-2004/](https://fatima.org/church-approval-and-attack-on-fatima-1930-2004/)  
+   Link: <a href="https://fatima.org/church-approval-and-attack-on-fatima-1930-2004/" target="_blank" rel="noopener noreferrer nofollow">https://fatima.org/church-approval-and-attack-on-fatima-1930-2004/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Church Approval and Attack on Fatima (1930-2004)This refusal to obey Our Lady&#x27;s specific request was, in fact, an act of sabotage to the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: worldfatima-englandwales.org.uk  
    Title: fatima timeline  
-   Link: [https://www.worldfatima-englandwales.org.uk/fatima-timeline](https://www.worldfatima-englandwales.org.uk/fatima-timeline)  
+   Link: <a href="https://www.worldfatima-englandwales.org.uk/fatima-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.worldfatima-englandwales.org.uk/fatima-timeline</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fatima Messages(1930) - Key Events inc apparitions approved. 1930s - Sister Lucia&#x27;s letters to her confessor, Fr. Jose Bernardo Goncalves...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: catholicherald.com  
-   Link: [https://www.catholicherald.com/article/local/how-the-catholic-church-determines-a-true-marian-apparition/](https://www.catholicherald.com/article/local/how-the-catholic-church-determines-a-true-marian-apparition/)  
+   Link: <a href="https://www.catholicherald.com/article/local/how-the-catholic-church-determines-a-true-marian-apparition/" target="_blank" rel="noopener noreferrer nofollow">https://www.catholicherald.com/article/local/how-the-catholic-church-determines-a-true-marian-apparition/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Arlington Catholic HeraldHow the Catholic Church determines a true Marian apparitionIn that particular case, the bishop of Leiria — where...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: blog.oup.com  
    Title: blog The Catholic Church and the visions of Fátima  
-   Link: [https://blog.oup.com/2016/09/catholic-church-virgin-mary/](https://blog.oup.com/2016/09/catholic-church-virgin-mary/)  
+   Link: <a href="https://blog.oup.com/2016/09/catholic-church-virgin-mary/" target="_blank" rel="noopener noreferrer nofollow">https://blog.oup.com/2016/09/catholic-church-virgin-mary/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In some countries, notably in Catholic...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: catholicculture.org  
-   Link: [https://www.catholicculture.org/culture/library/view.cfm?id=1165](https://www.catholicculture.org/culture/library/view.cfm?id=1165)  
+   Link: <a href="https://www.catholicculture.org/culture/library/view.cfm?id=1165" target="_blank" rel="noopener noreferrer nofollow">https://www.catholicculture.org/culture/library/view.cfm?id=1165</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Catholic CultureLibrary: Must Catholics Believe in Fatima?The canonical inquiry led to a decision of May 13, 1930, that the claims were...</p></details>
    Published: May 13, 1930  
 
 18. <a id="endnote-18"></a>
    Source: slatestarcodex.com  
    Title: Slate Star Codex Critical Documentation of Fatima Selection  
-   Link: [https://slatestarcodex.com/Stuff/fatima_critical1.pdf](https://slatestarcodex.com/Stuff/fatima_critical1.pdf)  
+   Link: <a href="https://slatestarcodex.com/Stuff/fatima_critical1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://slatestarcodex.com/Stuff/fatima_critical1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Slate Star Codexwas approved by the canonical commission, created by Bishop. José Alves Correia da Silva eight years earlier (doc. 120, p...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ncronline.org  
-   Link: [https://www.ncronline.org/pope-recognizes-miracle-attributed-fatima-visionaries](https://www.ncronline.org/pope-recognizes-miracle-attributed-fatima-visionaries)  
+   Link: <a href="https://www.ncronline.org/pope-recognizes-miracle-attributed-fatima-visionaries" target="_blank" rel="noopener noreferrer nofollow">https://www.ncronline.org/pope-recognizes-miracle-attributed-fatima-visionaries</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Catholic ReporterPope recognizes miracle attributed to Fatima visionariesPope Francis has approved the recognition of a miracle...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: vaticanstate.va  
    Title: 1929 may 13 our lady of fatima  
-   Link: [https://www.vaticanstate.va/en/state-and-government/general-informations/saint-of-the-day/1929-may-13-our-lady-of-fatima.html](https://www.vaticanstate.va/en/state-and-government/general-informations/saint-of-the-day/1929-may-13-our-lady-of-fatima.html)  
+   Link: <a href="https://www.vaticanstate.va/en/state-and-government/general-informations/saint-of-the-day/1929-may-13-our-lady-of-fatima.html" target="_blank" rel="noopener noreferrer nofollow">https://www.vaticanstate.va/en/state-and-government/general-informations/saint-of-the-day/1929-may-13-our-lady-of-fatima.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 13: Our Lady of Fatima13 May 2025 — In the first apparition, Our Lady asked them specifically to “Recite the Rosary every day to obta...</p></details>
    Published: May 2025  
 
 21. <a id="endnote-21"></a>
    Source: catholictradition.org  
-   Link: [https://www.catholictradition.org/Mary/fatima21c.htm](https://www.catholictradition.org/Mary/fatima21c.htm)  
+   Link: <a href="https://www.catholictradition.org/Mary/fatima21c.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.catholictradition.org/Mary/fatima21c.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OUR LADY OF FATIMASince the Bishop of Leiria gave his official recognition in 1930, Fatima has enjoyed a constant and unanimous approval...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=EUzwDJVuzuM](https://www.youtube.com/watch?v=EUzwDJVuzuM)  
+   Link: <a href="https://www.youtube.com/watch?v=EUzwDJVuzuM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EUzwDJVuzuM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the 1990s in Slovakia...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: tripadvisor.com  
-   Link: [https://www.tripadvisor.com/Attraction_Review-g189157-d17146794-Reviews-Estatua_de_D_Jose_Alves_Correia_da_Silva-Fatima_Santarem_District_Central_Portug.html](https://www.tripadvisor.com/Attraction_Review-g189157-d17146794-Reviews-Estatua_de_D_Jose_Alves_Correia_da_Silva-Fatima_Santarem_District_Central_Portug.html)  
+   Link: <a href="https://www.tripadvisor.com/Attraction_Review-g189157-d17146794-Reviews-Estatua_de_D_Jose_Alves_Correia_da_Silva-Fatima_Santarem_District_Central_Portug.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g189157-d17146794-Reviews-Estatua_de_D_Jose_Alves_Correia_da_Silva-Fatima_Santarem_District_Central_Portug.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Estatua de D.Jose Alves Correia da Silva1 May 2019 — He is the person who supposed to have started to build this church complex. A good s...</p></details>
    Published: May 2019  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/425055381680083/posts/774935566692061/](https://www.facebook.com/groups/425055381680083/posts/774935566692061/)  
+   Link: <a href="https://www.facebook.com/groups/425055381680083/posts/774935566692061/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/425055381680083/posts/774935566692061/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>INTRODUCTION As the second millennium gives way to...This too is the message of Fatima which, with its urgent call to conversion and pen...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: teze.doctorat.ubbcluj.ro  
-   Link: [https://teze.doctorat.ubbcluj.ro/doctorat/teza/fisier/8847](https://teze.doctorat.ubbcluj.ro/doctorat/teza/fisier/8847)  
+   Link: <a href="https://teze.doctorat.ubbcluj.ro/doctorat/teza/fisier/8847" target="_blank" rel="noopener noreferrer nofollow">https://teze.doctorat.ubbcluj.ro/doctorat/teza/fisier/8847</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PhD) THESISbetween Monsignor José Alves Correia da Silva, José Galamba de Oliveira, and Sister Lúcia. The chapter highlights the deterio...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RomeReportsENG/posts/%EF%B8%8F-more-than-250000-faithful-took-part-on-may-12-in-the-traditional-candlelight-p/1417920373698570/](https://www.facebook.com/RomeReportsENG/posts/%EF%B8%8F-more-than-250000-faithful-took-part-on-may-12-in-the-traditional-candlelight-p/1417920373698570/)  
+   Link: <a href="https://www.facebook.com/RomeReportsENG/posts/%EF%B8%8F-more-than-250000-faithful-took-part-on-may-12-in-the-traditional-candlelight-p/1417920373698570/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RomeReportsENG/posts/%EF%B8%8F-more-than-250000-faithful-took-part-on-may-12-in-the-traditional-candlelight-p/1417920373698570/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rome reportsEvery local bishop since has approved the apparitions and deemed them worthy of belief, the highest recognition a Marian appa...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: miraclehunter.com  
-   Link: [https://www.miraclehunter.com/marian_apparitions/approved_apparitions/fatima/index.html](https://www.miraclehunter.com/marian_apparitions/approved_apparitions/fatima/index.html)  
+   Link: <a href="https://www.miraclehunter.com/marian_apparitions/approved_apparitions/fatima/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.miraclehunter.com/marian_apparitions/approved_apparitions/fatima/index.html</a>  
 
 28. <a id="endnote-28"></a>
    Source: alamy.com  
    Title: Jose alves correia da silva Stock Photos and Images RF 3AA0XBW–Fatima, Portugal  
-   Link: [https://www.alamy.com/stock-photo/jose-alves-correia-da-silva.html](https://www.alamy.com/stock-photo/jose-alves-correia-da-silva.html)  
+   Link: <a href="https://www.alamy.com/stock-photo/jose-alves-correia-da-silva.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alamy.com/stock-photo/jose-alves-correia-da-silva.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jose alves correia da silva Stock Photos and ImagesRF 3AA0XBW–Fatima, Portugal - March 26, 2025: A detailed bronze statue of a bishop Jos...</p></details>
    Published: March 26, 2025  
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/DebateACatholic/comments/179xy74/the_third_secret_of_fatima_or_the_convenience_of/](https://www.reddit.com/r/DebateACatholic/comments/179xy74/the_third_secret_of_fatima_or_the_convenience_of/)  
+   Link: <a href="https://www.reddit.com/r/DebateACatholic/comments/179xy74/the_third_secret_of_fatima_or_the_convenience_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateACatholic/comments/179xy74/the_third_secret_of_fatima_or_the_convenience_of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he end and start of the world wars were both made after the fact renders the whole...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: fraangelicoinstitute.com  
    Title: fatima messages pagans in the vatican and the end times  
-   Link: [https://fraangelicoinstitute.com/2019/10/12/fatima-messages-pagans-in-the-vatican-and-the-end-times/](https://fraangelicoinstitute.com/2019/10/12/fatima-messages-pagans-in-the-vatican-and-the-end-times/)  
+   Link: <a href="https://fraangelicoinstitute.com/2019/10/12/fatima-messages-pagans-in-the-vatican-and-the-end-times/" target="_blank" rel="noopener noreferrer nofollow">https://fraangelicoinstitute.com/2019/10/12/fatima-messages-pagans-in-the-vatican-and-the-end-times/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fatima Messages, Pagans in the Vatican, and the End Times12 Oct 2019 — The Roman Catholic Church, after a period of study, formally decla...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
    Title: with regards to the “Holy See” of the Roman Catholic  
-   Link: [https://www.facebook.com/groups/418500295616932/posts/1378098139657138/](https://www.facebook.com/groups/418500295616932/posts/1378098139657138/)  
+   Link: <a href="https://www.facebook.com/groups/418500295616932/posts/1378098139657138/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/418500295616932/posts/1378098139657138/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Catholic Church&#x27;s support for “Our Lady of Fatima”. ACTION OF (MARIAN) BISHOP JOSE OF PORTUGAL Dom José Alves Correia da Silva (1872–1957...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: catholic365.com  
    Title: apparitions at fatima portugal 1917 and its impact  
-   Link: [https://www.catholic365.com/article/54052/apparitions-at-fatima-portugal-1917-and-its-impact.html](https://www.catholic365.com/article/54052/apparitions-at-fatima-portugal-1917-and-its-impact.html)  
+   Link: <a href="https://www.catholic365.com/article/54052/apparitions-at-fatima-portugal-1917-and-its-impact.html" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic365.com/article/54052/apparitions-at-fatima-portugal-1917-and-its-impact.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Oct 2025 — In 1930, the Bishop of Leiria-Fatima declared the apparitions worthy of belief, and papal endorsements followed, including...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /steven-michalak-enco-1bbf94-index/
 description: Focused pages that expand on Steven Michalak encounter 1967.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Steven_Michalak_enco_1bbf94
 parent_title: Steven Michalak encounter 1967

@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /doctor-x-ufo-encounter-1968/
 nav_short_title: Body Claims
 title: How Strong Are the Body Claims?
-title_full: How Strong Are the Body Claims? | Doctor X
+title_full: How Strong Are the Body Claims?
 display_title_short: Body Claims
 display_title: Body Claims
 heading_title: How Strong Are the Body Claims?
@@ -233,7 +233,7 @@ next_link:
   permalink: /records-a251d4/
   short_title: Records
   heading_title: Why Is Doctor X So Hard To Verify?
-date: '2026-06-08 23:35:22 '
+date: '2026-06-11 13:20:51 '
 header:
   og_image: /assets/images/Doctor_X_UFO_encount_5e669c_healing_triangle_cla_5f599f-Illustration-1-social.jpg
   preview_image: /assets/images/Doctor_X_UFO_encount_5e669c_healing_triangle_cla_5f599f-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Doctor_X_UFO_encount_5e669c_healing_triangle_cla_5f599f-Il
 
 ## Introduction
 
-The “Doctor X” incident of November 1968 in south‑eastern France is one of the most cited UFO cases that goes beyond visual sightings into claims of **physical effects on a witness and his son**. Central to this subtopic are two contested elements: the purported **healing of a pre‑existing injury** and the **emergence of a distinctive red triangular mark** on the doctor’s abdomen (and later on his child). These claims have circulated through ufologist reports, magazine accounts, and later retellings, but they lack independent medical documentation and rest heavily on investigator notes and witness testimony. This page examines what has been reported about the healing and triangle mark evidence, what sources say about their development, and how firmly (or loosely) these physical claims are supported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Docteur X</span><span class="citation-popover-snippet">RR0Le cas du docteur XMay 4, 2025...</span><span class="citation-popover-meta">Published: May 4, 2025</span></span></span>
-
+The “Doctor X” incident of November 1968 in south‑eastern France is one of the most cited UFO cases that goes beyond visual sightings into claims of **physical effects on a witness and his son**. Central to this subtopic are two contested elements: the purported **healing of a pre‑existing injury** and the **emergence of a distinctive red triangular mark** on the doctor’s abdomen (and later on his child). These claims have circulated through ufologist reports, magazine accounts, and later retellings, but they lack independent medical documentation and rest heavily on investigator notes and witness testimony. This page examines what has been reported about the healing and triangle mark evidence, what sources say about their development, and how firmly (or loosely) these physical claims are supported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Docteur X</span><span class="citation-popover-snippet">Le cas du docteur XMay 4, 2025...</span><span class="citation-popover-meta">Published: May 4, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_healing_triangle_cla_5f599f-Illustration-1-dark.svg" | relative_url }}" alt="Body Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_healing_triangle_cla_5f599f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_healing_triangle_cla_5f599f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Reports of Alleged Healing After the Encounter
@@ -254,97 +253,133 @@ This healing claim has been repeated in numerous secondary summaries (for exampl
 
 However, **no contemporaneous medical [records]({{ 'records-a251d4/' | relative_url }}) or publicly archived clinical evidence** corroborate these accounts. Even the best‑known investigator on the case, Aimé Michel, appears to have relied on interviews and subjective observation rather than formal before‑and‑after medical diagnostics. The anecdotal nature of the healing claim, and the absence of independent verification, make it **not incontrovertible evidence** of physiological effects from the [sighting]({{ 'sighting/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufoinsight.com/the-dr-x-encounter-and-the-1960s-french-ufo-invasion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufoinsight.com">[UFO Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufoinsight.com</span><span class="citation-popover-title">the dr x encounter and the 1960s french ufo invasion</span><span class="citation-popover-snippet">UFO InsightThe “Dr. X” Encounter And The 1960s French UFO Invasion - UFO Insight...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sP10HPJkJ4Q" title="Jacques Vallee: Implications of UFO Phenomena (excerpt) - Thinking Allowed w/ Jeffrey Mishlove" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sP10HPJkJ4Q" target="_blank" rel="noopener noreferrer">Jacques Vallee: Implications of UFO Phenomena (excerpt) - Thinking Allowed w/ Jeffrey Mishlove</a></p><p class="youtube-embed-meta">Channel: ThinkingAllowedTV &middot; Views: 74.7K &middot; Uploaded: May 2011 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sP10HPJkJ4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sP10HPJkJ4Q">Open on YouTube</a></p></div></div></div>
 
 ## The Recurring Red Triangle: Reported Patterns and Descriptions
 
-In the days following the encounter, both Dr X and his young son were reported to develop an **unusual red skin pigmentation in the shape of a triangle around the navel**. Sources describe the initial appearance as accompanied by cramps and itching, with the triangular form becoming **clearly defined over several days**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://noufors.com/South-East_of_France_-_November_1-2_1968.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">South-East of France</span><span class="citation-popover-snippet">NouforsSouth-East of France - November 1-2, 1968...</span></span></span>
+In the days following the encounter, both Dr X and his young son were reported to develop an **unusual red skin pigmentation in the shape of a triangle around the navel**. Sources describe the initial appearance as accompanied by cramps and itching, with the triangular form becoming **clearly defined over several days**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://noufors.com/South-East_of_France_-_November_1-2_1968.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">South-East of France</span><span class="citation-popover-snippet">South-East of France - November 1-2, 1968...</span></span></span>
 
 Aimé Michel’s own notes (as summarised on RR0 and UFO databases) recount that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The doctor developed **a red triangular mark** roughly one to two weeks after the sighting.
 * A dermatologist examined it and found **no ordinary explanation**; the specialist was sufficiently intrigued that he offered to report it to medical authorities, although the witness declined publicity.
 * A **similar triangle appeared on the child’s abdomen shortly after**, in the same position.
-* Over the following years, the triangle reportedly **appeared and faded** periodically on both father and son, often lasting **two to three days**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Docteur X</span><span class="citation-popover-snippet">RR0Le cas du docteur XMay 4, 2025...</span><span class="citation-popover-meta">Published: May 4, 2025</span></span></span>
+* Over the following years, the triangle reportedly **appeared and faded** periodically on both father and son, often lasting **two to three days**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Docteur X</span><span class="citation-popover-snippet">Le cas du docteur XMay 4, 2025...</span><span class="citation-popover-meta">Published: May 4, 2025</span></span></span>
 
 </div>
 
-Later investigators and witnesses have said that a team led by Jean‑Yves Casgha filmed the triangle decades later, and French television featured the mark in broadcasts. However, the **quality, date, and availability of that footage are not independently archived in medical or journalistic repositories**, and the mainstream press does not seem to have published verifiable clinical images. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Docteur X</span><span class="citation-popover-snippet">RR0Le cas du docteur XMay 4, 2025...</span><span class="citation-popover-meta">Published: May 4, 2025</span></span></span>
-
+Later investigators and witnesses have said that a team led by Jean‑Yves Casgha filmed the triangle decades later, and French television featured the mark in broadcasts. However, the **quality, date, and availability of that footage are not independently archived in medical or journalistic repositories**, and the mainstream press does not seem to have published verifiable clinical images. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Docteur X</span><span class="citation-popover-snippet">Le cas du docteur XMay 4, 2025...</span><span class="citation-popover-meta">Published: May 4, 2025</span></span></span>
 
 <img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_healing_triangle_cla_5f599f-Illustration-2-dark.svg" | relative_url }}" alt="Body Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_healing_triangle_cla_5f599f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_healing_triangle_cla_5f599f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Assessing What the Visual and Reported Evidence Can (and Cannot) Prove
 
-The accounts of the triangular rash are detailed in ufological sources and include vivid descriptions of timing, size, and recurrence. They are among the most unusual elements in the case because, unlike a simple healing claim, they purport **observable, repeatable physical marks** on more than one person. <span class="citation-chip-wrap"><a class="citation-chip" href="https://noufors.com/South-East_of_France_-_November_1-2_1968.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">South-East of France</span><span class="citation-popover-snippet">NouforsSouth-East of France - November 1-2, 1968...</span></span></span>
+The accounts of the triangular rash are detailed in ufological sources and include vivid descriptions of timing, size, and recurrence. They are among the most unusual elements in the case because, unlike a simple healing claim, they purport **observable, repeatable physical marks** on more than one person. <span class="citation-chip-wrap"><a class="citation-chip" href="https://noufors.com/South-East_of_France_-_November_1-2_1968.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">South-East of France</span><span class="citation-popover-snippet">South-East of France - November 1-2, 1968...</span></span></span>
 
 But the evidential limitations are significant:
 
-* **No peer‑reviewed medical documentation** of the rash’s dermatological characteristics has been published. The dermatologist’s opinion is mentioned in investigator reports but has not been verified through medical journals or records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Docteur X</span><span class="citation-popover-snippet">RR0Le cas du docteur XMay 4, 2025...</span><span class="citation-popover-meta">Published: May 4, 2025</span></span></span>
+* **No peer‑reviewed medical documentation** of the rash’s dermatological characteristics has been published. The dermatologist’s opinion is mentioned in investigator reports but has not been verified through medical journals or records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Docteur X</span><span class="citation-popover-snippet">Le cas du docteur XMay 4, 2025...</span><span class="citation-popover-meta">Published: May 4, 2025</span></span></span>
 * Sources vary on the duration and recurrence, and later retellings sometimes include **fringe embellishments** (such as skin thermography or psychic interpretations) that cannot be independently confirmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufomagazines.com/2a-epoca-anomalia-2a-epoca-no-05-2005/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufomagazines.com">[UFO Magazine Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufomagazines.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* The association of the triangle with the UFO event rests on **chronological proximity in witness testimony**, not on controlled observation that excludes other causes like dermatoses or psychosomatic reactions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://noufors.com/South-East_of_France_-_November_1-2_1968.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">South-East of France</span><span class="citation-popover-snippet">NouforsSouth-East of France - November 1-2, 1968...</span></span></span>
+* The association of the triangle with the UFO event rests on **chronological proximity in witness testimony**, not on controlled observation that excludes other causes like dermatoses or psychosomatic reactions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://noufors.com/South-East_of_France_-_November_1-2_1968.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noufors.com">[Noufors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noufors.com</span><span class="citation-popover-title">South-East of France</span><span class="citation-popover-snippet">South-East of France - November 1-2, 1968...</span></span></span>
 
 Because of these gaps, the triangle mark evidence cannot by itself confirm any **causal link** between a reported aerial phenomenon and a specific physiological change. At best, it is a pattern described in UFO literature that **deserves scrutiny but lacks robust clinical backing**.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6F2C-4IL5f4" title="Legendary UFO Expert Jacques Valle Details Overlooked UFO Sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6F2C-4IL5f4" target="_blank" rel="noopener noreferrer">Legendary UFO Expert Jacques Valle Details Overlooked UFO Sightings</a></p><p class="youtube-embed-meta">Channel: JRE Clips &middot; Views: 885.4K &middot; Uploaded: March 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6F2C-4IL5f4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6F2C-4IL5f4">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6We0GMqqoko" title="Implications of UFO Phenomena with Jacques Vallée" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer">Implications of UFO Phenomena with Jacques Vallée</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 15.7K &middot; Uploaded: December 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6We0GMqqoko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6We0GMqqoko">Open on YouTube</a></p></div></div></div>
 
 ## How Researchers and Skeptics Frame the Physical Claims
 
-Within UFO research circles, the Dr X healing and triangle anecdotes figure in discussions of **high‑strangeness cases** — sightings accompanied by claimed physical or psychological effects on witnesses. Some researchers, such as Aimé Michel and later commentators, treat the physical claims as **anomalies worthy of study**, while sceptical analysts point out the absence of independent evidence and suggest alternative explanations such as coincidence, psychosomatic response, or narrative construction after the fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Docteur X</span><span class="citation-popover-snippet">RR0Le cas du docteur XMay 4, 2025...</span><span class="citation-popover-meta">Published: May 4, 2025</span></span></span>
+Within UFO research circles, the Dr X healing and triangle anecdotes figure in discussions of **high‑strangeness cases** — sightings accompanied by claimed physical or psychological effects on witnesses. Some researchers, such as Aimé Michel and later commentators, treat the physical claims as **anomalies worthy of study**, while sceptical analysts point out the absence of independent evidence and suggest alternative explanations such as coincidence, psychosomatic response, or narrative construction after the fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rr0.org">[RR0]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rr0.org</span><span class="citation-popover-title">Docteur X</span><span class="citation-popover-snippet">Le cas du docteur XMay 4, 2025...</span><span class="citation-popover-meta">Published: May 4, 2025</span></span></span>
 
 The case has also been linked in some summaries to broader themes in anomalistic psychology and UFO folklore — for example, comparisons with other claimed healing events — but those comparisons are typically **descriptive, not evidentiary**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://whatsupwithufos.com/ufo-healing-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whatsupwithufos.com">[Whats Up With UFOs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whatsupwithufos.com</span><span class="citation-popover-title">ufo healing claims</span><span class="citation-popover-snippet">Whats Up With UFOsSeven claims of extraordinary healings between 1948 – 1968 - What&#x27;s Up with UFOs?...</span></span></span>
 
 **In summary**, the reported healing of Dr X’s injury and the recurring red triangular marks are among the most distinctive elements of the 1968 encounter narrative. They are widely cited in UFO literature and have traced threads through decades of commentary. Yet, **the evidential basis remains anecdotal rather than clinical or independently verified**, leaving these claims unresolved. Anyone assessing the case should distinguish between what was reported in investigator accounts and what has been substantiated outside the UFO community.
 
-
 <img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_healing_triangle_cla_5f599f-Illustration-3-dark.svg" | relative_url }}" alt="Body Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_healing_triangle_cla_5f599f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_healing_triangle_cla_5f599f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Strong Are the Body Claims?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Strong Are the Body Claims?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Red Triangle guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Red+Triangle+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Contains direct case studies of the Doctor X incident, specifically reviewing the physical hematoma healing claims and the abdominal tria...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Leg Injury guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Leg+Injury+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sun+tzu%27s+ancient+art+of+golf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sun tzu&#x27;s ancient art of golf on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9446762-M.jpg" alt="Cover for Sun tzu&#x27;s ancient art of golf" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sun+tzu%27s+ancient+art+of+golf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sun tzu&#x27;s ancient art of golf">Sun tzu&#x27;s ancient art of golf</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+        
+        <p class="fr-book-desc">Contains direct case studies of the Doctor X incident, specifically reviewing the physical hematoma healing claims and the abdominal tria...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sun+tzu%27s+ancient+art+of+golf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Wood Chopping guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Wood+Chopping+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Deconstructs the placebo effect, subjective validation of recovery, and dermatological phenomena often misinterpreted as anomalous.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Provides structural guidance on how to evaluate psychosomatic rashes and anecdotal healing reports following stressful visual experiences.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sun+tzu%27s+ancient+art+of+golf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sun tzu&#x27;s ancient art of golf</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -381,15 +416,15 @@ The case has also been linked in some summaries to broader themes in anomalistic
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -397,15 +432,15 @@ The case has also been linked in some summaries to broader themes in anomalistic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -413,15 +448,15 @@ The case has also been linked in some summaries to broader themes in anomalistic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -429,15 +464,15 @@ The case has also been linked in some summaries to broader themes in anomalistic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -445,7 +480,7 @@ The case has also been linked in some summaries to broader themes in anomalistic
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="body-claims-how-strong-are-the-body-claims-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -661,36 +696,36 @@ The case has also been linked in some summaries to broader themes in anomalistic
 1. <a id="endnote-1"></a>
    Source: rr0.org  
    Title: Docteur X  
-   Link: [https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/](https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RR0Le cas du docteur XMay 4, 2025...</p></details>
+   Link: <a href="https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier/DocteurX/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Le cas du docteur XMay 4, 2025...</p></details>
    Published: May 4, 2025  
 
 2. <a id="endnote-2"></a>
    Source: noufors.com  
    Title: South-East of France  
-   Link: [https://noufors.com/South-East_of_France_-_November_1-2_1968.html](https://noufors.com/South-East_of_France_-_November_1-2_1968.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NouforsSouth-East of France - November 1-2, 1968...</p></details>
+   Link: <a href="https://noufors.com/South-East_of_France_-_November_1-2_1968.html" target="_blank" rel="noopener noreferrer nofollow">https://noufors.com/South-East_of_France_-_November_1-2_1968.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>South-East of France - November 1-2, 1968...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ufoinsight.com  
    Title: the dr x encounter and the 1960s french ufo invasion  
-   Link: [https://www.ufoinsight.com/the-dr-x-encounter-and-the-1960s-french-ufo-invasion/](https://www.ufoinsight.com/the-dr-x-encounter-and-the-1960s-french-ufo-invasion/)  
+   Link: <a href="https://www.ufoinsight.com/the-dr-x-encounter-and-the-1960s-french-ufo-invasion/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/the-dr-x-encounter-and-the-1960s-french-ufo-invasion/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightThe “Dr. X” Encounter And The 1960s French UFO Invasion - UFO Insight...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: whatsupwithufos.com  
    Title: ufo healing claims  
-   Link: [https://whatsupwithufos.com/ufo-healing-claims/](https://whatsupwithufos.com/ufo-healing-claims/)  
+   Link: <a href="https://whatsupwithufos.com/ufo-healing-claims/" target="_blank" rel="noopener noreferrer nofollow">https://whatsupwithufos.com/ufo-healing-claims/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whats Up With UFOsSeven claims of extraordinary healings between 1948 – 1968 - What&#x27;s Up with UFOs?...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ufomagazines.com  
-   Link: [https://www.ufomagazines.com/2a-epoca-anomalia-2a-epoca-no-05-2005/](https://www.ufomagazines.com/2a-epoca-anomalia-2a-epoca-no-05-2005/)  
+   Link: <a href="https://www.ufomagazines.com/2a-epoca-anomalia-2a-epoca-no-05-2005/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/2a-epoca-anomalia-2a-epoca-no-05-2005/</a>  
 
 6. <a id="endnote-6"></a>
    Source: ufoinsight.com  
    Title: The Algerian War Incident – UFO Sighting Over The Foreign Legion  
-   Link: [https://www.ufoinsight.com/ufos/close-encounters/algerian-war-ufo-foreign-legion](https://www.ufoinsight.com/ufos/close-encounters/algerian-war-ufo-foreign-legion)  
+   Link: <a href="https://www.ufoinsight.com/ufos/close-encounters/algerian-war-ufo-foreign-legion" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoinsight.com/ufos/close-encounters/algerian-war-ufo-foreign-legion</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO InsightApril 12, 2019 — THE ALGERIAN WAR INCIDENT – UFO SIGHTING OVER THE FOREIGN LEGION By Marcus Lowth Image: Published Date April...</p></details>
    Published: April 12, 2019  
 
@@ -698,59 +733,59 @@ The case has also been linked in some summaries to broader themes in anomalistic
 
 7. <a id="endnote-7"></a>
    Source: grepi.ch  
-   Link: [https://grepi.ch/the-strange-case-of-dr-x-part-2/](https://grepi.ch/the-strange-case-of-dr-x-part-2/)  
+   Link: <a href="https://grepi.ch/the-strange-case-of-dr-x-part-2/" target="_blank" rel="noopener noreferrer nofollow">https://grepi.ch/the-strange-case-of-dr-x-part-2/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The strange case of Dr “X” – part 2 | Aimé MichelTHE STRANGE CASE OF DR “X” – PART 2 Publié le par Daniel Benaroya THE STRANGE CASE OF DR...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: blog.seniorennet.be  
-   Link: [https://blog.seniorennet.be/peter2011/archief.php?ID=1616400](https://blog.seniorennet.be/peter2011/archief.php?ID=1616400)  
+   Link: <a href="https://blog.seniorennet.be/peter2011/archief.php?ID=1616400" target="_blank" rel="noopener noreferrer nofollow">https://blog.seniorennet.be/peter2011/archief.php?ID=1616400</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>seniorennet.beUFO&#x27;S of UAP&#x27;S, ASTRONOMIE, RUIMTEVAART, ARCHEOLOGIE, OUDHEIDKUNDE, SF-SNUFJES EN ANDERE ESOTERISCHE WETENSCHAPPEN - DE ALL...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/869656939/UFO-Encounters-Gelman-Rita-Golden-Seligson-Marcia-1978](https://www.scribd.com/document/869656939/UFO-Encounters-Gelman-Rita-Golden-Seligson-Marcia-1978)  
+   Link: <a href="https://www.scribd.com/document/869656939/UFO-Encounters-Gelman-Rita-Golden-Seligson-Marcia-1978" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/869656939/UFO-Encounters-Gelman-Rita-Golden-Seligson-Marcia-1978</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THREE DAYS EARLIER after the disc he had hurt his leg chopping wood and still had a big swelling and painful bruise. He was walking with...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: filmot.com  
-   Link: [https://filmot.com/sidebyside/BVH9wu28yEQ/en/en/English/English/The%2BStrange%2BCase%2Bof%2BDr%2B%2BX%3A%2BUFOs%2Band%2B%22Miracle%22%2BHealings/Think%2BAnomalous](https://filmot.com/sidebyside/BVH9wu28yEQ/en/en/English/English/The%2BStrange%2BCase%2Bof%2BDr%2B%2BX%3A%2BUFOs%2Band%2B%22Miracle%22%2BHealings/Think%2BAnomalous)  
+   Link: <a href="https://filmot.com/sidebyside/BVH9wu28yEQ/en/en/English/English/The%2BStrange%2BCase%2Bof%2BDr%2B%2BX%3A%2BUFOs%2Band%2B%22Miracle%22%2BHealings/Think%2BAnomalous" target="_blank" rel="noopener noreferrer nofollow">https://filmot.com/sidebyside/BVH9wu28yEQ/en/en/English/English/The%2BStrange%2BCase%2Bof%2BDr%2B%2BX%3A%2BUFOs%2Band%2B%22Miracle%22%2BHealings/Think%2BAnomalous</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 19, 2019 — The Strange Case of Dr X: UFOs and &quot;Miracle&quot; HealingsYouTube↗ Education 25.4K views 1.2K likes 29 dislikes 19 Apr 2019 T...</p></details>
    Published: April 19, 2019  
 
 11. <a id="endnote-11"></a>
    Source: alienresearch.cn  
    Title: (Commonly referred to as “The case of Dr. X.” or “The healing of Dr X.”). 78: Ma  
-   Link: [https://alienresearch.cn/top-100-ufo-cases/](https://alienresearch.cn/top-100-ufo-cases/)  
+   Link: <a href="https://alienresearch.cn/top-100-ufo-cases/" target="_blank" rel="noopener noreferrer nofollow">https://alienresearch.cn/top-100-ufo-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ALIENRESEARCH TOP 100 UFO CASEsJuly 14, 2022 — 77: “Doctor X” UFO encounter (1968) Alleged “Doctor X” UFO encounter on 2 November 1968 in...</p></details>
    Published: July 14, 2022  
 
 12. <a id="endnote-12"></a>
    Source: ufomagazines.com  
    Title: LUM IÈRES DANS LA NUIT — GROUPEMENT INTERNATIONAL DE RECHERCHES FONDATEUR: R  
-   Link: [https://www.ufomagazines.com/ldln-ldln-no-247-248/](https://www.ufomagazines.com/ldln-ldln-no-247-248/)  
+   Link: <a href="https://www.ufomagazines.com/ldln-ldln-no-247-248/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/ldln-ldln-no-247-248/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VEILLITH | UFO Magazine ArchiveDr. Bounias&#x27;s research on the Trans-en-Provence case is mentioned as a positive contribution, but overall...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ufomagazines.com  
-   Link: [https://www.ufomagazines.com/mufon-ces-berichte-mufon-ces-bericht-no-06-1979-ungewohnliche-eigenschaften-nichtidentifizierbarere-lichterscheinungen/](https://www.ufomagazines.com/mufon-ces-berichte-mufon-ces-bericht-no-06-1979-ungewohnliche-eigenschaften-nichtidentifizierbarere-lichterscheinungen/)  
+   Link: <a href="https://www.ufomagazines.com/mufon-ces-berichte-mufon-ces-bericht-no-06-1979-ungewohnliche-eigenschaften-nichtidentifizierbarere-lichterscheinungen/" target="_blank" rel="noopener noreferrer nofollow">https://www.ufomagazines.com/mufon-ces-berichte-mufon-ces-bericht-no-06-1979-ungewohnliche-eigenschaften-nichtidentifizierbarere-lichterscheinungen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;Fall of Helsingborg&quot; in 1959 involved two young Swedes who encountered a disc-shaped o...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
    Title: SOUTH EAST FRANCE During the second  
-   Link: [https://medium.com/%40/amazing-alien-craft-close-encounter-in-france-5f3b8c397706](https://medium.com/%40/amazing-alien-craft-close-encounter-in-france-5f3b8c397706)  
+   Link: <a href="https://medium.com/%40/amazing-alien-craft-close-encounter-in-france-5f3b8c397706" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40/amazing-alien-craft-close-encounter-in-france-5f3b8c397706</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing Alien Craft Close Encounter In France | by Johnmooner-chief | MediumFebruary 22, 2023 — AMAZING ALIEN CRAFT CLOSE ENCOUNTER IN FR...</p></details>
    Published: February 22, 2023  
 
 15. <a id="endnote-15"></a>
    Source: marcianitosverdes.haaan.com  
    Title: Baste decir que el hombre vivió  
-   Link: [https://marcianitosverdes.haaan.com/2020/01/encuentros-cercanos-del-tipo-curativo/](https://marcianitosverdes.haaan.com/2020/01/encuentros-cercanos-del-tipo-curativo/)  
+   Link: <a href="https://marcianitosverdes.haaan.com/2020/01/encuentros-cercanos-del-tipo-curativo/" target="_blank" rel="noopener noreferrer nofollow">https://marcianitosverdes.haaan.com/2020/01/encuentros-cercanos-del-tipo-curativo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cercanos del tipo curativo | Marcianitos VerdesJanuary 9, 2020 — Al igual que el hombrecillo había advertido a Bordaz, tuvo otros encuent...</p></details>
    Published: January 9, 2020  
 
 16. <a id="endnote-16"></a>
    Source: bedetheque.com  
    Title: UF O Flying Saucers (Gold Key  
-   Link: [https://www.bedetheque.com/serie-60804-BD-UFO-Flying-Saucers-Gold-Key-1968.html](https://www.bedetheque.com/serie-60804-BD-UFO-Flying-Saucers-Gold-Key-1968.html)  
+   Link: <a href="https://www.bedetheque.com/serie-60804-BD-UFO-Flying-Saucers-Gold-Key-1968.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bedetheque.com/serie-60804-BD-UFO-Flying-Saucers-Gold-Key-1968.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO IS BLACKING OUT OUR CITIES? Evaluation: * Currently 0.00/10 * 1 * 2 * 3 * 4 * 5 * 6 Notez l&#x27;album (0 vote) * Identifiant: 330542 *...</p></details>

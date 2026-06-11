@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Mantell
   permalink: /thomas-f-mantell-incident-1948/
   short_title: Mantell
-date: '2026-06-08 23:29:22 '
+date: '2026-06-11 13:18:00 '
 header:
   og_image: /assets/images/The_Northeast_Blacko_c3cfee-overview-social.jpg
   preview_image: /assets/images/The_Northeast_Blacko_c3cfee-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/The_Northeast_Blacko_c3cfee-overview-social.jpg
 ## Introduction
 
 The case matters because it sits at the intersection of two very different evidential worlds. On one side is a major infrastructure failure documented by oscillographic data, utility reports, federal inquiry and later reliability lessons. On the other side are witness accounts, press clippings and UFO-investigator compilations, some involving apparently sincere observers but often lacking precise timing, instrumentation or a mechanism linking the lights to the [grid failure]({{ 'grid-failure/' | relative_url }}). A careful reading has to keep both threads visible without letting the more mysterious one replace the better-documented one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gordoncheng.wordpress.com/wp-content/uploads/2011/06/fpc_65e7be8ee69db1e58c97e5a4a7e5819ce99bbbe881afe982a6e99bbbe58a9be5a794e593a1e69c83e8aabfe69fa5e5a0b1e5918a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gordoncheng.wordpress.com">[Gordoncheng&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gordoncheng.wordpress.com</span><span class="citation-popover-snippet">Gordoncheng&#x27;s Blog</span></span></span>
-
 
 <img src="{{ "/assets/images/The_Northeast_Blacko_c3cfee-overview.webp" | relative_url }}" alt="Overview image for The Northeast Blackout 1965" loading="eager" decoding="sync" fetchpriority="high">
 ## What actually happened on 9 November 1965?
@@ -772,7 +771,6 @@ The human effect was immediate and memorable. New York City went dark at rush ho
 
 The outage affected roughly 30 million people across parts of the north-eastern United States and eastern Canada. Power was restored unevenly: some utilities regained service within minutes or hours, while parts of New York City did not return fully until the following morning. The Federal Power Commission’s outage table shows the uneven pattern clearly, with some systems recording partial restoration in the early evening and others completing restoration late that night or after midnight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gordoncheng.wordpress.com/wp-content/uploads/2011/06/fpc_65e7be8ee69db1e58c97e5a4a7e5819ce99bbbe881afe982a6e99bbbe58a9be5a794e593a1e69c83e8aabfe69fa5e5a0b1e5918a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gordoncheng.wordpress.com">[Gordoncheng&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gordoncheng.wordpress.com</span><span class="citation-popover-snippet">Gordoncheng&#x27;s Blog</span></span></span>
 
-
 <img src="{{ "/assets/images/The_Northeast_Blacko_c3cfee-Illustration-1-dark.svg" | relative_url }}" alt="The Northeast Blackout 1965 illustration 1" data-theme-src-dark="{{ "/assets/images/The_Northeast_Blacko_c3cfee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/The_Northeast_Blacko_c3cfee-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the official cause is stronger than the UFO hypothesis
 
@@ -783,7 +781,6 @@ This matters because a cascading grid failure can look eerie from the outside. L
 The Federal Power Commission’s investigation also had access to utility data and expert reconstruction very soon after the event. Its report says the Commission and an advisory panel were able, by the evening of 11 November, to reconstruct a tentative pattern of power flow and frequency conditions across the affected area, although some details remained difficult to interpret. That is a very different evidential base from scattered public sightings gathered through newspapers, private UFO groups and later retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gordoncheng.wordpress.com/wp-content/uploads/2011/06/fpc_65e7be8ee69db1e58c97e5a4a7e5819ce99bbbe881afe982a6e99bbbe58a9be5a794e593a1e69c83e8aabfe69fa5e5a0b1e5918a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gordoncheng.wordpress.com">[Gordoncheng&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gordoncheng.wordpress.com</span><span class="citation-popover-snippet">Gordoncheng&#x27;s Blog</span></span></span>
 
 Later blackout investigations reinforced the broader lesson: large grids can fail through relay action, operator visibility limits, overloaded transmission paths and cascading instability. The 2003 U.S.-Canada Power System Outage Task Force reviewed previous outages, including the 1965 Northeast blackout, in order to compare cascading failure patterns and reliability lessons. That later technical framing keeps the 1965 event within the history of grid engineering rather than within an unexplained physical-effects category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ferc.gov/sites/default/files/2020-05/ch7-10.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ferc.gov">[Federal Energy Regulatory Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ferc.gov</span><span class="citation-popover-title">Federal Energy Regulatory Commission Final Blackout Report Chapters 7-10</span><span class="citation-popover-snippet">Federal Energy Regulatory Commission Final Blackout Report Chapters 7-10</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t8Rl6hC2ZFw" title="Stuff They Don&#x27;t Want You To Know - Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t8Rl6hC2ZFw" target="_blank" rel="noopener noreferrer">Stuff They Don&#x27;t Want You To Know - Project Blue Book</a></p><p class="youtube-embed-meta">Channel: HowStuffWorks &middot; Views: 352.4K &middot; Uploaded: June 2010 &middot; Length: 4 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t8Rl6hC2ZFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t8Rl6hC2ZFw">Open on YouTube</a></p></div></div></div>
 
@@ -797,7 +794,6 @@ The same NICAP compilation describes multiple “fireball” reports near Syracu
 
 There were also later and more colourful claims, including actor Stuart Whitman’s alleged hotel-room encounter and telepathic warning, but these sit at the weaker end of the evidential scale. They are important for understanding how the blackout entered UFO folklore, not for establishing causation. The more credible reports in the case are the mundane-sounding ones by pilots, aviation officials or multiple local witnesses who saw lights; the evidential problem is that even credible witnesses can accurately report seeing something without identifying what it was or proving that it caused a grid event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/nyne.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Open source on nicap.org.</span></span></span>
 
-
 <img src="{{ "/assets/images/The_Northeast_Blacko_c3cfee-Illustration-2-dark.svg" | relative_url }}" alt="The Northeast Blackout 1965 illustration 2" data-theme-src-dark="{{ "/assets/images/The_Northeast_Blacko_c3cfee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/The_Northeast_Blacko_c3cfee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How credible are the sighting claims?
 
@@ -809,7 +805,6 @@ The reports also vary in description. Some are “fireballs”, some are bright 
 
 The official U.S. Air Force context also matters. Project Blue Book existed during the period and later reported that, out of 12,618 sightings collected between 1947 and 1969, 701 remained unidentified; however, the Air Force’s formal conclusion was that no investigated UFO represented a national-security threat, advanced technology beyond known science, or an extraterrestrial vehicle. That does not solve every individual sighting, but it cautions against treating “unidentified” as equivalent to “physically responsible for the blackout”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cdF-CsxqDko" title="1965 Blackout" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cdF-CsxqDko" target="_blank" rel="noopener noreferrer">1965 Blackout</a></p><p class="youtube-embed-meta">Channel: Mike Gardner &middot; Views: 42.2K &middot; Uploaded: July 2008 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cdF-CsxqDko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cdF-CsxqDko">Open on YouTube</a></p></div></div></div>
 
 ## Did investigators seriously consider UFOs as a cause?
@@ -820,7 +815,6 @@ There is much weaker evidence that the official power investigation treated UFOs
 
 That distinction is crucial. “Officials received or heard of sighting reports” is not the same as “official investigators found the sightings causally relevant”. The available official materials show a grid failure with a plausible and documented initiation mechanism. UFO sources, by contrast, mainly argue from temporal proximity, witness credibility and the dramatic coincidence of lights seen around the blackout. Those are suggestive ingredients for a case file, but they are not enough to displace the electrical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gordoncheng.wordpress.com/wp-content/uploads/2011/06/fpc_65e7be8ee69db1e58c97e5a4a7e5819ce99bbbe881afe982a6e99bbbe58a9be5a794e593a1e69c83e8aabfe69fa5e5a0b1e5918a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gordoncheng.wordpress.com">[Gordoncheng&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gordoncheng.wordpress.com</span><span class="citation-popover-snippet">Gordoncheng&#x27;s Blog</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gordoncheng.wordpress.com/wp-content/uploads/2011/06/fpc_65e7be8ee69db1e58c97e5a4a7e5819ce99bbbe881afe982a6e99bbbe58a9be5a794e593a1e69c83e8aabfe69fa5e5a0b1e5918a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gordoncheng.wordpress.com">[Gordoncheng&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gordoncheng.wordpress.com</span><span class="citation-popover-snippet">Gordoncheng&#x27;s Blog</span></span></span>
 
-
 <img src="{{ "/assets/images/The_Northeast_Blacko_c3cfee-Illustration-3-dark.svg" | relative_url }}" alt="The Northeast Blackout 1965 illustration 3" data-theme-src-dark="{{ "/assets/images/The_Northeast_Blacko_c3cfee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/The_Northeast_Blacko_c3cfee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What remains genuinely unresolved?
 
@@ -829,7 +823,6 @@ The most reasonable unresolved question is not “what caused the blackout?” b
 There is also a provenance problem. Many UFO claims in this case are second-hand or third-hand: later web pages quote UFO books, newspaper clippings, or investigator summaries rather than providing complete primary documents. NICAP is valuable as a historical UFO archive, but it is also an advocacy-era source with a clear interpretive stance. It preserves leads and witness claims; it does not carry the same evidential weight as utility oscillographic data or a federal engineering report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/outage_main.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">Power Outages &amp; UFOS</span><span class="citation-popover-snippet">Power Outages &amp; UFOS</span></span></span>
 
 The phrase “UFO caused the blackout” therefore overstates the evidence. A more careful formulation is: unusual aerial lights were reported around the time of the 1965 blackout; some UFO investigators argued that those reports deserved attention; but the documented cause of the blackout was a relay-triggered cascading grid failure beginning at the Sir Adam Beck No. 2 plant. That distinction preserves the witness material without turning it into proof of a causal mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gordoncheng.wordpress.com/wp-content/uploads/2011/06/fpc_65e7be8ee69db1e58c97e5a4a7e5819ce99bbbe881afe982a6e99bbbe58a9be5a794e593a1e69c83e8aabfe69fa5e5a0b1e5918a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gordoncheng.wordpress.com">[Gordoncheng&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gordoncheng.wordpress.com</span><span class="citation-popover-snippet">Gordoncheng&#x27;s Blog</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gordoncheng.wordpress.com/wp-content/uploads/2011/06/fpc_65e7be8ee69db1e58c97e5a4a7e5819ce99bbbe881afe982a6e99bbbe58a9be5a794e593a1e69c83e8aabfe69fa5e5a0b1e5918a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gordoncheng.wordpress.com">[Gordoncheng&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gordoncheng.wordpress.com</span><span class="citation-popover-snippet">Gordoncheng&#x27;s Blog</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cgGaosUsCzo" title="Blackout of 1965 plunged 30 million into darkness" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cgGaosUsCzo" target="_blank" rel="noopener noreferrer">Blackout of 1965 plunged 30 million into darkness</a></p><p class="youtube-embed-meta">Channel: WWLP-22News &middot; Views: 626 &middot; Uploaded: November 2015 &middot; Length: 1 minute 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cgGaosUsCzo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cgGaosUsCzo">Open on YouTube</a></p></div></div></div>
 
@@ -842,47 +835,395 @@ The UFO reports are still worth cataloguing because they show how extraordinary 
 For a case dossier, the cleanest verdict is: explained blackout, partially unresolved sighting cluster. The blackout’s physical cause is best attributed to the relay and cascading-grid sequence documented by the Federal Power Commission. The UFO material should be handled as a related witness-and-media branch, not as the main explanatory branch. That framing keeps chronology, provenance and evidential quality aligned: strong technical documentation for the power failure; mixed and sometimes intriguing testimony for the aerial reports; no demonstrated bridge between the two. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gordoncheng.wordpress.com/wp-content/uploads/2011/06/fpc_65e7be8ee69db1e58c97e5a4a7e5819ce99bbbe881afe982a6e99bbbe58a9be5a794e593a1e69c83e8aabfe69fa5e5a0b1e5918a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gordoncheng.wordpress.com">[Gordoncheng&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gordoncheng.wordpress.com</span><span class="citation-popover-snippet">Gordoncheng&#x27;s Blog</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://gordoncheng.wordpress.com/wp-content/uploads/2011/06/fpc_65e7be8ee69db1e58c97e5a4a7e5819ce99bbbe881afe982a6e99bbbe58a9be5a794e593a1e69c83e8aabfe69fa5e5a0b1e5918a.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gordoncheng.wordpress.com">[Gordoncheng&#x27;s Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gordoncheng.wordpress.com</span><span class="citation-popover-snippet">Gordoncheng&#x27;s Blog</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Did UFOs Really Cause the Blackout?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Did UFOs Really Cause the Blackout?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Establishes standard protocol baselines explaining how civilian witness reports are managed during major public panics.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Addresses why concurrent sightings of lights in dark skies fail to establish a causal mechanism linking them to grid engineering failures.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the 1965 Northeast Blackout UFO folklore, contrasting technical utility data against subsequent popular book retellings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches methodology to evaluate why uncorroborated pilot witness reports fail to override precise utility oscillographic datasets.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/ecf1364ac1fcde60335d.jpg' | relative_url }}" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="the-northeast-blackout-1965-did-ufos-really-cause-the-blackout-ufo-art-print-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
 </section>
 
 ## Endnotes
@@ -890,159 +1231,159 @@ For a case dossier, the cleanest verdict is: explained blackout, partially unres
 1. <a id="endnote-1"></a>
    Source: gordoncheng.wordpress.com  
    Title: Gordoncheng's Blog  
-   Link: [https://gordoncheng.wordpress.com/wp-content/uploads/2011/06/fpc_65e7be8ee69db1e58c97e5a4a7e5819ce99bbbe881afe982a6e99bbbe58a9be5a794e593a1e69c83e8aabfe69fa5e5a0b1e5918a.pdf](https://gordoncheng.wordpress.com/wp-content/uploads/2011/06/fpc_65e7be8ee69db1e58c97e5a4a7e5819ce99bbbe881afe982a6e99bbbe58a9be5a794e593a1e69c83e8aabfe69fa5e5a0b1e5918a.pdf)  
+   Link: <a href="https://gordoncheng.wordpress.com/wp-content/uploads/2011/06/fpc_65e7be8ee69db1e58c97e5a4a7e5819ce99bbbe881afe982a6e99bbbe58a9be5a794e593a1e69c83e8aabfe69fa5e5a0b1e5918a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gordoncheng.wordpress.com/wp-content/uploads/2011/06/fpc_65e7be8ee69db1e58c97e5a4a7e5819ce99bbbe881afe982a6e99bbbe58a9be5a794e593a1e69c83e8aabfe69fa5e5a0b1e5918a.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/nyne.htm](https://www.nicap.org/nyne.htm)  
+   Link: <a href="https://www.nicap.org/nyne.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/nyne.htm</a>  
 
 3. <a id="endnote-3"></a>
    Source: history.com  
    Title: The Great Northeast Blackout  
-   Link: [https://www.history.com/this-day-in-history/november-9/the-great-northeast-blackout](https://www.history.com/this-day-in-history/november-9/the-great-northeast-blackout)  
+   Link: <a href="https://www.history.com/this-day-in-history/november-9/the-great-northeast-blackout" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/this-day-in-history/november-9/the-great-northeast-blackout</a>  
 
 4. <a id="endnote-4"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/chronos/1965fullrep.htm](https://www.nicap.org/chronos/1965fullrep.htm)  
+   Link: <a href="https://www.nicap.org/chronos/1965fullrep.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/chronos/1965fullrep.htm</a>  
 
 6. <a id="endnote-6"></a>
    Source: nicap.org  
    Title: Power Outages & UFOS  
-   Link: [https://www.nicap.org/outage_main.htm](https://www.nicap.org/outage_main.htm)  
+   Link: <a href="https://www.nicap.org/outage_main.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/outage_main.htm</a>  
 
 7. <a id="endnote-7"></a>
    Source: blog.newspapers.com  
    Title: november 9 1965 the great northeastern blackout  
-   Link: [https://blog.newspapers.com/november-9-1965-the-great-northeastern-blackout/](https://blog.newspapers.com/november-9-1965-the-great-northeastern-blackout/)  
+   Link: <a href="https://blog.newspapers.com/november-9-1965-the-great-northeastern-blackout/" target="_blank" rel="noopener noreferrer nofollow">https://blog.newspapers.com/november-9-1965-the-great-northeastern-blackout/</a>  
 
 8. <a id="endnote-8"></a>
    Source: newspapers.com  
    Title: the times record 1965 new york power fai  
-   Link: [https://www.newspapers.com/article/the-times-record-1965-new-york-power-fai/9077507/](https://www.newspapers.com/article/the-times-record-1965-new-york-power-fai/9077507/)  
+   Link: <a href="https://www.newspapers.com/article/the-times-record-1965-new-york-power-fai/9077507/" target="_blank" rel="noopener noreferrer nofollow">https://www.newspapers.com/article/the-times-record-1965-new-york-power-fai/9077507/</a>  
 
 9. <a id="endnote-9"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt](https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt)  
+   Link: <a href="https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/druffel_firestorm_james_mcdonald_fight_ufo_science/druffel_firestorm_james_mcdonald_fight_ufo_science_djvu.txt</a>  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: GALLERY Ep28  
-   Link: [https://www.youtube.com/watch?v=iiWTzPkixaM](https://www.youtube.com/watch?v=iiWTzPkixaM)  
+   Link: <a href="https://www.youtube.com/watch?v=iiWTzPkixaM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iiWTzPkixaM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1965 Blackout...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=cdF-CsxqDko](https://www.youtube.com/watch?v=cdF-CsxqDko)  
+   Link: <a href="https://www.youtube.com/watch?v=cdF-CsxqDko" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cdF-CsxqDko</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE BLACKOUT OF 1965 NBC TV COVERAGE...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: smithsonianmag.com  
    Title: new york city lost power radio saved day 180957194  
-   Link: [https://www.smithsonianmag.com/history/new-york-city-lost-power-radio-saved-day-180957194/](https://www.smithsonianmag.com/history/new-york-city-lost-power-radio-saved-day-180957194/)  
+   Link: <a href="https://www.smithsonianmag.com/history/new-york-city-lost-power-radio-saved-day-180957194/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/new-york-city-lost-power-radio-saved-day-180957194/</a>  
 
 13. <a id="endnote-13"></a>
    Source: ferc.gov  
    Title: Federal Energy Regulatory Commission Final Blackout Report Chapters 7-10  
-   Link: [https://www.ferc.gov/sites/default/files/2020-05/ch7-10.pdf](https://www.ferc.gov/sites/default/files/2020-05/ch7-10.pdf)  
+   Link: <a href="https://www.ferc.gov/sites/default/files/2020-05/ch7-10.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ferc.gov/sites/default/files/2020-05/ch7-10.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 15. <a id="endnote-15"></a>
    Source: historyhit.com  
    Title: the northeast blackout  
-   Link: [https://www.historyhit.com/the-northeast-blackout/](https://www.historyhit.com/the-northeast-blackout/)  
+   Link: <a href="https://www.historyhit.com/the-northeast-blackout/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyhit.com/the-northeast-blackout/</a>  
 
 16. <a id="endnote-16"></a>
    Source: catalog.hathitrust.org  
-   Link: [https://catalog.hathitrust.org/Record/001617348](https://catalog.hathitrust.org/Record/001617348)  
+   Link: <a href="https://catalog.hathitrust.org/Record/001617348" target="_blank" rel="noopener noreferrer nofollow">https://catalog.hathitrust.org/Record/001617348</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/855505714485399/posts/5530736086962315/](https://www.facebook.com/groups/855505714485399/posts/5530736086962315/)  
+   Link: <a href="https://www.facebook.com/groups/855505714485399/posts/5530736086962315/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/855505714485399/posts/5530736086962315/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/294755109282927/posts/1169756181782811/](https://www.facebook.com/groups/294755109282927/posts/1169756181782811/)  
+   Link: <a href="https://www.facebook.com/groups/294755109282927/posts/1169756181782811/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/294755109282927/posts/1169756181782811/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/513744017561133/posts/1024296419839221/](https://www.facebook.com/groups/513744017561133/posts/1024296419839221/)  
+   Link: <a href="https://www.facebook.com/groups/513744017561133/posts/1024296419839221/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/513744017561133/posts/1024296419839221/</a>  
 
 20. <a id="endnote-20"></a>
    Source: lifebynumbers.ca  
    Title: the 1965 northeast blackout  
-   Link: [https://www.lifebynumbers.ca/history/the-1965-northeast-blackout/](https://www.lifebynumbers.ca/history/the-1965-northeast-blackout/)  
+   Link: <a href="https://www.lifebynumbers.ca/history/the-1965-northeast-blackout/" target="_blank" rel="noopener noreferrer nofollow">https://www.lifebynumbers.ca/history/the-1965-northeast-blackout/</a>  
 
 21. <a id="endnote-21"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 22. <a id="endnote-22"></a>
    Source: historicmysteries.com  
    Title: project blue book  
-   Link: [https://www.historicmysteries.com/history/project-blue-book/38902/](https://www.historicmysteries.com/history/project-blue-book/38902/)  
+   Link: <a href="https://www.historicmysteries.com/history/project-blue-book/38902/" target="_blank" rel="noopener noreferrer nofollow">https://www.historicmysteries.com/history/project-blue-book/38902/</a>  
 
 23. <a id="endnote-23"></a>
    Source: books.google.ba  
-   Link: [https://books.google.ba/books?id=04IAAAAAMAAJ&printsec=frontcover](https://books.google.ba/books?id=04IAAAAAMAAJ&printsec=frontcover)  
+   Link: <a href="https://books.google.ba/books?id=04IAAAAAMAAJ&amp;printsec=frontcover" target="_blank" rel="noopener noreferrer nofollow">https://books.google.ba/books?id=04IAAAAAMAAJ&amp;printsec=frontcover</a>  
 
 24. <a id="endnote-24"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Dan Ingram Northeast Blackout  
-   Link: [https://www.youtube.com/watch?v=fxcdubiO1bg](https://www.youtube.com/watch?v=fxcdubiO1bg)  
+   Link: <a href="https://www.youtube.com/watch?v=fxcdubiO1bg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fxcdubiO1bg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GALLERY Ep28 - THE NEW YORK BLACKOUT OF 1965 CAUSED BY UFOs...</p></details>
    Published: November 9, 1965  
 
 26. <a id="endnote-26"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: govinfo.gov  
-   Link: [https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf](https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/CHRG-89hhrg50066O/pdf/CHRG-89hhrg50066O.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=cgGaosUsCzo](https://www.youtube.com/watch?v=cgGaosUsCzo)  
+   Link: <a href="https://www.youtube.com/watch?v=cgGaosUsCzo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cgGaosUsCzo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dan Ingram Northeast Blackout - 77 WABC New York - November 9, 1965...</p></details>
    Published: November 9, 1965  
 
 29. <a id="endnote-29"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/Portals/1/documents/2024SAF/DAF_CRG.pdf](https://www.af.mil/Portals/1/documents/2024SAF/DAF_CRG.pdf)  
+   Link: <a href="https://www.af.mil/Portals/1/documents/2024SAF/DAF_CRG.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/Portals/1/documents/2024SAF/DAF_CRG.pdf</a>  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/](https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/)  
+   Link: <a href="https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/posts/more-than-200-previously-unseen-ufo-files-document-reports-of-unexplained-green-/1453317753506216/</a>  
 
 31. <a id="endnote-31"></a>
    Source: ufocasebook.com  
-   Link: [https://ufocasebook.com/northeastpowerblackout1965.html](https://ufocasebook.com/northeastpowerblackout1965.html)  
+   Link: <a href="https://ufocasebook.com/northeastpowerblackout1965.html" target="_blank" rel="noopener noreferrer nofollow">https://ufocasebook.com/northeastpowerblackout1965.html</a>  
 
 32. <a id="endnote-32"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/182823344/Mount-Weather-Northeast-Blackout-Documents](https://www.scribd.com/document/182823344/Mount-Weather-Northeast-Blackout-Documents)  
+   Link: <a href="https://www.scribd.com/document/182823344/Mount-Weather-Northeast-Blackout-Documents" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/182823344/Mount-Weather-Northeast-Blackout-Documents</a>  
 
 33. <a id="endnote-33"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/US/photos/images-massive-blackout-1965-35085341](https://abcnews.com/US/photos/images-massive-blackout-1965-35085341)  
+   Link: <a href="https://abcnews.com/US/photos/images-massive-blackout-1965-35085341" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/photos/images-massive-blackout-1965-35085341</a>  
 
 34. <a id="endnote-34"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/435188165/Symposium-on-Unidentified-Flying-Objects-pdf](https://www.scribd.com/document/435188165/Symposium-on-Unidentified-Flying-Objects-pdf)  
+   Link: <a href="https://www.scribd.com/document/435188165/Symposium-on-Unidentified-Flying-Objects-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/435188165/Symposium-on-Unidentified-Flying-Objects-pdf</a>

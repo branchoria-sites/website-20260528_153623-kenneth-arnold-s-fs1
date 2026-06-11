@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /spaurneff-ravenna-si-4977ac-index/
 description: Focused pages that expand on Spaur Neff Ravenna sighting 1966.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: SpaurNeff_Ravenna_si_4977ac
 parent_title: Spaur Neff Ravenna sighting 1966

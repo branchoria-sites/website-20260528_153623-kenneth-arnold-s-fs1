@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /kenneth-arnold-s-first-sighting-1947/
 nav_short_title: Flight Path
 title: How the Cascade Sighting Unfolded
-title_full: How the Cascade Sighting Unfolded | Arnold Sighting
+title_full: How the Cascade Sighting Unfolded
 display_title_short: Flight Path
 display_title: Flight Path
 heading_title: How the Cascade Sighting Unfolded
@@ -239,7 +239,7 @@ next_link:
   permalink: /saucer-phrase/
   short_title: Saucer Phrase
   heading_title: How One Report Became Flying Saucers
-date: '2026-06-08 23:18:21 '
+date: '2026-06-11 13:11:13 '
 header:
   og_image: /assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-1-social.jpg
   preview_image: /assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-1.webp
@@ -249,7 +249,6 @@ image: /assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Il
 ## Introduction
 
 Kenneth Arnold’s 24 June 1947 sighting lasted only a few minutes, yet nearly every later argument about the case depends on that narrow window of time over the Cascade Range. Arnold’s route from Chehalis towards Yakima, his position near Mount Rainier, the line of sight towards Mount Adams, and his estimate that the objects crossed that span in roughly two and a half minutes all became central to the modern UFO debate. Supporters treated the timing and geography as evidence of extraordinary speed. Skeptics later argued that the same geography made distance and motion easy to misjudge. The case therefore turns less on the famous phrase “flying saucer” than on a tightly compressed sequence of observations made from a moving aircraft above mountainous terrain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</span></span></span>
-
 
 <img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-1-dark.svg" | relative_url }}" alt="Flight Path illustration 1" data-theme-src-dark="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Chehalis to Mount Rainier Route
@@ -270,9 +269,7 @@ According to Arnold, the objects first appeared north of Mount Rainier in a long
 
 The observation unfolded in stages:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QL9ZAKI13GE" title="Alien Report | Legend of the Roswell Crash | 2023 Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QL9ZAKI13GE" target="_blank" rel="noopener noreferrer">Alien Report | Legend of the Roswell Crash | 2023 Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 90.0K &middot; Uploaded: October 2023 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QL9ZAKI13GE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QL9ZAKI13GE">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -289,7 +286,6 @@ That sequence mattered because Arnold was not simply reporting an isolated flash
 
 Arnold also said the objects appeared thin and nearly edge-on at moments, making them difficult to see except when they reflected sunlight. This detail later fed two competing interpretations. UFO proponents argued it suggested unusual craft manoeuvring at high speed. Skeptics argued that intermittent visibility was exactly what would be expected from birds, mirages or reflections viewed at long range. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KennethKenneth is a given name of Gaelic origin. The name is an Anglicised form of two entirely different Gaelic personal names: Cainn...</span></span></span>
 
-
 <img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-2-dark.svg" | relative_url }}" alt="Flight Path illustration 2" data-theme-src-dark="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Landmarks Shaped the Speed Estimate
 
@@ -298,7 +294,6 @@ The most consequential part of the sighting was Arnold’s attempt to calculate 
 From that calculation, Arnold estimated speeds of around 1,200 miles per hour, with some later reconstructions producing even higher figures approaching 1,700 miles per hour. In 1947 those numbers were startling. No publicly known aircraft could sustain such speed, and Chuck Yeager would not officially break the sound barrier until several months later in the Bell X-1 programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</span></span></span>
 
 The speed estimate depended on three assumptions being correct simultaneously:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -312,7 +307,6 @@ Even a moderate error in any of those assumptions dramatically changes the calcu
 
 Arnold himself tried to anchor the estimate with practical pilot reasoning rather than pure speculation. He used the known dimensions of the DC-4 he had observed earlier as a comparative reference for angular size. He also claimed the objects maintained coherent spacing and formation during the crossing, which to him implied controlled flight rather than drifting reflections or birds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KennethKenneth is a given name of Gaelic origin. The name is an Anglicised form of two entirely different Gaelic personal names: Cainn...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/01sVLTO8xmo" title="24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer">24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold</a></p><p class="youtube-embed-meta">Channel: HistoryPod &middot; Views: 22.6K &middot; Uploaded: June 2021 &middot; Length: 2 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=01sVLTO8xmo">Open on YouTube</a></p></div></div></div>
 
 ## Why the Cascade Geography Matters So Much
@@ -320,7 +314,6 @@ Arnold himself tried to anchor the estimate with practical pilot reasoning rathe
 The Cascade terrain is not a decorative backdrop in the Arnold case; it is the mechanism through which the entire sighting was interpreted. The snow-covered volcanic peaks provided fixed reference points that allowed Arnold to estimate motion, but they also introduced visual complications that later critics emphasised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KennethKenneth is a given name of Gaelic origin. The name is an Anglicised form of two entirely different Gaelic personal names: Cainn...</span></span></span>
 
 Several skeptical [explanations]({{ 'explanations/' | relative_url }}) rely directly on the mountain environment:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -334,7 +327,6 @@ Steuart Campbell’s later mirage argument, for example, proposed that Arnold ma
 
 Supporters of Arnold’s account countered that he was an experienced pilot accustomed to judging distance and motion in mountainous country. Arnold had roughly 4,000 flying hours, and contemporaries who interviewed him often described him as calm and credible rather than sensational. The geography therefore cuts both ways: the mountains provided measurable references, but they also created conditions where depth perception could become unreliable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KennethKenneth is a given name of Gaelic origin. The name is an Anglicised form of two entirely different Gaelic personal names: Cainn...</span></span></span>
 
-
 <img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-3-dark.svg" | relative_url }}" alt="Flight Path illustration 3" data-theme-src-dark="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_cascade_flight_timel_df71af-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Timeline Reconstruction and Remaining Uncertainty
 
@@ -344,49 +336,89 @@ Approximate timeEventEarly afternoonArnold departs Chehalis for Yakima and Pendl
 
 <span class="citation-chip-wrap"><a class="citation-chip" href="https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub Despite decades of discussion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">kenneth arnold sighting narrative cascade june 1947.md</span><span class="citation-popover-snippet">Arnold continued his marine transport search for another twenty minutes before heading to Yakima.Read more...</span><span class="citation-popover-meta">Published: june 1947</span></span></span>, important uncertainties remain unresolved. There are no photographs, radar records, instrument traces or independent timing measurements. Every reconstruction ultimately depends on Arnold’s memory, his judgement of distance, and the geography of the Cascades as seen from a moving aircraft. That is why the sighting timeline remains so central to the case. If Arnold correctly judged the distances involved, the reported speeds become extraordinarily difficult to explain within 1947 aviation technology. If he misjudged the range to the objects, the entire event becomes easier to reconcile with ordinary atmospheric or visual phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">KennethKenneth is a given name of Gaelic origin. The name is an Anglicised form of two entirely different Gaelic personal names: Cainn...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xLuHgsXGpqc" title="Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer">Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 9.8K &middot; Uploaded: October 2025 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xLuHgsXGpqc">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How the Cascade Sighting Unfolded, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How the Cascade Sighting Unfolded. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Kenneth Arnold guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Kenneth+Arnold+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Reviews the exact landmark parameters used by Arnold to generate his controversial high-speed velocity estimations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Cascade Range guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Cascade+Range+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Details the Chehalis to Yakima routing logs, the critical 3 p.m. timestamp, and how Arnold calculated distance against Mount Adams.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Mount Rainier guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Mount+Rainier+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Breaks down the cognitive traps that occur when an observer attempts to compute velocity without a fixed scale benchmark.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Documents official intelligence tracking attempts to replicate Arnold&#x27;s heading maps during late-1940s audits.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -423,15 +455,15 @@ Approximate timeEventEarly afternoonArnold departs Chehalis for Yakima and Pendl
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/2Q0AAeSwRXpo1A63/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -439,15 +471,15 @@ Approximate timeEventEarly afternoonArnold departs Chehalis for Yakima and Pendl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="https://i.ebayimg.com/images/g/nl0AAeSwgYNoyb7F/s-l225.jpg" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -455,15 +487,15 @@ Approximate timeEventEarly afternoonArnold departs Chehalis for Yakima and Pendl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart"><img src="https://i.ebayimg.com/images/g/g-IAAeSwToJqHykA/s-l225.jpg" alt="Listing image for RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">RAF Aircraft Collection Poster A3 Royal Air Force Aircraft Identification Chart</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -471,15 +503,15 @@ Approximate timeEventEarly afternoonArnold departs Chehalis for Yakima and Pendl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)"><img src="https://i.ebayimg.com/images/g/PgMAAeSw0gNpkH~g/s-l225.jpg" alt="Listing image for Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">Canvas Poster &quot;Dambuster Lancaster&quot; by photographer Paul Heasman. Avro. (bc)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -487,7 +519,7 @@ Approximate timeEventEarly afternoonArnold departs Chehalis for Yakima and Pendl
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="flight-path-how-the-cascade-sighting-unfolded-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-cascade-sighting-unfolded-aviation-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster" data-ebay-reference="how-the-cascade-sighting-unfolded-aviation-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -703,114 +735,114 @@ Approximate timeEventEarly afternoonArnold departs Chehalis for Yakima and Pendl
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting](https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
 2. <a id="endnote-2"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=01sVLTO8xmo](https://www.youtube.com/watch?v=01sVLTO8xmo)  
+   Link: <a href="https://www.youtube.com/watch?v=01sVLTO8xmo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=01sVLTO8xmo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>24th June 1947: The first widely-reported UFO sighting was...Arnold had deviated from his intended flight path in the hope of locating a...</p></details>
    Published: June 1947  
 
 3. <a id="endnote-3"></a>
    Source: github.com  
    Title: kenneth arnold sighting narrative cascade june 1947.md  
-   Link: [https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md](https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md)  
+   Link: <a href="https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md" target="_blank" rel="noopener noreferrer nofollow">https://github.com/wretcher207/the-ufo-files/blob/main/fbi-62hq83894/cases/kenneth-arnold-sighting-narrative-cascade-june-1947.md</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Arnold continued his marine transport search for another twenty minutes before heading to Yakima.Read more...</p></details>
    Published: june 1947  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Kenneth](https://en.wikipedia.org/wiki/Kenneth)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>KennethKenneth is a given name of Gaelic origin. The name is an Anglicised form of two entirely different Gaelic personal names: Cainn...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: Kenneth Arnold UFO Sighting The First UFOs  
-   Link: [https://www.youtube.com/watch?v=xLuHgsXGpqc](https://www.youtube.com/watch?v=xLuHgsXGpqc)  
+   Link: <a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xLuHgsXGpqc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jimmy Akin&#x27;s...The 1947 Kenneth Arnold sighting launched the modern UFO era and gave us the term “flying saucer.” Jimmy Akin and Dom Bet...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: Kenneth Arnold and the First UFOs  
-   Link: [https://www.youtube.com/watch?v=qdXNAOxs6mo](https://www.youtube.com/watch?v=qdXNAOxs6mo)  
+   Link: <a href="https://www.youtube.com/watch?v=qdXNAOxs6mo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qdXNAOxs6mo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>24th June 1947: The first widely-reported UFO sighting was made by private pilot Kenneth Arnold...</p></details>
    Published: June 1947  
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jqJzZ-V5Jv8](https://www.youtube.com/watch?v=jqJzZ-V5Jv8)  
+   Link: <a href="https://www.youtube.com/watch?v=jqJzZ-V5Jv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jqJzZ-V5Jv8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Report | Legend of the Roswell Crash | 2023 Documentary...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=QL9ZAKI13GE](https://www.youtube.com/watch?v=QL9ZAKI13GE)  
+   Link: <a href="https://www.youtube.com/watch?v=QL9ZAKI13GE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QL9ZAKI13GE</a>  
 
 9. <a id="endnote-9"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: [https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer](https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer)  
+   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Air and Space Museum1947: Year of the Flying Saucer24 Jun 2022 — What Kenneth Arnold saw while flying past Mt. Rainier on June 2...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: mukundsathe.com  
    Title: Kenneth Arnold  
-   Link: [https://mukundsathe.com/tag/kenneth-arnold/](https://mukundsathe.com/tag/kenneth-arnold/)  
+   Link: <a href="https://mukundsathe.com/tag/kenneth-arnold/" target="_blank" rel="noopener noreferrer nofollow">https://mukundsathe.com/tag/kenneth-arnold/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This Day in History24 Jun 2015 — This Day in History (24-Jun-1947) – Kenneth Arnold makes the first widely reported UFO sighting near Mou...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/name/nm0000110/](https://www.imdb.com/name/nm0000110/)  
+   Link: <a href="https://www.imdb.com/name/nm0000110/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm0000110/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth BranaghKenneth Branagh. Actor: Much Ado About Nothing. Kenneth Charles Branagh was born on December 10, 1960, in Belfast, Norther...</p></details>
    Published: December 10, 1960  
 
 12. <a id="endnote-12"></a>
    Source: science.howstuffworks.com  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/ufo-history.htm](https://science.howstuffworks.com/space/aliens-ufos/ufo-history.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-history.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryArnold estimated that the chain they comprised was five miles long. After two and a half minutes, they disappeared, heading south...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: mukundsathe.com  
-   Link: [https://mukundsathe.com/2015/06/24/this-day-in-history-24-jun-1947-kenneth-arnold-makes-the-first-widely-reported-ufo-sighting-near-mount-rainier-washington/](https://mukundsathe.com/2015/06/24/this-day-in-history-24-jun-1947-kenneth-arnold-makes-the-first-widely-reported-ufo-sighting-near-mount-rainier-washington/)  
+   Link: <a href="https://mukundsathe.com/2015/06/24/this-day-in-history-24-jun-1947-kenneth-arnold-makes-the-first-widely-reported-ufo-sighting-near-mount-rainier-washington/" target="_blank" rel="noopener noreferrer nofollow">https://mukundsathe.com/2015/06/24/this-day-in-history-24-jun-1947-kenneth-arnold-makes-the-first-widely-reported-ufo-sighting-near-mount-rainier-washington/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranier to Mt. Adams. This information would be used to estimate the objects&#x27; speed at 1,200 mph, an...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: wyominghistoryday.org  
-   Link: [https://www.wyominghistoryday.org/theme-topics/collections/items/ufo-sighting-aircraft-kenneth-arnold](https://www.wyominghistoryday.org/theme-topics/collections/items/ufo-sighting-aircraft-kenneth-arnold)  
+   Link: <a href="https://www.wyominghistoryday.org/theme-topics/collections/items/ufo-sighting-aircraft-kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.wyominghistoryday.org/theme-topics/collections/items/ufo-sighting-aircraft-kenneth-arnold</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He claimed to see 9 UFOs, that were vivid blue-white flashes, very bright flashes.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: The only recorded interview of Kenneth Arnold, civilian  
-   Link: [https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/](https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ffvc1r/the_only_recorded_interview_of_kenneth_arnold/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 24, 1947 - Pilot Kenneth Arnold sights a series of unidentified flying objects near Washington&#x27;s Mount Rainier. It&#x27;s the first widel...</p></details>
    Published: June 24, 1947  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/](https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/a-pilot-reports-sight-of-a-number-of-flying-discs-near-mount-rainier-historysgre/1536344454725192/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>crew sighted two separate formations of wingless discs, shortly after...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: spokesman.com  
    Title: flying saucers still evasive 70 years after pilots  
-   Link: [https://www.spokesman.com/stories/2017/jun/25/flying-saucers-still-evasive-70-years-after-pilots/](https://www.spokesman.com/stories/2017/jun/25/flying-saucers-still-evasive-70-years-after-pilots/)  
+   Link: <a href="https://www.spokesman.com/stories/2017/jun/25/flying-saucers-still-evasive-70-years-after-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/2017/jun/25/flying-saucers-still-evasive-70-years-after-pilots/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers still evasive 70 years after pilot&#x27;s report25 Jun 2017 — Boise businessman Ken Arnold had no idea he would change the worl...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/19cc2n4/hours_after_his_sighting_of_9_ufos_pilot_kenneth/](https://www.reddit.com/r/UFOs/comments/19cc2n4/hours_after_his_sighting_of_9_ufos_pilot_kenneth/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/19cc2n4/hours_after_his_sighting_of_9_ufos_pilot_kenneth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/19cc2n4/hours_after_his_sighting_of_9_ufos_pilot_kenneth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n 1947 passing past Mt.Rainier at a speed of 1200 miles per hour.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: americanghostwalks.com  
    Title: kenneth arnold and the origin of flying saucers  
-   Link: [https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers](https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers)  
+   Link: <a href="https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers" target="_blank" rel="noopener noreferrer nofollow">https://www.americanghostwalks.com/kenneth-arnold-and-the-origin-of-flying-saucers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold and the Origin of the Modern UFO Movement24 Jun 2025 — Using the distance between Mount Rainier and Mount Adams, Arnold ca...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
    Title: kenneth arnold and his description of ufos  
-   Link: [https://www.reddit.com/r/UFOs/comments/zrowqo/kenneth_arnold_and_his_description_of_ufos/](https://www.reddit.com/r/UFOs/comments/zrowqo/kenneth_arnold_and_his_description_of_ufos/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/zrowqo/kenneth_arnold_and_his_description_of_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zrowqo/kenneth_arnold_and_his_description_of_ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold a pilot claims to have seen 9 UFOs, in a string on this date in 1947 passing past Mt.Rainier at a speed of 1200 miles per...</p></details>

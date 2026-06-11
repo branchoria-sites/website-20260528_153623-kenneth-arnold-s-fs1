@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /travis-walton-abduction-1975/
 nav_short_title: Skeptics
 title: Could the Walton Case Have Been Staged?
-title_full: Could the Walton Case Have Been Staged? | Walton
+title_full: Could the Walton Case Have Been Staged?
 display_title_short: Skeptics
 display_title: Skeptics
 heading_title: Could the Walton Case Have Been Staged?
@@ -239,7 +239,7 @@ next_link:
   permalink: /witnesses-0bd763/
   short_title: Witnesses
   heading_title: How Strong Was the Crew's Story?
-date: '2026-06-08 23:20:17 '
+date: '2026-06-11 13:12:25 '
 header:
   og_image: /assets/images/Travis_Walton_abduct_612999_hoax_polygraph_doubt_db4e5d-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Walton_abduct_612999_hoax_polygraph_doubt_db4e5d-Illustration-1.webp
@@ -249,7 +249,6 @@ image: /assets/images/Travis_Walton_abduct_612999_hoax_polygraph_doubt_db4e5d-Il
 ## Introduction
 
 The Travis Walton case has survived for decades partly because it contains elements that many UFO stories lack: multiple [witnesses]({{ 'witnesses-0bd763/' | relative_url }}), a documented missing-person investigation, and a narrative that remained publicly consistent over time. Yet the strongest sceptical arguments focus on a different point entirely. Critics contend that the case depends almost entirely on testimony, that the most celebrated polygraph claims were selectively presented, and that publicity incentives may have encouraged the story to harden into a cultural phenomenon rather than collapse under scrutiny.
-
 
 <img src="{{ "/assets/images/Travis_Walton_abduct_612999_hoax_polygraph_doubt_db4e5d-Illustration-1-dark.svg" | relative_url }}" alt="Skeptics illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Walton_abduct_612999_hoax_polygraph_doubt_db4e5d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Walton_abduct_612999_hoax_polygraph_doubt_db4e5d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The dispute matters because the Walton case became a template for later alien-abduction narratives. Believers often point to the logging crew’s corroboration and the emotional intensity of the early reports. Sceptics instead focus on motive, media involvement, contradictions in the lie-detector history, and the role played by UFO organisations and tabloids in shaping public perception. The result is not a settled debunking, but a long-running argument over whether the case represents extraordinary testimony or a well-supported folklore event built on weak evidentiary foundations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOopeU3Su8A2xzQF5yTRfbuVaJUAlJ1AR4W1N5D5rGSPMDdYoExl0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[2Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">The Travis Walton Abduction: America&#x27;s Most Compelling</span><span class="citation-popover-snippet">Travis&#x27;s own polygraph results were more complicated. His first examination... Klass developed a comprehensive theory that the entire in...</span></span></span>
@@ -261,7 +260,6 @@ The core sceptical position is not merely that Walton misidentified something in
 Klass believed the strongest clue was timing. The logging crew led by Mike Rogers had reportedly fallen behind on a US Forest Service contract. According to Klass’s reconstruction, a dramatic event could have provided a face-saving explanation for poor performance or potential penalties. Walton disappeared on 5 November 1975 and reappeared just before the contract deadline became critical, which sceptics have long viewed as suspicious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOopeU3Su8A2xzQF5yTRfbuVaJUAlJ1AR4W1N5D5rGSPMDdYoExl0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">The Travis Walton Abduction: America&#x27;s Most Compelling</span><span class="citation-popover-snippet">Travis&#x27;s own polygraph results were more complicated. His first examination... Klass developed a comprehensive theory that the entire in...</span></span></span>
 
 This “contract-pressure theory” became one of the central sceptical explanations because it offered a practical motive rather than a purely psychological one. Critics argued that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -284,9 +282,7 @@ For sceptics, this immediately complicated the credibility question. The case wa
 
 Critics argue that the Enquirer’s involvement created at least three problems:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YqV1vo-mq_s" title="He got abducted by aliens // The Travis Walton story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YqV1vo-mq_s" target="_blank" rel="noopener noreferrer">He got abducted by aliens // The Travis Walton story</a></p><p class="youtube-embed-meta">Channel: Ray William Johnson &middot; Views: 807.8K &middot; Uploaded: February 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YqV1vo-mq_s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YqV1vo-mq_s">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -299,7 +295,6 @@ Critics argue that the Enquirer’s involvement created at least three problems:
 Defenders of Walton counter that the amount of money involved was relatively small when divided among the men and could not plausibly compensate for decades of ridicule. They also note that media organisations routinely pay for exclusives without automatically invalidating a story.
 
 Even so, sceptics maintain that the issue is not whether the crew became rich, but whether publicity and attention reinforced commitment to the narrative. Once the case entered books, documentaries, television interviews and eventually the film *Fire in the Sky*, backing away from the original claim became increasingly unlikely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Polygraph" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ViUbA_O3N5M" title="Fire in the Sky (4/8) Movie CLIP - The Lie Detector Test (1993) HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ViUbA_O3N5M" target="_blank" rel="noopener noreferrer">Fire in the Sky (4/8) Movie CLIP - The Lie Detector Test (1993) HD</a></p><p class="youtube-embed-meta">Channel: Movieclips &middot; Views: 230.8K &middot; Uploaded: May 2012 &middot; Length: 2 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ViUbA_O3N5M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ViUbA_O3N5M">Open on YouTube</a></p></div></div></div>
 
@@ -317,7 +312,6 @@ This became central to the criticism advanced by Klass and later sceptical write
 
 Walton and his supporters disputed the significance of the failed test. They argued that:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * McCarthy was hostile and confrontational;
@@ -328,7 +322,6 @@ Walton and his supporters disputed the significance of the failed test. They arg
 </div>
 
 This dispute over examiner bias became almost as important as the test outcome itself. Believers portrayed the failed test as contaminated by antagonistic questioning, while sceptics portrayed the later favourable tests as arranged through UFO-friendly intermediaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOopeU3Su8A2xzQF5yTRfbuVaJUAlJ1AR4W1N5D5rGSPMDdYoExl0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">The Travis Walton Abduction: America&#x27;s Most Compelling</span><span class="citation-popover-snippet">Travis&#x27;s own polygraph results were more complicated. His first examination... Klass developed a comprehensive theory that the entire in...</span></span></span>
-
 
 <img src="{{ "/assets/images/Travis_Walton_abduct_612999_hoax_polygraph_doubt_db4e5d-Illustration-2-dark.svg" | relative_url }}" alt="Skeptics illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Walton_abduct_612999_hoax_polygraph_doubt_db4e5d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Walton_abduct_612999_hoax_polygraph_doubt_db4e5d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Polygraphs Cannot Resolve the Walton Case
@@ -345,7 +338,6 @@ This is why the Walton case remains stuck in an unusual evidentiary position. Th
 
 The debate therefore becomes less about machines and more about credibility:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Did the witnesses honestly report a frightening but misinterpreted experience?
@@ -356,7 +348,6 @@ The debate therefore becomes less about machines and more about credibility:
 
 Polygraphs cannot answer those questions conclusively. They only became symbolic weapons in a larger credibility battle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Doug_Williams_%28polygraph_critic%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Doug Williams (polygraph critic</span><span class="citation-popover-snippet">Doug Williams (polygraph critic</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dFNuS4ezQ5k" title="Craziest UFO Abduction Story (Passed Lie Detector Tests)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dFNuS4ezQ5k" target="_blank" rel="noopener noreferrer">Craziest UFO Abduction Story (Passed Lie Detector Tests)</a></p><p class="youtube-embed-meta">Channel: The Infographics Show &middot; Views: 173.0K &middot; Uploaded: April 2024 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dFNuS4ezQ5k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dFNuS4ezQ5k">Open on YouTube</a></p></div></div></div>
 
 ## Money, Media and the Hardening of the Story
@@ -366,7 +357,6 @@ One reason the Walton case still divides opinion is that it evolved during a maj
 Sceptics argue that this environment rewarded dramatic consistency. Once Walton published *The Walton Experience* and the story later inspired the film *Fire in the Sky*, the incident ceased to be merely a local Arizona mystery. It became intellectual property, a convention topic and a foundational abduction narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Doug_Williams_%28polygraph_critic%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Doug Williams (polygraph critic</span><span class="citation-popover-snippet">Doug Williams (polygraph critic</span></span></span>
 
 Critics therefore focus less on proving a specific mechanical hoax and more on how stories become culturally stabilised. Several factors contributed to that hardening process:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -382,48 +372,89 @@ This does not automatically mean the story was fabricated. Many witnesses to unu
 
 The Walton case ultimately survives because neither side possesses decisive evidence. There is no verified physical trace proving abduction, but there is also no conclusive demonstration of a staged disappearance. Instead, the dispute persists in a space where testimony, memory, media incentives and belief overlap — a setting in which certainty is difficult to achieve and debate becomes self-perpetuating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOopeU3Su8A2xzQF5yTRfbuVaJUAlJ1AR4W1N5D5rGSPMDdYoExl0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hangar1publishing.com">[2Hangar1publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hangar1publishing.com</span><span class="citation-popover-title">The Travis Walton Abduction: America&#x27;s Most Compelling</span><span class="citation-popover-snippet">Travis&#x27;s own polygraph results were more complicated. His first examination... Klass developed a comprehensive theory that the entire in...</span></span></span>
 
-
 <img src="{{ "/assets/images/Travis_Walton_abduct_612999_hoax_polygraph_doubt_db4e5d-Illustration-3-dark.svg" | relative_url }}" alt="Skeptics illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Walton_abduct_612999_hoax_polygraph_doubt_db4e5d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Walton_abduct_612999_hoax_polygraph_doubt_db4e5d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Could the Walton Case Have Been Staged?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Could the Walton Case Have Been Staged?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Arizona Polygraph Lab guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Arizona+Polygraph+Lab+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fire in the Sky on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yKo_PwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Fire in the Sky" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fire in the Sky">Fire in the Sky</a>
+        </h4>
+        <p class="fr-book-author">By Travis Walton</p>
+        
+        <p class="fr-book-desc">Contains Walton&#x27;s counterarguments against Klass, detailing his views on the lie-detector tests and media tabloid rewards.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fire+in+the+Sky+by+Travis+Walton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Travis Walton test guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Travis+Walton+test+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+        </h4>
+        <p class="fr-book-author">By Philip J. Klass</p>
+        
+        <p class="fr-book-desc">Devotes multiple chapters to the logging contract deadlines, tracking financial penalties and deconstructing the selective presentation o...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Travis Walton Experience guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Travis+Walton+Experience+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cowboy+Girl+by+John+Clayton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cowboy Girl on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=75QtDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cowboy Girl" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Cowboy+Girl+by+John+Clayton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cowboy Girl">The Cowboy Girl</a>
+        </h4>
+        <p class="fr-book-author">By John Clayton</p>
+        
+        <p class="fr-book-desc">Breaks down the scientific reasons why polygraphs measure physiological stress loops rather than objective truth, explaining the case&#x27;s m...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Cowboy+Girl+by+John+Clayton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Details the long-running dispute between National Enquirer publicity funding and the early APRO investigation metrics.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fire+in+the+Sky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fire in the Sky</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cowboy+Girl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cowboy Girl</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -460,15 +491,15 @@ The Walton case ultimately survives because neither side possesses decisive evid
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/834ee19f98df8bccfb55.jpg' | relative_url }}" alt="Listing image for Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer">Alien Encounter with UFO Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -476,15 +507,15 @@ The Walton case ultimately survives because neither side possesses decisive evid
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/106fc453372cb1fd9ff5.jpg' | relative_url }}" alt="Listing image for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer">UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -492,15 +523,15 @@ The Walton case ultimately survives because neither side possesses decisive evid
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Night Encounter Dark Aesthetic Poster"><img src="{{ '/assets/images/marketplace-covers/cc7898d1a32d21814bc0.jpg' | relative_url }}" alt="Listing image for UFO Night Encounter Dark Aesthetic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer">UFO Night Encounter Dark Aesthetic Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +539,15 @@ The Walton case ultimately survives because neither side possesses decisive evid
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions"><img src="{{ '/assets/images/marketplace-covers/17a39cace87c5018af72.jpg' | relative_url }}" alt="Listing image for Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,7 +555,7 @@ The Walton case ultimately survives because neither side possesses decisive evid
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="skeptics-b8ebac-could-the-walton-case-have-been-staged-travis-walton-abduction-1975-ufo-encounter-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -740,85 +771,85 @@ The Walton case ultimately survives because neither side possesses decisive evid
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Travis Walton incident  
-   Link: [https://en.wikipedia.org/wiki/Travis_Walton_incident](https://en.wikipedia.org/wiki/Travis_Walton_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Travis_Walton_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_Walton_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: hangar1publishing.com  
    Title: The Travis Walton Abduction: America's Most Compelling  
-   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOopeU3Su8A2xzQF5yTRfbuVaJUAlJ1AR4W1N5D5rGSPMDdYoExl0](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOopeU3Su8A2xzQF5yTRfbuVaJUAlJ1AR4W1N5D5rGSPMDdYoExl0)  
+   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOopeU3Su8A2xzQF5yTRfbuVaJUAlJ1AR4W1N5D5rGSPMDdYoExl0" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/travis-walton-abduction?srsltid=AfmBOopeU3Su8A2xzQF5yTRfbuVaJUAlJ1AR4W1N5D5rGSPMDdYoExl0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis&#x27;s own polygraph results were more complicated. His first examination... Klass developed a comprehensive theory that the entire in...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Philip J. Klass  
-   Link: [https://en.wikipedia.org/wiki/Philip_J._Klass](https://en.wikipedia.org/wiki/Philip_J._Klass)  
+   Link: <a href="https://en.wikipedia.org/wiki/Philip_J._Klass" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Philip_J._Klass</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Polygraph](https://en.wikipedia.org/wiki/Polygraph)  
+   Link: <a href="https://en.wikipedia.org/wiki/Polygraph" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Polygraph</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Doug Williams (polygraph critic)  
-   Link: [https://en.wikipedia.org/wiki/Doug_Williams_%28polygraph_critic%29](https://en.wikipedia.org/wiki/Doug_Williams_%28polygraph_critic%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Doug_Williams_%28polygraph_critic%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Doug_Williams_%28polygraph_critic%29</a>  
 
 6. <a id="endnote-6"></a>
    Source: centerforinquiry.s3.amazonaws.com  
-   Link: [https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1981/07/22165430/p49.pdf](https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1981/07/22165430/p49.pdf)  
+   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1981/07/22165430/p49.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1981/07/22165430/p49.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Enquirer, from A PRO members, and even from members of a blue-ribbon panel of UFOlogists...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/442980703/KlassContraWalton](https://www.scribd.com/document/442980703/KlassContraWalton)  
+   Link: <a href="https://www.scribd.com/document/442980703/KlassContraWalton" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/442980703/KlassContraWalton</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Walton UFO Abduction Case | PDF | UfologyTravis Walton failed a polygraph examination on November 15, 1975 regarding his alleged U...</p></details>
    Published: November 15, 1975  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1pxxk1a/how_much_do_you_trust_travis_walton/](https://www.reddit.com/r/UFOs/comments/1pxxk1a/how_much_do_you_trust_travis_walton/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1pxxk1a/how_much_do_you_trust_travis_walton/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1pxxk1a/how_much_do_you_trust_travis_walton/</a>  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/lufos/posts/2009864576573269/](https://www.facebook.com/groups/lufos/posts/2009864576573269/)  
+   Link: <a href="https://www.facebook.com/groups/lufos/posts/2009864576573269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/lufos/posts/2009864576573269/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Walton and his co-workers passed multiple polygraph tests, but some skeptics argue that the tests were flawed...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ParamountScares/videos/what-happened-to-travis-walton-still-sparks-debate-decades-later-fireinthesky/1234537528752275/](https://www.facebook.com/ParamountScares/videos/what-happened-to-travis-walton-still-sparks-debate-decades-later-fireinthesky/1234537528752275/)  
+   Link: <a href="https://www.facebook.com/ParamountScares/videos/what-happened-to-travis-walton-still-sparks-debate-decades-later-fireinthesky/1234537528752275/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ParamountScares/videos/what-happened-to-travis-walton-still-sparks-debate-decades-later-fireinthesky/1234537528752275/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Also listen to him telll his actual story its really nothing like the movie. Its really fascinating...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File](https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File)  
+   Link: <a href="https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>McCarthy, director of the Arizona Polygraph Laboratory in Phoenix. McCarthy, who has...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: razs-midnight-macabre.com  
    Title: myths and legends the travis walton ufo incident  
-   Link: [https://razs-midnight-macabre.com/2019/11/25/myths-and-legends-the-travis-walton-ufo-incident/](https://razs-midnight-macabre.com/2019/11/25/myths-and-legends-the-travis-walton-ufo-incident/)  
+   Link: <a href="https://razs-midnight-macabre.com/2019/11/25/myths-and-legends-the-travis-walton-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://razs-midnight-macabre.com/2019/11/25/myths-and-legends-the-travis-walton-ufo-incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Myths And Legends: The Travis Walton UFO Incident25 Nov 2019 — Walton would later take and pass two additional polygraph exams, though th...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: kjzz.org  
    Title: His Arizona UFO abduction story became legend  
-   Link: [https://www.kjzz.org/the-show/2025-07-03/his-arizona-ufo-abduction-story-became-legend-after-50-years-hes-sick-of-attempts-to-debunk-it](https://www.kjzz.org/the-show/2025-07-03/his-arizona-ufo-abduction-story-became-legend-after-50-years-hes-sick-of-attempts-to-debunk-it)  
+   Link: <a href="https://www.kjzz.org/the-show/2025-07-03/his-arizona-ufo-abduction-story-became-legend-after-50-years-hes-sick-of-attempts-to-debunk-it" target="_blank" rel="noopener noreferrer nofollow">https://www.kjzz.org/the-show/2025-07-03/his-arizona-ufo-abduction-story-became-legend-after-50-years-hes-sick-of-attempts-to-debunk-it</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>After 50...3 Jul 2025 — Arizona was the site of one of the most famous reported UFO abductions. In 1975, Travis Walton was working on a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dn721804.ca.archive.org  
    Title: Bad UFOs critical thinking about UFO claims  
-   Link: [https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf](https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf)  
+   Link: <a href="https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dn721804.ca.archive.org/0/items/bad-ufos/Bad%20UFOs%20-%20critical%20thinking%20about%20UFO%20claims.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveBad UFOs_ Critical Thinking About UFO Claims14 Jan 2016 — But Karl Pflock had a different interpretation of the Walton ho...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16fgi4u/regarding_the_likeliness_of_the_walton_abduction/](https://www.reddit.com/r/HighStrangeness/comments/16fgi4u/regarding_the_likeliness_of_the_walton_abduction/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16fgi4u/regarding_the_likeliness_of_the_walton_abduction/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16fgi4u/regarding_the_likeliness_of_the_walton_abduction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>was holding a $100,000 contest that year for best ufo story. That...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ufoevidence.org  
    Title: The Travis Walton UFO Abduction Case  
-   Link: [https://www.ufoevidence.org/documents/doc347.htm](https://www.ufoevidence.org/documents/doc347.htm)  
+   Link: <a href="https://www.ufoevidence.org/documents/doc347.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/documents/doc347.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lie detection is referred to as the psychophysical detection of deception (PDD). The most common PDD technique is the polygraph, a genera...</p></details>

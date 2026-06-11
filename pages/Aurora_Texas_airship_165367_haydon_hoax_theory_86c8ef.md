@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /aurora-texas-airship-crash-1897/
 nav_short_title: Hoax Theory
 title: Was the Aurora Crash a Newspaper Hoax?
-title_full: Was the Aurora Crash a Newspaper Hoax? | Aurora Airship
+title_full: Was the Aurora Crash a Newspaper Hoax?
 display_title_short: Hoax Theory
 display_title: Hoax Theory
 heading_title: Was the Aurora Crash a Newspaper Hoax?
@@ -239,7 +239,7 @@ next_link:
   permalink: /missing-proof/
   short_title: Missing Proof
   heading_title: What Evidence Is Missing in Aurora?
-date: '2026-06-08 23:31:51 '
+date: '2026-06-11 13:19:23 '
 header:
   og_image: /assets/images/Aurora_Texas_airship_165367_haydon_hoax_theory_86c8ef-Illustration-1-social.jpg
   preview_image: /assets/images/Aurora_Texas_airship_165367_haydon_hoax_theory_86c8ef-Illustration-1.webp
@@ -250,25 +250,23 @@ image: /assets/images/Aurora_Texas_airship_165367_haydon_hoax_theory_86c8ef-Illu
 
 The strongest sceptical explanation for the Aurora, Texas airship crash is that it began as a publicity hoax created during a period of economic decline and civic anxiety. In this reading, the famous 1897 “alien crash” was not an early UFO event but a sensational newspaper story written by local correspondent S. E. Haydon to attract attention to a fading town. The theory matters because it shifts the Aurora case away from questions about extraterrestrial visitors and toward questions about journalism, folklore, and economic desperation in small-town Texas.
 
-
 <img src="{{ "/assets/images/Aurora_Texas_airship_165367_haydon_hoax_theory_86c8ef-Illustration-1-dark.svg" | relative_url }}" alt="Hoax Theory illustration 1" data-theme-src-dark="{{ "/assets/images/Aurora_Texas_airship_165367_haydon_hoax_theory_86c8ef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aurora_Texas_airship_165367_haydon_hoax_theory_86c8ef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Unlike many later UFO legends, the Aurora story can be tied to a single named newspaper article and a specific social context. That combination gives sceptics a more concrete basis for a hoax argument than exists in many other classic UFO cases. Yet the theory is still debated because some local details appear harder to dismiss outright, including claims about a damaged windmill, a burial site, and persistent oral traditions that survived long after the original article was printed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tshaonline.org/texas-day-by-day/entry/118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tshaonline.org">[Texas State Historical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tshaonline.org</span><span class="citation-popover-snippet">Texas State Historical AssociationAuthor attempts to jump-start town with fictional UFO story19 Apr 2026 — On this day in 1897, SE Haydon...</span></span></span>
 
 ## What S. E. Haydon actually reported
 
-The hoax theory begins with the article itself. On 19 April 1897, the Dallas Morning News published Haydon’s account of an “airship” crashing into Judge J. S. Proctor’s windmill outside Aurora. The story described mechanical trouble, wreckage scattered across several acres, strange metallic debris, and the body of a pilot who was supposedly “not an inhabitant of this world”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[2auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History | Aurora, TX.The original front page of the Dallas Morning News,</span><span class="citation-popover-snippet">April 19, 1897. This was provided to us by “Alien Agenda” author, Jim Marrs. Mr. Marrs pointed out, there...Read more...</span><span class="citation-popover-meta">Published: April 19, 1897</span></span></span>
+The hoax theory begins with the article itself. On 19 April 1897, the Dallas Morning News published Haydon’s account of an “airship” crashing into Judge J. S. Proctor’s windmill outside Aurora. The story described mechanical trouble, wreckage scattered across several acres, strange metallic debris, and the body of a pilot who was supposedly “not an inhabitant of this world”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[2auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History &#124; Aurora, TX.The original front page of the Dallas Morning News,</span><span class="citation-popover-snippet">April 19, 1897. This was provided to us by “Alien Agenda” author, Jim Marrs. Mr. Marrs pointed out, there...Read more...</span><span class="citation-popover-meta">Published: April 19, 1897</span></span></span>
 
 Several features of the article have long made historians and sceptics suspicious:
 
 * The tone resembles the colourful, semi-humorous style common in late nineteenth-century newspaper reporting.
 * The story appeared during the wider 1896–1897 “mystery airship” craze, when newspapers regularly printed exaggerated or openly fanciful accounts.
 * No strong contemporary corroboration exists for the funeral, debris recovery, or massive explosion described in the article.
-* Haydon was not a detached outside reporter but a local resident with reasons to care about Aurora’s reputation and visibility. Texas State Historical Association <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas | TX AlmanacThen on April 19, S. E. Haydon, a correspondent for the News reported that an airship h...</span></span></span>
+* Haydon was not a detached outside reporter but a local resident with reasons to care about Aurora’s reputation and visibility. Texas State Historical Association <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacThen on April 19, S. E. Haydon, a correspondent for the News reported that an airship h...</span></span></span>
 
 The article also included dramatic details that read more like frontier satire than investigative reporting. The wreckage allegedly contained strange “hieroglyphics”, the pilot was quickly identified as non-human, and the remains supposedly received a Christian burial almost immediately. To modern readers, these details resemble the narrative structure of later UFO mythology, but in 1897 they fit comfortably within the era’s taste for sensational “airship” stories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Aurora, Texas, UFO incident</span><span class="citation-popover-snippet">Aurora, Texas, UFO incident</span></span></span>
 
 Importantly, the article did not trigger a major immediate national sensation. The story became far more famous decades later, after twentieth-century UFO culture transformed it into a proto-Roswell legend. That delayed fame strengthens the argument that the original piece was ephemeral newspaper entertainment rather than documentation of a shocking real event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mystery airship</span><span class="citation-popover-snippet">Mystery airship</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4bysZYT585Y" title="Aurora Texas – An 1897 Legend of a Crashed Spacecraft and Alien Burial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4bysZYT585Y" target="_blank" rel="noopener noreferrer">Aurora Texas – An 1897 Legend of a Crashed Spacecraft and Alien Burial</a></p><p class="youtube-embed-meta">Channel: Undiscovered Origins &middot; Views: 5.4K &middot; Uploaded: April 2020 &middot; Length: 3 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4bysZYT585Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4bysZYT585Y">Open on YouTube</a></p></div></div></div>
 
@@ -278,7 +276,7 @@ The economic condition of Aurora in the 1890s is central to the sceptical explan
 
 * A spotted fever outbreak in the late 1880s reportedly caused deaths and fear-driven departures.
 * Crop problems and economic hardship damaged local stability.
-* Most importantly in local memory, the railroad bypassed Aurora, limiting its future commercial importance. Texas State Historical Association <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6881563/americana-close-encounters-of-a-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">americana close encounters of a kind</span><span class="citation-popover-snippet">TimeAmericana: Close Encounters of a Kind11 Mar 1979 — “Hayden wrote it as a joke and to bring interest to Aurora,” says Etta Pegues, 86...</span></span></span>
+* Most importantly in local memory, the railroad bypassed Aurora, limiting its future commercial importance. Texas State Historical Association <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6881563/americana-close-encounters-of-a-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">americana close encounters of a kind</span><span class="citation-popover-snippet">Americana: Close Encounters of a Kind11 Mar 1979 — “Hayden wrote it as a joke and to bring interest to Aurora,” says Etta Pegues, 86...</span></span></span>
 
 Texas historical sources specifically connect these pressures to the later hoax interpretation. The Texas State Historical Association describes Haydon’s article as a fictional story released while Aurora was struggling after disease and economic decline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tshaonline.org/texas-day-by-day/entry/118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tshaonline.org">[Texas State Historical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tshaonline.org</span><span class="citation-popover-snippet">Texas State Historical AssociationAuthor attempts to jump-start town with fictional UFO story19 Apr 2026 — On this day in 1897, SE Haydon...</span></span></span>
 
@@ -288,17 +286,15 @@ The theory also fits the broader culture of nineteenth-century American boosteri
 
 Some later retellings sharpen this interpretation into a deliberate rescue campaign for the town. However, direct evidence for an organised conspiracy is weak. The surviving evidence points more toward an embellished newspaper tale than a coordinated civic deception. The distinction matters because it affects how historians interpret Haydon’s intentions: prankster, promoter, satirist, or opportunistic storyteller.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ba9lUNgR_Pk" title="The Aurora UFO Incident of 1897: Texas&#x27; Mysterious Alien Crash Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ba9lUNgR_Pk" target="_blank" rel="noopener noreferrer">The Aurora UFO Incident of 1897: Texas&#x27; Mysterious Alien Crash Explained</a></p><p class="youtube-embed-meta">Channel: Oddities and Mysteries &middot; Views: 355 &middot; Uploaded: August 2024 &middot; Length: 1 minute 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ba9lUNgR_Pk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ba9lUNgR_Pk">Open on YouTube</a></p></div></div></div>
 
 ## The Etta Pegues debunking claim
 
-The most famous support for the hoax theory came many decades later from Aurora resident Etta Pegues. In a widely cited interview published by Time magazine in 1979, Pegues said Haydon “wrote it as a joke and to bring interest to Aurora” because “the railroad bypassed us, and the town was dying”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6881563/americana-close-encounters-of-a-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">americana close encounters of a kind</span><span class="citation-popover-snippet">TimeAmericana: Close Encounters of a Kind11 Mar 1979 — “Hayden wrote it as a joke and to bring interest to Aurora,” says Etta Pegues, 86...</span></span></span>
+The most famous support for the hoax theory came many decades later from Aurora resident Etta Pegues. In a widely cited interview published by Time magazine in 1979, Pegues said Haydon “wrote it as a joke and to bring interest to Aurora” because “the railroad bypassed us, and the town was dying”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6881563/americana-close-encounters-of-a-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">americana close encounters of a kind</span><span class="citation-popover-snippet">Americana: Close Encounters of a Kind11 Mar 1979 — “Hayden wrote it as a joke and to bring interest to Aurora,” says Etta Pegues, 86...</span></span></span>
 
 That quote became the foundation of the modern debunking narrative. It is repeated in historical summaries, UFO discussions, and Texas folklore coverage because it offers a concise motive tied directly to Aurora’s decline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fwtx.com/culture/the-aurora-spaceman-legend/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fwtx.com">[Fort Worth Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fwtx.com</span><span class="citation-popover-title">the aurora spaceman legend</span><span class="citation-popover-snippet">Fort Worth MagazineRevisiting the Aurora Spaceman Legend4 Oct 2024 — Then in 1980, Time magazine complicated matters with an assertion of...</span></span></span>
 
 Pegues’ statement carries weight for several reasons:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,16 +312,14 @@ One disputed point concerns Judge Proctor’s windmill. Pegues reportedly sugges
 
 That does not prove an alien crash occurred, but it weakens the idea that every physical detail in Haydon’s article was entirely invented. A real windmill could have existed even if the extraordinary parts of the story were fabricated.
 
-
 <img src="{{ "/assets/images/Aurora_Texas_airship_165367_haydon_hoax_theory_86c8ef-Illustration-2-dark.svg" | relative_url }}" alt="Hoax Theory illustration 2" data-theme-src-dark="{{ "/assets/images/Aurora_Texas_airship_165367_haydon_hoax_theory_86c8ef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aurora_Texas_airship_165367_haydon_hoax_theory_86c8ef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Was the story meant as satire, fiction, or local promotion?
 
 One reason the Aurora case remains culturally durable is that the original article sits awkwardly between journalism and folklore. Modern readers often expect a clear distinction between factual reporting and fictional entertainment, but nineteenth-century newspapers frequently blurred those boundaries.
 
-The “mystery airship” wave of 1896–1897 produced many stories that mixed eyewitness claims, humour, exaggeration, and satire. Newspapers competed fiercely for readers, and sensational airship stories sold papers. Some reports were probably sincere misidentifications; others were obvious jokes; many occupied a grey area between the two. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas | TX AlmanacThen on April 19, S. E. Haydon, a correspondent for the News reported that an airship h...</span></span></span>
+The “mystery airship” wave of 1896–1897 produced many stories that mixed eyewitness claims, humour, exaggeration, and satire. Newspapers competed fiercely for readers, and sensational airship stories sold papers. Some reports were probably sincere misidentifications; others were obvious jokes; many occupied a grey area between the two. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-snippet">TX AlmanacWhen Airships Invaded Texas &#124; TX AlmanacThen on April 19, S. E. Haydon, a correspondent for the News reported that an airship h...</span></span></span>
 
 Within that environment, Haydon’s article may not have been intended as a lasting deception at all. It could have functioned as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -340,7 +334,6 @@ The later UFO era transformed the meaning of the article. After the flying sauce
 
 That retrospective reinterpretation is a major reason the hoax theory has become more persuasive to many historians than to committed UFO believers. The original article emerged from a recognisable newspaper culture of exaggeration, not from a modern investigative framework concerned with evidence preservation, witness interviews, or scientific inquiry.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QJuMSxt4cUQ" title="Aurora, Texas UFO Crash 1897 | Exploring America’s First Alien Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QJuMSxt4cUQ" target="_blank" rel="noopener noreferrer">Aurora, Texas UFO Crash 1897 | Exploring America’s First Alien Mystery</a></p><p class="youtube-embed-meta">Channel: Travels with Nick &middot; Views: 32.9K &middot; Uploaded: July 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QJuMSxt4cUQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QJuMSxt4cUQ">Open on YouTube</a></p></div></div></div>
 
 ## Why the hoax theory never fully closed the case
@@ -349,7 +342,7 @@ Despite its strengths, the hoax explanation has never completely erased belief i
 
 ### Persistent local tradition
 
-Aurora preserved the tale through oral history, cemetery lore, and tourism long after the original article faded from newspapers. Legends that survive across generations often acquire an emotional authority independent of documentary proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History | Aurora, TX.The original front page of the Dallas Morning News,</span><span class="citation-popover-snippet">April 19, 1897. This was provided to us by “Alien Agenda” author, Jim Marrs. Mr. Marrs pointed out, there...Read more...</span><span class="citation-popover-meta">Published: April 19, 1897</span></span></span>
+Aurora preserved the tale through oral history, cemetery lore, and tourism long after the original article faded from newspapers. Legends that survive across generations often acquire an emotional authority independent of documentary proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History &#124; Aurora, TX.The original front page of the Dallas Morning News,</span><span class="citation-popover-snippet">April 19, 1897. This was provided to us by “Alien Agenda” author, Jim Marrs. Mr. Marrs pointed out, there...Read more...</span><span class="citation-popover-meta">Published: April 19, 1897</span></span></span>
 
 ### Claims of physical traces
 
@@ -359,7 +352,6 @@ Researchers later pointed to alleged debris fragments, cemetery anomalies, and r
 
 The 1897 article itself never explicitly declared it was fictional. That ambiguity leaves room for competing interpretations. A modern reader may see obvious satire, while another may interpret the same wording as earnest reporting filtered through nineteenth-century language and assumptions.
 
-
 <img src="{{ "/assets/images/Aurora_Texas_airship_165367_haydon_hoax_theory_86c8ef-Illustration-3-dark.svg" | relative_url }}" alt="Hoax Theory illustration 3" data-theme-src-dark="{{ "/assets/images/Aurora_Texas_airship_165367_haydon_hoax_theory_86c8ef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aurora_Texas_airship_165367_haydon_hoax_theory_86c8ef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### UFO culture changed the story's meaning
 
@@ -367,51 +359,93 @@ By the late twentieth century, Aurora had become symbolically important as a “
 
 ## The most likely historical reading
 
-Most mainstream historians and Texas history writers now treat the Aurora crash as a probable newspaper fabrication or heavily embellished local legend rather than evidence of an extraterrestrial event. The timing of the article, Aurora’s economic decline, the culture of sensational airship reporting, and Etta Pegues’ later testimony all support that interpretation. Texas State Historical Association <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6881563/americana-close-encounters-of-a-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">americana close encounters of a kind</span><span class="citation-popover-snippet">TimeAmericana: Close Encounters of a Kind11 Mar 1979 — “Hayden wrote it as a joke and to bring interest to Aurora,” says Etta Pegues, 86...</span></span></span>
+Most mainstream historians and Texas history writers now treat the Aurora crash as a probable newspaper fabrication or heavily embellished local legend rather than evidence of an extraterrestrial event. The timing of the article, Aurora’s economic decline, the culture of sensational airship reporting, and Etta Pegues’ later testimony all support that interpretation. Texas State Historical Association <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6881563/americana-close-encounters-of-a-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">americana close encounters of a kind</span><span class="citation-popover-snippet">Americana: Close Encounters of a Kind11 Mar 1979 — “Hayden wrote it as a joke and to bring interest to Aurora,” says Etta Pegues, 86...</span></span></span>
 
 At the same time, the hoax theory does not neatly explain every later claim associated with the case because many of those claims emerged decades afterward through retelling, embellishment, and UFO-era reinterpretation. The result is a layered story in which a likely publicity stunt evolved into one of America’s most famous pre-Roswell UFO legends.
 
 The enduring fascination lies less in whether an alien craft crashed in Aurora and more in how a struggling nineteenth-century town, a colourful newspaper article, and decades of retelling combined to create a myth that still attracts curiosity more than a century later.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Was the Aurora Crash a Newspaper Hoax?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Was the Aurora Crash a Newspaper Hoax?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s a Horse&#x27;s Life! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=swoVJIlrzmgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for It&#x27;s a Horse&#x27;s Life!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s a Horse&#x27;s Life!">It&#x27;s a Horse&#x27;s Life!</a>
+        </h4>
+        <p class="fr-book-author">By Joanne Friedman</p>
+        
+        <p class="fr-book-desc">Examines S.E. Haydon&#x27;s journalistic career, the bypassing of Aurora by the railroad, and the Etta Pegues debunking files.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cold+War+Culture+by+Richard+Alan+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cold War Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6mUssPcOR4MC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cold War Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cold+War+Culture+by+Richard+Alan+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cold War Culture">Cold War Culture</a>
+        </h4>
+        <p class="fr-book-author">By Richard Alan Schwartz</p>
+        
+        <p class="fr-book-desc">Profiles the classic late-19th-century newspaper tradition of printing wild fabrications to draw commerce to fading rural outposts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cold+War+Culture+by+Richard+Alan+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encyclopedia+of+Hoaxes+by+Gordon+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encyclopedia of Hoaxes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ub4YAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Encyclopedia of Hoaxes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Encyclopedia+of+Hoaxes+by+Gordon+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encyclopedia of Hoaxes">Encyclopedia of Hoaxes</a>
+        </h4>
+        <p class="fr-book-author">By Gordon Stein</p>
+        
+        <p class="fr-book-desc">Catalogs the Aurora crash alongside historic American tall tales engineered during periods of deep civic anxiety.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Encyclopedia+of+Hoaxes+by+Gordon+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Civil+War+Sites+by+James+Campi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Civil War Sites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BvNjvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Civil War Sites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Civil+War+Sites+by+James+Campi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Civil War Sites">Civil War Sites</a>
+        </h4>
+        <p class="fr-book-author">By James Campi, Civil War Preservation Trust</p>
+        
+        <p class="fr-book-desc">Details the cultural background of Wise County, Texas, and how historical decline set the stage for Haydon&#x27;s joke.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Civil+War+Sites+by+James+Campi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s a Horse&#x27;s Life!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cold+War+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cold War Culture</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encyclopedia+of+Hoaxes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encyclopedia of Hoaxes</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -448,15 +482,15 @@ The enduring fascination lies less in whether an alien craft crashed in Aurora a
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Detailed Silver Airship Zeppelin Desk Top Display 1/500 Model 17 Inch"><img src="{{ '/assets/images/marketplace-covers/645c75cbaabc8310988e.jpg' | relative_url }}" alt="Listing image for Detailed Silver Airship Zeppelin Desk Top Display 1/500 Model 17 Inch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">Detailed Silver Airship Zeppelin Desk Top Display 1/500 Model 17 Inch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for zeppelin model">Search <span data-ebay-domain-label>eBay.co.uk</span>: zeppelin model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -464,15 +498,15 @@ The enduring fascination lies less in whether an alien craft crashed in Aurora a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zeppelin Metal Model Graf Zeppelin Aircraft 3D Laser Cut Model Kit Hobbies Gift"><img src="{{ '/assets/images/marketplace-covers/7b9d91bb743342de298a.jpg' | relative_url }}" alt="Listing image for Zeppelin Metal Model Graf Zeppelin Aircraft 3D Laser Cut Model Kit Hobbies Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">Zeppelin Metal Model Graf Zeppelin Aircraft 3D Laser Cut Model Kit Hobbies Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for zeppelin model">Search <span data-ebay-domain-label>eBay.co.uk</span>: zeppelin model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -480,31 +514,15 @@ The enduring fascination lies less in whether an alien craft crashed in Aurora a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zeppelin Airship Laser Cut Wooden - Steampunk Air Ship - 3D Model/Puzzle Kit"><img src="{{ '/assets/images/marketplace-covers/d131895dc73fc49f2eec.jpg' | relative_url }}" alt="Listing image for Zeppelin Airship Laser Cut Wooden - Steampunk Air Ship - 3D Model/Puzzle Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">Zeppelin Airship Laser Cut Wooden - Steampunk Air Ship - 3D Model/Puzzle Kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for zeppelin model">Search <span data-ebay-domain-label>eBay.co.uk</span>: zeppelin model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,7 +530,7 @@ The enduring fascination lies less in whether an alien craft crashed in Aurora a
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=zeppelin+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="zeppelin model" data-ebay-reference="hoax-theory-71ebaa-was-the-aurora-crash-a-newspaper-hoax-aurora-texas-airship-crash-1897-zeppelin-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -728,134 +746,134 @@ The enduring fascination lies less in whether an alien craft crashed in Aurora a
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Aurora, Texas, UFO incident  
-   Link: [https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident](https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Aurora%2C_Texas%2C_UFO_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: tshaonline.org  
-   Link: [https://www.tshaonline.org/texas-day-by-day/entry/118](https://www.tshaonline.org/texas-day-by-day/entry/118)  
+   Link: <a href="https://www.tshaonline.org/texas-day-by-day/entry/118" target="_blank" rel="noopener noreferrer nofollow">https://www.tshaonline.org/texas-day-by-day/entry/118</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas State Historical AssociationAuthor attempts to jump-start town with fictional UFO story19 Apr 2026 — On this day in 1897, SE Haydon...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: time.com  
    Title: americana close encounters of a kind  
-   Link: [https://time.com/archive/6881563/americana-close-encounters-of-a-kind/](https://time.com/archive/6881563/americana-close-encounters-of-a-kind/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TimeAmericana: Close Encounters of a Kind11 Mar 1979 — “Hayden wrote it as a joke and to bring interest to Aurora,” says Etta Pegues, 86...</p></details>
+   Link: <a href="https://time.com/archive/6881563/americana-close-encounters-of-a-kind/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6881563/americana-close-encounters-of-a-kind/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Americana: Close Encounters of a Kind11 Mar 1979 — “Hayden wrote it as a joke and to bring interest to Aurora,” says Etta Pegues, 86...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: auroratexas.gov  
    Title: History | Aurora, TX.The original front page of the Dallas Morning News,  
-   Link: [https://www.auroratexas.gov/community/history/](https://www.auroratexas.gov/community/history/)  
+   Link: <a href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.auroratexas.gov/community/history/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 19, 1897. This was provided to us by “Alien Agenda” author, Jim Marrs. Mr. Marrs pointed out, there...Read more...</p></details>
    Published: April 19, 1897  
 
 5. <a id="endnote-5"></a>
    Source: texasalmanac.com  
-   Link: [https://www.texasalmanac.com/articles/when-airships-invaded-texas](https://www.texasalmanac.com/articles/when-airships-invaded-texas)  
+   Link: <a href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.texasalmanac.com/articles/when-airships-invaded-texas</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TX AlmanacWhen Airships Invaded Texas | TX AlmanacThen on April 19, S. E. Haydon, a correspondent for the News reported that an airship h...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: [https://en.wikipedia.org/wiki/Mystery_airship](https://en.wikipedia.org/wiki/Mystery_airship)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
 
 7. <a id="endnote-7"></a>
    Source: fwtx.com  
    Title: the aurora spaceman legend  
-   Link: [https://fwtx.com/culture/the-aurora-spaceman-legend/](https://fwtx.com/culture/the-aurora-spaceman-legend/)  
+   Link: <a href="https://fwtx.com/culture/the-aurora-spaceman-legend/" target="_blank" rel="noopener noreferrer nofollow">https://fwtx.com/culture/the-aurora-spaceman-legend/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fort Worth MagazineRevisiting the Aurora Spaceman Legend4 Oct 2024 — Then in 1980, Time magazine complicated matters with an assertion of...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: in the spring of 1897 a reported ufo crash occurred on a farm near aurora in wis  
-   Link: [https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/](https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/)  
+   Link: <a href="https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the spring of 1897, a reported UFO 👽 crash occurred...Nearly a century later, Aurora resident Etta Pegues alleged in a Time magazine...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: List of UFO-related hoaxes  
-   Link: [https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes](https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_UFO-related_hoaxes</a>  
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/txchronicles/posts/on-this-day-in-1897-s-e-haydon-a-cotton-buyer-in-the-small-wise-county-town-of-a/1503421094773592/](https://www.facebook.com/txchronicles/posts/on-this-day-in-1897-s-e-haydon-a-cotton-buyer-in-the-small-wise-county-town-of-a/1503421094773592/)  
+   Link: <a href="https://www.facebook.com/txchronicles/posts/on-this-day-in-1897-s-e-haydon-a-cotton-buyer-in-the-small-wise-county-town-of-a/1503421094773592/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/on-this-day-in-1897-s-e-haydon-a-cotton-buyer-in-the-small-wise-county-town-of-a/1503421094773592/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1897, S. E. Haydon, a cotton buyer...On this day in 1897, S. E. Haydon, a cotton buyer in the small Wise County town of A...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: the aurora ufo crash of 1897 ufo texas txchron  
-   Link: [https://www.facebook.com/txchronicles/posts/the-aurora-ufo-crash-of-1897-ufo-texas-txchron/1322641396184897/](https://www.facebook.com/txchronicles/posts/the-aurora-ufo-crash-of-1897-ufo-texas-txchron/1322641396184897/)  
+   Link: <a href="https://www.facebook.com/txchronicles/posts/the-aurora-ufo-crash-of-1897-ufo-texas-txchron/1322641396184897/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/the-aurora-ufo-crash-of-1897-ufo-texas-txchron/1322641396184897/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aurora UFO Crash of 1897: #ufo #texas #txchronIn 1980, Time Magazine conducted an interview with Aurora resident Etta Pegues who was...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: on this day in 1897 an intriguing tale emerged in the pages of the dallas mornin  
-   Link: [https://www.facebook.com/txchronicles/posts/on-this-day-in-1897-an-intriguing-tale-emerged-in-the-pages-of-the-dallas-mornin/970202201428820/](https://www.facebook.com/txchronicles/posts/on-this-day-in-1897-an-intriguing-tale-emerged-in-the-pages-of-the-dallas-mornin/970202201428820/)  
+   Link: <a href="https://www.facebook.com/txchronicles/posts/on-this-day-in-1897-an-intriguing-tale-emerged-in-the-pages-of-the-dallas-mornin/970202201428820/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/on-this-day-in-1897-an-intriguing-tale-emerged-in-the-pages-of-the-dallas-mornin/970202201428820/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day in 1897, an intriguing tale emerged... - Facebook... Aurora resident Etta Pegues who was 86 at the time... hoax to counter...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Timetravelersnostalgia/posts/passing-this-on-to-the-ufo-lovers-i-had-heard-of-this-before-but-did-not-know-th/1860647637293436/](https://www.facebook.com/Timetravelersnostalgia/posts/passing-this-on-to-the-ufo-lovers-i-had-heard-of-this-before-but-did-not-know-th/1860647637293436/)  
+   Link: <a href="https://www.facebook.com/Timetravelersnostalgia/posts/passing-this-on-to-the-ufo-lovers-i-had-heard-of-this-before-but-did-not-know-th/1860647637293436/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Timetravelersnostalgia/posts/passing-this-on-to-the-ufo-lovers-i-had-heard-of-this-before-but-did-not-know-th/1860647637293436/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sident Etta Pegues alleged in a Time magazine...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: blog.newspapers.com  
    Title: before roswell there was the aurora spaceship  
-   Link: [https://blog.newspapers.com/before-roswell-there-was-the-aurora-spaceship/](https://blog.newspapers.com/before-roswell-there-was-the-aurora-spaceship/)  
+   Link: <a href="https://blog.newspapers.com/before-roswell-there-was-the-aurora-spaceship/" target="_blank" rel="noopener noreferrer nofollow">https://blog.newspapers.com/before-roswell-there-was-the-aurora-spaceship/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell, There Was the Aurora Spaceship28 Oct 2025 — In 1897, a small Texas town was changed forever by a newspaper article about a Marti...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40solidi/the-aurora-incident-roswell-of-texas-ce68156ee8d9](https://medium.com/%40solidi/the-aurora-incident-roswell-of-texas-ce68156ee8d9)  
+   Link: <a href="https://medium.com/%40solidi/the-aurora-incident-roswell-of-texas-ce68156ee8d9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40solidi/the-aurora-incident-roswell-of-texas-ce68156ee8d9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aurora Incident: Roswell of Texas | by Doug ArcuriTwo days later, reporter S.E. Haydon of the Dallas Morning News captured the incide...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thetravellingfool.com  
    Title: aurora texas mystery the curious story behind the legend of ned  
-   Link: [https://thetravellingfool.com/aurora-texas-mystery-the-curious-story-behind-the-legend-of-ned/](https://thetravellingfool.com/aurora-texas-mystery-the-curious-story-behind-the-legend-of-ned/)  
+   Link: <a href="https://thetravellingfool.com/aurora-texas-mystery-the-curious-story-behind-the-legend-of-ned/" target="_blank" rel="noopener noreferrer nofollow">https://thetravellingfool.com/aurora-texas-mystery-the-curious-story-behind-the-legend-of-ned/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora Texas Mystery: The Curious Story Behind...31 Oct 2025 — A strange 1897 newspaper report turns Aurora, Texas into a place with a c...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Title: 1897 ufo crash in aurora texas martian pilot was  
-   Link: [https://www.reddit.com/r/UFOs/comments/1chzffr/1897_ufo_crash_in_aurora_texas_martian_pilot_was/](https://www.reddit.com/r/UFOs/comments/1chzffr/1897_ufo_crash_in_aurora_texas_martian_pilot_was/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1chzffr/1897_ufo_crash_in_aurora_texas_martian_pilot_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1chzffr/1897_ufo_crash_in_aurora_texas_martian_pilot_was/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1897 UFO Crash in Aurora, Texas | &quot;Martian pilot&quot; was...In 1979, Time magazine interviewed Etta Pegues who claimed that [Aurora resident...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1fjhhvs/serious_on_april_17th_1897_a_ufo_crashed_into_a/](https://www.reddit.com/r/aliens/comments/1fjhhvs/serious_on_april_17th_1897_a_ufo_crashed_into_a/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1fjhhvs/serious_on_april_17th_1897_a_ufo_crashed_into_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fjhhvs/serious_on_april_17th_1897_a_ufo_crashed_into_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On April 17th, 1897 a ufo crashed into a windmill in Aurora...From Wikipedia: “The hoax theory is primarily based on a 1980 Time magazin...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=Ba9lUNgR_Pk](http://www.youtube.com/watch?v=Ba9lUNgR_Pk)  
+   Link: <a href="http://www.youtube.com/watch?v=Ba9lUNgR_Pk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Ba9lUNgR_Pk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Aurora Texas airship crash 1897](&amp;#123;&amp;#123; &#x27;aurora-texas-airship-crash-1897/&#x27; | relative_url &amp;#125;&amp;#125;) hoax Aurora Texas – An 1897 Legend of a Crashed Spacecraft and Alien Burial Undiscovered Origins...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: the-line-up.com  
-   Link: [https://the-line-up.com/the-aurora-encounter-alien-graveyard](https://the-line-up.com/the-aurora-encounter-alien-graveyard)  
+   Link: <a href="https://the-line-up.com/the-aurora-encounter-alien-graveyard" target="_blank" rel="noopener noreferrer nofollow">https://the-line-up.com/the-aurora-encounter-alien-graveyard</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The LineupThe Aurora Encounter: The Shocking True Story - The Lineup14 Mar 2024 — A 1979 Time magazine interview with Aurora resident Ett...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theordinaryextraordinarycemetery.com  
    Title: the legend of the aurora texas ufo crash  
-   Link: [https://www.theordinaryextraordinarycemetery.com/blog/the-legend-of-the-aurora-texas-ufo-crash/](https://www.theordinaryextraordinarycemetery.com/blog/the-legend-of-the-aurora-texas-ufo-crash/)  
+   Link: <a href="https://www.theordinaryextraordinarycemetery.com/blog/the-legend-of-the-aurora-texas-ufo-crash/" target="_blank" rel="noopener noreferrer nofollow">https://www.theordinaryextraordinarycemetery.com/blog/the-legend-of-the-aurora-texas-ufo-crash/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Legend of the Aurora, Texas UFO Crash2 Apr 2024 — An alleged UFO crash in 1897 and the purported burial of its extraterrestrial pilot...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: goodreads.com  
    Title: 18887653 aurora texas 1897 ufo crash  
-   Link: [https://www.goodreads.com/en/book/show/18887653-aurora-texas-1897-ufo-crash](https://www.goodreads.com/en/book/show/18887653-aurora-texas-1897-ufo-crash)  
+   Link: <a href="https://www.goodreads.com/en/book/show/18887653-aurora-texas-1897-ufo-crash" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/18887653-aurora-texas-1897-ufo-crash</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora Texas 1897 UFO Crash: The Real Story?17 Nov 2013 — 6-1/2 years before the Wright Brothers took flight, there was a report of an &quot;a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: drkr1.substack.com  
    Title: the airship of aurora a texas legend  
-   Link: [https://drkr1.substack.com/p/the-airship-of-aurora-a-texas-legend?action=share](https://drkr1.substack.com/p/the-airship-of-aurora-a-texas-legend?action=share)  
+   Link: <a href="https://drkr1.substack.com/p/the-airship-of-aurora-a-texas-legend?action=share" target="_blank" rel="noopener noreferrer nofollow">https://drkr1.substack.com/p/the-airship-of-aurora-a-texas-legend?action=share</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Etta Pegues, an 86-year-old Aurora resident and local historian.... Around 1891, the Fort Worth and Denver City Railroad announced it would...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: olliewatson.co.uk  
-   Link: [https://www.olliewatson.co.uk/ufology/aurora-ufo-incident](https://www.olliewatson.co.uk/ufology/aurora-ufo-incident)  
+   Link: <a href="https://www.olliewatson.co.uk/ufology/aurora-ufo-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.olliewatson.co.uk/ufology/aurora-ufo-incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora UFO incident - Ollie Watson&#x27;s WebsiteThere have been claims that the crash at Aurora was a hoax, but there has been no conclusive...</p></details>

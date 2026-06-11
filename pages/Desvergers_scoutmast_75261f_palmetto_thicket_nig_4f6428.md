@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /desvergers-scoutmaster-sighting-1952/
 nav_short_title: The Night
 title: What Happened in the Palmetto Thicket?
-title_full: What Happened in the Palmetto Thicket? | Desvergers
+title_full: What Happened in the Palmetto Thicket?
 display_title_short: The Night
 display_title: The Night
 heading_title: What Happened in the Palmetto Thicket?
@@ -239,7 +239,7 @@ next_link:
   permalink: /trace-evidence/
   short_title: Trace Evidence
   heading_title: Why Did the Physical Evidence Matter?
-date: '2026-06-08 23:33:02 '
+date: '2026-06-11 13:19:57 '
 header:
   og_image: /assets/images/Desvergers_scoutmast_75261f_palmetto_thicket_nig_4f6428-Illustration-1-social.jpg
   preview_image: /assets/images/Desvergers_scoutmast_75261f_palmetto_thicket_nig_4f6428-Illustration-1.webp
@@ -249,7 +249,6 @@ image: /assets/images/Desvergers_scoutmast_75261f_palmetto_thicket_nig_4f6428-Il
 ## Introduction
 
 On the night of 19 August 1952, scoutmaster Dunham Sanborn “Sonny” Desvergers claimed he walked alone into a dense palmetto thicket near West Palm Beach, Florida, after seeing strange lights from the roadside. Minutes later, according to his account, he encountered a large hovering object, was engulfed by a burst of red fire or mist, and staggered back out burned, terrified and partially blinded. The episode became the emotional and evidential core of the wider Desvergers sighting case because it combined dramatic testimony, frightened witnesses, physical injuries and rapid police involvement. At the same time, it also exposed the weaknesses of the story: inconsistent details, difficult terrain, and lingering suspicion that the entire encounter may have been staged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY TV Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">TV Nederland This Scoutmaster Had a Run-in with a UFO</span><span class="citation-popover-snippet">The Kids Saw...23 Aug 2018 — On a humid, August night in 1952, scoutmaster DS “Sonny” DesVergers emerged burned and barely coherent from...</span></span></span> 2nicap.org
-
 
 <img src="{{ "/assets/images/Desvergers_scoutmast_75261f_palmetto_thicket_nig_4f6428-Illustration-1-dark.svg" | relative_url }}" alt="The Night illustration 1" data-theme-src-dark="{{ "/assets/images/Desvergers_scoutmast_75261f_palmetto_thicket_nig_4f6428-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Desvergers_scoutmast_75261f_palmetto_thicket_nig_4f6428-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Unlike many UFO reports of the 1952 wave, the central question here was not simply whether lights had been seen in the sky. It was whether something tangible happened inside the Florida scrub that night — and whether Desvergers himself could be trusted.
@@ -275,7 +274,7 @@ The geography also complicated later reconstruction attempts. Investigators arri
 
 ## What Desvergers Said Happened in the Thicket
 
-Once inside the scrub, Desvergers claimed the atmosphere changed abruptly. He described a strong pungent odour, unusual heat and a sensation that something massive was hanging overhead. Ruppelt later recorded that Desvergers said the sky above him appeared blocked out by a dark circular object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/812590669/Shapes-in-the-Sky-07-Fantastic-Universe-1958-01" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Shapes in the Sky 07 Fantastic Universe 1958 01</span><span class="citation-popover-snippet">ScribdShapes in The Sky 07 (Fantastic Universe 1958-01) | PDFAs DesVergers told the story to Ruppelt, the first unusual thing he noticed...</span></span></span>
+Once inside the scrub, Desvergers claimed the atmosphere changed abruptly. He described a strong pungent odour, unusual heat and a sensation that something massive was hanging overhead. Ruppelt later recorded that Desvergers said the sky above him appeared blocked out by a dark circular object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/812590669/Shapes-in-the-Sky-07-Fantastic-Universe-1958-01" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Shapes in the Sky 07 Fantastic Universe 1958 01</span><span class="citation-popover-snippet">Shapes in The Sky 07 (Fantastic Universe 1958-01) &#124; PDFAs DesVergers told the story to Ruppelt, the first unusual thing he noticed...</span></span></span>
 
 According to his version of events, the object resembled a metallic disc or dome-shaped craft with openings or ports around its rim. He estimated it was low above the vegetation and either silent or nearly silent. He then reported seeing a glowing red sphere emerge from the object.
 
@@ -306,7 +305,6 @@ Law enforcement officers and local residents soon arrived. By the time Desverger
 
 Yet the witness testimony also had limitations:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The scouts did not see the alleged craft directly from close range.
@@ -317,14 +315,12 @@ Yet the witness testimony also had limitations:
 
 This distinction mattered. The boys could confirm unusual lights and Desvergers’ distressed condition, but not the central claim that a structured craft attacked him.
 
-
 <img src="{{ "/assets/images/Desvergers_scoutmast_75261f_palmetto_thicket_nig_4f6428-Illustration-2-dark.svg" | relative_url }}" alt="The Night illustration 2" data-theme-src-dark="{{ "/assets/images/Desvergers_scoutmast_75261f_palmetto_thicket_nig_4f6428-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Desvergers_scoutmast_75261f_palmetto_thicket_nig_4f6428-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Investigators Initially Took the Story Seriously
 
 The Desvergers case arrived during the peak of the 1952 American UFO wave, when Project Blue Book was under pressure to investigate reports more rigorously than earlier Air Force programmes had done. Ruppelt himself travelled to Florida because the case appeared stronger than ordinary “light in the sky” sightings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Edward J. Ruppelt</span><span class="citation-popover-snippet">May 25, 2005 — Ruppelt was the director of Project Grudge in 1949 and then Project Blue Book in March 1952; he remained with Blue Book un...</span><span class="citation-popover-meta">Published: May 25, 2005</span></span></span>
 
 Several features made the incident unusually compelling at first glance:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -339,7 +335,6 @@ Several features made the incident unusually compelling at first glance:
 Ruppelt later noted that Desvergers initially answered questions naturally rather than reciting a rigid script. Investigators also examined the ground, photographed scorched vegetation and collected physical items including the cap and machete. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">a flying saucer. Partin telephoned the U.S. Air...Read more...</span></span></span>
 
 The encounter therefore became one of the early “physical trace” UFO cases — incidents where alleged material effects accompanied the testimony.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hdH3h_Wa6gE" title="Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer">Project Blue Book Sneak Peek: The True Story Behind the Government&#x27;s UFO Investigation - IGN First</a></p><p class="youtube-embed-meta">Channel: IGN &middot; Views: 413.4K &middot; Uploaded: September 2018 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hdH3h_Wa6gE">Open on YouTube</a></p></div></div></div>
 
@@ -365,14 +360,12 @@ Third, sceptics believed the burns could have been produced artificially. Some s
 
 Finally, there was a structural problem with the case itself: no independent observer ever entered the thicket during the alleged encounter. The entire extraordinary portion of the story depended on a single witness operating alone in darkness.
 
-
 <img src="{{ "/assets/images/Desvergers_scoutmast_75261f_palmetto_thicket_nig_4f6428-Illustration-3-dark.svg" | relative_url }}" alt="The Night illustration 3" data-theme-src-dark="{{ "/assets/images/Desvergers_scoutmast_75261f_palmetto_thicket_nig_4f6428-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Desvergers_scoutmast_75261f_palmetto_thicket_nig_4f6428-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Lasting Debate Around the Night
 
 The palmetto thicket episode remains one of the most argued-over moments in early American UFO history because it resists easy categorisation.
 
 Believers continue to point to:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -385,7 +378,6 @@ Believers continue to point to:
 </div>
 
 Sceptics counter that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -400,44 +392,86 @@ Sceptics counter that:
 Even among UFO researchers, the incident often serves less as proof of extraterrestrial visitation than as a case study in how difficult eyewitness investigation becomes under stress, darkness and media attention. The night in the palmetto thicket sits precisely at the boundary where testimony, fear, physical traces and possible deception overlap. That tension is why the case still appears in discussions of Project Blue Book more than seventy years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY TV Nederland 3nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">TV Nederland This Scoutmaster Had a Run-in with a UFO</span><span class="citation-popover-snippet">The Kids Saw...23 Aug 2018 — On a humid, August night in 1952, scoutmaster DS “Sonny” DesVergers emerged burned and barely coherent from...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Happened in the Palmetto Thicket?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Happened in the Palmetto Thicket?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Sonny Desvergers guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Sonny+Desvergers+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Records the scoutmaster&#x27;s narrative as reported during the 1952 Blue Book investigation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Desvergers burns guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Desvergers+burns+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides objective chronological details of the palmetto thicket encounter, distinguishing between firsthand testimony and popular retell...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Palmetto scrub guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Palmetto+scrub+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Details the investigative steps required to evaluate claims that emerge from difficult terrain like Florida palmetto groves.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides institutional background on how 1950s investigative bureaus indexed and eventually closed difficult sighting cases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -474,15 +508,15 @@ Even among UFO researchers, the incident often serves less as proof of extraterr
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -490,15 +524,15 @@ Even among UFO researchers, the incident often serves less as proof of extraterr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +540,15 @@ Even among UFO researchers, the incident often serves less as proof of extraterr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +556,15 @@ Even among UFO researchers, the incident often serves less as proof of extraterr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/1c88b7bbf9dcca7c2052.jpg' | relative_url }}" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,7 +572,7 @@ Even among UFO researchers, the incident often serves less as proof of extraterr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="the-night-what-happened-in-the-palmetto-thicket-desvergers-scoutmaster-sighting-1952-ufo-poster-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -754,118 +788,118 @@ Even among UFO researchers, the incident often serves less as proof of extraterr
 1. <a id="endnote-1"></a>
    Source: history.com  
    Title: TV Nederland This Scoutmaster Had a Run-in with a UFO  
-   Link: [https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned](https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned)  
+   Link: <a href="https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/ufo-encounter-florida-desvergers-scoutmaster-burned</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kids Saw...23 Aug 2018 — On a humid, August night in 1952, scoutmaster DS “Sonny” DesVergers emerged burned and barely coherent from...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/scoutmas.htm](https://www.nicap.org/scoutmas.htm)  
+   Link: <a href="https://www.nicap.org/scoutmas.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/scoutmas.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Florida Scoutmaster CaseRuppelt personally questioned DesVergers upon arriving in Florida. He did so at regular intervals, determining th...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/bhoax.htm](https://www.nicap.org/bhoax.htm)  
+   Link: <a href="https://www.nicap.org/bhoax.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bhoax.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>a flying saucer. Partin telephoned the U.S. Air...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: saturdaynightuforia.com  
-   Link: [https://www.saturdaynightuforia.com/html/articles/articlehtml/thescoutmasterstale.html](https://www.saturdaynightuforia.com/html/articles/articlehtml/thescoutmasterstale.html)  
+   Link: <a href="https://www.saturdaynightuforia.com/html/articles/articlehtml/thescoutmasterstale.html" target="_blank" rel="noopener noreferrer nofollow">https://www.saturdaynightuforia.com/html/articles/articlehtml/thescoutmasterstale.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scoutmaster&#x27;s TaleIn the interim DesVergers had been examined by the local medical officer, as requested by Ruppelt, this examination...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: scribd.com  
    Title: Shapes in the Sky 07 Fantastic Universe 1958 01  
-   Link: [https://www.scribd.com/document/812590669/Shapes-in-the-Sky-07-Fantastic-Universe-1958-01](https://www.scribd.com/document/812590669/Shapes-in-the-Sky-07-Fantastic-Universe-1958-01)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdShapes in The Sky 07 (Fantastic Universe 1958-01) | PDFAs DesVergers told the story to Ruppelt, the first unusual thing he noticed...</p></details>
+   Link: <a href="https://www.scribd.com/document/812590669/Shapes-in-the-Sky-07-Fantastic-Universe-1958-01" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/812590669/Shapes-in-the-Sky-07-Fantastic-Universe-1958-01</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shapes in The Sky 07 (Fantastic Universe 1958-01) | PDFAs DesVergers told the story to Ruppelt, the first unusual thing he noticed...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Edward J. Ruppelt  
-   Link: [https://en.wikipedia.org/wiki/Edward_J._Ruppelt](https://en.wikipedia.org/wiki/Edward_J._Ruppelt)  
+   Link: <a href="https://en.wikipedia.org/wiki/Edward_J._Ruppelt" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edward_J._Ruppelt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 25, 2005 — Ruppelt was the director of Project Grudge in 1949 and then Project Blue Book in March 1952; he remained with Blue Book un...</p></details>
    Published: May 25, 2005  
 
 7. <a id="endnote-7"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: time.graphics  
-   Link: [https://time.graphics/event/8404813](https://time.graphics/event/8404813)  
+   Link: <a href="https://time.graphics/event/8404813" target="_blank" rel="noopener noreferrer nofollow">https://time.graphics/event/8404813</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>He stopped to investigate and later emerged terrified, signed with burns after a...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sasquatchchronicles.com  
-   Link: [https://sasquatchchronicles.com/the-scoutmaster-had-a-run-in-with-a-ufo/](https://sasquatchchronicles.com/the-scoutmaster-had-a-run-in-with-a-ufo/)  
+   Link: <a href="https://sasquatchchronicles.com/the-scoutmaster-had-a-run-in-with-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://sasquatchchronicles.com/the-scoutmaster-had-a-run-in-with-a-ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>He claimed he had encountered an unidentified...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: denofgeek.com  
    Title: project blue book season 1 episode 7 review  
-   Link: [https://www.denofgeek.com/tv/project-blue-book-season-1-episode-7-review/](https://www.denofgeek.com/tv/project-blue-book-season-1-episode-7-review/)  
+   Link: <a href="https://www.denofgeek.com/tv/project-blue-book-season-1-episode-7-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.denofgeek.com/tv/project-blue-book-season-1-episode-7-review/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ruppelt personally investigated the case. Ruppelt says one of the deputies on the scene who had...Read more...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/scoutmaster.html](https://www.ufocasebook.com/scoutmaster.html)  
+   Link: <a href="https://www.ufocasebook.com/scoutmaster.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/scoutmaster.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Physical Trace Cases, Florida ScoutmasterRuppelt would interview DesVergers several times, and remarked that the Scoutmaster remember...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 remained &quot;un...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: popularmechanics.com  
    Title: j allen hynek project blue book ufo investigation truth  
-   Link: [https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/](https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/)  
+   Link: <a href="https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/a70995826/j-allen-hynek-project-blue-book-ufo-investigation-truth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Allen Hynek &amp; Project Blue Book: UFO Secrets Revealed12 Apr 2026 — Explore the UFO mysteries J. Allen Hynek uncovered with Project Blue B...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hdH3h_Wa6gE](https://www.youtube.com/watch?v=hdH3h_Wa6gE)  
+   Link: <a href="https://www.youtube.com/watch?v=hdH3h_Wa6gE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hdH3h_Wa6gE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The HISTORY® Channel Canada &amp;middot; 103K views; 1975 interview with a man who claims he was...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt](https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt)  
+   Link: <a href="https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/1966CoralLorenzenFlyingSaucersTheStartlingEvidenceOfTheInvasionFromOuterSpacenotOCR/%281966%29%20Coral%20Lorenzen%20-%20Flying%20Saucers%2C%20The%20Startling%20Evidence%20of%20the%20Invasion%20From%20Outer%20Space%20%28not%20OCR%29_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFull text of &quot;(1966) Coral Lorenzen Flying Saucers, The...) The near-landing took place in a palmetto thicket near West...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: upload.wikimedia.org  
    Title: Project Blue Book, BBA PBSR2 300  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/e/ea/Project_Blue_Book%2C_BBA-PBSR2-300.pdf](https://upload.wikimedia.org/wikipedia/commons/e/ea/Project_Blue_Book%2C_BBA-PBSR2-300.pdf)  
+   Link: <a href="https://upload.wikimedia.org/wikipedia/commons/e/ea/Project_Blue_Book%2C_BBA-PBSR2-300.pdf" target="_blank" rel="noopener noreferrer nofollow">https://upload.wikimedia.org/wikipedia/commons/e/ea/Project_Blue_Book%2C_BBA-PBSR2-300.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book ArchiveThe Project Blue Book Archive contains tens of thousands of documents generated by United. States Air Force inve...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ufohelp.com  
    Title: Florida Scoutmaster  
-   Link: [https://www.ufohelp.com/Classic%20Sightings/Florida%20Scoutmaster.htm](https://www.ufohelp.com/Classic%20Sightings/Florida%20Scoutmaster.htm)  
+   Link: <a href="https://www.ufohelp.com/Classic%20Sightings/Florida%20Scoutmaster.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohelp.com/Classic%20Sightings/Florida%20Scoutmaster.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Help IndexDS &quot;Sonny&quot; Desvergers, a scoutmaster of Troop 33, reported observing an unusual object about 1.2 km south of the Lantana Ro...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DTJRBb2jxf9/](https://www.instagram.com/p/DTJRBb2jxf9/)  
+   Link: <a href="https://www.instagram.com/p/DTJRBb2jxf9/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTJRBb2jxf9/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artist&#x27;s Conception of Florida Scoutmaster Case, 1952 One...5 Jan 2026 — A deputy sheriff noted that Desvergers&#x27;s arms and face appeared...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: The Sonny Des Vergers UFO  
-   Link: [https://www.youtube.com/shorts/UdnbSoDaAqg](https://www.youtube.com/shorts/UdnbSoDaAqg)  
+   Link: <a href="https://www.youtube.com/shorts/UdnbSoDaAqg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/UdnbSoDaAqg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sonny DesVergers UFO - uapIn this video, I look at the strange Sonny DesVergers UFO case from August 19th, 1952. DesVergers, a scoutm...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: vault.fbi.gov  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20/Project%20Blue%20Book%20%28UFO%29%20Part%2001%20%28Final%29/at_download/file</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO) part 1 of 1On December 17, 1969 the Secretary of the. Air Force announced the termination of. Project Blue. Book, the. Ai...</p></details>
-   Published: December 17, 1969  
+   Published: December 17, 1969

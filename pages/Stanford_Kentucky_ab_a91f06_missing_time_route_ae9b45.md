@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /stanford-kentucky-abduction-1976/
 nav_short_title: Missing Time
 title: Where Did the Missing Time Go?
-title_full: Where Did the Missing Time Go? | Stanford Abduction
+title_full: Where Did the Missing Time Go?
 display_title_short: Missing Time
 display_title: Missing Time
 heading_title: Where Did the Missing Time Go?
@@ -233,7 +233,7 @@ next_link:
   permalink: /testing-claims/
   short_title: Testing Claims
   heading_title: Did the Investigation Shape the Story?
-date: '2026-06-08 23:32:45 '
+date: '2026-06-11 13:19:51 '
 header:
   og_image: /assets/images/Stanford_Kentucky_ab_a91f06_missing_time_route_ae9b45-Illustration-1-social.jpg
   preview_image: /assets/images/Stanford_Kentucky_ab_a91f06_missing_time_route_ae9b45-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/Stanford_Kentucky_ab_a91f06_missing_time_route_ae9b45-Illu
 ## Introduction
 
 The most enduring mystery in the 1976 Stanford, Kentucky abduction case is not the later hypnosis material or the alleged medical examinations. It is the drive itself: a short journey that should have taken well under an hour but allegedly ended with roughly eighty-five minutes unaccounted for. The women involved — Louise Smith, Mona Stafford and Elaine Thomas — consistently framed the experience around a disrupted route between Stanford and Liberty, Kentucky, late on the night of 6 January 1976. The timeline, the road geography and the claimed loss of normal vehicle control became the foundation on which the larger abduction narrative was later built. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/1976-stanford-kentucky-abductions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">1976 stanford kentucky abductions</span><span class="citation-popover-snippet">The 1976 Stanford, Kentucky Abductions26 Apr 2016 — It would be on January, 6, 1976 that Mona Stafford, Louise Smith, and Elaine Thomas w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://completely-kentucky.fandom.com/wiki/Stanford_Abduction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: completely-kentucky.fandom.com">[2completely-kentucky.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">completely-kentucky.fandom.com</span><span class="citation-popover-title">Stanford Abduction</span><span class="citation-popover-snippet">To celebrate, she and her friends Louise Smith and Elaine Thomas decided to drive thirty-five miles from...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_missing_time_route_ae9b45-Illustration-1-dark.svg" | relative_url }}" alt="Missing Time illustration 1" data-theme-src-dark="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_missing_time_route_ae9b45-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_missing_time_route_ae9b45-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That route matters because it is one of the few parts of the case that can be examined in practical terms. The women were travelling on known roads, in winter conditions, across a measurable distance. Investigators and sceptics alike therefore focused on the same core question: how could a routine return drive from a birthday dinner turn into a journey with a major chronological gap and fragmented memories?
@@ -258,7 +257,6 @@ This missing interval became central to the entire case because it was not initi
 
 Several features of the route made the discrepancy seem unusual to investigators:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The roads involved were familiar to the women.
@@ -269,7 +267,6 @@ Several features of the route made the discrepancy seem unusual to investigators
 </div>
 
 Because of that, the timeline itself became a form of indirect evidence. Believers interpreted it as classic “missing time”, a feature already associated with UFO encounter reports in the 1960s and 1970s. Sceptics, by contrast, argued that estimated departure and arrival times are often less reliable than people assume, especially after a frightening or emotionally charged event.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aP3H5KVls5U" title="Alien Abduction &amp; Missing Time | 3 Women Share their Ordeal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aP3H5KVls5U" target="_blank" rel="noopener noreferrer">Alien Abduction &amp; Missing Time | 3 Women Share their Ordeal</a></p><p class="youtube-embed-meta">Channel: Weird World &middot; Views: 17.2K &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aP3H5KVls5U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aP3H5KVls5U">Open on YouTube</a></p></div></div></div>
 
@@ -293,7 +290,6 @@ Yet the route sequence also exposes one of the case’s central evidential probl
 
 That does not necessarily mean the women fabricated the event. It does, however, mean that the strongest elements of the route story remain subjective.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FAAFOzax29g" title="Unsolved Mysteries: The 1976 Alien Abduction in Stanford, KY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FAAFOzax29g" target="_blank" rel="noopener noreferrer">Unsolved Mysteries: The 1976 Alien Abduction in Stanford, KY</a></p><p class="youtube-embed-meta">Channel: Scott County Public Library &middot; Views: 24.9K &middot; Uploaded: July 2021 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FAAFOzax29g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FAAFOzax29g">Open on YouTube</a></p></div></div></div>
 
 ## The eight-mile puzzle and the missing interval
@@ -303,7 +299,6 @@ One repeated claim in later summaries is that the women suddenly found themselve
 This detail is important because it narrows the alleged “blank” period to a specific stretch of roadway rather than an undefined period somewhere later in the night. In UFO literature, this became treated as a classic missing-time episode: conscious awareness appeared to stop during the most intense phase of the encounter and resume farther along the route.
 
 Supporters of the abduction interpretation argued that several associated details reinforced the seriousness of the event:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,14 +315,12 @@ A key historical point is that the route mystery existed before the fully elabor
 
 For critics, that chronology matters enormously. They argue the route anomaly may have been genuine confusion or panic, while the more elaborate abduction memories could have been shaped later through suggestion, cultural expectations or repeated questioning.
 
-
 <img src="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_missing_time_route_ae9b45-Illustration-2-dark.svg" | relative_url }}" alt="Missing Time illustration 2" data-theme-src-dark="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_missing_time_route_ae9b45-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_missing_time_route_ae9b45-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How later retellings changed the timeline
 
 One reason the Stanford-to-Liberty route remains controversial is that the story did not stay fixed. As the case entered UFO literature, certain elements became sharper, more cinematic and more detailed.
 
 Early summaries concentrated on:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -351,14 +344,12 @@ This evolution reflects a wider pattern in 1970s abduction cases. Missing-time r
 
 That context does not automatically invalidate the Stanford case, but it complicates attempts to treat later narratives as untouched eyewitness memory.
 
-
 <img src="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_missing_time_route_ae9b45-Illustration-3-dark.svg" | relative_url }}" alt="Missing Time illustration 3" data-theme-src-dark="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_missing_time_route_ae9b45-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_missing_time_route_ae9b45-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the route still matters to researchers and sceptics
 
 The Stanford-to-Liberty journey remains the strongest single structural element of the entire case because it involves ordinary, testable realities: roads, clocks, mileage and travel time. Even researchers who doubt the extraterrestrial explanation often acknowledge that the women appear to have experienced a genuinely frightening event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/1976-stanford-kentucky-abductions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">1976 stanford kentucky abductions</span><span class="citation-popover-snippet">The 1976 Stanford, Kentucky Abductions26 Apr 2016 — It would be on January, 6, 1976 that Mona Stafford, Louise Smith, and Elaine Thomas w...</span></span></span>
 
 Believers focus on several aspects of the route story:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -370,7 +361,6 @@ Believers focus on several aspects of the route story:
 </div>
 
 Sceptics counter with equally significant objections:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -385,49 +375,89 @@ The route mystery therefore survives not because it proves alien abduction, but 
 
 For many readers, the missing-time route remains more compelling than the later abduction imagery precisely because it feels grounded in ordinary experience. Three women drove home late at night on familiar roads and arrived far later than expected with confused memories of what happened in between. Everything else in the Stanford case grew out of that unexplained stretch of highway.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6e5Lf3nvTmU" title="LEX18 Investigates UFO Abduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6e5Lf3nvTmU" target="_blank" rel="noopener noreferrer">LEX18 Investigates UFO Abduction</a></p><p class="youtube-embed-meta">Channel: LEX18 &middot; Views: 29.1K &middot; Uploaded: July 2011 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6e5Lf3nvTmU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6e5Lf3nvTmU">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Where Did the Missing Time Go?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Where Did the Missing Time Go?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Stanford Kentucky guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Stanford+Kentucky+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides the foundational chronology for the Kentucky case, allowing readers to map out the journey route and time gaps.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Missing Time guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Missing+Time+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+        </h4>
+        <p class="fr-book-author">By John E. Mack, Mack</p>
+        
+        <p class="fr-book-desc">Explains how road-based, late-night driving stressors form the backdrop against which extraordinary reports are interpreted.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Redwoods Restaurant guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Redwoods+Restaurant+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Addresses how routine travel stresses distort perceptions of time and memory.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Traces the importance of checking logs and distance markers to verify witness chronologies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -464,15 +494,15 @@ For many readers, the missing-time route remains more compelling than the later 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -480,15 +510,15 @@ For many readers, the missing-time route remains more compelling than the later 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/ecf1364ac1fcde60335d.jpg' | relative_url }}" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -496,15 +526,15 @@ For many readers, the missing-time route remains more compelling than the later 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,15 +542,15 @@ For many readers, the missing-time route remains more compelling than the later 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,7 +558,7 @@ For many readers, the missing-time route remains more compelling than the later 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="missing-time-where-did-the-missing-time-go-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -743,39 +773,39 @@ For many readers, the missing-time route remains more compelling than the later 
 
 1. <a id="endnote-1"></a>
    Source: theblackvault.com  
-   Title: 1976 [stanford kentucky](&#123;&#123; 'stanford-kentucky-abduction-1976/' | relative_url &#125;&#125;) abductions  
-   Link: [https://www.theblackvault.com/casefiles/1976-stanford-kentucky-abductions/](https://www.theblackvault.com/casefiles/1976-stanford-kentucky-abductions/)  
+   Title: 1976 stanford kentucky abductions  
+   Link: <a href="https://www.theblackvault.com/casefiles/1976-stanford-kentucky-abductions/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/1976-stanford-kentucky-abductions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1976 Stanford, Kentucky Abductions26 Apr 2016 — It would be on January, 6, 1976 that Mona Stafford, Louise Smith, and Elaine Thomas w...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: completely-kentucky.fandom.com  
    Title: Stanford Abduction  
-   Link: [https://completely-kentucky.fandom.com/wiki/Stanford_Abduction](https://completely-kentucky.fandom.com/wiki/Stanford_Abduction)  
+   Link: <a href="https://completely-kentucky.fandom.com/wiki/Stanford_Abduction" target="_blank" rel="noopener noreferrer nofollow">https://completely-kentucky.fandom.com/wiki/Stanford_Abduction</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>To celebrate, she and her friends Louise Smith and Elaine Thomas decided to drive thirty-five miles from...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: citybeat.com  
-   Link: [https://www.citybeat.com/news/cover-story-a-close-encounter-with-jerry-black-12215115/](https://www.citybeat.com/news/cover-story-a-close-encounter-with-jerry-black-12215115/)  
+   Link: <a href="https://www.citybeat.com/news/cover-story-a-close-encounter-with-jerry-black-12215115/" target="_blank" rel="noopener noreferrer nofollow">https://www.citybeat.com/news/cover-story-a-close-encounter-with-jerry-black-12215115/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cincinnati CityBeatCover Story: A Close Encounter with Jerry Black3 May 2001 — Although Smith took her foot off the gas pedal, the car co...</p></details>
    Published: May 2001  
 
 4. <a id="endnote-4"></a>
    Source: wkdq.com  
    Title: stanford kentucky alien abduction mystery  
-   Link: [https://wkdq.com/stanford-kentucky-alien-abduction-mystery/](https://wkdq.com/stanford-kentucky-alien-abduction-mystery/)  
+   Link: <a href="https://wkdq.com/stanford-kentucky-alien-abduction-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://wkdq.com/stanford-kentucky-alien-abduction-mystery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>99.5 WKDQ1976 Standford KY Abduction Mystery31 Jan 2025 — In January 1976, three women from Stanford, Kentucky, reported a chilling encou...</p></details>
    Published: January 1976  
 
 5. <a id="endnote-5"></a>
    Source: music.amazon.com  
-   Link: [https://music.amazon.com/es-co/podcasts/1beebcc0-4e45-4eb7-89ef-3490181ef93d/episodes/5300dc7c-26a2-45bb-b265-a15eb31f86d5/ufo---extraterrestrial-reality-three-women-abducted-by-aliens-in-kentucky-farmer-finds-ufo-green-penguin-like-aliens-near-barn](https://music.amazon.com/es-co/podcasts/1beebcc0-4e45-4eb7-89ef-3490181ef93d/episodes/5300dc7c-26a2-45bb-b265-a15eb31f86d5/ufo---extraterrestrial-reality-three-women-abducted-by-aliens-in-kentucky-farmer-finds-ufo-green-penguin-like-aliens-near-barn)  
+   Link: <a href="https://music.amazon.com/es-co/podcasts/1beebcc0-4e45-4eb7-89ef-3490181ef93d/episodes/5300dc7c-26a2-45bb-b265-a15eb31f86d5/ufo---extraterrestrial-reality-three-women-abducted-by-aliens-in-kentucky-farmer-finds-ufo-green-penguin-like-aliens-near-barn" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/1beebcc0-4e45-4eb7-89ef-3490181ef93d/episodes/5300dc7c-26a2-45bb-b265-a15eb31f86d5/ufo---extraterrestrial-reality-three-women-abducted-by-aliens-in-kentucky-farmer-finds-ufo-green-penguin-like-aliens-near-barn</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon MusicThree Women Abducted by Aliens in Kentucky/Farmer...9 Jan 2024 — Story One: In January 1976, three Kentucky women - Louise S...</p></details>
    Published: January 1976  
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
    Title: To celebrate, she and her friends Louise Smith  
-   Link: [https://www.facebook.com/chriscavanaughthemadhiker/posts/stanford-kentucky-alien-abduction-on-january-6-1976-was-mona-staffords-36th-birt/2036169273402550/](https://www.facebook.com/chriscavanaughthemadhiker/posts/stanford-kentucky-alien-abduction-on-january-6-1976-was-mona-staffords-36th-birt/2036169273402550/)  
+   Link: <a href="https://www.facebook.com/chriscavanaughthemadhiker/posts/stanford-kentucky-alien-abduction-on-january-6-1976-was-mona-staffords-36th-birt/2036169273402550/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/chriscavanaughthemadhiker/posts/stanford-kentucky-alien-abduction-on-january-6-1976-was-mona-staffords-36th-birt/2036169273402550/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford, Kentucky Alien Abduction 👇👇👇 On January 6...16 Sept 2023 — Stanford, Kentucky Alien Abduction On January 6, 1976 was Mona S...</p></details>
    Published: January 6, 1976  
 
@@ -784,59 +814,59 @@ For many readers, the missing-time route remains more compelling than the later 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: a ufo containing a woman named nancy dunaway dropped her off in front the county  
-   Link: [https://www.facebook.com/genealogytip/posts/a-ufo-containing-a-woman-named-nancy-dunaway-dropped-her-off-in-front-the-county/10159303106919379/](https://www.facebook.com/genealogytip/posts/a-ufo-containing-a-woman-named-nancy-dunaway-dropped-her-off-in-front-the-county/10159303106919379/)  
+   Link: <a href="https://www.facebook.com/genealogytip/posts/a-ufo-containing-a-woman-named-nancy-dunaway-dropped-her-off-in-front-the-county/10159303106919379/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/genealogytip/posts/a-ufo-containing-a-woman-named-nancy-dunaway-dropped-her-off-in-front-the-county/10159303106919379/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A UFO containing a woman named Nancy Dunaway...The Kentucky Abduction APRO Bulletin, Vol. 25 No. 4 (Oct 1976) Article/report of APRO&#x27;s i...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: in january 1976 three women from stanford kentucky reported a chilling encounter  
-   Link: [https://www.facebook.com/99.5WKDQ/posts/in-january-1976-three-women-from-stanford-kentucky-reported-a-chilling-encounter/1078077310990980/](https://www.facebook.com/99.5WKDQ/posts/in-january-1976-three-women-from-stanford-kentucky-reported-a-chilling-encounter/1078077310990980/)  
+   Link: <a href="https://www.facebook.com/99.5WKDQ/posts/in-january-1976-three-women-from-stanford-kentucky-reported-a-chilling-encounter/1078077310990980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/99.5WKDQ/posts/in-january-1976-three-women-from-stanford-kentucky-reported-a-chilling-encounter/1078077310990980/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In January 1976, three women from Stanford, Kentucky...Three women from Stanford, Kentucky, reported a chilling encounter with a UFO tha...</p></details>
    Published: january 1976  
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: the 1976 alien abduction in stanford ky join library assistant michael as he exa  
-   Link: [https://www.facebook.com/scottpublib/posts/the-1976-alien-abduction-in-stanford-ky-join-library-assistant-michael-as-he-exa/10158750769074681/](https://www.facebook.com/scottpublib/posts/the-1976-alien-abduction-in-stanford-ky-join-library-assistant-michael-as-he-exa/10158750769074681/)  
+   Link: <a href="https://www.facebook.com/scottpublib/posts/the-1976-alien-abduction-in-stanford-ky-join-library-assistant-michael-as-he-exa/10158750769074681/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/scottpublib/posts/the-1976-alien-abduction-in-stanford-ky-join-library-assistant-michael-as-he-exa/10158750769074681/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Join library...When I was a young man, my grandfather told me of an abduction of three women who lived in Liberty, Kentucky where I was...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: gabbininthewoods.podbean.com  
    Title: ep 143 kentucky fried chicks the stanford alien abduction  
-   Link: [https://gabbininthewoods.podbean.com/e/ep-143-kentucky-fried-chicks-the-stanford-alien-abduction/](https://gabbininthewoods.podbean.com/e/ep-143-kentucky-fried-chicks-the-stanford-alien-abduction/)  
+   Link: <a href="https://gabbininthewoods.podbean.com/e/ep-143-kentucky-fried-chicks-the-stanford-alien-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://gabbininthewoods.podbean.com/e/ep-143-kentucky-fried-chicks-the-stanford-alien-abduction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Stanford Alien Abduction8 Aug 2023 — Liz and Jon get in their Chevy Nova and drive into the strange tale of the abduction of Louise S...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theinteriorjournal.com  
    Title: publisher seeks information from 1976 ufo sighting  
-   Link: [https://theinteriorjournal.com/2017/10/29/publisher-seeks-information-from-1976-ufo-sighting/](https://theinteriorjournal.com/2017/10/29/publisher-seeks-information-from-1976-ufo-sighting/)  
+   Link: <a href="https://theinteriorjournal.com/2017/10/29/publisher-seeks-information-from-1976-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://theinteriorjournal.com/2017/10/29/publisher-seeks-information-from-1976-ufo-sighting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mona Stafford, Louise Smith and Elaine Thomas. I am including this and many other sightings in a revsied Volume of Haunted skies. Any hel...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: avalonlibrary.net  
    Title: UF O ABDUCTIONS: THE MEASURE OF A MYSTERY  
-   Link: [https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf](https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf)  
+   Link: <a href="https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/ebooks/Bullard%2C%20Thomas%20-%20UFO%20Abductions%2C%20The%20Measure%20of%20a%20Mystery%20-%20Volume%202.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TiMe Lapse I Abduction Cases &lt;32-58). 03. SiMple Abduction Cases (59-76). 04. Abduction and ExaMination--Highway Hijack &lt;77-105). 05. Abd...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: The Stanford, Kentucky alien abductions,  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/wkjwks/the_stanford_kentucky_alien_abductions_january_6/](https://www.reddit.com/r/HighStrangeness/comments/wkjwks/the_stanford_kentucky_alien_abductions_january_6/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/wkjwks/the_stanford_kentucky_alien_abductions_january_6/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/wkjwks/the_stanford_kentucky_alien_abductions_january_6/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 6, 1976:...The following tape contains a description of an encounter with the ufo as experienced by three women in Kentucky on J...</p></details>
    Published: January 6, 1976  
 
 14. <a id="endnote-14"></a>
    Source: americanyawp.com  
-   Link: [https://www.americanyawp.com/text/wp-content/uploads/yawp_v2_open_pdf.pdf](https://www.americanyawp.com/text/wp-content/uploads/yawp_v2_open_pdf.pdf)  
+   Link: <a href="https://www.americanyawp.com/text/wp-content/uploads/yawp_v2_open_pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.americanyawp.com/text/wp-content/uploads/yawp_v2_open_pdf.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>atal. Brakemen were also responsible...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Autoblog/posts/two-people-took-a-custom-ufo-car-from-indianapolis-to-new-mexico-grabbing-tons-o/859192849404569/](https://www.facebook.com/Autoblog/posts/two-people-took-a-custom-ufo-car-from-indianapolis-to-new-mexico-grabbing-tons-o/859192849404569/)  
+   Link: <a href="https://www.facebook.com/Autoblog/posts/two-people-took-a-custom-ufo-car-from-indianapolis-to-new-mexico-grabbing-tons-o/859192849404569/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Autoblog/posts/two-people-took-a-custom-ufo-car-from-indianapolis-to-new-mexico-grabbing-tons-o/859192849404569/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of law enforcement attention along the way...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Unusual articles  
-   Link: [https://en.wikipedia.org/wiki/Wikipedia%3AUnusual_articles](https://en.wikipedia.org/wiki/Wikipedia%3AUnusual_articles)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia:Unusual articlesOf the over seven million articles in the English Wikipedia, there are some articles that Wikipedians have i...</p></details>
+   Link: <a href="https://en.wikipedia.org/wiki/Wikipedia%3AUnusual_articles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Wikipedia%3AUnusual_articles</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unusual articlesOf the over seven million articles in the English Wikipedia, there are some articles that Wikipedians have i...</p></details>

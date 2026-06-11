@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /valentich-disappearance-1978/
 nav_short_title: Search Records
 title: What Did Searchers Actually Find?
-title_full: What Did Searchers Actually Find? | Valentich
+title_full: What Did Searchers Actually Find?
 display_title_short: Search Records
 display_title: Search Records
 heading_title: What Did Searchers Actually Find?
@@ -239,7 +239,7 @@ next_link:
   permalink: /ufo-debate/
   short_title: UFO Debate
   heading_title: UFO Encounter or Fatal Misreading?
-date: '2026-06-08 23:24:46 '
+date: '2026-06-11 13:15:27 '
 header:
   og_image: /assets/images/Valentich_disappeara_592d85_search_records_trace_275ff2-Illustration-1-social.jpg
   preview_image: /assets/images/Valentich_disappeara_592d85_search_records_trace_275ff2-Illustration-1.webp
@@ -249,7 +249,6 @@ image: /assets/images/Valentich_disappeara_592d85_search_records_trace_275ff2-Il
 ## Introduction
 
 The official record of the Valentich disappearance is narrower and more cautious than many later retellings suggest. Australian authorities treated the case first as a missing-aircraft emergency over Bass Strait, not as a confirmed UFO incident. Search aircraft, ships and coastal observers were deployed across a large stretch of water after Frederick Valentich’s final transmission on 21 October 1978, yet no confirmed wreckage, body or emergency beacon was found during the operation. The Department of Transport eventually concluded only that the cause of the disappearance “has not been determined” and that Valentich was presumed dead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">n by a community in space and that.Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/Valentich_disappeara_592d85_search_records_trace_275ff2-Illustration-1-dark.svg" | relative_url }}" alt="Search Records illustration 1" data-theme-src-dark="{{ "/assets/images/Valentich_disappeara_592d85_search_records_trace_275ff2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valentich_disappeara_592d85_search_records_trace_275ff2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What complicates the often-repeated claim that “nothing was ever found” is a later discovery on Flinders Island: an engine cowl flap linked to a narrow range of Cessna 182 aircraft serial numbers that included Valentich’s aircraft, VH-DSJ. The fragment did not conclusively prove the aircraft’s fate, but it weakened the stronger versions of the “vanished without trace” narrative and became one of the most important physical clues in the entire case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ed ashore on Flinders Island. In July 1983, the Bureau...Read more...</span><span class="citation-popover-meta">Published: July 1983</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/wiki.php?id=166155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-snippet">Aviation Safety NetworkAccident Cessna 182L Skylane VH-DSJ, Saturday 21...Five years after Valentich&#x27;s plane went missing, an engine cow...</span></span></span>
@@ -261,7 +260,6 @@ What complicates the often-repeated claim that “nothing was ever found” is a
 Melbourne Flight Service lost effective communication with Valentich shortly after his final transmission at around 19:12 local time. Once he failed to arrive at King Island, authorities escalated the matter into a search-and-rescue operation focused on southern Victoria and Bass Strait. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[documents.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">n by a community in space and that.Read more...</span></span></span>
 
 Official and later aviation summaries describe a sizeable search effort involving:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -284,7 +282,6 @@ Searchers reportedly examined an oil slick near Cape Otway during the operation,
 
 The absence of wreckage therefore created an unresolved disappearance rather than a formally inexplicable event. In aviation terms, a missing aircraft over water with no recovery was unusual but not unprecedented.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6LNnWxi_lw4" title="UFOs or PILOT error? | The Disappearance of Frederick Valentich" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6LNnWxi_lw4" target="_blank" rel="noopener noreferrer">UFOs or PILOT error? | The Disappearance of Frederick Valentich</a></p><p class="youtube-embed-meta">Channel: Bearing Unknown &middot; Views: 2.1K &middot; Uploaded: December 2025 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6LNnWxi_lw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6LNnWxi_lw4">Open on YouTube</a></p></div></div></div>
 
 ## What the Department of Transport Actually Concluded
@@ -295,7 +292,7 @@ The Department of Transport investigation did not endorse a UFO explanation, nor
 
 That distinction is important because later summaries often compress the official position into one of two extremes:
 
-* “Authorities said it was definitely pilot error.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=6LNnWxi_lw4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">UFOs or PILOT error? | The Disappearance of Frederick...I&#x27;m going to talk about the theories of the explanations of his disappearance in...</span></span></span>
+* “Authorities said it was definitely pilot error.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=6LNnWxi_lw4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">UFOs or PILOT error? &#124; The Disappearance of Frederick...I&#x27;m going to talk about the theories of the explanations of his disappearance in...</span></span></span>
 * “Authorities admitted it was unexplained and possibly extraterrestrial.”
 
 Neither description matches the surviving record particularly well.
@@ -308,7 +305,6 @@ Because there was no radar-confirmed unknown aircraft and no physical evidence o
 
 The official search records indirectly strengthened these sceptical interpretations. If a large unknown craft had physically interacted with VH-DSJ, investigators would normally expect at least one of the following:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * corroborating radar data,
@@ -319,7 +315,6 @@ The official search records indirectly strengthened these sceptical interpretati
 </div>
 
 None emerged from the documented search or investigation. That absence does not disprove extraordinary claims, but it limits how strongly they can be supported by the official evidence base.
-
 
 <img src="{{ "/assets/images/Valentich_disappeara_592d85_search_records_trace_275ff2-Illustration-2-dark.svg" | relative_url }}" alt="Search Records illustration 2" data-theme-src-dark="{{ "/assets/images/Valentich_disappeara_592d85_search_records_trace_275ff2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valentich_disappeara_592d85_search_records_trace_275ff2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Flinders Island Cowl-Flap Discovery
@@ -334,7 +329,6 @@ The Bureau of Air Safety Investigation then consulted the Royal Australian Navy 
 
 This was the first physical item plausibly connected to VH-DSJ ever discussed in official records.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XyoTqjvEEQ4" title="DREAD: The Unsolved - The Flight Beyond - Special Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XyoTqjvEEQ4" target="_blank" rel="noopener noreferrer">DREAD: The Unsolved - The Flight Beyond - Special Report</a></p><p class="youtube-embed-meta">Channel: Dread Central &middot; Views: 8.2K &middot; Uploaded: March 2019 &middot; Length: 1 minute 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XyoTqjvEEQ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XyoTqjvEEQ4">Open on YouTube</a></p></div></div></div>
 
 ### Why the discovery mattered
@@ -347,7 +341,6 @@ For sceptics, the discovery supported a simpler interpretation: the aircraft pro
 
 For UFO advocates, however, the evidence remained inconclusive because the part could not be uniquely tied to Valentich’s aircraft.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VAj3tV19pd0" title="Top 10 Disappearances That Can&#x27;t Be Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VAj3tV19pd0" target="_blank" rel="noopener noreferrer">Top 10 Disappearances That Can&#x27;t Be Explained</a></p><p class="youtube-embed-meta">Channel: WatchMojo.com &middot; Views: 36.6K &middot; Uploaded: May 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VAj3tV19pd0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VAj3tV19pd0">Open on YouTube</a></p></div></div></div>
 
 ### Why the cowl flap never became definitive proof
@@ -358,12 +351,11 @@ Several limitations prevented it from becoming a decisive identification:
 
 * The part matched a range of Cessna 182 aircraft serial numbers, not only VH-DSJ.
 * Reports circulated that other aircraft in the region may have lost similar parts.
-* Some later discussions claimed the recovered component had characteristics inconsistent with Valentich’s aircraft, including repainting issues, though these claims are unevenly sourced and remain disputed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[unsolvedmysteries.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Frederick Valentich | Unsolved Mysteries Wiki</span><span class="citation-popover-snippet">FandomNo trace of him or his plane has ever been found until 1983 when an engine cowl flap from the same type of Cessna as his plane wash...</span></span></span>
+* Some later discussions claimed the recovered component had characteristics inconsistent with Valentich’s aircraft, including repainting issues, though these claims are unevenly sourced and remain disputed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unsolvedmysteries.fandom.com/wiki/Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unsolvedmysteries.fandom.com">[unsolvedmysteries.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unsolvedmysteries.fandom.com</span><span class="citation-popover-title">Frederick Valentich &#124; Unsolved Mysteries Wiki</span><span class="citation-popover-snippet">No trace of him or his plane has ever been found until 1983 when an engine cowl flap from the same type of Cessna as his plane wash...</span></span></span>
 
 The geography also raised questions. Flinders Island lies well away from the main presumed disappearance area, meaning any connection depended on long-term drift modelling and assumptions about sea movement over several years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://historicflix.com/249/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicflix.com">[Historic Flix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicflix.com</span><span class="citation-popover-snippet">Historic FlixThe Strange Disappearance of Frederick ValentichOn May 16th, 1983, five years after Valentich&#x27;s disappearance, an engine cow...</span></span></span>
 
 As a result, investigators treated the fragment as potentially significant but not conclusive.
-
 
 <img src="{{ "/assets/images/Valentich_disappeara_592d85_search_records_trace_275ff2-Illustration-3-dark.svg" | relative_url }}" alt="Search Records illustration 3" data-theme-src-dark="{{ "/assets/images/Valentich_disappeara_592d85_search_records_trace_275ff2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valentich_disappeara_592d85_search_records_trace_275ff2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Official Record Can and Cannot Support
@@ -379,44 +371,86 @@ The surviving search and investigation records support several points with reaso
 That tension — between a dramatic final radio transmission and a sparse but conventional evidential record — is one reason the Valentich case continues to occupy a strange space between aviation mystery and UFO folklore.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Did Searchers Actually Find?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Did Searchers Actually Find?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Details the Department of Transport findings and catalogs the subsequent Flinders Island engine cowl-flap discovery.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Reproduces the formal RAAF search logs and declassified black-vault document files compiled across southern Victoria.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">No UFO Proof No radar data or external guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=No+UFO+Proof+No+radar+data+or+external+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Addresses why an open official conclusion stating a cause is undetermined is routinely hijacked by popular myth networks.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Explains why linking the recovered Cessna serial numbered part weakens the stronger alien abduction folklore models.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -453,15 +487,15 @@ That tension — between a dramatic final radio transmission and a sparse but co
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -469,15 +503,15 @@ That tension — between a dramatic final radio transmission and a sparse but co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -485,15 +519,15 @@ That tension — between a dramatic final radio transmission and a sparse but co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/172b1b875ec6ecdb1d02.jpg' | relative_url }}" alt="Listing image for WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">WW2 Spitfire Over White Cliffs RAF Aviation Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -501,15 +535,15 @@ That tension — between a dramatic final radio transmission and a sparse but co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/3c567cd1b6b6d3f92b8b.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -517,7 +551,7 @@ That tension — between a dramatic final radio transmission and a sparse but co
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="search-records-what-did-searchers-actually-find-valentich-disappearance-1978-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -732,106 +766,106 @@ That tension — between a dramatic final radio transmission and a sparse but co
 
 1. <a id="endnote-1"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf](https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/australia/B1497_V116-783-1047_10491375.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>n by a community in space and that.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich](https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich)  
+   Link: <a href="https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disappearance_of_Frederick_Valentich</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed ashore on Flinders Island. In July 1983, the Bureau...Read more...</p></details>
    Published: July 1983  
 
 3. <a id="endnote-3"></a>
    Source: aviation-safety.net  
-   Link: [https://aviation-safety.net/wikibase/wiki.php?id=166155](https://aviation-safety.net/wikibase/wiki.php?id=166155)  
+   Link: <a href="https://aviation-safety.net/wikibase/wiki.php?id=166155" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/wiki.php?id=166155</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety NetworkAccident Cessna 182L Skylane VH-DSJ, Saturday 21...Five years after Valentich&#x27;s plane went missing, an engine cow...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: marvmelb.blogspot.com  
    Title: the disappearance of frederick valentich  
-   Link: [https://marvmelb.blogspot.com/2012/11/the-disappearance-of-frederick-valentich.html](https://marvmelb.blogspot.com/2012/11/the-disappearance-of-frederick-valentich.html)  
+   Link: <a href="https://marvmelb.blogspot.com/2012/11/the-disappearance-of-frederick-valentich.html" target="_blank" rel="noopener noreferrer nofollow">https://marvmelb.blogspot.com/2012/11/the-disappearance-of-frederick-valentich.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The search continued for four subsequent days, but no wreckage or any other physical evidence would be found.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: discoveryuk.com  
    Title: Discovery UKMystery or Tragedy: The Frederick Valentich Disappearance  
-   Link: [https://www.discoveryuk.com/mysteries/mystery-or-tragedy-the-frederick-valentich-disappearance/](https://www.discoveryuk.com/mysteries/mystery-or-tragedy-the-frederick-valentich-disappearance/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/mystery-or-tragedy-the-frederick-valentich-disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/mystery-or-tragedy-the-frederick-valentich-disappearance/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 16, 2024 — 16 Dec 2024 — Reports surfacing in the 2010s indicated that the official investigation did indeed find wreckage from...</p></details>
    Published: December 16, 2024  
 
 6. <a id="endnote-6"></a>
    Source: unsolvedmysteries.fandom.com  
    Title: Frederick Valentich | Unsolved Mysteries Wiki  
-   Link: [https://unsolvedmysteries.fandom.com/wiki/Frederick_Valentich](https://unsolvedmysteries.fandom.com/wiki/Frederick_Valentich)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FandomNo trace of him or his plane has ever been found until 1983 when an engine cowl flap from the same type of Cessna as his plane wash...</p></details>
+   Link: <a href="https://unsolvedmysteries.fandom.com/wiki/Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://unsolvedmysteries.fandom.com/wiki/Frederick_Valentich</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>No trace of him or his plane has ever been found until 1983 when an engine cowl flap from the same type of Cessna as his plane wash...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: planecrash.fandom.com  
    Title: Disappearance of Frederick Valentich  
-   Link: [https://planecrash.fandom.com/wiki/Disappearance_of_Frederick_Valentich](https://planecrash.fandom.com/wiki/Disappearance_of_Frederick_Valentich)  
+   Link: <a href="https://planecrash.fandom.com/wiki/Disappearance_of_Frederick_Valentich" target="_blank" rel="noopener noreferrer nofollow">https://planecrash.fandom.com/wiki/Disappearance_of_Frederick_Valentich</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Frederick Valentich - Plane Crash WikiOn October 21, 1978, 20-year-old pilot Frederick Valentich disappeared forever while on a traini...</p></details>
    Published: October 21, 1978  
 
 8. <a id="endnote-8"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/](https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/)  
+   Link: <a href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Valentich Disappearance: Another UFO Cold Case...The missing piece of the puzzle in a strange &#x27;UFO&#x27; case involving...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: historicflix.com  
-   Link: [https://historicflix.com/249/](https://historicflix.com/249/)  
+   Link: <a href="https://historicflix.com/249/" target="_blank" rel="noopener noreferrer nofollow">https://historicflix.com/249/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic FlixThe Strange Disappearance of Frederick ValentichOn May 16th, 1983, five years after Valentich&#x27;s disappearance, an engine cow...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/899531868720663/posts/1326622742678238/](https://www.facebook.com/groups/899531868720663/posts/1326622742678238/)  
+   Link: <a href="https://www.facebook.com/groups/899531868720663/posts/1326622742678238/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/899531868720663/posts/1326622742678238/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frederick Valentich&#x27;s aviation mystery in AustraliaThe official report also refers to the following points... cowl flap was found washed...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: pprune.org  
-   Link: [https://www.pprune.org/pacific-general-aviation-questions/printthread-614584-forty-years.html](https://www.pprune.org/pacific-general-aviation-questions/printthread-614584-forty-years.html)  
+   Link: <a href="https://www.pprune.org/pacific-general-aviation-questions/printthread-614584-forty-years.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pprune.org/pacific-general-aviation-questions/printthread-614584-forty-years.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forty Years On... Valentich.[2] Five years after Valentich&#x27;s aircraft went missing, an engine cowl flap was found washed ashore on Flinde...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: craighill.net  
-   Link: [https://craighill.net/2021/10/21/on-this-day-australia-in-1978-pilot-frederick-valentich-vanished-over-the-bass-strait-after-reporting-contact-with-an-unidentified-aircraft/](https://craighill.net/2021/10/21/on-this-day-australia-in-1978-pilot-frederick-valentich-vanished-over-the-bass-strait-after-reporting-contact-with-an-unidentified-aircraft/)  
+   Link: <a href="https://craighill.net/2021/10/21/on-this-day-australia-in-1978-pilot-frederick-valentich-vanished-over-the-bass-strait-after-reporting-contact-with-an-unidentified-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://craighill.net/2021/10/21/on-this-day-australia-in-1978-pilot-frederick-valentich-vanished-over-the-bass-strait-after-reporting-contact-with-an-unidentified-aircraft/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On this day (Australia): In 1978, pilot Frederick Valentich...Oct 21, 2021 — Five years after Valentich&#x27;s aircraft went missing, an engi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: frederick valentich a 20 year old pilot in training was on a 235km training flig  
-   Link: [https://www.facebook.com/themissingandunsolvedcrimesofsouthaus/posts/frederick-valentich-a-20-year-old-pilot-in-training-was-on-a-235km-training-flig/821670490418755/](https://www.facebook.com/themissingandunsolvedcrimesofsouthaus/posts/frederick-valentich-a-20-year-old-pilot-in-training-was-on-a-235km-training-flig/821670490418755/)  
+   Link: <a href="https://www.facebook.com/themissingandunsolvedcrimesofsouthaus/posts/frederick-valentich-a-20-year-old-pilot-in-training-was-on-a-235km-training-flig/821670490418755/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/themissingandunsolvedcrimesofsouthaus/posts/frederick-valentich-a-20-year-old-pilot-in-training-was-on-a-235km-training-flig/821670490418755/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frederick Valentich, a 20-year-old pilot in training...Five years after Valentich&#x27;s aircraft went missing, an engine cowl flap was found...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40georgek2928/its-not-an-aircraft-the-vanishing-of-frederick-valentich-over-bass-strait-5ec44c3ae533](https://medium.com/%40georgek2928/its-not-an-aircraft-the-vanishing-of-frederick-valentich-over-bass-strait-5ec44c3ae533)  
+   Link: <a href="https://medium.com/%40georgek2928/its-not-an-aircraft-the-vanishing-of-frederick-valentich-over-bass-strait-5ec44c3ae533" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40georgek2928/its-not-an-aircraft-the-vanishing-of-frederick-valentich-over-bass-strait-5ec44c3ae533</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Twenty-year-old Frederick Valentich, alone in a Cessna 182, simply vanished over Australia&#x27;s Bass Strait —...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=6LNnWxi_lw4](https://www.youtube.com/watch?v=6LNnWxi_lw4)  
+   Link: <a href="https://www.youtube.com/watch?v=6LNnWxi_lw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6LNnWxi_lw4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs or PILOT error? | The Disappearance of Frederick...I&#x27;m going to talk about the theories of the explanations of his disappearance in...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bizarrebuttrue.com  
-   Link: [https://bizarrebuttrue.com/bizarre-tv-show/the-pilot-who-vanished/](https://bizarrebuttrue.com/bizarre-tv-show/the-pilot-who-vanished/)  
+   Link: <a href="https://bizarrebuttrue.com/bizarre-tv-show/the-pilot-who-vanished/" target="_blank" rel="noopener noreferrer nofollow">https://bizarrebuttrue.com/bizarre-tv-show/the-pilot-who-vanished/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BIZARRE BUT TRUE!THE PILOT WHO VANISHED - BIZARRE BUT TRUE!Years later, in 1983, a piece of wreckage was found washed ashore on Flinders...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WeirdAndInterestingThings11/posts/-the-disappearance-of-frederick-valentich-1978-on-october-21-1978-a-young-austra/122222442770248090/](https://www.facebook.com/WeirdAndInterestingThings11/posts/-the-disappearance-of-frederick-valentich-1978-on-october-21-1978-a-young-austra/122222442770248090/)  
+   Link: <a href="https://www.facebook.com/WeirdAndInterestingThings11/posts/-the-disappearance-of-frederick-valentich-1978-on-october-21-1978-a-young-austra/122222442770248090/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WeirdAndInterestingThings11/posts/-the-disappearance-of-frederick-valentich-1978-on-october-21-1978-a-young-austra/122222442770248090/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🌟 The Disappearance of Frederick Valentich (1978)...3 Jun 2025 — No wreckage was ever found, and no evidence of a crash was discovered...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: tahs.org.au  
-   Link: [https://tahs.org.au/wp-content/uploads/2020/07/TAHS-2020.0002.0_Mystery-VH-DSJ.pdf](https://tahs.org.au/wp-content/uploads/2020/07/TAHS-2020.0002.0_Mystery-VH-DSJ.pdf)  
+   Link: <a href="https://tahs.org.au/wp-content/uploads/2020/07/TAHS-2020.0002.0_Mystery-VH-DSJ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tahs.org.au/wp-content/uploads/2020/07/TAHS-2020.0002.0_Mystery-VH-DSJ.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Island. In July 1983 the Bureau of Air Safety Investigation asked...Read more...</p></details>
    Published: July 1983  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1kjyswo/the_valentich_disappearance_did_a_ufo_take_him/](https://www.reddit.com/r/UFOs/comments/1kjyswo/the_valentich_disappearance_did_a_ufo_take_him/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kjyswo/the_valentich_disappearance_did_a_ufo_take_him/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kjyswo/the_valentich_disappearance_did_a_ufo_take_him/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ough it was a huge search. The radio message, the last...Read more...</p></details>

@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /kenneth-arnold-s-first-sighting-1947/
 nav_short_title: Saucer Phrase
 title: How One Report Became Flying Saucers
-title_full: How One Report Became Flying Saucers | Arnold Sighting
+title_full: How One Report Became Flying Saucers
 display_title_short: Saucer Phrase
 display_title: Saucer Phrase
 heading_title: How One Report Became Flying Saucers
@@ -233,7 +233,7 @@ prev_link:
   permalink: /flight-path/
   short_title: Flight Path
   heading_title: How the Cascade Sighting Unfolded
-date: '2026-06-08 23:18:24 '
+date: '2026-06-11 13:11:15 '
 header:
   og_image: /assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Illustration-1-social.jpg
   preview_image: /assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Illustration-1.webp
@@ -244,7 +244,6 @@ image: /assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Il
 
 Kenneth Arnold’s 24 June 1947 sighting became historically important not only because of what he claimed to see near Mount Rainier, but because newspapers and radio transformed the report into a new cultural category almost overnight. Within roughly forty-eight hours, a local aviation mystery had become the national “flying saucer” story. The key mechanism was linguistic: Arnold described unusual motion, journalists condensed the description into a memorable image, headline writers amplified it, and readers across the United States began interpreting later aerial sightings through the same label. The result was one of the fastest media-feedback loops in modern folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">Rainier on June 24, 1947... nine bright saucer-like objects” to describe what Arnold said he saw.Read more...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kenneth Arnold UFO sighting</span><span class="citation-popover-snippet">Kenneth Arnold UFO sighting</span></span></span>
 
-
 <img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Illustration-1-dark.svg" | relative_url }}" alt="Saucer Phrase illustration 1" data-theme-src-dark="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The dispute over what Arnold actually meant has never entirely disappeared. Later sceptics argued the entire “flying saucer” era rested on a journalistic misunderstanding, while UFO researchers noted that Arnold also used shape comparisons that genuinely sounded disc-like. The historical record suggests the situation was more complicated than either side often admits: the phrase emerged through a mixture of Arnold’s own wording, editorial shorthand, radio repetition and sensational headlines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailygrail.com/2018/07/return-of-the-flying-saucers-re-evaluating-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailygrail.com">[The Daily Grail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailygrail.com</span><span class="citation-popover-title">return of the flying saucers re evaluating the kenneth arnold ufo sighting</span><span class="citation-popover-snippet">The Daily GrailReturn of the Flying Saucers: Re-evaluating the Kenneth...19 Jul 2018 — The other phrase is to be found in Bill Bequette&#x27;...</span></span></span>
 
@@ -253,7 +252,6 @@ The dispute over what Arnold actually meant has never entirely disappeared. Late
 The first major reporting came from the *East Oregonian* in Pendleton, Oregon, where Arnold landed after the sighting. Reporter Bill Bequette and editor Nolan Skiff interviewed him on 25 June 1947. Their initial article did not yet use the exact phrase “flying saucer”, but it did describe “saucer-like aircraft” moving at extraordinary speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">Rainier on June 24, 1947... nine bright saucer-like objects” to describe what Arnold said he saw.Read more...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
 
 That distinction matters because later retellings often simplify the story into a single mistaken quote. The earliest surviving coverage shows a more gradual evolution. The *East Oregonian* article framed the objects as aviation-shaped mysteries rather than comic-strip spacecraft. Arnold’s account included several overlapping descriptions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -269,7 +267,6 @@ Bequette then transmitted a condensed version of the story through Associated Pr
 
 This process illustrates how mid-century American news distribution worked. A local interview passed through wire-service compression, then through headline editing, then through radio repetition. Each stage favoured vivid, memorable wording over technical precision. “Flying saucer” survived because it was instantly visual and easy to repeat.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ap0whDDDU1Y" title="Where Did The Term &#x27;Flying Saucer&#x27; Come From? | Mossback&#x27;s Northwest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer">Where Did The Term &#x27;Flying Saucer&#x27; Come From? | Mossback&#x27;s Northwest</a></p><p class="youtube-embed-meta">Channel: Cascade PBS &middot; Views: 1.9K &middot; Uploaded: July 2019 &middot; Length: 4 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ap0whDDDU1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ap0whDDDU1Y">Open on YouTube</a></p></div></div></div>
 
 ## Motion Versus Shape Confusion
@@ -277,7 +274,6 @@ This process illustrates how mid-century American news distribution worked. A lo
 The central historical dispute is whether Arnold described the objects as saucer-shaped or only saucer-moving.
 
 Arnold later insisted that reporters misunderstood him. In later interviews, including a 1950 conversation with Edward R. Murrow, he argued that he meant the objects flew “like a saucer if you skip it across water”. According to this version, “saucer” referred to movement rather than structure. Wikipedia History That explanation became extremely influential because it neatly explained how a phrase could accidentally create an entire UFO archetype. Yet <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Kenneth Arnold</span><span class="citation-popover-snippet">UFO, 1947 &amp; Flying Saucer22 Feb 2010 — On June 24, 1947, the civilian pilot Kenneth Arnold reported seeing nine objects, glowing bright b...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span> the surviving 1947 descriptions complicate the picture. Contemporary reports show Arnold using several shape analogies that were at least partly disc-like. He reportedly compared the objects to:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -309,11 +305,10 @@ The surviving evidence supports the second and third [explanations]({{ 'explanat
 
 The speed of amplification in late June and early July 1947 was remarkable even by modern standards. Several conditions helped the phrase spread nationally.
 
-
 <img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Illustration-2-dark.svg" | relative_url }}" alt="Saucer Phrase illustration 2" data-theme-src-dark="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The post-war aviation atmosphere
 
-Americans were already fascinated by experimental aircraft, rockets and jet propulsion after the Second World War. The possibility of secret military technology seemed plausible to many readers. Arnold himself initially wondered whether he had seen advanced aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">Rainier on June 24, 1947... nine bright saucer-like objects” to describe what Arnold said he saw.Read more...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spokesman.com/stories/1997/jun/22/salesman-launched-ufo-age-a-portland-mans/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spokesman.com">[Spokesman-Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spokesman.com</span><span class="citation-popover-title">salesman launched ufo age a portland mans</span><span class="citation-popover-snippet">Spokesman-ReviewSalesman Launched Ufo Age A Portland Man&#x27;s Innocent...22 Jun 1997 — The “flying saucer” age began 50 years ago in the Pa...</span></span></span>
+Americans were already fascinated by experimental aircraft, rockets and jet propulsion after the Second World War. The possibility of secret military technology seemed plausible to many readers. Arnold himself initially wondered whether he had seen advanced aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">Rainier on June 24, 1947... nine bright saucer-like objects” to describe what Arnold said he saw.Read more...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spokesman.com/stories/1997/jun/22/salesman-launched-ufo-age-a-portland-mans/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spokesman.com">[Spokesman-Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spokesman.com</span><span class="citation-popover-title">salesman launched ufo age a portland mans</span><span class="citation-popover-snippet">ReviewSalesman Launched Ufo Age A Portland Man&#x27;s Innocent...22 Jun 1997 — The “flying saucer” age began 50 years ago in the Pa...</span></span></span>
 
 Because the reported speeds exceeded known aviation performance, the story immediately sounded important rather than merely eccentric.
 
@@ -329,59 +324,139 @@ Radio accelerated the process further. In the surviving KWRC broadcast, the inte
 
 Many earlier strange-aircraft reports had failed to create a lasting vocabulary. Arnold’s case succeeded partly because the language was portable and memorable. The phrase could appear equally well in headlines, cartoons, jokes and eyewitness claims.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qJ8eLw7YCMg" title="1st UFO Encounter Podcast - Pilot Kenneth Arnold, June 24, 1947." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qJ8eLw7YCMg" target="_blank" rel="noopener noreferrer">1st UFO Encounter Podcast - Pilot Kenneth Arnold, June 24, 1947.</a></p><p class="youtube-embed-meta">Channel: Howard&#x27;s Tech Blog &middot; Views: 183 &middot; Uploaded: October 2024 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qJ8eLw7YCMg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qJ8eLw7YCMg">Open on YouTube</a></p></div></div></div>
 
 ### The story arrived during a sighting wave
 
-After Arnold’s report became national news, newspapers rapidly collected additional sightings from around the United States. Many of these later reports echoed the saucer terminology directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookThe Library of CongressWhat is regarded as the first modern &quot;flying saucer&quot; sighting occurred on June 24, 1947, when Boise busine...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
+After Arnold’s report became national news, newspapers rapidly collected additional sightings from around the United States. Many of these later reports echoed the saucer terminology directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">The Library of CongressWhat is regarded as the first modern &quot;flying saucer&quot; sighting occurred on June 24, 1947, when Boise busine...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
 
 This created a feedback loop:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. newspapers popularised the phrase;
+2. readers learned what a “flying saucer” supposedly looked like; <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
+3. later witnesses interpreted ambiguous aerial objects through that expectation;
+4. newspapers reported the new sightings using the same language again.
+
+</div>
+
+Modern sociologists of UFO culture often point to this sequence as an early example of media-driven contagion.
+
+## How the Phrase Shaped Later Sightings
+
+Arnold’s original description was actually unusual compared with the classic UFO image that followed. His objects were not clearly circular spacecraft with domes or windows. They were fast, distant, flashing forms seen briefly against mountain terrain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=qJ8eLw7YCMg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">1st UFO Encounter Podcast</span><span class="citation-popover-snippet">Wikipedia...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
+
+Yet within weeks, the “flying saucer” idea had hardened into a standard mental image. Witnesses elsewhere increasingly reported discs, plates and circular craft. Newspapers and popular magazines reinforced the imagery through illustrations that simplified Arnold’s more complicated account into smooth silver discs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://offbeatoregon.com/1807b.flying-saucer-UFO-stories-started-in-pendleton-503.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: offbeatoregon.com">[Offbeat Oregon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">offbeatoregon.com</span><span class="citation-popover-title">1807b.flying saucer UFO stories started in pendleton 503</span><span class="citation-popover-snippet">Bill Bequette started the fad with their article about Kenneth Arnold&#x27;s UFO sighting in the Pendleton East Oregonian, was “The Flying Sau...</span></span></span>
+
+This mattered because the phrase did more than describe sightings: it organised them. Reports that might once have seemed unrelated became grouped together as examples of a single phenomenon. The label effectively created a new category of public experience.
+
+The cultural consequences expanded quickly:
+
+* cartoonists used saucers as political satire;
+* radio comedians treated them as jokes;
+* science-fiction magazines adopted the imagery;
+* military investigators faced rising public pressure to respond;
+* later UFO witnesses often borrowed the same vocabulary unconsciously. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED By early July 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">how ufo sightings became an american obsession</span><span class="citation-popover-snippet">The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</span></span></span>, newspapers were already reporting hundreds of additional sightings across dozens of states. The phrase had escaped the original incident entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/397526214154529/posts/1264748560765619/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">He later clarified that his use of the word saucer...Read more...</span></span></span>
+
+<img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Illustration-3-dark.svg" | relative_url }}" alt="Saucer Phrase illustration 3" data-theme-src-dark="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## A Case Study in Media Amplification
+
+The Arnold story remains important partly because it demonstrates how ambiguity becomes cultural certainty.
+
+At the centre was a real event: a pilot sincerely reported unusual airborne objects. But the historical impact came from interpretation rather than observation alone. Small wording choices changed how millions of people imagined the phenomenon.
+
+Several amplification mechanisms can be traced directly in the surviving record:
+
+MechanismEffectSimplified newspaper wordingTurned a complex description into a memorable labelWire-service repetitionStandardised terminology nationallyHeadlines favouring spectacleElevated “flying saucer” over technical ambiguityIllustrations and cartoonsFixed the disc-shaped image visuallyCopycat reportingEncouraged later witnesses to adopt the same languagePublic fascination with aviationMade extraordinary-speed claims believable enough to discuss seriously
+
+This does not prove Arnold fabricated the sighting, nor does it prove the objects were extraordinary craft. Instead, it shows how a single aviation mystery became a mass cultural phenomenon through rapid media framing.
+
+The “flying saucer” phrase ultimately mattered more historically than the original description itself. Arnold’s sighting launched the modern UFO era because the press transformed an uncertain visual report into a repeatable symbol that the public could immediately recognise, fear, joke about and claim to see for themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">Rainier on June 24, 1947... nine bright saucer-like objects” to describe what Arnold said he saw.Read more...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=qJ8eLw7YCMg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">1st UFO Encounter Podcast</span><span class="citation-popover-snippet">Wikipedia...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xLuHgsXGpqc" title="Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer">Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 9.8K &middot; Uploaded: October 2025 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xLuHgsXGpqc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How One Report Became Flying Saucers, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How One Report Became Flying Saucers. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Kenneth Arnold guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Kenneth+Arnold+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Chronicles the exact June 25 interview at the East Oregonian, breaking down the linguistic shift from &#x27;saucer-like motion&#x27; to &#x27;flying sau...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Flying Saucer guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Flying+Saucer+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Ruppelt documents how the rapid spread of the media phrase triggered a massive national feedback loop across public tracking offices.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Motion vs Shape guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Motion+vs+Shape+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Explains how language primes public expectation, causing subsequent witnesses to shape vague sky lights into structured discs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fads+and+Fallacies+in+the+Name+of+Science+by+Martin+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fads and Fallacies in the Name of Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d61kDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fads and Fallacies in the Name of Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fads+and+Fallacies+in+the+Name+of+Science+by+Martin+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fads and Fallacies in the Name of Science">Fads and Fallacies in the Name of Science</a>
+        </h4>
+        <p class="fr-book-author">By Martin Gardner</p>
+        
+        <p class="fr-book-desc">Places the birth of the &#x27;flying saucer&#x27; tag alongside other classic examples of post-war American media-driven craze events.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fads+and+Fallacies+in+the+Name+of+Science+by+Martin+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -418,15 +493,15 @@ This created a feedback loop:
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -434,15 +509,15 @@ This created a feedback loop:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -450,31 +525,15 @@ This created a feedback loop:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -482,7 +541,7 @@ This created a feedback loop:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="saucer-phrase-how-one-report-became-flying-saucers-kenneth-arnold-s-first-sighting-1947-ufo-poster-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -693,183 +752,140 @@ This created a feedback loop:
 </script>
 </section>
 
-2. readers learned what a “flying saucer” supposedly looked like; <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span>
-3. later witnesses interpreted ambiguous aerial objects through that expectation;
-4. newspapers reported the new sightings using the same language again.
-
-</div>
-
-Modern sociologists of UFO culture often point to this sequence as an early example of media-driven contagion.
-
-## How the Phrase Shaped Later Sightings
-
-Arnold’s original description was actually unusual compared with the classic UFO image that followed. His objects were not clearly circular spacecraft with domes or windows. They were fast, distant, flashing forms seen briefly against mountain terrain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=qJ8eLw7YCMg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">1st UFO Encounter Podcast</span><span class="citation-popover-snippet">Wikipedia...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
-
-Yet within weeks, the “flying saucer” idea had hardened into a standard mental image. Witnesses elsewhere increasingly reported discs, plates and circular craft. Newspapers and popular magazines reinforced the imagery through illustrations that simplified Arnold’s more complicated account into smooth silver discs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://offbeatoregon.com/1807b.flying-saucer-UFO-stories-started-in-pendleton-503.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: offbeatoregon.com">[Offbeat Oregon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">offbeatoregon.com</span><span class="citation-popover-title">1807b.flying saucer UFO stories started in pendleton 503</span><span class="citation-popover-snippet">Bill Bequette started the fad with their article about Kenneth Arnold&#x27;s UFO sighting in the Pendleton East Oregonian, was “The Flying Sau...</span></span></span>
-
-This mattered because the phrase did more than describe sightings: it organised them. Reports that might once have seemed unrelated became grouped together as examples of a single phenomenon. The label effectively created a new category of public experience.
-
-The cultural consequences expanded quickly:
-
-* cartoonists used saucers as political satire;
-* radio comedians treated them as jokes;
-* science-fiction magazines adopted the imagery;
-* military investigators faced rising public pressure to respond;
-* later UFO witnesses often borrowed the same vocabulary unconsciously. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED By early July 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">how ufo sightings became an american obsession</span><span class="citation-popover-snippet">The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</span></span></span>, newspapers were already reporting hundreds of additional sightings across dozens of states. The phrase had escaped the original incident entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/397526214154529/posts/1264748560765619/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">He later clarified that his use of the word saucer...Read more...</span></span></span>
-
-
-<img src="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Illustration-3-dark.svg" | relative_url }}" alt="Saucer Phrase illustration 3" data-theme-src-dark="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kenneth_Arnold_s_fir_b696ba_flying_saucer_phrase_6534ff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## A Case Study in Media Amplification
-
-The Arnold story remains important partly because it demonstrates how ambiguity becomes cultural certainty.
-
-At the centre was a real event: a pilot sincerely reported unusual airborne objects. But the historical impact came from interpretation rather than observation alone. Small wording choices changed how millions of people imagined the phenomenon.
-
-Several amplification mechanisms can be traced directly in the surviving record:
-
-MechanismEffectSimplified newspaper wordingTurned a complex description into a memorable labelWire-service repetitionStandardised terminology nationallyHeadlines favouring spectacleElevated “flying saucer” over technical ambiguityIllustrations and cartoonsFixed the disc-shaped image visuallyCopycat reportingEncouraged later witnesses to adopt the same languagePublic fascination with aviationMade extraordinary-speed claims believable enough to discuss seriously
-
-This does not prove Arnold fabricated the sighting, nor does it prove the objects were extraordinary craft. Instead, it shows how a single aviation mystery became a mass cultural phenomenon through rapid media framing.
-
-The “flying saucer” phrase ultimately mattered more historically than the original description itself. Arnold’s sighting launched the modern UFO era because the press transformed an uncertain visual report into a repeatable symbol that the public could immediately recognise, fear, joke about and claim to see for themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airandspace.si.edu">[National Air and Space Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airandspace.si.edu</span><span class="citation-popover-title">1947 year flying saucer</span><span class="citation-popover-snippet">Rainier on June 24, 1947... nine bright saucer-like objects” to describe what Arnold said he saw.Read more...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=qJ8eLw7YCMg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">1st UFO Encounter Podcast</span><span class="citation-popover-snippet">Wikipedia...</span><span class="citation-popover-meta">Published: June 24, 1947</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xLuHgsXGpqc" title="Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer">Kenneth Arnold UFO Sighting The First UFOs - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 9.8K &middot; Uploaded: October 2025 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xLuHgsXGpqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xLuHgsXGpqc">Open on YouTube</a></p></div></div></div>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Kenneth Arnold UFO sighting  
-   Link: [https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting](https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting</a>  
 
 2. <a id="endnote-2"></a>
    Source: history.com  
    Title: Kenneth Arnold  
-   Link: [https://www.history.com/articles/kenneth-arnold](https://www.history.com/articles/kenneth-arnold)  
+   Link: <a href="https://www.history.com/articles/kenneth-arnold" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/kenneth-arnold</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO, 1947 &amp; Flying Saucer22 Feb 2010 — On June 24, 1947, the civilian pilot Kenneth Arnold reported seeing nine objects, glowing bright b...</p></details>
    Published: June 24, 1947  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: [https://en.wikipedia.org/wiki/Flying_saucer](https://en.wikipedia.org/wiki/Flying_saucer)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
 4. <a id="endnote-4"></a>
    Source: spokesman.com  
    Title: salesman launched ufo age a portland mans  
-   Link: [https://www.spokesman.com/stories/1997/jun/22/salesman-launched-ufo-age-a-portland-mans/](https://www.spokesman.com/stories/1997/jun/22/salesman-launched-ufo-age-a-portland-mans/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spokesman-ReviewSalesman Launched Ufo Age A Portland Man&#x27;s Innocent...22 Jun 1997 — The “flying saucer” age began 50 years ago in the Pa...</p></details>
+   Link: <a href="https://www.spokesman.com/stories/1997/jun/22/salesman-launched-ufo-age-a-portland-mans/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/1997/jun/22/salesman-launched-ufo-age-a-portland-mans/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReviewSalesman Launched Ufo Age A Portland Man&#x27;s Innocent...22 Jun 1997 — The “flying saucer” age began 50 years ago in the Pa...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/](https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookThe Library of CongressWhat is regarded as the first modern &quot;flying saucer&quot; sighting occurred on June 24, 1947, when Boise busine...</p></details>
+   Link: <a href="https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressWhat is regarded as the first modern &quot;flying saucer&quot; sighting occurred on June 24, 1947, when Boise busine...</p></details>
    Published: June 24, 1947  
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
    Title: how ufo sightings became an american obsession  
-   Link: [https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession](https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession)  
+   Link: <a href="https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/how-ufo-sightings-became-an-american-obsession</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The period following his sighting saw a surge in UFO sightings across the U.S. This surge, or &quot;flap,&quot; is linked to societal fears of inva...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/397526214154529/posts/1264748560765619/](https://www.facebook.com/groups/397526214154529/posts/1264748560765619/)  
+   Link: <a href="https://www.facebook.com/groups/397526214154529/posts/1264748560765619/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/397526214154529/posts/1264748560765619/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot; He later clarified that his use of the word saucer...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/](https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/)  
+   Link: <a href="https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/idahoptv/posts/some-may-describe-these-objects-as-boomerang-looking-but-to-idaho-pilot-ken-arno/10158301321966307/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Idaho Public TelevisionArnold told a reporter the objects flew &quot;like a saucer if you skip it across the water.&quot; He later clarified that h...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: spokesman.com  
    Title: flying saucers still evasive 70 years after pilots  
-   Link: [https://www.spokesman.com/stories/2017/jun/25/flying-saucers-still-evasive-70-years-after-pilots/](https://www.spokesman.com/stories/2017/jun/25/flying-saucers-still-evasive-70-years-after-pilots/)  
+   Link: <a href="https://www.spokesman.com/stories/2017/jun/25/flying-saucers-still-evasive-70-years-after-pilots/" target="_blank" rel="noopener noreferrer nofollow">https://www.spokesman.com/stories/2017/jun/25/flying-saucers-still-evasive-70-years-after-pilots/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers still evasive 70 years after pilot&#x27;s report25 Jun 2017 — Boise businessman Ken Arnold had no idea he would change the worl...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: 1st UFO Encounter Podcast  
-   Link: [https://www.youtube.com/watch?v=qJ8eLw7YCMg](https://www.youtube.com/watch?v=qJ8eLw7YCMg)  
+   Link: <a href="https://www.youtube.com/watch?v=qJ8eLw7YCMg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qJ8eLw7YCMg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia...</p></details>
    Published: June 24, 1947  
 
 11. <a id="endnote-11"></a>
    Source: airandspace.si.edu  
    Title: 1947 year flying saucer  
-   Link: [https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer](https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer)  
+   Link: <a href="https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer" target="_blank" rel="noopener noreferrer nofollow">https://airandspace.si.edu/stories/editorial/1947-year-flying-saucer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rainier on June 24, 1947... nine bright saucer-like objects” to describe what Arnold said he saw.Read more...</p></details>
    Published: June 24, 1947  
 
 12. <a id="endnote-12"></a>
    Source: dailygrail.com  
    Title: return of the flying saucers re evaluating the kenneth arnold ufo sighting  
-   Link: [https://www.dailygrail.com/2018/07/return-of-the-flying-saucers-re-evaluating-the-kenneth-arnold-ufo-sighting/](https://www.dailygrail.com/2018/07/return-of-the-flying-saucers-re-evaluating-the-kenneth-arnold-ufo-sighting/)  
+   Link: <a href="https://www.dailygrail.com/2018/07/return-of-the-flying-saucers-re-evaluating-the-kenneth-arnold-ufo-sighting/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2018/07/return-of-the-flying-saucers-re-evaluating-the-kenneth-arnold-ufo-sighting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Daily GrailReturn of the Flying Saucers: Re-evaluating the Kenneth...19 Jul 2018 — The other phrase is to be found in Bill Bequette&#x27;...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: offbeatoregon.com  
    Title: 1807b.flying saucer UFO stories started in pendleton 503  
-   Link: [https://offbeatoregon.com/1807b.flying-saucer-UFO-stories-started-in-pendleton-503.html](https://offbeatoregon.com/1807b.flying-saucer-UFO-stories-started-in-pendleton-503.html)  
+   Link: <a href="https://offbeatoregon.com/1807b.flying-saucer-UFO-stories-started-in-pendleton-503.html" target="_blank" rel="noopener noreferrer nofollow">https://offbeatoregon.com/1807b.flying-saucer-UFO-stories-started-in-pendleton-503.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bill Bequette started the fad with their article about Kenneth Arnold&#x27;s UFO sighting in the Pendleton East Oregonian, was “The Flying Sau...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: science.howstuffworks.com  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm](https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Arrival of Flying SaucersThe day after his sighting, Kenneth Arnold told his story to two reporters for Pendleton&#x27;s East Oregonian. One o...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/zrowqo/kenneth_arnold_and_his_description_of_ufos/](https://www.reddit.com/r/UFOs/comments/zrowqo/kenneth_arnold_and_his_description_of_ufos/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/zrowqo/kenneth_arnold_and_his_description_of_ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/zrowqo/kenneth_arnold_and_his_description_of_ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold and his description of UFOsHe describes them flying like &#x27;saucers&#x27; NOT their shape but how they skipped across the sky lik...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scottbakal.com  
-   Link: [https://www.scottbakal.com/kennetharnoldsighting](https://www.scottbakal.com/kennetharnoldsighting)  
+   Link: <a href="https://www.scottbakal.com/kennetharnoldsighting" target="_blank" rel="noopener noreferrer nofollow">https://www.scottbakal.com/kennetharnoldsighting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold SightingThe very first public sighting of a flying &#x27;disc&#x27; was on June 25, 1947. On June 26, 1947, the term &#x27;flying saucer&#x27;...</p></details>
    Published: June 25, 1947  
 
 17. <a id="endnote-17"></a>
    Source: commons.wikimedia.org  
    Title: File:Chicago Sun 1947 06 26 2 Flying Saucer headline th.jpg  
-   Link: [https://commons.wikimedia.org/wiki/File%3AChicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg](https://commons.wikimedia.org/wiki/File%3AChicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AChicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AChicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rainier PENDLETON, Ore, June 25. — ([?]). Nine [bright], saucer-like objects flying at &quot;incredible&quot; speed at 10,000 feet altitude were re...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: militarytimes.com  
    Title: flying saucers still evasive 70 years after pilot s report  
-   Link: [https://www.militarytimes.com/news/pentagon-congress/2017/06/25/flying-saucers-still-evasive-70-years-after-pilot-s-report/](https://www.militarytimes.com/news/pentagon-congress/2017/06/25/flying-saucers-still-evasive-70-years-after-pilot-s-report/)  
+   Link: <a href="https://www.militarytimes.com/news/pentagon-congress/2017/06/25/flying-saucers-still-evasive-70-years-after-pilot-s-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.militarytimes.com/news/pentagon-congress/2017/06/25/flying-saucers-still-evasive-70-years-after-pilot-s-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers still evasive 70 years after pilot&#x27;s report25 Jun 2017 — Boise businessman Ken Arnold had no idea he would change the worl...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: instagram.com  
    Title: ✈️ Would you consider this man a reliable witness?  
-   Link: [https://www.instagram.com/p/C3swbEUNjkw/](https://www.instagram.com/p/C3swbEUNjkw/)  
+   Link: <a href="https://www.instagram.com/p/C3swbEUNjkw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C3swbEUNjkw/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸...23 Feb 2024 — 🗞️ Bill Bequette of the East Oregonian, who first interviewed Arnold, summarized the sighting as, &quot;nine saucer-like ai...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: knkx.org  
    Title: 64th anniversary of flying saucers at mt rainier  
-   Link: [https://www.knkx.org/other-news/2011-06-24/64th-anniversary-of-flying-saucers-at-mt-rainier](https://www.knkx.org/other-news/2011-06-24/64th-anniversary-of-flying-saucers-at-mt-rainier)  
+   Link: <a href="https://www.knkx.org/other-news/2011-06-24/64th-anniversary-of-flying-saucers-at-mt-rainier" target="_blank" rel="noopener noreferrer nofollow">https://www.knkx.org/other-news/2011-06-24/64th-anniversary-of-flying-saucers-at-mt-rainier</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>KNKX Public Radio64th anniversary of flying saucers at Mt. Rainier24 Jun 2011 — Kenneth Arnold with an artist&#x27;s rendering of the UFOs he...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
    Title: kenneth arnold in 1966 showing an artist vision  
-   Link: [https://www.reddit.com/r/HistoryPorn/comments/1n553ky/kenneth_arnold_in_1966_showing_an_artist_vision/](https://www.reddit.com/r/HistoryPorn/comments/1n553ky/kenneth_arnold_in_1966_showing_an_artist_vision/)  
+   Link: <a href="https://www.reddit.com/r/HistoryPorn/comments/1n553ky/kenneth_arnold_in_1966_showing_an_artist_vision/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HistoryPorn/comments/1n553ky/kenneth_arnold_in_1966_showing_an_artist_vision/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kenneth Arnold in 1966, showing an artist vision of what he...Describing it as &quot;moving like a saucer if you skip it on the water&quot;, it wi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40michaelmoran/the-surprisingly-bland-origins-of-ufo-lore-1e39280fe956](https://medium.com/%40michaelmoran/the-surprisingly-bland-origins-of-ufo-lore-1e39280fe956)  
+   Link: <a href="https://medium.com/%40michaelmoran/the-surprisingly-bland-origins-of-ufo-lore-1e39280fe956" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40michaelmoran/the-surprisingly-bland-origins-of-ufo-lore-1e39280fe956</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>le I can&#x27;t relate to being so wealthy as to skip...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: eastoregonian.com  
    Title: the sighting that shook the world  
-   Link: [https://eastoregonian.com/2017/06/16/the-sighting-that-shook-the-world/](https://eastoregonian.com/2017/06/16/the-sighting-that-shook-the-world/)  
+   Link: <a href="https://eastoregonian.com/2017/06/16/the-sighting-that-shook-the-world/" target="_blank" rel="noopener noreferrer nofollow">https://eastoregonian.com/2017/06/16/the-sighting-that-shook-the-world/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Jun 2017 —... phrase “flying saucer.” Arnold&#x27;s sighting helped spur supposed sightings across the Northwest and the world, and the id...</p></details>

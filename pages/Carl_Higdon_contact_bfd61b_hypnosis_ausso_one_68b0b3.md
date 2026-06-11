@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /carl-higdon-contact-1974/
 nav_short_title: Hypnosis
 title: Can the Ausso One Story Be Trusted?
-title_full: Can the Ausso One Story Be Trusted? | Higdon Contact
+title_full: Can the Ausso One Story Be Trusted?
 display_title_short: Hypnosis
 display_title: Hypnosis
 heading_title: Can the Ausso One Story Be Trusted?
@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline-fba31a/
   short_title: Timeline
   heading_title: Where Did Higdon's Missing Hours Go?
-date: '2026-06-08 23:32:00 '
+date: '2026-06-11 13:19:33 '
 header:
   og_image: /assets/images/Carl_Higdon_contact_bfd61b_hypnosis_ausso_one_68b0b3-Illustration-1-social.jpg
   preview_image: /assets/images/Carl_Higdon_contact_bfd61b_hypnosis_ausso_one_68b0b3-Illustration-1.webp
@@ -249,7 +249,6 @@ image: /assets/images/Carl_Higdon_contact_bfd61b_hypnosis_ausso_one_68b0b3-Illus
 ## Introduction
 
 The most memorable parts of the Carl Higdon case — the humanoid “Ausso One”, the cube-like spacecraft, the pills, the distant planet, and the bizarre internal geometry of the craft — largely entered the public story after hypnotic regression sessions. That matters because hypnosis occupies a difficult place in modern memory research. It can increase confidence, vividness, and narrative detail, but decades of psychological research show that it can also increase distortion, suggestion, confabulation, and false memory formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stanfordmag.org/contents/how-the-truth-gets-twisted" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stanfordmag.org">[Stanford Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stanfordmag.org</span><span class="citation-popover-snippet">Stanford MagazineHow the Truth Gets TwistedOver an accolade-strewn 40-plus years of scholarship, Loftus, MA &#x27;67, PhD &#x27;70, has demonstrate...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://users.phhp.ufl.edu/rbauer/cognitive/loftus_false_memory.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: users.phhp.ufl.edu">[2users.phhp.ufl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">users.phhp.ufl.edu</span><span class="citation-popover-title">loftus false memory</span><span class="citation-popover-snippet">e.g., Lindsay &amp; Read 1994, Loftus 1993, Loftus &amp; Ketcham...Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/Carl_Higdon_contact_bfd61b_hypnosis_ausso_one_68b0b3-Illustration-1-dark.svg" | relative_url }}" alt="Hypnosis illustration 1" data-theme-src-dark="{{ "/assets/images/Carl_Higdon_contact_bfd61b_hypnosis_ausso_one_68b0b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Carl_Higdon_contact_bfd61b_hypnosis_ausso_one_68b0b3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This does not automatically mean Higdon invented the experience or deliberately lied. It means the evidential status of the most elaborate parts of the story is fundamentally weaker than the core events that appear independently supported: his disappearance, his distressed condition afterwards, the missing-time claim, and the alleged physical oddities surrounding the rifle shot and truck location. The hypnosis issue is therefore central to understanding the case. It separates what may have happened from the far more detailed account of what Higdon later believed happened.
@@ -283,10 +282,9 @@ That distinction is crucial in the Higdon case because the “Ausso One” narra
 
 During the 1970s and 1980s, hypnosis was widely used in UFO investigations, psychotherapy, and even some police work under the assumption that memories existed like recordings waiting to be recovered. Modern cognitive psychology largely rejects that model.
 
-Researchers such as Elizabeth Loftus demonstrated that human memory is reconstructive rather than archival. Memories can be altered by suggestion, expectation, social pressure, repeated questioning, and imagination exercises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stanfordmag.org/contents/how-the-truth-gets-twisted" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stanfordmag.org">[Stanford Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stanfordmag.org</span><span class="citation-popover-snippet">Stanford MagazineHow the Truth Gets TwistedOver an accolade-strewn 40-plus years of scholarship, Loftus, MA &#x27;67, PhD &#x27;70, has demonstrate...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://knowablemagazine.org/content/article/society/2017/making-case-against-memories-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowablemagazine.org">[2Knowable Magazine | Annual Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowablemagazine.org</span><span class="citation-popover-snippet">Knowable Magazine | Annual ReviewsMaking the case against memories as evidenceOct 25, 2017 — Psychologist Elizabeth Loftus has shown that...</span></span></span>
+Researchers such as Elizabeth Loftus demonstrated that human memory is reconstructive rather than archival. Memories can be altered by suggestion, expectation, social pressure, repeated questioning, and imagination exercises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stanfordmag.org/contents/how-the-truth-gets-twisted" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stanfordmag.org">[Stanford Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stanfordmag.org</span><span class="citation-popover-snippet">Stanford MagazineHow the Truth Gets TwistedOver an accolade-strewn 40-plus years of scholarship, Loftus, MA &#x27;67, PhD &#x27;70, has demonstrate...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://knowablemagazine.org/content/article/society/2017/making-case-against-memories-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowablemagazine.org">[2Knowable Magazine &#124; Annual Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowablemagazine.org</span><span class="citation-popover-snippet">Knowable Magazine &#124; Annual ReviewsMaking the case against memories as evidenceOct 25, 2017 — Psychologist Elizabeth Loftus has shown that...</span></span></span>
 
 Studies on false memory formation showed several important patterns: <span class="citation-chip-wrap"><a class="citation-chip" href="https://users.phhp.ufl.edu/rbauer/cognitive/loftus_false_memory.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: users.phhp.ufl.edu">[users.phhp.ufl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">users.phhp.ufl.edu</span><span class="citation-popover-title">loftus false memory</span><span class="citation-popover-snippet">e.g., Lindsay &amp; Read 1994, Loftus 1993, Loftus &amp; Ketcham...Read more...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +301,6 @@ Loftus and other researchers demonstrated that entire autobiographical memories 
 This research had practical consequences. Courts in both the United States and United Kingdom became increasingly sceptical of hypnotically refreshed testimony. Forensic hypnosis declined sharply because witnesses under hypnosis often mixed accurate recall with fantasy, inference, or suggestion in ways that could not later be disentangled reliably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Forensic_hypnosis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Forensic hypnosis</span><span class="citation-popover-snippet">Forensic hypnosis</span></span></span>
 
 That legal and scientific shift is directly relevant to Carl Higdon because his most famous recollections emerged from precisely the kind of process later viewed as unreliable.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PB2OegI6wvI" title="How reliable is your memory? | Elizabeth Loftus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer">How reliable is your memory? | Elizabeth Loftus</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 2.7M &middot; Uploaded: September 2013 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PB2OegI6wvI">Open on YouTube</a></p></div></div></div>
 
@@ -325,7 +322,6 @@ Psychologists refer to “source monitoring errors” — confusion about where 
 
 The Higdon account includes themes already common in UFO lore by that era:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Telepathic communication
@@ -345,7 +341,6 @@ One of hypnosis’s most deceptive effects is that it can make uncertain memorie
 
 This is important because many believers point to Higdon’s conviction and emotional certainty as [evidence]({{ 'evidence-0338f5/' | relative_url }}). Modern memory science cautions that sincerity and accuracy are not the same thing.
 
-
 <img src="{{ "/assets/images/Carl_Higdon_contact_bfd61b_hypnosis_ausso_one_68b0b3-Illustration-2-dark.svg" | relative_url }}" alt="Hypnosis illustration 2" data-theme-src-dark="{{ "/assets/images/Carl_Higdon_contact_bfd61b_hypnosis_ausso_one_68b0b3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Carl_Higdon_contact_bfd61b_hypnosis_ausso_one_68b0b3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Separating the core claims from the elaborated story
 
@@ -356,7 +351,6 @@ A more cautious reading divides the incident into two layers.
 ### Claims with at least some independent grounding
 
 These are the aspects discussed by witnesses, family members, searchers, or medical personnel independently of hypnosis:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -370,13 +364,11 @@ These are the aspects discussed by witnesses, family members, searchers, or medi
 
 These points may still be disputed or weakly documented, but they are not entirely dependent on hypnotic recall.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SDx0uMPivJY" title="The Alien Abduction of Carl Higdon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SDx0uMPivJY" target="_blank" rel="noopener noreferrer">The Alien Abduction of Carl Higdon</a></p><p class="youtube-embed-meta">Channel: My Dark Path &middot; Views: 313.5K &middot; Uploaded: December 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SDx0uMPivJY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SDx0uMPivJY">Open on YouTube</a></p></div></div></div>
 
 ### Claims largely dependent on hypnosis
 
 The following details rely heavily on recovered-memory narratives:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -394,7 +386,6 @@ These elements are therefore substantially more vulnerable to distortion, sugges
 
 This distinction is often blurred in popular retellings, where the entire narrative is presented as a single evidential package. From a critical perspective, however, the hypnosis-derived material cannot simply inherit the credibility of the independently observed events.
 
-
 <img src="{{ "/assets/images/Carl_Higdon_contact_bfd61b_hypnosis_ausso_one_68b0b3-Illustration-3-dark.svg" | relative_url }}" alt="Hypnosis illustration 3" data-theme-src-dark="{{ "/assets/images/Carl_Higdon_contact_bfd61b_hypnosis_ausso_one_68b0b3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Carl_Higdon_contact_bfd61b_hypnosis_ausso_one_68b0b3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why some researchers still hesitate to dismiss Higdon entirely
 
@@ -404,7 +395,6 @@ One reason is that hypnosis may distort a real underlying experience rather than
 
 This possibility occupies an awkward middle ground:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The witness may genuinely believe the account
@@ -413,10 +403,9 @@ This possibility occupies an awkward middle ground:
 
 </div>
 
-That framework has been proposed for many historical abduction reports. Memory researchers note that emotionally intense experiences are especially vulnerable to reconstruction over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stanfordmag.org/contents/how-the-truth-gets-twisted" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stanfordmag.org">[Stanford Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stanfordmag.org</span><span class="citation-popover-snippet">Stanford MagazineHow the Truth Gets TwistedOver an accolade-strewn 40-plus years of scholarship, Loftus, MA &#x27;67, PhD &#x27;70, has demonstrate...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://knowablemagazine.org/content/article/society/2017/making-case-against-memories-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowablemagazine.org">[2Knowable Magazine | Annual Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowablemagazine.org</span><span class="citation-popover-snippet">Knowable Magazine | Annual ReviewsMaking the case against memories as evidenceOct 25, 2017 — Psychologist Elizabeth Loftus has shown that...</span></span></span>
+That framework has been proposed for many historical abduction reports. Memory researchers note that emotionally intense experiences are especially vulnerable to reconstruction over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stanfordmag.org/contents/how-the-truth-gets-twisted" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stanfordmag.org">[Stanford Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stanfordmag.org</span><span class="citation-popover-snippet">Stanford MagazineHow the Truth Gets TwistedOver an accolade-strewn 40-plus years of scholarship, Loftus, MA &#x27;67, PhD &#x27;70, has demonstrate...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://knowablemagazine.org/content/article/society/2017/making-case-against-memories-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowablemagazine.org">[2Knowable Magazine &#124; Annual Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowablemagazine.org</span><span class="citation-popover-snippet">Knowable Magazine &#124; Annual ReviewsMaking the case against memories as evidenceOct 25, 2017 — Psychologist Elizabeth Loftus has shown that...</span></span></span>
 
 In Higdon’s case, this means the existence of missing time or distress does not automatically validate the literal truth of the Ausso One story.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qqczlYOdi8s" title="Dr. Elizabeth LoftusShortCuts - False Memories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qqczlYOdi8s" target="_blank" rel="noopener noreferrer">Dr. Elizabeth LoftusShortCuts - False Memories</a></p><p class="youtube-embed-meta">Channel: UCI Media &middot; Views: 20.0K &middot; Uploaded: April 2013 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qqczlYOdi8s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qqczlYOdi8s">Open on YouTube</a></p></div></div></div>
 
@@ -446,44 +435,86 @@ That does not settle the case, but it changes how it should be evaluated. The �
 For that reason, the Carl Higdon case remains unresolved less because of what hypnosis revealed than because hypnosis made the most extraordinary parts of the story harder to verify.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Can the Ausso One Story Be Trusted?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Can the Ausso One Story Be Trusted?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Carl Higdon guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Carl+Higdon+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+        </h4>
+        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+        
+        <p class="fr-book-desc">Explains how suggestion, confabulation, and investigator assumptions create vivid but completely false narratives under regression.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Ausso One guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Ausso+One+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+        </h4>
+        <p class="fr-book-author">By John E. Mack, Mack</p>
+        
+        <p class="fr-book-desc">Examines the specific psychological profiles and narrative expansion patterns that occur when researchers use hypnosis on distressed subj...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">False Memory guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=False+Memory+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alien Abduction Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1C4MgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alien Abduction Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alien Abduction Files">The Alien Abduction Files</a>
+        </h4>
+        <p class="fr-book-author">By Kathleen Marden, Denise Stoner</p>
+        
+        <p class="fr-book-desc">Directly references the historical regression styles associated with Dr. R. Leo Sprinkle and his 1974 Wyoming interview metrics.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+        </h4>
+        <p class="fr-book-author">By Budd Hopkins</p>
+        
+        <p class="fr-book-desc">Details how early investigators used relaxation loops to separate core physical claims from subsequent elaborate mythology.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alien Abduction Files</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -496,7 +527,7 @@ For that reason, the Carl Higdon case remains unresolved less because of what hy
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -520,15 +551,15 @@ For that reason, the Carl Higdon case remains unresolved less because of what hy
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NECA 2024 Aliens Xenomorph Warrior Blue Version Ultimate 7-inch Action Figure"><img src="https://i.ebayimg.com/images/g/RyEAAeSwYi9p5QyX/s-l225.jpg" alt="Listing image for NECA 2024 Aliens Xenomorph Warrior Blue Version Ultimate 7-inch Action Figure" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" target="_blank" rel="sponsored noopener noreferrer">NECA 2024 Aliens Xenomorph Warrior Blue Version Ultimate 7-inch Action Figure</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,15 +567,15 @@ For that reason, the Carl Higdon case remains unresolved less because of what hy
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Mini Figure Lot with Xenomorph Figures and Accessories"><img src="https://i.ebayimg.com/images/g/xxgAAeSwSKNqKaRb/s-l225.jpg" alt="Listing image for Alien Mini Figure Lot with Xenomorph Figures and Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Alien Mini Figure Lot with Xenomorph Figures and Accessories</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,15 +583,15 @@ For that reason, the Carl Higdon case remains unresolved less because of what hy
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift"><img src="https://i.ebayimg.com/images/g/ob0AAOSwe2dhqm-Q/s-l225.jpg" alt="Listing image for Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Neca Alien (1979 movie) Xenomorph 7&quot; Action Figure Model Boxed Toys Xmas Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +599,15 @@ For that reason, the Carl Higdon case remains unresolved less because of what hy
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eaglemoss Alien vs Predator Figure Set – Hero Collector Boxed Set"><img src="https://i.ebayimg.com/images/g/txgAAeSwahtok4oy/s-l225.jpg" alt="Listing image for Eaglemoss Alien vs Predator Figure Set – Hero Collector Boxed Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Eaglemoss Alien vs Predator Figure Set – Hero Collector Boxed Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,7 +615,7 @@ For that reason, the Carl Higdon case remains unresolved less because of what hy
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hypnosis-4da790-can-the-ausso-one-story-be-trusted-carl-higdon-contact-1974-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-ausso-one-story-be-trusted-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien figure" data-ebay-reference="can-the-ausso-one-story-be-trusted-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -800,74 +831,74 @@ For that reason, the Carl Higdon case remains unresolved less because of what hy
 1. <a id="endnote-1"></a>
    Source: users.phhp.ufl.edu  
    Title: loftus false memory  
-   Link: [https://users.phhp.ufl.edu/rbauer/cognitive/loftus_false_memory.pdf](https://users.phhp.ufl.edu/rbauer/cognitive/loftus_false_memory.pdf)  
+   Link: <a href="https://users.phhp.ufl.edu/rbauer/cognitive/loftus_false_memory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://users.phhp.ufl.edu/rbauer/cognitive/loftus_false_memory.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>(e.g., Lindsay &amp; Read 1994, Loftus 1993, Loftus &amp; Ketcham...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: knowablemagazine.org  
-   Link: [https://knowablemagazine.org/content/article/society/2017/making-case-against-memories-evidence](https://knowablemagazine.org/content/article/society/2017/making-case-against-memories-evidence)  
+   Link: <a href="https://knowablemagazine.org/content/article/society/2017/making-case-against-memories-evidence" target="_blank" rel="noopener noreferrer nofollow">https://knowablemagazine.org/content/article/society/2017/making-case-against-memories-evidence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowable Magazine | Annual ReviewsMaking the case against memories as evidenceOct 25, 2017 — Psychologist Elizabeth Loftus has shown that...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/UnexplainedMysteriousUniverse/posts/wyoming-man-carl-higdonalienabduction-ufo-aliens/1479059120892177/](https://www.facebook.com/UnexplainedMysteriousUniverse/posts/wyoming-man-carl-higdonalienabduction-ufo-aliens/1479059120892177/)  
+   Link: <a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/wyoming-man-carl-higdonalienabduction-ufo-aliens/1479059120892177/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/wyoming-man-carl-higdonalienabduction-ufo-aliens/1479059120892177/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wyoming Man Carl Higdon #AlienAbduction #UFO #AliensHe does not recover his memory until the evening of October 27. Many further details...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Forensic hypnosis  
-   Link: [https://en.wikipedia.org/wiki/Forensic_hypnosis](https://en.wikipedia.org/wiki/Forensic_hypnosis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Forensic_hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forensic_hypnosis</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Elizabeth Loftus  
-   Link: [https://en.wikipedia.org/wiki/Elizabeth_Loftus](https://en.wikipedia.org/wiki/Elizabeth_Loftus)  
+   Link: <a href="https://en.wikipedia.org/wiki/Elizabeth_Loftus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Elizabeth_Loftus</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elizabeth LoftusLoftus (born 1944) is an American psychologist who is best known in relation to the misinformation effect, false memor...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1452768188318282/posts/4149312818663792/](https://www.facebook.com/groups/1452768188318282/posts/4149312818663792/)  
+   Link: <a href="https://www.facebook.com/groups/1452768188318282/posts/4149312818663792/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1452768188318282/posts/4149312818663792/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>eet a strange &quot;being&quot; named &quot;Ausso&quot; within seconds of a bullet...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
    Title: Brought up the "Alien Abduction" Memory  
-   Link: [https://www.facebook.com/stewartfriesenracing/posts/brought-up-the-alien-abduction-memory-matt-crafton-was-pretty-shocked-it-seems/1843889909051805/](https://www.facebook.com/stewartfriesenracing/posts/brought-up-the-alien-abduction-memory-matt-crafton-was-pretty-shocked-it-seems/1843889909051805/)  
+   Link: <a href="https://www.facebook.com/stewartfriesenracing/posts/brought-up-the-alien-abduction-memory-matt-crafton-was-pretty-shocked-it-seems/1843889909051805/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stewartfriesenracing/posts/brought-up-the-alien-abduction-memory-matt-crafton-was-pretty-shocked-it-seems/1843889909051805/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Matt Crafton was...Especially criticized as unreliable is frequent reliance on hypnosis. It has been demonstrated that false memories ar...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
    Title: in october 1974 while hunting elk in wyomings medicine bow national forest carl  
-   Link: [https://www.facebook.com/100071628474362/posts/in-october-1974-while-hunting-elk-in-wyomings-medicine-bow-national-forest-carl-/922186603512280/](https://www.facebook.com/100071628474362/posts/in-october-1974-while-hunting-elk-in-wyomings-medicine-bow-national-forest-carl-/922186603512280/)  
+   Link: <a href="https://www.facebook.com/100071628474362/posts/in-october-1974-while-hunting-elk-in-wyomings-medicine-bow-national-forest-carl-/922186603512280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100071628474362/posts/in-october-1974-while-hunting-elk-in-wyomings-medicine-bow-national-forest-carl-/922186603512280/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In October 1974, while hunting elk in Wyoming&#x27;s Medicine...While hunting elk in Wyoming&#x27;s Medicine Bow National Forest, Higdon claimed t...</p></details>
    Published: October 1974  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: False memory syndrome  
-   Link: [https://en.wikipedia.org/wiki/False_memory_syndrome](https://en.wikipedia.org/wiki/False_memory_syndrome)  
+   Link: <a href="https://en.wikipedia.org/wiki/False_memory_syndrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/False_memory_syndrome</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>False memory syndromeFalse memory syndrome was proposed to be the result of recovered memory therapy, a scientifically discredited for...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: stanfordmag.org  
-   Link: [https://stanfordmag.org/contents/how-the-truth-gets-twisted](https://stanfordmag.org/contents/how-the-truth-gets-twisted)  
+   Link: <a href="https://stanfordmag.org/contents/how-the-truth-gets-twisted" target="_blank" rel="noopener noreferrer nofollow">https://stanfordmag.org/contents/how-the-truth-gets-twisted</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford MagazineHow the Truth Gets TwistedOver an accolade-strewn 40-plus years of scholarship, Loftus, MA &#x27;67, PhD &#x27;70, has demonstrate...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: kpl.gov  
-   Link: [https://www.kpl.gov/catalog/item/?i=ent%3A%2F%2FERC_215_8682%2F0%2F215_8682%3AHOOPLA%3A18505238](https://www.kpl.gov/catalog/item/?i=ent%3A%2F%2FERC_215_8682%2F0%2F215_8682%3AHOOPLA%3A18505238)  
+   Link: <a href="https://www.kpl.gov/catalog/item/?i=ent%3A%2F%2FERC_215_8682%2F0%2F215_8682%3AHOOPLA%3A18505238" target="_blank" rel="noopener noreferrer nofollow">https://www.kpl.gov/catalog/item/?i=ent%3A%2F%2FERC_215_8682%2F0%2F215_8682%3AHOOPLA%3A18505238</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kalamazoo Public LibraryTaken: The Complete Carl Higdon StoryLeo Sprinkle, never-before-shared hypnosis transcripts, and Margery Higdon&#x27;s...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: shadowfrequencypodcast.com  
    Title: blog post unraveling the carl higdon abduction a gateway to the unknown  
-   Link: [https://www.shadowfrequencypodcast.com/blog/blog-post-unraveling-the-carl-higdon-abduction--a-gateway-to-the-unknown/](https://www.shadowfrequencypodcast.com/blog/blog-post-unraveling-the-carl-higdon-abduction--a-gateway-to-the-unknown/)  
+   Link: <a href="https://www.shadowfrequencypodcast.com/blog/blog-post-unraveling-the-carl-higdon-abduction--a-gateway-to-the-unknown/" target="_blank" rel="noopener noreferrer nofollow">https://www.shadowfrequencypodcast.com/blog/blog-post-unraveling-the-carl-higdon-abduction--a-gateway-to-the-unknown/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carl Higdon Abduction: 1974 UFO Mystery Explored14 Oct 2025 — Hypnosis sessions later revealed more: Ausso One&#x27;s kind were experimenting...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: gideonreid.co.uk  
    Title: science fiction and the carl higdon alien encounter story  
-   Link: [https://gideonreid.co.uk/science-fiction-and-the-carl-higdon-alien-encounter-story/](https://gideonreid.co.uk/science-fiction-and-the-carl-higdon-alien-encounter-story/)  
+   Link: <a href="https://gideonreid.co.uk/science-fiction-and-the-carl-higdon-alien-encounter-story/" target="_blank" rel="noopener noreferrer nofollow">https://gideonreid.co.uk/science-fiction-and-the-carl-higdon-alien-encounter-story/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Gideon ReidScience Fiction and The Carl Higdon Alien Encounter Story22 Feb 2025 — Higdon&#x27;s testimony, mostly obtained using the problemat...</p></details>
 
 ### Additional References
@@ -875,54 +906,54 @@ For that reason, the Carl Higdon case remains unresolved less because of what hy
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA court ruled case on therapy‐induced false memories  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9544012/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9544012/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby H Otgaar · 2022 · Cited by 46 — We report on a unique Italian criminal case in which a court ruled that a therapist implanted false...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9544012/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9544012/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by H Otgaar · 2022 · Cited by 46 — We report on a unique Italian criminal case in which a court ruled that a therapist implanted false...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cryptidz.fandom.com  
    Title: Cryptid Wiki Ausso One  
-   Link: [https://cryptidz.fandom.com/wiki/Ausso_One](https://cryptidz.fandom.com/wiki/Ausso_One)  
+   Link: <a href="https://cryptidz.fandom.com/wiki/Ausso_One" target="_blank" rel="noopener noreferrer nofollow">https://cryptidz.fandom.com/wiki/Ausso_One</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cryptid WikiAusso One - Cryptid Wiki - FandomThe Ausso One sighting was an extraterrestrial sighting that took place on the afternoon of...</p></details>
    Published: October 25, 1974  
 
 16. <a id="endnote-16"></a>
    Source: web-archive.southampton.ac.uk  
-   Link: [https://web-archive.southampton.ac.uk/cogprints.org/599/1/199802009.html](https://web-archive.southampton.ac.uk/cogprints.org/599/1/199802009.html)  
+   Link: <a href="https://web-archive.southampton.ac.uk/cogprints.org/599/1/199802009.html" target="_blank" rel="noopener noreferrer nofollow">https://web-archive.southampton.ac.uk/cogprints.org/599/1/199802009.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Southampton Web ArchiveMemory Distortion and False Memory Creationby E Loftus · Cited by 236 — The survey also found that 1...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/47932563/UFO_Abduction_Reports_The_Supernatural_Kidnap_Narrative_Returns_in_Technological_Guise](https://www.academia.edu/47932563/UFO_Abduction_Reports_The_Supernatural_Kidnap_Narrative_Returns_in_Technological_Guise)  
+   Link: <a href="https://www.academia.edu/47932563/UFO_Abduction_Reports_The_Supernatural_Kidnap_Narrative_Returns_in_Technological_Guise" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/47932563/UFO_Abduction_Reports_The_Supernatural_Kidnap_Narrative_Returns_in_Technological_Guise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>period of amnesia blocking out conscious memory of the time of captivity and...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1327196/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1327196/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1327196/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1327196/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False memories in forensic psychology: do cognition and...by N Pérez-Mata · 2024 · Cited by 3 — In the present study, we review the cont...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/17716079/](https://pubmed.ncbi.nlm.nih.gov/17716079/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17716079/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17716079/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>memoriesby EF Loftus · 2006 · Cited by 376 — We review evidence concerning the existence of the repression and recovery of autobiographic...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6826861/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6826861/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby H Otgaar · 2019 · Cited by 304 — We show that the belief in repressed memories occurs on a nontrivial scale (58%) and appears...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6826861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6826861/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby H Otgaar · 2019 · Cited by 304 — We show that the belief in repressed memories occurs on a nontrivial scale (58%) and appears...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: govthe role of hypnosis in memory recall and false  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11832514/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11832514/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby DG Leo · 2025 · Cited by 8 — In this paper, we review the current literature on the mechanisms behind the creation of false memorie...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11832514/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11832514/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by DG Leo · 2025 · Cited by 8 — In this paper, we review the current literature on the mechanisms behind the creation of false memorie...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Dr. Elizabeth Loftus_Short Cuts  
-   Link: [https://www.youtube.com/watch?v=qqczlYOdi8s](https://www.youtube.com/watch?v=qqczlYOdi8s)  
+   Link: <a href="https://www.youtube.com/watch?v=qqczlYOdi8s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qqczlYOdi8s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Elizabeth Loftus_ShortCuts - False MemoriesFalse “Recovered” Memories or Real Abuse? (University Lecture). Prof... A Conversation wi...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PB2OegI6wvI](https://www.youtube.com/watch?v=PB2OegI6wvI)  
+   Link: <a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PB2OegI6wvI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How reliable is your memory? | Elizabeth LoftusPsychologist Elizabeth Loftus studies memories. More precisely, she studies false memories...</p></details>

@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /larson-abduction-near-fargo-1975/
 nav_short_title: I 94 Timeline
 title: The Missing Hour on Interstate 94
-title_full: The Missing Hour on Interstate 94 | Larson Abduction
+title_full: The Missing Hour on Interstate 94
 display_title_short: I 94 Timeline
 display_title: I 94 Timeline
 heading_title: The Missing Hour on Interstate 94
@@ -239,7 +239,7 @@ next_link:
   permalink: /records-gap/
   short_title: Records Gap
   heading_title: Why the Larson Case Remains Unverified
-date: '2026-06-08 23:40:10 '
+date: '2026-06-11 13:23:16 '
 header:
   og_image: /assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-1-social.jpg
   preview_image: /assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-1.webp
@@ -248,18 +248,16 @@ image: /assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illust
 
 ## Introduction
 
-The most durable part of the [Larson abduction]({{ 'larson-abduction-near-fargo-1975/' | relative_url }}) story is not the later [hypnosis]({{ 'hypnosis-dc4a64/' | relative_url }}) material but the original Interstate 94 episode itself: three people driving west from Fargo before dawn, a sudden encounter with strange lights, a period of paralysis or disorientation, and the discovery that roughly an hour appeared to be missing from their journey. Even critics of the later abduction narrative usually acknowledge that something unusual was reported on the road that morning. The harder question is what can actually be reconstructed from the evidence.
-
+The most durable part of the Larson abduction story is not the later [hypnosis]({{ 'hypnosis-dc4a64/' | relative_url }}) material but the original Interstate 94 episode itself: three people driving west from Fargo before dawn, a sudden encounter with strange lights, a period of paralysis or disorientation, and the discovery that roughly an hour appeared to be missing from their journey. Even critics of the later abduction narrative usually acknowledge that something unusual was reported on the road that morning. The harder question is what can actually be reconstructed from the evidence.
 
 <img src="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-1-dark.svg" | relative_url }}" alt="I 94 Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The difficulty is that the timeline survives mainly through later retellings, local-history summaries and UFO literature rather than preserved contemporaneous witness statements. That leaves the “missing hour” both central and unstable: it is the foundation of the entire Larson case, but also the part most vulnerable to memory drift, narrative compression and retrospective interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">dakota datebook archive</span><span class="citation-popover-snippet">Prairie PublicDakota Datebook ArchiveThis is our Dakota Datebook archive of Datebooks aired from 2003-2017. Find all newer Dakota Dateboo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[2hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident | High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
+The difficulty is that the timeline survives mainly through later retellings, local-history summaries and UFO literature rather than preserved contemporaneous witness statements. That leaves the “missing hour” both central and unstable: it is the foundation of the entire Larson case, but also the part most vulnerable to memory drift, narrative compression and retrospective interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">dakota datebook archive</span><span class="citation-popover-snippet">Prairie PublicDakota Datebook ArchiveThis is our Dakota Datebook archive of Datebooks aired from 2003-2017. Find all newer Dakota Dateboo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[2hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident &#124; High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
 
 ## The pre-dawn drive from Fargo
 
-Most surviving versions of the story place the event in the early morning of 26 August 1975. Sandy Larson, her daughter Jackie Larson and Jackie’s boyfriend Terry O’Leary reportedly left Fargo by car and headed west on Interstate 94 toward Bismarck, where Sandy Larson planned to take a real-estate examination later that morning. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[2hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident | High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
+Most surviving versions of the story place the event in the early morning of 26 August 1975. Sandy Larson, her daughter Jackie Larson and Jackie’s boyfriend Terry O’Leary reportedly left Fargo by car and headed west on Interstate 94 toward Bismarck, where Sandy Larson planned to take a real-estate examination later that morning. Facebook <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[2hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident &#124; High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
 
 The broad chronology is relatively consistent across sources:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -270,22 +268,21 @@ The broad chronology is relatively consistent across sources:
 
 </div>
 
-Those elements appear repeatedly in later summaries, including Prairie Public’s Dakota Datebook account and UFO-oriented retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">dakota datebook archive</span><span class="citation-popover-snippet">Prairie PublicDakota Datebook ArchiveThis is our Dakota Datebook archive of Datebooks aired from 2003-2017. Find all newer Dakota Dateboo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[2hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident | High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
+Those elements appear repeatedly in later summaries, including Prairie Public’s Dakota Datebook account and UFO-oriented retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">dakota datebook archive</span><span class="citation-popover-snippet">Prairie PublicDakota Datebook ArchiveThis is our Dakota Datebook archive of Datebooks aired from 2003-2017. Find all newer Dakota Dateboo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[2hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident &#124; High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
 
 What is less clear is how much of this sequence derives from immediate recollection and how much comes from later reconstruction. The case lacks a widely available police report, roadside witness log, taped first interview or timestamped documentation from the morning itself. That matters because “missing time” cases are especially dependent on chronology. A verified time discrepancy requires more than a later feeling that time was lost; it requires fixed reference points such as clocks, receipts, phone calls, fuel stops or independently observed travel intervals.
 
-Publicly available accounts of the Larson incident provide very few such anchors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident | High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
+Publicly available accounts of the Larson incident provide very few such anchors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident &#124; High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
 
 ## Lights, paralysis and changed seats
 
-The witnesses reportedly described a dramatic interruption to the drive. Accounts vary in detail, but most include bright lights or glowing objects appearing above or near the highway. Some versions mention a formation of multiple lights with one object larger than the others. Others describe flashes, smoke-like effects or a rumbling sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">dakota datebook archive</span><span class="citation-popover-snippet">Prairie PublicDakota Datebook ArchiveThis is our Dakota Datebook archive of Datebooks aired from 2003-2017. Find all newer Dakota Dateboo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[2hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident | High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
+The witnesses reportedly described a dramatic interruption to the drive. Accounts vary in detail, but most include bright lights or glowing objects appearing above or near the highway. Some versions mention a formation of multiple lights with one object larger than the others. Others describe flashes, smoke-like effects or a rumbling sound. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">dakota datebook archive</span><span class="citation-popover-snippet">Prairie PublicDakota Datebook ArchiveThis is our Dakota Datebook archive of Datebooks aired from 2003-2017. Find all newer Dakota Dateboo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[2hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident &#124; High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
 
 The most important shared claim was not merely seeing lights but experiencing physical incapacity. The trio reportedly felt unable to move or react normally. In later retellings, this became a moment of paralysis or suspended awareness.
 
-Then came the detail that gave the case lasting notoriety: when the episode ended, the occupants were no longer seated where they had originally been. Jackie Larson was reportedly found in a different seat from the one she occupied before the lights appeared. The witnesses also believed that a substantial amount of time had elapsed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">dakota datebook archive</span><span class="citation-popover-snippet">Prairie PublicDakota Datebook ArchiveThis is our Dakota Datebook archive of Datebooks aired from 2003-2017. Find all newer Dakota Dateboo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[2hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident | High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
+Then came the detail that gave the case lasting notoriety: when the episode ended, the occupants were no longer seated where they had originally been. Jackie Larson was reportedly found in a different seat from the one she occupied before the lights appeared. The witnesses also believed that a substantial amount of time had elapsed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.prairiepublic.org/show/dakota-datebook-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.prairiepublic.org">[Prairie Public]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.prairiepublic.org</span><span class="citation-popover-title">dakota datebook archive</span><span class="citation-popover-snippet">Prairie PublicDakota Datebook ArchiveThis is our Dakota Datebook archive of Datebooks aired from 2003-2017. Find all newer Dakota Dateboo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[2hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident &#124; High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span>
 
 This combination of elements became the narrative bridge between a UFO sighting and a claimed abduction:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,7 +298,6 @@ In UFO-abduction literature of the 1970s, that sequence was increasingly treated
 
 Yet the seating-change claim is also difficult to evaluate historically. No known contemporaneous account establishes precisely where each witness sat before and after the episode, how clearly they remembered those positions immediately afterwards, or whether confusion inside a dark moving vehicle may have affected later recollection.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rh_pyJG99W8" title="Dakota Mysteries and Oddities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rh_pyJG99W8" target="_blank" rel="noopener noreferrer">Dakota Mysteries and Oddities</a></p><p class="youtube-embed-meta">Channel: Prairie Public &middot; Views: 88.6K &middot; Uploaded: May 2022 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rh_pyJG99W8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rh_pyJG99W8">Open on YouTube</a></p></div></div></div>
 
 ## Why the missing hour became the core mystery
@@ -316,7 +312,6 @@ The reported location west of Fargo creates an immediate chronology challenge. I
 
 Because surviving public accounts do not include detailed mileage records, timestamps or independently verified stop points, later investigators could not firmly establish:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the exact point where the lights appeared,
@@ -327,7 +322,6 @@ Because surviving public accounts do not include detailed mileage records, times
 </div>
 
 That does not disprove the witnesses’ experience. It simply means the “missing hour” rests largely on retrospective estimation.
-
 
 <img src="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-2-dark.svg" | relative_url }}" alt="I 94 Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Fatigue and altered perception
@@ -344,13 +338,11 @@ But because the surviving record is fragmentary, neither interpretation can be d
 
 One of the most revealing features of the Larson timeline is the degree to which the story stabilised only after repeated retelling.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oKquY6-NOOc" title="Fire In The Sky - The Travis Walton UFO Abduction Story 4K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oKquY6-NOOc" target="_blank" rel="noopener noreferrer">Fire In The Sky - The Travis Walton UFO Abduction Story 4K</a></p><p class="youtube-embed-meta">Channel: grimmlifecollective &middot; Views: 210.4K &middot; Uploaded: January 2025 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oKquY6-NOOc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oKquY6-NOOc">Open on YouTube</a></p></div></div></div>
 
 ### Elements that remain broadly consistent
 
 Across most versions of the case, several points remain relatively stable:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -368,7 +360,6 @@ These recurring elements likely represent the core narrative that emerged earlie
 
 Other details vary noticeably between sources:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the number and colour of the lights,
@@ -379,7 +370,7 @@ Other details vary noticeably between sources:
 
 </div>
 
-Some retellings are terse local-history summaries, while others incorporate imagery that became prominent only after hypnotic regression sessions conducted by psychologist R. Leo Sprinkle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident | High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archiveswest.orbiscascade.org/ark%3A80444/xv805708" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiveswest.orbiscascade.org">[2archiveswest.orbiscascade.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiveswest.orbiscascade.org</span><span class="citation-popover-snippet">orbiscascade.orgR. Leo Sprinkle papers, 1961-2020 - Archives WestThis collection contains the personal and professional correspondence of...</span></span></span>
+Some retellings are terse local-history summaries, while others incorporate imagery that became prominent only after hypnotic regression sessions conducted by psychologist R. Leo Sprinkle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hpr1.com">[hpr1.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hpr1.com</span><span class="citation-popover-title">the sandra larson incident</span><span class="citation-popover-snippet">​The Sandra Larson incident &#124; High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archiveswest.orbiscascade.org/ark%3A80444/xv805708" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archiveswest.orbiscascade.org">[2archiveswest.orbiscascade.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archiveswest.orbiscascade.org</span><span class="citation-popover-snippet">orbiscascade.orgR. Leo Sprinkle papers, 1961-2020 - Archives WestThis collection contains the personal and professional correspondence of...</span></span></span>
 
 This distinction matters because the earliest road narrative and the later abduction narrative are not equally supported. The I-94 incident involved three witnesses describing a disturbing event. The more elaborate claims — being taken aboard a craft, medical examinations and encounters with entities — emerged later through hypnosis.
 
@@ -388,14 +379,12 @@ That chronology affects credibility assessments. Historians of UFO culture and s
 * the initial sighting and missing-time report,
 * from the later recovered-memory material.
 
-
 <img src="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-3-dark.svg" | relative_url }}" alt="I 94 Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Larson_abduction_nea_e9683a_i94_missing_time_78f40b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The problem of retrospective storytelling
 
 The Larson case developed during a period when abduction narratives were becoming culturally familiar in the United States. By the mid-1970s, ideas about missing time, paralysis and recovered memories had already entered UFO literature and media discussion.
 
 That context does not automatically invalidate the witnesses’ claims, but it complicates interpretation. Once a case gains publicity, later retellings can absorb details from interviews, investigators, documentaries and other UFO stories. Over time, the distinction between:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -411,49 +400,89 @@ The Larson timeline shows many signs of this process. The highway encounter itse
 
 For that reason, many researchers — including some sympathetic to UFO reports — treat the Interstate 94 episode as the strongest evidential layer of the case while remaining cautious about conclusions drawn from the missing-time claim itself. The witnesses may well have experienced a frightening and sincerely remembered event on the road west of Fargo. What cannot be firmly established from the surviving public record is whether the “missing hour” reflected an external anomaly, a psychological episode, distorted time perception, or a narrative reconstructed after the fact.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1G9WtN3NVNw" title="The UFO case that still divides investigators | SLICE SCIENCE | FULL DOC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1G9WtN3NVNw" target="_blank" rel="noopener noreferrer">The UFO case that still divides investigators | SLICE SCIENCE | FULL DOC</a></p><p class="youtube-embed-meta">Channel: SLICE Science &middot; Views: 37.8K &middot; Uploaded: April 2026 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1G9WtN3NVNw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1G9WtN3NVNw">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for The Missing Hour on Interstate 94, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to The Missing Hour on Interstate 94. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Sandra Larson guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Sandra+Larson+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=immWvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Missing Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+        </h4>
+        <p class="fr-book-author">By Budd Hopkins</p>
+        
+        <p class="fr-book-desc">Analyzes the chronological template of late-night or pre-dawn highway drives ending in disorientation, paralysis, and temporal gaps.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Missing Records guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Missing+Records+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+        </h4>
+        <p class="fr-book-author">By John E. Mack, Mack</p>
+        
+        <p class="fr-book-desc">Explores how roadside paralysis experiences and changed vehicle seats affect family-unit passenger groups.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Leo Sprinkle guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Leo+Sprinkle+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alien Abduction Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y1C4MgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alien Abduction Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alien Abduction Files">The Alien Abduction Files</a>
+        </h4>
+        <p class="fr-book-author">By Kathleen Marden, Denise Stoner</p>
+        
+        <p class="fr-book-desc">Tracks the Interstate 94 timeline parameters, from the 3:00 a.m. departure from Fargo to the lights observed 45 miles west.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Alien+Abduction+Files+by+Kathleen+Marden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches methodology to critique undocumented roadside claims and map how stories drift away from immediate facts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Missing+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Missing Time</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alien+Abduction+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alien Abduction Files</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -490,15 +519,15 @@ For that reason, many researchers — including some sympathetic to UFO reports 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -506,15 +535,15 @@ For that reason, many researchers — including some sympathetic to UFO reports 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -522,15 +551,15 @@ For that reason, many researchers — including some sympathetic to UFO reports 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -538,15 +567,15 @@ For that reason, many researchers — including some sympathetic to UFO reports 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -554,7 +583,7 @@ For that reason, many researchers — including some sympathetic to UFO reports 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="i-94-timeline-the-missing-hour-on-interstate-94-larson-abduction-near-fargo-1975-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-hour-on-interstate-94-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="the-missing-hour-on-interstate-94-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -770,107 +799,107 @@ For that reason, many researchers — including some sympathetic to UFO reports 
 1. <a id="endnote-1"></a>
    Source: hpr1.com  
    Title: the sandra larson incident  
-   Link: [https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident](https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident)  
+   Link: <a href="https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident" target="_blank" rel="noopener noreferrer nofollow">https://hpr1.com/index.php/feature/culture/the-sandra-larson-incident</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>​The Sandra Larson incident | High...15 Mar 2017 — Leo Sprinkle, a professor and therapist from the University of Wyoming, came to inves...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dokumen.pub  
    Title: Captured by Aliens?: A History and Analysis of American  
-   Link: [https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html](https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html)  
+   Link: <a href="https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>missing time. Under hypnotic regression by Dr. Leo Sprinkle, Larson recalled encountering a six-foot-tall, mummy-like entity that had met...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: facebook.com  
    Title: on this day in 1976 august 26 1976 315 am terry oleary his girlfriend jackie lar  
-   Link: [https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1976-august-26-1976-315-am-terry-oleary-his-girlfriend-jackie-lar/506535442096776/](https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1976-august-26-1976-315-am-terry-oleary-his-girlfriend-jackie-lar/506535442096776/)  
+   Link: <a href="https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1976-august-26-1976-315-am-terry-oleary-his-girlfriend-jackie-lar/506535442096776/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/centerforufostudies/posts/on-this-day-in-1976-august-26-1976-315-am-terry-oleary-his-girlfriend-jackie-lar/506535442096776/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 26, 1976. 3:15 am Terry O&#x27;Leary...3:15 a.m. Terry O&#x27;Leary, his girlfriend Jackie Larson, and Jackie&#x27;s mother Sandy Larson leave F...</p></details>
    Published: August 26, 1976  
 
 4. <a id="endnote-4"></a>
    Source: archiveswest.orbiscascade.org  
-   Link: [https://archiveswest.orbiscascade.org/ark%3A80444/xv805708](https://archiveswest.orbiscascade.org/ark%3A80444/xv805708)  
+   Link: <a href="https://archiveswest.orbiscascade.org/ark%3A80444/xv805708" target="_blank" rel="noopener noreferrer nofollow">https://archiveswest.orbiscascade.org/ark%3A80444/xv805708</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>orbiscascade.orgR. Leo Sprinkle papers, 1961-2020 - Archives WestThis collection contains the personal and professional correspondence of...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2030822207183428/posts/2985025225096450/](https://www.facebook.com/groups/2030822207183428/posts/2985025225096450/)  
+   Link: <a href="https://www.facebook.com/groups/2030822207183428/posts/2985025225096450/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2030822207183428/posts/2985025225096450/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What was your home town like?... Interstate 94 bypassed the old route through town in the 1950&#x27;s. Businesses may come and go but the “Cit...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: facebook.com  
    Title: cass county sheriff jesse jahner provides a statement regarding alleged criminal  
-   Link: [https://www.facebook.com/CassCountySO/posts/cass-county-sheriff-jesse-jahner-provides-a-statement-regarding-alleged-criminal/986301383532866/](https://www.facebook.com/CassCountySO/posts/cass-county-sheriff-jesse-jahner-provides-a-statement-regarding-alleged-criminal/986301383532866/)  
+   Link: <a href="https://www.facebook.com/CassCountySO/posts/cass-county-sheriff-jesse-jahner-provides-a-statement-regarding-alleged-criminal/986301383532866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CassCountySO/posts/cass-county-sheriff-jesse-jahner-provides-a-statement-regarding-alleged-criminal/986301383532866/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cass County Sheriff Jesse Jahner Provides a Statement...(December 3rd, 2024) - The Cass County Sheriff&#x27;s Office has learned that crimina...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: news.prairiepublic.org  
    Title: dakota datebook archive  
-   Link: [https://news.prairiepublic.org/show/dakota-datebook-archive](https://news.prairiepublic.org/show/dakota-datebook-archive)  
+   Link: <a href="https://news.prairiepublic.org/show/dakota-datebook-archive" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/show/dakota-datebook-archive</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prairie PublicDakota Datebook ArchiveThis is our Dakota Datebook archive of Datebooks aired from 2003-2017. Find all newer Dakota Dateboo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/dakotadatebook_digital_final2/dakotadatebook_final2_djvu.txt](https://archive.org/stream/dakotadatebook_digital_final2/dakotadatebook_final2_djvu.txt)  
+   Link: <a href="https://archive.org/stream/dakotadatebook_digital_final2/dakotadatebook_final2_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/dakotadatebook_digital_final2/dakotadatebook_final2_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;Dakota Datebook: North Dakota Stories from...I Dakota Datebook North Dakota Stories from Prairie Public Edited by David Ha...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: news.prairiepublic.org  
    Title: dakota datebook  
-   Link: [https://news.prairiepublic.org/podcast/dakota-datebook](https://news.prairiepublic.org/podcast/dakota-datebook)  
+   Link: <a href="https://news.prairiepublic.org/podcast/dakota-datebook" target="_blank" rel="noopener noreferrer nofollow">https://news.prairiepublic.org/podcast/dakota-datebook</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DatebookNorth Dakota&#x27;s legacy includes many strange stories of eccentric towns, war heroes, and various colorful characters. Hear all abo...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: pacodeandbulletin.gov  
-   Link: [https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf](https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf)  
+   Link: <a href="https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-33/51_33_p2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unclaimed Property OwnersEach year, the Treasury Department (Department) receives millions of dollars in unclaimed property. Common types...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: asla.org  
-   Link: [https://www.asla.org/awards-events-main-landing/honors-awards/fellows/asla-fellows](https://www.asla.org/awards-events-main-landing/honors-awards/fellows/asla-fellows)  
+   Link: <a href="https://www.asla.org/awards-events-main-landing/honors-awards/fellows/asla-fellows" target="_blank" rel="noopener noreferrer nofollow">https://www.asla.org/awards-events-main-landing/honors-awards/fellows/asla-fellows</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASLA FellowsDirectory of ASLA Fellows listing distinguished landscape architects, their nominating chapters, and induction years, honorin...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: imdb.com  
-   Link: [https://www.imdb.com/list/ls023892407/](https://www.imdb.com/list/ls023892407/)  
+   Link: <a href="https://www.imdb.com/list/ls023892407/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/list/ls023892407/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Title SongsA young man finds a severed human ear that is somehow connected to a mysterious lounge singer and a group of psychopathic crim...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: oregonstater.org  
-   Link: [https://oregonstater.org/author/storyware/](https://oregonstater.org/author/storyware/)  
+   Link: <a href="https://oregonstater.org/author/storyware/" target="_blank" rel="noopener noreferrer nofollow">https://oregonstater.org/author/storyware/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>storyware, Author at Oregon StaterWatch the Beavs square off against University of Nevada, Las Vegas; join in Class of “4&#x27;s” reunions (&#x27;0...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: shopprairiepublic.org  
-   Link: [https://shopprairiepublic.org/products/dakota-datebook-north-dakota-stories-from-prairie-public-book](https://shopprairiepublic.org/products/dakota-datebook-north-dakota-stories-from-prairie-public-book)  
+   Link: <a href="https://shopprairiepublic.org/products/dakota-datebook-north-dakota-stories-from-prairie-public-book" target="_blank" rel="noopener noreferrer nofollow">https://shopprairiepublic.org/products/dakota-datebook-north-dakota-stories-from-prairie-public-book</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The students of the University of North Dakota&#x27;s Writing, Editing, and Publishing...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: fmdiversion.gov  
    Title: Final February Board Packet  
-   Link: [https://fmdiversion.gov/wp-content/uploads/2026/02/Final-February-Board-Packet.pdf](https://fmdiversion.gov/wp-content/uploads/2026/02/Final-February-Board-Packet.pdf)  
+   Link: <a href="https://fmdiversion.gov/wp-content/uploads/2026/02/Final-February-Board-Packet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fmdiversion.gov/wp-content/uploads/2026/02/Final-February-Board-Packet.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Diversion Board of Authority19 Feb 2026 — A regular meeting of the Metro Flood Diversion Authority Board of Authority was held on January...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: hummedia.manchester.ac.uk  
-   Link: [https://hummedia.manchester.ac.uk/wordpress-websites/archer/wordlist_3-2.txt](https://hummedia.manchester.ac.uk/wordpress-websites/archer/wordlist_3-2.txt)  
+   Link: <a href="https://hummedia.manchester.ac.uk/wordpress-websites/archer/wordlist_3-2.txt" target="_blank" rel="noopener noreferrer nofollow">https://hummedia.manchester.ac.uk/wordpress-websites/archer/wordlist_3-2.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>prior 94 suspected 94 harcourt 94 picked 94 presume 94...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pure.au.dk  
    Title: dk Camera Movement in Narrative Cinema  
-   Link: [https://pure.au.dk/ws/files/52113417/Camera_Movement_0910.pdf](https://pure.au.dk/ws/files/52113417/Camera_Movement_0910.pdf)  
+   Link: <a href="https://pure.au.dk/ws/files/52113417/Camera_Movement_0910.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.au.dk/ws/files/52113417/Camera_Movement_0910.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Movement in Narrative Cinema - Pure94 For an analysis of the expressive function (in Bordwell&#x27;s as well as Gibbs and Pye&#x27;s definition. (p...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: britishcouncil.ro  
    Title: romania library catalogue bucharest 0  
-   Link: [https://www.britishcouncil.ro/sites/default/files/romania-library-catalogue-bucharest_0.pdf](https://www.britishcouncil.ro/sites/default/files/romania-library-catalogue-bucharest_0.pdf)  
+   Link: <a href="https://www.britishcouncil.ro/sites/default/files/romania-library-catalogue-bucharest_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.britishcouncil.ro/sites/default/files/romania-library-catalogue-bucharest_0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Titles @BritishThe 100 Greatest Olympians and Paralympians. Callow, Nick. 2011. LLB 796.480922 CAL S600330371. 100 ideas for teaching cre...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: governmentattic.org  
    Title: An Annotated Bibliography, Lynn E  
-   Link: [https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf](https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf)  
+   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared bySprinkle, R. Leo. Personal and sci1mtific attitudes: a survey of persons interested in UFO reports. Laramie, Wyoming, T...</p></details>

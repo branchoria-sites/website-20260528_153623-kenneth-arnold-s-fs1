@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /john-martin-sighting-1878/
 nav_short_title: Source Trail
 title: How Solid Is the 1878 Paper Trail?
-title_full: How Solid Is the 1878 Paper Trail? | Martin Sighting
+title_full: How Solid Is the 1878 Paper Trail?
 display_title_short: Source Trail
 display_title: Source Trail
 heading_title: How Solid Is the 1878 Paper Trail?
@@ -239,7 +239,7 @@ next_link:
   permalink: /the-witness-19eed3/
   short_title: The Witness
   heading_title: What Did John Martin Really See?
-date: '2026-06-08 23:28:58 '
+date: '2026-06-11 13:17:42 '
 header:
   og_image: /assets/images/John_Martin_sighting_4cec00_newspaper_trail_0488ea-Illustration-1-social.jpg
   preview_image: /assets/images/John_Martin_sighting_4cec00_newspaper_trail_0488ea-Illustration-1.webp
@@ -248,8 +248,7 @@ image: /assets/images/John_Martin_sighting_4cec00_newspaper_trail_0488ea-Illustr
 
 ## Introduction
 
-The [John Martin sighting]({{ 'john-martin-sighting-1878/' | relative_url }}) survives almost entirely because of a short newspaper item published in North Texas in January 1878. That sounds straightforward until the source trail is examined closely. Modern retellings often disagree about when the object was seen, where Martin lived, whether the story originated with the *Denison Daily News* or the *Dallas Herald*, and even whether the object came from the northern or southern sky. Those contradictions matter because the case has no surviving investigative file, no physical evidence, and no known witness testimony outside the newspaper chain itself.
-
+The John Martin sighting survives almost entirely because of a short newspaper item published in North Texas in January 1878. That sounds straightforward until the source trail is examined closely. Modern retellings often disagree about when the object was seen, where Martin lived, whether the story originated with the *Denison Daily News* or the *Dallas Herald*, and even whether the object came from the northern or southern sky. Those contradictions matter because the case has no surviving investigative file, no physical evidence, and no known witness testimony outside the newspaper chain itself.
 
 <img src="{{ "/assets/images/John_Martin_sighting_4cec00_newspaper_trail_0488ea-Illustration-1-dark.svg" | relative_url }}" alt="Source Trail illustration 1" data-theme-src-dark="{{ "/assets/images/John_Martin_sighting_4cec00_newspaper_trail_0488ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Martin_sighting_4cec00_newspaper_trail_0488ea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The strongest anchor is not the sighting date but the publication date: 25 January 1878, when the *Denison Daily News* printed the story “A Strange Phenomenon”. From there, later writers copied, shortened, rephrased, and occasionally misread the report. Over time, the secondary versions became more widely circulated than the original paper, creating a layered folklore history around what was originally just a brief local news item. <span class="citation-chip-wrap"><a class="citation-chip" href="https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texashistory.unt.edu">[The Portal to Texas History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texashistory.unt.edu</span><span class="citation-popover-snippet">The Portal to Texas HistoryDenison Daily News. (Denison, Tex.), Vol. 5, No. 280, Ed. 1...24 Apr 2026 — Daily newspaper from Denison, Tex...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://texascooppower.com/the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texascooppower.com">[Texas Co-op Power]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texascooppower.com</span><span class="citation-popover-snippet">Texas Co-op PowerThe First “Flying Saucer”According to a January 25, 1878, front-page report in the Denison Daily News... Regardless of...</span><span class="citation-popover-meta">Published: January 25, 1878</span></span></span>
@@ -272,7 +271,6 @@ One subtle but important detail is that some later discussions state the *Deniso
 
 That distinction changes how historians evaluate the source trail. If the Denison article was copied from another paper, then:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The famous “anchor source” was not necessarily the earliest printing.
@@ -283,7 +281,6 @@ That distinction changes how historians evaluate the source trail. If the Deniso
 
 This was common in nineteenth-century journalism. Local newspapers frequently exchanged short items through informal syndication networks, often without precise sourcing standards. Brief stories might be condensed, paraphrased, retitled, or partially rewritten as they moved between papers. A modern reader looking for a clean chain of custody will not find one here.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IBaw2oqVz8w" title="&quot;Mystery Airship&quot; Sightings, 1896 - 1897" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer">&quot;Mystery Airship&quot; Sightings, 1896 - 1897</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 182.4K &middot; Uploaded: July 2017 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IBaw2oqVz8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IBaw2oqVz8w">Open on YouTube</a></p></div></div></div>
 
 ## Why Later Dates Diverge
@@ -292,12 +289,11 @@ This was common in nineteenth-century journalism. Local newspapers frequently ex
 
 The strongest fixed date in the entire case is 25 January 1878, the day the *Denison Daily News* published the story. But that is not necessarily the date of the event itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texashistory.unt.edu">[The Portal to Texas History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texashistory.unt.edu</span><span class="citation-popover-snippet">The Portal to Texas HistoryDenison Daily News. (Denison, Tex.), Vol. 5, No. 280, Ed. 1...24 Apr 2026 — Daily newspaper from Denison, Tex...</span></span></span>
 
-The article refers to “Tuesday morning”, which allows historians to infer a likely sighting date of 22 January 1878. Several modern summaries use that reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">HowStuffWorksThe Arrival of Flying SaucersOn the morning of January 22, farmer John Martin noted the swift passage, through the southern...</span></span></span>
+The article refers to “Tuesday morning”, which allows historians to infer a likely sighting date of 22 January 1878. Several modern summaries use that reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">The Arrival of Flying SaucersOn the morning of January 22, farmer John Martin noted the swift passage, through the southern...</span></span></span>
 
 However, other retellings shifted the date to 2 January 1878. That alternative date appears repeatedly in UFO catalogues and anniversary-style webpages despite weaker documentary grounding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://howdyyall.com/Texas/TodaysNews/index.cfm?GetItem=76" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: howdyyall.com">[Howdy Y&#x27;all]</a><span class="citation-popover" role="note"><span class="citation-popover-source">howdyyall.com</span><span class="citation-popover-title">Howdy Y&#x27;all Texas History Headlines</span><span class="citation-popover-snippet">Howdy Y&#x27;allTexas History Headlines - 1878 - Farmer sees Strange...On this date in 1878, The Denison Daily News printed the story of John...</span></span></span>
 
 The confusion likely emerged through cumulative transcription and summary errors:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,7 +316,6 @@ Yet some later reproductions say the object appeared in the northern sky instead
 
 That discrepancy may sound minor, but it illustrates how fragile the transmission chain became once the story entered UFO folklore collections. Direction of travel is one of the most basic observational details in any aerial sighting report. If even that point shifts between retellings, confidence in later narrative embellishments necessarily drops.
 
-
 <img src="{{ "/assets/images/John_Martin_sighting_4cec00_newspaper_trail_0488ea-Illustration-2-dark.svg" | relative_url }}" alt="Source Trail illustration 2" data-theme-src-dark="{{ "/assets/images/John_Martin_sighting_4cec00_newspaper_trail_0488ea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Martin_sighting_4cec00_newspaper_trail_0488ea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### North or south of Denison?
 
@@ -336,7 +331,6 @@ The uncertainty also complicates attempts to identify the witness historically. 
 
 That does not disprove the story, but it shows how little independently verifiable information survives about the witness himself.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L4iYHkWosRY" title="NEW VIDEO! The Kenneth Arnold Sighting, 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L4iYHkWosRY" target="_blank" rel="noopener noreferrer">NEW VIDEO! The Kenneth Arnold Sighting, 1947</a></p><p class="youtube-embed-meta">Channel: UFOCaseReview &middot; Views: 6.2K &middot; Uploaded: October 2016 &middot; Length: 2 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L4iYHkWosRY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L4iYHkWosRY">Open on YouTube</a></p></div></div></div>
 
 ## What Reprints Can and Cannot Prove
@@ -351,7 +345,6 @@ This distinction is crucial in UFO research. A case supported by several witness
 
 Nothing currently known about the John Martin sighting demonstrates:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * independent observers,
@@ -362,7 +355,6 @@ Nothing currently known about the John Martin sighting demonstrates:
 </div>
 
 The surviving evidence instead points toward a single narrative passing through a loose newspaper exchange system.
-
 
 <img src="{{ "/assets/images/John_Martin_sighting_4cec00_newspaper_trail_0488ea-Illustration-3-dark.svg" | relative_url }}" alt="Source Trail illustration 3" data-theme-src-dark="{{ "/assets/images/John_Martin_sighting_4cec00_newspaper_trail_0488ea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Martin_sighting_4cec00_newspaper_trail_0488ea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reprints amplified the “flying saucer” angle
@@ -379,7 +371,6 @@ The newspaper trail surrounding the John Martin sighting illustrates a broader p
 
 At the same time, newspaper transmission introduced instability:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * dates drifted,
@@ -391,49 +382,89 @@ At the same time, newspaper transmission introduced instability:
 
 The result is a case that is historically interesting but evidentially fragile. The 1878 report remains an authentic nineteenth-century newspaper item, yet many details attached to it in later UFO culture rest on a far shakier documentary foundation than casual retellings imply.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/by8UieLPUwU" title="John Martin saw a flying saucer. He told the police." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=by8UieLPUwU" target="_blank" rel="noopener noreferrer">John Martin saw a flying saucer. He told the police.</a></p><p class="youtube-embed-meta">Channel: Grampas World &middot; Views: 18 &middot; Uploaded: May 2021 &middot; Length: 1 minute 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=by8UieLPUwU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=by8UieLPUwU">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Solid Is the 1878 Paper Trail?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Solid Is the 1878 Paper Trail?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">John Martin guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=John+Martin+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Summarizes the historical record of the 1878 sighting and why the newspaper trail is the only evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Newspaper Reprint guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Newspaper+Reprint+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Explains how historical narratives are amplified and transformed by repeated retelling in secondary media.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Portal to Texas History</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Portal+to+Texas+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Offers tools for tracing and evaluating primary sources while guarding against later, distorted retellings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Discusses methodology for identifying the provenance of early newspaper accounts of paranormal sightings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -470,15 +501,15 @@ The result is a case that is historically interesting but evidentially fragile. 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -486,15 +517,15 @@ The result is a case that is historically interesting but evidentially fragile. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +533,15 @@ The result is a case that is historically interesting but evidentially fragile. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,15 +549,15 @@ The result is a case that is historically interesting but evidentially fragile. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,7 +565,7 @@ The result is a case that is historically interesting but evidentially fragile. 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="source-trail-how-solid-is-the-1878-paper-trail-john-martin-sighting-1878-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -749,131 +780,131 @@ The result is a case that is historically interesting but evidentially fragile. 
 
 1. <a id="endnote-1"></a>
    Source: texasescapes.com  
-   Link: [https://www.texasescapes.com/MikeCoxTexasTales/Denison-UFO.htm](https://www.texasescapes.com/MikeCoxTexasTales/Denison-UFO.htm)  
+   Link: <a href="https://www.texasescapes.com/MikeCoxTexasTales/Denison-UFO.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.texasescapes.com/MikeCoxTexasTales/Denison-UFO.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>22] while out hunting, his...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.howstuffworks.com  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm](https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HowStuffWorksThe Arrival of Flying SaucersOn the morning of January 22, farmer John Martin noted the swift passage, through the southern...</p></details>
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/ufo-history1.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Arrival of Flying SaucersOn the morning of January 22, farmer John Martin noted the swift passage, through the southern...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2026 — On January 25, 1878, the Denison Daily News printed an article in which John Martin, a local farmer, had reported seeing a...</p></details>
    Published: May 8, 2026  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Flying_saucer](https://en.wikipedia.org/wiki/Flying_saucer)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucerOn January 25, 1878, the Denison Daily News printed an article in which John Martin, a local farmer, reported an object r...</p></details>
    Published: January 25, 1878  
 
 5. <a id="endnote-5"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/ahistorytexasan02winkgoog/ahistorytexasan02winkgoog_djvu.txt](https://archive.org/stream/ahistorytexasan02winkgoog/ahistorytexasan02winkgoog_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ahistorytexasan02winkgoog/ahistorytexasan02winkgoog_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ahistorytexasan02winkgoog/ahistorytexasan02winkgoog_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>y of a book that was preserved for generations on Hbrary...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/bibliographyofte00rain_0/bibliographyofte00rain_0_djvu.txt](https://archive.org/stream/bibliographyofte00rain_0/bibliographyofte00rain_0_djvu.txt)  
+   Link: <a href="https://archive.org/stream/bibliographyofte00rain_0/bibliographyofte00rain_0_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/bibliographyofte00rain_0/bibliographyofte00rain_0_djvu.txt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>s in print and manuscript since 1536, including a complete collation of the laws.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: History of American newspapers  
-   Link: [https://en.wikipedia.org/wiki/History_of_American_newspapers](https://en.wikipedia.org/wiki/History_of_American_newspapers)  
+   Link: <a href="https://en.wikipedia.org/wiki/History_of_American_newspapers" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/History_of_American_newspapers</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of American newspapersThe history of American newspapers begins in the 17th century with the publication of the first colonial...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: texashistory.unt.edu  
-   Link: [https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/](https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/)  
+   Link: <a href="https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/" target="_blank" rel="noopener noreferrer nofollow">https://texashistory.unt.edu/ark%3A/67531/metapth326826/m1/1/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Portal to Texas HistoryDenison Daily News. (Denison, Tex.), Vol. 5, No. 280, Ed. 1...24 Apr 2026 — Daily newspaper from Denison, Tex...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: texascooppower.com  
-   Link: [https://texascooppower.com/the-first-flying-saucer/](https://texascooppower.com/the-first-flying-saucer/)  
+   Link: <a href="https://texascooppower.com/the-first-flying-saucer/" target="_blank" rel="noopener noreferrer nofollow">https://texascooppower.com/the-first-flying-saucer/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Texas Co-op PowerThe First “Flying Saucer”According to a January 25, 1878, front-page report in the Denison Daily News... Regardless of...</p></details>
    Published: January 25, 1878  
 
 10. <a id="endnote-10"></a>
    Source: texashistory.unt.edu  
    Title: The Portal to Texas History Texas Digital Newspaper Program  
-   Link: [https://texashistory.unt.edu/explore/collections/TDNP/](https://texashistory.unt.edu/explore/collections/TDNP/)  
+   Link: <a href="https://texashistory.unt.edu/explore/collections/TDNP/" target="_blank" rel="noopener noreferrer nofollow">https://texashistory.unt.edu/explore/collections/TDNP/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Portal to Texas HistoryTexas Digital Newspaper Program - The Portal to Texas History5 days ago — The Texas Digital Newspaper Program...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: howdyyall.com  
    Title: Howdy Y'all Texas History Headlines  
-   Link: [https://howdyyall.com/Texas/TodaysNews/index.cfm?GetItem=76](https://howdyyall.com/Texas/TodaysNews/index.cfm?GetItem=76)  
+   Link: <a href="https://howdyyall.com/Texas/TodaysNews/index.cfm?GetItem=76" target="_blank" rel="noopener noreferrer nofollow">https://howdyyall.com/Texas/TodaysNews/index.cfm?GetItem=76</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Howdy Y&#x27;allTexas History Headlines - 1878 - Farmer sees Strange...On this date in 1878, The Denison Daily News printed the story of John...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theufochronicles.com  
    Title: strange phenomenon 1878 farmer eyes  
-   Link: [https://www.theufochronicles.com/2005/10/strange-phenomenon-1878-farmer-eyes.html](https://www.theufochronicles.com/2005/10/strange-phenomenon-1878-farmer-eyes.html)  
+   Link: <a href="https://www.theufochronicles.com/2005/10/strange-phenomenon-1878-farmer-eyes.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theufochronicles.com/2005/10/strange-phenomenon-1878-farmer-eyes.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Martin was out hunting when he noticed a dark object high up in the northern sky. The odd shape and the speed it...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: jhmovie.fandom.com  
    Title: Flying saucer  
-   Link: [https://jhmovie.fandom.com/wiki/Flying_saucer](https://jhmovie.fandom.com/wiki/Flying_saucer)  
+   Link: <a href="https://jhmovie.fandom.com/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://jhmovie.fandom.com/wiki/Flying_saucer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>More recently, the flying saucer has been largely supplanted by other alleged UFO...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/fsar/fsar08.htm](https://sacred-texts.com/ufo/fsar/fsar08.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/fsar/fsar08.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/fsar/fsar08.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveThe Flying Saucers Are Real: Chapter VIIJohn Martin, a farmer who lives some six miles south of this city, we...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: library.uniteddiversity.coop  
-   Link: [https://library.uniteddiversity.coop/Cooperatives/For_All_The_People-History_of_Cooperation_in_America.pdf](https://library.uniteddiversity.coop/Cooperatives/For_All_The_People-History_of_Cooperation_in_America.pdf)  
+   Link: <a href="https://library.uniteddiversity.coop/Cooperatives/For_All_The_People-History_of_Cooperation_in_America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.uniteddiversity.coop/Cooperatives/For_All_The_People-History_of_Cooperation_in_America.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All the PeopleSo his book, For All the People: The Hidden History of Cooperation, Cooperative. Movements, and Communalism in America, rea...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/c/casualties-usnavy-marinecorps-personnel-killed-injured-selected-accidents-other-incidents-notdirectly-result-enemy-action.html](https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/c/casualties-usnavy-marinecorps-personnel-killed-injured-selected-accidents-other-incidents-notdirectly-result-enemy-action.html)  
+   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/c/casualties-usnavy-marinecorps-personnel-killed-injured-selected-accidents-other-incidents-notdirectly-result-enemy-action.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/c/casualties-usnavy-marinecorps-personnel-killed-injured-selected-accidents-other-incidents-notdirectly-result-enemy-action.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>navy.milCasualties: US Navy and Marine Corps Personnel Killed and...The bursting of the boiler tube in the fire-room during a full power...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: newberry.org  
-   Link: [https://www.newberry.org/uploads/files/verticalfiles.pdf](https://www.newberry.org/uploads/files/verticalfiles.pdf)  
+   Link: <a href="https://www.newberry.org/uploads/files/verticalfiles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.newberry.org/uploads/files/verticalfiles.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Will. Joseph Bonney. NJ. Bonney, John- Will... Bryan- John Neely of Dalls, Texas Genealogy. John Neely Bryan b.1810.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-147-years-ago-friday-january-25-1878-in-dall/1161581698661971/](https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-147-years-ago-friday-january-25-1878-in-dall/1161581698661971/)  
+   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-147-years-ago-friday-january-25-1878-in-dall/1161581698661971/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/today-in-ufo-history-on-todays-date-147-years-ago-friday-january-25-1878-in-dall/1161581698661971/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On today&#x27;s date 147 years ago, Friday, January 25, 1878...Martin kept watching the UFO until it moved completely out of view...</p></details>
    Published: January 25, 1878  
 
 19. <a id="endnote-19"></a>
    Source: usufocenter.com  
-   Link: [https://www.usufocenter.com/arc-us-ufo-center-sightings-history-references.html](https://www.usufocenter.com/arc-us-ufo-center-sightings-history-references.html)  
+   Link: <a href="https://www.usufocenter.com/arc-us-ufo-center-sightings-history-references.html" target="_blank" rel="noopener noreferrer nofollow">https://www.usufocenter.com/arc-us-ufo-center-sightings-history-references.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects: History and FolkloreOn January 25, 1878, the Denison Daily News printed an article in which John Martin, a l...</p></details>
    Published: January 25, 1878  
 
 20. <a id="endnote-20"></a>
    Source: authentictexas.com  
-   Link: [https://authentictexas.com/unexplained-phenomena/](https://authentictexas.com/unexplained-phenomena/)  
+   Link: <a href="https://authentictexas.com/unexplained-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://authentictexas.com/unexplained-phenomena/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 25, 1878. Local farmer John Martin was hunting six miles north of town when he spotted something in the distance. Looking high...</p></details>
    Published: January 25, 1878  
 
 21. <a id="endnote-21"></a>
    Source: virginiachronicle.com  
-   Link: [https://www.virginiachronicle.com/?a=d&d=DD18780521.1.2](https://www.virginiachronicle.com/?a=d&d=DD18780521.1.2)  
+   Link: <a href="https://www.virginiachronicle.com/?a=d&amp;d=DD18780521.1.2" target="_blank" rel="noopener noreferrer nofollow">https://www.virginiachronicle.com/?a=d&amp;d=DD18780521.1.2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2 — Daily Dispatch 21 May 1878Why should the monster of the UnionCentral Pacific seek to gobble up the TexasPacific line rather than...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Misquote That Invented “Flying Saucers” 🛸  
-   Link: [http://www.youtube.com/watch?v=Th6TtcBVjDo](http://www.youtube.com/watch?v=Th6TtcBVjDo)  
+   Link: <a href="http://www.youtube.com/watch?v=Th6TtcBVjDo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Th6TtcBVjDo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;John Martin&quot; 1878 newspaper ufo John Martin saw a flying saucer. He told the police...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ufocasebook.com  
-   Link: [https://www.ufocasebook.com/denisontexas1878.html](https://www.ufocasebook.com/denisontexas1878.html)  
+   Link: <a href="https://www.ufocasebook.com/denisontexas1878.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocasebook.com/denisontexas1878.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1878, Denison, Texas Daylight UFOThe sighting was reported by the local newspaper Denison Daily News on January 25, 1878, with th...</p></details>
-   Published: January 25, 1878  
+   Published: January 25, 1878

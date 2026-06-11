@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /mc-minnville-photographs-1950/
 nav_short_title: Witness Story
 title: What Did the Trents Say Happened?
-title_full: What Did the Trents Say Happened? | Mc Minnville Photos
+title_full: What Did the Trents Say Happened?
 display_title_short: Witness Story
 display_title: Witness Story
 heading_title: What Did the Trents Say Happened?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /hoax-theory/
   short_title: Hoax Theory
   heading_title: Could It Have Been a Hanging Model?
-date: '2026-06-08 23:31:01 '
+date: '2026-06-11 13:18:49 '
 header:
   og_image: /assets/images/McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c-Illustration-1-social.jpg
   preview_image: /assets/images/McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c-Il
 ## Introduction
 
 The McMinnville photographs began with a brief evening incident on a farm in rural Oregon on 11 May 1950. According to Paul and Evelyn Trent, they saw a metallic disc-shaped object near their property, and Paul managed to take two photographs before it vanished. Those few moments became one of the most disputed UFO episodes in American history because the witness story never stayed completely fixed. Small differences in the Trents’ retellings, the delay in developing the film, and the ordinary setting of the sighting all became central to later arguments about whether the photographs captured an unexplained object or a carefully staged hoax. The case remains important precisely because the timeline is so short and the evidence so limited: almost everything depends on reconstructing what the Trents said, when they said it, and how consistent those accounts really were. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mc Minnville UFO photographs</span><span class="citation-popover-snippet">Mc Minnville UFO photographs</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">Files Condon Report, Photographic Case Studies: Cases 46</span><span class="citation-popover-snippet">McMinnville, Oregon. 11 May 1950. Investigator: Hartmann. BACK to... Trent&#x27;s photos for authenticity. Expert photographers declared ther...</span><span class="citation-popover-meta">Published: May 1950</span></span></span>
-
 
 <img src="{{ "/assets/images/McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c-Illustration-1-dark.svg" | relative_url }}" alt="Witness Story illustration 1" data-theme-src-dark="{{ "/assets/images/McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The farm location and sighting sequence
@@ -260,7 +259,6 @@ That difference became one of the most discussed details in the entire case. Lat
 
 The Trents consistently maintained that the sighting was genuine, but they were not polished narrators and did not leave behind a single stable testimony. Their story survives through newspaper interviews, radio interviews, UFO investigators, and later retrospective accounts. That patchwork quality is one reason the witness narrative remains controversial.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mQSCb8ZSXrc" title="BIZARRE and UNEXPLAINED UFO Encounters" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mQSCb8ZSXrc" target="_blank" rel="noopener noreferrer">BIZARRE and UNEXPLAINED UFO Encounters</a></p><p class="youtube-embed-meta">Channel: Beyond Origins &middot; Views: 14.7K &middot; Uploaded: February 2018 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mQSCb8ZSXrc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mQSCb8ZSXrc">Open on YouTube</a></p></div></div></div>
 
 ### Evelyn Trent as the first observer
@@ -273,14 +271,13 @@ Evelyn’s role mattered because later supporters argued that her reaction sound
 
 Paul Trent’s actions form the technical core of the story because he took the photographs. He reportedly used a Kodak camera already loaded with film. Accounts describe him stepping outside, observing the object briefly, then taking the first picture. He then advanced the film manually and took a second exposure as the object moved farther away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mc Minnville UFO photographs</span><span class="citation-popover-snippet">Mc Minnville UFO photographs</span></span></span>
 
-The interval between the two photographs became important for later analysts. Some investigators believed the spacing and apparent movement suggested a real distant object crossing the landscape. Others argued the movement was equally consistent with a small suspended model repositioned between exposures. Because the sighting itself allegedly lasted only moments, the entire case depends heavily on interpreting these few actions accurately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">IpacoThe McMinnville pictures - IPACO.frOn May 11th 1950 in McMinnville (Oregon), between 7:30 and 7:45 PM, the farmer Paul. Trent took t...</span></span></span>
+The interval between the two photographs became important for later analysts. Some investigators believed the spacing and apparent movement suggested a real distant object crossing the landscape. Others argued the movement was equally consistent with a small suspended model repositioned between exposures. Because the sighting itself allegedly lasted only moments, the entire case depends heavily on interpreting these few actions accurately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">The McMinnville pictures - IPACO.frOn May 11th 1950 in McMinnville (Oregon), between 7:30 and 7:45 PM, the farmer Paul. Trent took t...</span></span></span>
 
 ### The Trents’ later attitude toward the incident
 
 One reason the case retained credibility among UFO researchers was the Trents’ reputation for modesty. They did not become professional UFO lecturers, did not aggressively seek media attention, and generally avoided public campaigning about the case. Later interviews suggested they initially suspected they had seen a military craft rather than an extraterrestrial vehicle. They also claimed they worried the photographs could cause them trouble if the object was linked to secret government work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mc Minnville UFO photographs</span><span class="citation-popover-snippet">Mc Minnville UFO photographs</span></span></span>
 
 Supporters frequently pointed to this behaviour as evidence against deliberate fraud. Critics responded that an apparently ordinary lifestyle does not rule out a simple photographic prank, especially one carried out casually on private property without expectation of long-term notoriety. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Trent UFO Photos—&#x27;Best&#x27; of All Time—Finally Busted?On</span><span class="citation-popover-snippet">Skeptical InquirerThe Trent UFO Photos—&#x27;Best&#x27; of All Time—Finally Busted?On May 11, 1950, farmer Paul Trent of McMinnville, Oregon, snapp...</span><span class="citation-popover-meta">Published: May 11, 1950</span></span></span>
-
 
 <img src="{{ "/assets/images/McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c-Illustration-2-dark.svg" | relative_url }}" alt="Witness Story illustration 2" data-theme-src-dark="{{ "/assets/images/McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the delayed film matters
@@ -293,8 +290,7 @@ On one hand, supporters argue the delay makes the Trents look less like people a
 
 On the other hand, skeptics argue that the delay removed an important layer of evidentiary protection. Because the film stayed in private hands and continued to be used after the alleged sighting, there was no immediate chain of custody. No independent observer witnessed the state of the negatives immediately after the photographs were taken. In practical terms, this means later investigators could not fully reconstruct exactly what happened to the film between the sighting and public release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Trent UFO Photos—&#x27;Best&#x27; of All Time—Finally Busted?On</span><span class="citation-popover-snippet">Skeptical InquirerThe Trent UFO Photos—&#x27;Best&#x27; of All Time—Finally Busted?On May 11, 1950, farmer Paul Trent of McMinnville, Oregon, snapp...</span><span class="citation-popover-meta">Published: May 11, 1950</span></span></span>
 
-The delayed development also complicates attempts to establish exact timing. Researchers later relied heavily on weather records, shadow analysis, witness memory, and image geometry to estimate whether the photographs really matched the Trents’ claimed evening timeframe. Skeptics arguing for a suspended model sometimes suggested lighting conditions looked more consistent with morning rather than evening sunlight. Defenders disputed those calculations and maintained that the photographs remained compatible with the stated evening chronology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">IpacoThe McMinnville pictures - IPACO.frOn May 11th 1950 in McMinnville (Oregon), between 7:30 and 7:45 PM, the farmer Paul. Trent took t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Trent UFO Photos—&#x27;Best&#x27; of All Time—Finally Busted?On</span><span class="citation-popover-snippet">Skeptical InquirerThe Trent UFO Photos—&#x27;Best&#x27; of All Time—Finally Busted?On May 11, 1950, farmer Paul Trent of McMinnville, Oregon, snapp...</span><span class="citation-popover-meta">Published: May 11, 1950</span></span></span>
-
+The delayed development also complicates attempts to establish exact timing. Researchers later relied heavily on weather records, shadow analysis, witness memory, and image geometry to estimate whether the photographs really matched the Trents’ claimed evening timeframe. Skeptics arguing for a suspended model sometimes suggested lighting conditions looked more consistent with morning rather than evening sunlight. Defenders disputed those calculations and maintained that the photographs remained compatible with the stated evening chronology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">The Mc Minnville pictures</span><span class="citation-popover-snippet">The McMinnville pictures - IPACO.frOn May 11th 1950 in McMinnville (Oregon), between 7:30 and 7:45 PM, the farmer Paul. Trent took t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Trent UFO Photos—&#x27;Best&#x27; of All Time—Finally Busted?On</span><span class="citation-popover-snippet">Skeptical InquirerThe Trent UFO Photos—&#x27;Best&#x27; of All Time—Finally Busted?On May 11, 1950, farmer Paul Trent of McMinnville, Oregon, snapp...</span><span class="citation-popover-meta">Published: May 11, 1950</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xF1kJQclyIw" title="Where We Live: McMinnville&#x27;s famous UFO Festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xF1kJQclyIw" target="_blank" rel="noopener noreferrer">Where We Live: McMinnville&#x27;s famous UFO Festival</a></p><p class="youtube-embed-meta">Channel: KOIN 6 &middot; Views: 11.2K &middot; Uploaded: May 2019 &middot; Length: 2 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xF1kJQclyIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xF1kJQclyIw">Open on YouTube</a></p></div></div></div>
 
@@ -317,7 +313,6 @@ Supporters argue that genuinely remembered events often shift in minor details o
 
 Skeptics focus less on any single discrepancy and more on cumulative reliability. Their argument is that the entire case rests on witness honesty because the photographs alone cannot conclusively establish scale or distance. Once the narrative shows signs of drift, confidence in the whole reconstruction weakens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer The Trent UFO Photos—&#x27;Best&#x27; of All Time—Finally Busted?On</span><span class="citation-popover-snippet">Skeptical InquirerThe Trent UFO Photos—&#x27;Best&#x27; of All Time—Finally Busted?On May 11, 1950, farmer Paul Trent of McMinnville, Oregon, snapp...</span><span class="citation-popover-meta">Published: May 11, 1950</span></span></span>
 
-
 <img src="{{ "/assets/images/McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c-Illustration-3-dark.svg" | relative_url }}" alt="Witness Story illustration 3" data-theme-src-dark="{{ "/assets/images/McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/McMinnville_photogra_4e1af3_trent_witness_timeli_0d9d5c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the witness story still matters
 
@@ -325,49 +320,89 @@ The Trent farm sighting remains central to the McMinnville case because the phot
 
 That is why later debates repeatedly returned to mundane details: feeding animals, searching for a camera, delaying film development, and inconsistent interview wording. In many UFO cases, witness stories are dramatic but unsupported. In the McMinnville case, there are photographs but only a very narrow witness timeline to explain them. The tension between those two elements is what has kept the Trent story alive for more than seventy years.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Zk12ASfg6oo" title="Expert breaks down government-released files ahead of UFO Fest" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Zk12ASfg6oo" target="_blank" rel="noopener noreferrer">Expert breaks down government-released files ahead of UFO Fest</a></p><p class="youtube-embed-meta">Channel: KOIN 6 &middot; Views: 510 &middot; Uploaded: May 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Zk12ASfg6oo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Zk12ASfg6oo">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Did the Trents Say Happened?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Did the Trents Say Happened?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Mc Minnville photographs guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Mc+Minnville+photographs+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Maps out the chronology of the Trent sighting, from initial sighting to photographic development.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Mc Minnville case guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Mc+Minnville+case+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Cross-references the sequential reports from military observers and initial witness accounts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Paul Trent guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Paul+Trent+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches skills for auditing how witness testimony evolves between the initial event and formal interview.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Documents how investigative bureaus processed multiple reports for chronological accuracy during sighting wave audits.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -404,15 +439,15 @@ That is why later debates repeatedly returned to mundane details: feeding animal
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/4c3880f38b00ff87477b.jpg' | relative_url }}" alt="Listing image for UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Harry Baird, Gabrielle Drake 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -420,15 +455,15 @@ That is why later debates repeatedly returned to mundane details: feeding animal
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Vehicle Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/515424d9b9f1d48ff309.jpg' | relative_url }}" alt="Listing image for UFO (TV) Vehicle Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Vehicle Scene 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -436,15 +471,15 @@ That is why later debates repeatedly returned to mundane details: feeding animal
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/12f46aa57a03b419cd19.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -452,15 +487,15 @@ That is why later debates repeatedly returned to mundane details: feeding animal
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -468,7 +503,7 @@ That is why later debates repeatedly returned to mundane details: feeding animal
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="witness-story-6d88b4-what-did-the-trents-say-happened-mc-minnville-photographs-1950-ufo-photo-print-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -684,25 +719,25 @@ That is why later debates repeatedly returned to mundane details: feeding animal
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mc Minnville UFO photographs  
-   Link: [https://en.wikipedia.org/wiki/McMinnville_UFO_photographs](https://en.wikipedia.org/wiki/McMinnville_UFO_photographs)  
+   Link: <a href="https://en.wikipedia.org/wiki/McMinnville_UFO_photographs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/McMinnville_UFO_photographs</a>  
 
 2. <a id="endnote-2"></a>
    Source: files.ncas.org  
    Title: Files Condon Report, Photographic Case Studies: Cases 46  
-   Link: [https://files.ncas.org/condon/text/case46.htm](https://files.ncas.org/condon/text/case46.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case46.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case46.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville, Oregon. 11 May 1950. Investigator: Hartmann. BACK to... Trent&#x27;s photos for authenticity. Expert photographers declared ther...</p></details>
    Published: May 1950  
 
 3. <a id="endnote-3"></a>
    Source: ipaco.fr  
    Title: The Mc Minnville pictures  
-   Link: [https://www.ipaco.fr/ReportMcMinnville.pdf](https://www.ipaco.fr/ReportMcMinnville.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IpacoThe McMinnville pictures - IPACO.frOn May 11th 1950 in McMinnville (Oregon), between 7:30 and 7:45 PM, the farmer Paul. Trent took t...</p></details>
+   Link: <a href="https://www.ipaco.fr/ReportMcMinnville.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ipaco.fr/ReportMcMinnville.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The McMinnville pictures - IPACO.frOn May 11th 1950 in McMinnville (Oregon), between 7:30 and 7:45 PM, the farmer Paul. Trent took t...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer The Trent UFO Photos—'Best' of All Time—Finally Busted?On  
-   Link: [https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/](https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/)  
+   Link: <a href="https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2015/01/the-trent-ufo-photosbest-of-all-timefinally-busted/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skeptical InquirerThe Trent UFO Photos—&#x27;Best&#x27; of All Time—Finally Busted?On May 11, 1950, farmer Paul Trent of McMinnville, Oregon, snapp...</p></details>
    Published: May 11, 1950  
 
@@ -710,56 +745,56 @@ That is why later debates repeatedly returned to mundane details: feeding animal
 
 5. <a id="endnote-5"></a>
    Source: scottbakal.com  
-   Link: [https://www.scottbakal.com/mcminnvilleufo](https://www.scottbakal.com/mcminnvilleufo)  
+   Link: <a href="https://www.scottbakal.com/mcminnvilleufo" target="_blank" rel="noopener noreferrer nofollow">https://www.scottbakal.com/mcminnvilleufo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>McMinnville UFOThe McMinnville UFO photographs, also known as the Trent UFO photos, were taken by a farming couple, Paul and Evelyn Trent...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40sarah.cothron/the-truth-is-out-there-the-mcminnville-ufo-sighting-of-1950-blog-4-54527f7070a2](https://medium.com/%40sarah.cothron/the-truth-is-out-there-the-mcminnville-ufo-sighting-of-1950-blog-4-54527f7070a2)  
+   Link: <a href="https://medium.com/%40sarah.cothron/the-truth-is-out-there-the-mcminnville-ufo-sighting-of-1950-blog-4-54527f7070a2" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40sarah.cothron/the-truth-is-out-there-the-mcminnville-ufo-sighting-of-1950-blog-4-54527f7070a2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth Is Out There: The McMinnville UFO Sighting of...Trent used one of the side mirrors from his truck hanging on a wire to mimic a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/17qmriu/mcminnville_oregon_ufo_this_is_one_of_the_few_ufo/](https://www.reddit.com/r/UFOs/comments/17qmriu/mcminnville_oregon_ufo_this_is_one_of_the_few_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/17qmriu/mcminnville_oregon_ufo_this_is_one_of_the_few_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17qmriu/mcminnville_oregon_ufo_this_is_one_of_the_few_ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is one of the few UFO reports in which all factors...McMinnville Oregon UFO: This is one of the few UFO reports in which all factor...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ufofest.com  
-   Link: [https://ufofest.com/wp-content/uploads/2018/10/UFOHistory3.05.pdf](https://ufofest.com/wp-content/uploads/2018/10/UFOHistory3.05.pdf)  
+   Link: <a href="https://ufofest.com/wp-content/uploads/2018/10/UFOHistory3.05.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ufofest.com/wp-content/uploads/2018/10/UFOHistory3.05.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>historYThe Condon Report&#x27;s conclusion not only re-established the Trent case at the forefront of UFO lore, it sparked a rash of theories...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
    Title: maybe my all time favorite flying saucer photos  
-   Link: [https://www.facebook.com/art.chantry/posts/maybe-my-all-time-favorite-flying-saucer-photos/10162151390263873/](https://www.facebook.com/art.chantry/posts/maybe-my-all-time-favorite-flying-saucer-photos/10162151390263873/)  
+   Link: <a href="https://www.facebook.com/art.chantry/posts/maybe-my-all-time-favorite-flying-saucer-photos/10162151390263873/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/art.chantry/posts/maybe-my-all-time-favorite-flying-saucer-photos/10162151390263873/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>maybe my all-time favorite flying saucer photos.The McMinnville UFO Photos — Oregon, 1950 In May 1950, Paul and Evelyn Trent photographed...</p></details>
    Published: May 1950  
 
 10. <a id="endnote-10"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYNOkiqkexO/](https://www.instagram.com/p/DYNOkiqkexO/)  
+   Link: <a href="https://www.instagram.com/p/DYNOkiqkexO/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYNOkiqkexO/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 1950 – Evelyn and Paul Trent take the McMinnville...May 11, 1950 – Evelyn and Paul Trent take the McMinnville UFO photographs (O...</p></details>
    Published: May 11, 1950  
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/theoregonian/posts/the-roots-of-the-ufo-festival-trace-back-to-may-11-1950-when-evelyn-trent-went-o/1076023721239452/](https://www.facebook.com/theoregonian/posts/the-roots-of-the-ufo-festival-trace-back-to-may-11-1950-when-evelyn-trent-went-o/1076023721239452/)  
+   Link: <a href="https://www.facebook.com/theoregonian/posts/the-roots-of-the-ufo-festival-trace-back-to-may-11-1950-when-evelyn-trent-went-o/1076023721239452/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theoregonian/posts/the-roots-of-the-ufo-festival-trace-back-to-may-11-1950-when-evelyn-trent-went-o/1076023721239452/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 1950...The roots of the UFO Festival trace back to May 11, 1950, when Evelyn Trent went out to feed the chickens on her family&#x27;s...</p></details>
    Published: May 11, 1950  
 
 12. <a id="endnote-12"></a>
    Source: ufofest.com  
-   Link: [https://ufofest.com/event/screening-of-trent-ufo-documentary-2026/](https://ufofest.com/event/screening-of-trent-ufo-documentary-2026/)  
+   Link: <a href="https://ufofest.com/event/screening-of-trent-ufo-documentary-2026/" target="_blank" rel="noopener noreferrer nofollow">https://ufofest.com/event/screening-of-trent-ufo-documentary-2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Screening of Trent UFO DocumentaryOn May 11, 1950 an uneventful afternoon became, in just a few chaotic seconds, a life-transforming expe...</p></details>
    Published: May 11, 1950  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1n69tm4/the_trent_ufo_was_a_large_distant_object/](https://www.reddit.com/r/UFOs/comments/1n69tm4/the_trent_ufo_was_a_large_distant_object/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1n69tm4/the_trent_ufo_was_a_large_distant_object/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1n69tm4/the_trent_ufo_was_a_large_distant_object/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>port: [http://files.ncas.org/condon/text/case46.Read](http://files.ncas.org/condon/text/case46.Read) more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: Sheridan Willamina Grand Ronde Hometown  
-   Link: [https://www.facebook.com/groups/SheridanWillaminaGrandRondeHometown/posts/1634663346878729/](https://www.facebook.com/groups/SheridanWillaminaGrandRondeHometown/posts/1634663346878729/)  
+   Link: <a href="https://www.facebook.com/groups/SheridanWillaminaGrandRondeHometown/posts/1634663346878729/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SheridanWillaminaGrandRondeHometown/posts/1634663346878729/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Local insights on the Trents&#x27; UFO sighting in McMinnvilleIn 1975, Bruce, an optical physicist of the US Navy, analyzed these photos and c...</p></details>

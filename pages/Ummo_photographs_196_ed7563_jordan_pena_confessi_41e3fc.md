@@ -20,7 +20,7 @@ sidebar_expanded_urls:
 - /were-the-1967-ummo-photographs-real-or-a/
 nav_short_title: Peña Confession
 title: How Did Jordán Peña’s Confession Affect the 1967 Ummo Case?
-title_full: How Did Jordán Peña’s Confession Affect the 1967 Ummo Case? | Ummo Photos
+title_full: How Did Jordán Peña’s Confession Affect the 1967 Ummo Case?
 display_title_short: Peña Confession
 display_title: Peña Confession
 heading_title: How Did Jordán Peña’s Confession Affect the 1967 Ummo Case?
@@ -231,7 +231,7 @@ next_link:
   permalink: /photo-analysis/
   short_title: Photo Analysis
   heading_title: Could the 1967 Ummo Photographs Have Been Staged?
-date: '2026-06-08 23:38:11 '
+date: '2026-06-11 13:22:19 '
 header:
   og_image: /assets/images/Ummo_photographs_196_ed7563_jordan_pena_confessi_41e3fc-Illustration-1-social.jpg
   preview_image: /assets/images/Ummo_photographs_196_ed7563_jordan_pena_confessi_41e3fc-Illustration-1.webp
@@ -240,8 +240,7 @@ image: /assets/images/Ummo_photographs_196_ed7563_jordan_pena_confessi_41e3fc-Il
 
 ## Introduction
 
-José Luis Jordán Peña’s confession changed the [Ummo photographs]({{ 'were-the-1967-ummo-photographs-real-or-a/' | relative_url }}) from possible corroboration into suspected artefacts of a constructed UFO narrative. Before his admission, the 1967 San José de Valderas images seemed to give the Ummo letters a public, photographic anchor: a disc-shaped object, the same emblem, and a recognisable Madrid setting. After Peña acknowledged authorship of the wider Ummo affair in the 1990s, the photographs were increasingly read as part of the hoax mechanism rather than as independent evidence. That did not end the Ummo story, but it shifted the central question from “Did this object fly over Valderas?” to “How did letters, staged testimony, photographs and media coverage reinforce one another for decades?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://elpais.com/elpais/2019/08/29/icon/1567087063_903049.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com">[El País]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com</span><span class="citation-popover-title">El País Ummo: el mayor caso de ovnis en España que acabó</span><span class="citation-popover-snippet">El PaísUmmo: el mayor caso de ovnis en España que acabó...September 1, 2019 — 1 Sept 2019 — Uno de esos jóvenes era el periodista Manuel...</span><span class="citation-popover-meta">Published: September 1, 2019</span></span></span>
-
+José Luis Jordán Peña’s confession changed the Ummo photographs from possible corroboration into suspected artefacts of a constructed UFO narrative. Before his admission, the 1967 San José de Valderas images seemed to give the Ummo letters a public, photographic anchor: a disc-shaped object, the same emblem, and a recognisable Madrid setting. After Peña acknowledged authorship of the wider Ummo affair in the 1990s, the photographs were increasingly read as part of the hoax mechanism rather than as independent evidence. That did not end the Ummo story, but it shifted the central question from “Did this object fly over Valderas?” to “How did letters, staged testimony, photographs and media coverage reinforce one another for decades?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://elpais.com/elpais/2019/08/29/icon/1567087063_903049.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com">[El País]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com</span><span class="citation-popover-title">El País Ummo: el mayor caso de ovnis en España que acabó</span><span class="citation-popover-snippet">El PaísUmmo: el mayor caso de ovnis en España que acabó...September 1, 2019 — 1 Sept 2019 — Uno de esos jóvenes era el periodista Manuel...</span><span class="citation-popover-meta">Published: September 1, 2019</span></span></span>
 
 <img src="{{ "/assets/images/Ummo_photographs_196_ed7563_jordan_pena_confessi_41e3fc-Illustration-1-dark.svg" | relative_url }}" alt="Peña Confession illustration 1" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_jordan_pena_confessi_41e3fc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_jordan_pena_confessi_41e3fc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Peña’s role mattered before the confession
@@ -249,7 +248,6 @@ José Luis Jordán Peña’s confession changed the [Ummo photographs]({{ 'were-
 Peña was not a distant debunker appearing after the fact. He was already entangled with the Ummo story through the 1966 Aluche episode, later investigation of the 1967 Valderas photographs, and the circles around Fernando Sesma, where the Ummo letters circulated. Specialist summaries note that he helped locate or interview peripheral witnesses and was repeatedly present where the paper trail, sightings and photographs intersected. [Yumpu](#endnote-2 "Snippet: YumpuUmmo - Fundación Anomalía15 Dec 2012 — UMMO: The planet of the anonymous<br />. correspondents. MAGONIA nº 47. Pags: 9-14.<br />. (3...")
 
 That mattered because the Valderas photographs had always depended on trust in a fragile chain of provenance. The alleged photographers were anonymous, the negatives reportedly reached the press through intermediaries, and the visual link to the Ummo letters rested on the emblem visible on the object. Once Peña became the admitted organiser, those weak points looked less like unfortunate gaps and more like features of a controlled narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://es.wikipedia.org/wiki/Ummo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0mQ1kGk2A88" title="The story of the Calvine UFO photograph | In Case You Missed It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer">The story of the Calvine UFO photograph | In Case You Missed It</a></p><p class="youtube-embed-meta">Channel: BBC News &middot; Views: 117.5K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0mQ1kGk2A88">Open on YouTube</a></p></div></div></div>
 
@@ -260,7 +258,6 @@ The decisive public break came in the 1990s. Sources differ in emphasis, but the
 Spanish media later framed the confession as the moment when the case’s centre of gravity moved from mystery to fraud. *El País* reports that Manuel Carballal later recreated the San José de Valderas photographs with a model and fishing rod, reinforcing earlier accusations that the images were staged rather than anomalous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://elpais.com/elpais/2019/08/29/icon/1567087063_903049.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elpais.com">[El País]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elpais.com</span><span class="citation-popover-title">El País Ummo: el mayor caso de ovnis en España que acabó</span><span class="citation-popover-snippet">El PaísUmmo: el mayor caso de ovnis en España que acabó...September 1, 2019 — 1 Sept 2019 — Uno de esos jóvenes era el periodista Manuel...</span><span class="citation-popover-meta">Published: September 1, 2019</span></span></span>
 
 The admission still left room for dispute. Peña’s explanations were sometimes vague, and believers argued that one man could not have produced the full volume and technical range of the Ummo correspondence. That ambiguity helped the narrative survive among committed followers even as the photographs lost much of their evidential force. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Jos%C3%A9_Luis_Jord%C3%A1n_Pe%C3%B1a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">José Luis Jordán Peña</span><span class="citation-popover-snippet">José Luis Jordán Peña</span></span></span>
-
 
 <img src="{{ "/assets/images/Ummo_photographs_196_ed7563_jordan_pena_confessi_41e3fc-Illustration-2-dark.svg" | relative_url }}" alt="Peña Confession illustration 2" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_jordan_pena_confessi_41e3fc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_jordan_pena_confessi_41e3fc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the confession reframed the 1967 photographs
@@ -273,7 +270,6 @@ Second, it gave new weight to technical scepticism. Claims that the photographs 
 
 Third, it weakened witness corroboration. If Peña helped generate, collect or frame testimony around the case, then witness statements could no longer be treated as neutral support for the images without close scrutiny of who found the witnesses, when they spoke, and how their accounts entered the public record. [Yumpu](#endnote-2 "Snippet: YumpuUmmo - Fundación Anomalía15 Dec 2012 — UMMO: The planet of the anonymous<br />. correspondents. MAGONIA nº 47. Pags: 9-14.<br />. (3...")
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/o7Tu-28hyow" title="Michael Shermer on How to Fake UFO Photographs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=o7Tu-28hyow" target="_blank" rel="noopener noreferrer">Michael Shermer on How to Fake UFO Photographs</a></p><p class="youtube-embed-meta">Channel: Skeptic &middot; Views: 196.5K &middot; Uploaded: July 2007 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=o7Tu-28hyow" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=o7Tu-28hyow">Open on YouTube</a></p></div></div></div>
 
 ## Why belief survived after the admission
@@ -282,7 +278,6 @@ The confession divided the Ummo audience rather than erasing it. Some accepted t
 
 That response is important for understanding the 1967 photographs. By the time Peña confessed, the images had already become icons within a larger mythology. Their power no longer came only from what they showed, but from the decades of letters, books, meetings, personal investment and secondary speculation attached to them.
 
-
 <img src="{{ "/assets/images/Ummo_photographs_196_ed7563_jordan_pena_confessi_41e3fc-Illustration-3-dark.svg" | relative_url }}" alt="Peña Confession illustration 3" data-theme-src-dark="{{ "/assets/images/Ummo_photographs_196_ed7563_jordan_pena_confessi_41e3fc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ummo_photographs_196_ed7563_jordan_pena_confessi_41e3fc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What changed for historical interpretation
 
@@ -290,428 +285,162 @@ For modern historical analysis, Peña’s confession makes the Valderas photogra
 
 The strongest post-confession reading is therefore not that every detail is perfectly explained, but that the burden of proof shifted decisively. After Peña’s admission, the photographs could no longer be treated as independent confirmation of the Ummo letters. They became part of the same problem: a visually memorable, poorly provenanced and later-confessed story-world built around the San José de Valderas images.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CONTfbyUtSo" title="UFO Hoaxes These Will Leave You Speechless | The Proof Is Out There | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CONTfbyUtSo" target="_blank" rel="noopener noreferrer">UFO Hoaxes These Will Leave You Speechless | The Proof Is Out There | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 141.6K &middot; Uploaded: March 2025 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CONTfbyUtSo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CONTfbyUtSo">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Did Jordán Peña’s Confession Affect the 1967 Ummo Case?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Did Jordán Peña’s Confession Affect the 1967 Ummo Case?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">José Luis Jordán Peña guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Jos%C3%A9+Luis+Jord%C3%A1n+Pe%C3%B1a+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Details Vallee&#x27;s direct interactions with Fernando Sesma&#x27;s Madrid group, logging the exact intersection of the paper trail before the con...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Ummo letters guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Ummo+letters+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Evaluates Jose Luis Jordan Pena&#x27;s 1990s public confession in El Pais, tracing how letters, staged testimonies, and model photographs rein...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Ummo affair guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Ummo+affair+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Deconstructs why true believers stubbornly cling to a constructed myth long after the original hoaxer details the entire setup.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Deconstructs the 1966 Aluche episode files, reviewing why the trust in a fragile chain of provenance permanently collapsed.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="pe-a-confession-how-did-jord-n-pe-a-s-confession-affect-the-1967-ummo-case-ummo-photographs-1967-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function localeMatches() {
-    var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
-    try {
-      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
-      else if (navigator.language) languages = [navigator.language];
-    } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
-      var normalized = normalize(languages[i]);
-      if (!normalized) continue;
-      if (localeMarketMap[normalized]) {
-        exactMarket = localeMarketMap[normalized];
-        break;
-      }
-      var languageOnly = normalized.split('-')[0];
-      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
-    }
-    return { exact: exactMarket, language: languageMarket };
-  }
-  function inferFromLocale() {
-    var matches = localeMatches();
-    return matches.exact || matches.language || '';
-  }
-  function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
-      var rule = timezoneRules[i] || {};
-      try {
-        if (new RegExp(rule.pattern).test(tz)) return rule.market;
-      } catch (err) {}
-    }
-    return '';
-  }
-  function inferMarket(available, options) {
-    available = Array.isArray(available) ? available : [];
-    options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
-    try {
-      var saved = window.localStorage && localStorage.getItem(storageKey);
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var timezoneMarket = inferFromTimezone();
-    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
-    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
-    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
-  }
-  window.PhoenixAffiliateLocation = {
-    normalize: normalize,
-    inferMarket: inferMarket,
-    inferFromLocale: inferFromLocale,
-    inferFromTimezone: inferFromTimezone
-  };
-})();
-</script>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-localized-links]');
-  if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
-  function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
-  }
-  function buildUrl(query, reference, marketId) {
-    var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
-    var params = [];
-    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
-    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
-    params.push('mkevt=1');
-    params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
-    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
-    return url + joiner + params.join('&');
-  }
-  function domainLabel(marketId) {
-    var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
-  }
-  function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function closeMenu(section) {
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var picker = section.querySelector('.fr-ebay-market-picker');
-    if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
-    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
-  }
-  function availableMarkets(section) {
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select) {
-      return Array.prototype.slice.call(select.options)
-        .map(function (option) { return option.value; })
-        .filter(function (marketId) { return !!markets[marketId]; });
-    }
-    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
-      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
-      .filter(function (marketId) { return !!markets[marketId]; });
-  }
-  function applyMarket(section, marketId, persist) {
-    var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
-      link.setAttribute('href', buildUrl(query, reference, marketId));
-    });
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
-    var selectedText = marketId;
-    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-      label.textContent = selectedText;
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-      flag.className = flagClass(marketId);
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-      label.textContent = selectedText;
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
-      label.textContent = domainLabel(marketId);
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
-      var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
-    });
-    section.setAttribute('data-ebay-selected-market', marketId);
-    if (persist) {
-      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
-    }
-    closeMenu(section);
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
-    var available = availableMarkets(section);
-    var marketId = defaultMarket;
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: defaultMarket
-      });
-    } else if (available.indexOf(defaultMarket) < 0) {
-      marketId = available[0] || defaultMarket;
-    }
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select) {
-      select.addEventListener('change', function () {
-        applyMarket(section, select.value, true);
-      });
-    }
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    if (trigger && menu) {
-      trigger.addEventListener('click', function (event) {
-        event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
-        menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-        var picker = trigger.closest('.fr-ebay-market-picker');
-        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
-      });
-      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.addEventListener('click', function (event) {
-          event.stopPropagation();
-          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
-        });
-      });
-      document.addEventListener('click', function () { closeMenu(section); });
-    }
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
-      button.addEventListener('click', function () {
-        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
-      });
-    });
-    applyMarket(section, marketId, false);
-  });
-})();
-</script>
 </section>
 
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: [https://es.wikipedia.org/wiki/Ummo](https://es.wikipedia.org/wiki/Ummo)  
+   Link: <a href="https://es.wikipedia.org/wiki/Ummo" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Ummo</a>  
 
 2. <a id="endnote-2"></a>
    Source: yumpu.com  
-   Link: [https://www.yumpu.com/en/document/view/6115813/ummo-fundacion-anomalia](https://www.yumpu.com/en/document/view/6115813/ummo-fundacion-anomalia)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>YumpuUmmo - Fundación Anomalía15 Dec 2012 — UMMO: The planet of the anonymous&lt;br /&gt;. correspondents. MAGONIA nº 47. Pags: 9-14.&lt;br /&gt;. (3...</p></details>
+   Link: <a href="https://www.yumpu.com/en/document/view/6115813/ummo-fundacion-anomalia" target="_blank" rel="noopener noreferrer nofollow">https://www.yumpu.com/en/document/view/6115813/ummo-fundacion-anomalia</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ummo - Fundación Anomalía15 Dec 2012 — UMMO: The planet of the anonymous&lt;br /&gt;. correspondents. MAGONIA nº 47. Pags: 9-14.&lt;br /&gt;. (3...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: José Luis Jordán Peña  
-   Link: [https://it.wikipedia.org/wiki/Jos%C3%A9_Luis_Jord%C3%A1n_Pe%C3%B1a](https://it.wikipedia.org/wiki/Jos%C3%A9_Luis_Jord%C3%A1n_Pe%C3%B1a)  
+   Link: <a href="https://it.wikipedia.org/wiki/Jos%C3%A9_Luis_Jord%C3%A1n_Pe%C3%B1a" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Jos%C3%A9_Luis_Jord%C3%A1n_Pe%C3%B1a</a>  
 
 4. <a id="endnote-4"></a>
    Source: 20minutos.es  
-   Link: [https://www.20minutos.es/cinemania/series/caso-ummo-mentira-ovni-ufologia-espana-alienigena-5079108/](https://www.20minutos.es/cinemania/series/caso-ummo-mentira-ovni-ufologia-espana-alienigena-5079108/)  
+   Link: <a href="https://www.20minutos.es/cinemania/series/caso-ummo-mentira-ovni-ufologia-espana-alienigena-5079108/" target="_blank" rel="noopener noreferrer nofollow">https://www.20minutos.es/cinemania/series/caso-ummo-mentira-ovni-ufologia-espana-alienigena-5079108/</a>  
 
 5. <a id="endnote-5"></a>
    Source: elpais.com  
    Title: El País Ummo: el mayor caso de ovnis en España que acabó  
-   Link: [https://elpais.com/elpais/2019/08/29/icon/1567087063_903049.html](https://elpais.com/elpais/2019/08/29/icon/1567087063_903049.html)  
+   Link: <a href="https://elpais.com/elpais/2019/08/29/icon/1567087063_903049.html" target="_blank" rel="noopener noreferrer nofollow">https://elpais.com/elpais/2019/08/29/icon/1567087063_903049.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>El PaísUmmo: el mayor caso de ovnis en España que acabó...September 1, 2019 — 1 Sept 2019 — Uno de esos jóvenes era el periodista Manuel...</p></details>
    Published: September 1, 2019  
 
 6. <a id="endnote-6"></a>
    Source: magoniamagazine.blogspot.com  
-   Link: [https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html](https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html)  
+   Link: <a href="https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html" target="_blank" rel="noopener noreferrer nofollow">https://magoniamagazine.blogspot.com/2013/11/ummo-planet-of-anonymous-correspondents.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>To establish an inescapable link between both sets of events, the UFO displayed upon its belly the...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: larazon.es  
-   Link: [https://www.larazon.es/madrid/ummo-ovni-alcorcon-que-nunca-estuvo-alli_20230305640387621e80a400014eb9b5.html](https://www.larazon.es/madrid/ummo-ovni-alcorcon-que-nunca-estuvo-alli_20230305640387621e80a400014eb9b5.html)  
+   Link: <a href="https://www.larazon.es/madrid/ummo-ovni-alcorcon-que-nunca-estuvo-alli_20230305640387621e80a400014eb9b5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.larazon.es/madrid/ummo-ovni-alcorcon-que-nunca-estuvo-alli_20230305640387621e80a400014eb9b5.html</a>  
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Analyzing UFO Photographs with Ray Stanford  
-   Link: [https://www.youtube.com/watch?v=kvON6smO1Aw](https://www.youtube.com/watch?v=kvON6smO1Aw)  
+   Link: <a href="https://www.youtube.com/watch?v=kvON6smO1Aw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kvON6smO1Aw</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Signals and Media Hoaxes | The Proof Is Out There...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Analyzing Famous UFO Photo Myths  
-   Link: [https://www.youtube.com/watch?v=0mQ1kGk2A88](https://www.youtube.com/watch?v=0mQ1kGk2A88)  
+   Link: <a href="https://www.youtube.com/watch?v=0mQ1kGk2A88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0mQ1kGk2A88</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing UFO Photographs with Ray Stanford...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Top 5 UFO Hoaxes Exposed  
-   Link: [https://www.youtube.com/watch?v=CONTfbyUtSo](https://www.youtube.com/watch?v=CONTfbyUtSo)  
+   Link: <a href="https://www.youtube.com/watch?v=CONTfbyUtSo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CONTfbyUtSo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Michael Shermer on How to Fake UFO Photographs...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
    Title: 354868604 ufo contact from planet ummo pdf djvu.txt  
-   Link: [https://archive.org/stream/354868604-ufo-contact-from-planet-ummo-pdf/354868604-ufo-contact-from-planet-ummo-pdf_djvu.txt](https://archive.org/stream/354868604-ufo-contact-from-planet-ummo-pdf/354868604-ufo-contact-from-planet-ummo-pdf_djvu.txt)  
+   Link: <a href="https://archive.org/stream/354868604-ufo-contact-from-planet-ummo-pdf/354868604-ufo-contact-from-planet-ummo-pdf_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/354868604-ufo-contact-from-planet-ummo-pdf/354868604-ufo-contact-from-planet-ummo-pdf_djvu.txt</a>  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Michael Shermer on How to Fake UFO Photographs  
-   Link: [https://www.youtube.com/watch?v=o7Tu-28hyow](https://www.youtube.com/watch?v=o7Tu-28hyow)  
+   Link: <a href="https://www.youtube.com/watch?v=o7Tu-28hyow" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o7Tu-28hyow</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Famous UFO Photo Myths...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Strange Signals and Media Hoaxes | The Proof Is Out There  
-   Link: [https://www.youtube.com/watch?v=2nTFWehgP2w](https://www.youtube.com/watch?v=2nTFWehgP2w)  
+   Link: <a href="https://www.youtube.com/watch?v=2nTFWehgP2w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2nTFWehgP2w</a>

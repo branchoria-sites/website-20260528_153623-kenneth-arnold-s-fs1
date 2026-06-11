@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /fatima-apparition-1917/
 nav_short_title: The Children
 title: How Reliable Were the Fatima Children?
-title_full: How Reliable Were the Fatima Children? | Fatima
+title_full: How Reliable Were the Fatima Children?
 display_title_short: The Children
 display_title: The Children
 heading_title: How Reliable Were the Fatima Children?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /sun-miracle/
   short_title: Sun Miracle
   heading_title: Did the Sun Really Dance at Fatima?
-date: '2026-06-08 23:24:59 '
+date: '2026-06-11 13:15:40 '
 header:
   og_image: /assets/images/Fatima_apparition_19_f6784f_children_witnesses_c0a900-Illustration-1-social.jpg
   preview_image: /assets/images/Fatima_apparition_19_f6784f_children_witnesses_c0a900-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Fatima_apparition_19_f6784f_children_witnesses_c0a900-Illu
 
 ## Introduction
 
-The credibility of the [Fatima apparitions]({{ 'fatima-apparition-1917/' | relative_url }}) depends heavily on the three original witnesses: Lúcia dos Santos and her younger cousins Francisco and Jacinta Marto. In 1917 they were rural Portuguese shepherd children aged roughly ten, nine and seven. Their youth cuts both ways in later debate. Believers argue that children of that age were unlikely to invent and sustain such a story under pressure, while sceptics argue that young witnesses are especially vulnerable to suggestion, memory change and adult influence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parish.rcdow.org.uk/whitecity/our-lady-of-fatima/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parish.rcdow.org.uk">[parish.rcdow.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parish.rcdow.org.uk</span><span class="citation-popover-title">Our Lady of Fatima – Roman Catholic Parish of White City First apparitions</span><span class="citation-popover-snippet">In the Spring and Summer of 1916, three little shepherd children, Lucia Santos and her two cousins, Jacinta and Francisco Marto, experien...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ewtn.com/catholicism/library/true-story-of-fatima-5915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ewtn.com">[EWTN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ewtn.com</span><span class="citation-popover-snippet">The True Story of FatimaAnd like the good Ti Marto, father of Jacinta and Francisco, she will be our witness many times. On their way to...</span></span></span>
-
+The credibility of the Fatima apparitions depends heavily on the three original witnesses: Lúcia dos Santos and her younger cousins Francisco and Jacinta Marto. In 1917 they were rural Portuguese shepherd children aged roughly ten, nine and seven. Their youth cuts both ways in later debate. Believers argue that children of that age were unlikely to invent and sustain such a story under pressure, while sceptics argue that young witnesses are especially vulnerable to suggestion, memory change and adult influence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://parish.rcdow.org.uk/whitecity/our-lady-of-fatima/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: parish.rcdow.org.uk">[parish.rcdow.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">parish.rcdow.org.uk</span><span class="citation-popover-title">Our Lady of Fatima – Roman Catholic Parish of White City First apparitions</span><span class="citation-popover-snippet">In the Spring and Summer of 1916, three little shepherd children, Lucia Santos and her two cousins, Jacinta and Francisco Marto, experien...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ewtn.com/catholicism/library/true-story-of-fatima-5915" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ewtn.com">[EWTN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ewtn.com</span><span class="citation-popover-snippet">The True Story of FatimaAnd like the good Ti Marto, father of Jacinta and Francisco, she will be our witness many times. On their way to...</span></span></span>
 
 <img src="{{ "/assets/images/Fatima_apparition_19_f6784f_children_witnesses_c0a900-Illustration-1-dark.svg" | relative_url }}" alt="The Children illustration 1" data-theme-src-dark="{{ "/assets/images/Fatima_apparition_19_f6784f_children_witnesses_c0a900-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fatima_apparition_19_f6784f_children_witnesses_c0a900-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The witness problem at Fatima is not simply whether the children lied. The more difficult question is how their testimony evolved under intense scrutiny. They were questioned by family members, clergy, journalists and hostile civil authorities almost immediately. Large crowds formed around them within months. Two of the children died young, leaving Lúcia as the sole long-term narrator of the case for decades afterwards. That combination — child witnesses, repeated retellings, religious interpretation and later memoir-writing — is central to both Catholic devotion and sceptical criticism of Fatima. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.piercedhearts.org/hearts_jesus_mary/apparitions/fatima/MemoriasI_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: piercedhearts.org">[2piercedhearts.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">piercedhearts.org</span><span class="citation-popover-snippet">FATIMA in Lucia&#x27;s own wordsThis edition of the Memoirs of Sister Lucia is a true and faithful translation of the Portuguese text of the o...</span></span></span>
@@ -251,7 +250,6 @@ The witness problem at Fatima is not simply whether the children lied. The more 
 ## The children and their first reports
 
 The earliest Fatima accounts are comparatively simple. The children reported seeing a radiant female figure at Cova da Iria on 13 May 1917 while tending sheep. In the first stage of the case, the testimony was local, fragmented and inconsistent in detail rather than fully formed theology. Lúcia acted as the principal spokesperson because, according to later accounts, Francisco saw the apparition but did not hear her words clearly, while Jacinta both saw and heard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.piercedhearts.org/hearts_jesus_mary/apparitions/fatima/MemoriasI_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: piercedhearts.org">[piercedhearts.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">piercedhearts.org</span><span class="citation-popover-snippet">FATIMA in Lucia&#x27;s own wordsThis edition of the Memoirs of Sister Lucia is a true and faithful translation of the Portuguese text of the o...</span></span></span> Wikipedia That detail matters because the famous Fatima narrative was never based on three identical testimonies. The children occupied different roles <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Miracle_of_the_Sun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Miracle of the Sun</span><span class="citation-popover-snippet">December 22, 2005 — The local bishop opened a canonical investigation of the event in November 1917, to review witness accounts and asses...</span><span class="citation-popover-meta">Published: December 22, 2005</span></span></span> within the experience from the beginning:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -267,10 +265,9 @@ This unevenness is interpreted differently depending on perspective. Supporters 
 
 The Fatima witnesses were unusually young even by the standards of apparition cases. Their social position shaped both public reaction and later credibility debates.
 
-On one hand, the children had little obvious motive for a sophisticated fraud. They came from poor rural families, had limited education and faced ridicule, punishment and political hostility. Contemporary supporters repeatedly pointed to the fact that the children maintained their claims despite threats and interrogation. Even some sceptical observers acknowledged that the children appeared sincere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/DebateACatholic/comments/16rqqot/the_more_you_learn_about_fatima_the_less/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditThe more you learn about Fatima, the less impressive it...September 25, 2023 — It&#x27;s not credible that Fatima is close to your hear...</span><span class="citation-popover-meta">Published: September 25, 2023</span></span></span>
+On one hand, the children had little obvious motive for a sophisticated fraud. They came from poor rural families, had limited education and faced ridicule, punishment and political hostility. Contemporary supporters repeatedly pointed to the fact that the children maintained their claims despite threats and interrogation. Even some sceptical observers acknowledged that the children appeared sincere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/DebateACatholic/comments/16rqqot/the_more_you_learn_about_fatima_the_less/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The more you learn about Fatima, the less impressive it...September 25, 2023 — It&#x27;s not credible that Fatima is close to your hear...</span><span class="citation-popover-meta">Published: September 25, 2023</span></span></span>
 
 On the other hand, modern psychology makes historians cautious about relying heavily on child testimony in emotionally charged environments. Several factors are regularly discussed by sceptical writers and scholars:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -284,7 +281,6 @@ On the other hand, modern psychology makes historians cautious about relying hea
 These concerns are particularly relevant at Fatima because the children rapidly became the centre of a mass devotional movement while still very young. Crowds reacted emotionally to them, adults asked leading questions and clergy sought theological clarity from accounts that may originally have been less structured.
 
 The witness dynamic also changed over time. Francisco and Jacinta died during the influenza pandemic soon after the events, while Lúcia lived until 2005 and continued writing and speaking about Fatima for decades. This left one surviving witness carrying the interpretive burden of the entire case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fatima_in_Lucia%27s_Own_Words" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fatima in Lucia&#x27;s Own Words</span><span class="citation-popover-snippet">Fatima in Lucia&#x27;s Own Words</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Mi6kbETV8wI" title="Our Lady of Fatima HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Mi6kbETV8wI" target="_blank" rel="noopener noreferrer">Our Lady of Fatima HD</a></p><p class="youtube-embed-meta">Channel: Catholic Online &middot; Views: 129.1K &middot; Uploaded: November 2019 &middot; Length: 3 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Mi6kbETV8wI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Mi6kbETV8wI">Open on YouTube</a></p></div></div></div>
 
@@ -306,7 +302,6 @@ Among the three, Francisco Marto is often viewed as the most difficult witness t
 
 According to Lúcia’s later memoirs, Francisco could see the apparition but did not hear the conversations directly. He depended partly on Lúcia and Jacinta to explain what had been said. That detail has several implications:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * it weakens the idea of three completely independent verbal testimonies;
@@ -316,7 +311,6 @@ According to Lúcia’s later memoirs, Francisco could see the apparition but di
 </div>
 
 Because Francisco died in 1919, historians possess far less direct material from him than from Lúcia. Most later descriptions of his personality and spirituality therefore pass through Lúcia’s memory and interpretation. This makes independent verification difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Miracle_of_the_Sun" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Miracle of the Sun</span><span class="citation-popover-snippet">December 22, 2005 — The local bishop opened a canonical investigation of the event in November 1917, to review witness accounts and asses...</span><span class="citation-popover-meta">Published: December 22, 2005</span></span></span>
-
 
 <img src="{{ "/assets/images/Fatima_apparition_19_f6784f_children_witnesses_c0a900-Illustration-2-dark.svg" | relative_url }}" alt="The Children illustration 2" data-theme-src-dark="{{ "/assets/images/Fatima_apparition_19_f6784f_children_witnesses_c0a900-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fatima_apparition_19_f6784f_children_witnesses_c0a900-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Jacinta: vivid imagery and emotional certainty
@@ -329,7 +323,6 @@ Critics, however, point out that emotionally vivid testimony from young children
 
 This does not prove fabrication, but it does mean that historians must distinguish between:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * statements documented close to 1917;
@@ -337,7 +330,6 @@ This does not prove fabrication, but it does mean that historians must distingui
 * hagiographic portrayals written after the children became religious icons.
 
 </div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZgQp93hndmc" title="February 20: Saint Jacinta Marto: The Little Shepherd Girl Who Moved Heaven" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZgQp93hndmc" target="_blank" rel="noopener noreferrer">February 20: Saint Jacinta Marto: The Little Shepherd Girl Who Moved Heaven</a></p><p class="youtube-embed-meta">Channel: The Saints of God &middot; Views: 164.2K &middot; Uploaded: February 2026 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZgQp93hndmc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZgQp93hndmc">Open on YouTube</a></p></div></div></div>
 
@@ -353,7 +345,6 @@ This creates a genuine evidential tension.
 
 Defenders of Fatima argue that delayed memoir-writing is normal in religious history. They note that:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * the core claim never changed: the children consistently maintained that apparitions occurred;
@@ -365,12 +356,10 @@ Defenders of Fatima argue that delayed memoir-writing is normal in religious his
 
 Catholic investigators also stressed the children’s willingness to suffer ridicule and pressure without retracting their accounts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Francisco_and_Jacinta_Marto" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Francisco and Jacinta Marto</span><span class="citation-popover-snippet">Francisco and Jacinta Marto</span></span></span>
 
-
 <img src="{{ "/assets/images/Fatima_apparition_19_f6784f_children_witnesses_c0a900-Illustration-3-dark.svg" | relative_url }}" alt="The Children illustration 3" data-theme-src-dark="{{ "/assets/images/Fatima_apparition_19_f6784f_children_witnesses_c0a900-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fatima_apparition_19_f6784f_children_witnesses_c0a900-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What sceptics argue
 
 Sceptical writers focus on memory development and retrospective elaboration. They argue that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -381,7 +370,7 @@ Sceptical writers focus on memory development and retrospective elaboration. The
 
 </div>
 
-Critics also note that some details in early accounts differ from later standardised versions. This does not necessarily imply deliberate deceit, but it raises questions about how much of the familiar Fatima narrative reflects original experience and how much reflects later interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/DebateACatholic/comments/1jpp9r2/retconning_fatima_how_lucia_updated_a_prophecy_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditHow Lucia updated a Prophecy of Our Lady of Fatima...April 2, 2025 — Lucia didn&#x27;t forget, she thought she heard Our Lady better bu...</span><span class="citation-popover-meta">Published: April 2, 2025</span></span></span>
+Critics also note that some details in early accounts differ from later standardised versions. This does not necessarily imply deliberate deceit, but it raises questions about how much of the familiar Fatima narrative reflects original experience and how much reflects later interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/DebateACatholic/comments/1jpp9r2/retconning_fatima_how_lucia_updated_a_prophecy_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">How Lucia updated a Prophecy of Our Lady of Fatima...April 2, 2025 — Lucia didn&#x27;t forget, she thought she heard Our Lady better bu...</span><span class="citation-popover-meta">Published: April 2, 2025</span></span></span>
 
 ## Did the children believe what they said?
 
@@ -398,7 +387,6 @@ Several features support sincerity:
 
 At the same time, sincerity alone cannot establish supernatural causation. Child witnesses can honestly misinterpret experiences, absorb community expectations or develop memories through repeated retelling. That ambiguity is one reason Fatima remains controversial more than a century later.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CVcYKWbWlmk" title="An Angel Appears at Fatima — Part 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CVcYKWbWlmk" target="_blank" rel="noopener noreferrer">An Angel Appears at Fatima — Part 3</a></p><p class="youtube-embed-meta">Channel: America Needs Fatima &middot; Views: 1.9K &middot; Uploaded: May 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CVcYKWbWlmk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CVcYKWbWlmk">Open on YouTube</a></p></div></div></div>
 
 ## Why the witness question still matters
@@ -412,44 +400,86 @@ For sceptics, the same facts raise methodological caution. The witnesses were ex
 That tension — sincere testimony versus unreliable memory, child innocence versus child suggestibility — is at the heart of how the Fatima apparitions are judged.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Reliable Were the Fatima Children?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Reliable Were the Fatima Children?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Shepherd Children guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Shepherd+Children+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=St.+Gertrude+the+Great+by+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open St. Gertrude the Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ddNgAAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for St. Gertrude the Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=St.+Gertrude+the+Great+by+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="St. Gertrude the Great">St. Gertrude the Great</a>
+        </h4>
+        <p class="fr-book-author">By Anonymous</p>
+        
+        <p class="fr-book-desc">Contains detailed accounts of the children&#x27;s 1917 reports and how their initial stories changed under persistent external questioning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=St.+Gertrude+the+Great+by+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Lúcia dos Santos guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=L%C3%BAcia+dos+Santos+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Reviews the sociological impact of the Fatima children&#x27;s testimony, comparing it to other historical sightings of &#x27;supernatural&#x27; figures.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Artur de Oliveira Santos guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Artur+de+Oliveira+Santos+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Details the investigative steps required to evaluate cases based on child testimony within high-pressure religious environments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides institutional background on how investigative bodies index and challenge witness reports in mass-crowd cases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=St.+Gertrude+the+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">St. Gertrude the Great</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -486,15 +516,15 @@ That tension — sincere testimony versus unreliable memory, child innocence ver
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture"><img src="{{ '/assets/images/marketplace-covers/9b4a9e6334af6e05b499.jpg' | relative_url }}" alt="Listing image for The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">The Virgin Mary Mother Of Christ Catholic Holy A4 Poster Wall Art Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -502,15 +532,15 @@ That tension — sincere testimony versus unreliable memory, child innocence ver
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ornate Gold Sacred Heart Cross Wall Art Vintage Religious Decor Catholic"><img src="{{ '/assets/images/marketplace-covers/def646b19c10e11e8190.jpg' | relative_url }}" alt="Listing image for Ornate Gold Sacred Heart Cross Wall Art Vintage Religious Decor Catholic" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">Ornate Gold Sacred Heart Cross Wall Art Vintage Religious Decor Catholic</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -518,31 +548,15 @@ That tension — sincere testimony versus unreliable memory, child innocence ver
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for St Saint Thérèse Catholic Holy A4 Poster Wall Art Decor Print Picture"><img src="{{ '/assets/images/marketplace-covers/4dc7aa2a150d0f26092b.jpg' | relative_url }}" alt="Listing image for St Saint Thérèse Catholic Holy A4 Poster Wall Art Decor Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">St Saint Thérèse Catholic Holy A4 Poster Wall Art Decor Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Catholic wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: Catholic wall art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,7 +564,7 @@ That tension — sincere testimony versus unreliable memory, child innocence ver
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Catholic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Catholic wall art" data-ebay-reference="the-children-how-reliable-were-the-fatima-children-fatima-apparition-1917-catholic-wall-art" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -766,144 +780,144 @@ That tension — sincere testimony versus unreliable memory, child innocence ver
 1. <a id="endnote-1"></a>
    Source: parish.rcdow.org.uk  
    Title: Our Lady of Fatima – Roman Catholic Parish of White City First apparitions  
-   Link: [https://parish.rcdow.org.uk/whitecity/our-lady-of-fatima/](https://parish.rcdow.org.uk/whitecity/our-lady-of-fatima/)  
+   Link: <a href="https://parish.rcdow.org.uk/whitecity/our-lady-of-fatima/" target="_blank" rel="noopener noreferrer nofollow">https://parish.rcdow.org.uk/whitecity/our-lady-of-fatima/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the Spring and Summer of 1916, three little shepherd children, Lucia Santos and her two cousins, Jacinta and Francisco Marto, experien...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Miracle of the Sun  
-   Link: [https://en.wikipedia.org/wiki/Miracle_of_the_Sun](https://en.wikipedia.org/wiki/Miracle_of_the_Sun)  
+   Link: <a href="https://en.wikipedia.org/wiki/Miracle_of_the_Sun" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Miracle_of_the_Sun</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 22, 2005 — The local bishop opened a canonical investigation of the event in November 1917, to review witness accounts and asses...</p></details>
    Published: December 22, 2005  
 
 3. <a id="endnote-3"></a>
    Source: piercedhearts.org  
-   Link: [https://www.piercedhearts.org/hearts_jesus_mary/apparitions/fatima/MemoriasI_en.pdf](https://www.piercedhearts.org/hearts_jesus_mary/apparitions/fatima/MemoriasI_en.pdf)  
+   Link: <a href="https://www.piercedhearts.org/hearts_jesus_mary/apparitions/fatima/MemoriasI_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.piercedhearts.org/hearts_jesus_mary/apparitions/fatima/MemoriasI_en.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FATIMA in Lucia&#x27;s own wordsThis edition of the Memoirs of Sister Lucia is a true and faithful translation of the Portuguese text of the o...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Fatima in Lucia's Own Words  
-   Link: [https://en.wikipedia.org/wiki/Fatima_in_Lucia%27s_Own_Words](https://en.wikipedia.org/wiki/Fatima_in_Lucia%27s_Own_Words)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fatima_in_Lucia%27s_Own_Words" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fatima_in_Lucia%27s_Own_Words</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Francisco and Jacinta Marto  
-   Link: [https://en.wikipedia.org/wiki/Francisco_and_Jacinta_Marto](https://en.wikipedia.org/wiki/Francisco_and_Jacinta_Marto)  
+   Link: <a href="https://en.wikipedia.org/wiki/Francisco_and_Jacinta_Marto" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Francisco_and_Jacinta_Marto</a>  
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/DebateACatholic/comments/16rqqot/the_more_you_learn_about_fatima_the_less/](https://www.reddit.com/r/DebateACatholic/comments/16rqqot/the_more_you_learn_about_fatima_the_less/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe more you learn about Fatima, the less impressive it...September 25, 2023 — It&#x27;s not credible that Fatima is close to your hear...</p></details>
+   Link: <a href="https://www.reddit.com/r/DebateACatholic/comments/16rqqot/the_more_you_learn_about_fatima_the_less/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateACatholic/comments/16rqqot/the_more_you_learn_about_fatima_the_less/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The more you learn about Fatima, the less impressive it...September 25, 2023 — It&#x27;s not credible that Fatima is close to your hear...</p></details>
    Published: September 25, 2023  
 
 7. <a id="endnote-7"></a>
    Source: ewtn.com  
-   Link: [https://www.ewtn.com/catholicism/library/true-story-of-fatima-5915](https://www.ewtn.com/catholicism/library/true-story-of-fatima-5915)  
+   Link: <a href="https://www.ewtn.com/catholicism/library/true-story-of-fatima-5915" target="_blank" rel="noopener noreferrer nofollow">https://www.ewtn.com/catholicism/library/true-story-of-fatima-5915</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The True Story of FatimaAnd like the good Ti Marto, father of Jacinta and Francisco, she will be our witness many times. On their way to...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Sister Lúcia  
-   Link: [https://en.wikipedia.org/wiki/Sister_L%C3%BAcia](https://en.wikipedia.org/wiki/Sister_L%C3%BAcia)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sister_L%C3%BAcia" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sister_L%C3%BAcia</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sister LúciaIn 1921, Lúcia became a religious sister in Spain and eventually a Discalced Carmelite nun in 1948.... She wrote numerous...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: The Miracle of Our Lady of Fatima  
-   Link: [https://en.wikipedia.org/wiki/The_Miracle_of_Our_Lady_of_Fatima](https://en.wikipedia.org/wiki/The_Miracle_of_Our_Lady_of_Fatima)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Miracle_of_Our_Lady_of_Fatima" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Miracle_of_Our_Lady_of_Fatima</a>  
 
 10. <a id="endnote-10"></a>
    Source: catholic.com  
    Title: what you didnt know about fatima  
-   Link: [https://www.catholic.com/magazine/online-edition/what-you-didnt-know-about-fatima](https://www.catholic.com/magazine/online-edition/what-you-didnt-know-about-fatima)  
+   Link: <a href="https://www.catholic.com/magazine/online-edition/what-you-didnt-know-about-fatima" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic.com/magazine/online-edition/what-you-didnt-know-about-fatima</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Catholic AnswersWhat You Didn&#x27;t Know About Fatima24 Sept 2025 — Francisco and Jacinta were now allowed to take their families&#x27; herds with...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: fatima.org  
-   Link: [https://fatima.org/wp-content/uploads/2017/03/The-True-Story-of-Fatima.pdf](https://fatima.org/wp-content/uploads/2017/03/The-True-Story-of-Fatima.pdf)  
+   Link: <a href="https://fatima.org/wp-content/uploads/2017/03/The-True-Story-of-Fatima.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fatima.org/wp-content/uploads/2017/03/The-True-Story-of-Fatima.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fatima CenterThe True Story of FatimaFrancisco and Jacinta, the other two main figures, were Lucia&#x27;s first cousins, the eighth and ninth...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/DebateACatholic/comments/1jpp9r2/retconning_fatima_how_lucia_updated_a_prophecy_of/](https://www.reddit.com/r/DebateACatholic/comments/1jpp9r2/retconning_fatima_how_lucia_updated_a_prophecy_of/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditHow Lucia updated a Prophecy of Our Lady of Fatima...April 2, 2025 — Lucia didn&#x27;t forget, she thought she heard Our Lady better bu...</p></details>
+   Link: <a href="https://www.reddit.com/r/DebateACatholic/comments/1jpp9r2/retconning_fatima_how_lucia_updated_a_prophecy_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/DebateACatholic/comments/1jpp9r2/retconning_fatima_how_lucia_updated_a_prophecy_of/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Lucia updated a Prophecy of Our Lady of Fatima...April 2, 2025 — Lucia didn&#x27;t forget, she thought she heard Our Lady better bu...</p></details>
    Published: April 2, 2025  
 
 13. <a id="endnote-13"></a>
    Source: papa2017.fatima.pt  
    Title: Papa Francisco  
-   Link: [https://www.papa2017.fatima.pt/en/pages/three-sheperds](https://www.papa2017.fatima.pt/en/pages/three-sheperds)  
+   Link: <a href="https://www.papa2017.fatima.pt/en/pages/three-sheperds" target="_blank" rel="noopener noreferrer nofollow">https://www.papa2017.fatima.pt/en/pages/three-sheperds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fátima 2017THREE SHEPERDSThe last visit was special for Sister Lucia for it happened for the beatification of her cousins Francisco and J...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FrJamesMartin/posts/dear-friends-today-is-the-feast-of-saints-jacinta-and-francisco-marto-two-of-the/754151916070904/](https://www.facebook.com/FrJamesMartin/posts/dear-friends-today-is-the-feast-of-saints-jacinta-and-francisco-marto-two-of-the/754151916070904/)  
+   Link: <a href="https://www.facebook.com/FrJamesMartin/posts/dear-friends-today-is-the-feast-of-saints-jacinta-and-francisco-marto-two-of-the/754151916070904/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FrJamesMartin/posts/dear-friends-today-is-the-feast-of-saints-jacinta-and-francisco-marto-two-of-the/754151916070904/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Today is the Feast of Saints Jacinta and Francisco Marto...Dear friends: Today is the Feast of Saints Jacinta and Francisco Marto, two o...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: fatima.org  
-   Link: [https://fatima.org/wp-content/uploads/2018/05/Sister-Lucy-sm.pdf](https://fatima.org/wp-content/uploads/2018/05/Sister-Lucy-sm.pdf)  
+   Link: <a href="https://fatima.org/wp-content/uploads/2018/05/Sister-Lucy-sm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://fatima.org/wp-content/uploads/2018/05/Sister-Lucy-sm.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>She would also miss her two cousins. Almost 88 years after being told. “you are to stay here (on...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: fatimashrinedetroit.org  
    Title: Fatima Story  
-   Link: [https://www.fatimashrinedetroit.org/fatima-story](https://www.fatimashrinedetroit.org/fatima-story)  
+   Link: <a href="https://www.fatimashrinedetroit.org/fatima-story" target="_blank" rel="noopener noreferrer nofollow">https://www.fatimashrinedetroit.org/fatima-story</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our Lady of Fatima ShrineLucia asked Mary to take them to heaven and was reassured in this way: “I will take Jacinta and Francisco shortl...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/religion-and-philosophy/marian-apparitions-fatima-portugal](https://www.ebsco.com/research-starters/religion-and-philosophy/marian-apparitions-fatima-portugal)  
+   Link: <a href="https://www.ebsco.com/research-starters/religion-and-philosophy/marian-apparitions-fatima-portugal" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/religion-and-philosophy/marian-apparitions-fatima-portugal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Marian Apparitions in Fátima, PortugalOn May 13 of that year, the children—Lúcia Santos, Francisco Marto, and Jacinta Marto—claimed to ha...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/911440921/Fatima-in-Lucia-s-Own-Words-Sister-Lucia-s-Memoirs-Edited-by-Louis-Kondor-Translated-by-Dominican-Nums-of-3rd-Ed-Fatima-Portugal-Still](https://www.scribd.com/document/911440921/Fatima-in-Lucia-s-Own-Words-Sister-Lucia-s-Memoirs-Edited-by-Louis-Kondor-Translated-by-Dominican-Nums-of-3rd-Ed-Fatima-Portugal-Still)  
+   Link: <a href="https://www.scribd.com/document/911440921/Fatima-in-Lucia-s-Own-Words-Sister-Lucia-s-Memoirs-Edited-by-Louis-Kondor-Translated-by-Dominican-Nums-of-3rd-Ed-Fatima-Portugal-Still" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/911440921/Fatima-in-Lucia-s-Own-Words-Sister-Lucia-s-Memoirs-Edited-by-Louis-Kondor-Translated-by-Dominican-Nums-of-3rd-Ed-Fatima-Portugal-Still</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sister Lucia&#x27;s Memoirs on Family | PDF | Christian MysticismThe memoirs serve as a reflection on Lucia&#x27;s family life and the Christian va...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: bluearmy.com  
-   Link: [https://www.bluearmy.com/the-story-of-fatima/](https://www.bluearmy.com/the-story-of-fatima/)  
+   Link: <a href="https://www.bluearmy.com/the-story-of-fatima/" target="_blank" rel="noopener noreferrer nofollow">https://www.bluearmy.com/the-story-of-fatima/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Story of FatimaOur Lady began to appear at Fatima, Portugal to three shepherd children: Lucia dos Santos, age 10, and her cousins, Fr...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: catholiccompany.com  
-   Link: [https://www.catholiccompany.com/blogs/magazine/francisco-jacinta-marto-after-fatima-5991](https://www.catholiccompany.com/blogs/magazine/francisco-jacinta-marto-after-fatima-5991)  
+   Link: <a href="https://www.catholiccompany.com/blogs/magazine/francisco-jacinta-marto-after-fatima-5991" target="_blank" rel="noopener noreferrer nofollow">https://www.catholiccompany.com/blogs/magazine/francisco-jacinta-marto-after-fatima-5991</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Happened to Francisco &amp; Jacinta Marto After FatimaPope St. John Paul II beatified Francisco and Jacinta on the 83rd anniversary of t...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/book/show/25801417](https://www.goodreads.com/book/show/25801417)  
+   Link: <a href="https://www.goodreads.com/book/show/25801417" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/25801417</a>  
 
 22. <a id="endnote-22"></a>
    Source: magiscenter.com  
    Title: a lawyer a journalist and a scientist describe the miracle at fatima  
-   Link: [https://www.magiscenter.com/blog/a-lawyer-a-journalist-and-a-scientist-describe-the-miracle-at-fatima](https://www.magiscenter.com/blog/a-lawyer-a-journalist-and-a-scientist-describe-the-miracle-at-fatima)  
+   Link: <a href="https://www.magiscenter.com/blog/a-lawyer-a-journalist-and-a-scientist-describe-the-miracle-at-fatima" target="_blank" rel="noopener noreferrer nofollow">https://www.magiscenter.com/blog/a-lawyer-a-journalist-and-a-scientist-describe-the-miracle-at-fatima</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Lawyer, a Journalist, and a Scientist Detail the Miracle of...31 Aug 2020 — A look into witnesses&#x27; accounts of the occurrence of the M...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ewtn.co.uk  
    Title: article 5 things to know about venerable lucia dos santos  
-   Link: [https://ewtn.co.uk/article-5-things-to-know-about-venerable-lucia-dos-santos/](https://ewtn.co.uk/article-5-things-to-know-about-venerable-lucia-dos-santos/)  
+   Link: <a href="https://ewtn.co.uk/article-5-things-to-know-about-venerable-lucia-dos-santos/" target="_blank" rel="noopener noreferrer nofollow">https://ewtn.co.uk/article-5-things-to-know-about-venerable-lucia-dos-santos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EWTN Great Britain5 Things to Know About Venerable Lucia dos Santos22 Jun 2023 — She is the oldest Fatima seer. Lucia was born on March 2...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: catholic365.com  
    Title: apparitions at fatima portugal 1917 and its impact  
-   Link: [https://www.catholic365.com/article/54052/apparitions-at-fatima-portugal-1917-and-its-impact.html](https://www.catholic365.com/article/54052/apparitions-at-fatima-portugal-1917-and-its-impact.html)  
+   Link: <a href="https://www.catholic365.com/article/54052/apparitions-at-fatima-portugal-1917-and-its-impact.html" target="_blank" rel="noopener noreferrer nofollow">https://www.catholic365.com/article/54052/apparitions-at-fatima-portugal-1917-and-its-impact.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Oct 2025 — The apparitions were witnessed by three young shepherd children: Lucia dos Santos, aged 10, and her cousins Francisco Marto...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/CU-wJxlvdFg/](https://www.instagram.com/p/CU-wJxlvdFg/)  
+   Link: <a href="https://www.instagram.com/p/CU-wJxlvdFg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/CU-wJxlvdFg/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>her cousins Francisco and Jacinta Marto—in the...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: thedivinemercy.org  
    Title: sister lucia marys witness  
-   Link: [https://www.thedivinemercy.org/articles/sister-lucia-marys-witness](https://www.thedivinemercy.org/articles/sister-lucia-marys-witness)  
+   Link: <a href="https://www.thedivinemercy.org/articles/sister-lucia-marys-witness" target="_blank" rel="noopener noreferrer nofollow">https://www.thedivinemercy.org/articles/sister-lucia-marys-witness</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sister Lucia: &#x27;Mary&#x27;s Witness&#x27;Sister Lucia, &quot;Mary&#x27;s witness&quot; at Fatima, died in February 2005 - on the 13th. Dr. Branca Paul, MD, felt th...</p></details>
-   Published: February 2005  
+   Published: February 2005

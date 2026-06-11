@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kenneth_Arnold_s_fir_b696ba
   title: Arnold Sighting
   permalink: /kenneth-arnold-s-first-sighting-1947/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -741,15 +741,15 @@ child_links:
   heading_title: How Did the Night Unfold?
 prev_link:
   basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 next_link:
   basename: Kenneth_Arnold_s_fir_b696ba
   title: Arnold Sighting
   permalink: /kenneth-arnold-s-first-sighting-1947/
   short_title: Arnold Sighting
-date: '2026-06-08 23:30:34 '
+date: '2026-06-11 13:18:30 '
 header:
   og_image: /assets/images/Kelly-Hopkinsville_i_de664d-overview-social.jpg
   preview_image: /assets/images/Kelly-Hopkinsville_i_de664d-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Kelly-Hopkinsville_i_de664d-overview-social.jpg
 ## What happened that night?
 
 The reported incident began on a warm Sunday evening at a farmhouse associated with the Sutton family near Kelly, a small community north of Hopkinsville. Later retellings vary on exact timing, but the common sequence is that Billy Ray Taylor went outside, saw or heard something unusual in the sky, and returned to the house alarmed. Local reporting and later case summaries describe the household as spending the evening together before the alarm escalated into claims that strange figures were approaching the property. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wbko.com">[https://www.wbko.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wbko.com</span><span class="citation-popover-snippet">Open source on wbko.com.</span></span></span>
-
 
 <img src="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-overview.webp" | relative_url }}" alt="Overview image for Kelly Hopkinsville incident 1955" loading="eager" decoding="sync" fetchpriority="high">
 The figures were typically described as short, roughly child-sized beings with large eyes, long arms, claw-like hands, and a shiny or metallic appearance. Some accounts say the creatures seemed to float, drop from trees, or move in ways that did not resemble ordinary animals. Two armed men, usually identified as Billy Ray Taylor and Elmer “Lucky” Sutton, fired at the figures while others sheltered inside. The most memorable claim was not simply that odd beings were seen, but that repeated gunfire failed to stop them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/reports/550821hopkinsville_hendry.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">The Kelley/Hopkinsville (Sutton) Encounter</span><span class="citation-popover-snippet">The Kelley/Hopkinsville (Sutton) Encounter</span></span></span>
@@ -774,7 +773,6 @@ Those points give the case more weight than a casual rumour. The witnesses did n
 
 Even so, witness sincerity and evidential strength are not the same thing. The strongest physical evidence was damage compatible with gunfire by the witnesses themselves. The major missing items were the very things that would have turned the case from testimony into a stronger evidential claim: bodies, blood, footprints, recoverable material, reliable photographs of the beings, or independent observations of the creatures away from the household. Hendry’s summary on the NICAP page states the central sceptical problem plainly: there was “absolutely no physical evidence whatsoever” that the entities themselves existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/550821hopkinsville_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">550821hopkinsville dir</span><span class="citation-popover-snippet">550821hopkinsville dir</span></span></span>
 
-
 <img src="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-1-dark.svg" | relative_url }}" alt="Kelly Hopkinsville incident 1955 illustration 1" data-theme-src-dark="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The official-investigation problem
 
@@ -783,7 +781,6 @@ The Kelly-Hopkinsville case sits within the Project Blue Book era, but it should
 That context matters because “Project Blue Book investigated it” can sound more decisive than the surviving record warrants. General Project Blue Book records are real and publicly accessible, and Fold3 identifies the Blue Book collection as National Archives publication T1206, containing records and case files for UFO investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fold3.com">[Fold3]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fold3.com</span><span class="citation-popover-title">US, Project Blue Book</span><span class="citation-popover-snippet">US, Project Blue Book</span></span></span> But secondary summaries of the Kelly case often note that Blue Book listed the incident as a hoax with little or no detailed explanation, rather than presenting a transparent, evidence-rich official reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/episodes/331" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The broader Air Force conclusion on Project Blue Book was not that every sighting was explained, but that no evaluated UFO report showed a national-security threat, evidence of technology beyond modern scientific knowledge, or evidence of extraterrestrial vehicles. That official position is relevant to the Kelly-Hopkinsville incident, but it does not by itself explain the Sutton-Lankford household’s specific experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[U.S. Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xOHVl97sOlo" title="The Kelly-Hopkinsville Encounter | Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xOHVl97sOlo" target="_blank" rel="noopener noreferrer">The Kelly-Hopkinsville Encounter | Documentary</a></p><p class="youtube-embed-meta">Channel: Fire of Learning &middot; Views: 506.8K &middot; Uploaded: October 2022 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xOHVl97sOlo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xOHVl97sOlo">Open on YouTube</a></p></div></div></div>
 
@@ -795,14 +792,12 @@ The [owl theory]({{ 'owl-theory/' | relative_url }}) is not silly when matched a
 
 This explanation does not require the witnesses to be lying. It asks whether a startled group, already primed by a strange sky sighting, could have interpreted nocturnal animals as non-human intruders. Once guns were fired and people inside the house were frightened, every ambiguous sound or glimpse outside could have reinforced the siege narrative. The main weakness of the owl explanation is that it must account for the witnesses’ more exotic details — metallic appearance, repeated returns, apparent resistance to bullets, and humanoid shape — as perception under stress, embellishment, or later retelling rather than literal description.
 
-
 <img src="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-2-dark.svg" | relative_url }}" alt="Kelly Hopkinsville incident 1955 illustration 2" data-theme-src-dark="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case shows about evidence quality
 
 The Kelly-Hopkinsville incident is best evaluated as a testimony-heavy case with weak physical corroboration. The witness cluster is substantial, but it is mostly one social group in one location under one unfolding episode. The police response is important, but responders did not independently observe the beings. The gunfire is real enough as a reported household action, but it does not prove what was fired at. The newspaper record is valuable, but early headlines also helped turn a confusing night into a memorable public legend. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wkms.org/arts-culture/2016-08-19/a-hopkinsville-alien-tale-has-inspired-a-yearly-festival-a-musical-and-pokemon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wkms.org">[WKMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wkms.org</span><span class="citation-popover-snippet">Open source on wkms.org.</span></span></span>
 
 A fair evidence scorecard looks like this:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -816,7 +811,6 @@ A fair evidence scorecard looks like this:
 
 The most careful conclusion is therefore not “hoax proven” or “aliens proven”. The better conclusion is that the witnesses probably experienced genuine fear around ambiguous stimuli, while the surviving evidence falls far short of confirming the extraordinary interpretation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c6Lj5IzL9xY" title="Unexplained: The Hopkinsville Alien Invasion | True Alien Abduction | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c6Lj5IzL9xY" target="_blank" rel="noopener noreferrer">Unexplained: The Hopkinsville Alien Invasion | True Alien Abduction | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 12.6K &middot; Uploaded: May 2025 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c6Lj5IzL9xY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c6Lj5IzL9xY">Open on YouTube</a></p></div></div></div>
 
 ## Why the “little green men” label is misleading
@@ -824,7 +818,6 @@ The most careful conclusion is therefore not “hoax proven” or “aliens prov
 The phrase “little green men” has become attached to the case, but it can distort the original texture of the reports. Some early and later accounts emphasised metallic or silvery beings rather than green ones. WKMS, summarising the local legacy, describes the Sutton farmhouse as allegedly besieged by “12-to-15 little men” with long arms, huge eyes and a metallic appearance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wkms.org/tags/kelly-green-men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wkms.org">[WKMS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wkms.org</span><span class="citation-popover-snippet">Open source on wkms.org.</span></span></span>
 
 That matters because the popular nickname compresses a complicated case into a cartoon. The “Hopkinsville Goblins” label is memorable, but it encourages readers to picture folklore monsters or science-fiction mascots rather than a frightened rural household, a police response, and a messy evidential record. The case’s value for UFO history lies precisely in that tension: it is vivid enough to become legend, yet evidentially fragile enough to remain unresolved in any strict sense.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w8wIqJQ36Zs" title="Hopkinsville - The Alien Goblins | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w8wIqJQ36Zs" target="_blank" rel="noopener noreferrer">Hopkinsville - The Alien Goblins | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Mediatime Network &middot; Views: 66.7K &middot; Uploaded: April 2024 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w8wIqJQ36Zs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w8wIqJQ36Zs">Open on YouTube</a></p></div></div></div>
 
@@ -834,7 +827,6 @@ The incident’s modern life is partly local heritage. WKMS reported in 2016 tha
 
 The case also persists because it is useful in arguments about UFO evidence. Believers point to the number of witnesses, the duration of the event, and the apparent absence of an obvious motive for hoaxing. Sceptics point to the lack of physical evidence, the plausibility of owls and meteors, and the way social fear can harden into shared certainty. Psychologists Rodney Schmaltz and Scott O. Lilienfeld used the Hopkinsville Goblins as a teaching example for scientific thinking and pseudoscience, underscoring its role as a case study in how extraordinary claims should be tested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCHauntings, homeopathy, and the Hopkinsville Goblins</span><span class="citation-popover-snippet">PMCHauntings, homeopathy, and the Hopkinsville Goblins</span></span></span>
 
-
 <img src="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-3-dark.svg" | relative_url }}" alt="Kelly Hopkinsville incident 1955 illustration 3" data-theme-src-dark="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kelly-Hopkinsville_i_de664d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bottom line
 
@@ -843,44 +835,86 @@ The Kelly-Hopkinsville incident is one of the most memorable close-encounter sto
 The most defensible interpretation is that the incident was a real report of fear and confusion at the Sutton-Lankford farmhouse, amplified by press coverage and preserved by UFO culture. Whether the original trigger was a meteor, owls, another mundane stimulus, prank, misperception, or some combination of these, the surviving evidence does not justify treating the case as a verified alien encounter. Its lasting importance is as a high-profile example of how sincere witnesses, limited physical evidence, official ambiguity, and cultural storytelling can turn one chaotic night into a durable UFO legend.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened at Kelly Hopkinsville?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened at Kelly Hopkinsville?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Kelly Hopkinsville guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Kelly+Hopkinsville+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Details the 1955 encounter, the farmhouse siege reports, and the case&#x27;s long-term folkloric impact.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Visit Hopkinsville guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Visit+Hopkinsville+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Situates the Hopkinsville case within the history of humanoid encounters, emphasizing the narrative and folklore dimensions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Great Horned Owl guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Great+Horned+Owl+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Details why shared observation reports, however vivid, are prone to social reinforcement effects in rural settings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches investigative standards to evaluate group report clusters and analyze the impact of high-stress environments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -917,15 +951,15 @@ The most defensible interpretation is that the incident was a real report of fea
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="https://i.ebayimg.com/images/g/4qcAAeSwSoFqDh-N/s-l225.jpg" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -933,15 +967,15 @@ The most defensible interpretation is that the incident was a real report of fea
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art"><img src="https://i.ebayimg.com/images/g/h8QAAOSwe29jfmch/s-l225.jpg" alt="Listing image for 1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">1997 Absolut ROSWELL Vintage Framed Print Ad Poster UFO SciFy Pop Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -949,15 +983,15 @@ The most defensible interpretation is that the incident was a real report of fea
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/1GEAAeSw3KdpYAOG/s-l225.jpg" alt="Listing image for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -965,15 +999,15 @@ The most defensible interpretation is that the incident was a real report of fea
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell Crash UFO X Files Aliens Cartoon Characters Print signed by artist Frank"><img src="https://i.ebayimg.com/images/g/T5EAAOSwG~9kAqk9/s-l225.jpg" alt="Listing image for Roswell Crash UFO X Files Aliens Cartoon Characters Print signed by artist Frank" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell Crash UFO X Files Aliens Cartoon Characters Print signed by artist Frank</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -981,7 +1015,7 @@ The most defensible interpretation is that the incident was a real report of fea
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="kelly-hopkinsville-incident-1955-what-really-happened-at-kelly-hopkinsville-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-at-kelly-hopkinsville-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1196,177 +1230,177 @@ The most defensible interpretation is that the incident was a real report of fea
 
 1. <a id="endnote-1"></a>
    Source: wbko.com  
-   Link: [https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/](https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/)  
+   Link: <a href="https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.wbko.com/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/</a>  
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
    Title: The Kelley/Hopkinsville (Sutton) Encounter  
-   Link: [https://www.nicap.org/reports/550821hopkinsville_hendry.htm](https://www.nicap.org/reports/550821hopkinsville_hendry.htm)  
+   Link: <a href="https://www.nicap.org/reports/550821hopkinsville_hendry.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/550821hopkinsville_hendry.htm</a>  
 
 3. <a id="endnote-3"></a>
    Source: wkms.org  
-   Link: [https://www.wkms.org/arts-culture/2016-08-19/a-hopkinsville-alien-tale-has-inspired-a-yearly-festival-a-musical-and-pokemon](https://www.wkms.org/arts-culture/2016-08-19/a-hopkinsville-alien-tale-has-inspired-a-yearly-festival-a-musical-and-pokemon)  
+   Link: <a href="https://www.wkms.org/arts-culture/2016-08-19/a-hopkinsville-alien-tale-has-inspired-a-yearly-festival-a-musical-and-pokemon" target="_blank" rel="noopener noreferrer nofollow">https://www.wkms.org/arts-culture/2016-08-19/a-hopkinsville-alien-tale-has-inspired-a-yearly-festival-a-musical-and-pokemon</a>  
 
 4. <a id="endnote-4"></a>
    Source: nicap.org  
    Title: 550821hopkinsville dir  
-   Link: [https://www.nicap.org/550821hopkinsville_dir.htm](https://www.nicap.org/550821hopkinsville_dir.htm)  
+   Link: <a href="https://www.nicap.org/550821hopkinsville_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/550821hopkinsville_dir.htm</a>  
 
 5. <a id="endnote-5"></a>
    Source: cufos.org  
    Title: Center for UFO Studies Books  
-   Link: [https://cufos.org/cufos-publications-databases/books/](https://cufos.org/cufos-publications-databases/books/)  
+   Link: <a href="https://cufos.org/cufos-publications-databases/books/" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/cufos-publications-databases/books/</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 7. <a id="endnote-7"></a>
    Source: af.mil  
    Title: U.S. Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: fold3.com  
    Title: US, Project Blue Book  
-   Link: [https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969](https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969)  
+   Link: <a href="https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.fold3.com/publication/461/us-project-blue-book-ufo-investigations-1947-1969</a>  
 
 9. <a id="endnote-9"></a>
    Source: skeptoid.com  
-   Link: [https://skeptoid.com/episodes/331](https://skeptoid.com/episodes/331)  
+   Link: <a href="https://skeptoid.com/episodes/331" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/episodes/331</a>  
 
 10. <a id="endnote-10"></a>
    Source: maine.gov  
-   Link: [https://www.maine.gov/ifw/fish-wildlife/wildlife/living-with-wildlife/avoid-resolve-conflict/owls.html](https://www.maine.gov/ifw/fish-wildlife/wildlife/living-with-wildlife/avoid-resolve-conflict/owls.html)  
+   Link: <a href="https://www.maine.gov/ifw/fish-wildlife/wildlife/living-with-wildlife/avoid-resolve-conflict/owls.html" target="_blank" rel="noopener noreferrer nofollow">https://www.maine.gov/ifw/fish-wildlife/wildlife/living-with-wildlife/avoid-resolve-conflict/owls.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCHauntings, homeopathy, and the Hopkinsville Goblins  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4028994/</a>  
 
 12. <a id="endnote-12"></a>
    Source: wkms.org  
-   Link: [https://www.wkms.org/tags/kelly-green-men](https://www.wkms.org/tags/kelly-green-men)  
+   Link: <a href="https://www.wkms.org/tags/kelly-green-men" target="_blank" rel="noopener noreferrer nofollow">https://www.wkms.org/tags/kelly-green-men</a>  
 
 13. <a id="endnote-13"></a>
    Source: cufos.org  
    Title: Close Encounter at Kelly  
-   Link: [https://cufos.org/PDFs/books/Close_Encounter_at_Kelly.pdf](https://cufos.org/PDFs/books/Close_Encounter_at_Kelly.pdf)  
+   Link: <a href="https://cufos.org/PDFs/books/Close_Encounter_at_Kelly.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/books/Close_Encounter_at_Kelly.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: wbko.com  
-   Link: [https://www.wbko.com/video/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/](https://www.wbko.com/video/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/)  
+   Link: <a href="https://www.wbko.com/video/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/" target="_blank" rel="noopener noreferrer nofollow">https://www.wbko.com/video/2025/08/21/70-years-later-revisiting-kelly-hopkinsville-encounter/</a>  
 
 15. <a id="endnote-15"></a>
    Source: history.com  
    Title: little green men origins aliens hopkinsville kelly  
-   Link: [https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly](https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly)  
+   Link: <a href="https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/little-green-men-origins-aliens-hopkinsville-kelly</a>  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Hopkinsville Goblins: Part 1  
-   Link: [https://www.youtube.com/watch?v=j66CQbprsmg](https://www.youtube.com/watch?v=j66CQbprsmg)  
+   Link: <a href="https://www.youtube.com/watch?v=j66CQbprsmg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j66CQbprsmg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hopkinsville Goblins - The Kelly Green Men...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Hopkinsville Goblins  
-   Link: [https://www.youtube.com/watch?v=JqVeGfm0TOU](https://www.youtube.com/watch?v=JqVeGfm0TOU)  
+   Link: <a href="https://www.youtube.com/watch?v=JqVeGfm0TOU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JqVeGfm0TOU</a>  
 
 18. <a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01982/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01982/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01982/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01982/full</a>  
 
 19. <a id="endnote-19"></a>
    Source: allaboutbirds.org  
-   Link: [https://www.allaboutbirds.org/guide/Great_Horned_Owl/overview](https://www.allaboutbirds.org/guide/Great_Horned_Owl/overview)  
+   Link: <a href="https://www.allaboutbirds.org/guide/Great_Horned_Owl/overview" target="_blank" rel="noopener noreferrer nofollow">https://www.allaboutbirds.org/guide/Great_Horned_Owl/overview</a>  
 
 20. <a id="endnote-20"></a>
    Source: visithopkinsville.com  
-   Link: [https://visithopkinsville.com/event/alien-invasion-day-2/](https://visithopkinsville.com/event/alien-invasion-day-2/)  
+   Link: <a href="https://visithopkinsville.com/event/alien-invasion-day-2/" target="_blank" rel="noopener noreferrer nofollow">https://visithopkinsville.com/event/alien-invasion-day-2/</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 22. <a id="endnote-22"></a>
    Source: allaboutbirds.org  
-   Link: [https://www.allaboutbirds.org/guide/Great_Horned_Owl/id](https://www.allaboutbirds.org/guide/Great_Horned_Owl/id)  
+   Link: <a href="https://www.allaboutbirds.org/guide/Great_Horned_Owl/id" target="_blank" rel="noopener noreferrer nofollow">https://www.allaboutbirds.org/guide/Great_Horned_Owl/id</a>  
 
 23. <a id="endnote-23"></a>
    Source: allaboutbirds.org  
-   Link: [https://www.allaboutbirds.org/guide/Long-eared_Owl/id](https://www.allaboutbirds.org/guide/Long-eared_Owl/id)  
+   Link: <a href="https://www.allaboutbirds.org/guide/Long-eared_Owl/id" target="_blank" rel="noopener noreferrer nofollow">https://www.allaboutbirds.org/guide/Long-eared_Owl/id</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/VisitHopkinsville/posts/happy-70th-anniversary-of-the-kelly-little-greenhopkinsville-goblin-attack-of-19/1347502713585877/](https://www.facebook.com/VisitHopkinsville/posts/happy-70th-anniversary-of-the-kelly-little-greenhopkinsville-goblin-attack-of-19/1347502713585877/)  
+   Link: <a href="https://www.facebook.com/VisitHopkinsville/posts/happy-70th-anniversary-of-the-kelly-little-greenhopkinsville-goblin-attack-of-19/1347502713585877/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VisitHopkinsville/posts/happy-70th-anniversary-of-the-kelly-little-greenhopkinsville-goblin-attack-of-19/1347502713585877/</a>  
 
 25. <a id="endnote-25"></a>
    Source: public-pages-files-2025.frontiersin.org  
-   Link: [https://public-pages-files-2025.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01982/epub](https://public-pages-files-2025.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01982/epub)  
+   Link: <a href="https://public-pages-files-2025.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01982/epub" target="_blank" rel="noopener noreferrer nofollow">https://public-pages-files-2025.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01982/epub</a>  
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=w8wIqJQ36Zs](https://www.youtube.com/watch?v=w8wIqJQ36Zs)  
+   Link: <a href="https://www.youtube.com/watch?v=w8wIqJQ36Zs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w8wIqJQ36Zs</a>  
 
 27. <a id="endnote-27"></a>
    Source: scribd.com  
    Title: Close encounter at kelly  
-   Link: [https://www.scribd.com/document/441169152/Close-encounter-at-kelly](https://www.scribd.com/document/441169152/Close-encounter-at-kelly)  
+   Link: <a href="https://www.scribd.com/document/441169152/Close-encounter-at-kelly" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/441169152/Close-encounter-at-kelly</a>  
 
 28. <a id="endnote-28"></a>
    Source: visithopkinsville.com  
    Title: goblincon ufo and paranormal expo 2025  
-   Link: [https://visithopkinsville.com/event/goblincon-ufo-and-paranormal-expo-2025/](https://visithopkinsville.com/event/goblincon-ufo-and-paranormal-expo-2025/)  
+   Link: <a href="https://visithopkinsville.com/event/goblincon-ufo-and-paranormal-expo-2025/" target="_blank" rel="noopener noreferrer nofollow">https://visithopkinsville.com/event/goblincon-ufo-and-paranormal-expo-2025/</a>  
 
 29. <a id="endnote-29"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Kentucky Goblins! Kelly-Hopkinsville UFO Encounter  
-   Link: [https://www.youtube.com/watch?v=W5v_H2L7ZMY](https://www.youtube.com/watch?v=W5v_H2L7ZMY)  
+   Link: <a href="https://www.youtube.com/watch?v=W5v_H2L7ZMY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W5v_H2L7ZMY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained: The Hopkinsville Alien Invasion | True Alien Abduction | Full Documentary...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=c6Lj5IzL9xY](https://www.youtube.com/watch?v=c6Lj5IzL9xY)  
+   Link: <a href="https://www.youtube.com/watch?v=c6Lj5IzL9xY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c6Lj5IzL9xY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hopkinsville Goblins: The Strangest Alien Encounter in History...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/itshardbeingthekane/videos/littlegreenmen-of-kelly-ky-documentary-featuring-geraldine-sutton-stith-credit-k/1490147935833771/](https://www.facebook.com/itshardbeingthekane/videos/littlegreenmen-of-kelly-ky-documentary-featuring-geraldine-sutton-stith-credit-k/1490147935833771/)  
+   Link: <a href="https://www.facebook.com/itshardbeingthekane/videos/littlegreenmen-of-kelly-ky-documentary-featuring-geraldine-sutton-stith-credit-k/1490147935833771/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itshardbeingthekane/videos/littlegreenmen-of-kelly-ky-documentary-featuring-geraldine-sutton-stith-credit-k/1490147935833771/</a>  
 
 33. <a id="endnote-33"></a>
    Source: christiancountynow.com  
-   Link: [https://christiancountynow.com/news/267762-crowds-beam-down-for-alien-invasion-day-on-kelly-little-green-men-encounter-anniversary-photos/](https://christiancountynow.com/news/267762-crowds-beam-down-for-alien-invasion-day-on-kelly-little-green-men-encounter-anniversary-photos/)  
+   Link: <a href="https://christiancountynow.com/news/267762-crowds-beam-down-for-alien-invasion-day-on-kelly-little-green-men-encounter-anniversary-photos/" target="_blank" rel="noopener noreferrer nofollow">https://christiancountynow.com/news/267762-crowds-beam-down-for-alien-invasion-day-on-kelly-little-green-men-encounter-anniversary-photos/</a>  
 
 34. <a id="endnote-34"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 35. <a id="endnote-35"></a>
    Source: x.com  
-   Link: [https://x.com/SteveStuWill/status/1102431584546840576?lang=ar](https://x.com/SteveStuWill/status/1102431584546840576?lang=ar)  
+   Link: <a href="https://x.com/SteveStuWill/status/1102431584546840576?lang=ar" target="_blank" rel="noopener noreferrer nofollow">https://x.com/SteveStuWill/status/1102431584546840576?lang=ar</a>  
 
 36. <a id="endnote-36"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DQ1ye4NDWS5/?hl=en-gb](https://www.instagram.com/p/DQ1ye4NDWS5/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/p/DQ1ye4NDWS5/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DQ1ye4NDWS5/?hl=en-gb</a>  
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/iowadnr/posts/call-me-a-great-horned-owl-one-more-time-i-dare-you-the-long-eared-owl-is-not-on/1353303560161952/](https://www.facebook.com/iowadnr/posts/call-me-a-great-horned-owl-one-more-time-i-dare-you-the-long-eared-owl-is-not-on/1353303560161952/)  
+   Link: <a href="https://www.facebook.com/iowadnr/posts/call-me-a-great-horned-owl-one-more-time-i-dare-you-the-long-eared-owl-is-not-on/1353303560161952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iowadnr/posts/call-me-a-great-horned-owl-one-more-time-i-dare-you-the-long-eared-owl-is-not-on/1353303560161952/</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
 
 39. <a id="endnote-39"></a>
    Source: hawkwatch.org  
-   Link: [https://hawkwatch.org/raptor-id/raptor-id-fact-sheets/great-horned-owl/](https://hawkwatch.org/raptor-id/raptor-id-fact-sheets/great-horned-owl/)  
+   Link: <a href="https://hawkwatch.org/raptor-id/raptor-id-fact-sheets/great-horned-owl/" target="_blank" rel="noopener noreferrer nofollow">https://hawkwatch.org/raptor-id/raptor-id-fact-sheets/great-horned-owl/</a>

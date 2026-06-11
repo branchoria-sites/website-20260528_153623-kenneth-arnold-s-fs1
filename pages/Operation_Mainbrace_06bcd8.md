@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Angelucci
   permalink: /orfeo-angelucci-encounter-1955/
   short_title: Angelucci
-date: '2026-06-08 23:38:29 '
+date: '2026-06-11 13:22:42 '
 header:
   og_image: /assets/images/Operation_Mainbrace_06bcd8-overview-social.jpg
   preview_image: /assets/images/Operation_Mainbrace_06bcd8-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Operation_Mainbrace_06bcd8-overview-social.jpg
 ## Why Mainbrace made UFO reports harder to ignore
 
 Exercise Mainbrace was not a remote civilian rumour mill. It was a major Cold War naval and air exercise staged by NATO in September 1952, involving Allied fleets, aircraft, command rooms, carrier operations and amphibious activity in northern European waters. Imperial War Museums’ NATO film records show scenes from the operation at Greenock, Pitreavie Naval Headquarters, HMS Vanguard, USS Franklin D. Roosevelt and HMS Eagle, placing the reported sightings inside a heavily observed military environment rather than an isolated skywatching setting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iwm.org.uk/collections/item/object/1060050089" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iwm.org.uk">[Imperial War Museums]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iwm.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Operation_Mainbrace_06bcd8-overview.webp" | relative_url }}" alt="Overview image for Operation Mainbrace sightings 1952" loading="eager" decoding="sync" fetchpriority="high">
 The wider strategic setting also matters. TIME’s contemporary report described Mainbrace as NATO’s first big naval exercise, built around the imagined defence of Denmark and Norway in the event of war with Russia, with carrier strikes, submarine threats, joint command problems and a Danish beachhead all part of the exercise scenario. That context helps explain why unusual aerial reports by trained service personnel were not merely curious: in 1952, an unidentified object near a fleet or airfield could raise defence, intelligence and public-confidence questions at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6887157/nato-operation-mainbrace/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -776,7 +775,6 @@ DateReported locationMain claimEvidence status13 September 1952Danish destroyer 
 
 Ruppelt’s account is important because he was then head of the US Air Force’s Project Blue Book, but it should be treated carefully. He wrote that photographs taken from USS Franklin D. Roosevelt looked balloon-like, that naval intelligence checked for balloon launches and found none, and that later Mainbrace sightings influenced RAF thinking. Yet the same passage also shows ambiguity: some flight-deck witnesses thought the object was a balloon, others thought it moved too fast, and Ruppelt was relying partly on military intelligence channels rather than presenting a full public case file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/rufo/rufo16.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Operation_Mainbrace_06bcd8-Illustration-1-dark.svg" | relative_url }}" alt="Operation Mainbrace sightings 1952 illustration 1" data-theme-src-dark="{{ "/assets/images/Operation_Mainbrace_06bcd8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Operation_Mainbrace_06bcd8-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## RAF Topcliffe: the best-documented sighting
 
@@ -787,7 +785,6 @@ The details are striking because Kilburn’s first interpretation was mundane: p
 The public trail is also unusually clear for a 1950s British UFO case. Clarke notes that the Topcliffe report reached the press in September 1952 and that a later Yorkshire Post follow-up said the RAF’s new UFO unit had failed to identify or explain the object; he also records that the case was important enough to be mentioned in later British and American official discussions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/2022/09/18/70th-anniversary-of-the-rafs-ufo-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">We See Everything – even Flying Saucers</span><span class="citation-popover-snippet">We See Everything – even Flying Saucers</span></span></span>
 
 In Parliament, the case resurfaced years later. On 2 February 1959, Labour MP Roy Mason asked the Secretary of State for Air for the result of the inquiry into the unidentified flying object sighted by airmen during NATO exercise Mainbrace on 19 September 1952. The answer from George Ward was only four words: “No object was identified.” That is not proof of an extraordinary object, but it is official confirmation that the inquiry did not publicly resolve the sighting as an aircraft, balloon, hoax or astronomical misidentification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hansard.parliament.uk/commons/1959-02-02/debates/8a47489f-b5ed-4147-8887-d66a21aac120/NatoExerciseMainbrace%28UnidentifiedFlyingObject%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Nato Exercise &quot;Mainbrace&quot; (Unidentified Flying Object</span><span class="citation-popover-snippet">Hansard Nato Exercise &quot;Mainbrace&quot; (Unidentified Flying Object</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WlzXp4ELP4k" title="Inside Project Blue Book: Operation Mainbrace (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WlzXp4ELP4k" target="_blank" rel="noopener noreferrer">Inside Project Blue Book: Operation Mainbrace (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 95.5K &middot; Uploaded: March 2020 &middot; Length: 4 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WlzXp4ELP4k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WlzXp4ELP4k">Open on YouTube</a></p></div></div></div>
 
@@ -801,7 +798,6 @@ This phrase is often misunderstood. It does not mean the RAF officially recognis
 
 The CIA connection adds another layer. Clarke reports that a December 1952 memorandum by H. Marshall Chadwell, Assistant Director of Scientific Intelligence, described British activity in the UFO field and referred to what he called the “Yorkshire incident”. Chadwell’s reported concern was not only the object itself, but the fact that RAF officials and pilots had seen something publicised in the press while British scientific intelligence figures were trying to manage both investigation and public interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://drdavidclarke.co.uk/about/my-top-10-ufo-stories/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drdavidclarke.co.uk">[drdavidclarke.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drdavidclarke.co.uk</span><span class="citation-popover-title">Our Top 10 UFO stories</span><span class="citation-popover-snippet">Our Top 10 UFO stories</span></span></span>
 
-
 <img src="{{ "/assets/images/Operation_Mainbrace_06bcd8-Illustration-2-dark.svg" | relative_url }}" alt="Operation Mainbrace sightings 1952 illustration 2" data-theme-src-dark="{{ "/assets/images/Operation_Mainbrace_06bcd8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Operation_Mainbrace_06bcd8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The photographs and the “balloon” problem
 
@@ -813,10 +809,9 @@ This is why the photographs should not be treated as the strongest evidence in t
 
 ## Plausible explanations and why none cleanly settles the case
 
-The sceptical explanations for Mainbrace are not frivolous. The sightings occurred during a vast exercise full of aircraft, ships, balloons, radar activity, weather effects, unfamiliar viewpoints and heightened expectations. A NATO fleet at sea in poor weather and a busy RAF environment could generate many opportunities for misidentification. US Naval Institute reporting on Mainbrace also emphasised communications problems, atmospheric and weather difficulties, and the complexity of coordinating forces during the manoeuvres, all of which are relevant when assessing perception and reporting under operational stress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usni.org/magazines/proceedings/1952/december/professional-notes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">U.S. Naval Institute Professional Notes | Proceedings</span><span class="citation-popover-snippet">U.S. Naval Institute Professional Notes | Proceedings</span></span></span>
+The sceptical explanations for Mainbrace are not frivolous. The sightings occurred during a vast exercise full of aircraft, ships, balloons, radar activity, weather effects, unfamiliar viewpoints and heightened expectations. A NATO fleet at sea in poor weather and a busy RAF environment could generate many opportunities for misidentification. US Naval Institute reporting on Mainbrace also emphasised communications problems, atmospheric and weather difficulties, and the complexity of coordinating forces during the manoeuvres, all of which are relevant when assessing perception and reporting under operational stress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usni.org/magazines/proceedings/1952/december/professional-notes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">U.S. Naval Institute Professional Notes &#124; Proceedings</span><span class="citation-popover-snippet">U.S. Naval Institute Professional Notes &#124; Proceedings</span></span></span>
 
 Several ordinary explanations remain plausible for parts of the case:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -830,7 +825,6 @@ Several ordinary explanations remain plausible for parts of the case:
 
 The strongest argument against a tidy debunking is not that any one report proves something exotic. It is that the Topcliffe account involved multiple RAF witnesses, an aviation setting, named reporting, an official inquiry and no public identification. The strongest argument against an extraordinary conclusion is equally important: the surviving evidence lacks instrument-quality data, the broader Mainbrace chronology is patchy, and apparent speed or acceleration from visual observation can be badly distorted when distance is unknown.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fWkZj8KVtIQ" title="Dr. David Clarke - Operation Mainbrace UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fWkZj8KVtIQ" target="_blank" rel="noopener noreferrer">Dr. David Clarke - Operation Mainbrace UFOs</a></p><p class="youtube-embed-meta">Channel: Disclosure Team with Vinnie Adams &middot; Views: 5.0K &middot; Uploaded: September 2022 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fWkZj8KVtIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fWkZj8KVtIQ">Open on YouTube</a></p></div></div></div>
 
 ## How much weight should the witnesses carry?
@@ -838,7 +832,6 @@ The strongest argument against a tidy debunking is not that any one report prove
 The witnesses matter because this was not a story built solely from anonymous civilian reports. Kilburn was a Flight Lieutenant in 269 Squadron; other Shackleton aircrew were present; Ruppelt described RAF pilots and naval personnel as involved in the wider Mainbrace reports; and the 1959 Hansard exchange confirms official awareness of the 19 September airmen’s sighting. That gives the case more weight than a casual anecdote. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/ukufo/1952topcliffe.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">Sign Historical Group</span><span class="citation-popover-snippet">Sign Historical Group</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hansard.parliament.uk/commons/1959-02-02/debates/8a47489f-b5ed-4147-8887-d66a21aac120/NatoExerciseMainbrace%28UnidentifiedFlyingObject%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Nato Exercise &quot;Mainbrace&quot; (Unidentified Flying Object</span><span class="citation-popover-snippet">Hansard Nato Exercise &quot;Mainbrace&quot; (Unidentified Flying Object</span></span></span> But witness credibility is not the same as object identification. Skilled pilots and aircrew can describe what they saw honestly and still misjudge altitude, distance, speed, size or relationship to another aircraft. This is especially true when an object is small, bright, high-contrast, briefly visible and lacks a known reference scale. The Topcliffe account’s most dramatic claim — acceleration “in excess of that of a shooting star” — depends on apparent motion across the sky, not a measured velocity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/shg/ukufo/1952topcliffe.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-title">Sign Historical Group</span><span class="citation-popover-snippet">Sign Historical Group</span></span></span>
 
 The case therefore sits in a middle category. It is too well-attested to dismiss as a simple newspaper invention, but too poorly instrumented to carry the weight often placed on it in UFO lore. Its real historical importance lies less in proving what the object was and more in showing how trained military witnesses could force official systems to take unidentified aerial reports seriously.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9vE2fNgwi8g" title="1952 REPORT OF THE U.S. NAVY GLOBAL OPERATIONS / KOREAN WAR 28474" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9vE2fNgwi8g" target="_blank" rel="noopener noreferrer">1952 REPORT OF THE U.S. NAVY GLOBAL OPERATIONS / KOREAN WAR 28474</a></p><p class="youtube-embed-meta">Channel: PeriscopeFilm &middot; Views: 5.8K &middot; Uploaded: November 2017 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9vE2fNgwi8g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9vE2fNgwi8g">Open on YouTube</a></p></div></div></div>
 
@@ -850,7 +843,6 @@ That change did not amount to public endorsement of flying saucers. In fact, the
 
 For a case dossier, Mainbrace is therefore a useful bridge between early British scepticism and later official UFO administration. It also links naturally to sibling branches such as the RAF Topcliffe sighting, the Little Rissington incident, the Flying Saucer Working Party, Project Blue Book liaison, and British radar-visual cases of the 1950s. Those related threads help explain why Mainbrace was remembered not as a solved encounter, but as a pressure point in the evolution of official UFO handling.
 
-
 <img src="{{ "/assets/images/Operation_Mainbrace_06bcd8-Illustration-3-dark.svg" | relative_url }}" alt="Operation Mainbrace sightings 1952 illustration 3" data-theme-src-dark="{{ "/assets/images/Operation_Mainbrace_06bcd8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Operation_Mainbrace_06bcd8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Bottom line
 
@@ -859,44 +851,86 @@ Operation Mainbrace is not a single “smoking gun” case. It is a cluster of u
 The extraterrestrial interpretation goes beyond the evidence. The sceptical interpretation is stronger when applied to the weaker shipboard and catalogue-style reports, but it has not publicly reduced the Topcliffe case to a specific known object. The most defensible reading is unresolved but bounded: Mainbrace remains historically significant because of who reported the sightings, where they occurred, and how official bodies reacted, not because the surviving record proves an exotic craft.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened During the 1952 Mainbrace UFO Sightings?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened During the 1952 Mainbrace UFO Sightings?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Archives how military and government files are documented, establishing the standards that distinguish fact from legend.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides an objective case-file entry documenting the 1952 Operation Mainbrace sighting cluster and the investigative history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Analyzes why radar-visual cases often remain &#x27;unresolved&#x27; rather than definitively explained, even decades later.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Details the investigative steps required to evaluate cases involving radar-visual corroboration during the 1950s.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -907,161 +941,161 @@ The extraterrestrial interpretation goes beyond the evidence. The sceptical inte
 1. <a id="endnote-1"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Nato Exercise "Mainbrace" (Unidentified Flying Object)  
-   Link: [https://hansard.parliament.uk/commons/1959-02-02/debates/8a47489f-b5ed-4147-8887-d66a21aac120/NatoExerciseMainbrace%28UnidentifiedFlyingObject%29](https://hansard.parliament.uk/commons/1959-02-02/debates/8a47489f-b5ed-4147-8887-d66a21aac120/NatoExerciseMainbrace%28UnidentifiedFlyingObject%29)  
+   Link: <a href="https://hansard.parliament.uk/commons/1959-02-02/debates/8a47489f-b5ed-4147-8887-d66a21aac120/NatoExerciseMainbrace%28UnidentifiedFlyingObject%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/1959-02-02/debates/8a47489f-b5ed-4147-8887-d66a21aac120/NatoExerciseMainbrace%28UnidentifiedFlyingObject%29</a>  
 
 2. <a id="endnote-2"></a>
    Source: project1947.com  
    Title: Sign Historical Group  
-   Link: [https://www.project1947.com/shg/ukufo/1952topcliffe.htm](https://www.project1947.com/shg/ukufo/1952topcliffe.htm)  
+   Link: <a href="https://www.project1947.com/shg/ukufo/1952topcliffe.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/shg/ukufo/1952topcliffe.htm</a>  
 
 3. <a id="endnote-3"></a>
    Source: time.com  
-   Link: [https://time.com/archive/6887157/nato-operation-mainbrace/](https://time.com/archive/6887157/nato-operation-mainbrace/)  
+   Link: <a href="https://time.com/archive/6887157/nato-operation-mainbrace/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6887157/nato-operation-mainbrace/</a>  
 
 4. <a id="endnote-4"></a>
    Source: drdavidclarke.co.uk  
    Title: operation mainbrace ufos  
-   Link: [https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/](https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/)  
+   Link: <a href="https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/secret-files/operation-mainbrace-ufos/</a>  
 
 5. <a id="endnote-5"></a>
    Source: drdavidclarke.co.uk  
    Title: We See Everything – even Flying Saucers  
-   Link: [https://drdavidclarke.co.uk/2022/09/18/70th-anniversary-of-the-rafs-ufo-project/](https://drdavidclarke.co.uk/2022/09/18/70th-anniversary-of-the-rafs-ufo-project/)  
+   Link: <a href="https://drdavidclarke.co.uk/2022/09/18/70th-anniversary-of-the-rafs-ufo-project/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/2022/09/18/70th-anniversary-of-the-rafs-ufo-project/</a>  
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 7. <a id="endnote-7"></a>
    Source: drdavidclarke.co.uk  
    Title: Our Top 10 UFO stories  
-   Link: [https://drdavidclarke.co.uk/about/my-top-10-ufo-stories/](https://drdavidclarke.co.uk/about/my-top-10-ufo-stories/)  
+   Link: <a href="https://drdavidclarke.co.uk/about/my-top-10-ufo-stories/" target="_blank" rel="noopener noreferrer nofollow">https://drdavidclarke.co.uk/about/my-top-10-ufo-stories/</a>  
 
 8. <a id="endnote-8"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 9. <a id="endnote-9"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/0005517742](https://www.cia.gov/readingroom/document/0005517742)  
+   Link: <a href="https://www.cia.gov/readingroom/document/0005517742" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/0005517742</a>  
 
 10. <a id="endnote-10"></a>
    Source: prologue.blogs.archives.gov  
    Title: saucers over washington the history of project blue book  
-   Link: [https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/](https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
 11. <a id="endnote-11"></a>
    Source: prologue.blogs.archives.gov  
    Title: ufos natural explanations  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/</a>  
 
 12. <a id="endnote-12"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 13. <a id="endnote-13"></a>
    Source: history.com  
    Title: uk ufos mainbrace nato  
-   Link: [https://www.history.com/articles/uk-ufos-mainbrace-nato](https://www.history.com/articles/uk-ufos-mainbrace-nato)  
+   Link: <a href="https://www.history.com/articles/uk-ufos-mainbrace-nato" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/uk-ufos-mainbrace-nato</a>  
 
 14. <a id="endnote-14"></a>
    Source: ia601405.us.archive.org  
-   Link: [https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf](https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf)  
+   Link: <a href="https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia601405.us.archive.org/28/items/B-001-014-055/B-001-014-055.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: shape.nato.int  
-   Link: [https://shape.nato.int/nato-exercises](https://shape.nato.int/nato-exercises)  
+   Link: <a href="https://shape.nato.int/nato-exercises" target="_blank" rel="noopener noreferrer nofollow">https://shape.nato.int/nato-exercises</a>  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: OPERATION "MAINBRACE"  
-   Link: [https://www.youtube.com/watch?v=i4FG3k3izyI](https://www.youtube.com/watch?v=i4FG3k3izyI)  
+   Link: <a href="https://www.youtube.com/watch?v=i4FG3k3izyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i4FG3k3izyI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. David Clarke - Operation Mainbrace UFOs...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Dr. David Clarke  
-   Link: [https://www.youtube.com/watch?v=fWkZj8KVtIQ](https://www.youtube.com/watch?v=fWkZj8KVtIQ)  
+   Link: <a href="https://www.youtube.com/watch?v=fWkZj8KVtIQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fWkZj8KVtIQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1952 REPORT OF THE U.S. NAVY GLOBAL OPERATIONS / KOREAN WAR 28474...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: iwm.org.uk  
-   Link: [https://www.iwm.org.uk/collections/item/object/1060050089](https://www.iwm.org.uk/collections/item/object/1060050089)  
+   Link: <a href="https://www.iwm.org.uk/collections/item/object/1060050089" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/collections/item/object/1060050089</a>  
 
 19. <a id="endnote-19"></a>
    Source: sacred-texts.com  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo16.htm](https://sacred-texts.com/ufo/rufo/rufo16.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo16.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo16.htm</a>  
 
 20. <a id="endnote-20"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: National Archives Layout 1  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf](https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/the-ufo-files-extract.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
 22. <a id="endnote-22"></a>
    Source: usni.org  
    Title: U.S. Naval Institute Professional Notes | Proceedings  
-   Link: [https://www.usni.org/magazines/proceedings/1952/december/professional-notes](https://www.usni.org/magazines/proceedings/1952/december/professional-notes)  
+   Link: <a href="https://www.usni.org/magazines/proceedings/1952/december/professional-notes" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/proceedings/1952/december/professional-notes</a>  
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Exercise Mainbrace  
-   Link: [https://en.wikipedia.org/wiki/Exercise_Mainbrace](https://en.wikipedia.org/wiki/Exercise_Mainbrace)  
+   Link: <a href="https://en.wikipedia.org/wiki/Exercise_Mainbrace" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Exercise_Mainbrace</a>  
 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 25. <a id="endnote-25"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9vE2fNgwi8g](https://www.youtube.com/watch?v=9vE2fNgwi8g)  
+   Link: <a href="https://www.youtube.com/watch?v=9vE2fNgwi8g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9vE2fNgwi8g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: archivesfoundation.org  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+   Link: <a href="https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/</a>  
 
 30. <a id="endnote-30"></a>
    Source: iwm.org.uk  
-   Link: [https://www.iwm.org.uk/collections/item/object/1060050096](https://www.iwm.org.uk/collections/item/object/1060050096)  
+   Link: <a href="https://www.iwm.org.uk/collections/item/object/1060050096" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/collections/item/object/1060050096</a>  
 
 31. <a id="endnote-31"></a>
    Source: iwm.org.uk  
-   Link: [https://www.iwm.org.uk/collections/item/object/1060050097](https://www.iwm.org.uk/collections/item/object/1060050097)  
+   Link: <a href="https://www.iwm.org.uk/collections/item/object/1060050097" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/collections/item/object/1060050097</a>  
 
 32. <a id="endnote-32"></a>
    Source: iwm.org.uk  
-   Link: [https://www.iwm.org.uk/collections/item/object/1060050098](https://www.iwm.org.uk/collections/item/object/1060050098)  
+   Link: <a href="https://www.iwm.org.uk/collections/item/object/1060050098" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/collections/item/object/1060050098</a>  
 
 33. <a id="endnote-33"></a>
    Source: iwm.org.uk  
-   Link: [https://www.iwm.org.uk/collections/item/object/1060050093](https://www.iwm.org.uk/collections/item/object/1060050093)  
+   Link: <a href="https://www.iwm.org.uk/collections/item/object/1060050093" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/collections/item/object/1060050093</a>  
 
 34. <a id="endnote-34"></a>
    Source: iwm.org.uk  
-   Link: [https://www.iwm.org.uk/collections/item/object/1060050563](https://www.iwm.org.uk/collections/item/object/1060050563)  
+   Link: <a href="https://www.iwm.org.uk/collections/item/object/1060050563" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/collections/item/object/1060050563</a>  
 
 35. <a id="endnote-35"></a>
    Source: iwm.org.uk  
-   Link: [https://www.iwm.org.uk/collections/item/object/1060050565](https://www.iwm.org.uk/collections/item/object/1060050565)  
+   Link: <a href="https://www.iwm.org.uk/collections/item/object/1060050565" target="_blank" rel="noopener noreferrer nofollow">https://www.iwm.org.uk/collections/item/object/1060050565</a>

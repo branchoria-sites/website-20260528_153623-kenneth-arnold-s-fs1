@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /fred-m-johnson-sighting-1947/
 nav_short_title: Testimony
 title: What Did Fred Johnson Actually Report?
-title_full: What Did Fred Johnson Actually Report? | Johnson Sighting
+title_full: What Did Fred Johnson Actually Report?
 display_title_short: Testimony
 display_title: Testimony
 heading_title: What Did Fred Johnson Actually Report?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /compass-claim/
   short_title: Compass Claim
   heading_title: Did the UFOs Affect Johnson's Compass?
-date: '2026-06-08 23:33:20 '
+date: '2026-06-11 13:20:06 '
 header:
   og_image: /assets/images/Fred_M_Johnson_sight_b34b17_johnson_testimony_51fdc4-Illustration-1-social.jpg
   preview_image: /assets/images/Fred_M_Johnson_sight_b34b17_johnson_testimony_51fdc4-Illustration-1.webp
@@ -244,9 +244,8 @@ image: /assets/images/Fred_M_Johnson_sight_b34b17_johnson_testimony_51fdc4-Illus
 
 Fred M. Johnson’s testimony is the foundation of the entire 1947 sighting case. Unlike many early “flying saucer” stories that survive only through rumours or newspaper summaries, this incident is anchored to a direct written statement attributed to Johnson himself. That matters because later retellings often added dramatic details, simplified the chronology, or merged his account with the more famous Kenneth Arnold sighting from the same day. The closer researchers stay to Johnson’s original wording, the more restrained and specific the story becomes.
 
-
 <img src="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_johnson_testimony_51fdc4-Illustration-1-dark.svg" | relative_url }}" alt="Testimony illustration 1" data-theme-src-dark="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_johnson_testimony_51fdc4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_johnson_testimony_51fdc4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-At its core, Johnson claimed that on 24 June 1947, while prospecting in the Mount Adams area, he observed several unusual disc-shaped objects at relatively low apparent altitude through a telescope. He described their shape, motion, silence, and reflective appearance, and he later became associated with one of the earliest UFO “electromagnetic effect” stories because of claims involving a compass needle behaving erratically. The surviving testimony is therefore important not because it proves anything extraordinary, but because it shows how one witness account evolved as UFO literature expanded in the decades after 1947. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/johns47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - Fred Johnson LetterI can say am a prospector and was in the Mt Adams district on June 24th the day Kenneth Arn...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ReportUFOWave1947 SectionIV</span><span class="citation-popover-snippet">NICAPReport on UFO Wave of 1947 Section IVThey were approximately 30 feet in diameter and Johnson turned his telescope on one of the obje...</span></span></span>
+At its core, Johnson claimed that on 24 June 1947, while prospecting in the Mount Adams area, he observed several unusual disc-shaped objects at relatively low apparent altitude through a telescope. He described their shape, motion, silence, and reflective appearance, and he later became associated with one of the earliest UFO “electromagnetic effect” stories because of claims involving a compass needle behaving erratically. The surviving testimony is therefore important not because it proves anything extraordinary, but because it shows how one witness account evolved as UFO literature expanded in the decades after 1947. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.project1947.com/fig/johns47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - Fred Johnson LetterI can say am a prospector and was in the Mt Adams district on June 24th the day Kenneth Arn...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ReportUFOWave1947 SectionIV</span><span class="citation-popover-snippet">Report on UFO Wave of 1947 Section IVThey were approximately 30 feet in diameter and Johnson turned his telescope on one of the obje...</span></span></span>
 
 ## The Original Letter and Its Wording
 
@@ -258,11 +257,10 @@ First, Johnson did not present himself as discovering a completely independent p
 
 The letter’s descriptive passages are the most cited portions. Johnson said the objects were:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * round in form;
-* approximately 30 feet across; <span class="citation-chip-wrap"><a class="citation-chip" href="https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ReportUFOWave1947 SectionIV</span><span class="citation-popover-snippet">NICAPReport on UFO Wave of 1947 Section IVThey were approximately 30 feet in diameter and Johnson turned his telescope on one of the obje...</span></span></span>
+* approximately 30 feet across; <span class="citation-chip-wrap"><a class="citation-chip" href="https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[nicap.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ReportUFOWave1947 SectionIV</span><span class="citation-popover-snippet">Report on UFO Wave of 1947 Section IVThey were approximately 30 feet in diameter and Johnson turned his telescope on one of the obje...</span></span></span>
 * bright or reflective on top;
 * sharply tapered at one end;
 * travelling silently;
@@ -279,7 +277,6 @@ The original letter is therefore less polished and more ambiguous than later UFO
 ## Objects, Telescope, Sound, and Apparent Height
 
 Johnson’s testimony became influential partly because it included several observational claims that later UFO researchers considered unusually specific for 1947.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cAE8-e5_EKY" title="WATCH LIVE: UK Prime Minister Boris Johnson holds a press conference on coronavirus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cAE8-e5_EKY" target="_blank" rel="noopener noreferrer">WATCH LIVE: UK Prime Minister Boris Johnson holds a press conference on coronavirus</a></p><p class="youtube-embed-meta">Channel: 10 Downing Street &middot; Views: 42.6K &middot; Uploaded: March 2020 &middot; Length: 45 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cAE8-e5_EKY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cAE8-e5_EKY">Open on YouTube</a></p></div></div></div>
 
@@ -303,8 +300,7 @@ Johnson repeatedly stressed the absence of aircraft noise. This became a recurri
 
 Silence is one reason the sighting attracted attention, but it is also one of the least verifiable parts of the account. Environmental conditions, terrain, wind, distance misjudgement, and the brief duration of the sighting can all affect perceived sound.
 
-Johnson’s movement descriptions are similarly impressionistic. He did not provide exact flight paths, angular measurements, or timing calculations. Most later estimates of duration — often around 45 to 60 seconds — come from secondary UFO literature rather than the original letter itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ReportUFOWave1947 SectionIV</span><span class="citation-popover-snippet">NICAPReport on UFO Wave of 1947 Section IVThey were approximately 30 feet in diameter and Johnson turned his telescope on one of the obje...</span></span></span>
-
+Johnson’s movement descriptions are similarly impressionistic. He did not provide exact flight paths, angular measurements, or timing calculations. Most later estimates of duration — often around 45 to 60 seconds — come from secondary UFO literature rather than the original letter itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">ReportUFOWave1947 SectionIV</span><span class="citation-popover-snippet">Report on UFO Wave of 1947 Section IVThey were approximately 30 feet in diameter and Johnson turned his telescope on one of the obje...</span></span></span>
 
 <img src="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_johnson_testimony_51fdc4-Illustration-2-dark.svg" | relative_url }}" alt="Testimony illustration 2" data-theme-src-dark="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_johnson_testimony_51fdc4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_johnson_testimony_51fdc4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Compass Story Entered UFO Lore
@@ -320,7 +316,6 @@ Yet the evidentiary basis is thinner than many later summaries imply.
 The original surviving letter is not always reproduced in full across UFO sources, and the exact wording surrounding the compass varies between retellings. Some summaries portray dramatic magnetic disruption, while others describe only temporary needle movement. The story also became progressively more polished as it passed through UFO catalogues and case compilations.
 
 There is no surviving physical evidence from the compass itself, no instrument record, and no corroborating witness statement confirming the behaviour independently. The compass story therefore remains entirely testimonial.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BBYje0LZh4w" title="Economic Policy during the Pandemic: A European Perspective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BBYje0LZh4w" target="_blank" rel="noopener noreferrer">Economic Policy during the Pandemic: A European Perspective</a></p><p class="youtube-embed-meta">Channel: RoyalEconomicSociety &middot; Views: 751 &middot; Uploaded: June 2020 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BBYje0LZh4w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BBYje0LZh4w">Open on YouTube</a></p></div></div></div>
 
@@ -338,7 +333,6 @@ That simplification matters because it aligned the case more neatly with the eme
 
 The original testimony contains uncertainty markers:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “probably” about 1,000 feet high;
@@ -352,7 +346,6 @@ Later retellings often dropped this cautionary language. Distances became fixed 
 
 This is common in long-lived UFO narratives. As cases are repeated through books, magazines, television programmes, and online databases, ambiguity tends to disappear.
 
-
 <img src="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_johnson_testimony_51fdc4-Illustration-3-dark.svg" | relative_url }}" alt="Testimony illustration 3" data-theme-src-dark="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_johnson_testimony_51fdc4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Fred_M_Johnson_sight_b34b17_johnson_testimony_51fdc4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Kenneth Arnold Connection Grew Stronger
 
@@ -365,7 +358,6 @@ The geography, timing, and flight-path assumptions are not precise enough to dem
 ## What Johnson Actually Claimed Versus What the Legend Became
 
 When stripped back to its strongest documented core, Johnson’s testimony consists of a relatively concise set of claims:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -384,49 +376,89 @@ The case therefore illustrates a larger pattern in early UFO history. The origin
 
 For historians of the 1947 flying saucer wave, the testimony remains valuable not as definitive proof of exotic craft, but as a rare surviving witness narrative from the moment the modern UFO phenomenon was first taking cultural form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twin Falls saucer hoax</span><span class="citation-popover-snippet">Twin Falls saucer hoaxIn 1949, another &#x27;crashed disc&#x27; story circulated as part of the Aztec, New Mexico UFO hoax.... &quot;Report on the U...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/fig/johns47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[Project 1947]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Project 1947PROJECT 1947 - Fred Johnson LetterI can say am a prospector and was in the Mt Adams district on June 24th the day Kenneth Arn...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/bb/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">BB Unknowns</span><span class="citation-popover-snippet">UFO Unknowns: Database Catalog (Not Yet a Best...Compiled by Brad Sparks © 2001-2026. The main purpose of this catalog at present is to...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IMoukoe-SA8" title="Education and Lockdown: Skills, Transitions and Inequalities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IMoukoe-SA8" target="_blank" rel="noopener noreferrer">Education and Lockdown: Skills, Transitions and Inequalities</a></p><p class="youtube-embed-meta">Channel: RoyalEconomicSociety &middot; Views: 690 &middot; Uploaded: May 2020 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IMoukoe-SA8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IMoukoe-SA8">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Did Fred Johnson Actually Report?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Did Fred Johnson Actually Report?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Records the direct testimony as filed during the 1947 wave and explains the importance of preserving original reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Fred M. Johnson reports, objectively contrasting the original wording against later literature retellings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">1947 UFO guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=1947+UFO+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches skills for distinguishing first-hand testimony from retrospectively embellished narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Documents how intelligence units handled early sighting waves, emphasizing the importance of original reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -463,15 +495,15 @@ For historians of the 1947 flying saucer wave, the testimony remains valuable no
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="https://i.ebayimg.com/images/g/CIMAAeSwPI1pgk0U/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,15 +511,15 @@ For historians of the 1947 flying saucer wave, the testimony remains valuable no
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell 1:72 03903 Flying Saucer Haunebu II Model Rare Kit - New &amp; Unopened"><img src="https://i.ebayimg.com/images/g/MZgAAOSwjH1keQGN/s-l225.jpg" alt="Listing image for Revell 1:72 03903 Flying Saucer Haunebu II Model Rare Kit - New &amp; Unopened" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Revell 1:72 03903 Flying Saucer Haunebu II Model Rare Kit - New &amp; Unopened</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,15 +527,15 @@ For historians of the 1947 flying saucer wave, the testimony remains valuable no
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="https://i.ebayimg.com/images/g/NRAAAeSw7EFpnqXD/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,15 +543,15 @@ For historians of the 1947 flying saucer wave, the testimony remains valuable no
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;"><img src="https://i.ebayimg.com/images/g/KJAAAeSwHlpqIC~m/s-l225.jpg" alt="Listing image for FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER MODEL KIT ATLANTIS &quot;MINT IN THE BAG&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer model">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,7 +559,7 @@ For historians of the 1947 flying saucer wave, the testimony remains valuable no
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="testimony-what-did-fred-johnson-actually-report-fred-m-johnson-sighting-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-fred-johnson-actually-report-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="what-did-fred-johnson-actually-report-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -742,117 +774,117 @@ For historians of the 1947 flying saucer wave, the testimony remains valuable no
 
 1. <a id="endnote-1"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/fig/johns47.htm](https://www.project1947.com/fig/johns47.htm)  
+   Link: <a href="https://www.project1947.com/fig/johns47.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/johns47.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 1947PROJECT 1947 - Fred Johnson LetterI can say am a prospector and was in the Mt Adams district on June 24th the day Kenneth Arn...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nicap.org  
    Title: ReportUFOWave1947 SectionIV  
-   Link: [https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm](https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPReport on UFO Wave of 1947 Section IVThey were approximately 30 feet in diameter and Johnson turned his telescope on one of the obje...</p></details>
+   Link: <a href="https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/waves/Wave47Rpt/ReportUFOWave1947_SectionIV.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on UFO Wave of 1947 Section IVThey were approximately 30 feet in diameter and Johnson turned his telescope on one of the obje...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
-   Link: [https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf](https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf)  
+   Link: <a href="https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nicap.org/waves/Wave47Rpt/ReportOnWaveOf1947.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Johnson, Fred, sighting 6/24, I-4; II-13; IV-3. Gregorson, Oliver...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: [https://en.wikipedia.org/wiki/1947_flying_disc_craze](https://en.wikipedia.org/wiki/1947_flying_disc_craze)  
+   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Twin Falls saucer hoax  
-   Link: [https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax](https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax)  
+   Link: <a href="https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Twin_Falls_saucer_hoax</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Twin Falls saucer hoaxIn 1949, another &#x27;crashed disc&#x27; story circulated as part of the Aztec, New Mexico UFO hoax.... &quot;Report on the U...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Table of reports during the 1947 flying disc craze  
-   Link: [https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze](https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze)  
+   Link: <a href="https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Such reports quickly spread throughout the United States, and some sources estimate...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: [https://en.wikipedia.org/wiki/Flying_saucer](https://en.wikipedia.org/wiki/Flying_saucer)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucerCambridge Dictionary. ^ Bloecher, Ted (1967). Report on the UFO Wave of 1947 (PDF).... ^ &quot;Twin Falls Falling Disc Proves...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nicap.org  
    Title: BB Unknowns  
-   Link: [https://www.nicap.org/bb/BB_Unknowns.pdf](https://www.nicap.org/bb/BB_Unknowns.pdf)  
+   Link: <a href="https://www.nicap.org/bb/BB_Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/bb/BB_Unknowns.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Unknowns: Database Catalog (Not Yet a Best...Compiled by Brad Sparks © 2001-2026. The main purpose of this catalog at present is to...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/roswell/ufo47.htm](https://www.project1947.com/roswell/ufo47.htm)  
+   Link: <a href="https://www.project1947.com/roswell/ufo47.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/roswell/ufo47.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1947 UFO &quot;Disk&quot; RecoveriesIn both cases the hoaxes are quickly identified. The FBI was involved in both cases. The Twin Falls, Idaho, hoa...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dokumen.pub  
    Title: report on the ufo wave of 1947  
-   Link: [https://dokumen.pub/report-on-the-ufo-wave-of-1947.html](https://dokumen.pub/report-on-the-ufo-wave-of-1947.html)  
+   Link: <a href="https://dokumen.pub/report-on-the-ufo-wave-of-1947.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/report-on-the-ufo-wave-of-1947.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It includes a detailed chronology of more than 850 UFO cases for June and July with complete references, primarily from 140 newspapers in...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf](https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf)  
+   Link: <a href="https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/275519727/Alfred-Loedding-The-Great-Flying-Saucer-Wave-of-1947-Michael-D-Connors-Wendy-A-Hall-pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alfred Loedding and the 1947 UFO Wave | PDFAlfred Loedding was an aeronautical engineer who witnessed an unexplained flying object in 193...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: on this day in 1947 what many consider to be the first modern ufo sighting took  
-   Link: [https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/](https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/)  
+   Link: <a href="https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/libraryofcongress/posts/on-this-day-in-1947-what-many-consider-to-be-the-first-modern-ufo-sighting-took-/1150298620475987/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of Congress9–13; Ted Bloecher, Report on The UFO Wave of 1947, Case 20, p. I-2... The army and FBI revealed the model was a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
    Title: Montana Historical Society Nine Flying Discs Encountered by B -17-Utah,  
-   Link: [https://www.facebook.com/MontanaHistoricalSociety/posts/on-july-7-1947-the-state-was-abuzz-with-speculation-about-flying-saucers-on-july/895125292653932/](https://www.facebook.com/MontanaHistoricalSociety/posts/on-july-7-1947-the-state-was-abuzz-with-speculation-about-flying-saucers-on-july/895125292653932/)  
+   Link: <a href="https://www.facebook.com/MontanaHistoricalSociety/posts/on-july-7-1947-the-state-was-abuzz-with-speculation-about-flying-saucers-on-july/895125292653932/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MontanaHistoricalSociety/posts/on-july-7-1947-the-state-was-abuzz-with-speculation-about-flying-saucers-on-july/895125292653932/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Montana Historical SocietyNine Flying Discs Encountered by B -17-Utah, July 16, 1947 B-17 encounters UFO “The ABC Program relative to UFO...</p></details>
    Published: July 16, 1947  
 
 14. <a id="endnote-14"></a>
    Source: eisenhowerlibrary.gov  
    Title: Letters O, P, Q [letter from PFC Fred Palmer, member of the Co.Read more  
-   Link: [https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/world-warii-participants-and-contemporaries.pdf](https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/world-warii-participants-and-contemporaries.pdf)  
+   Link: <a href="https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/world-warii-participants-and-contemporaries.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eisenhowerlibrary.gov/sites/default/files/finding-aids/pdf/world-warii-participants-and-contemporaries.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World War II Participants and Contemporaries: PapersLetters [Personal letter to Ira and family 1947; business letter to phone company, 1944]...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 1  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>65_hs1-834228961_62-hq-83894_section_1.pdfOn the evening of July 9, 1947, a report was received at the Los. Angeles Office that a so-call...</p></details>
    Published: July 9, 1947  
 
 16. <a id="endnote-16"></a>
    Source: theatlantic.com  
    Title: the man who introduced the world to flying saucers  
-   Link: [https://www.theatlantic.com/technology/archive/2014/06/the-man-who-introduced-the-world-to-flying-saucers/372732/](https://www.theatlantic.com/technology/archive/2014/06/the-man-who-introduced-the-world-to-flying-saucers/372732/)  
+   Link: <a href="https://www.theatlantic.com/technology/archive/2014/06/the-man-who-introduced-the-world-to-flying-saucers/372732/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/technology/archive/2014/06/the-man-who-introduced-the-world-to-flying-saucers/372732/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The AtlanticThe Man Who Introduced the World to Flying Saucers15 Jun 2014 — As Ted Bloecher writes in his Report on the UFO Wave of 1947...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/pressdemocrat/posts/sightings-and-investigations-date-back-to-the-first-widely-reported-one-in-1947r/1361189536044540/](https://www.facebook.com/pressdemocrat/posts/sightings-and-investigations-date-back-to-the-first-widely-reported-one-in-1947r/1361189536044540/)  
+   Link: <a href="https://www.facebook.com/pressdemocrat/posts/sightings-and-investigations-date-back-to-the-first-widely-reported-one-in-1947r/1361189536044540/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pressdemocrat/posts/sightings-and-investigations-date-back-to-the-first-widely-reported-one-in-1947r/1361189536044540/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he saw a group of 6-7 fast- moving objects [heading SE?], extremely...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
    Title: report on the ufo wave of 1947 1967 by ted  
-   Link: [https://www.reddit.com/r/UFOs/comments/c9w9vk/report_on_the_ufo_wave_of_1947_1967_by_ted/](https://www.reddit.com/r/UFOs/comments/c9w9vk/report_on_the_ufo_wave_of_1947_1967_by_ted/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/c9w9vk/report_on_the_ufo_wave_of_1947_1967_by_ted/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/c9w9vk/report_on_the_ufo_wave_of_1947_1967_by_ted/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>REPORT ON THE UFO WAVE OF 1947 (1967) by Ted...It seems that it isn&#x27;t. Do you have any proof / detail on the year this was ACTUALLY publ...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Southsoundtalk/posts/the-incident-involved-a-reported-sighting-of-flying-saucers-zooming-in-the-skies/2844202488933291/](https://www.facebook.com/Southsoundtalk/posts/the-incident-involved-a-reported-sighting-of-flying-saucers-zooming-in-the-skies/2844202488933291/)  
+   Link: <a href="https://www.facebook.com/Southsoundtalk/posts/the-incident-involved-a-reported-sighting-of-flying-saucers-zooming-in-the-skies/2844202488933291/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Southsoundtalk/posts/the-incident-involved-a-reported-sighting-of-flying-saucers-zooming-in-the-skies/2844202488933291/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n sightings began in 1947 after a Maury Island, WA, UFO sighting...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: goodreads.com  
    Title: 54902448 report on the ufo wave of 1947  
-   Link: [https://www.goodreads.com/book/show/54902448-report-on-the-ufo-wave-of-1947](https://www.goodreads.com/book/show/54902448-report-on-the-ufo-wave-of-1947)  
+   Link: <a href="https://www.goodreads.com/book/show/54902448-report-on-the-ufo-wave-of-1947" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/54902448-report-on-the-ufo-wave-of-1947</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report On the UFO Wave of 1947 by Ted BloecherThe Report On the UFO Wave of 1947 discusses the first contemporary wave of UFO sightings i...</p></details>

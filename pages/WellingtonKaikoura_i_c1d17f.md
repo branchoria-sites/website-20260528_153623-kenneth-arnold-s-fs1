@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Ummo Photos
   permalink: /were-the-1967-ummo-photographs-real-or-a/
   short_title: Ummo Photos
-date: '2026-06-08 23:28:48 '
+date: '2026-06-11 13:17:30 '
 header:
   og_image: /assets/images/WellingtonKaikoura_i_c1d17f-overview-social.jpg
   preview_image: /assets/images/WellingtonKaikoura_i_c1d17f-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/WellingtonKaikoura_i_c1d17f-overview-social.jpg
 ## Introduction
 
 The case is not “proved alien contact”. It is better understood as a difficult radar-visual incident in which several observations were probably mixed together: bright celestial objects, unusual atmospheric refraction, ship and squid-fleet lights, possible radar anomalies, and some still-contested witness impressions. The official New Zealand Air Force conclusion favoured natural but unusual atmospheric and observational causes, while UFO investigators such as Bruce Maccabee argued that at least parts of the event resisted conventional explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
-
 
 <img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f-overview.webp" | relative_url }}" alt="Overview image for Wellington Kaikoura incident 1978" loading="eager" decoding="sync" fetchpriority="high">
 ## Why this case still stands out
@@ -779,7 +778,6 @@ The most famous flight began late on 30 December 1978. According to the event li
 At about 12:12 am, the aircraft contacted Wellington radar and asked whether there were targets in the direction of the Kaikoura peninsula. Wellington replied that targets had been appearing and disappearing at about the aircraft’s one o’clock position and around 13 miles away. The file also says the controller had noticed unusual targets east of the Clarence River and Kaikoura Coast for as long as half an hour before the aircraft reported anything. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
 
 The event sequence then becomes messier. Wellington radar reported intermittent targets ahead, to the side, and behind the aircraft. Some had no visual confirmation; others coincided loosely with lights seen by the crew. At about 12:22 am, Fogarty recorded that those aboard had seen “probably 6 or 7 or even more bright lights over Kaikoura”, and that some had been picked up by Wellington radar. At about 12:24 am, Wellington reported a target at 12 o’clock and 3 miles; the aircraft replied that it had picked it up and that it had a flashing light. Crockett obtained short film sequences showing bright oval blue-white images and several lights in a row flashing on and off. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
-
 
 <img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f-Illustration-1-dark.svg" | relative_url }}" alt="Wellington Kaikoura incident 1978 illustration 1" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the witnesses add — and what they cannot prove
@@ -801,7 +799,6 @@ Maccabee’s analysis, reproduced in the declassified file, estimated high brigh
 Government-linked technical analysis pushed in a different direction. A DSIR-linked image analysis in the files concluded that the brightness of selected TV1 film frames was consistent with Venus, that the images were severely out of focus, and that deblurring produced images of a size consistent with Venus. The same section noted that the original film image was strongly out of focus, a crucial point because an out-of-focus bright point can appear as a large luminous disc. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Declassified New Zealand UFO documents</span></span></span>
 
 The film therefore cuts both ways. It prevents the case from being dismissed as a memory-only story, but it also introduces camera artefacts, focus problems, reflections, window effects, and focal-length assumptions. The stronger the claim made from the film — for example, estimating the object’s size — the more it depends on contested assumptions about distance, focus, and whether the camera was recording an aerial object at all.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xq_IL4_UMIw" title="Was This a UFO Sighting in 14th Century Ireland? Exploring Otherworlds..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xq_IL4_UMIw" target="_blank" rel="noopener noreferrer">Was This a UFO Sighting in 14th Century Ireland? Exploring Otherworlds...</a></p><p class="youtube-embed-meta">Channel: Bealtaine Cottage &middot; Views: 7.0K &middot; Uploaded: March 2019 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xq_IL4_UMIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xq_IL4_UMIw">Open on YouTube</a></p></div></div></div>
 
@@ -825,7 +822,6 @@ The squid-fleet explanation addressed both light and radar possibilities. The re
 
 This official explanation is plausible in broad terms, especially for bright lights near the horizon or sea surface. Its weakness is that it can become a basket explanation: Venus for some moments, squid boats for others, cars or trains for others, and anomalous radar for the rest. That may be realistic in a complex night-time incident, but it also leaves room for critics to say the explanation is assembled after the fact rather than tied cleanly to every observation.
 
-
 <img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f-Illustration-2-dark.svg" | relative_url }}" alt="Wellington Kaikoura incident 1978 illustration 2" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The sceptical case after the official report
 
@@ -845,7 +841,6 @@ The limits are equally important. Physical estimates from film depend heavily on
 
 The pro-UFO case therefore establishes that the incident deserved investigation; it does not establish an extraterrestrial craft. The best unresolved question is narrower: whether every major observation from the 30–31 December flight can be cleanly assigned to known sources, or whether a residual unknown remains after the likely misidentifications are removed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j9iyUHmHaEo" title="Caught on Camera and Radar | Kaikoura UFO Lights Incident, New Zealand | Short Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j9iyUHmHaEo" target="_blank" rel="noopener noreferrer">Caught on Camera and Radar | Kaikoura UFO Lights Incident, New Zealand | Short Documentary</a></p><p class="youtube-embed-meta">Channel: Curiosity Vault &middot; Views: 552.0K &middot; Uploaded: March 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j9iyUHmHaEo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j9iyUHmHaEo">Open on YouTube</a></p></div></div></div>
 
 ## How the declassified files changed the public picture
@@ -856,7 +851,6 @@ That point is often missed. The existence of a military file is not the same as 
 
 The 2010 release also showed how the case sits between two public habits: believers often emphasise “radar, pilots, and film”, while debunkers often emphasise “Venus and squid boats”. The files support parts of both framings. They show genuine official concern and detailed investigation, but they also show repeated attempts to match observations to ordinary sources.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ez_YkKnPBpY" title="The Kaikoura UFOs - 1978" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ez_YkKnPBpY" target="_blank" rel="noopener noreferrer">The Kaikoura UFOs - 1978</a></p><p class="youtube-embed-meta">Channel: Marlborough Video Vault &middot; Views: 78.9K &middot; Uploaded: May 2020 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ez_YkKnPBpY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ez_YkKnPBpY">Open on YouTube</a></p></div></div></div>
 
 ## What is most likely today?
@@ -864,7 +858,6 @@ The 2010 release also showed how the case sits between two public habits: believ
 A fair reading is that the Wellington/Kaikoura incident was probably not one single event. It was a cluster of sightings and instrument readings occurring during a period of heightened attention, with several possible sources being interpreted together.
 
 The most likely explanation is mixed:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -878,7 +871,6 @@ The most likely explanation is mixed:
 
 That conclusion is less dramatic than “alien spacecraft” and less tidy than “fully solved”. It fits the documents better. The case’s importance lies in showing how a UFO incident can be genuinely interesting, sincerely reported, and richly documented while still falling short of extraordinary proof.
 
-
 <img src="{{ "/assets/images/WellingtonKaikoura_i_c1d17f-Illustration-3-dark.svg" | relative_url }}" alt="Wellington Kaikoura incident 1978 illustration 3" data-theme-src-dark="{{ "/assets/images/WellingtonKaikoura_i_c1d17f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/WellingtonKaikoura_i_c1d17f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case still matters in UFO history
 
@@ -887,44 +879,86 @@ The Kaikoura case remains useful because it is a high-quality cautionary example
 For a wider UFO dossier, the case belongs beside other radar-visual incidents where the key question is not whether witnesses saw something, but whether the available evidence fixes what they saw. In the Wellington/Kaikoura incident, the answer remains partly unresolved, but the balance of evidence favours a complex mix of conventional sources, optical effects, and radar anomalies over a single extraordinary craft.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened Over Kaikoura?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened Over Kaikoura?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the 1978 Kaikōura lights, detailing Captain William Startup&#x27;s flight records, the tape-recorded cockpit comments, and the 16mm t...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides essential documentation context on the declassified New Zealand Defence Force files and their formal Royal New Zealand Air Force...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Details why overlapping commercial film tracks and pilot descriptions require rigorous technical cross-examination to establish provenance.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Addresses why high-profile data packages promoted by civilian researchers like Bruce Maccabee face severe criticism from formal astronomers.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -961,15 +995,15 @@ For a wider UFO dossier, the case belongs beside other radar-visual incidents wh
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired"><img src="https://i.ebayimg.com/images/g/PhwAAOSwMplk~jrt/s-l225.jpg" alt="Listing image for UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO prints Signed by Artist Frank Forte X-Files Ancient Aliens Roswell inspired</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -977,15 +1011,15 @@ For a wider UFO dossier, the case belongs beside other radar-visual incidents wh
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe"><img src="https://i.ebayimg.com/images/g/p1gAAOSwlndnXwAd/s-l225.jpg" alt="Listing image for Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro NEW MEXICO UFO Travel Poster, ROSWELL Desert Alien Poster, Sci-Fi Santa Fe</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -993,15 +1027,15 @@ For a wider UFO dossier, the case belongs beside other radar-visual incidents wh
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/1GEAAeSw3KdpYAOG/s-l225.jpg" alt="Listing image for Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Souvenir UFO Ali Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -1009,15 +1043,15 @@ For a wider UFO dossier, the case belongs beside other radar-visual incidents wh
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art"><img src="https://i.ebayimg.com/images/g/wt4AAOSw2p9nr1Fc/s-l225.jpg" alt="Listing image for Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO NEW MEXICO Poster, UAP Roswell Alien Decor, Sci-fi Wester Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -1025,7 +1059,7 @@ For a wider UFO dossier, the case belongs beside other radar-visual incidents wh
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="wellington-kaikoura-incident-1978-what-really-happened-over-kaikoura-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-kaikoura-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-kaikoura-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1241,79 +1275,79 @@ For a wider UFO dossier, the case belongs beside other radar-visual incidents wh
 1. <a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Declassified New Zealand UFO documents"  
-   Link: [https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt](https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt)  
+   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-1080-6-897-Volume-1-1978-1981_djvu.txt</a>  
 
 2. <a id="endnote-2"></a>
    Source: digitalnz.org  
    Title: Digital NZ  
-   Link: [https://digitalnz.org/stories/5b03db151257577580bb9571](https://digitalnz.org/stories/5b03db151257577580bb9571)  
+   Link: <a href="https://digitalnz.org/stories/5b03db151257577580bb9571" target="_blank" rel="noopener noreferrer nofollow">https://digitalnz.org/stories/5b03db151257577580bb9571</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over NZ by Zokoroa - DigitalNZ...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Kaikōura lights  
-   Link: [https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights](https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights)  
+   Link: <a href="https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kaik%C5%8Dura_lights</a>  
 
 4. <a id="endnote-4"></a>
    Source: skeptics.nz  
-   Link: [https://skeptics.nz/wp-content/uploads/NZSkeptic-57.pdf](https://skeptics.nz/wp-content/uploads/NZSkeptic-57.pdf)  
+   Link: <a href="https://skeptics.nz/wp-content/uploads/NZSkeptic-57.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skeptics.nz/wp-content/uploads/NZSkeptic-57.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/NewZealandUFO/AIR-1630-2-Volume-2-1990-2009_djvu.txt](https://archive.org/stream/NewZealandUFO/AIR-1630-2-Volume-2-1990-2009_djvu.txt)  
+   Link: <a href="https://archive.org/stream/NewZealandUFO/AIR-1630-2-Volume-2-1990-2009_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/NewZealandUFO/AIR-1630-2-Volume-2-1990-2009_djvu.txt</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
 
 7. <a id="endnote-7"></a>
    Source: abc.net.au  
    Title: ABC News NZ military releases UFO files  
-   Link: [https://www.abc.net.au/news/2010-12-23/nz-military-releases-ufo-files/2383152](https://www.abc.net.au/news/2010-12-23/nz-military-releases-ufo-files/2383152)  
+   Link: <a href="https://www.abc.net.au/news/2010-12-23/nz-military-releases-ufo-files/2383152" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2010-12-23/nz-military-releases-ufo-files/2383152</a>  
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/20212696/](https://pubmed.ncbi.nlm.nih.gov/20212696/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/20212696/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20212696/</a>  
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography](https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography)  
+   Link: <a href="https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography</a>  
 
 10. <a id="endnote-10"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NetflixFansDiaries/posts/a-giant-ufo-seen-by-400-students-and-teachers-in-new-zealand/496547632517013/](https://www.facebook.com/NetflixFansDiaries/posts/a-giant-ufo-seen-by-400-students-and-teachers-in-new-zealand/496547632517013/)  
+   Link: <a href="https://www.facebook.com/NetflixFansDiaries/posts/a-giant-ufo-seen-by-400-students-and-teachers-in-new-zealand/496547632517013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NetflixFansDiaries/posts/a-giant-ufo-seen-by-400-students-and-teachers-in-new-zealand/496547632517013/</a>  
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/PFNewZealand/posts/a-mysterious-blinking-light-passing-over-kaitorete-spit-doesnt-belong-to-a-ufo-b/1362922292534464/](https://www.facebook.com/PFNewZealand/posts/a-mysterious-blinking-light-passing-over-kaitorete-spit-doesnt-belong-to-a-ufo-b/1362922292534464/)  
+   Link: <a href="https://www.facebook.com/PFNewZealand/posts/a-mysterious-blinking-light-passing-over-kaitorete-spit-doesnt-belong-to-a-ufo-b/1362922292534464/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PFNewZealand/posts/a-mysterious-blinking-light-passing-over-kaitorete-spit-doesnt-belong-to-a-ufo-b/1362922292534464/</a>  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AirForceMuseumofNewZealand/posts/while-were-on-the-subject-of-ufosaccording-to-information-that-our-research-offi/10153802736066279/](https://www.facebook.com/AirForceMuseumofNewZealand/posts/while-were-on-the-subject-of-ufosaccording-to-information-that-our-research-offi/10153802736066279/)  
+   Link: <a href="https://www.facebook.com/AirForceMuseumofNewZealand/posts/while-were-on-the-subject-of-ufosaccording-to-information-that-our-research-offi/10153802736066279/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirForceMuseumofNewZealand/posts/while-were-on-the-subject-of-ufosaccording-to-information-that-our-research-offi/10153802736066279/</a>  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/rnznewzealand/posts/declassified-government-documents-show-officials-were-struggling-to-debunk-tv1-f/10158728324658731/](https://www.facebook.com/rnznewzealand/posts/declassified-government-documents-show-officials-were-struggling-to-debunk-tv1-f/10158728324658731/)  
+   Link: <a href="https://www.facebook.com/rnznewzealand/posts/declassified-government-documents-show-officials-were-struggling-to-debunk-tv1-f/10158728324658731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rnznewzealand/posts/declassified-government-documents-show-officials-were-struggling-to-debunk-tv1-f/10158728324658731/</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/RoswellUFOmuseum/posts/ever-heard-of-the-kaikoura-lights-the-new-zealand-ufo-sightings-of-december-31-1/2736766463029377/](https://www.facebook.com/RoswellUFOmuseum/posts/ever-heard-of-the-kaikoura-lights-the-new-zealand-ufo-sightings-of-december-31-1/2736766463029377/)  
+   Link: <a href="https://www.facebook.com/RoswellUFOmuseum/posts/ever-heard-of-the-kaikoura-lights-the-new-zealand-ufo-sightings-of-december-31-1/2736766463029377/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RoswellUFOmuseum/posts/ever-heard-of-the-kaikoura-lights-the-new-zealand-ufo-sightings-of-december-31-1/2736766463029377/</a>  
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions](https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions)  
+   Link: <a href="https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377871814_Exploring_Unidentified_Aerospace_Phenomena_through_Instrumented_Field_Studies_Historical_Insights_Current_Challenges_and_Future_Directions</a>  
 
 16. <a id="endnote-16"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0](https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0)  
+   Link: <a href="https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/f53c2a78-5a8c-4bc2-8362-ed289a89e2a0</a>  
 
 17. <a id="endnote-17"></a>
    Source: wsj.com  
-   Link: [https://www.wsj.com/video/new-zealand-releases-ufo-files/83A11581-5F93-4AD2-A2DD-E4F3E9D2E563](https://www.wsj.com/video/new-zealand-releases-ufo-files/83A11581-5F93-4AD2-A2DD-E4F3E9D2E563)  
+   Link: <a href="https://www.wsj.com/video/new-zealand-releases-ufo-files/83A11581-5F93-4AD2-A2DD-E4F3E9D2E563" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/video/new-zealand-releases-ufo-files/83A11581-5F93-4AD2-A2DD-E4F3E9D2E563</a>  
 
 18. <a id="endnote-18"></a>
    Source: sbs.com.au  
-   Link: [https://www.sbs.com.au/news/article/new-zealand-military-releases-ufo-files/hknryeche](https://www.sbs.com.au/news/article/new-zealand-military-releases-ufo-files/hknryeche)  
+   Link: <a href="https://www.sbs.com.au/news/article/new-zealand-military-releases-ufo-files/hknryeche" target="_blank" rel="noopener noreferrer nofollow">https://www.sbs.com.au/news/article/new-zealand-military-releases-ufo-files/hknryeche</a>

@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Gorman Dogfight
   permalink: /gorman-dogfight-near-fargo-1948/
   short_title: Gorman Dogfight
-date: '2026-06-08 23:35:37 '
+date: '2026-06-11 13:21:01 '
 header:
   og_image: /assets/images/Gordon_Cooper_sighti_93b9f6-overview-social.jpg
   preview_image: /assets/images/Gordon_Cooper_sighti_93b9f6-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Gordon_Cooper_sighti_93b9f6-overview-social.jpg
 ## Introduction
 
 The case matters because Cooper really did later speak publicly about UFOs, and he did have earlier, better-known UFO-related claims from his Air Force years. The 1963 Mercury story has therefore become a knot of overlapping memories, later interviews, internet retellings, and genuine spaceflight documents. Untangling it requires separating three things: Cooper’s documented Faith 7 flight, his later UFO advocacy, and earlier incidents often folded into the 1963 legend.
-
 
 <img src="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-overview.webp" | relative_url }}" alt="Overview image for Gordon Cooper sightings 1963" loading="eager" decoding="sync" fetchpriority="high">
 ## What actually happened during Faith 7
@@ -772,7 +771,6 @@ The primary source for any alleged in-flight sighting is the MA-9 communications
 
 That matters because the transcript does not show Cooper reporting a saucer, structured craft, intelligently controlled object, or UFO. Searches within the transcript for terms such as “UFO”, “object”, “unidentified” and “bogey” return no matching text. The relevant strange-looking observation in the first orbit is his remark that he was seeing “John’s fireflies” drifting away from the spacecraft, with some appearing “white, very whitish, almost a green”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2025/07/cooperlg-5-21-98.pdf?emrc=b20bd9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">INTERVIEW TRANSCRIPT</span><span class="citation-popover-snippet">INTERVIEW TRANSCRIPT</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/history/coopers-faith-7-mission-closes-out-project-mercury/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">coopers faith 7 mission closes out project mercury</span><span class="citation-popover-snippet">coopers faith 7 mission closes out project mercury</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/category/missions/project-mercury/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">project mercury</span><span class="citation-popover-snippet">project mercury</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2023/02/mercury-program-subject-files-collection-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">mercury program subject files collection 1</span><span class="citation-popover-snippet">mercury program subject files collection 1</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2026/01/ma09-tec.pdf?emrc=786b5f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">FO R MERCURY-ATLASNO. 9 (MA-O)PART I</span><span class="citation-popover-snippet">FO R MERCURY-ATLASNO. 9 (MA-O)PART I</span></span></span>
 
-
 <img src="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-1-dark.svg" | relative_url }}" alt="Gordon Cooper sightings 1963 illustration 1" data-theme-src-dark="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The “fireflies” were not a new UFO report
 
@@ -782,17 +780,15 @@ That behaviour points away from a distant vehicle and towards local spacecraft-a
 
 This does not make the observation uninteresting. Early human spaceflight was full of unfamiliar visual effects: ice crystals, vented material, illuminated debris, optical reflections, and particles behaving oddly in sunlight and microgravity. But the 1963 evidence supports a modest reading: Cooper saw and described luminous or whitish particles around Faith 7, not a documented UFO encounter.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KkpZ61b1qLQ" title="Does This NASA Official Know What Astronaut Gordon Cooper Was Really Up To?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KkpZ61b1qLQ" target="_blank" rel="noopener noreferrer">Does This NASA Official Know What Astronaut Gordon Cooper Was Really Up To?</a></p><p class="youtube-embed-meta">Channel: Discovery &middot; Views: 58.9K &middot; Uploaded: May 2017 &middot; Length: 2 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KkpZ61b1qLQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KkpZ61b1qLQ">Open on YouTube</a></p></div></div></div>
 
 ## Why the 1963 story became attached to Cooper
 
-The confusion persists because Cooper later became one of the most prominent astronaut-associated voices on UFOs. Obituaries and retrospective accounts consistently note that he developed a public interest in the subject, testified at a 1978 United Nations-related hearing, and argued for years that governments were withholding information. The Independent’s obituary is explicit on a key distinction: it says Cooper denied rumours that he or other astronauts had observed UFOs in space, while also saying he claimed to have seen and chased metallic, saucer-shaped objects during Air Force service in Europe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/news/obituaries/col-gordon-cooper-533604.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">The Independent Col Gordon Cooper | The Independent | The Independent</span><span class="citation-popover-snippet">The Independent Col Gordon Cooper | The Independent | The Independent</span></span></span>
+The confusion persists because Cooper later became one of the most prominent astronaut-associated voices on UFOs. Obituaries and retrospective accounts consistently note that he developed a public interest in the subject, testified at a 1978 United Nations-related hearing, and argued for years that governments were withholding information. The Independent’s obituary is explicit on a key distinction: it says Cooper denied rumours that he or other astronauts had observed UFOs in space, while also saying he claimed to have seen and chased metallic, saucer-shaped objects during Air Force service in Europe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/news/obituaries/col-gordon-cooper-533604.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">The Independent Col Gordon Cooper &#124; The Independent &#124; The Independent</span><span class="citation-popover-snippet">The Independent Col Gordon Cooper &#124; The Independent &#124; The Independent</span></span></span>
 
 Cooper’s later public image therefore created fertile ground for a misleading shortcut: “Cooper believed in UFOs” became “Cooper saw a UFO in space”, and then, more specifically, “Cooper saw a UFO during Mercury 9 in 1963”. That last version is the one the primary mission record fails to support.
 
 A second source of confusion is the 1957 Edwards Air Force Base story. In Cooper’s later accounts, while stationed at Edwards, a camera crew allegedly filmed a saucer-like object landing on a dry lake bed; Cooper said he viewed the film before it was sent up official channels and never saw it again. That claim is often cited in UFO literature, but it was not a 1963 spaceflight event. It belongs to a separate earlier branch of the Cooper dossier and should not be merged with Faith 7 unless clearly labelled as background.
-
 
 <img src="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-2-dark.svg" | relative_url }}" alt="Gordon Cooper sightings 1963 illustration 2" data-theme-src-dark="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official investigations can and cannot settle
@@ -802,7 +798,6 @@ Project Blue Book is relevant to the Cooper story, but mostly as context rather 
 Those records do not, by themselves, establish that Cooper made a UFO report from Faith 7. The strongest available primary record for the flight is the NASA communications transcript, and it does not contain such a report. The absence is not absolute proof that Cooper never privately interpreted something as unusual, but it is strong evidence against the popular version in which a clear UFO sighting occurred during the mission and was recorded or suppressed in the normal flight communications.
 
 The Air Force’s general Blue Book conclusion also has to be handled carefully. Saying that Blue Book left 701 cases unidentified does not mean any one famous claim is validated; it means those cases were not resolved within the project’s framework. Likewise, Blue Book’s closure and sceptical conclusions do not prove that every witness was mistaken. For the 1963 Cooper story, the decisive issue is narrower: the flight documents show fireflies and routine observations, not a formal orbital UFO report.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UESsdUGTPDY" title="The UFO Landing at Holloman Air Force Base // 3D CGI Animation Movie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UESsdUGTPDY" target="_blank" rel="noopener noreferrer">The UFO Landing at Holloman Air Force Base // 3D CGI Animation Movie</a></p><p class="youtube-embed-meta">Channel: Mac Mave Studios &middot; Views: 2.1M &middot; Uploaded: December 2023 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UESsdUGTPDY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UESsdUGTPDY">Open on YouTube</a></p></div></div></div>
 
@@ -814,7 +809,6 @@ The difficulty is that many of the strongest UFO-related Cooper stories rest on 
 
 That does not justify dismissing Cooper as a person or astronaut. It does justify separating his mission-era records from later UFO narratives. The higher the claim — a suppressed astronaut UFO sighting in orbit — the more important it becomes to ask whether there is a dated transcript entry, mission report, photograph, radar record, or independent corroborating witness. For the 1963 Mercury claim, that evidential chain is missing.
 
-
 <img src="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-3-dark.svg" | relative_url }}" alt="Gordon Cooper sightings 1963 illustration 3" data-theme-src-dark="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gordon_Cooper_sighti_93b9f6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Best-supported reading of the 1963 sightings
 
@@ -824,49 +818,89 @@ The case remains interesting because it shows how UFO lore can accrete around a 
 
 A careful case dossier should therefore treat the 1963 branch as a correction-and-clarification page rather than as a classic unexplained encounter. Its central finding is not “astronaut sees UFO”, but “astronaut later associated with UFO testimony is repeatedly misattributed a 1963 orbital sighting that the mission transcript does not support.”
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dvPR8T1o3Dc" title="Astronaut Gordon Cooper Talks About UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dvPR8T1o3Dc" target="_blank" rel="noopener noreferrer">Astronaut Gordon Cooper Talks About UFOs</a></p><p class="youtube-embed-meta">Channel: Elhardt &middot; Views: 947.2K &middot; Uploaded: December 2007 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dvPR8T1o3Dc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dvPR8T1o3Dc">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Did Cooper Really See a UFO in Orbit?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Did Cooper Really See a UFO in Orbit?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides an objective case-file summary of the Faith 7 mission, distinguishing documented transmissions from later retrospective claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Teaches critical tools to separate authentic mission logs from decades of media-driven UFO folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Man on the Moon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PNw6AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Man on the Moon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Man on the Moon">A Man on the Moon</a>
+        </h4>
+        <p class="fr-book-author">By Andrew Chaikin, Time-Life Books</p>
+        
+        <p class="fr-book-desc">Documents the rigorous technical debriefings of NASA astronauts, offering context on why specific anomalous reports are verified or dismi...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+        </h4>
+        <p class="fr-book-author">By Philip C. Plait</p>
+        
+        <p class="fr-book-desc">Provides direct scientific context on why orbital light flashes and venting particles are frequently misinterpreted.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Man+on+the+Moon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Man on the Moon</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -877,238 +911,238 @@ A careful case dossier should therefore treat the 1963 branch as a correction-an
 1. <a id="endnote-1"></a>
    Source: nasa.gov  
    Title: Mercury-Atlas 9: Faith 7  
-   Link: [https://www.nasa.gov/mission/mercury-atlas-9-faith-7/](https://www.nasa.gov/mission/mercury-atlas-9-faith-7/)  
+   Link: <a href="https://www.nasa.gov/mission/mercury-atlas-9-faith-7/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/mission/mercury-atlas-9-faith-7/</a>  
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: ma09 te2  
-   Link: [https://www.nasa.gov/wp-content/uploads/2026/01/ma09-te2.pdf?emrc=6a5322](https://www.nasa.gov/wp-content/uploads/2026/01/ma09-te2.pdf?emrc=6a5322)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2026/01/ma09-te2.pdf?emrc=6a5322" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2026/01/ma09-te2.pdf?emrc=6a5322</a>  
 
 3. <a id="endnote-3"></a>
    Source: nasa.gov  
    Title: former astronaut l gordon cooper  
-   Link: [https://www.nasa.gov/former-astronaut-l-gordon-cooper/](https://www.nasa.gov/former-astronaut-l-gordon-cooper/)  
+   Link: <a href="https://www.nasa.gov/former-astronaut-l-gordon-cooper/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/former-astronaut-l-gordon-cooper/</a>  
 
 4. <a id="endnote-4"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 5. <a id="endnote-5"></a>
    Source: nasa.gov  
    Title: INTERVIEW TRANSCRIPT  
-   Link: [https://www.nasa.gov/wp-content/uploads/2025/07/cooperlg-5-21-98.pdf?emrc=b20bd9](https://www.nasa.gov/wp-content/uploads/2025/07/cooperlg-5-21-98.pdf?emrc=b20bd9)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2025/07/cooperlg-5-21-98.pdf?emrc=b20bd9" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/07/cooperlg-5-21-98.pdf?emrc=b20bd9</a>  
 
 6. <a id="endnote-6"></a>
    Source: collectspace.com  
    Title: collect SPACE.comcollect SPAC E  
-   Link: [https://www.collectspace.com/news/news-071700a.html](https://www.collectspace.com/news/news-071700a.html)  
+   Link: <a href="https://www.collectspace.com/news/news-071700a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.collectspace.com/news/news-071700a.html</a>  
 
 7. <a id="endnote-7"></a>
    Source: thespacereview.com  
    Title: The Space Review: Loss of faith: Gordon Cooper’s post-NASA stories  
-   Link: [https://www.thespacereview.com/article/3228/1](https://www.thespacereview.com/article/3228/1)  
+   Link: <a href="https://www.thespacereview.com/article/3228/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/3228/1</a>  
 
 8. <a id="endnote-8"></a>
    Source: nasa.gov  
    Title: coopers faith 7 mission closes out project mercury  
-   Link: [https://www.nasa.gov/history/coopers-faith-7-mission-closes-out-project-mercury/](https://www.nasa.gov/history/coopers-faith-7-mission-closes-out-project-mercury/)  
+   Link: <a href="https://www.nasa.gov/history/coopers-faith-7-mission-closes-out-project-mercury/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/coopers-faith-7-mission-closes-out-project-mercury/</a>  
 
 9. <a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: project mercury  
-   Link: [https://science.nasa.gov/category/missions/project-mercury/](https://science.nasa.gov/category/missions/project-mercury/)  
+   Link: <a href="https://science.nasa.gov/category/missions/project-mercury/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/category/missions/project-mercury/</a>  
 
 10. <a id="endnote-10"></a>
    Source: nasa.gov  
    Title: mercury program subject files collection 1  
-   Link: [https://www.nasa.gov/wp-content/uploads/2023/02/mercury-program-subject-files-collection-1.pdf](https://www.nasa.gov/wp-content/uploads/2023/02/mercury-program-subject-files-collection-1.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/02/mercury-program-subject-files-collection-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/02/mercury-program-subject-files-collection-1.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
    Title: FO R MERCURY-ATLASNO. 9 (MA-O)PART I  
-   Link: [https://www.nasa.gov/wp-content/uploads/2026/01/ma09-tec.pdf?emrc=786b5f](https://www.nasa.gov/wp-content/uploads/2026/01/ma09-tec.pdf?emrc=786b5f)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2026/01/ma09-tec.pdf?emrc=786b5f" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2026/01/ma09-tec.pdf?emrc=786b5f</a>  
 
 12. <a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/category/missions/gemini/](https://science.nasa.gov/category/missions/gemini/)  
+   Link: <a href="https://science.nasa.gov/category/missions/gemini/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/category/missions/gemini/</a>  
 
 13. <a id="endnote-13"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2023/03/sp-4407-etuv7.pdf](https://www.nasa.gov/wp-content/uploads/2023/03/sp-4407-etuv7.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/03/sp-4407-etuv7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/03/sp-4407-etuv7.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2025/08/schirrawm-12-1-98.pdf?emrc=2ca3e1](https://www.nasa.gov/wp-content/uploads/2025/08/schirrawm-12-1-98.pdf?emrc=2ca3e1)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2025/08/schirrawm-12-1-98.pdf?emrc=2ca3e1" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/08/schirrawm-12-1-98.pdf?emrc=2ca3e1</a>  
 
 15. <a id="endnote-15"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/static/history/rg_finding_aids/rg_9_authors_march2020.xlsx](https://www.nasa.gov/wp-content/uploads/static/history/rg_finding_aids/rg_9_authors_march2020.xlsx)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/static/history/rg_finding_aids/rg_9_authors_march2020.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/static/history/rg_finding_aids/rg_9_authors_march2020.xlsx</a>  
 
 16. <a id="endnote-16"></a>
    Source: nasa.gov  
    Title: sp 4003  
-   Link: [https://www.nasa.gov/wp-content/uploads/2023/04/sp-4003.pdf](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4003.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2023/04/sp-4003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2023/04/sp-4003.pdf</a>  
 
 17. <a id="endnote-17"></a>
    Source: nasa.gov  
    Title: Leroy Gordon Cooper, Jr.Born  
-   Link: [https://www.nasa.gov/people/leroy-gordon-cooper-jr/](https://www.nasa.gov/people/leroy-gordon-cooper-jr/)  
+   Link: <a href="https://www.nasa.gov/people/leroy-gordon-cooper-jr/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/people/leroy-gordon-cooper-jr/</a>  
 
 18. <a id="endnote-18"></a>
    Source: voices.com  
-   Link: [https://www.voices.com/profile/mandygardner/astronaut-gordon-cooper-on-ufos](https://www.voices.com/profile/mandygardner/astronaut-gordon-cooper-on-ufos)  
+   Link: <a href="https://www.voices.com/profile/mandygardner/astronaut-gordon-cooper-on-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.voices.com/profile/mandygardner/astronaut-gordon-cooper-on-ufos</a>  
 
 19. <a id="endnote-19"></a>
    Source: archives.gov  
    Title: uap bulk download  
-   Link: [https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download](https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download)  
+   Link: <a href="https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/catalog/catalog-bulk-downloads/uap-bulk-download</a>  
 
 20. <a id="endnote-20"></a>
    Source: archives.gov  
    Title: do records show proof of ufos  
-   Link: [https://www.archives.gov/news/articles/do-records-show-proof-of-ufos](https://www.archives.gov/news/articles/do-records-show-proof-of-ufos)  
+   Link: <a href="https://www.archives.gov/news/articles/do-records-show-proof-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/do-records-show-proof-of-ufos</a>  
 
 21. <a id="endnote-21"></a>
    Source: space.com  
    Title: 36817 faith 7 gordon cooper mercury atlas 9 mission photos  
-   Link: [https://www.space.com/36817-faith-7-gordon-cooper-mercury-atlas-9-mission-photos.html](https://www.space.com/36817-faith-7-gordon-cooper-mercury-atlas-9-mission-photos.html)  
+   Link: <a href="https://www.space.com/36817-faith-7-gordon-cooper-mercury-atlas-9-mission-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/36817-faith-7-gordon-cooper-mercury-atlas-9-mission-photos.html</a>  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=KkpZ61b1qLQ](https://www.youtube.com/watch?v=KkpZ61b1qLQ)  
+   Link: <a href="https://www.youtube.com/watch?v=KkpZ61b1qLQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KkpZ61b1qLQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MERCURY-ATLAS 9 - Faith 7 - Launch (1963/05/15)...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: MERCURY-ATLAS 9  
-   Link: [https://www.youtube.com/watch?v=ixJBQGyNEiQ](https://www.youtube.com/watch?v=ixJBQGyNEiQ)  
+   Link: <a href="https://www.youtube.com/watch?v=ixJBQGyNEiQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ixJBQGyNEiQ</a>  
 
 24. <a id="endnote-24"></a>
    Source: independent.co.uk  
    Title: The Independent Col Gordon Cooper | The Independent | The Independent  
-   Link: [https://www.independent.co.uk/news/obituaries/col-gordon-cooper-533604.html](https://www.independent.co.uk/news/obituaries/col-gordon-cooper-533604.html)  
+   Link: <a href="https://www.independent.co.uk/news/obituaries/col-gordon-cooper-533604.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/obituaries/col-gordon-cooper-533604.html</a>  
 
 25. <a id="endnote-25"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
 
 26. <a id="endnote-26"></a>
    Source: reddit.com  
    Title: Gordon Cooper  
-   Link: [https://www.reddit.com/r/ufo/comments/el89n4/gordon_cooper_former_nasa_astronaut_made_a_map_of/](https://www.reddit.com/r/ufo/comments/el89n4/gordon_cooper_former_nasa_astronaut_made_a_map_of/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/el89n4/gordon_cooper_former_nasa_astronaut_made_a_map_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/el89n4/gordon_cooper_former_nasa_astronaut_made_a_map_of/</a>  
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: Gordon Cooper  
-   Link: [https://en.wikipedia.org/wiki/Gordon_Cooper](https://en.wikipedia.org/wiki/Gordon_Cooper)  
+   Link: <a href="https://en.wikipedia.org/wiki/Gordon_Cooper" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gordon_Cooper</a>  
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Mercury Atlas 9  
-   Link: [https://en.wikipedia.org/wiki/Mercury-Atlas_9](https://en.wikipedia.org/wiki/Mercury-Atlas_9)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mercury-Atlas_9" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mercury-Atlas_9</a>  
 
 30. <a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Gordon Cooper  
-   Link: [https://fr.wikipedia.org/wiki/Gordon_Cooper](https://fr.wikipedia.org/wiki/Gordon_Cooper)  
+   Link: <a href="https://fr.wikipedia.org/wiki/Gordon_Cooper" target="_blank" rel="noopener noreferrer nofollow">https://fr.wikipedia.org/wiki/Gordon_Cooper</a>  
 
 31. <a id="endnote-31"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 32. <a id="endnote-32"></a>
    Source: britannica.com  
    Title: Gordon Cooper  
-   Link: [https://www.britannica.com/biography/Gordon-Cooper](https://www.britannica.com/biography/Gordon-Cooper)  
+   Link: <a href="https://www.britannica.com/biography/Gordon-Cooper" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Gordon-Cooper</a>  
 
 33. <a id="endnote-33"></a>
    Source: who2.com  
    Title: gordon cooper  
-   Link: [https://www.who2.com/bio/gordon-cooper/](https://www.who2.com/bio/gordon-cooper/)  
+   Link: <a href="https://www.who2.com/bio/gordon-cooper/" target="_blank" rel="noopener noreferrer nofollow">https://www.who2.com/bio/gordon-cooper/</a>  
 
 34. <a id="endnote-34"></a>
    Source: af.mil  
    Title: air force astronaut dies  
-   Link: [https://www.af.mil/News/Article-Display/Article/135878/air-force-astronaut-dies/](https://www.af.mil/News/Article-Display/Article/135878/air-force-astronaut-dies/)  
+   Link: <a href="https://www.af.mil/News/Article-Display/Article/135878/air-force-astronaut-dies/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/News/Article-Display/Article/135878/air-force-astronaut-dies/</a>  
 
 35. <a id="endnote-35"></a>
    Source: astronautix.com  
-   Link: [https://www.astronautix.com/c/cooper.html](https://www.astronautix.com/c/cooper.html)  
+   Link: <a href="https://www.astronautix.com/c/cooper.html" target="_blank" rel="noopener noreferrer nofollow">https://www.astronautix.com/c/cooper.html</a>  
 
 36. <a id="endnote-36"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: briefing guide 12 07 12  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf](https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/briefing-guide-12-07-12.pdf</a>  
 
 37. <a id="endnote-37"></a>
    Source: youtube.com  
    Title: Mercury-Atlas 9  
-   Link: [https://www.youtube.com/watch?v=a25rxF3A344](https://www.youtube.com/watch?v=a25rxF3A344)  
+   Link: <a href="https://www.youtube.com/watch?v=a25rxF3A344" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a25rxF3A344</a>  
 
 38. <a id="endnote-38"></a>
    Source: nasa.fandom.com  
    Title: Gordon Cooper  
-   Link: [https://nasa.fandom.com/wiki/Gordon_Cooper](https://nasa.fandom.com/wiki/Gordon_Cooper)  
+   Link: <a href="https://nasa.fandom.com/wiki/Gordon_Cooper" target="_blank" rel="noopener noreferrer nofollow">https://nasa.fandom.com/wiki/Gordon_Cooper</a>  
 
 39. <a id="endnote-39"></a>
    Source: military-history.fandom.com  
    Title: Gordon Cooper  
-   Link: [https://military-history.fandom.com/wiki/Gordon_Cooper](https://military-history.fandom.com/wiki/Gordon_Cooper)  
+   Link: <a href="https://military-history.fandom.com/wiki/Gordon_Cooper" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Gordon_Cooper</a>  
 
 40. <a id="endnote-40"></a>
    Source: spacefacts.de  
    Title: Mercury 9  
-   Link: [https://www.spacefacts.de/mission/english/mercury-9.htm](https://www.spacefacts.de/mission/english/mercury-9.htm)  
+   Link: <a href="https://www.spacefacts.de/mission/english/mercury-9.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.spacefacts.de/mission/english/mercury-9.htm</a>  
 
 ### Additional References
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=OD02zDv4ucA](https://www.youtube.com/watch?v=OD02zDv4ucA)  
+   Link: <a href="https://www.youtube.com/watch?v=OD02zDv4ucA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OD02zDv4ucA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronaut Gordon Cooper&#x27;s Final Words Exposed What NASA Tried To Hide From The World...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=48RwQQx70Qw](https://www.youtube.com/watch?v=48RwQQx70Qw)  
+   Link: <a href="https://www.youtube.com/watch?v=48RwQQx70Qw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=48RwQQx70Qw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronaut Gordon Cooper Talks About UFOs...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
    Title: Astronaut Gordon Cooper Talks About UFOs  
-   Link: [https://www.youtube.com/watch?v=dvPR8T1o3Dc](https://www.youtube.com/watch?v=dvPR8T1o3Dc)  
+   Link: <a href="https://www.youtube.com/watch?v=dvPR8T1o3Dc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dvPR8T1o3Dc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does This NASA Official Know What Astronaut Gordon Cooper Was Really Up To?...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/ai-gordon-coopers-uap-report-compassuniversity](https://www.linkedin.com/pulse/ai-gordon-coopers-uap-report-compassuniversity)  
+   Link: <a href="https://www.linkedin.com/pulse/ai-gordon-coopers-uap-report-compassuniversity" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-gordon-coopers-uap-report-compassuniversity</a>  
 
 46. <a id="endnote-46"></a>
    Source: discogs.com  
-   Link: [https://www.discogs.com/group/thread/672565?srsltid=AfmBOoqxUO2CRoglXTZgCbOB3vdrhffuPLfKiY_bbxbTkZywDjgONt6M](https://www.discogs.com/group/thread/672565?srsltid=AfmBOoqxUO2CRoglXTZgCbOB3vdrhffuPLfKiY_bbxbTkZywDjgONt6M)  
+   Link: <a href="https://www.discogs.com/group/thread/672565?srsltid=AfmBOoqxUO2CRoglXTZgCbOB3vdrhffuPLfKiY_bbxbTkZywDjgONt6M" target="_blank" rel="noopener noreferrer nofollow">https://www.discogs.com/group/thread/672565?srsltid=AfmBOoqxUO2CRoglXTZgCbOB3vdrhffuPLfKiY_bbxbTkZywDjgONt6M</a>  
 
 47. <a id="endnote-47"></a>
    Source: ufoevidence.org  
-   Link: [https://www.ufoevidence.org/topics/astronauts.htm](https://www.ufoevidence.org/topics/astronauts.htm)  
+   Link: <a href="https://www.ufoevidence.org/topics/astronauts.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/topics/astronauts.htm</a>  
 
 48. <a id="endnote-48"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/interestingasfuck/comments/ubxyw5/before_his_death_former_mercury_astronaut_gordon/](https://www.reddit.com/r/interestingasfuck/comments/ubxyw5/before_his_death_former_mercury_astronaut_gordon/)  
+   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/ubxyw5/before_his_death_former_mercury_astronaut_gordon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/ubxyw5/before_his_death_former_mercury_astronaut_gordon/</a>  
 
 49. <a id="endnote-49"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/wbksf4/former_mercury_astronaut_gordon_cooper_sharing/](https://www.reddit.com/r/UFOs/comments/wbksf4/former_mercury_astronaut_gordon_cooper_sharing/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/wbksf4/former_mercury_astronaut_gordon_cooper_sharing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wbksf4/former_mercury_astronaut_gordon_cooper_sharing/</a>  
 
 50. <a id="endnote-50"></a>
    Source: farthestreaches.com  
-   Link: [https://www.farthestreaches.com/cooper.html](https://www.farthestreaches.com/cooper.html)  
+   Link: <a href="https://www.farthestreaches.com/cooper.html" target="_blank" rel="noopener noreferrer nofollow">https://www.farthestreaches.com/cooper.html</a>

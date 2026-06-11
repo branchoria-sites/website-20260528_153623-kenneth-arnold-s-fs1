@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /battle-of-los-angeles-1942/
 nav_short_title: Photo Myth
 title: Did The Famous Photo Show A Craft?
-title_full: Did The Famous Photo Show A Craft? | Battle of Los Angeles
+title_full: Did The Famous Photo Show A Craft?
 display_title_short: Photo Myth
 display_title: Photo Myth
 heading_title: Did The Famous Photo Show A Craft?
@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline-cbcc2e/
   short_title: Timeline
   heading_title: How One Alert Became a Citywide Barrage
-date: '2026-06-08 23:40:06 '
+date: '2026-06-11 13:23:14 '
 header:
   og_image: /assets/images/Battle_of_Los_Angele_969c9e_searchlight_photo_my_15ea33-Illustration-1-social.jpg
   preview_image: /assets/images/Battle_of_Los_Angele_969c9e_searchlight_photo_my_15ea33-Illustration-1.webp
@@ -248,8 +248,7 @@ image: /assets/images/Battle_of_Los_Angele_969c9e_searchlight_photo_my_15ea33-Il
 
 ## Introduction
 
-The most famous image associated with the 1942 “[Battle of Los Angeles]({{ 'battle-of-los-angeles-1942/' | relative_url }})” is not the anti-aircraft barrage itself, but a newspaper photograph showing multiple searchlights converging on a glowing shape in the night sky. For decades, that image has circulated as supposed proof that the military illuminated an alien craft over Los Angeles while thousands watched from below. Yet the history of the photograph is far more complicated than the mythology built around it.
-
+The most famous image associated with the 1942 “Battle of Los Angeles” is not the anti-aircraft barrage itself, but a newspaper photograph showing multiple searchlights converging on a glowing shape in the night sky. For decades, that image has circulated as supposed proof that the military illuminated an alien craft over Los Angeles while thousands watched from below. Yet the history of the photograph is far more complicated than the mythology built around it.
 
 <img src="{{ "/assets/images/Battle_of_Los_Angele_969c9e_searchlight_photo_my_15ea33-Illustration-1-dark.svg" | relative_url }}" alt="Photo Myth illustration 1" data-theme-src-dark="{{ "/assets/images/Battle_of_Los_Angele_969c9e_searchlight_photo_my_15ea33-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Battle_of_Los_Angele_969c9e_searchlight_photo_my_15ea33-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The image published by the *Los Angeles Times* on 26 February 1942 was heavily retouched for newspaper reproduction, a common newsroom practice at the time. Later generations often encountered only the high-contrast printed version, stripped of its production context and detached from the wartime panic in which it appeared. As the UFO movement grew after 1947, the photograph evolved from a dramatic press image into one of the central visual artefacts of American UFO folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la me fw archives 1942 battle la 20170221 story</span><span class="citation-popover-snippet">Los Angeles...23 Feb 2017 — On Feb. 26, 1942, the Los Angeles Times published a photo page that included a retouched version of the abov...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span>
@@ -264,7 +263,6 @@ The image quickly became the dominant visual shorthand for the entire incident. 
 
 An important shift occurred after the late 1940s, when the modern UFO era began following the Kenneth Arnold sighting and the Roswell incident. Before that period, contemporary discussions centred on possible Japanese aircraft, balloons, or false alarms. The alien interpretation largely emerged retrospectively, after UFO culture had created a new framework for interpreting ambiguous aerial events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/ww2-raid-or-alien-incursion-the-battle-of-los-angeles-examined/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKWW2 Raid or Alien Incursion?</span><span class="citation-popover-snippet">The Battle of Los Angeles...26 Mar 2026 — The alien hypothesis only emerged after 1947, when the modern UFO era began with the Kenneth A...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eAH59Wh-Ymo" title="How a UFO Caused the Battle of Los Angeles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eAH59Wh-Ymo" target="_blank" rel="noopener noreferrer">How a UFO Caused the Battle of Los Angeles</a></p><p class="youtube-embed-meta">Channel: The Why Files &middot; Views: 1.8M &middot; Uploaded: May 2022 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eAH59Wh-Ymo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eAH59Wh-Ymo">Open on YouTube</a></p></div></div></div>
 
 ## Retouching Changed How The Image Was Read
@@ -277,10 +275,9 @@ Former *Los Angeles Times* staff explained that newsroom retouching in the 1940s
 
 That context is crucial because the UFO interpretation depends heavily on visual certainty. In the famous printed version, the apparent “craft” looks sharply bounded and metallic. In less-enhanced versions, the same area appears diffuse and cloud-like.
 
-Historian Brett Holman noted that the searchlight beams in the earlier image behave more like illumination hitting low cloud or smoke than light striking a solid object. The beams soften and disperse rather than terminating cleanly against a hard surface. He also argued that many of the bright spots surrounding the object were likely anti-aircraft shell bursts or illuminated smoke rather than debris striking a vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airminded.org">[Airminded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airminded.org</span><span class="citation-popover-title">new light on the battle of los angeles</span><span class="citation-popover-snippet">AirmindedNew light on the Battle of Los Angeles20 Apr 2011 — Both of them seem to be press photos; the second one is heavily retouched...</span></span></span>
+Historian Brett Holman noted that the searchlight beams in the earlier image behave more like illumination hitting low cloud or smoke than light striking a solid object. The beams soften and disperse rather than terminating cleanly against a hard surface. He also argued that many of the bright spots surrounding the object were likely anti-aircraft shell bursts or illuminated smoke rather than debris striking a vehicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airminded.org">[Airminded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airminded.org</span><span class="citation-popover-title">new light on the battle of los angeles</span><span class="citation-popover-snippet">New light on the Battle of Los Angeles20 Apr 2011 — Both of them seem to be press photos; the second one is heavily retouched...</span></span></span>
 
 The image therefore became a case study in how photographic reproduction can unintentionally manufacture apparent detail. Contrast enhancement created stronger edges, brighter highlights, and a more dramatic focal point. To later viewers unfamiliar with 1940s newspaper production methods, those alterations looked like evidence rather than print preparation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4U57ve7DXWo" title="What Really Happened Over LA in 1942? | UFO Battle of Los Angeles | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4U57ve7DXWo" target="_blank" rel="noopener noreferrer">What Really Happened Over LA in 1942? | UFO Battle of Los Angeles | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 6.7K &middot; Uploaded: July 2025 &middot; Length: 2 hours 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4U57ve7DXWo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4U57ve7DXWo">Open on YouTube</a></p></div></div></div>
 
@@ -292,10 +289,9 @@ During the barrage, dozens of anti-aircraft searchlights swept through haze, smo
 
 This matters because the famous photograph was taken during an active anti-aircraft engagement involving more than 1,400 rounds fired into the sky. Shell bursts created flashes, smoke puffs, and drifting particulate clouds that interacted with the searchlights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://historynet.com/the-battle-of-l-a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historynet.com">[HistoryNet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historynet.com</span><span class="citation-popover-snippet">TIMES PHOTOGRAPHIC. IN THE CLEAR LIGHT OF DAY, people across Los...Read more...</span></span></span>
 
-Several later reconstructions and analyses noted that the “object” sits within a broader field of illuminated haze rather than standing apart from it. Once the image is viewed as a product of light scattering and contrast amplification, the apparently discrete craft becomes less visually stable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airminded.org">[Airminded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airminded.org</span><span class="citation-popover-title">new light on the battle of los angeles</span><span class="citation-popover-snippet">AirmindedNew light on the Battle of Los Angeles20 Apr 2011 — Both of them seem to be press photos; the second one is heavily retouched...</span></span></span>
+Several later reconstructions and analyses noted that the “object” sits within a broader field of illuminated haze rather than standing apart from it. Once the image is viewed as a product of light scattering and contrast amplification, the apparently discrete craft becomes less visually stable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airminded.org">[Airminded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airminded.org</span><span class="citation-popover-title">new light on the battle of los angeles</span><span class="citation-popover-snippet">New light on the Battle of Los Angeles20 Apr 2011 — Both of them seem to be press photos; the second one is heavily retouched...</span></span></span>
 
 The photograph is therefore unusual not because it clearly proves something extraordinary, but because it demonstrates how wartime lighting, photography, and expectation can combine into a persuasive illusion.
-
 
 <img src="{{ "/assets/images/Battle_of_Los_Angele_969c9e_searchlight_photo_my_15ea33-Illustration-2-dark.svg" | relative_url }}" alt="Photo Myth illustration 2" data-theme-src-dark="{{ "/assets/images/Battle_of_Los_Angele_969c9e_searchlight_photo_my_15ea33-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Battle_of_Los_Angele_969c9e_searchlight_photo_my_15ea33-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How UFO Retellings Reshaped The Case
@@ -305,7 +301,6 @@ The photograph became vastly more influential decades after the event than it wa
 In early wartime reporting, the image accompanied stories about coastal defence, blackout drills, and fears of Japanese attack. But once UFO culture matured in the 1950s and 1960s, writers increasingly reframed the incident as a hidden encounter with an indestructible alien craft. The photograph became the centrepiece of that reinterpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span>
 
 Over time, several changes commonly appeared in UFO retellings:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,7 +316,6 @@ Some later media treatments intensified the mythology further by pairing the pho
 
 The image also benefited from a wider tendency within UFO culture to privilege photographs over messy documentary history. The actual record of the night is inconsistent: radar reports conflicted, witnesses disagreed, and military officials contradicted one another. The photograph appeared to offer a simpler answer. A single dramatic visual proved easier to remember and circulate than a tangled chronology of wartime confusion.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/imaGhsphmWo" title="Battle Of Los Angeles 1942 Alien Invasion Explained UFO in the Spotlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=imaGhsphmWo" target="_blank" rel="noopener noreferrer">Battle Of Los Angeles 1942 Alien Invasion Explained UFO in the Spotlights</a></p><p class="youtube-embed-meta">Channel: Data1B4 &middot; Views: 288 &middot; Uploaded: January 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=imaGhsphmWo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=imaGhsphmWo">Open on YouTube</a></p></div></div></div>
 
 ## Why The Photo Still Persists In UFO Culture
@@ -336,7 +330,6 @@ Third, the photograph fits a classic conspiracy structure: authorities fired at 
 
 Yet the strongest historical evidence points in a different direction. The photograph appears to document the visual chaos of a wartime false alarm rather than a captured extraterrestrial craft. Its later transformation into UFO evidence depended less on new discoveries than on changing cultural expectations after the birth of modern UFO belief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la me fw archives 1942 battle la 20170221 story</span><span class="citation-popover-snippet">Los Angeles...23 Feb 2017 — On Feb. 26, 1942, the Los Angeles Times published a photo page that included a retouched version of the abov...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/ww2-raid-or-alien-incursion-the-battle-of-los-angeles-examined/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKWW2 Raid or Alien Incursion?</span><span class="citation-popover-snippet">The Battle of Los Angeles...26 Mar 2026 — The alien hypothesis only emerged after 1947, when the modern UFO era began with the Kenneth A...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span>
 
-
 <img src="{{ "/assets/images/Battle_of_Los_Angele_969c9e_searchlight_photo_my_15ea33-Illustration-3-dark.svg" | relative_url }}" alt="Photo Myth illustration 3" data-theme-src-dark="{{ "/assets/images/Battle_of_Los_Angele_969c9e_searchlight_photo_my_15ea33-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Battle_of_Los_Angele_969c9e_searchlight_photo_my_15ea33-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Real Importance Of The Photograph
 
@@ -344,47 +337,89 @@ The enduring significance of the “Battle of Los Angeles” photograph is not t
 
 The photograph sits at the intersection of wartime fear, imperfect technology, mass media reproduction, and postwar UFO mythology. It shows how a retouched newspaper image, produced under the technical limitations of 1940s printing, gradually became detached from its historical setting and reinterpreted through entirely different cultural lenses.
 
-In that sense, the image is genuinely important — not as proof of extraterrestrials, but as one of the clearest examples of how modern UFO legends are constructed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airminded.org">[Airminded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airminded.org</span><span class="citation-popover-title">new light on the battle of los angeles</span><span class="citation-popover-snippet">AirmindedNew light on the Battle of Los Angeles20 Apr 2011 — Both of them seem to be press photos; the second one is heavily retouched...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la me fw archives 1942 battle la 20170221 story</span><span class="citation-popover-snippet">Los Angeles...23 Feb 2017 — On Feb. 26, 1942, the Los Angeles Times published a photo page that included a retouched version of the abov...</span></span></span>
+In that sense, the image is genuinely important — not as proof of extraterrestrials, but as one of the clearest examples of how modern UFO legends are constructed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: airminded.org">[Airminded]</a><span class="citation-popover" role="note"><span class="citation-popover-source">airminded.org</span><span class="citation-popover-title">new light on the battle of los angeles</span><span class="citation-popover-snippet">New light on the Battle of Los Angeles20 Apr 2011 — Both of them seem to be press photos; the second one is heavily retouched...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: latimes.com">[Los Angeles Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">latimes.com</span><span class="citation-popover-title">la me fw archives 1942 battle la 20170221 story</span><span class="citation-popover-snippet">Los Angeles...23 Feb 2017 — On Feb. 26, 1942, the Los Angeles Times published a photo page that included a retouched version of the abov...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Did The Famous Photo Show A Craft?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Did The Famous Photo Show A Craft?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Teaches readers how to analyze historical photographs for evidence of production manipulation and retouching, especially regarding the &#x27;4...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Offers context on how wartime alerts and official photography became embedded in popular culture, including the searchlight mystery.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Provides a forensic approach to auditing historical photographs, explaining how newspaper retouching changed the visual record of the &#x27;42...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fads+and+Fallacies+in+the+Name+of+Science+by+Martin+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fads and Fallacies in the Name of Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d61kDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fads and Fallacies in the Name of Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fads+and+Fallacies+in+the+Name+of+Science+by+Martin+Gardner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fads and Fallacies in the Name of Science">Fads and Fallacies in the Name of Science</a>
+        </h4>
+        <p class="fr-book-author">By Martin Gardner</p>
+        
+        <p class="fr-book-desc">Examines how wartime images were packaged for sensation, providing insight into the cultural production of the searchlight myth.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fads+and+Fallacies+in+the+Name+of+Science+by+Martin+Gardner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -421,15 +456,15 @@ In that sense, the image is genuinely important — not as proof of extraterrest
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large Framed WWII Allied Propaganda Poster – Henry Koerner – 127 x 90 cm"><img src="{{ '/assets/images/marketplace-covers/e4d89fa55ff9b59e543e.jpg' | relative_url }}" alt="Listing image for Large Framed WWII Allied Propaganda Poster – Henry Koerner – 127 x 90 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large Framed WWII Allied Propaganda Poster – Henry Koerner – 127 x 90 cm</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for WWII poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: WWII poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -437,15 +472,15 @@ In that sense, the image is genuinely important — not as proof of extraterrest
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage WWII Poster Orbis Publishing Print LETS GIVE HIM ENOUGH AND ON TIME 70s"><img src="{{ '/assets/images/marketplace-covers/93c310d16a6e2ba0e186.jpg' | relative_url }}" alt="Listing image for Vintage WWII Poster Orbis Publishing Print LETS GIVE HIM ENOUGH AND ON TIME 70s" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage WWII Poster Orbis Publishing Print LETS GIVE HIM ENOUGH AND ON TIME 70s</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for WWII poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: WWII poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -453,31 +488,15 @@ In that sense, the image is genuinely important — not as proof of extraterrest
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WB17 Vintage WW2 Fine Work Canal Workers Carry On British WWII War Poster A4"><img src="{{ '/assets/images/marketplace-covers/55b1411129a34cefb8f9.jpg' | relative_url }}" alt="Listing image for WB17 Vintage WW2 Fine Work Canal Workers Carry On British WWII War Poster A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">WB17 Vintage WW2 Fine Work Canal Workers Carry On British WWII War Poster A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for WWII poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: WWII poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -485,7 +504,7 @@ In that sense, the image is genuinely important — not as proof of extraterrest
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="photo-myth-did-the-famous-photo-show-a-craft-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -701,123 +720,123 @@ In that sense, the image is genuinely important — not as proof of extraterrest
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Battle of Los Angeles  
-   Link: [https://en.wikipedia.org/wiki/Battle_of_Los_Angeles](https://en.wikipedia.org/wiki/Battle_of_Los_Angeles)  
+   Link: <a href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Battle_of_Los_Angeles</a>  
 
 2. <a id="endnote-2"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Battle of Los Angeles LATimes.jpg  
-   Link: [https://commons.wikimedia.org/wiki/File%3ABattle_of_Los_Angeles_LATimes.jpg](https://commons.wikimedia.org/wiki/File%3ABattle_of_Los_Angeles_LATimes.jpg)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3ABattle_of_Los_Angeles_LATimes.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ABattle_of_Los_Angeles_LATimes.jpg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Battle of Los Angeles LATimes.jpg - Wikimedia CommonsEnglish: Page B of the February 26, 1942, Los Angeles Times, s...</p></details>
    Published: February 26, 1942  
 
 3. <a id="endnote-3"></a>
    Source: airminded.org  
    Title: new light on the battle of los angeles  
-   Link: [https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/](https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AirmindedNew light on the Battle of Los Angeles20 Apr 2011 — Both of them seem to be press photos; the second one is heavily retouched...</p></details>
+   Link: <a href="https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow">https://airminded.org/2011/04/20/new-light-on-the-battle-of-los-angeles/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>New light on the Battle of Los Angeles20 Apr 2011 — Both of them seem to be press photos; the second one is heavily retouched...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: historynet.com  
-   Link: [https://historynet.com/the-battle-of-l-a/](https://historynet.com/the-battle-of-l-a/)  
+   Link: <a href="https://historynet.com/the-battle-of-l-a/" target="_blank" rel="noopener noreferrer nofollow">https://historynet.com/the-battle-of-l-a/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIMES PHOTOGRAPHIC. IN THE CLEAR LIGHT OF DAY, people across Los...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: military.com  
-   Link: [https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html](https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html)  
+   Link: <a href="https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>26, 1942, appeared to show searchlights converging on a disc-shaped object — allegedly the...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
    Title: The Battle of Los Angeles  
-   Link: [http://www.youtube.com/watch?v=6oY8HIWBS-Y](http://www.youtube.com/watch?v=6oY8HIWBS-Y)  
+   Link: <a href="http://www.youtube.com/watch?v=6oY8HIWBS-Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6oY8HIWBS-Y</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Threat Behind the Battle of LA | History&#x27;s Greatest Mysteries (S5)...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: latimes.com  
    Title: la me fw archives 1942 battle la 20170221 story  
-   Link: [https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html](https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html)  
+   Link: <a href="https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles...23 Feb 2017 — On Feb. 26, 1942, the Los Angeles Times published a photo page that included a retouched version of the abov...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: discoveryuk.com  
    Title: Discovery UKWW2 Raid or Alien Incursion?  
-   Link: [https://www.discoveryuk.com/mysteries/ww2-raid-or-alien-incursion-the-battle-of-los-angeles-examined/](https://www.discoveryuk.com/mysteries/ww2-raid-or-alien-incursion-the-battle-of-los-angeles-examined/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/ww2-raid-or-alien-incursion-the-battle-of-los-angeles-examined/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/ww2-raid-or-alien-incursion-the-battle-of-los-angeles-examined/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Battle of Los Angeles...26 Mar 2026 — The alien hypothesis only emerged after 1947, when the modern UFO era began with the Kenneth A...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: warfarehistorynetwork.com  
    Title: Warfare History Network WWII Battles: The Battle of Los Angeles  
-   Link: [https://warfarehistorynetwork.com/article/wwii-battles-the-battle-of-los-angeles/](https://warfarehistorynetwork.com/article/wwii-battles-the-battle-of-los-angeles/)  
+   Link: <a href="https://warfarehistorynetwork.com/article/wwii-battles-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow">https://warfarehistorynetwork.com/article/wwii-battles-the-battle-of-los-angeles/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>photo in its February 26, 1942, edition that was purported to show the airborne object illuminated by searchlights as shells burst around...</p></details>
    Published: February 26, 1942  
 
 10. <a id="endnote-10"></a>
    Source: militarytimes.com  
    Title: ufos or no battle of los angeles nears 75th anniversary  
-   Link: [https://www.militarytimes.com/off-duty/2017/02/19/ufos-or-no-battle-of-los-angeles-nears-75th-anniversary/](https://www.militarytimes.com/off-duty/2017/02/19/ufos-or-no-battle-of-los-angeles-nears-75th-anniversary/)  
+   Link: <a href="https://www.militarytimes.com/off-duty/2017/02/19/ufos-or-no-battle-of-los-angeles-nears-75th-anniversary/" target="_blank" rel="noopener noreferrer nofollow">https://www.militarytimes.com/off-duty/2017/02/19/ufos-or-no-battle-of-los-angeles-nears-75th-anniversary/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>retouched photo of the event published in the Los Angeles Times. Some say the image, which reportedly underwent modifications that would...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: blog.eastmanleather.com  
    Title: the battle of los angeles  
-   Link: [https://blog.eastmanleather.com/view-post/the-battle-of-los-angeles](https://blog.eastmanleather.com/view-post/the-battle-of-los-angeles)  
+   Link: <a href="https://blog.eastmanleather.com/view-post/the-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow">https://blog.eastmanleather.com/view-post/the-battle-of-los-angeles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Battle&#x27; of Los AngelesInitial reports cited witnesses seeing formations of warplanes overhead resulting in dogfights between enemy and U...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40freeleadswebsite/lights-in-the-sky-exploring-the-phenomenon-of-the-l-a-ufo-sighting-d01ba265157a](https://medium.com/%40freeleadswebsite/lights-in-the-sky-exploring-the-phenomenon-of-the-l-a-ufo-sighting-d01ba265157a)  
+   Link: <a href="https://medium.com/%40freeleadswebsite/lights-in-the-sky-exploring-the-phenomenon-of-the-l-a-ufo-sighting-d01ba265157a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40freeleadswebsite/lights-in-the-sky-exploring-the-phenomenon-of-the-l-a-ufo-sighting-d01ba265157a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Phenomenon of the L.A. UFO SightingWithin the ufological community, the L.A. UFO Sighting is frequently cited as a compelli...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/fixingmovies/comments/10raeyl/the_movie_battle_los_angeles_was_supposedly/](https://www.reddit.com/r/fixingmovies/comments/10raeyl/the_movie_battle_los_angeles_was_supposedly/)  
+   Link: <a href="https://www.reddit.com/r/fixingmovies/comments/10raeyl/the_movie_battle_los_angeles_was_supposedly/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/fixingmovies/comments/10raeyl/the_movie_battle_los_angeles_was_supposedly/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The movie &quot;Battle: Los Angeles&quot; was supposedly inspired...Comments Section; r/underratedmovies · 8. 4; r/aliens · 39. 24; r/HighStran...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/15lw29u/what_do_you_think_might_really_happened_in_the/](https://www.reddit.com/r/UFOs/comments/15lw29u/what_do_you_think_might_really_happened_in_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15lw29u/what_do_you_think_might_really_happened_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15lw29u/what_do_you_think_might_really_happened_in_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What do you think might really happened in the battle of...UFO theories about the Battle of Los Angeles. Most convincing UFO sighting ev...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: latimes.com  
-   Link: [https://www.latimes.com/archives/blogs/show-tracker/story/2011-03-23/tv-skeptic-fact-or-faked-paranormal-files-looks-at-the-real-battle-of-l-a](https://www.latimes.com/archives/blogs/show-tracker/story/2011-03-23/tv-skeptic-fact-or-faked-paranormal-files-looks-at-the-real-battle-of-l-a)  
+   Link: <a href="https://www.latimes.com/archives/blogs/show-tracker/story/2011-03-23/tv-skeptic-fact-or-faked-paranormal-files-looks-at-the-real-battle-of-l-a" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/blogs/show-tracker/story/2011-03-23/tv-skeptic-fact-or-faked-paranormal-files-looks-at-the-real-battle-of-l-a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TV Skeptic: &#x27;Fact or Faked: Paranormal Files&#x27; looks at the...23 Mar 2011 — This episode examines what UFO experts believe is photographi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: fox6now.com  
    Title: battle los angeles anniversary balloon sparked air raid ufo scare  
-   Link: [https://www.fox6now.com/weather/battle-los-angeles-anniversary-balloon-sparked-air-raid-ufo-scare](https://www.fox6now.com/weather/battle-los-angeles-anniversary-balloon-sparked-air-raid-ufo-scare)  
+   Link: <a href="https://www.fox6now.com/weather/battle-los-angeles-anniversary-balloon-sparked-air-raid-ufo-scare" target="_blank" rel="noopener noreferrer nofollow">https://www.fox6now.com/weather/battle-los-angeles-anniversary-balloon-sparked-air-raid-ufo-scare</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX6 News MilwaukeeBattle of Los Angeles Anniversary: How a weather balloon...25 Feb 2026 — Those in the world of &quot;Ufology&quot; claim that a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: tustinhistory.com  
    Title: Reanalysis of the 1965 Heflin UFO Photos Society for Scientific  
-   Link: [https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf](https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf)  
+   Link: <a href="https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tustinhistory.com/wp-content/uploads/2019/01/Reanalysis-of-the-1965-Heflin-UFO-Photos-Society-for-Scientific-.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reanalysis of the 1965 Heflin UFO Photosby ANN DRUFFEL · 2000 · Cited by 3 — UFO literature held references to a few other cases of dark...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ladailymirror.com  
    Title: LA Daily Mirror Another Good Story Ruined: Saucers Over L.A.!  
-   Link: [https://ladailymirror.com/2011/03/07/another-good-story-ruined-saucers-over-la-part-1/](https://ladailymirror.com/2011/03/07/another-good-story-ruined-saucers-over-la-part-1/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>— Part 1 |7 Mar 2011 — Here, for example, is a retouched photograph from 1928 of law enforcement officials with William Edward Hickman, r...</p></details>
+   Link: <a href="https://ladailymirror.com/2011/03/07/another-good-story-ruined-saucers-over-la-part-1/" target="_blank" rel="noopener noreferrer nofollow">https://ladailymirror.com/2011/03/07/another-good-story-ruined-saucers-over-la-part-1/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Part 1 |7 Mar 2011 — Here, for example, is a retouched photograph from 1928 of law enforcement officials with William Edward Hickman, r...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ladailymirror.com  
    Title: LA Daily Mirror Another Good Story Ruined: Saucers Over L.A.!  
-   Link: [https://ladailymirror.com/2011/03/13/another-good-story-ruined-saucers-over-la-part-7/](https://ladailymirror.com/2011/03/13/another-good-story-ruined-saucers-over-la-part-7/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>— Part 7 |13 Mar 2011 — Is it a UFO? As far as I&#x27;m concerned, it&#x27;s nothing but a convergence... These retouched photos were printed all...</p></details>
+   Link: <a href="https://ladailymirror.com/2011/03/13/another-good-story-ruined-saucers-over-la-part-7/" target="_blank" rel="noopener noreferrer nofollow">https://ladailymirror.com/2011/03/13/another-good-story-ruined-saucers-over-la-part-7/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Part 7 |13 Mar 2011 — Is it a UFO? As far as I&#x27;m concerned, it&#x27;s nothing but a convergence... These retouched photos were printed all...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: latimes.com  
    Title: la me fw archives battle la 20170221 gallery photogallery  
-   Link: [https://www.latimes.com/visuals/framework/la-me-fw-archives-battle-la-20170221-gallery-photogallery.html](https://www.latimes.com/visuals/framework/la-me-fw-archives-battle-la-20170221-gallery-photogallery.html)  
+   Link: <a href="https://www.latimes.com/visuals/framework/la-me-fw-archives-battle-la-20170221-gallery-photogallery.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/visuals/framework/la-me-fw-archives-battle-la-20170221-gallery-photogallery.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Battle of Los Angeles21 Feb 2017 — March 11, 1942: Display of shapnel from the anti-aircraft barrage, picked up in Inglewood by Riege...</p></details>
    Published: March 11, 1942  
 
 21. <a id="endnote-21"></a>
    Source: greg.org  
    Title: recreated the battle of los angeles searchlight wigwam  
-   Link: [https://greg.org/archive/2012/02/08/recreated-the-battle-of-los-angeles-searchlight-wigwam.html](https://greg.org/archive/2012/02/08/recreated-the-battle-of-los-angeles-searchlight-wigwam.html)  
+   Link: <a href="https://greg.org/archive/2012/02/08/recreated-the-battle-of-los-angeles-searchlight-wigwam.html" target="_blank" rel="noopener noreferrer nofollow">https://greg.org/archive/2012/02/08/recreated-the-battle-of-los-angeles-searchlight-wigwam.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Battle Of Los Angeles Searchlight Wigwam8 Feb 2012 — A historically accurate re-enactment of the “wigwam” of searchlights photographe...</p></details>

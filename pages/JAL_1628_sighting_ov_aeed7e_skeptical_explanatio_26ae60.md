@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /jal-1628-sighting-over-alaska-1986/
 nav_short_title: Explanations
 title: Could Jupiter and Radar Artefacts Explain It?
-title_full: Could Jupiter and Radar Artefacts Explain It? | JAL 1628
+title_full: Could Jupiter and Radar Artefacts Explain It?
 display_title_short: Explanations
 display_title: Explanations
 heading_title: Could Jupiter and Radar Artefacts Explain It?
@@ -239,7 +239,7 @@ next_link:
   permalink: /radar-record/
   short_title: Radar Record
   heading_title: Did Radar Really Confirm JAL 1628?
-date: '2026-06-08 23:38:28 '
+date: '2026-06-11 13:22:41 '
 header:
   og_image: /assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-1-social.jpg
   preview_image: /assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-1.webp
@@ -248,8 +248,7 @@ image: /assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Il
 
 ## Introduction
 
-The sceptical case against the [JAL 1628 sighting]({{ 'jal-1628-sighting-over-alaska-1986/' | relative_url }}) does not rest on a claim that the crew invented the event. Even critics generally accept that Captain Kenju Terauchi and the other crew members sincerely reported unusual lights over Alaska in November 1986. The dispute centres instead on interpretation: whether the encounter involved a structured unknown craft, or a combination of astronomical objects, atmospheric effects, radar ambiguity and expectation-driven misidentification. The most important challenge to the dramatic “mothership” narrative is that independent confirmation remained weak. Nearby aircraft failed to visually confirm the object, later FAA radar reviews concluded that recorded data did not verify unknown traffic, and investigators such as Philip J. Klass argued that Jupiter and other celestial lights offered a more ordinary explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p19.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Terauchi&#x27;s Marvelous &#x27;Spaceship&#x27;Philip J. Klass investigated, and soon CSICOP issued a press release, written by Klass (p. 7):. At the ti...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsUntitledJapan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confir...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span>
-
+The sceptical case against the JAL 1628 sighting does not rest on a claim that the crew invented the event. Even critics generally accept that Captain Kenju Terauchi and the other crew members sincerely reported unusual lights over Alaska in November 1986. The dispute centres instead on interpretation: whether the encounter involved a structured unknown craft, or a combination of astronomical objects, atmospheric effects, radar ambiguity and expectation-driven misidentification. The most important challenge to the dramatic “mothership” narrative is that independent confirmation remained weak. Nearby aircraft failed to visually confirm the object, later FAA radar reviews concluded that recorded data did not verify unknown traffic, and investigators such as Philip J. Klass argued that Jupiter and other celestial lights offered a more ordinary explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p19.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Terauchi&#x27;s Marvelous &#x27;Spaceship&#x27;Philip J. Klass investigated, and soon CSICOP issued a press release, written by Klass (p. 7):. At the ti...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Japan Air Lines Cargo Flight 1628</span><span class="citation-popover-snippet">Japan Air Lines Cargo Flight 1628</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsUntitledJapan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confir...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span>
 
 <img src="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-1-dark.svg" | relative_url }}" alt="Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 At the same time, the case remains controversial because the sceptical explanations are themselves incomplete. They can account for parts of the sighting more easily than others, but they do not entirely remove the difficulty posed by multiple witnesses, onboard radar reports and the real-time concern shown by air-traffic controllers during the event. That unresolved tension is one reason the incident still occupies a central place in debates over aviation UFO reports.
@@ -265,7 +264,6 @@ That absence of corroboration matters because Terauchi’s later descriptions be
 Sceptics also note that the strongest and most elaborate descriptions came primarily from Terauchi himself. The other two crew members gave more restrained accounts. According to later reviews of the FAA interview transcripts, First Officer Takanori Tamefuji described seeing lights but struggled to distinguish them clearly from stars when viewed head-on. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/what-really-happened-to-japan-airlines-flight-1628-in-1986/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">what really happened to japan airlines flight 1628 in 1986</span><span class="citation-popover-snippet">The DebriefWhat Really Happened to Japan Airlines Flight 1628 in...7 Jun 2021 — On November 17th, 1986, Japan Airlines flight 1628 becam...</span></span></span>
 
 This does not mean the other crew members saw nothing. It does, however, weaken the claim that all three independently observed a clearly structured craft. Critics argue that the incident evolved from a shared report of unusual lights into a far more elaborate “mothership” narrative largely driven by the captain’s interpretation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RHC_pfTXY-w" title="Supernatural Japan Podcast - Episode 3: JAL Flight 1628 UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RHC_pfTXY-w" target="_blank" rel="noopener noreferrer">Supernatural Japan Podcast - Episode 3: JAL Flight 1628 UFO Incident</a></p><p class="youtube-embed-meta">Channel: BusanKevin &middot; Views: 1.0K &middot; Uploaded: April 2022 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RHC_pfTXY-w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RHC_pfTXY-w">Open on YouTube</a></p></div></div></div>
 
@@ -283,7 +281,6 @@ The sceptical argument became stronger because some parts of the [crew testimony
 
 However, the Jupiter explanation also has limits. Terauchi and the crew were experienced pilots familiar with night flying, and critics of the sceptical view argue that it is difficult to mistake a planet for a nearby object manoeuvring close to an aircraft over a prolonged period. The debate therefore turns not on whether Jupiter was visible — it clearly was — but on whether that visibility adequately explains the entire sequence of observations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ekykrn0h7ZE" title="JAL Flight 1628 UFO Incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ekykrn0h7ZE" target="_blank" rel="noopener noreferrer">JAL Flight 1628 UFO Incident</a></p><p class="youtube-embed-meta">Channel: BusanKevin &middot; Views: 437 &middot; Uploaded: February 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ekykrn0h7ZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ekykrn0h7ZE">Open on YouTube</a></p></div></div></div>
 
 ## Ice crystals, clouds and cockpit perception
@@ -298,7 +295,6 @@ This became controversial because FAA documents reportedly described Terauchi as
 
 The broader sceptical position is not necessarily that the crew hallucinated or fabricated anything. Instead, it proposes a layered perceptual chain:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Bright planets and stars provided the original light sources.
@@ -311,22 +307,20 @@ The broader sceptical position is not necessarily that the crew hallucinated or 
 
 Within that framework, a sincere but mistaken report becomes possible without requiring deception.
 
-
 <img src="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-2-dark.svg" | relative_url }}" alt="Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The radar problem and “double image” explanations
 
 Radar evidence is often presented as the strongest support for the JAL 1628 case, but it is also one of the most disputed aspects.
 
-During the incident, controllers and military personnel discussed intermittent radar returns near the aircraft. At the time, some controllers believed they might be seeing additional traffic associated with the crew’s report. This real-time uncertainty helped make the case famous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Radar review fails to confirm UFO</span><span class="citation-popover-snippet">UPIRadar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</span></span></span>
+During the incident, controllers and military personnel discussed intermittent radar returns near the aircraft. At the time, some controllers believed they might be seeing additional traffic associated with the crew’s report. This real-time uncertainty helped make the case famous. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Radar review fails to confirm UFO</span><span class="citation-popover-snippet">Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</span></span></span>
 
 Later analysis, however, became far more cautious. FAA review memoranda concluded that Anchorage Center radar data did “not confirm the presence” of the reported traffic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsUntitledJapan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confir...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span>
 
-Subsequent explanations proposed that the apparent secondary radar target may have resulted from radar processing artefacts or “split images” associated with the 747 itself. According to FAA statements reported after the investigation, what initially appeared to be a second object was eventually interpreted as a duplicated or erroneous return rather than an independently tracked craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">UPIController confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
+Subsequent explanations proposed that the apparent secondary radar target may have resulted from radar processing artefacts or “split images” associated with the 747 itself. According to FAA statements reported after the investigation, what initially appeared to be a second object was eventually interpreted as a duplicated or erroneous return rather than an independently tracked craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
 
 This distinction is crucial. The existence of ambiguous radar blips is not the same as confirmed tracking of a solid object. Radar systems, especially in difficult coverage regions and under unusual atmospheric conditions, can produce clutter, anomalous returns and temporary false targets.
 
-Sceptics therefore argue that the radar story changed over time in public retellings. Early media reports often framed the event as “radar-confirmed”. The later FAA interpretation was narrower: controllers saw unusual returns temporarily, but investigators concluded that the data did not reliably establish unknown traffic shadowing the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Radar review fails to confirm UFO</span><span class="citation-popover-snippet">UPIRadar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">UPIController confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
-
+Sceptics therefore argue that the radar story changed over time in public retellings. Early media reports often framed the event as “radar-confirmed”. The later FAA interpretation was narrower: controllers saw unusual returns temporarily, but investigators concluded that the data did not reliably establish unknown traffic shadowing the aircraft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Radar review fails to confirm UFO</span><span class="citation-popover-snippet">Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DXNfyOVoi7g" title="Japan Airlines Flight 1628 - UFO Incident Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DXNfyOVoi7g" target="_blank" rel="noopener noreferrer">Japan Airlines Flight 1628 - UFO Incident Animation</a></p><p class="youtube-embed-meta">Channel: Aviation Land &middot; Views: 286.2K &middot; Uploaded: January 2018 &middot; Length: 1 minute 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DXNfyOVoi7g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DXNfyOVoi7g">Open on YouTube</a></p></div></div></div>
 
@@ -348,7 +342,6 @@ Despite the sceptical explanations, the JAL 1628 case has never fully disappeare
 
 Several aspects still resist easy dismissal:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Three crew members reported unusual lights during the same flight.
@@ -361,361 +354,96 @@ Several aspects still resist easy dismissal:
 
 These points prevent the case from fitting neatly into a simple “planet mistaken for UFO” narrative.
 
-At the same time, the strongest evidence for an extraordinary craft remains weaker than popular retellings often suggest. Independent visual confirmation failed. Recorded radar data did not conclusively support unknown traffic. Witness descriptions evolved over time. And several key features of the sighting are compatible with known perceptual and atmospheric effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsUntitledJapan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confir...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">UPIController confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
+At the same time, the strongest evidence for an extraordinary craft remains weaker than popular retellings often suggest. Independent visual confirmation failed. Recorded radar data did not conclusively support unknown traffic. Witness descriptions evolved over time. And several key features of the sighting are compatible with known perceptual and atmospheric effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault DocumentsUntitledJapan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confir...</span><span class="citation-popover-meta">Published: November 18, 1986</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upi.com">[UPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upi.com</span><span class="citation-popover-title">Controller confirms UFO sighting</span><span class="citation-popover-snippet">Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</span></span></span>
 
 That combination — sincere witnesses, ambiguous instrumentation and incomplete corroboration — explains why JAL 1628 continues to divide opinion. For believers, it remains one of aviation’s most compelling UFO encounters. For sceptics, it is a classic example of how extraordinary interpretations can emerge from ordinary lights, imperfect radar and human perception under difficult viewing conditions.
-
 
 <img src="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-3-dark.svg" | relative_url }}" alt="Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/JAL_1628_sighting_ov_aeed7e_skeptical_explanatio_26ae60-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Could Jupiter and Radar Artefacts Explain It?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Could Jupiter and Radar Artefacts Explain It?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Philip J. Klass guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Philip+J.+Klass+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs Explained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GZ0sAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs Explained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs Explained">UFOs Explained</a>
+        </h4>
+        <p class="fr-book-author">By Philip J. Klass</p>
+        
+        <p class="fr-book-desc">Contains Klass&#x27;s exhaustive analysis detailing how the planet Jupiter and local ice crystal clouds triggered the flight crew&#x27;s visual err...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+Explained+by+Philip+J.+Klass&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Anchorage Center guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Anchorage+Center+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Octopus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=N5RvUVsiaxEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Octopus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Octopus">Octopus</a>
+        </h4>
+        <p class="fr-book-author">By Guy Lawson</p>
+        
+        <p class="fr-book-desc">Presents the case data tracking why air traffic controllers experienced serious real-time anxiety during the Alaska cargo flight.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Octopus+by+Guy+Lawson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Jupiter guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Jupiter+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Deconstructs the psychology of expectation-driven misidentifications during challenging night flight conditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Details how FAA and defense agency technical panels cross-check radar tapes to close out public controversy cycles.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+Explained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs Explained</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Octopus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Octopus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="explanations-1ca8e5-could-jupiter-and-radar-artefacts-explain-it-jal-1628-sighting-over-alaska-1-us-navy-ship-poster-boo" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function localeMatches() {
-    var languages = [];
-    var exactMarket = '';
-    var languageMarket = '';
-    try {
-      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
-      else if (navigator.language) languages = [navigator.language];
-    } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
-      var normalized = normalize(languages[i]);
-      if (!normalized) continue;
-      if (localeMarketMap[normalized]) {
-        exactMarket = localeMarketMap[normalized];
-        break;
-      }
-      var languageOnly = normalized.split('-')[0];
-      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
-    }
-    return { exact: exactMarket, language: languageMarket };
-  }
-  function inferFromLocale() {
-    var matches = localeMatches();
-    return matches.exact || matches.language || '';
-  }
-  function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
-      var rule = timezoneRules[i] || {};
-      try {
-        if (new RegExp(rule.pattern).test(tz)) return rule.market;
-      } catch (err) {}
-    }
-    return '';
-  }
-  function inferMarket(available, options) {
-    available = Array.isArray(available) ? available : [];
-    options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
-    try {
-      var saved = window.localStorage && localStorage.getItem(storageKey);
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var timezoneMarket = inferFromTimezone();
-    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
-    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
-    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
-  }
-  window.PhoenixAffiliateLocation = {
-    normalize: normalize,
-    inferMarket: inferMarket,
-    inferFromLocale: inferFromLocale,
-    inferFromTimezone: inferFromTimezone
-  };
-})();
-</script>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-localized-links]');
-  if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
-  function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
-  }
-  function buildUrl(query, reference, marketId) {
-    var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
-    var params = [];
-    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
-    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
-    params.push('mkevt=1');
-    params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
-    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
-    return url + joiner + params.join('&');
-  }
-  function domainLabel(marketId) {
-    var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
-  }
-  function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function closeMenu(section) {
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var picker = section.querySelector('.fr-ebay-market-picker');
-    if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
-    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
-  }
-  function availableMarkets(section) {
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select) {
-      return Array.prototype.slice.call(select.options)
-        .map(function (option) { return option.value; })
-        .filter(function (marketId) { return !!markets[marketId]; });
-    }
-    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
-      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
-      .filter(function (marketId) { return !!markets[marketId]; });
-  }
-  function applyMarket(section, marketId, persist) {
-    var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
-      link.setAttribute('href', buildUrl(query, reference, marketId));
-    });
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
-    var selectedText = marketId;
-    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-      label.textContent = selectedText;
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-      flag.className = flagClass(marketId);
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-      label.textContent = selectedText;
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
-      label.textContent = domainLabel(marketId);
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
-      var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
-    });
-    section.setAttribute('data-ebay-selected-market', marketId);
-    if (persist) {
-      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
-    }
-    closeMenu(section);
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
-    var available = availableMarkets(section);
-    var marketId = defaultMarket;
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: defaultMarket
-      });
-    } else if (available.indexOf(defaultMarket) < 0) {
-      marketId = available[0] || defaultMarket;
-    }
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select) {
-      select.addEventListener('change', function () {
-        applyMarket(section, select.value, true);
-      });
-    }
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    if (trigger && menu) {
-      trigger.addEventListener('click', function (event) {
-        event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
-        menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-        var picker = trigger.closest('.fr-ebay-market-picker');
-        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
-      });
-      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.addEventListener('click', function (event) {
-          event.stopPropagation();
-          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
-        });
-      });
-      document.addEventListener('click', function () { closeMenu(section); });
-    }
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
-      button.addEventListener('click', function () {
-        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
-      });
-    });
-    applyMarket(section, marketId, false);
-  });
-})();
-</script>
 </section>
 
 ## Endnotes
@@ -723,60 +451,60 @@ That combination — sincere witnesses, ambiguous instrumentation and incomplete
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Japan Air Lines Cargo Flight 1628  
-   Link: [https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628](https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628)  
+   Link: <a href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Japan_Air_Lines_Cargo_Flight_1628</a>  
 
 2. <a id="endnote-2"></a>
    Source: upi.com  
    Title: Radar review fails to confirm UFO  
-   Link: [https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/](https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPIRadar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</p></details>
+   Link: <a href="https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1987/01/08/Radar-review-fails-to-confirm-UFO/8875537080400/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Radar review fails to confirm UFO - UPI Archives8 Jan 1987 — Federal investigators said a review of radar tapes failed to show a UFO s...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
-   Link: [https://archive.org/details/jal1628](https://archive.org/details/jal1628)  
+   Link: <a href="https://archive.org/details/jal1628" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/jal1628</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveFAA Japan Air Lines Flight 1628 Records30 Apr 2023 — Anchorage Air Traffic Control obliged and requested an oncoming Unit...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: upi.com  
    Title: Controller confirms UFO sighting  
-   Link: [https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/](https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPIController confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</p></details>
+   Link: <a href="https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/" target="_blank" rel="noopener noreferrer nofollow">https://www.upi.com/Archives/1986/12/30/Controller-confirms-UFO-sighting/4431536302800/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Controller confirms UFO sighting - UPI Archives30 Dec 1986 — An air controller said radar showed a mysterious object following a Japan...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ekykrn0h7ZE](https://www.youtube.com/watch?v=ekykrn0h7ZE)  
+   Link: <a href="https://www.youtube.com/watch?v=ekykrn0h7ZE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ekykrn0h7ZE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Japan Airlines Flight 1628 - UFO Incident Animation...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DXNfyOVoi7g](https://www.youtube.com/watch?v=DXNfyOVoi7g)  
+   Link: <a href="https://www.youtube.com/watch?v=DXNfyOVoi7g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DXNfyOVoi7g</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sighting at 35,000 Feet | JAL Cargo Flight 1628...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf](https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-012.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsUntitledJapan Airlines Flight 1628 on November 18, 1986. Radar data recorded by Anchorage Center does not confir...</p></details>
    Published: November 18, 1986  
 
 8. <a id="endnote-8"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p19.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p19.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2014/11/p19.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Terauchi&#x27;s Marvelous &#x27;Spaceship&#x27;Philip J. Klass investigated, and soon CSICOP issued a press release, written by Klass (p. 7):. At the ti...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: thedebrief.org  
    Title: what really happened to japan airlines flight 1628 in 1986  
-   Link: [https://thedebrief.org/what-really-happened-to-japan-airlines-flight-1628-in-1986/](https://thedebrief.org/what-really-happened-to-japan-airlines-flight-1628-in-1986/)  
+   Link: <a href="https://thedebrief.org/what-really-happened-to-japan-airlines-flight-1628-in-1986/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/what-really-happened-to-japan-airlines-flight-1628-in-1986/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefWhat Really Happened to Japan Airlines Flight 1628 in...7 Jun 2021 — On November 17th, 1986, Japan Airlines flight 1628 becam...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-003.pdf](https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-003.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-003.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eek10 Jun 1987 — The FAA has completed its investigation of JAL flight 1628, and does not intend to pursue it any further.&quot; II. Page 25...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf](https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/jal1628/733667-001-015.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>theblackvault.comMemorandumINFORMATION: Transcription concerning the incident involving Japan Airlines Flight 1628 on November 18, 1986 a...</p></details>
    Published: November 18, 1986  
 
@@ -785,56 +513,56 @@ That combination — sincere witnesses, ambiguous instrumentation and incomplete
 12. <a id="endnote-12"></a>
    Source: facebook.com  
    Title: over alaska pilots have reported something they cant explainstrange lights pacin  
-   Link: [https://www.facebook.com/ChillsDylan/posts/over-alaska-pilots-have-reported-something-they-cant-explainstrange-lights-pacin/869797606149939/](https://www.facebook.com/ChillsDylan/posts/over-alaska-pilots-have-reported-something-they-cant-explainstrange-lights-pacin/869797606149939/)  
+   Link: <a href="https://www.facebook.com/ChillsDylan/posts/over-alaska-pilots-have-reported-something-they-cant-explainstrange-lights-pacin/869797606149939/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChillsDylan/posts/over-alaska-pilots-have-reported-something-they-cant-explainstrange-lights-pacin/869797606149939/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Over Alaska, pilots have reported something they can&#x27;...Japan Airlines Flight 1628 is one of the most well- documented aviation UFO inci...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: americanghostwalks.com  
    Title: haunted alaskan skies 1986 s japan airlines flight 1628 ufo encounter  
-   Link: [https://www.americanghostwalks.com/haunted-alaskan-skies-1986-s-japan-airlines-flight-1628-ufo-encounter](https://www.americanghostwalks.com/haunted-alaskan-skies-1986-s-japan-airlines-flight-1628-ufo-encounter)  
+   Link: <a href="https://www.americanghostwalks.com/haunted-alaskan-skies-1986-s-japan-airlines-flight-1628-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.americanghostwalks.com/haunted-alaskan-skies-1986-s-japan-airlines-flight-1628-ufo-encounter</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Haunted Alaskan Skies: 1986&#x27;s JAL1628 UFO Encounter25 May 2025 — There have been many allegations that the testimony of the crew of 1628...</p></details>
    Published: May 2025  
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: black vault uncovers archives missing faa records  
-   Link: [https://www.reddit.com/r/UFOs/comments/1d2rmv7/black_vault_uncovers_archives_missing_faa_records/](https://www.reddit.com/r/UFOs/comments/1d2rmv7/black_vault_uncovers_archives_missing_faa_records/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1d2rmv7/black_vault_uncovers_archives_missing_faa_records/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1d2rmv7/black_vault_uncovers_archives_missing_faa_records/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Black Vault uncovers, archives missing FAA records...TIL Japan Airlines Flight 1628 over Alaska had a 42 minute long UFO encounter Suppo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/todayilearned/comments/h8o5id/til_japan_airlines_flight_1628_over_alaska_had_a/](https://www.reddit.com/r/todayilearned/comments/h8o5id/til_japan_airlines_flight_1628_over_alaska_had_a/)  
+   Link: <a href="https://www.reddit.com/r/todayilearned/comments/h8o5id/til_japan_airlines_flight_1628_over_alaska_had_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/h8o5id/til_japan_airlines_flight_1628_over_alaska_had_a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>42 minute...TIL Japan Airlines Flight 1628 over Alaska had a 42 minute long UFO encounter Supported by Radar Data and Air Traffic Contro...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: flightsafetydetectives.com  
    Title: a model for investigating uap events episode 182  
-   Link: [https://flightsafetydetectives.com/a-model-for-investigating-uap-events-episode-182/](https://flightsafetydetectives.com/a-model-for-investigating-uap-events-episode-182/)  
+   Link: <a href="https://flightsafetydetectives.com/a-model-for-investigating-uap-events-episode-182/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafetydetectives.com/a-model-for-investigating-uap-events-episode-182/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Model for Investigating UAP Events – Episode 182JAL Flight 1628 UAP event was investigated in detail by the FAA could serve as a model...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/336062892_Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles](https://www.researchgate.net/publication/336062892_Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles)  
+   Link: <a href="https://www.researchgate.net/publication/336062892_Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/336062892_Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAV and the airplane are approximately to scale, while the distance...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1kgy7o7/the_ufo_encounter_so_disturbing_the_cia_buried_it/](https://www.reddit.com/r/UFOs/comments/1kgy7o7/the_ufo_encounter_so_disturbing_the_cia_buried_it/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kgy7o7/the_ufo_encounter_so_disturbing_the_cia_buried_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kgy7o7/the_ufo_encounter_so_disturbing_the_cia_buried_it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>raffic reported by Flight 1628. No further information has been...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: magazin.aktualne.cz  
-   Link: [https://magazin.aktualne.cz/jal-1628-boeing-sledovany-ufo-40-minut-nad-aljaskou-nevyrese/r~ff1309b24c4d11f0b589ac1f6b220ee8/v~sl%3A03907859d450270f093a02adf096fd63/](https://magazin.aktualne.cz/jal-1628-boeing-sledovany-ufo-40-minut-nad-aljaskou-nevyrese/r~ff1309b24c4d11f0b589ac1f6b220ee8/v~sl%3A03907859d450270f093a02adf096fd63/)  
+   Link: <a href="https://magazin.aktualne.cz/jal-1628-boeing-sledovany-ufo-40-minut-nad-aljaskou-nevyrese/r~ff1309b24c4d11f0b589ac1f6b220ee8/v~sl%3A03907859d450270f093a02adf096fd63/" target="_blank" rel="noopener noreferrer nofollow">https://magazin.aktualne.cz/jal-1628-boeing-sledovany-ufo-40-minut-nad-aljaskou-nevyrese/r~ff1309b24c4d11f0b589ac1f6b220ee8/v~sl%3A03907859d450270f093a02adf096fd63/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1628: Boeing sledovaný UFO 40 minut nad Aljaškou23 Jun 2025 — Nákladní letadlo sledoval gigantický objekt nad Aljaškou celých 40 minut. P...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: jeromeprophet.blogspot.com  
    Title: 1986 jal flight 1628 ufo encounter  
-   Link: [https://jeromeprophet.blogspot.com/2007/02/1986-jal-flight-1628-ufo-encounter.html](https://jeromeprophet.blogspot.com/2007/02/1986-jal-flight-1628-ufo-encounter.html)  
+   Link: <a href="https://jeromeprophet.blogspot.com/2007/02/1986-jal-flight-1628-ufo-encounter.html" target="_blank" rel="noopener noreferrer nofollow">https://jeromeprophet.blogspot.com/2007/02/1986-jal-flight-1628-ufo-encounter.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jerome ProphetThe 1986 JAL Flight 1628 UFO Encounter!12 Feb 2007 — Radar data recorded by Anchorage Center does not confirm the presence...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: latimes.com  
    Title: la xpm 1987 01 01 mn 1922 story  
-   Link: [https://www.latimes.com/archives/la-xpm-1987-01-01-mn-1922-story.html](https://www.latimes.com/archives/la-xpm-1987-01-01-mn-1922-story.html)  
+   Link: <a href="https://www.latimes.com/archives/la-xpm-1987-01-01-mn-1922-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/archives/la-xpm-1987-01-01-mn-1922-story.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Plane Maneuvered to Avoid Object: Pilot Recounts...1 Jan 1987 — ANCHORAGE — A veteran pilot whose UFO sighting was confirmed on radar s...</p></details>

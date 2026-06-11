@@ -20,7 +20,7 @@ sidebar_expanded_urls:
 - /magenta-italy-crash-1933/
 nav_short_title: US & Vatican
 title: How Did the Magenta Object Allegedly Reach the US?
-title_full: How Did the Magenta Object Allegedly Reach the US? | Magenta Crash1933
+title_full: How Did the Magenta Object Allegedly Reach the US?
 display_title_short: US & Vatican
 display_title: US & Vatican
 heading_title: How Did the Magenta Object Allegedly Reach the US?
@@ -195,20 +195,20 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Magenta Crash1933
+parent_title: Magenta Crash 1933
 parent_permalink: /magenta-italy-crash-1933/
-parent_nav_short_title: Magenta Crash1933
+parent_nav_short_title: Magenta Crash 1933
 parent_heading_title: What Really Happened During the Magenta Italy UFO Crash?
 ancestor_links:
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 breadcrumb_links:
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 sibling_links:
 - basename: Magenta_Italy_crash_5ee1aa_cabinet_rs33_operati_1b86b0
   title: Cabinet RS 33 | What Really Happened During the Magenta Italy UFO Crash?
@@ -222,16 +222,16 @@ sibling_links:
   heading_title: What Evidence Supports the Magenta Crash Claims?
 up_link:
   basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 prev_link:
   basename: Magenta_Italy_crash_5ee1aa_magenta_documentary_ae06ee
   title: Evidence & Documents | What Really Happened During the Magenta Italy UFO Crash?
   permalink: /evidence-documents/
   short_title: Evidence & Documents
   heading_title: What Evidence Supports the Magenta Crash Claims?
-date: '2026-06-08 23:41:39 '
+date: '2026-06-11 13:24:37 '
 header:
   og_image: /assets/images/Magenta_Italy_crash_5ee1aa_us_vatican_magenta_bf3491-Illustration-1-social.jpg
   preview_image: /assets/images/Magenta_Italy_crash_5ee1aa_us_vatican_magenta_bf3491-Illustration-1.webp
@@ -240,8 +240,7 @@ image: /assets/images/Magenta_Italy_crash_5ee1aa_us_vatican_magenta_bf3491-Illus
 
 ## Introduction
 
-The most controversial part of the 1933 Magenta story is not the alleged crash itself, but the claim that the recovered object ultimately passed from Fascist Italy into American control with quiet Vatican assistance. In modern retellings, the narrative usually follows the same broad outline: Benito Mussolini’s government allegedly concealed and studied the object during the 1930s, Pope Pius XII later informed the United States about it through unofficial channels, and American forces obtained the material during the collapse of Fascist Italy near the end of the Second World War. These claims gained international visibility after former US intelligence officer David Grusch repeated versions of the story in 2023. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2023/06/13/pentagon-whistleblower-claims-vatican-helped-us-retrive-ufo-from-mussolini/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">pentagon whistleblower claims vatican helped us retrive ufo from mussolini</span><span class="citation-popover-snippet">New York PostPentagon whistleblower claims Vatican helped US retrieve...13 Jun 2023 — The so-called whistleblower claimed that the Vatic...</span></span></span> Wikipedia What makes this branch of the Magenta case distinctive is that it attempts to connect three powerful institutions into one continuous chain: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span> Fascist intelligence structures, wartime Vatican diplomacy, and post-war American military secrecy. Yet the evidence for this alleged transfer remains far thinner than the dramatic narrative suggests. No authenticated Vatican archive, declassified US recovery report, or verified military transport record has been publicly produced. The entire post-war transfer story still rests largely on second-hand testimony, anonymous documents, later UFO literature, and inference layered onto real historical relationships between the Vatican and Allied intelligence services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedeaconsbench.com/a-vatican-ufo-cover-up/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedeaconsbench.com">[Deacon Greg Kandra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedeaconsbench.com</span><span class="citation-popover-title">Deacon Greg Kandra A Vatican &#x27;UFO cover-up&#x27;?</span><span class="citation-popover-snippet">Deacon Greg Kandra2 Aug 2023 —... claims about the U.S. government&#x27;s knowledge and handling of contact with alien.... Vatican|Comments...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo hearing update congress whistleblower</span><span class="citation-popover-snippet">UFO hearing key takeaways: cover-up claims and...26 Jul 2023 — As the hearing unfolded there were no new revelations about aliens, but t...</span></span></span>
-
+The most controversial part of the 1933 Magenta story is not the alleged crash itself, but the claim that the recovered object ultimately passed from Fascist Italy into American control with quiet Vatican assistance. In modern retellings, the narrative usually follows the same broad outline: Benito Mussolini’s government allegedly concealed and studied the object during the 1930s, Pope Pius XII later informed the United States about it through unofficial channels, and American forces obtained the material during the collapse of Fascist Italy near the end of the Second World War. These claims gained international visibility after former US intelligence officer David Grusch repeated versions of the story in 2023. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2023/06/13/pentagon-whistleblower-claims-vatican-helped-us-retrive-ufo-from-mussolini/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">pentagon whistleblower claims vatican helped us retrive ufo from mussolini</span><span class="citation-popover-snippet">New York PostPentagon whistleblower claims Vatican helped US retrieve...13 Jun 2023 — The so-called whistleblower claimed that the Vatic...</span></span></span> Wikipedia What makes this branch of the Magenta case distinctive is that it attempts to connect three powerful institutions into one continuous chain: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span> Fascist intelligence structures, wartime Vatican diplomacy, and post-war American military secrecy. Yet the evidence for this alleged transfer remains far thinner than the dramatic narrative suggests. No authenticated Vatican archive, declassified US recovery report, or verified military transport record has been publicly produced. The entire post-war transfer story still rests largely on second-hand testimony, anonymous documents, later UFO literature, and inference layered onto real historical relationships between the Vatican and Allied intelligence services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedeaconsbench.com/a-vatican-ufo-cover-up/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedeaconsbench.com">[Deacon Greg Kandra]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedeaconsbench.com</span><span class="citation-popover-title">Deacon Greg Kandra A Vatican &#x27;UFO cover-up&#x27;?</span><span class="citation-popover-snippet">Deacon Greg Kandra2 Aug 2023 —... claims about the U.S. government&#x27;s knowledge and handling of contact with alien.... Vatican&#124;Comments...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo hearing update congress whistleblower</span><span class="citation-popover-snippet">UFO hearing key takeaways: cover-up claims and...26 Jul 2023 — As the hearing unfolded there were no new revelations about aliens, but t...</span></span></span>
 
 <img src="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_us_vatican_magenta_bf3491-Illustration-1-dark.svg" | relative_url }}" alt="US &amp; Vatican illustration 1" data-theme-src-dark="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_us_vatican_magenta_bf3491-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_us_vatican_magenta_bf3491-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Vatican Became Central to the Story
@@ -249,7 +248,6 @@ The most controversial part of the 1933 Magenta story is not the alleged crash i
 The Vatican connection emerged because the Magenta narrative needed a plausible mechanism explaining how a supposedly secret Italian recovery could become known to the United States before the end of the war. Supporters of the theory argue that the Holy See was one of the few institutions capable of maintaining communication across wartime political lines while retaining access to senior Italian officials.
 
 In the standard version popularised by Roberto Pinotti and later echoed by David Grusch, Pope Pius XII allegedly learned of the recovered object and “backchannelled” information to the Americans sometime around 1944 or 1945. Grusch specifically claimed that the Vatican informed the United States about what the Italians possessed, allowing American personnel to “scoop” the object during the Allied advance into Italy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2023/06/13/pentagon-whistleblower-claims-vatican-helped-us-retrive-ufo-from-mussolini/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">pentagon whistleblower claims vatican helped us retrive ufo from mussolini</span><span class="citation-popover-snippet">New York PostPentagon whistleblower claims Vatican helped US retrieve...13 Jun 2023 — The so-called whistleblower claimed that the Vatic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2023/06/13/pentagon-whistleblower-claims-vatican-helped-us-retrive-ufo-from-mussolini/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-title">pentagon whistleblower claims vatican helped us retrive ufo from mussolini</span><span class="citation-popover-snippet">New York PostPentagon whistleblower claims Vatican helped US retrieve...13 Jun 2023 — The so-called whistleblower claimed that the Vatic...</span></span></span> Wikipedia This element of the story appeals to some researchers because it overlaps with genuine wartime history: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -278,7 +276,6 @@ David Grusch’s 2023 statements helped push this part of the story into mainstr
 
 The difficulty is that almost every operational detail remains vague:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * No transport manifests have been released.
@@ -291,7 +288,6 @@ The difficulty is that almost every operational detail remains vague:
 
 Because of those gaps, sceptics argue that the transfer story functions more as a narrative bridge than as a documented historical event. It explains how the alleged object could become part of later American UFO mythology, but it does not independently demonstrate that the transfer occurred.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W_amIBrImoQ" title="Vatican Linked To First UFO Crash? Pentagon Whistleblower Shocks World | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W_amIBrImoQ" target="_blank" rel="noopener noreferrer">Vatican Linked To First UFO Crash? Pentagon Whistleblower Shocks World | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 1.9K &middot; Uploaded: December 2025 &middot; Length: 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W_amIBrImoQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W_amIBrImoQ">Open on YouTube</a></p></div></div></div>
 
 ### Why the Story Resonates With Existing UFO Lore
@@ -299,7 +295,6 @@ Because of those gaps, sceptics argue that the transfer story functions more as 
 The post-war transfer claim gained traction partly because it aligns neatly with broader UFO retrieval narratives already established in American culture. In many modern UFO accounts, the United States is portrayed as inheriting secret Axis or foreign technologies after the war through intelligence operations, captured scientists and military seizures.
 
 There is a real historical basis for some of that background:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -315,7 +310,6 @@ Within that context, a hidden retrieval of unconventional craft material can app
 
 The central weakness of the Vatican-and-US-transfer story is the absence of primary documentation. Most public discussion traces back to a relatively small cluster of sources:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Roberto Pinotti’s publications and interviews.
@@ -328,7 +322,6 @@ The central weakness of the Vatican-and-US-transfer story is the absence of prim
 Even Grusch did not claim direct personal involvement or firsthand observation of the alleged 1940s recovery. His statements were framed as information relayed to him through classified channels and interviews with unnamed individuals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
 This distinction matters because it places the Magenta transfer story several layers away from direct evidence:
-
 
 <img src="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_us_vatican_magenta_bf3491-Illustration-2-dark.svg" | relative_url }}" alt="US &amp; Vatican illustration 2" data-theme-src-dark="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_us_vatican_magenta_bf3491-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_us_vatican_magenta_bf3491-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -351,7 +344,6 @@ However, archival speculation cuts both ways. Historians point out that an opera
 
 Sceptics also caution against treating inaccessible archives as implied proof. Unknown documents cannot be used as evidence until they are authenticated and examined publicly.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PiPeptPgLYs" title="The Magenta Project: The 1933 Italy UFO Crash-Retrieval That Changed the World -- Updated Supercut" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PiPeptPgLYs" target="_blank" rel="noopener noreferrer">The Magenta Project: The 1933 Italy UFO Crash-Retrieval That Changed the World -- Updated Supercut</a></p><p class="youtube-embed-meta">Channel: The Magenta Project - The 1933 UFO Crash in Italy &middot; Views: 7.2K &middot; Uploaded: September 2024 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PiPeptPgLYs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PiPeptPgLYs">Open on YouTube</a></p></div></div></div>
 
 ## How Critics Assess the Vatican Narrative
@@ -368,7 +360,6 @@ That delayed emergence raises questions about provenance and possible retroactiv
 
 Critics argue that the story often combines genuine historical institutions with unsupported leaps:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The Vatican really did maintain intelligence contacts.
@@ -378,7 +369,6 @@ Critics argue that the story often combines genuine historical institutions with
 </div>
 
 But none of those facts independently support the existence of a recovered non-human craft.
-
 
 <img src="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_us_vatican_magenta_bf3491-Illustration-3-dark.svg" | relative_url }}" alt="US &amp; Vatican illustration 3" data-theme-src-dark="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_us_vatican_magenta_bf3491-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Magenta_Italy_crash_5ee1aa_us_vatican_magenta_bf3491-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Grusch Added Visibility, Not Verification
@@ -403,49 +393,89 @@ At the same time, the Magenta transfer narrative illustrates a broader pattern i
 
 For now, the alleged Vatican role and post-war American retrieval remain claims rather than established historical facts. The narrative is culturally influential within modern UFO discourse, but the public record still lacks the authenticated archives, contemporaneous testimony and physical evidence needed to move it beyond the level of disputed allegation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TcINnCwBM3o" title="The Vatican’s “difficult&quot; position on discussing UFOs: Coulthart | Banfield" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TcINnCwBM3o" target="_blank" rel="noopener noreferrer">The Vatican’s “difficult&quot; position on discussing UFOs: Coulthart | Banfield</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 352.9K &middot; Uploaded: August 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TcINnCwBM3o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TcINnCwBM3o">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Did the Magenta Object Allegedly Reach the US?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Did the Magenta Object Allegedly Reach the US?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO Lore guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+Lore+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Traces the structural history of post-war military transfers, providing a baseline to check against the David Grusch 2023 testimony updates.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides an encyclopedic overview of the secondary literature tracking the purported transfer of the Lombardy object to American control.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Examines why second-hand statements connecting multiple massive institutions into a single chain fail to satisfy formal evidence rules.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Deconstructs why inferences layered onto real historical relationships are frequently mistaken for verified factual proof in popular media.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -482,15 +512,15 @@ For now, the alleged Vatican role and post-war American retrieval remain claims 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +528,15 @@ For now, the alleged Vatican role and post-war American retrieval remain claims 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +544,15 @@ For now, the alleged Vatican role and post-war American retrieval remain claims 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,15 +560,15 @@ For now, the alleged Vatican role and post-war American retrieval remain claims 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -546,7 +576,7 @@ For now, the alleged Vatican role and post-war American retrieval remain claims 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="us-vatican-how-did-the-magenta-object-allegedly-reach-the-us-magenta-italy-crash-1933-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="how-did-the-magenta-object-allegedly-reach-the-us-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -762,54 +792,54 @@ For now, the alleged Vatican role and post-war American retrieval remain claims 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: [https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)  
+   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
 2. <a id="endnote-2"></a>
    Source: usccb.org  
    Title: Angels or aliens?  
-   Link: [https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets](https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets)  
+   Link: <a href="https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.usccb.org/news/2024/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some researchers say Vatican archives...18 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets. Some sci...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO sightings in Italy  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_Italy](https://en.wikipedia.org/wiki/UFO_sightings_in_Italy)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_Italy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_Italy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2007 — In 2000, Roberto Pinotti published material regarding the so-called &quot;Fascist UFO Files&quot;, which dealt with a flying sau...</p></details>
    Published: January 31, 2007  
 
 4. <a id="endnote-4"></a>
    Source: nypost.com  
    Title: pentagon whistleblower claims vatican helped us retrive ufo from mussolini  
-   Link: [https://nypost.com/2023/06/13/pentagon-whistleblower-claims-vatican-helped-us-retrive-ufo-from-mussolini/](https://nypost.com/2023/06/13/pentagon-whistleblower-claims-vatican-helped-us-retrive-ufo-from-mussolini/)  
+   Link: <a href="https://nypost.com/2023/06/13/pentagon-whistleblower-claims-vatican-helped-us-retrive-ufo-from-mussolini/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2023/06/13/pentagon-whistleblower-claims-vatican-helped-us-retrive-ufo-from-mussolini/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New York PostPentagon whistleblower claims Vatican helped US retrieve...13 Jun 2023 — The so-called whistleblower claimed that the Vatic...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: thedeaconsbench.com  
    Title: Deacon Greg Kandra A Vatican 'UFO cover-up'?  
-   Link: [https://thedeaconsbench.com/a-vatican-ufo-cover-up/](https://thedeaconsbench.com/a-vatican-ufo-cover-up/)  
+   Link: <a href="https://thedeaconsbench.com/a-vatican-ufo-cover-up/" target="_blank" rel="noopener noreferrer nofollow">https://thedeaconsbench.com/a-vatican-ufo-cover-up/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deacon Greg Kandra2 Aug 2023 —... claims about the U.S. government&#x27;s knowledge and handling of contact with alien.... Vatican|Comments...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: theguardian.com  
    Title: ufo hearing update congress whistleblower  
-   Link: [https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower](https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower)  
+   Link: <a href="https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing key takeaways: cover-up claims and...26 Jul 2023 — As the hearing unfolded there were no new revelations about aliens, but t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2024/05/17/vatican-to-hold-press-conference-on-apparitions-and-other-supernatural-phenomena/](https://nypost.com/2024/05/17/vatican-to-hold-press-conference-on-apparitions-and-other-supernatural-phenomena/)  
+   Link: <a href="https://nypost.com/2024/05/17/vatican-to-hold-press-conference-on-apparitions-and-other-supernatural-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/05/17/vatican-to-hold-press-conference-on-apparitions-and-other-supernatural-phenomena/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cardinal Víctor Manuel Fernández, Monsignor Armando Matteo, and Sister Daniela Del Gaudio from the Pontifical International Marian Academ...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: catholicreview.org  
    Title: Catholic Review Angels or aliens?  
-   Link: [https://catholicreview.org/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets/](https://catholicreview.org/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets/)  
+   Link: <a href="https://catholicreview.org/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets/" target="_blank" rel="noopener noreferrer nofollow">https://catholicreview.org/angels-or-aliens-some-researchers-say-vatican-archives-hold-ufo-secrets/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some researchers say Vatican archives...15 Jun 2024 — Angels or aliens? Some researchers say Vatican archives hold UFO secrets · Garry N...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
-   Link: [https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch](https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch)  
+   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>US conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David Grusch claims &#x27;non-human&#x27; beings found as issue...</p></details>
 
 ### Additional References
@@ -817,57 +847,57 @@ For now, the alleged Vatican role and post-war American retrieval remain claims 
 10. <a id="endnote-10"></a>
    Source: osvnews.com  
    Title: catholic filmmaker investigates ufo mysteries at the vatican  
-   Link: [https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/](https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/)  
+   Link: <a href="https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/" target="_blank" rel="noopener noreferrer nofollow">https://www.osvnews.com/catholic-filmmaker-investigates-ufo-mysteries-at-the-vatican/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Nov 2025 — As detailed by former intelligence official David Grusch in 2023 congressional testimony, the allegation holds that Pope Pi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: integrityline.com  
    Title: ufo whistleblowers extraordinary congressional hearing  
-   Link: [https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/](https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/)  
+   Link: <a href="https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch and his Extraordinary Congressional HearingMar 5, 2024 — In June 2023, Grusch publicly claimed that unnamed officials inform...</p></details>
    Published: June 2023  
 
 12. <a id="endnote-12"></a>
    Source: dcgary.org  
    Title: catholic filmmaker investigates ufo mysteries vatican  
-   Link: [https://dcgary.org/news/catholic-filmmaker-investigates-ufo-mysteries-vatican](https://dcgary.org/news/catholic-filmmaker-investigates-ufo-mysteries-vatican)  
+   Link: <a href="https://dcgary.org/news/catholic-filmmaker-investigates-ufo-mysteries-vatican" target="_blank" rel="noopener noreferrer nofollow">https://dcgary.org/news/catholic-filmmaker-investigates-ufo-mysteries-vatican</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he trusted in the military that the U.S. government has recovered crashed UFOs.... &quot;UFO people are on the margins,&quot; Sorich said. &quot;They&#x27;v...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/](https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14df150/whistleblower_david_grusch_and_the_italian_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lation that Mussolini&#x27;s government retrieved a crashed UFO/UAP in 1933.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: david gruschs most overlooked statement the 1933  
-   Link: [https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/](https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fi5qwu/david_gruschs_most_overlooked_statement_the_1933/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 UFO Recovery from Magenta Italy Was Not...r/aliens - Fascinating dive into paper trail of Magenta Italy 1933 UFO crash retrieva...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: the magenta project the 1933 magenta italy ufo  
-   Link: [https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/](https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fraqyk/the_magenta_project_the_1933_magenta_italy_ufo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1933 Magenta, Italy UFO Crash-Retrieval That...David Grusch&#x27;s Most Overlooked Statement - The 1933 UFO Recovery from Magenta Italy W...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1bwd87g/the_magenta_crash_1933_was_information_of_the/](https://www.reddit.com/r/UFOB/comments/1bwd87g/the_magenta_crash_1933_was_information_of_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1bwd87g/the_magenta_crash_1933_was_information_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1bwd87g/the_magenta_crash_1933_was_information_of_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Magenta Crash 1933: Was information of the event “...The Magenta Crash 1933: Was information of the event “the pistol held to the he...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=W_amIBrImoQ](https://www.youtube.com/watch?v=W_amIBrImoQ)  
+   Link: <a href="https://www.youtube.com/watch?v=W_amIBrImoQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W_amIBrImoQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Jesus an alien? Pope Francis&#x27; interest in UAPs explained | Reality Check with Ross Coulthart...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: brobible.com  
    Title: researcher proof 1933 ufo crash italy  
-   Link: [https://brobible.com/culture/article/researcher-proof-1933-ufo-crash-italy/](https://brobible.com/culture/article/researcher-proof-1933-ufo-crash-italy/)  
+   Link: <a href="https://brobible.com/culture/article/researcher-proof-1933-ufo-crash-italy/" target="_blank" rel="noopener noreferrer nofollow">https://brobible.com/culture/article/researcher-proof-1933-ufo-crash-italy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researcher Provides Proof Of 1933 UFO Crash In Northern...5 Jul 2023 — Researcher Roberto Pinotti has presented what he believes is proo...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: indy100.com  
    Title: ufo whistleblower vatican aliens  
-   Link: [https://www.indy100.com/science-tech/ufo-whistleblower-vatican-aliens](https://www.indy100.com/science-tech/ufo-whistleblower-vatican-aliens)  
+   Link: <a href="https://www.indy100.com/science-tech/ufo-whistleblower-vatican-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.indy100.com/science-tech/ufo-whistleblower-vatican-aliens</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO whistleblower claims Vatican is covering up proof of...5 Aug 2023 — UFO whistleblower David Grusch has claimed In a NewsNation inter...</p></details>

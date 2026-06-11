@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /clyde-tombaugh-sighting-1949/
 nav_short_title: Witness Account
 title: Why Tombaugh's Testimony Still Matters
-title_full: Why Tombaugh's Testimony Still Matters | Tombaugh Sighting
+title_full: Why Tombaugh's Testimony Still Matters
 display_title_short: Witness Account
 display_title: Witness Account
 heading_title: Why Tombaugh's Testimony Still Matters
@@ -233,7 +233,7 @@ prev_link:
   permalink: /retellings/
   short_title: Retellings
   heading_title: How a Faint Sighting Became a UFO Ship
-date: '2026-06-08 23:26:11 '
+date: '2026-06-11 13:16:14 '
 header:
   og_image: /assets/images/Clyde_Tombaugh_sight_af62cd_witness_account_ce0c78-Illustration-1-social.jpg
   preview_image: /assets/images/Clyde_Tombaugh_sight_af62cd_witness_account_ce0c78-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/Clyde_Tombaugh_sight_af62cd_witness_account_ce0c78-Illustr
 ## Introduction
 
 Clyde Tombaugh’s 1949 UFO sighting remains notable less because of what was seen than because of who reported it. Tombaugh was not a casual observer scanning the sky for mysteries. He was the astronomer who discovered Pluto, a lifelong telescope maker, and an experienced observer working around optical tracking and missile instrumentation in New Mexico. When he described a fleeting formation of dim rectangular lights crossing the sky near Las Cruces on 20 August 1949, researchers immediately treated the account differently from the flood of ordinary post-war flying saucer reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/66639/pg66639-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe World of Flying SaucersThe witness was an astronomer, Clyde Tombaugh, at that time in charge of the optical instrume...</span></span></span>
-
 
 <img src="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_witness_account_ce0c78-Illustration-1-dark.svg" | relative_url }}" alt="Witness Account illustration 1" data-theme-src-dark="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_witness_account_ce0c78-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_witness_account_ce0c78-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The case still matters because it sits in an uncomfortable middle ground. Tombaugh was widely regarded as technically competent, cautious, and reluctant to exaggerate. At the same time, the observation was extremely brief, left no physical evidence, and never led Tombaugh himself to conclude that he had seen extraterrestrial spacecraft. His testimony therefore became important not as proof of alien visitation, but as an example of how even highly trained observers can encounter genuinely puzzling aerial phenomena that resist easy identification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Clyde_Tombaugh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Clyde Tombaugh</span><span class="citation-popover-snippet">Clyde Tombaugh</span></span></span>
@@ -255,7 +254,6 @@ The core sighting occurred outside Tombaugh’s home in Las Cruces, New Mexico, 
 According to the most detailed surviving descriptions, the formation crossed the sky silently in about three seconds. Tombaugh estimated that the group occupied roughly one degree of sky, making it visually modest rather than spectacular. He described the lights as yellowish-green or bluish-green, with the colour fading as the formation moved away from the zenith toward the south-southeast horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pluto" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PlutoPluto was discovered in 1930 by Clyde W. Tombaugh, making it the first known object in the Kuiper belt. It was immediately hailed...</span></span></span>
 
 Several details in Tombaugh’s own wording are important because they cut against later sensational [retellings]({{ 'retellings/' | relative_url }}):
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -281,7 +279,6 @@ On one hand, it weakens the idea of a perfectly clear, objectively structured cr
 
 Importantly, there is no evidence that the witnesses collaborated on an elaborate story after the fact. The surviving accounts are generally consistent on the essentials:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * a brief nocturnal aerial phenomenon,
@@ -296,7 +293,7 @@ That consistency helped preserve the case as one of the more respectable witness
 
 ## Why His Astronomy Background Changes the Case
 
-Tombaugh’s professional background is the single biggest reason the sighting survived in UFO literature for decades. He was already internationally known for discovering Pluto in 1930 after painstaking photographic comparisons at Lowell Observatory. That work required exceptional visual patience, familiarity with celestial motion, and the ability to detect tiny anomalies amid crowded star fields. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/biography/Clyde-Tombaugh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaClyde Tombaugh | Discoverer of Pluto, American AstronomerClyde Tombaugh was an American astronomer who discovered...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planetary.org/articles/pluto-discovery-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetary.org">[The Planetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetary.org</span><span class="citation-popover-title">pluto discovery 4</span><span class="citation-popover-snippet">The Planetary SocietyThe Discovery of a Planet, Part 4: Clyde&#x27;s Search15 Feb 2005 — In 1928 twenty two year old Clyde Tombaugh lived on a...</span></span></span>
+Tombaugh’s professional background is the single biggest reason the sighting survived in UFO literature for decades. He was already internationally known for discovering Pluto in 1930 after painstaking photographic comparisons at Lowell Observatory. That work required exceptional visual patience, familiarity with celestial motion, and the ability to detect tiny anomalies amid crowded star fields. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.britannica.com/biography/Clyde-Tombaugh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britannica.com">[Encyclopedia Britannica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britannica.com</span><span class="citation-popover-snippet">Encyclopedia BritannicaClyde Tombaugh &#124; Discoverer of Pluto, American AstronomerClyde Tombaugh was an American astronomer who discovered...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planetary.org/articles/pluto-discovery-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetary.org">[The Planetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetary.org</span><span class="citation-popover-title">pluto discovery 4</span><span class="citation-popover-snippet">The Planetary SocietyThe Discovery of a Planet, Part 4: Clyde&#x27;s Search15 Feb 2005 — In 1928 twenty two year old Clyde Tombaugh lived on a...</span></span></span>
 
 By 1949 he was also connected to optical instrumentation work around White Sands Missile Range in New Mexico, placing him in an environment where sky observation and tracking accuracy mattered professionally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/66639/pg66639-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">Project GutenbergThe World of Flying SaucersThe witness was an astronomer, Clyde Tombaugh, at that time in charge of the optical instrume...</span></span></span>
 
@@ -314,12 +311,10 @@ One of the strongest indicators of credibility is that Tombaugh resisted dramati
 
 This matters because it separates his testimony from later UFO mythology built around it. Tombaugh became a credible witness partly because he behaved like a cautious astronomer rather than an evangelist for flying saucers.
 
-
 <img src="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_witness_account_ce0c78-Illustration-2-dark.svg" | relative_url }}" alt="Witness Account illustration 2" data-theme-src-dark="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_witness_account_ce0c78-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_witness_account_ce0c78-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### He immediately recognised the observational limits
 
 Tombaugh repeatedly acknowledged the weaknesses of his own evidence:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -339,7 +334,6 @@ The central paradox of the Tombaugh sighting is that the witness appears unusual
 
 Supporters of the case argue that:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Tombaugh’s expertise rules out many ordinary astronomical mistakes,
@@ -351,7 +345,6 @@ Supporters of the case argue that:
 </div>
 
 Sceptics counter that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -366,7 +359,6 @@ The sceptical position gained extra weight because Tombaugh himself leaned towar
 
 That point is frequently omitted in popular retellings. Modern summaries often present Tombaugh as an astronomer who “believed in UFO spacecraft”, when his surviving comments show something more restrained: he believed he had seen a genuine unexplained aerial phenomenon, but not necessarily an extraterrestrial machine.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/425l9_6ARjE" title="DEAN - bonnie &amp; clyde Music Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=425l9_6ARjE" target="_blank" rel="noopener noreferrer">DEAN - bonnie &amp; clyde Music Video</a></p><p class="youtube-embed-meta">Channel: DEANTRBL &middot; Views: 8.2M &middot; Uploaded: March 2016 &middot; Length: 3 minutes 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=425l9_6ARjE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=425l9_6ARjE">Open on YouTube</a></p></div></div></div>
 
 ## How Later Retellings Distorted the Original Account
@@ -376,7 +368,6 @@ Over time, the Tombaugh sighting accumulated exaggerations common in UFO folklor
 Another distortion involves certainty. Tombaugh’s own account contains repeated qualifiers and cautious language. He described what he saw as strange and unprecedented in his experience, but he did not claim complete confidence about its nature.
 
 This difference matters historically because the case is often invoked as “proof” that professional astronomers secretly accepted extraterrestrial spacecraft. In reality, Tombaugh’s position was more nuanced:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -388,7 +379,6 @@ This difference matters historically because the case is often invoked as “pro
 </div>
 
 That balanced stance is arguably what preserved his credibility. He neither retracted the event nor inflated it beyond the available evidence.
-
 
 <img src="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_witness_account_ce0c78-Illustration-3-dark.svg" | relative_url }}" alt="Witness Account illustration 3" data-theme-src-dark="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_witness_account_ce0c78-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Clyde_Tombaugh_sight_af62cd_witness_account_ce0c78-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Testimony Still Carries Weight
@@ -406,44 +396,86 @@ For UFO proponents, the case demonstrates that experienced observers sometimes e
 That tension is why Tombaugh’s testimony still matters more than many better-known UFO stories. The value of the case lies not in dramatic certainty, but in the uncomfortable possibility that a careful astronomer honestly witnessed something real that was never adequately identified.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why Tombaugh&#x27;s Testimony Still Matters, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why Tombaugh&#x27;s Testimony Still Matters. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Clyde Tombaugh guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Clyde+Tombaugh+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Includes the direct report of Clyde Tombaugh, his family&#x27;s witness presence, and the initial intelligence response for his case.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Patricia Tombaugh guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Patricia+Tombaugh+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Documents the 1949 sighting, comparing the technical observations against Tombaugh&#x27;s actual descriptive wording vs. popular later summaries.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Las Cruces guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Las+Cruces+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Details why the reputation and technical expertise of a witness cannot independently validate an optical phenomenon as an interstellar sp...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Explains why the military investigation of a prominent astronomer provided a crucial data point for early Cold War reporting trends.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -480,15 +512,15 @@ That tension is why Tombaugh’s testimony still matters more than many better-k
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anime Posters Wall Art Best Of 2023 Manga Series Wall Art Poster Print Animation"><img src="https://i.ebayimg.com/images/g/aPcAAeSwpd9o-mvY/s-l225.jpg" alt="Listing image for Anime Posters Wall Art Best Of 2023 Manga Series Wall Art Poster Print Animation" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" target="_blank" rel="sponsored noopener noreferrer">Anime Posters Wall Art Best Of 2023 Manga Series Wall Art Poster Print Animation</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Pluto poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Pluto poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -496,15 +528,15 @@ That tension is why Tombaugh’s testimony still matters more than many better-k
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pluto Dwarf Planet Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/6oQAAeSwqHdpYAQI/s-l225.jpg" alt="Listing image for Pluto Dwarf Planet Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" target="_blank" rel="sponsored noopener noreferrer">Pluto Dwarf Planet Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Pluto poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Pluto poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -512,15 +544,15 @@ That tension is why Tombaugh’s testimony still matters more than many better-k
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PLUTO BARATTI &amp; MILANO VINTAGE POSTER 100x140 OFFER"><img src="https://i.ebayimg.com/images/g/PsQAAeSwUMRpg2oR/s-l225.jpg" alt="Listing image for PLUTO BARATTI &amp; MILANO VINTAGE POSTER 100x140 OFFER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" target="_blank" rel="sponsored noopener noreferrer">PLUTO BARATTI &amp; MILANO VINTAGE POSTER 100x140 OFFER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Pluto poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Pluto poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +560,15 @@ That tension is why Tombaugh’s testimony still matters more than many better-k
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Planet Pluto Art Print Poster Milky Way Solar System Space Picture A4 A3 A2 A1"><img src="https://i.ebayimg.com/images/g/ltgAAeSwbkZpCn7Z/s-l225.jpg" alt="Listing image for Planet Pluto Art Print Poster Milky Way Solar System Space Picture A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" target="_blank" rel="sponsored noopener noreferrer">Planet Pluto Art Print Poster Milky Way Solar System Space Picture A4 A3 A2 A1</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Pluto poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Pluto poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,7 +576,7 @@ That tension is why Tombaugh’s testimony still matters more than many better-k
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witness-account-why-tombaugh-s-testimony-still-matters-clyde-tombaugh-sighting-1949-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Pluto+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-tombaugh-s-testimony-still-matters-pluto-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Pluto poster" data-ebay-reference="why-tombaugh-s-testimony-still-matters-pluto-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -760,132 +792,132 @@ That tension is why Tombaugh’s testimony still matters more than many better-k
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Clyde Tombaugh  
-   Link: [https://en.wikipedia.org/wiki/Clyde_Tombaugh](https://en.wikipedia.org/wiki/Clyde_Tombaugh)  
+   Link: <a href="https://en.wikipedia.org/wiki/Clyde_Tombaugh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Clyde_Tombaugh</a>  
 
 2. <a id="endnote-2"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/66639/pg66639-images.html](https://www.gutenberg.org/cache/epub/66639/pg66639-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/66639/pg66639-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/66639/pg66639-images.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project GutenbergThe World of Flying SaucersThe witness was an astronomer, Clyde Tombaugh, at that time in charge of the optical instrume...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/biography/Clyde-Tombaugh](https://www.britannica.com/biography/Clyde-Tombaugh)  
+   Link: <a href="https://www.britannica.com/biography/Clyde-Tombaugh" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/biography/Clyde-Tombaugh</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaClyde Tombaugh | Discoverer of Pluto, American AstronomerClyde Tombaugh was an American astronomer who discovered...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: planetary.org  
    Title: pluto discovery 4  
-   Link: [https://www.planetary.org/articles/pluto-discovery-4](https://www.planetary.org/articles/pluto-discovery-4)  
+   Link: <a href="https://www.planetary.org/articles/pluto-discovery-4" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/articles/pluto-discovery-4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Planetary SocietyThe Discovery of a Planet, Part 4: Clyde&#x27;s Search15 Feb 2005 — In 1928 twenty two year old Clyde Tombaugh lived on a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: lowell.edu  
    Title: Observatory This Week in Astronomy History: Feb  
-   Link: [https://lowell.edu/this-week-in-astronomy-history-feb-15-21/](https://lowell.edu/this-week-in-astronomy-history-feb-15-21/)  
+   Link: <a href="https://lowell.edu/this-week-in-astronomy-history-feb-15-21/" target="_blank" rel="noopener noreferrer nofollow">https://lowell.edu/this-week-in-astronomy-history-feb-15-21/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>15-2116 Feb 2021 — On February 18, 1930, newly-minted, 24-year-old astronomer Clyde Tombaugh spotted what was then referred to as Planet...</p></details>
    Published: February 18, 1930  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Clyde](https://en.wikipedia.org/wiki/Clyde)  
+   Link: <a href="https://en.wikipedia.org/wiki/Clyde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Clyde</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ClydeAustralia · Clyde, New South Wales, a suburb of Sydney · Clyde County, New South Wales, a cadastral division · Clyde, Victoria, a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Pluto](https://en.wikipedia.org/wiki/Pluto)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pluto" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pluto</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PlutoPluto was discovered in 1930 by Clyde W. Tombaugh, making it the first known object in the Kuiper belt. It was immediately hailed...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: lowell.edu  
-   Link: [https://lowell.edu/discover/history-of-pluto/](https://lowell.edu/discover/history-of-pluto/)  
+   Link: <a href="https://lowell.edu/discover/history-of-pluto/" target="_blank" rel="noopener noreferrer nofollow">https://lowell.edu/discover/history-of-pluto/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pluto and Lowell ObservatoryNOFS astronomer Anthony Hewitt took the requested Pluto images on April 13 and May 12, 1978, capturing them...</p></details>
    Published: May 12, 1978  
 
 9. <a id="endnote-9"></a>
    Source: lowell.edu  
-   Link: [https://lowell.edu/discover/telescopes-exhibits/pluto-discovery-telescope/](https://lowell.edu/discover/telescopes-exhibits/pluto-discovery-telescope/)  
+   Link: <a href="https://lowell.edu/discover/telescopes-exhibits/pluto-discovery-telescope/" target="_blank" rel="noopener noreferrer nofollow">https://lowell.edu/discover/telescopes-exhibits/pluto-discovery-telescope/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pluto Discovery TelescopeReviewing a set of glass negatives on February 18, 1930, observatory assistant Clyde Tombaugh made the first rec...</p></details>
    Published: February 18, 1930  
 
 10. <a id="endnote-10"></a>
    Source: planetary.org  
-   Link: [https://www.planetary.org/articles/pluto-discovery-0](https://www.planetary.org/articles/pluto-discovery-0)  
+   Link: <a href="https://www.planetary.org/articles/pluto-discovery-0" target="_blank" rel="noopener noreferrer nofollow">https://www.planetary.org/articles/pluto-discovery-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pluto: The Discovery of a PlanetRead here how Clyde Tombaugh, a farm boy from Kansas with a high school education, succeeded where accomp...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: astronomy.com  
-   Link: [https://www.astronomy.com/science/young-clyde-tombaugh-how-a-midwestern-farmboy-set-a-course-for-pluto/](https://www.astronomy.com/science/young-clyde-tombaugh-how-a-midwestern-farmboy-set-a-course-for-pluto/)  
+   Link: <a href="https://www.astronomy.com/science/young-clyde-tombaugh-how-a-midwestern-farmboy-set-a-course-for-pluto/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/young-clyde-tombaugh-how-a-midwestern-farmboy-set-a-course-for-pluto/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Young Clyde Tombaugh: How a Midwestern farmboy set...18 May 2015 — Clyde Tombaugh learned the value of hard work working on his family&#x27;s...</p></details>
    Published: May 2015  
 
 12. <a id="endnote-12"></a>
    Source: cloudynights.com  
    Title: Clyde Tombaugh  
-   Link: [https://www.cloudynights.com/topic/661909-clyde-tombaugh/](https://www.cloudynights.com/topic/661909-clyde-tombaugh/)  
+   Link: <a href="https://www.cloudynights.com/topic/661909-clyde-tombaugh/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/topic/661909-clyde-tombaugh/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Outreach20 May 2019 — I was not at Stellafane 1988, but some of my friends were. There is a copy of that poster, with Clyde&#x27;s autograph o...</p></details>
    Published: May 2019  
 
 13. <a id="endnote-13"></a>
    Source: explorescientific.com  
    Title: Clyde Tombaugh  
-   Link: [https://explorescientific.com/pages/clyde-tombaugh-explore-alliance?srsltid=AfmBOoraL6_Nqqf3vqHtH8Hncxee0wBSvWSBTdNiry4jRZBgiaQT_OwR](https://explorescientific.com/pages/clyde-tombaugh-explore-alliance?srsltid=AfmBOoraL6_Nqqf3vqHtH8Hncxee0wBSvWSBTdNiry4jRZBgiaQT_OwR)  
+   Link: <a href="https://explorescientific.com/pages/clyde-tombaugh-explore-alliance?srsltid=AfmBOoraL6_Nqqf3vqHtH8Hncxee0wBSvWSBTdNiry4jRZBgiaQT_OwR" target="_blank" rel="noopener noreferrer nofollow">https://explorescientific.com/pages/clyde-tombaugh-explore-alliance?srsltid=AfmBOoraL6_Nqqf3vqHtH8Hncxee0wBSvWSBTdNiry4jRZBgiaQT_OwR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore AllianceClyde William Tombaugh was a distinguished American astronomer known for his groundbreaking discovery of Pluto in 1930.Re...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: secilib.e-pustakalaya.com  
-   Link: [https://www.secilib.e-pustakalaya.com/UPLOADED/DIRPDF/pdf583.pdf](https://www.secilib.e-pustakalaya.com/UPLOADED/DIRPDF/pdf583.pdf)  
+   Link: <a href="https://www.secilib.e-pustakalaya.com/UPLOADED/DIRPDF/pdf583.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.secilib.e-pustakalaya.com/UPLOADED/DIRPDF/pdf583.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pluto - Index ofThis book presents the long and fascinating history of searches of trans- Neptunian space by Percival Lowell and his coll...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2502.06794v2](https://arxiv.org/html/2502.06794v2)  
+   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Michael Swords, Western Michigan University. Report issue for preceding element. Dr. Michael D.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/Clyde](https://www.merriam-webster.com/dictionary/Clyde)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/Clyde" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/Clyde</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CLYDE Definition &amp; Meaningriver 106 miles (171 kilometers) long in southwestern Scotland flowing northwest into the Firth of Clyde (its e...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nmspacemuseum.org  
-   Link: [https://nmspacemuseum.org/inductee/clyde-w-tombaugh/](https://nmspacemuseum.org/inductee/clyde-w-tombaugh/)  
+   Link: <a href="https://nmspacemuseum.org/inductee/clyde-w-tombaugh/" target="_blank" rel="noopener noreferrer nofollow">https://nmspacemuseum.org/inductee/clyde-w-tombaugh/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/royalmuseumsgreenwich/posts/on-february-18-1930-clyde-tombaugh-discovered-pluto-at-the-lowell-observatory-in/1042327107930202/](https://www.facebook.com/royalmuseumsgreenwich/posts/on-february-18-1930-clyde-tombaugh-discovered-pluto-at-the-lowell-observatory-in/1042327107930202/)  
+   Link: <a href="https://www.facebook.com/royalmuseumsgreenwich/posts/on-february-18-1930-clyde-tombaugh-discovered-pluto-at-the-lowell-observatory-in/1042327107930202/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalmuseumsgreenwich/posts/on-february-18-1930-clyde-tombaugh-discovered-pluto-at-the-lowell-observatory-in/1042327107930202/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>🔭On February 18 1930, Clyde Tombaugh discovered Pluto...After an exhaustive search by Tombaugh using the 13-inch Lowell Pluto Discovery...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: clydeco.com  
-   Link: [https://www.clydeco.com/es](https://www.clydeco.com/es)  
+   Link: <a href="https://www.clydeco.com/es" target="_blank" rel="noopener noreferrer nofollow">https://www.clydeco.com/es</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeClyde &amp; Co is a dynamic, rapidly expanding global law firm focused on providing a complete legal service to clients in our core secto...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html](https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html)  
+   Link: <a href="https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/ufos-and-abductions-challenging-the-borders-of-knowledge-0700610324.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Swords examines the government&#x27;s initial handling of the UFO... One of the most prolific contributors to the ufology literature is Micha...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop](https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop)  
+   Link: <a href="https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/69518005/Proceedings_of_the_Sign_Historical_Group_UFO_History_Workshop</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ence, less well known, stretching back to the sixteenth century.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: aps.org  
    Title: Clyde Tombaugh's discovery of Pluto announced  
-   Link: [https://www.aps.org/archives/publications/apsnews/200903/physicshistory.cfm](https://www.aps.org/archives/publications/apsnews/200903/physicshistory.cfm)  
+   Link: <a href="https://www.aps.org/archives/publications/apsnews/200903/physicshistory.cfm" target="_blank" rel="noopener noreferrer nofollow">https://www.aps.org/archives/publications/apsnews/200903/physicshistory.cfm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 13, 1930: Clyde Tombaugh&#x27;s discovery of Pluto announced... In early 1930, Pluto was discovered by a farm boy from Kansas with no f...</p></details>
    Published: March 13, 1930  
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/3dig6e/a_few_years_before_his_death_i_wrote_to_clyde/](https://www.reddit.com/r/space/comments/3dig6e/a_few_years_before_his_death_i_wrote_to_clyde/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/3dig6e/a_few_years_before_his_death_i_wrote_to_clyde/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/3dig6e/a_few_years_before_his_death_i_wrote_to_clyde/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rd smudges are from a mail sorting machine or something).Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: frederic-38110.medium.com  
    Title: the discovery of pluto f1c7001daf2e  
-   Link: [https://frederic-38110.medium.com/the-discovery-of-pluto-f1c7001daf2e](https://frederic-38110.medium.com/the-discovery-of-pluto-f1c7001daf2e)  
+   Link: <a href="https://frederic-38110.medium.com/the-discovery-of-pluto-f1c7001daf2e" target="_blank" rel="noopener noreferrer nofollow">https://frederic-38110.medium.com/the-discovery-of-pluto-f1c7001daf2e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery of Pluto - The Friedel Chronicles - MediumIn 1929 Clyde Tombaugh, a 22-year-old amateur astronomer (seen above with a telescope...</p></details>

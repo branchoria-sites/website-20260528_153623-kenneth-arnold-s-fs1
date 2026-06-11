@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /muroc-field-sightings-1947/
 nav_short_title: Timeline
 title: How the Muroc Sightings Unfolded
-title_full: How the Muroc Sightings Unfolded | Muroc Saucers
+title_full: How the Muroc Sightings Unfolded
 display_title_short: Timeline
 display_title: Timeline
 heading_title: How the Muroc Sightings Unfolded
@@ -239,7 +239,7 @@ next_link:
   permalink: /witnesses-ee7e7a/
   short_title: Witnesses
   heading_title: Were the Muroc Witnesses Reliable?
-date: '2026-06-08 23:33:36 '
+date: '2026-06-11 13:20:14 '
 header:
   og_image: /assets/images/Muroc_Field_sighting_a700e4_july_1947_timeline_66b673-Illustration-1-social.jpg
   preview_image: /assets/images/Muroc_Field_sighting_a700e4_july_1947_timeline_66b673-Illustration-1.webp
@@ -248,8 +248,7 @@ image: /assets/images/Muroc_Field_sighting_a700e4_july_1947_timeline_66b673-Illu
 
 ## Introduction
 
-The July 1947 [Muroc Field sightings]({{ 'muroc-field-sightings-1947/' | relative_url }}) were not a single dramatic “flying saucer” event but a chain of observations spread across roughly twenty-four hours at one of the United States’ most sensitive flight-test installations. When the reports are separated by time, location, and witness group, the case becomes easier to follow and easier to evaluate. The sequence began with Major J. C. Wise on 7 July, continued with a cluster of morning observations on 8 July involving several base personnel, and culminated in separate noon-time reports by Colonel Albert Boyd’s test team members Captain John Stapp and Lieutenant Colonel Frederick Shoop. The official paperwork treated these as related but distinct sightings rather than one uninterrupted encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/report-on-the-ufo-wave-of-1947.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">report on the ufo wave of 1947</span><span class="citation-popover-snippet">Case 712 -- July 8, Muroc Air Base, California: The first of three UFO sightings at this base was made about 9:30 a.m. PST by First Lt. J...</span></span></span>
-
+The July 1947 Muroc Field sightings were not a single dramatic “flying saucer” event but a chain of observations spread across roughly twenty-four hours at one of the United States’ most sensitive flight-test installations. When the reports are separated by time, location, and witness group, the case becomes easier to follow and easier to evaluate. The sequence began with Major J. C. Wise on 7 July, continued with a cluster of morning observations on 8 July involving several base personnel, and culminated in separate noon-time reports by Colonel Albert Boyd’s test team members Captain John Stapp and Lieutenant Colonel Frederick Shoop. The official paperwork treated these as related but distinct sightings rather than one uninterrupted encounter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/report-on-the-ufo-wave-of-1947.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[2dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">report on the ufo wave of 1947</span><span class="citation-popover-snippet">Case 712 -- July 8, Muroc Air Base, California: The first of three UFO sightings at this base was made about 9:30 a.m. PST by First Lt. J...</span></span></span>
 
 <img src="{{ "/assets/images/Muroc_Field_sighting_a700e4_july_1947_timeline_66b673-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Muroc_Field_sighting_a700e4_july_1947_timeline_66b673-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Muroc_Field_sighting_a700e4_july_1947_timeline_66b673-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters because the [witnesses]({{ 'witnesses-ee7e7a/' | relative_url }}) did not all describe the same thing. Some reported spherical or disc-like silver objects, others described motion resembling tumbling or oscillation, and some estimated relatively modest speeds compared with later UFO mythology. The timeline also shows how quickly the reports spread among trained military personnel during the peak week of the 1947 flying disc wave. Rather than a single sensational narrative, the Muroc file reads more like a layered series of observations made by people already accustomed to unusual aircraft and test activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/fig/muroc47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">Muroc UFO Incident 8 July, 1947UFO DOCUMENTS - 1947; NO: DATE. FROM. TO. REMARKS; 2. 4 Aug. A-2. CI(D). 1. It has been reported that th...</span></span></span>
@@ -259,7 +258,6 @@ That distinction matters because the [witnesses]({{ 'witnesses-ee7e7a/' | relati
 The first known sighting in the Muroc sequence came on 7 July 1947 at approximately 10:10 in the morning. Major J. C. Wise, identified in later summaries as a test pilot, was on the ground conducting an engine run-up on an XP-84 when he noticed an object north of the field at an estimated altitude of around 10,000 feet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/fig/47docdex.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">INDEX 1947Air Force Investigation into multiple witness UFO sighting on 8 July, 1947, at Muroc Air Base in California. (4th AF Files.)Rea...</span></span></span>
 
 Wise’s statement is important because it already contained several themes that would recur in later Muroc testimony:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -288,7 +286,6 @@ This sequence is one of the strongest documented parts of the Muroc file because
 
 Unlike later UFO cases that relied on dramatic claims of impossible acceleration, the Muroc witnesses often gave comparatively restrained estimates. McHenry reportedly estimated speeds of roughly 300 miles per hour or less. That figure is fast enough to rule out ordinary drifting balloons if accurate, but not so extraordinary as to imply impossible performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/fig/47docdex.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">INDEX 1947Air Force Investigation into multiple witness UFO sighting on 8 July, 1947, at Muroc Air Base in California. (4th AF Files.)Rea...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OoKm417zKOA" title="10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer">10 Cases From Project Blue Book: The CIA&#x27;s Hunt For UFOs</a></p><p class="youtube-embed-meta">Channel: TopTenz &middot; Views: 271.1K &middot; Uploaded: February 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OoKm417zKOA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OoKm417zKOA">Open on YouTube</a></p></div></div></div>
 
 ### The second McHenry object
@@ -313,12 +310,10 @@ These sightings are often compressed together with the earlier McHenry reports, 
 
 Stapp would later become famous for high-speed rocket-sled experiments and aerospace medicine research, which has added retrospective interest to his involvement in the case. In July 1947, however, he was simply one more technically trained military observer operating within Muroc’s experimental aviation environment.
 
-
 <img src="{{ "/assets/images/Muroc_Field_sighting_a700e4_july_1947_timeline_66b673-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Muroc_Field_sighting_a700e4_july_1947_timeline_66b673-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Muroc_Field_sighting_a700e4_july_1947_timeline_66b673-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Different viewing conditions and interpretations
 
 The noon observations differed from the earlier morning cluster in several ways:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -333,7 +328,6 @@ Some later summaries suggest that the noon witnesses viewed bright reflective ob
 At least one later interpretation proposed that some Muroc witnesses may have been observing sunlight reflections from aircraft or ground objects. That explanation appeared in later UFO literature discussing the 1947 wave and reflected a broader Air Force tendency to seek optical [explanations]({{ 'explanations-9a4c42/' | relative_url }}) for many daylight disc sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/report-on-the-ufo-wave-of-1947.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-title">report on the ufo wave of 1947</span><span class="citation-popover-snippet">Case 712 -- July 8, Muroc Air Base, California: The first of three UFO sightings at this base was made about 9:30 a.m. PST by First Lt. J...</span></span></span>
 
 Yet the noon sequence still carried weight because of where it occurred. Muroc personnel were surrounded daily by aircraft operations, instrumentation flights, balloons, and experimental hardware. Advocates of the case argue that experienced test personnel should have been relatively resistant to simple misidentifications. Critics counter that the same environment produced exactly the kind of unusual visual stimuli likely to generate ambiguous sightings.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/odUSnDgU-oo" title="The Mysterious Roswell UFO Incident of 1947" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer">The Mysterious Roswell UFO Incident of 1947</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 317.2K &middot; Uploaded: January 2012 &middot; Length: 1 minute 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=odUSnDgU-oo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=odUSnDgU-oo">Open on YouTube</a></p></div></div></div>
 
@@ -351,14 +345,12 @@ The sequence therefore looked less like one fleeting misidentification and more 
 
 At the same time, the timeline also weakens attempts to present the incident as one perfectly consistent event. The reports differed in altitude estimates, direction of travel, apparent shape, and motion. Some objects appeared spherical, others disc-like. Some moved steadily while others seemed to oscillate or circle. The more closely the chronology is examined, the more the case resembles a cluster of related but not identical observations.
 
-
 <img src="{{ "/assets/images/Muroc_Field_sighting_a700e4_july_1947_timeline_66b673-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Muroc_Field_sighting_a700e4_july_1947_timeline_66b673-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Muroc_Field_sighting_a700e4_july_1947_timeline_66b673-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why chronology matters more than later mythology
 
 Later UFO retellings sometimes merged the Muroc reports into a simplified narrative of military personnel watching extraordinary craft over a secret test base. The actual documentary record is more fragmented and more historically interesting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.project1947.com/fig/47docdex.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: project1947.com">[project1947.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">project1947.com</span><span class="citation-popover-snippet">INDEX 1947Air Force Investigation into multiple witness UFO sighting on 8 July, 1947, at Muroc Air Base in California. (4th AF Files.)Rea...</span></span></span>
 
 The chronology shows several things clearly:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -373,49 +365,89 @@ The official Fourth Air Force summary ultimately left the matter unresolved rath
 
 That is why the Muroc chronology continues to attract attention in studies of the 1947 flying disc wave. The sequence captures a moment when experienced military personnel, operating inside America’s emerging aerospace test culture, encountered aerial observations they considered unusual enough to document formally — even though the reports never evolved into hard physical evidence or a settled official finding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2020/03/general-nathan-f-twining-and-the-flying-disc-problem-of-1947/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">Skeptical Inquirer General Nathan F</span><span class="citation-popover-snippet">Twining and the Flying Disc Problem of...On September 23, 1947, an extraordinary letter titled “AMC Opinion Concerning &#x27;Flying Discs&#x27;” w...</span><span class="citation-popover-meta">Published: September 23, 1947</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xu4oTBBI5UE" title="Project Blue Book: America&#x27;s Obsession with UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer">Project Blue Book: America&#x27;s Obsession with UFOs</a></p><p class="youtube-embed-meta">Channel: Origins OSU &middot; Views: 1.6K &middot; Uploaded: September 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xu4oTBBI5UE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xu4oTBBI5UE">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How the Muroc Sightings Unfolded, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How the Muroc Sightings Unfolded. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Chronicles Major J.C. Wise&#x27;s 7 July engine run-up sighting, the July 8 morning disc cluster, and Captain John Stapp&#x27;s noon observations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Details the separate noon-time reports by Lt. Col. Frederick Shoop, outlining why investigators treated them as related but distinct files.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides a comprehensive chronological overview showing how separate base groups reported spherical or tumbling silver objects.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Explains why layered military observations spread rapidly across isolated bases during national newspaper-driven waves.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -452,15 +484,15 @@ That is why the Muroc chronology continues to attract attention in studies of th
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=test+pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="test pilot patch" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for U.S.Air Force *TEST PILOT SCHOOL* (Original Unused Surplus) badge/patch."><img src="{{ '/assets/images/marketplace-covers/be5b29271691f03da29b.jpg' | relative_url }}" alt="Listing image for U.S.Air Force *TEST PILOT SCHOOL* (Original Unused Surplus) badge/patch." loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=test+pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="test pilot patch" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch" target="_blank" rel="sponsored noopener noreferrer">U.S.Air Force *TEST PILOT SCHOOL* (Original Unused Surplus) badge/patch.</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=test+pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="test pilot patch" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for test pilot patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: test pilot patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=test+pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="test pilot patch" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -468,15 +500,15 @@ That is why the Muroc chronology continues to attract attention in studies of th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=test+pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="test pilot patch" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Air Force USAF Test Pilot School Patch Badge, Cold war Era Badge"><img src="{{ '/assets/images/marketplace-covers/23d8287b01f9010f72d6.jpg' | relative_url }}" alt="Listing image for US Air Force USAF Test Pilot School Patch Badge, Cold war Era Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=test+pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="test pilot patch" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch" target="_blank" rel="sponsored noopener noreferrer">US Air Force USAF Test Pilot School Patch Badge, Cold war Era Badge</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=test+pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="test pilot patch" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for test pilot patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: test pilot patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=test+pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="test pilot patch" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -484,31 +516,15 @@ That is why the Muroc chronology continues to attract attention in studies of th
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=test+pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="test pilot patch" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4.5&quot; NAVY TEST PILOT SCHOOL EMBROIDERED PATCH"><img src="{{ '/assets/images/marketplace-covers/4742ccc18301227347ba.jpg' | relative_url }}" alt="Listing image for 4.5&quot; NAVY TEST PILOT SCHOOL EMBROIDERED PATCH" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=test+pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="test pilot patch" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch" target="_blank" rel="sponsored noopener noreferrer">4.5&quot; NAVY TEST PILOT SCHOOL EMBROIDERED PATCH</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=test+pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="test pilot patch" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for test pilot patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: test pilot patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=test+pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="test pilot patch" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,7 +532,7 @@ That is why the Muroc chronology continues to attract attention in studies of th
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=test+pilot+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="test pilot patch" data-ebay-reference="timeline-3fee69-how-the-muroc-sightings-unfolded-muroc-field-sightings-1947-test-pilot-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -731,136 +747,136 @@ That is why the Muroc chronology continues to attract attention in studies of th
 
 1. <a id="endnote-1"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/fig/muroc47.htm](https://www.project1947.com/fig/muroc47.htm)  
+   Link: <a href="https://www.project1947.com/fig/muroc47.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/muroc47.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Muroc UFO Incident 8 July, 1947UFO DOCUMENTS - 1947; NO: DATE. FROM. TO. REMARKS; 2. 4 Aug. A-2. CI(D). 1. It has been reported that th...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: dokumen.pub  
    Title: report on the ufo wave of 1947  
-   Link: [https://dokumen.pub/report-on-the-ufo-wave-of-1947.html](https://dokumen.pub/report-on-the-ufo-wave-of-1947.html)  
+   Link: <a href="https://dokumen.pub/report-on-the-ufo-wave-of-1947.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/report-on-the-ufo-wave-of-1947.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case 712 -- July 8, Muroc Air Base, California: The first of three UFO sightings at this base was made about 9:30 a.m. PST by First Lt. J...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: project1947.com  
-   Link: [https://www.project1947.com/fig/47docdex.htm](https://www.project1947.com/fig/47docdex.htm)  
+   Link: <a href="https://www.project1947.com/fig/47docdex.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.project1947.com/fig/47docdex.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>INDEX 1947Air Force Investigation into multiple witness UFO sighting on 8 July, 1947, at Muroc Air Base in California. (4th AF Files.)Rea...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: scribd.com  
    Title: An Encyclopedia of Flying Saucers Bowen Wood  
-   Link: [https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood](https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood)  
+   Link: <a href="https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/730025479/An-Encyclopedia-of-Flying-Saucers-Bowen-Wood</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PDFJuly 8, 1947. Muroc Air Field, California. Lt. Joseph C. McHenry, billeting officer, reported seeing at 9:30 A.M. two silvery objects...</p></details>
    Published: July 8, 1947  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Table of reports during the 1947 flying disc craze  
-   Link: [https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze](https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze)  
+   Link: <a href="https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Table_of_reports_during_the_1947_flying_disc_craze</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Portland... Watch the Skies!: A Chronicle of the Flying Saucer Myth, Ch 2 &#x27;The 1947 Flap&#x27;.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: 1947 flying disc craze  
-   Link: [https://en.wikipedia.org/wiki/1947_flying_disc_craze](https://en.wikipedia.org/wiki/1947_flying_disc_craze)  
+   Link: <a href="https://en.wikipedia.org/wiki/1947_flying_disc_craze" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1947_flying_disc_craze</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: The Report on Unidentified Flying Objects  
-   Link: [https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects](https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThe Report on Unidentified Flying Objects was the first to reveal that on September 23, 1947...</p></details>
    Published: September 23, 1947  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookBy the time Project Blue Book ended, it had collected 12,618 UFO reports, and concluded that most of them were miside...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Edwards Air Force Base  
-   Link: [https://en.wikipedia.org/wiki/Edwards_Air_Force_Base](https://en.wikipedia.org/wiki/Edwards_Air_Force_Base)  
+   Link: <a href="https://en.wikipedia.org/wiki/Edwards_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Edwards_Air_Force_Base</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Edwards Air Force BaseWith the end of the war, Fourth Air Force relinquished command of Muroc Army... Archived from the original (PDF...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/news/printable/475677](https://www.dvidshub.net/news/printable/475677)  
+   Link: <a href="https://www.dvidshub.net/news/printable/475677" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/news/printable/475677</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Agents Investigate UFOs in Roswell (7 JUL...8 Jul 2024 — On 7 July 1947, a rancher named William “Mac” Brazel reported he h...</p></details>
    Published: July 1947  
 
 11. <a id="endnote-11"></a>
    Source: scribd.com  
    Title: 1947 Index Redacted High Resolution Resized  
-   Link: [https://www.scribd.com/document/843476542/1947-Index-Redacted-High-Resolution-Resized](https://www.scribd.com/document/843476542/1947-Index-Redacted-High-Resolution-Resized)  
+   Link: <a href="https://www.scribd.com/document/843476542/1947-Index-Redacted-High-Resolution-Resized" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/843476542/1947-Index-Redacted-High-Resolution-Resized</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 1947 UFO Sightings Report | PDFThe document lists various sightings and evaluations of unidentified flying objects (UFOs) from July...</p></details>
    Published: July 1947  
 
 12. <a id="endnote-12"></a>
    Source: skepticalinquirer.org  
    Title: Skeptical Inquirer General Nathan F  
-   Link: [https://skepticalinquirer.org/2020/03/general-nathan-f-twining-and-the-flying-disc-problem-of-1947/](https://skepticalinquirer.org/2020/03/general-nathan-f-twining-and-the-flying-disc-problem-of-1947/)  
+   Link: <a href="https://skepticalinquirer.org/2020/03/general-nathan-f-twining-and-the-flying-disc-problem-of-1947/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2020/03/general-nathan-f-twining-and-the-flying-disc-problem-of-1947/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Twining and the Flying Disc Problem of...On September 23, 1947, an extraordinary letter titled “AMC Opinion Concerning &#x27;Flying Discs&#x27;” w...</p></details>
    Published: September 23, 1947  
 
 13. <a id="endnote-13"></a>
    Source: usafunithistory.com  
    Title: FOURTH AIR FORCE  
-   Link: [https://usafunithistory.com/PDF/F-S/FOURTH%20AIR%20FORCE.pdf](https://usafunithistory.com/PDF/F-S/FOURTH%20AIR%20FORCE.pdf)  
+   Link: <a href="https://usafunithistory.com/PDF/F-S/FOURTH%20AIR%20FORCE.pdf" target="_blank" rel="noopener noreferrer nofollow">https://usafunithistory.com/PDF/F-S/FOURTH%20AIR%20FORCE.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Sept 2011 — The Fourth Air Force served in the air defense program, 1966-1969 and became part of the. Reserve program in 1976. One of t...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Blue Book UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThis is a book about unidentified flying objects—UFO&#x27;s—&quot;flying saucers.&quot; It is actually more tha...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart](https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart)  
+   Link: <a href="https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/43868466/UFOs_and_Intelligence_A_Timeline_By_George_M_Eberhart</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Intelligence: A Timeline. By George M. EberhartThis timeline covers the full spectrum of UFO history, from contactee experiences...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/fromtheav/posts/10159088993995654/](https://www.facebook.com/groups/fromtheav/posts/10159088993995654/)  
+   Link: <a href="https://www.facebook.com/groups/fromtheav/posts/10159088993995654/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/fromtheav/posts/10159088993995654/</a>  
 
 18. <a id="endnote-18"></a>
    Source: thisdayinaviation.com  
-   Link: [https://www.thisdayinaviation.com/tag/muroc-army-air-field/](https://www.thisdayinaviation.com/tag/muroc-army-air-field/)  
+   Link: <a href="https://www.thisdayinaviation.com/tag/muroc-army-air-field/" target="_blank" rel="noopener noreferrer nofollow">https://www.thisdayinaviation.com/tag/muroc-army-air-field/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: before area 51 there was americas first ufo conspiracy in july 1947 when a ranch  
-   Link: [https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/](https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/)  
+   Link: <a href="https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/7NewsAustralia/posts/before-area-51-there-was-americas-first-ufo-conspiracy-in-july-1947-when-a-ranch/3209593229050848/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Before Area 51, there was America&#x27;s first UFO conspiracy...On 8 July 1947 Roswell Army Air Field (RAAF) issued a press release stating t...</p></details>
    Published: july 1947  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: Albert Boyd flew this P-80R to a new world's speed record of 623.753  
-   Link: [https://www.facebook.com/AFmuseum/posts/this-month-in-1947-at-muroc-army-air-field-now-edwards-air-force-base-calif-col-/1125618709598013/](https://www.facebook.com/AFmuseum/posts/this-month-in-1947-at-muroc-army-air-field-now-edwards-air-force-base-calif-col-/1125618709598013/)  
+   Link: <a href="https://www.facebook.com/AFmuseum/posts/this-month-in-1947-at-muroc-army-air-field-now-edwards-air-force-base-calif-col-/1125618709598013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AFmuseum/posts/this-month-in-1947-at-muroc-army-air-field-now-edwards-air-force-base-calif-col-/1125618709598013/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This month in 1947, at Muroc Army Air Field (now Edwards...This month in 1947, at Muroc Army Air Field (now Edwards Air Force Base), Cal...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: historypod.net  
    Title: 8th july 1947 roswell army air base reports flying disc debris  
-   Link: [https://www.historypod.net/07/08/8th-july-1947-roswell-army-air-base-reports-flying-disc-debris/](https://www.historypod.net/07/08/8th-july-1947-roswell-army-air-base-reports-flying-disc-debris/)  
+   Link: <a href="https://www.historypod.net/07/08/8th-july-1947-roswell-army-air-base-reports-flying-disc-debris/" target="_blank" rel="noopener noreferrer nofollow">https://www.historypod.net/07/08/8th-july-1947-roswell-army-air-base-reports-flying-disc-debris/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Army Air Base reports &#x27;flying disc&#x27; debris8 Jul 2024 — Walter Haut, the public information officer of the Roswell Army Air Field...</p></details>
    Published: july 1947  
 
 22. <a id="endnote-22"></a>
    Source: war.gov  
    Title: 65 hs1 834228961 62 hq 83894 section 1  
-   Link: [https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf](https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/65_hs1-834228961_62-hq-83894_section_1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>65_hs1-834228961_62-hq-83894_section_1.pdfArmy pilots were ready Monday for another air search for the mys terious &quot;flying saucers&quot; now r...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: sacred-texts.com  
    Title: The Report on Unidentified Flying Objects: Chapter Two  
-   Link: [https://sacred-texts.com/ufo/rufo/rufo04.htm](https://sacred-texts.com/ufo/rufo/rufo04.htm)  
+   Link: <a href="https://sacred-texts.com/ufo/rufo/rufo04.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/rufo/rufo04.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>memos and correspondence that Project Blue Book inherited from the old UFO projects told the story of the early flying saucer era. These...</p></details>

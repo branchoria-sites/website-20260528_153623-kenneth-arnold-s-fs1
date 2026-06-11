@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Exeter UFO
   permalink: /incident-at-exeter-1965/
   short_title: Exeter UFO
-date: '2026-06-08 23:21:33 '
+date: '2026-06-11 13:13:25 '
 header:
   og_image: /assets/images/Herbert_Schirmer_abd_b149a3-overview-social.jpg
   preview_image: /assets/images/Herbert_Schirmer_abd_b149a3-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Herbert_Schirmer_abd_b149a3-overview-social.jpg
 ## What Schirmer said happened on the road
 
 In the Condon Report’s anonymised “Case 42”, the witness is described as a state trooper on duty since 5 p.m., driving alone around 2:30 a.m. near a small Midwestern town. In the public UFO literature and later local reporting, that witness is identified as Herbert Schirmer, a 22-year-old Ashland police officer. The official report says he had earlier checked cattle at a sale barn and found them behaving strangely, then later noticed red lights near a highway intersection which he initially took to be a stopped truck. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report, Case 42: State Trooper Sighting...</span></span></span>
-
 
 <img src="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-overview.webp" | relative_url }}" alt="Overview image for Herbert Schirmer abduction 1967" loading="eager" decoding="sync" fetchpriority="high">
 According to the Condon account, Schirmer turned back to inspect the lights, put his headlights on bright, and saw what he described as a saucer-shaped object hovering above the road. It was reported as tilted, metallic-looking, glowing, and marked by blinking red lights or portholes. The object then rose, made a siren-like sound, emitted flame-coloured material from underneath, passed nearly overhead, and shot upward out of sight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Condon Report Section III, Chapter 3: Direct Physical Evidence...</span></span></span>
@@ -776,7 +775,6 @@ The physical evidence was weaker. The recovered chip was less than a centimetre 
 
 The site also failed to produce confirming evidence. Investigators checked for radioactivity and found none, and the official case report says no other evidence was found that an unusual object had landed on or hovered over the site. That absence is central to the official interpretation: the case had a seemingly sincere witness, but not a physical trace strong enough to establish an extraordinary object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/appndx-w.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-title">appndx w</span><span class="citation-popover-snippet">appndx w</span></span></span>
 
-
 <img src="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-1-dark.svg" | relative_url }}" alt="Herbert Schirmer abduction 1967 illustration 1" data-theme-src-dark="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hypnosis sessions changed the case
 
@@ -788,7 +786,6 @@ Later secondary accounts describe the hypnotic material as a classic abduction s
 
 This is where the case divides sharply. For UFO proponents, hypnosis appeared to fill in the missing 20 minutes and turn a close sighting into an encounter with occupants. For sceptics, hypnosis is exactly where evidential caution should increase, because the most dramatic details came after a memory-recovery method now widely treated as vulnerable to suggestion, confidence inflation and confabulation. A 1997 review on hypnosis and memory argued that hypnosis is not a reliable technique for recovering accurate memories, and later psychological literature continues to warn that suggestive contexts can create or strengthen false memories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: appstate.edu">[appstate.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">appstate.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RAiqyfQ1oeE" title="Twisted 2s #96 Herbert Schirmer &amp; Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RAiqyfQ1oeE" target="_blank" rel="noopener noreferrer">Twisted 2s #96 Herbert Schirmer &amp; Project Blue Book</a></p><p class="youtube-embed-meta">Channel: Scary Mysteries &middot; Views: 114.9K &middot; Uploaded: January 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RAiqyfQ1oeE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RAiqyfQ1oeE">Open on YouTube</a></p></div></div></div>
 
 ## What the Condon Committee concluded
@@ -798,7 +795,6 @@ The official conclusion on Schirmer’s case was negative. After reviewing the p
 That distinction matters because the Condon Report had wider consequences. The University of Colorado study was commissioned by the US Air Force, and Project Blue Book records were later retired to the US National Archives. The National Archives states that Project Blue Book closed in 1969, and the Air Force’s own fact sheet says the termination followed the University of Colorado report, a National Academy of Sciences review and earlier Air Force experience with UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
 
 The Air Force’s published conclusions were broad: no investigated UFO had shown a national-security threat, no evidence showed unidentified sightings represented technology beyond present scientific knowledge, and no evidence indicated that unidentified sightings were extraterrestrial vehicles. The Schirmer case was therefore not assessed in isolation only; it became one small part of the late-1960s institutional move away from official UFO investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National Archives Project BLUE BOOK</span></span></span>
-
 
 <img src="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-2-dark.svg" | relative_url }}" alt="Herbert Schirmer abduction 1967 illustration 2" data-theme-src-dark="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The best evidence, and its limits
@@ -817,7 +813,6 @@ The case is strongest when treated as a report of an unusual experience by a wit
 
 The limits are equally important. There were no corroborating eyewitnesses at the road, no confirmed landing trace, no radioactivity, no reliable chain of custody tying the metal chip to the alleged object, and no physical sample that required an extraordinary explanation. The most elaborate abduction details came through hypnosis, which makes them evidentially weaker than Schirmer’s initial sighting report. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XYf-whvwWPU" title="Local UFO story revitalized after beer, comic book comes out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XYf-whvwWPU" target="_blank" rel="noopener noreferrer">Local UFO story revitalized after beer, comic book comes out</a></p><p class="youtube-embed-meta">Channel: KMTV 3 News Now &middot; Views: 4.3K &middot; Uploaded: April 2019 &middot; Length: 2 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XYf-whvwWPU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XYf-whvwWPU">Open on YouTube</a></p></div></div></div>
 
 ## Competing interpretations
@@ -828,7 +823,6 @@ The sceptical interpretation separates the likely sincerity of the witness from 
 
 A middle position is also possible: Schirmer may have had a real, frightening, poorly understood experience, but the later abduction narrative may not be a reliable reconstruction of what happened. This reading best fits the mixed evidence. It respects the documentary anchors — the immediate report, the superior officer’s confidence, the psychological assessment and the polygraph claim — while recognising that none of them demonstrates a landed craft, non-human beings or a physical abduction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Open source on ncas.org.</span></span></span>
 
-
 <img src="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-3-dark.svg" | relative_url }}" alt="Herbert Schirmer abduction 1967 illustration 3" data-theme-src-dark="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Herbert_Schirmer_abd_b149a3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case still matters
 
@@ -836,49 +830,89 @@ The Herbert Schirmer abduction remains important because it shows how a UFO case
 
 For a case dossier, Schirmer belongs beside the broader history of official UFO investigation, the Condon Report, Project Blue Book’s closure, and the development of alien-abduction narratives after Betty and Barney Hill. It is not a clean debunking, because the original report was serious enough to investigate and the witness was not dismissed as a simple fraud. It is not a proven abduction, because the evidence needed to establish that claim was never produced. Its lasting value is the tension between those two facts.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHeZjJgO9Ns" title="UFO Project Blue Book at National Archives Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer">UFO Project Blue Book at National Archives Museum</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 352.6K &middot; Uploaded: December 2019 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHeZjJgO9Ns">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Happened on Schirmer&#x27;s Night Patrol?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Happened on Schirmer&#x27;s Night Patrol?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Schirmer case objectively, summarizing the police officer encounter and the Condon Committee’s ‘no confidence’ conclusion.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abduction: Human Encounters with Aliens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3S2OCAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Abduction: Human Encounters with Aliens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abduction: Human Encounters with Aliens">Abduction: Human Encounters with Aliens</a>
+        </h4>
+        <p class="fr-book-author">By John E. Mack, Mack</p>
+        
+        <p class="fr-book-desc">Provides the essential comparative context for interpreting abduction claims, focusing on the common themes found in long-running police...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens+by+John+E.+Mack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Myth of Repressed Memory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xq1vfWIiV1IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Myth of Repressed Memory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Myth of Repressed Memory">The Myth of Repressed Memory</a>
+        </h4>
+        <p class="fr-book-author">By Elizabeth F. Loftus, Katherine Ketcham</p>
+        
+        <p class="fr-book-desc">Explains why hypnotically recovered memories—a cornerstone of the Schirmer file—are scientifically contested and prone to distortion.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory+by+Elizabeth+F.+Loftus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=immWvgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Missing Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing Time">Missing Time</a>
+        </h4>
+        <p class="fr-book-author">By Budd Hopkins</p>
+        
+        <p class="fr-book-desc">Details the comparative &#x27;missing time&#x27; documentation and regression techniques common to famous cases like Schirmer&#x27;s.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Missing+Time+by+Budd+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Abduction%3A+Human+Encounters+with+Aliens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Abduction: Human Encounters with Aliens</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Myth+of+Repressed+Memory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Myth of Repressed Memory</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -915,15 +949,15 @@ For a case dossier, Schirmer belongs beside the broader history of official UFO 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -931,15 +965,15 @@ For a case dossier, Schirmer belongs beside the broader history of official UFO 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -947,31 +981,15 @@ For a case dossier, Schirmer belongs beside the broader history of official UFO 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -979,7 +997,7 @@ For a case dossier, Schirmer belongs beside the broader history of official UFO 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -programme" data-ebay-reference="herbert-schirmer-abduction-1967-what-happened-on-schirmer-s-night-patrol-ufo-poster-series-television-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1194,138 +1212,138 @@ For a case dossier, Schirmer belongs beside the broader history of official UFO 
 
 1. <a id="endnote-1"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/case42.htm](https://files.ncas.org/condon/text/case42.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case42.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case42.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report, Case 42: State Trooper Sighting...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 3. <a id="endnote-3"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/s3chap03.htm](https://files.ncas.org/condon/text/s3chap03.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/s3chap03.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/s3chap03.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Condon Report Section III, Chapter 3: Direct Physical Evidence...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dokumen.pub  
    Title: Captured by Aliens?: A History and Analysis of American Abduction Claims  
-   Link: [https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html](https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html)  
+   Link: <a href="https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/captured-by-aliens-a-history-and-analysis-of-american-abduction-claims-1476681414-9781476681412.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1476681414, 9781476681412 - DOKUMEN.PUB...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: appstate.edu  
-   Link: [https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf](https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf)  
+   Link: <a href="https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf" target="_blank" rel="noopener noreferrer nofollow">https://appstate.edu/~bromanfulksj/Lynn%20et%20al%20-%20Recalling%20the%20unrecallable.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: files.ncas.org  
    Title: appndx w  
-   Link: [https://files.ncas.org/condon/text/appndx-w.htm](https://files.ncas.org/condon/text/appndx-w.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/appndx-w.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/appndx-w.htm</a>  
 
 7. <a id="endnote-7"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/sec-i.htm](https://files.ncas.org/condon/text/sec-i.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/sec-i.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-i.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: colorado.edu  
    Title: cu site one last government commissioned reports ufos what does it say  
-   Link: [https://www.colorado.edu/today/2021/06/09/cu-site-one-last-government-commissioned-reports-ufos-what-does-it-say](https://www.colorado.edu/today/2021/06/09/cu-site-one-last-government-commissioned-reports-ufos-what-does-it-say)  
+   Link: <a href="https://www.colorado.edu/today/2021/06/09/cu-site-one-last-government-commissioned-reports-ufos-what-does-it-say" target="_blank" rel="noopener noreferrer nofollow">https://www.colorado.edu/today/2021/06/09/cu-site-one-last-government-commissioned-reports-ufos-what-does-it-say</a>  
 
 9. <a id="endnote-9"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html](https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html)  
+   Link: <a href="https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/beyond-earth-mans-contact-with-ufos.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/the-china-australia-free-trade-agreement-a-21st-century-model-9781509915385-9781509915415-9781509915392.html](https://dokumen.pub/the-china-australia-free-trade-agreement-a-21st-century-model-9781509915385-9781509915415-9781509915392.html)  
+   Link: <a href="https://dokumen.pub/the-china-australia-free-trade-agreement-a-21st-century-model-9781509915385-9781509915415-9781509915392.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-china-australia-free-trade-agreement-a-21st-century-model-9781509915385-9781509915415-9781509915392.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: time.com  
-   Link: [https://time.com/5380312/is-hypnosis-real-science/](https://time.com/5380312/is-hypnosis-real-science/)  
+   Link: <a href="https://time.com/5380312/is-hypnosis-real-science/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5380312/is-hypnosis-real-science/</a>  
 
 12. <a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1327196/full](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1327196/full)  
+   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1327196/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1327196/full</a>  
 
 13. <a id="endnote-13"></a>
    Source: believingthebizarre.com  
    Title: Believing the Bizarre The Herbert Schirmer Alien Abduction  
-   Link: [https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/](https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/)  
+   Link: <a href="https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/" target="_blank" rel="noopener noreferrer nofollow">https://believingthebizarre.com/herb-schimer-ufo-encounter-and-abduction/</a>  
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: [https://en.wikipedia.org/wiki/Condon_Committee](https://en.wikipedia.org/wiki/Condon_Committee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Hypnosis](https://en.wikipedia.org/wiki/Hypnosis)  
+   Link: <a href="https://en.wikipedia.org/wiki/Hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hypnosis</a>  
 
 17. <a id="endnote-17"></a>
    Source: kevinrandle.blogspot.com  
    Title: schirmer abduction  
-   Link: [https://kevinrandle.blogspot.com/2008/10/schirmer-abduction.html](https://kevinrandle.blogspot.com/2008/10/schirmer-abduction.html)  
+   Link: <a href="https://kevinrandle.blogspot.com/2008/10/schirmer-abduction.html" target="_blank" rel="noopener noreferrer nofollow">https://kevinrandle.blogspot.com/2008/10/schirmer-abduction.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: psychologytoday.com  
-   Link: [https://www.psychologytoday.com/us/basics/hypnosis](https://www.psychologytoday.com/us/basics/hypnosis)  
+   Link: <a href="https://www.psychologytoday.com/us/basics/hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/hypnosis</a>  
 
 19. <a id="endnote-19"></a>
    Source: maryevans.com  
    Title: herbert schirmer  
-   Link: [https://www.maryevans.com/explore-contributor-collections/com/herbert-schirmer-45390940.html](https://www.maryevans.com/explore-contributor-collections/com/herbert-schirmer-45390940.html)  
+   Link: <a href="https://www.maryevans.com/explore-contributor-collections/com/herbert-schirmer-45390940.html" target="_blank" rel="noopener noreferrer nofollow">https://www.maryevans.com/explore-contributor-collections/com/herbert-schirmer-45390940.html</a>  
 
 20. <a id="endnote-20"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/hypnosis](https://dictionary.cambridge.org/dictionary/english/hypnosis)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/hypnosis" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/hypnosis</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.281.5373.21a](https://www.science.org/doi/10.1126/science.281.5373.21a)  
+   Link: <a href="https://www.science.org/doi/10.1126/science.281.5373.21a" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.281.5373.21a</a>  
 
 22. <a id="endnote-22"></a>
    Source: supremecourt.gov  
-   Link: [https://www.supremecourt.gov/DocketPDF/25/25-6774/400754/20260312150640141_25-6774%20American%20Psychological%20Assn%20Amicus%20Brief.pdf](https://www.supremecourt.gov/DocketPDF/25/25-6774/400754/20260312150640141_25-6774%20American%20Psychological%20Assn%20Amicus%20Brief.pdf)  
+   Link: <a href="https://www.supremecourt.gov/DocketPDF/25/25-6774/400754/20260312150640141_25-6774%20American%20Psychological%20Assn%20Amicus%20Brief.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.supremecourt.gov/DocketPDF/25/25-6774/400754/20260312150640141_25-6774%20American%20Psychological%20Assn%20Amicus%20Brief.pdf</a>  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Local UFO story revitalized after beer, comic book comes out  
-   Link: [https://www.youtube.com/watch?v=XYf-whvwWPU](https://www.youtube.com/watch?v=XYf-whvwWPU)  
+   Link: <a href="https://www.youtube.com/watch?v=XYf-whvwWPU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XYf-whvwWPU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 BrainScratch: Herbert Schirmer&#x27;s Alien Story...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Twisted 2s #96 Herbert Schirmer & Project Blue Book  
-   Link: [https://www.youtube.com/watch?v=RAiqyfQ1oeE](https://www.youtube.com/watch?v=RAiqyfQ1oeE)  
+   Link: <a href="https://www.youtube.com/watch?v=RAiqyfQ1oeE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RAiqyfQ1oeE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 WARNING: The Secret Symbol Found In CIA Files...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/B9FMEDAABUy/](https://www.instagram.com/p/B9FMEDAABUy/)  
+   Link: <a href="https://www.instagram.com/p/B9FMEDAABUy/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/B9FMEDAABUy/</a>  
 
 26. <a id="endnote-26"></a>
    Source: goodpods.com  
-   Link: [https://goodpods.com/podcasts/scary-mysteries-143864/4-times-aliens-appear-in-historical-works-of-art-7039207](https://goodpods.com/podcasts/scary-mysteries-143864/4-times-aliens-appear-in-historical-works-of-art-7039207)  
+   Link: <a href="https://goodpods.com/podcasts/scary-mysteries-143864/4-times-aliens-appear-in-historical-works-of-art-7039207" target="_blank" rel="noopener noreferrer nofollow">https://goodpods.com/podcasts/scary-mysteries-143864/4-times-aliens-appear-in-historical-works-of-art-7039207</a>  
 
 27. <a id="endnote-27"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/664911255/Alien-Identities](https://www.scribd.com/document/664911255/Alien-Identities)  
+   Link: <a href="https://www.scribd.com/document/664911255/Alien-Identities" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/664911255/Alien-Identities</a>  
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ScienceNaturePage/posts/alien-abduction-claims-are-based-on-lucid-dreams-study-suggests/2482514868547423/](https://www.facebook.com/ScienceNaturePage/posts/alien-abduction-claims-are-based-on-lucid-dreams-study-suggests/2482514868547423/)  
+   Link: <a href="https://www.facebook.com/ScienceNaturePage/posts/alien-abduction-claims-are-based-on-lucid-dreams-study-suggests/2482514868547423/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceNaturePage/posts/alien-abduction-claims-are-based-on-lucid-dreams-study-suggests/2482514868547423/</a>  
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/stgnews/posts/alien-abduction-or-government-mind-control-new-book-seeks-answers-to-1959-cedar-/1635030876556130/](https://www.facebook.com/stgnews/posts/alien-abduction-or-government-mind-control-new-book-seeks-answers-to-1959-cedar-/1635030876556130/)  
+   Link: <a href="https://www.facebook.com/stgnews/posts/alien-abduction-or-government-mind-control-new-book-seeks-answers-to-1959-cedar-/1635030876556130/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/stgnews/posts/alien-abduction-or-government-mind-control-new-book-seeks-answers-to-1959-cedar-/1635030876556130/</a>  
 
 30. <a id="endnote-30"></a>
    Source: storytel.com  
-   Link: [https://www.storytel.com/se/authors/spectrevision-radio-1080986?page=3](https://www.storytel.com/se/authors/spectrevision-radio-1080986?page=3)  
+   Link: <a href="https://www.storytel.com/se/authors/spectrevision-radio-1080986?page=3" target="_blank" rel="noopener noreferrer nofollow">https://www.storytel.com/se/authors/spectrevision-radio-1080986?page=3</a>

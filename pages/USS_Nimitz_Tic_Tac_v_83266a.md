@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: USS Russell
   permalink: /uss-russell-video-2019/
   short_title: USS Russell
-date: '2026-06-08 23:41:15 '
+date: '2026-06-11 13:23:44 '
 header:
   og_image: /assets/images/USS_Nimitz_Tic_Tac_v_83266a-overview-social.jpg
   preview_image: /assets/images/USS_Nimitz_Tic_Tac_v_83266a-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/USS_Nimitz_Tic_Tac_v_83266a-overview-social.jpg
 ## Introduction
 
 The case matters because it became a template for the modern UAP debate. It helped move UFO reporting from fringe culture into congressional hearings, Pentagon statements, and scientific arguments about what counts as adequate evidence. It is not a simple “debunked” case, but neither is it strong public proof of alien technology. It is a case where the strongest claim depends on combining witness reports, claimed radar tracks, and later analysis rather than on the short video alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a-overview.webp" | relative_url }}" alt="Overview image for USS Nimitz Tic Tac video 2004" loading="eager" decoding="sync" fetchpriority="high">
 ## What happened off Southern California in November 2004?
@@ -772,13 +771,12 @@ Fravor’s account is the human centre of the case. He said he and Dietrich, wit
 
 The “Tic Tac video”, however, was not recorded by Fravor during that initial visual encounter. A later aircraft, associated in public accounts with Lieutenant Commander Chad Underwood, captured the infrared footage known as “FLIR1”. This distinction is crucial: the best-known video is linked to the Nimitz event, but it is not a continuous recording of Fravor’s close visual encounter from start to finish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Pentagon UFO videos</span><span class="citation-popover-snippet">Pentagon UFO videos</span></span></span>
 
-
 <img src="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a-Illustration-1-dark.svg" | relative_url }}" alt="USS Nimitz Tic Tac video 2004 illustration 1" data-theme-src-dark="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the video became famous
 
-The video became famous because it was one of three Navy UAP clips that entered public debate through unauthorised or semi-public circulation before formal Pentagon release. In April 2020, the Department of Defense authorised release of three unclassified Navy videos: one from November 2004 and two from January 2015. The department said the videos had circulated publicly after unauthorised releases in 2007 and 2017, that the Navy had previously acknowledged them as genuine Navy videos, and that the phenomena in them remained characterised as “unidentified”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release | U.S. Department of War...</span></span></span>(#endnote-1 "Snippet: Statement by the Department of Defense on the Release of Historical Navy Videos > U.S. Department of War > Release | U.S. Department of War")
+The video became famous because it was one of three Navy UAP clips that entered public debate through unauthorised or semi-public circulation before formal Pentagon release. In April 2020, the Department of Defense authorised release of three unclassified Navy videos: one from November 2004 and two from January 2015. The department said the videos had circulated publicly after unauthorised releases in 2007 and 2017, that the Navy had previously acknowledged them as genuine Navy videos, and that the phenomena in them remained characterised as “unidentified”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(#endnote-1 "Snippet: Statement by the Department of Defense on the Release of Historical Navy Videos > U.S. Department of War > Release | U.S. Department of War")
 
-That statement did two things and did not do a third. It confirmed authenticity: the footage was real Navy footage, not a hoax fabricated by outsiders. It confirmed official uncertainty in public wording: the observed phenomena remained unidentified. But it did not confirm that the object was extraterrestrial, that it performed the full range of manoeuvres described in witness accounts, or that all claimed radar data had been publicly verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release | U.S. Department of War...</span></span></span>(#endnote-1 "Snippet: Statement by the Department of Defense on the Release of Historical Navy Videos > U.S. Department of War > Release | U.S. Department of War")
+That statement did two things and did not do a third. It confirmed authenticity: the footage was real Navy footage, not a hoax fabricated by outsiders. It confirmed official uncertainty in public wording: the observed phenomena remained unidentified. But it did not confirm that the object was extraterrestrial, that it performed the full range of manoeuvres described in witness accounts, or that all claimed radar data had been publicly verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(#endnote-1 "Snippet: Statement by the Department of Defense on the Release of Historical Navy Videos > U.S. Department of War > Release | U.S. Department of War")
 
 The footage itself is forward-looking infrared, or FLIR, imagery from a targeting system rather than normal colour video. That matters because the public sees a small, low-resolution shape on a cockpit display, with changing camera modes, target-box behaviour, zoom, sensor movement and aircraft motion all affecting interpretation. The clip can show that the system tracked something not publicly identified, but it cannot by itself supply all the missing variables a reader would want: exact range, object size, atmospheric context, full aircraft track, full sensor metadata and raw radar corroboration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">the skeptics guide to the pentagons ufo videos</span><span class="citation-popover-snippet">the skeptics guide to the pentagons ufo videos</span></span></span>
 
@@ -788,19 +786,17 @@ The Nimitz case is stronger than a typical blurry UFO video because several type
 
 The radar element is the most tantalising and the least publicly complete. Public summaries say USS Princeton operators had tracked anomalous contacts before the intercept, and Fravor’s public accounts include the claim that the object later appeared at the group’s combat air patrol point. Yet the raw radar files and full sensor-chain documentation have not been released in a form that would let independent analysts reconstruct the event from primary data alone. That gap is central to why the case remains contested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">The story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots in 2004 - CBS News...</span></span></span> Academia The video is therefore best treated as one component in a bundle <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.academia.edu/40212818/A_Forensic_Analysis_of_Navy_Carrier_Strike_Group_Elevens_Encounter_with_an_Anomalous_Aerial_Vehicle_ANALYSIS_OF_EVIDENCE_AND_RESULTING_CONCLUSIONS_BY_THE_SCIENTIFIC_COALITION_FOR_UFOLOGY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">Open source on academia.edu.</span></span></span>, not as the whole case. Supporters of the anomalous interpretation point to the named witnesses, reported radar tracks and apparent sensor capture. Skeptics reply that each part has limitations: memories can compress events, radar systems can mislead or be misinterpreted, and the FLIR clip does not visibly show the most extraordinary acceleration claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/watch-a-navy-pilot-explain-his-encounter-with-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">watch a navy pilot explain his encounter with a ufo</span><span class="citation-popover-snippet">watch a navy pilot explain his encounter with a ufo</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zlrz84nEXtk" title="WATCH: Navy pilot describes encounter with &#x27;Tic Tac&#x27; shaped unidentified flying object" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zlrz84nEXtk" target="_blank" rel="noopener noreferrer">WATCH: Navy pilot describes encounter with &#x27;Tic Tac&#x27; shaped unidentified flying object</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 1.0M &middot; Uploaded: July 2021 &middot; Length: 4 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zlrz84nEXtk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zlrz84nEXtk">Open on YouTube</a></p></div></div></div>
 
 ## What official investigations have and have not said
 
-The most important official public statement about the video is narrow: the Department of Defense released the historical Navy videos to clear up public misconceptions about whether the circulating footage was real, and said the phenomena remained unidentified. It did not publish a full technical resolution of the 2004 case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release | U.S. Department of War...</span></span></span>(#endnote-1 "Snippet: Statement by the Department of Defense on the Release of Historical Navy Videos > U.S. Department of War > Release | U.S. Department of War")
+The most important official public statement about the video is narrow: the Department of Defense released the historical Navy videos to clear up public misconceptions about whether the circulating footage was real, and said the phenomena remained unidentified. It did not publish a full technical resolution of the 2004 case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(#endnote-1 "Snippet: Statement by the Department of Defense on the Release of Historical Navy Videos > U.S. Department of War > Release | U.S. Department of War")
 
 The 2021 Office of the Director of National Intelligence preliminary assessment placed UAP reporting in a broader government context. It reviewed 144 reports from US government sources covering events from 2004 to 2021, with 80 involving observation by multiple sensors, and said only one had been identified with high confidence as a large deflating balloon while the others remained unexplained at that stage. The report’s date range starting in 2004 is significant because the Nimitz case sits at the beginning of the modern official dataset, but the report does not publicly resolve the Tic Tac case in detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 NASA’s 2023 independent UAP study is useful for framing the evidence problem rather than for identifying the Nimitz object. The NASA team argued that UAP study requires a rigorous, evidence-based approach and better data acquisition methods. It also highlighted a recurring problem: many UAP reports lack the calibrated, multi-sensor, metadata-rich observations needed for firm scientific conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-AARO’s broader historical work has also shifted the debate away from simple mystery narratives and towards verifiable records. Its 2024 historical report reviewed the US government record on UAP and found no verified evidence that any US government investigation, academic-sponsored research or official review had confirmed extraterrestrial technology. That does not identify the Nimitz object, but it does set a cautionary frame for claims that the case proves alien craft or hidden reverse-engineering programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release | U.S. Department of War...</span></span></span>(#endnote-1 "Snippet: Statement by the Department of Defense on the Release of Historical Navy Videos > U.S. Department of War > Release | U.S. Department of War")
-
+AARO’s broader historical work has also shifted the debate away from simple mystery narratives and towards verifiable records. Its 2024 historical report reviewed the US government record on UAP and found no verified evidence that any US government investigation, academic-sponsored research or official review had confirmed extraterrestrial technology. That does not identify the Nimitz object, but it does set a cautionary frame for claims that the case proves alien craft or hidden reverse-engineering programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(#endnote-1 "Snippet: Statement by the Department of Defense on the Release of Historical Navy Videos > U.S. Department of War > Release | U.S. Department of War")
 
 <img src="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a-Illustration-2-dark.svg" | relative_url }}" alt="USS Nimitz Tic Tac video 2004 illustration 2" data-theme-src-dark="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The skeptical reading of FLIR1
@@ -812,7 +808,6 @@ This matters because many viral retellings merge three different evidential clai
 The skeptical case is also strengthened by a general point about military sensor data: without range, calibration, full track history and environmental context, apparent speed and shape can be deceptive. Parallax, target-box motion, glare, autofocus and display symbology can make ordinary objects look strange. NASA’s later UAP report made a similar methodological point at a broader level, stressing the need for robust data rather than isolated, ambiguous captures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 But the skeptical reading has its own limit. It can reduce the evidential weight of the video, but it does not by itself explain every witness claim or every reported radar track. That is why the fairest conclusion is not “the whole case is solved”, but “the public video is weaker evidence than the full legend suggests”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.vice.com/en/article/watch-a-navy-pilot-explain-his-encounter-with-a-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">watch a navy pilot explain his encounter with a ufo</span><span class="citation-popover-snippet">watch a navy pilot explain his encounter with a ufo</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Oz0p6QXHh9E" title="SHOCKING TESTIMONY: Former Navy Pilot Describes Infamous 2004 &#x27;Tic Tac&#x27; UFO Experience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Oz0p6QXHh9E" target="_blank" rel="noopener noreferrer">SHOCKING TESTIMONY: Former Navy Pilot Describes Infamous 2004 &#x27;Tic Tac&#x27; UFO Experience</a></p><p class="youtube-embed-meta">Channel: Forbes Breaking News &middot; Views: 165.7K &middot; Uploaded: July 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Oz0p6QXHh9E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Oz0p6QXHh9E">Open on YouTube</a></p></div></div></div>
 
@@ -826,24 +821,22 @@ For supporters, the case is compelling because the mundane explanations feel pie
 
 The unresolved status therefore does not automatically imply exotic technology. “Unidentified” means not publicly identified on the available evidence. It can include foreign systems, classified US systems, drones, balloons, aircraft, sensor artefacts, natural phenomena, reporting errors, or combinations of several factors. The Nimitz case remains interesting because none of those categories has been publicly demonstrated to close the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a-Illustration-3-dark.svg" | relative_url }}" alt="USS Nimitz Tic Tac video 2004 illustration 3" data-theme-src-dark="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/USS_Nimitz_Tic_Tac_v_83266a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common misunderstandings about the Tic Tac video
 
 The first misunderstanding is that the video is a complete record of the whole event. It is not. The video is a short infrared clip from a later aircraft sortie, while the most dramatic human account comes from Fravor and Dietrich’s earlier visual encounter. Treating the clip as if it directly shows every claimed manoeuvre makes the evidence look stronger than it is. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-The second misunderstanding is that Pentagon release equals Pentagon endorsement of an extraordinary explanation. The Department of Defense confirmed that the videos were genuine Navy videos and said the phenomena remained unidentified; it did not say the object was alien, transmedium, or beyond all human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release | U.S. Department of War...</span></span></span>(#endnote-1 "Snippet: Statement by the Department of Defense on the Release of Historical Navy Videos > U.S. Department of War > Release | U.S. Department of War")
+The second misunderstanding is that Pentagon release equals Pentagon endorsement of an extraordinary explanation. The Department of Defense confirmed that the videos were genuine Navy videos and said the phenomena remained unidentified; it did not say the object was alien, transmedium, or beyond all human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(#endnote-1 "Snippet: Statement by the Department of Defense on the Release of Historical Navy Videos > U.S. Department of War > Release | U.S. Department of War")
 
 The third misunderstanding is that witness credibility alone settles the physics. Military pilots are trained observers, and their testimony deserves serious attention. But aviation history also contains many cases where skilled observers misjudged distance, size, speed or the behaviour of unfamiliar objects under unusual conditions. Credibility raises the value of a report; it does not remove the need for raw data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The fourth misunderstanding is that skeptical analysis has fully explained the whole Nimitz incident. Some skeptical work plausibly challenges dramatic readings of the FLIR clip, but the public record still lacks enough primary sensor data to test all claims. A cautious reader can accept that the video is ambiguous while also accepting that the broader case has not been publicly resolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[leonarddavid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">debunking navy ufo videos</span><span class="citation-popover-snippet">debunking navy ufo videos</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/85OhTbTtK_I" title="The 2004 USS Nimitz UFO Incident | Contact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=85OhTbTtK_I" target="_blank" rel="noopener noreferrer">The 2004 USS Nimitz UFO Incident | Contact</a></p><p class="youtube-embed-meta">Channel: Discovery &middot; Views: 1.3M &middot; Uploaded: August 2019 &middot; Length: 3 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=85OhTbTtK_I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=85OhTbTtK_I">Open on YouTube</a></p></div></div></div>
 
 ## How to weigh the case today
 
-The fairest way to weigh the USS Nimitz Tic Tac case is to separate the evidence into tiers. The strongest public fact is provenance: the US government acknowledged and released the 2004 Navy video. The next tier is witness testimony: named aviators gave consistent, serious accounts of an unusual object. The weaker public tier is the missing technical record: raw radar data, full sensor metadata, and complete classified analysis are not available in a form that lets outside experts reproduce the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release | U.S. Department of War...</span></span></span>(#endnote-1 "Snippet: Statement by the Department of Defense on the Release of Historical Navy Videos > U.S. Department of War > Release | U.S. Department of War") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">The story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots in 2004 - CBS News...</span></span></span>
+The fairest way to weigh the USS Nimitz Tic Tac case is to separate the evidence into tiers. The strongest public fact is provenance: the US government acknowledged and released the 2004 Navy video. The next tier is witness testimony: named aviators gave consistent, serious accounts of an unusual object. The weaker public tier is the missing technical record: raw radar data, full sensor metadata, and complete classified analysis are not available in a form that lets outside experts reproduce the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(#endnote-1 "Snippet: Statement by the Department of Defense on the Release of Historical Navy Videos > U.S. Department of War > Release | U.S. Department of War") <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">The story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots in 2004 - CBS News...</span></span></span>
 
 That structure leads to a balanced conclusion. The Nimitz case is not just internet folklore; it has credible witnesses, official video provenance and a place in the modern government UAP record. At the same time, the public evidence does not justify the strongest popular claims often attached to it. The video is real, the official public classification remains unidentified, and the broader incident remains unresolved in the public domain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -852,44 +845,86 @@ Its lasting importance is procedural as much as mysterious. The case exposed how
 For a case dossier, the USS Nimitz Tic Tac video should therefore be treated as a pivotal but limited artefact. It is central to the 2004 Nimitz incident, but it is not the whole case. It supports the claim that Navy systems recorded something unidentified; it does not, on its own, prove the extraordinary performance described in the broader witness narrative.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened During the Nimitz Tic Tac Sighting?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened During the Nimitz Tic Tac Sighting?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Presents a comprehensive file on the 2004 Nimitz encounter, summarizing pilot testimony, radar claims, and the ensuing military UAP debate.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Details why extraordinary UAP reports in military settings require rigorous, independent verification against prosaic sensor and atmosphe...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches the investigative rigour needed to separate sensor-based illusions from anomalous flight characteristics.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides institutional background on how UAP/UFO documentation has shifted from the Blue Book era to the modern Pentagon UAP office.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -926,15 +961,15 @@ For a case dossier, the USS Nimitz Tic Tac video should therefore be treated as 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/ad50048f5e8927ed1a97.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -942,15 +977,15 @@ For a case dossier, the USS Nimitz Tic Tac video should therefore be treated as 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Red Arrows Poster | Royal Air Force RAF | Wall Art | Print | Aircraft Aviation"><img src="{{ '/assets/images/marketplace-covers/6d3a97c7ac80d84f3dd4.jpg' | relative_url }}" alt="Listing image for Red Arrows Poster | Royal Air Force RAF | Wall Art | Print | Aircraft Aviation" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Red Arrows Poster | Royal Air Force RAF | Wall Art | Print | Aircraft Aviation</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -958,15 +993,15 @@ For a case dossier, the USS Nimitz Tic Tac video should therefore be treated as 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spitfire aviation poster wall art print un framed various size options available"><img src="{{ '/assets/images/marketplace-covers/3c567cd1b6b6d3f92b8b.jpg' | relative_url }}" alt="Listing image for Spitfire aviation poster wall art print un framed various size options available" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Spitfire aviation poster wall art print un framed various size options available</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -974,15 +1009,15 @@ For a case dossier, the USS Nimitz Tic Tac video should therefore be treated as 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/79d7c1c2f8b6a13b52b4.jpg' | relative_url }}" alt="Listing image for White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">White Cliffs Sunset Aviation Boat War Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for aviation poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: aviation poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -990,7 +1025,7 @@ For a case dossier, the USS Nimitz Tic Tac video should therefore be treated as 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="uss-nimitz-tic-tac-video-2004-what-really-happened-during-the-nimitz-tic-tac-sighting-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1206,230 +1241,230 @@ For a case dossier, the USS Nimitz Tic Tac video should therefore be treated as 
 1. <a id="endnote-1"></a>
    Source: defense.gov  
    Title: U.S. Department of War  
-   Link: [https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/](https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)  
+   Link: <a href="https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Releases/release/article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement by the Department of Defense on the Release of Historical Navy Videos &gt; U.S. Department of War &gt; Release | U.S. Department of War...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cbsnews.com  
    Title: CBS News  
-   Link: [https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/](https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/)  
+   Link: <a href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots in 2004 - CBS News...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: vice.com  
    Title: the skeptics guide to the pentagons ufo videos  
-   Link: [https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/](https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/)  
+   Link: <a href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/</a>  
 
 4. <a id="endnote-4"></a>
    Source: oversight.house.gov  
    Title: David Fravor Statement for House Oversight Committee  
-   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf)  
+   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: documentcloud.org  
    Title: Document Cloud USS Nimitz UFO / UAP Tic Tac Executive  
-   Link: [https://www.documentcloud.org/documents/20743466-nimitz-unredacted/](https://www.documentcloud.org/documents/20743466-nimitz-unredacted/)  
+   Link: <a href="https://www.documentcloud.org/documents/20743466-nimitz-unredacted/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/20743466-nimitz-unredacted/</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
 
 8. <a id="endnote-8"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/40212818/A_Forensic_Analysis_of_Navy_Carrier_Strike_Group_Elevens_Encounter_with_an_Anomalous_Aerial_Vehicle_ANALYSIS_OF_EVIDENCE_AND_RESULTING_CONCLUSIONS_BY_THE_SCIENTIFIC_COALITION_FOR_UFOLOGY](https://www.academia.edu/40212818/A_Forensic_Analysis_of_Navy_Carrier_Strike_Group_Elevens_Encounter_with_an_Anomalous_Aerial_Vehicle_ANALYSIS_OF_EVIDENCE_AND_RESULTING_CONCLUSIONS_BY_THE_SCIENTIFIC_COALITION_FOR_UFOLOGY)  
+   Link: <a href="https://www.academia.edu/40212818/A_Forensic_Analysis_of_Navy_Carrier_Strike_Group_Elevens_Encounter_with_an_Anomalous_Aerial_Vehicle_ANALYSIS_OF_EVIDENCE_AND_RESULTING_CONCLUSIONS_BY_THE_SCIENTIFIC_COALITION_FOR_UFOLOGY" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/40212818/A_Forensic_Analysis_of_Navy_Carrier_Strike_Group_Elevens_Encounter_with_an_Anomalous_Aerial_Vehicle_ANALYSIS_OF_EVIDENCE_AND_RESULTING_CONCLUSIONS_BY_THE_SCIENTIFIC_COALITION_FOR_UFOLOGY</a>  
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7514271/</a>  
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 11. <a id="endnote-11"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 12. <a id="endnote-12"></a>
    Source: leonarddavid.com  
    Title: debunking navy ufo videos  
-   Link: [https://www.leonarddavid.com/debunking-navy-ufo-videos/](https://www.leonarddavid.com/debunking-navy-ufo-videos/)  
+   Link: <a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
 
 13. <a id="endnote-13"></a>
    Source: pclt.defense.gov  
    Title: 2022 DoD Chief FOIA Officer Report  
-   Link: [https://pclt.defense.gov/Portals/140/FOIA/CFO/2022_DoD_Chief_FOIA_Officer_Report.pdf](https://pclt.defense.gov/Portals/140/FOIA/CFO/2022_DoD_Chief_FOIA_Officer_Report.pdf)  
+   Link: <a href="https://pclt.defense.gov/Portals/140/FOIA/CFO/2022_DoD_Chief_FOIA_Officer_Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pclt.defense.gov/Portals/140/FOIA/CFO/2022_DoD_Chief_FOIA_Officer_Report.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: comptroller.defense.gov  
    Title: RDTE OSD PB 2026  
-   Link: [https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2026/budget_justification/pdfs/03_RDT_and_E/RDTE_OSD_PB_2026.pdf](https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2026/budget_justification/pdfs/03_RDT_and_E/RDTE_OSD_PB_2026.pdf)  
+   Link: <a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2026/budget_justification/pdfs/03_RDT_and_E/RDTE_OSD_PB_2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2026/budget_justification/pdfs/03_RDT_and_E/RDTE_OSD_PB_2026.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: media.defense.gov  
-   Link: [https://media.defense.gov/2023/Apr/26/2003208856/-1/-1/0/1881.PDF](https://media.defense.gov/2023/Apr/26/2003208856/-1/-1/0/1881.PDF)  
+   Link: <a href="https://media.defense.gov/2023/Apr/26/2003208856/-1/-1/0/1881.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2023/Apr/26/2003208856/-1/-1/0/1881.PDF</a>  
 
 16. <a id="endnote-16"></a>
    Source: media.defense.gov  
    Title: FOIA LOG  
-   Link: [https://media.defense.gov/2025/May/30/2003728332/-1/-1/0/FOIA%20LOG%20OCTOBER%201%2C%202024%20-%20DECEMBER%2031%2C%202024%20REDACTED.PDF](https://media.defense.gov/2025/May/30/2003728332/-1/-1/0/FOIA%20LOG%20OCTOBER%201%2C%202024%20-%20DECEMBER%2031%2C%202024%20REDACTED.PDF)  
+   Link: <a href="https://media.defense.gov/2025/May/30/2003728332/-1/-1/0/FOIA%20LOG%20OCTOBER%201%2C%202024%20-%20DECEMBER%2031%2C%202024%20REDACTED.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2025/May/30/2003728332/-1/-1/0/FOIA%20LOG%20OCTOBER%201%2C%202024%20-%20DECEMBER%2031%2C%202024%20REDACTED.PDF</a>  
    Published: October 1, 2024  
 
 17. <a id="endnote-17"></a>
    Source: media.defense.gov  
    Title: T 0055 MARZOLF TIME CRITICAL TARGETING  
-   Link: [https://media.defense.gov/2017/Dec/28/2001861683/-1/-1/0/T_0055_MARZOLF_TIME_CRITICAL_TARGETING.PDF](https://media.defense.gov/2017/Dec/28/2001861683/-1/-1/0/T_0055_MARZOLF_TIME_CRITICAL_TARGETING.PDF)  
+   Link: <a href="https://media.defense.gov/2017/Dec/28/2001861683/-1/-1/0/T_0055_MARZOLF_TIME_CRITICAL_TARGETING.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2017/Dec/28/2001861683/-1/-1/0/T_0055_MARZOLF_TIME_CRITICAL_TARGETING.PDF</a>  
 
 18. <a id="endnote-18"></a>
    Source: media.defense.gov  
-   Link: [https://media.defense.gov/2023/May/04/2003215601/-1/-1/0/1810.PDF](https://media.defense.gov/2023/May/04/2003215601/-1/-1/0/1810.PDF)  
+   Link: <a href="https://media.defense.gov/2023/May/04/2003215601/-1/-1/0/1810.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2023/May/04/2003215601/-1/-1/0/1810.PDF</a>  
 
 19. <a id="endnote-19"></a>
    Source: media.defense.gov  
-   Link: [https://media.defense.gov/2023/May/04/2003215812/-1/-1/0/2039.PDF](https://media.defense.gov/2023/May/04/2003215812/-1/-1/0/2039.PDF)  
+   Link: <a href="https://media.defense.gov/2023/May/04/2003215812/-1/-1/0/2039.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2023/May/04/2003215812/-1/-1/0/2039.PDF</a>  
 
 20. <a id="endnote-20"></a>
    Source: comptroller.defense.gov  
-   Link: [https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2023/budget_justification/pdfs/01_Operation_and_Maintenance/O_M_VOL_1_PART_2/OM_Volume1_Part2.pdf](https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2023/budget_justification/pdfs/01_Operation_and_Maintenance/O_M_VOL_1_PART_2/OM_Volume1_Part2.pdf)  
+   Link: <a href="https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2023/budget_justification/pdfs/01_Operation_and_Maintenance/O_M_VOL_1_PART_2/OM_Volume1_Part2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2023/budget_justification/pdfs/01_Operation_and_Maintenance/O_M_VOL_1_PART_2/OM_Volume1_Part2.pdf</a>  
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/2004](https://en.wikipedia.org/wiki/2004)  
+   Link: <a href="https://en.wikipedia.org/wiki/2004" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/2004</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
 
 23. <a id="endnote-23"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/)  
+   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
 
 24. <a id="endnote-24"></a>
    Source: oversight.house.gov  
-   Link: [https://oversight.house.gov/release/national-security-subcommittee-to-hold-hearing-on-unidentified-anomalous-phenomena%EF%BF%BC/](https://oversight.house.gov/release/national-security-subcommittee-to-hold-hearing-on-unidentified-anomalous-phenomena%EF%BF%BC/)  
+   Link: <a href="https://oversight.house.gov/release/national-security-subcommittee-to-hold-hearing-on-unidentified-anomalous-phenomena%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/national-security-subcommittee-to-hold-hearing-on-unidentified-anomalous-phenomena%EF%BF%BC/</a>  
 
 25. <a id="endnote-25"></a>
    Source: docs.house.gov  
    Title: By Event.aspx  
-   Link: [https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282](https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282)  
+   Link: <a href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282</a>  
 
 26. <a id="endnote-26"></a>
    Source: aph.gov.au  
    Title: Preliminary Assessment UAP 20210625  
-   Link: [https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf](https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aph.gov.au/-/media/Estimates/fadt/supp2122/add_info/Preliminary-Assessment-UAP-20210625.pdf</a>  
 
 27. <a id="endnote-27"></a>
    Source: history.com  
    Title: US S Nimitz 'Tic Tac' UFO: Declassified Video  
-   Link: [https://www.history.com/videos/uss-nimitz-tic-tac-ufo-declassified-video](https://www.history.com/videos/uss-nimitz-tic-tac-ufo-declassified-video)  
+   Link: <a href="https://www.history.com/videos/uss-nimitz-tic-tac-ufo-declassified-video" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/videos/uss-nimitz-tic-tac-ufo-declassified-video</a>  
 
 28. <a id="endnote-28"></a>
    Source: history.com  
    Title: uss nimitz 2004 tic tac ufo encounter  
-   Link: [https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter](https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter)  
+   Link: <a href="https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/uss-nimitz-2004-tic-tac-ufo-encounter</a>  
 
 29. <a id="endnote-29"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/121745699/Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles_in_the_2004_Nimitz_Encounter](https://www.academia.edu/121745699/Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles_in_the_2004_Nimitz_Encounter)  
+   Link: <a href="https://www.academia.edu/121745699/Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles_in_the_2004_Nimitz_Encounter" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121745699/Estimating_Flight_Characteristics_of_Anomalous_Unidentified_Aerial_Vehicles_in_the_2004_Nimitz_Encounter</a>  
 
 30. <a id="endnote-30"></a>
    Source: leonarddavid.com  
-   Link: [https://www.leonarddavid.com/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/](https://www.leonarddavid.com/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/)  
+   Link: <a href="https://www.leonarddavid.com/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
 
 31. <a id="endnote-31"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 32. <a id="endnote-32"></a>
    Source: vice.com  
    Title: watch a navy pilot explain his encounter with a ufo  
-   Link: [https://www.vice.com/en/article/watch-a-navy-pilot-explain-his-encounter-with-a-ufo/](https://www.vice.com/en/article/watch-a-navy-pilot-explain-his-encounter-with-a-ufo/)  
+   Link: <a href="https://www.vice.com/en/article/watch-a-navy-pilot-explain-his-encounter-with-a-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/watch-a-navy-pilot-explain-his-encounter-with-a-ufo/</a>  
 
 33. <a id="endnote-33"></a>
    Source: documentcloud.org  
-   Link: [https://www.documentcloud.org/documents/20973238-210625_odni-prelminary-assessment-uap/](https://www.documentcloud.org/documents/20973238-210625_odni-prelminary-assessment-uap/)  
+   Link: <a href="https://www.documentcloud.org/documents/20973238-210625_odni-prelminary-assessment-uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.documentcloud.org/documents/20973238-210625_odni-prelminary-assessment-uap/</a>  
 
 34. <a id="endnote-34"></a>
    Source: dni.gov  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
 35. <a id="endnote-35"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/baass/TIC_TAC_UFO_EXECUTIVE_REPORT_1526682843046_42960218_ver1.0.pdf](https://documents2.theblackvault.com/documents/baass/TIC_TAC_UFO_EXECUTIVE_REPORT_1526682843046_42960218_ver1.0.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/baass/TIC_TAC_UFO_EXECUTIVE_REPORT_1526682843046_42960218_ver1.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/baass/TIC_TAC_UFO_EXECUTIVE_REPORT_1526682843046_42960218_ver1.0.pdf</a>  
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
    Title: office of the director of national intelligence  
-   Link: [https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/](https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/</a>  
 
 37. <a id="endnote-37"></a>
    Source: cbsnews.com  
    Title: navy ufo sighting 60 minutes 2021 05 16  
-   Link: [https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/](https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/)  
+   Link: <a href="https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/</a>  
 
 38. <a id="endnote-38"></a>
    Source: cbsnews.com  
    Title: nasa ufo report uap study  
-   Link: [https://www.cbsnews.com/news/nasa-ufo-report-uap-study/](https://www.cbsnews.com/news/nasa-ufo-report-uap-study/)  
+   Link: <a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
 
 39. <a id="endnote-39"></a>
    Source: coffeeordie.com  
    Title: nimitz tic tac  
-   Link: [https://www.coffeeordie.com/article/nimitz-tic-tac](https://www.coffeeordie.com/article/nimitz-tic-tac)  
+   Link: <a href="https://www.coffeeordie.com/article/nimitz-tic-tac" target="_blank" rel="noopener noreferrer nofollow">https://www.coffeeordie.com/article/nimitz-tic-tac</a>  
 
 40. <a id="endnote-40"></a>
    Source: abcnews.com  
-   Link: [https://abcnews.com/US/navy-pilot-recalls-encounter-ufo-unlike/story?id=51856514](https://abcnews.com/US/navy-pilot-recalls-encounter-ufo-unlike/story?id=51856514)  
+   Link: <a href="https://abcnews.com/US/navy-pilot-recalls-encounter-ufo-unlike/story?id=51856514" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/US/navy-pilot-recalls-encounter-ufo-unlike/story?id=51856514</a>  
 
 ### Additional References
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Oz0p6QXHh9E](https://www.youtube.com/watch?v=Oz0p6QXHh9E)  
+   Link: <a href="https://www.youtube.com/watch?v=Oz0p6QXHh9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oz0p6QXHh9E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy pilot describes encounter with &#x27;Tic Tac&#x27; shaped unidentified flying object...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=zlrz84nEXtk](https://www.youtube.com/watch?v=zlrz84nEXtk)  
+   Link: <a href="https://www.youtube.com/watch?v=zlrz84nEXtk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zlrz84nEXtk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2004 USS Nimitz UFO Incident | Contact...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2305.18566](https://arxiv.org/abs/2305.18566)  
+   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
    Title: Navy pilots describe encounters with UFOs  
-   Link: [https://www.youtube.com/watch?v=ZBtMbBPzqHY](https://www.youtube.com/watch?v=ZBtMbBPzqHY)  
+   Link: <a href="https://www.youtube.com/watch?v=ZBtMbBPzqHY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZBtMbBPzqHY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SHOCKING TESTIMONY: Former Navy Pilot Describes Infamous 2004 &#x27;Tic Tac&#x27; UFO Experience...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy](https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy)  
+   Link: <a href="https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403025531_Tic_Tac_and_Beyond_UAP_Sightings_Reverse-Engineered_Alien_Tech_and_the_Corporate-Government_Conspiracy</a>  
 
 46. <a id="endnote-46"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena](https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena)  
+   Link: <a href="https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353539589_Analysis_of_ODNI_Preliminary_Assessment_Unidentified_Aerial_Phenomena</a>  
 
 47. <a id="endnote-47"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/](https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/)  
+   Link: <a href="https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/</a>  
 
 48. <a id="endnote-48"></a>
    Source: rv-times.com  
-   Link: [https://rv-times.com/2023/07/26/close-encounters-with-ufos-described-to-congressional-committee/](https://rv-times.com/2023/07/26/close-encounters-with-ufos-described-to-congressional-committee/)  
+   Link: <a href="https://rv-times.com/2023/07/26/close-encounters-with-ufos-described-to-congressional-committee/" target="_blank" rel="noopener noreferrer nofollow">https://rv-times.com/2023/07/26/close-encounters-with-ufos-described-to-congressional-committee/</a>  
 
 49. <a id="endnote-49"></a>
    Source: elitefasion.com  
-   Link: [https://elitefasion.com/uap-ufo-records/fravor-tic-tac-testimony](https://elitefasion.com/uap-ufo-records/fravor-tic-tac-testimony)  
+   Link: <a href="https://elitefasion.com/uap-ufo-records/fravor-tic-tac-testimony" target="_blank" rel="noopener noreferrer nofollow">https://elitefasion.com/uap-ufo-records/fravor-tic-tac-testimony</a>  
 
 50. <a id="endnote-50"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos](https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos)  
+   Link: <a href="https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/does-it-matter-that-the-dod-released-those-ufo-videos</a>

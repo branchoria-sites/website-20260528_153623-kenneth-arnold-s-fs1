@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /uss-nimitz-tic-tac-v-83266a-index/
 description: Focused pages that expand on USS Nimitz Tic Tac video 2004.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: USS_Nimitz_Tic_Tac_v_83266a
 parent_title: USS Nimitz Tic Tac video 2004

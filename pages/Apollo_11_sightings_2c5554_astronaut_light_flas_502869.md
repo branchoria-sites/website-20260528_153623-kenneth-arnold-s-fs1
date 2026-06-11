@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /apollo-11-sightings-1969/
 nav_short_title: Light Flashes
 title: Why Did Apollo 11 Astronauts See Flashes?
-title_full: Why Did Apollo 11 Astronauts See Flashes? | Apollo 11 Sightings
+title_full: Why Did Apollo 11 Astronauts See Flashes?
 display_title_short: Light Flashes
 display_title: Light Flashes
 heading_title: Why Did Apollo 11 Astronauts See Flashes?
@@ -239,7 +239,7 @@ next_link:
   permalink: /media-myth/
   short_title: Media Myth
   heading_title: How Apollo 11 Became a UFO Legend
-date: '2026-06-08 23:28:27 '
+date: '2026-06-11 13:17:17 '
 header:
   og_image: /assets/images/Apollo_11_sightings_2c5554_astronaut_light_flas_502869-Illustration-1-social.jpg
   preview_image: /assets/images/Apollo_11_sightings_2c5554_astronaut_light_flas_502869-Illustration-1.webp
@@ -248,8 +248,7 @@ image: /assets/images/Apollo_11_sightings_2c5554_astronaut_light_flas_502869-Ill
 
 ## Introduction
 
-One of the lesser-known Apollo 11 observations had nothing to do with unidentified spacecraft outside the window. Instead, it happened inside the darkened cabin. Buzz Aldrin reported seeing brief flashes of light while trying to sleep during the journey to the Moon, even though no obvious external source was visible. Similar reports later came from other Apollo crews. What began as a puzzling sensory experience eventually became an important clue about how deep-space radiation affects the human body. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10919968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCLight flashes and other sensory illusions perceived in space...by L Narici · 2023 · Cited by 9 — The first reported observation of th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2021/11/seeingcosmicraysinspace.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASA&#x27;Seeing&#x27; Cosmic Rays in Space19 Apr 2012 — Neil Armstrong and Buzz Aldrin both reported these flashes during the Apollo 11 mission, a...</span></span></span>
-
+One of the lesser-known Apollo 11 observations had nothing to do with unidentified spacecraft outside the window. Instead, it happened inside the darkened cabin. Buzz Aldrin reported seeing brief flashes of light while trying to sleep during the journey to the Moon, even though no obvious external source was visible. Similar reports later came from other Apollo crews. What began as a puzzling sensory experience eventually became an important clue about how deep-space radiation affects the human body. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10919968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Light flashes and other sensory illusions perceived in space...by L Narici · 2023 · Cited by 9 — The first reported observation of th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/wp-content/uploads/2021/11/seeingcosmicraysinspace.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASA&#x27;Seeing&#x27; Cosmic Rays in Space19 Apr 2012 — Neil Armstrong and Buzz Aldrin both reported these flashes during the Apollo 11 mission, a...</span></span></span>
 
 <img src="{{ "/assets/images/Apollo_11_sightings_2c5554_astronaut_light_flas_502869-Illustration-1-dark.svg" | relative_url }}" alt="Light Flashes illustration 1" data-theme-src-dark="{{ "/assets/images/Apollo_11_sightings_2c5554_astronaut_light_flas_502869-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Apollo_11_sightings_2c5554_astronaut_light_flas_502869-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 These “light flashes” became scientifically significant because they offered direct evidence that high-energy particles from space could interact with the visual system. Over time, researchers concluded that the flashes were most likely caused by cosmic rays or other energetic charged particles passing through the astronauts’ eyes or nervous system. The phenomenon is now considered distinct from the more famous Apollo 11 “UFO” discussion involving an object seen outside the spacecraft. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://lsda.jsc.nasa.gov/Experiment/exper/380" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lsda.jsc.nasa.gov">[2lsda.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lsda.jsc.nasa.gov</span><span class="citation-popover-snippet">Apollo Light Flash InvestigationsA second explanation was that the bulk of the reported light flashes were caused by cosmic ray particles...</span></span></span>
@@ -260,14 +259,13 @@ These “light flashes” became scientifically significant because they offered
 
 During the post-mission technical debriefing, Buzz Aldrin described intermittent flashes appearing while the cabin lights were out and the crew were attempting to sleep. The flashes were not linked to visible external objects and seemed to occur internally, within the astronauts’ field of vision. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/05/08/us-news/buzz-aldrin-described-unusual-phenomena-during-apollo-11-mission-ufo-docs-reveal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">Aldrin, the second man to walk on the moon, reported three specific anomalies: an object observed near the spacecraft, initially suspecte...</span></span></span>
 
-The reports attracted attention because astronauts were highly trained observers accustomed to unusual visual conditions. Aldrin did not describe the flashes as alien craft or structured objects. Instead, he described brief points or streaks of light that appeared unexpectedly in darkness. Later Apollo crews described comparable experiences, sometimes even with their eyes closed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10919968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCLight flashes and other sensory illusions perceived in space...by L Narici · 2023 · Cited by 9 — The first reported observation of th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cosmic_ray_visual_phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cosmic ray visual phenomena</span><span class="citation-popover-snippet">Cosmic ray visual phenomena</span></span></span>
+The reports attracted attention because astronauts were highly trained observers accustomed to unusual visual conditions. Aldrin did not describe the flashes as alien craft or structured objects. Instead, he described brief points or streaks of light that appeared unexpectedly in darkness. Later Apollo crews described comparable experiences, sometimes even with their eyes closed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10919968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Light flashes and other sensory illusions perceived in space...by L Narici · 2023 · Cited by 9 — The first reported observation of th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cosmic_ray_visual_phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cosmic ray visual phenomena</span><span class="citation-popover-snippet">Cosmic ray visual phenomena</span></span></span>
 
 This mattered because the observations suggested the source was not ordinary reflected sunlight entering the cabin. If astronauts could still perceive flashes with closed eyes, the cause had to involve the visual system itself.
 
 ### What the flashes looked like
 
 Across Apollo, Skylab, Mir and later space missions, astronauts described several recurring patterns:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -282,7 +280,6 @@ Across Apollo, Skylab, Mir and later space missions, astronauts described severa
 Researchers later grouped these experiences under the label “cosmic ray visual phenomena” or “astronaut’s eye”. Apollo astronauts most commonly reported white flashes, particularly during lunar missions outside Earth’s magnetic protection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Apollo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ApolloAs the patron deity of Delphi (Apollo Pythios), Apollo is an oracular god—the prophetic deity of the Delphic Oracle and the deit...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0042698905006735" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Positive visual phenomena in space: A scientific case and...by WG Sannita · 2006 · Cited by 64 — Most astronauts on Apollo, Skylab, and...</span></span></span>
 
 The flashes were often easiest to notice in darkness before sleep, when the eyes had adapted to low light conditions. That matched Aldrin’s original Apollo 11 description. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Apollo_11" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Apollo 11</span><span class="citation-popover-snippet">Apollo 11Apollo 11 (July 16–24, 1969) was the American spaceflight that first landed humans on the Moon, and the fifth crewed mission...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gn26xDLL5R4" title="How Cosmic Rays Make Astronauts See Stars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gn26xDLL5R4" target="_blank" rel="noopener noreferrer">How Cosmic Rays Make Astronauts See Stars</a></p><p class="youtube-embed-meta">Channel: SciShow Space &middot; Views: 172.2K &middot; Uploaded: February 2017 &middot; Length: 4 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gn26xDLL5R4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gn26xDLL5R4">Open on YouTube</a></p></div></div></div>
 
@@ -302,7 +299,6 @@ Researchers proposed several related mechanisms:
 
 In practical terms, the astronauts were sometimes “seeing” radiation itself.
 
-
 <img src="{{ "/assets/images/Apollo_11_sightings_2c5554_astronaut_light_flas_502869-Illustration-2-dark.svg" | relative_url }}" alt="Light Flashes illustration 2" data-theme-src-dark="{{ "/assets/images/Apollo_11_sightings_2c5554_astronaut_light_flas_502869-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Apollo_11_sightings_2c5554_astronaut_light_flas_502869-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The experiments that strengthened the case
 
@@ -310,7 +306,7 @@ Apollo missions after Apollo 11 attempted to study the phenomenon scientifically
 
 The idea was straightforward: if cosmic particles were causing the flashes, detectors should record particle tracks near the same time astronauts reported seeing them. According to NASA summaries, some correlations were found between observed flashes and detected particle tracks, supporting the radiation explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Apollo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">ApolloAs the patron deity of Delphi (Apollo Pythios), Apollo is an oracular god—the prophetic deity of the Delphic Oracle and the deit...</span></span></span>
 
-Later International Space Station experiments, including ALTEA and SilEye, continued studying the effect decades after Apollo. These projects again found links between high-energy particles and visual phenomena experienced by astronauts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Apollo_11" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Apollo 11</span><span class="citation-popover-snippet">Apollo 11Apollo 11 (July 16–24, 1969) was the American spaceflight that first landed humans on the Moon, and the fifth crewed mission...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0939388923000818" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectLight flashes and other sensory illusions perceived in...by L Narici · 2024 · Cited by 9 — While the light flashes appear n...</span></span></span>
+Later International Space Station experiments, including ALTEA and SilEye, continued studying the effect decades after Apollo. These projects again found links between high-energy particles and visual phenomena experienced by astronauts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Apollo_11" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Apollo 11</span><span class="citation-popover-snippet">Apollo 11Apollo 11 (July 16–24, 1969) was the American spaceflight that first landed humans on the Moon, and the fifth crewed mission...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0939388923000818" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Light flashes and other sensory illusions perceived in...by L Narici · 2024 · Cited by 9 — While the light flashes appear n...</span></span></span>
 
 The evidence did not settle every detail of the mechanism, but it strongly shifted the discussion away from external objects and towards neuro-radiological effects.
 
@@ -318,14 +314,13 @@ The evidence did not settle every detail of the mechanism, but it strongly shift
 
 ### Internal sensation versus external observation
 
-The distinction between the two Apollo 11 phenomena is crucial. The better-known “UFO” discussion involved a visible object outside the spacecraft during translunar flight. The crew used a monocular to observe it and discussed whether it might be part of the Saturn V hardware or other debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/history/alsj-and-afj/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">alsj and afj</span><span class="citation-popover-snippet">NASAThe Apollo Lunar Surface Journal and Apollo Flight Journal19 Dec 2025 — The Apollo Lunar Surface Journal and Apollo Flight Journal ar...</span></span></span>
+The distinction between the two Apollo 11 phenomena is crucial. The better-known “UFO” discussion involved a visible object outside the spacecraft during translunar flight. The crew used a monocular to observe it and discussed whether it might be part of the Saturn V hardware or other debris. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/history/alsj-and-afj/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">alsj and afj</span><span class="citation-popover-snippet">The Apollo Lunar Surface Journal and Apollo Flight Journal19 Dec 2025 — The Apollo Lunar Surface Journal and Apollo Flight Journal ar...</span></span></span>
 
 The light flashes were fundamentally different: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0042698905006735" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Positive visual phenomena in space: A scientific case and...by WG Sannita · 2006 · Cited by 64 — Most astronauts on Apollo, Skylab, and...</span></span></span>
 
 Apollo 11 object sightingApollo 11 light flashesSeen outside the spacecraftSeen inside the astronauts’ visionObserved visually through windowsOften perceived in darkness or with eyes closedDiscussed as a possible physical objectTreated as a sensory phenomenonCould have involved nearby mission debrisLinked to cosmic radiation exposure
 
 Because the two experiences are frequently merged in UFO discussions, later retellings sometimes imply the flashes were evidence of external craft surrounding Apollo 11. The documentary record does not support that interpretation. Aldrin’s flashes were reported separately and eventually became part of biomedical research into spaceflight radiation. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://lsda.jsc.nasa.gov/Experiment/exper/380" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lsda.jsc.nasa.gov">[2lsda.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lsda.jsc.nasa.gov</span><span class="citation-popover-snippet">Apollo Light Flash InvestigationsA second explanation was that the bulk of the reported light flashes were caused by cosmic ray particles...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y87IMu_wiBw" title="Why Did Apollo Astronauts Wear Boxes Over Their Heads?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y87IMu_wiBw" target="_blank" rel="noopener noreferrer">Why Did Apollo Astronauts Wear Boxes Over Their Heads?</a></p><p class="youtube-embed-meta">Channel: Science Channel &middot; Views: 42.3K &middot; Uploaded: September 2016 &middot; Length: 3 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y87IMu_wiBw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y87IMu_wiBw">Open on YouTube</a></p></div></div></div>
 
@@ -340,7 +335,6 @@ Several factors helped blur the distinction over time:
 
 The confusion increased whenever newly released archives or debriefings resurfaced online without technical context. In many retellings, ordinary scientific uncertainty was reframed as hidden evidence of extraterrestrial encounters.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1SH58-0Ghjo" title="Apollo 17 Astronaut’s Strange Lunar Flash Encounter | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1SH58-0Ghjo" target="_blank" rel="noopener noreferrer">Apollo 17 Astronaut’s Strange Lunar Flash Encounter | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 2.1K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1SH58-0Ghjo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1SH58-0Ghjo">Open on YouTube</a></p></div></div></div>
 
 ## Why the Light Flash Discovery Still Matters
@@ -353,7 +347,6 @@ For short lunar missions, NASA concluded the flashes themselves were not dangero
 
 That issue has become more important again during the Artemis era, because crews travelling beyond low Earth orbit will once more encounter the same deep-space radiation environment experienced by Apollo astronauts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-saw-flashes-on-the-far-side-of-the-moon-that-cameras-struggle-to-capture-heres-why-scientists-are-excited" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Here&#x27;s why scientists are excitedMay 8, 2026 — In April 2026, during NASA&#x27;s Artemis 2 mission—the first crewed lunar flight since 1972—th...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
-
 <img src="{{ "/assets/images/Apollo_11_sightings_2c5554_astronaut_light_flas_502869-Illustration-3-dark.svg" | relative_url }}" alt="Light Flashes illustration 3" data-theme-src-dark="{{ "/assets/images/Apollo_11_sightings_2c5554_astronaut_light_flas_502869-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Apollo_11_sightings_2c5554_astronaut_light_flas_502869-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Apollo 11’s unexpected contribution to radiation science
 
@@ -362,44 +355,86 @@ In hindsight, Aldrin’s report helped open a new research field linking spacefl
 That is why the Apollo 11 light flashes remain scientifically important even though they are much less famous than the mission’s debated external sighting. The flashes were never strong evidence for a UFO encounter. Instead, they became one of the earliest human observations of how deep space itself can intrude directly into perception.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why Did Apollo 11 Astronauts See Flashes?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why Did Apollo 11 Astronauts See Flashes?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Carrying the Fire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oLXIuwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Carrying the Fire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carrying the Fire">Carrying the Fire</a>
+        </h4>
+        <p class="fr-book-author">By Michael Collins</p>
+        
+        <p class="fr-book-desc">Provides an intimate look at the visual and psychological environment inside the Apollo 11 command module during the translunar coast.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Carrying+the+Fire+by+Michael+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Man on the Moon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PNw6AQAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Man on the Moon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Man on the Moon">A Man on the Moon</a>
+        </h4>
+        <p class="fr-book-author">By Andrew Chaikin, Time-Life Books</p>
+        
+        <p class="fr-book-desc">Covers the technical debriefings and sensory observations made by the lunar crews, including the cosmic ray flash phenomenon.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Man+on+the+Moon+by+Andrew+Chaikin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+        </h4>
+        <p class="fr-book-author">By Philip C. Plait</p>
+        
+        <p class="fr-book-desc">Helps distinguish real space science anomalies, like radiation particle interaction, from popular conspiratorial myths.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Convergence+of+Science+and+Law+by+Policy+and+Global+Affairs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Convergence of Science and Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4TicAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for A Convergence of Science and Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Convergence+of+Science+and+Law+by+Policy+and+Global+Affairs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Convergence of Science and Law">A Convergence of Science and Law</a>
+        </h4>
+        <p class="fr-book-author">By Policy and Global Affairs</p>
+        
+        <p class="fr-book-desc">Details the medical and biophysical studies on how cosmic rays interact with the human retina to cause visual phosphenes in deep space.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Convergence+of+Science+and+Law+by+Policy+and+Global+Affairs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Carrying+the+Fire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Carrying the Fire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Man+on+the+Moon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Man on the Moon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -436,15 +471,15 @@ That is why the Apollo 11 light flashes remain scientifically important even tho
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Airfix Apollo Saturn V Space Rocket 1/144 Model Kit 9170+ Paints"><img src="{{ '/assets/images/marketplace-covers/9ab308953f00816e6e81.jpg' | relative_url }}" alt="Listing image for Vintage Airfix Apollo Saturn V Space Rocket 1/144 Model Kit 9170+ Paints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" target="_blank" rel="sponsored noopener noreferrer">Vintage Airfix Apollo Saturn V Space Rocket 1/144 Model Kit 9170+ Paints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Saturn V model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Saturn V model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -452,15 +487,15 @@ That is why the Apollo 11 light flashes remain scientifically important even tho
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airfix: Apollo Saturn V Rocket Model Kit: 40th Anniversary 1:144 scale"><img src="{{ '/assets/images/marketplace-covers/e05163cc7b75b669cbef.jpg' | relative_url }}" alt="Listing image for Airfix: Apollo Saturn V Rocket Model Kit: 40th Anniversary 1:144 scale" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" target="_blank" rel="sponsored noopener noreferrer">Airfix: Apollo Saturn V Rocket Model Kit: 40th Anniversary 1:144 scale</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Saturn V model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Saturn V model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -468,15 +503,15 @@ That is why the Apollo 11 light flashes remain scientifically important even tho
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SATURN 5 SATURN V APOLLO 11 ROCKET MODEL - Scale 1/144 77cm 🚀FULLY ASSEMBLED"><img src="{{ '/assets/images/marketplace-covers/8c81cbd6e0902ece2fc6.jpg' | relative_url }}" alt="Listing image for SATURN 5 SATURN V APOLLO 11 ROCKET MODEL - Scale 1/144 77cm 🚀FULLY ASSEMBLED" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" target="_blank" rel="sponsored noopener noreferrer">SATURN 5 SATURN V APOLLO 11 ROCKET MODEL - Scale 1/144 77cm 🚀FULLY ASSEMBLED</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Saturn V model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Saturn V model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -484,15 +519,15 @@ That is why the Apollo 11 light flashes remain scientifically important even tho
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell Apollo 11 Saturn V Rocket Gift Set Model Kit 03704"><img src="{{ '/assets/images/marketplace-covers/ccab88697846c16a7892.jpg' | relative_url }}" alt="Listing image for Revell Apollo 11 Saturn V Rocket Gift Set Model Kit 03704" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" target="_blank" rel="sponsored noopener noreferrer">Revell Apollo 11 Saturn V Rocket Gift Set Model Kit 03704</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Saturn V model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Saturn V model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -500,7 +535,7 @@ That is why the Apollo 11 light flashes remain scientifically important even tho
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Saturn+V+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Saturn V model" data-ebay-reference="light-flashes-why-did-apollo-11-astronauts-see-flashes-apollo-11-sightings-1969-saturn-v-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -715,107 +750,107 @@ That is why the Apollo 11 light flashes remain scientifically important even tho
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10919968/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10919968/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCLight flashes and other sensory illusions perceived in space...by L Narici · 2023 · Cited by 9 — The first reported observation of th...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10919968/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10919968/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Light flashes and other sensory illusions perceived in space...by L Narici · 2023 · Cited by 9 — The first reported observation of th...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/wp-content/uploads/2021/11/seeingcosmicraysinspace.pdf](https://www.nasa.gov/wp-content/uploads/2021/11/seeingcosmicraysinspace.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2021/11/seeingcosmicraysinspace.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2021/11/seeingcosmicraysinspace.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;Seeing&#x27; Cosmic Rays in Space19 Apr 2012 — Neil Armstrong and Buzz Aldrin both reported these flashes during the Apollo 11 mission, a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0042698905006735](https://www.sciencedirect.com/science/article/pii/S0042698905006735)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0042698905006735" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0042698905006735</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Positive visual phenomena in space: A scientific case and...by WG Sannita · 2006 · Cited by 64 — Most astronauts on Apollo, Skylab, and...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: lsda.jsc.nasa.gov  
-   Link: [https://lsda.jsc.nasa.gov/Experiment/exper/380](https://lsda.jsc.nasa.gov/Experiment/exper/380)  
+   Link: <a href="https://lsda.jsc.nasa.gov/Experiment/exper/380" target="_blank" rel="noopener noreferrer nofollow">https://lsda.jsc.nasa.gov/Experiment/exper/380</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo Light Flash InvestigationsA second explanation was that the bulk of the reported light flashes were caused by cosmic ray particles...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Cosmic ray visual phenomena  
-   Link: [https://en.wikipedia.org/wiki/Cosmic_ray_visual_phenomena](https://en.wikipedia.org/wiki/Cosmic_ray_visual_phenomena)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cosmic_ray_visual_phenomena" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cosmic_ray_visual_phenomena</a>  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0939388923000818](https://www.sciencedirect.com/science/article/pii/S0939388923000818)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectLight flashes and other sensory illusions perceived in...by L Narici · 2024 · Cited by 9 — While the light flashes appear n...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0939388923000818" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0939388923000818</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Light flashes and other sensory illusions perceived in...by L Narici · 2024 · Cited by 9 — While the light flashes appear n...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nasa.gov  
    Title: alsj and afj  
-   Link: [https://www.nasa.gov/history/alsj-and-afj/](https://www.nasa.gov/history/alsj-and-afj/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe Apollo Lunar Surface Journal and Apollo Flight Journal19 Dec 2025 — The Apollo Lunar Surface Journal and Apollo Flight Journal ar...</p></details>
+   Link: <a href="https://www.nasa.gov/history/alsj-and-afj/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/alsj-and-afj/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Apollo Lunar Surface Journal and Apollo Flight Journal19 Dec 2025 — The Apollo Lunar Surface Journal and Apollo Flight Journal ar...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: space.com  
-   Link: [https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-saw-flashes-on-the-far-side-of-the-moon-that-cameras-struggle-to-capture-heres-why-scientists-are-excited](https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-saw-flashes-on-the-far-side-of-the-moon-that-cameras-struggle-to-capture-heres-why-scientists-are-excited)  
+   Link: <a href="https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-saw-flashes-on-the-far-side-of-the-moon-that-cameras-struggle-to-capture-heres-why-scientists-are-excited" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/artemis/nasas-artemis-2-astronauts-saw-flashes-on-the-far-side-of-the-moon-that-cameras-struggle-to-capture-heres-why-scientists-are-excited</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why scientists are excitedMay 8, 2026 — In April 2026, during NASA&#x27;s Artemis 2 mission—the first crewed lunar flight since 1972—th...</p></details>
    Published: May 8, 2026  
 
 9. <a id="endnote-9"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/the-apollo-program/](https://www.nasa.gov/the-apollo-program/)  
+   Link: <a href="https://www.nasa.gov/the-apollo-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/the-apollo-program/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Apollo ProgramProject Apollo&#x27;s goals went beyond landing Americans on the moon and returning them safely to Earth. The national effor...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Apollo](https://en.wikipedia.org/wiki/Apollo)  
+   Link: <a href="https://en.wikipedia.org/wiki/Apollo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Apollo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ApolloAs the patron deity of Delphi (Apollo Pythios), Apollo is an oracular god—the prophetic deity of the Delphic Oracle and the deit...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Apollo 11  
-   Link: [https://en.wikipedia.org/wiki/Apollo_11](https://en.wikipedia.org/wiki/Apollo_11)  
+   Link: <a href="https://en.wikipedia.org/wiki/Apollo_11" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Apollo_11</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo 11Apollo 11 (July 16–24, 1969) was the American spaceflight that first landed humans on the Moon, and the fifth crewed mission...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: avi-loeb.medium.com  
    Title: we should not mistake cosmic rays for ufos 8d10b0085b9c  
-   Link: [https://avi-loeb.medium.com/we-should-not-mistake-cosmic-rays-for-ufos-8d10b0085b9c](https://avi-loeb.medium.com/we-should-not-mistake-cosmic-rays-for-ufos-8d10b0085b9c)  
+   Link: <a href="https://avi-loeb.medium.com/we-should-not-mistake-cosmic-rays-for-ufos-8d10b0085b9c" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/we-should-not-mistake-cosmic-rays-for-ufos-8d10b0085b9c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Should Not Mistake Cosmic-Rays for UFOs! | by Avi LoebThe astronauts noticed 6 flashes of light which are likely the result of impacts of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2026/05/08/us-news/buzz-aldrin-described-unusual-phenomena-during-apollo-11-mission-ufo-docs-reveal/](https://nypost.com/2026/05/08/us-news/buzz-aldrin-described-unusual-phenomena-during-apollo-11-mission-ufo-docs-reveal/)  
+   Link: <a href="https://nypost.com/2026/05/08/us-news/buzz-aldrin-described-unusual-phenomena-during-apollo-11-mission-ufo-docs-reveal/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/08/us-news/buzz-aldrin-described-unusual-phenomena-during-apollo-11-mission-ufo-docs-reveal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aldrin, the second man to walk on the moon, reported three specific anomalies: an object observed near the spacecraft, initially suspecte...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nypost.com  
-   Link: [https://nypost.com/2026/05/22/us-news/apollo-12-crew-describes-mysterious-streaks-of-light-in-declassified-ufo-files/](https://nypost.com/2026/05/22/us-news/apollo-12-crew-describes-mysterious-streaks-of-light-in-declassified-ufo-files/)  
+   Link: <a href="https://nypost.com/2026/05/22/us-news/apollo-12-crew-describes-mysterious-streaks-of-light-in-declassified-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/22/us-news/apollo-12-crew-describes-mysterious-streaks-of-light-in-declassified-ufo-files/</a>  
 
 15. <a id="endnote-15"></a>
    Source: livescience.com  
    Title: Live Science Astronauts can face 'nearly lethal doses' of solar radiation  
-   Link: [https://www.livescience.com/space/space-exploration/astronauts-can-face-nearly-lethal-doses-of-solar-radiation-so-why-launch-artemis-ii-during-the-suns-peak-of-activity-space-scientist-patricia-reiff-explains](https://www.livescience.com/space/space-exploration/astronauts-can-face-nearly-lethal-doses-of-solar-radiation-so-why-launch-artemis-ii-during-the-suns-peak-of-activity-space-scientist-patricia-reiff-explains)  
+   Link: <a href="https://www.livescience.com/space/space-exploration/astronauts-can-face-nearly-lethal-doses-of-solar-radiation-so-why-launch-artemis-ii-during-the-suns-peak-of-activity-space-scientist-patricia-reiff-explains" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/space-exploration/astronauts-can-face-nearly-lethal-doses-of-solar-radiation-so-why-launch-artemis-ii-during-the-suns-peak-of-activity-space-scientist-patricia-reiff-explains</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space scientist Patricia Reiff explains.NASA’s Artemis II mission—a crewed flight around the Moon—coincides with a period of heightened s...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: universetoday.com  
    Title: seeing cosmic rays in space  
-   Link: [https://www.universetoday.com/articles/seeing-cosmic-rays-in-space](https://www.universetoday.com/articles/seeing-cosmic-rays-in-space)  
+   Link: <a href="https://www.universetoday.com/articles/seeing-cosmic-rays-in-space" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/seeing-cosmic-rays-in-space</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Seeing&#x27; Cosmic Rays in Space19 Apr 2012 — When a cosmic ray happens to pass through the retina it causes the rods and cones to fire, and...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thesun.co.uk  
    Title: The Sun Apollo mission pics in UFO files show orbs over the moon  
-   Link: [https://www.thesun.co.uk/news/39053582/apollo-ufo-files-orbs-moon-astronauts-fireworks/](https://www.thesun.co.uk/news/39053582/apollo-ufo-files-orbs-moon-astronauts-fireworks/)  
+   Link: <a href="https://www.thesun.co.uk/news/39053582/apollo-ufo-files-orbs-moon-astronauts-fireworks/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/news/39053582/apollo-ufo-files-orbs-moon-astronauts-fireworks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>government reveal that Apollo 17 astronauts observed mysterious lights and objects during their December 1972 mission to the Moon. The do...</p></details>
    Published: December 1972  
 
 18. <a id="endnote-18"></a>
    Source: sciencenews.org  
    Title: Science News50 years ago, cosmic rays may have caused Apollo  
-   Link: [https://www.sciencenews.org/article/cosmic-rays-apollo-astronauts-light-flashes](https://www.sciencenews.org/article/cosmic-rays-apollo-astronauts-light-flashes)  
+   Link: <a href="https://www.sciencenews.org/article/cosmic-rays-apollo-astronauts-light-flashes" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencenews.org/article/cosmic-rays-apollo-astronauts-light-flashes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 12, 2023 — The light flashes and streaks seen by Apollo astronauts have long been attributed to high-energy, heavy cosmic particles (...</p></details>
    Published: May 12, 2023  
 
 19. <a id="endnote-19"></a>
    Source: britannica.com  
    Title: Apollo Greek mythology  
-   Link: [https://www.britannica.com/topic/Apollo-Greek-mythology](https://www.britannica.com/topic/Apollo-Greek-mythology)  
+   Link: <a href="https://www.britannica.com/topic/Apollo-Greek-mythology" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Apollo-Greek-mythology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Apollo | Facts, Symbols, Powers, &amp; Myths1 May 2026 — Apollo, in Greco-Roman mythology, a deity of manifold function and meaning, one of t...</p></details>
    Published: May 2026  
 
@@ -823,52 +858,52 @@ That is why the Apollo 11 light flashes remain scientifically important even tho
 
 20. <a id="endnote-20"></a>
    Source: lpi.usra.edu  
-   Link: [https://www.lpi.usra.edu/lunar/surface/Apollo11_PhotoSciDebriefing.pdf](https://www.lpi.usra.edu/lunar/surface/Apollo11_PhotoSciDebriefing.pdf)  
+   Link: <a href="https://www.lpi.usra.edu/lunar/surface/Apollo11_PhotoSciDebriefing.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/lunar/surface/Apollo11_PhotoSciDebriefing.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>11 photographic and scientific debriefingCan you estimate the largest angle on the lunar surface at which you saw this coronal - zodiacal...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/todayilearned/comments/pfrthk/til_astronauts_have_long_reported_the_experience/](https://www.reddit.com/r/todayilearned/comments/pfrthk/til_astronauts_have_long_reported_the_experience/)  
+   Link: <a href="https://www.reddit.com/r/todayilearned/comments/pfrthk/til_astronauts_have_long_reported_the_experience/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/pfrthk/til_astronauts_have_long_reported_the_experience/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL astronauts have long reported the experience of seeing...TIL Astronauts often see random flashes of light in space, even through clo...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1t797wg/unknown_light_orbs_swarmed_apollo_11/](https://www.reddit.com/r/UFOs/comments/1t797wg/unknown_light_orbs_swarmed_apollo_11/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1t797wg/unknown_light_orbs_swarmed_apollo_11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1t797wg/unknown_light_orbs_swarmed_apollo_11/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unknown light orbs swarmed Apollo 11: r/UFOsThis is experienced by astronauts all the time. It&#x27;s caused by high-energy cosmic rays inter...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: greekmythology.com  
-   Link: [https://www.greekmythology.com/Olympians/Apollo/apollo.html](https://www.greekmythology.com/Olympians/Apollo/apollo.html)  
+   Link: <a href="https://www.greekmythology.com/Olympians/Apollo/apollo.html" target="_blank" rel="noopener noreferrer nofollow">https://www.greekmythology.com/Olympians/Apollo/apollo.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>☀ Apollo:: Greek God of Music and LightApollo is the Olympian god of light, music and poetry, healing and plagues, prophecy and knowledg...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/372375638_Light_Flashes_and_other_sensory_illusions_perceived_in_space_travel_and_on_ground_including_proton-_and_heavy_ion-therapies](https://www.researchgate.net/publication/372375638_Light_Flashes_and_other_sensory_illusions_perceived_in_space_travel_and_on_ground_including_proton-_and_heavy_ion-therapies)  
+   Link: <a href="https://www.researchgate.net/publication/372375638_Light_Flashes_and_other_sensory_illusions_perceived_in_space_travel_and_on_ground_including_proton-_and_heavy_ion-therapies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372375638_Light_Flashes_and_other_sensory_illusions_perceived_in_space_travel_and_on_ground_including_proton-_and_heavy_ion-therapies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Light Flashes and other sensory illusions perceived...24 Mar 2026 — The first reported observation of this phenomenon was in July...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
    Title: a 1969 debrief of buzz aldrin stating he saw a sizable object close to the lunar  
-   Link: [https://www.facebook.com/theguardian/posts/a-1969-debrief-of-buzz-aldrin-stating-he-saw-a-sizable-object-close-to-the-lunar/1400585945432988/](https://www.facebook.com/theguardian/posts/a-1969-debrief-of-buzz-aldrin-stating-he-saw-a-sizable-object-close-to-the-lunar/1400585945432988/)  
+   Link: <a href="https://www.facebook.com/theguardian/posts/a-1969-debrief-of-buzz-aldrin-stating-he-saw-a-sizable-object-close-to-the-lunar/1400585945432988/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theguardian/posts/a-1969-debrief-of-buzz-aldrin-stating-he-saw-a-sizable-object-close-to-the-lunar/1400585945432988/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A 1969 debrief of Buzz Aldrin stating he saw a &#x27;sizable&#x27;...During the Apollo 11 moon landing in 1969, Neil Armstrong and Buzz Aldrin wer...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
    Title: it includes a strange sighting by buzz aldrin of a bright light source during th  
-   Link: [https://www.facebook.com/thewestaustralian/posts/it-includes-a-strange-sighting-by-buzz-aldrin-of-a-bright-light-source-during-th/1304534281785772/](https://www.facebook.com/thewestaustralian/posts/it-includes-a-strange-sighting-by-buzz-aldrin-of-a-bright-light-source-during-th/1304534281785772/)  
+   Link: <a href="https://www.facebook.com/thewestaustralian/posts/it-includes-a-strange-sighting-by-buzz-aldrin-of-a-bright-light-source-during-th/1304534281785772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thewestaustralian/posts/it-includes-a-strange-sighting-by-buzz-aldrin-of-a-bright-light-source-during-th/1304534281785772/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It includes a strange sighting by Buzz Aldrin of a bright light...In 1969, during Apollo 11 mission, Buzz Aldrin reported the first expe...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/news/world/americas/us-politics/ufo-files-sightings-nasa-moon-landing-photos-b2973322.html](https://www.independent.co.uk/news/world/americas/us-politics/ufo-files-sightings-nasa-moon-landing-photos-b2973322.html)  
+   Link: <a href="https://www.independent.co.uk/news/world/americas/us-politics/ufo-files-sightings-nasa-moon-landing-photos-b2973322.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/world/americas/us-politics/ufo-files-sightings-nasa-moon-landing-photos-b2973322.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronaut Buzz Aldrin, the second person to walk on the moon, described three strange...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf](https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA-UAP-D4, Apollo 11 Technical Crew Debriefing, 196911 Mar 1977 — just one flash, I could see double flashes, at points separated by ma...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: x.com  
-   Link: [https://x.com/omar_quraishi/status/2052776375699079530](https://x.com/omar_quraishi/status/2052776375699079530)  
+   Link: <a href="https://x.com/omar_quraishi/status/2052776375699079530" target="_blank" rel="noopener noreferrer nofollow">https://x.com/omar_quraishi/status/2052776375699079530</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to the Moon; two, flashes of light inside the cabin; and three, a...Read more...</p></details>

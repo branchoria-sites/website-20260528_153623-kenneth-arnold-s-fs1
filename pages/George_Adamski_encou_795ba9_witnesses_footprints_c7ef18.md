@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /george-adamski-encounters-1953/
 nav_short_title: Witnesses
 title: How Strong Were Adamski's Witnesses?
-title_full: How Strong Were Adamski's Witnesses? | Adamski
+title_full: How Strong Were Adamski's Witnesses?
 display_title_short: Witnesses
 display_title: Witnesses
 heading_title: How Strong Were Adamski's Witnesses?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /timeline-28f171/
   short_title: Timeline
   heading_title: When Did the Adamski Encounter Really Happen?
-date: '2026-06-08 23:18:47 '
+date: '2026-06-11 13:11:31 '
 header:
   og_image: /assets/images/George_Adamski_encou_795ba9_witnesses_footprints_c7ef18-Illustration-1-social.jpg
   preview_image: /assets/images/George_Adamski_encou_795ba9_witnesses_footprints_c7ef18-Illustration-1.webp
@@ -244,7 +244,6 @@ image: /assets/images/George_Adamski_encou_795ba9_witnesses_footprints_c7ef18-Il
 
 The strongest evidence offered for George Adamski’s claimed desert encounter was never the story alone. It was the supporting package around it: six companions said to have witnessed unusual events from a distance, plaster casts of strange footprints, and the assertion that physical traces remained after a Venusian visitor departed. Those details helped transform the case from a simple personal testimony into something presented as corroborated evidence.
 
-
 <img src="{{ "/assets/images/George_Adamski_encou_795ba9_witnesses_footprints_c7ef18-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/George_Adamski_encou_795ba9_witnesses_footprints_c7ef18-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/George_Adamski_encou_795ba9_witnesses_footprints_c7ef18-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Yet the same details became the weakest part of the story under scrutiny. The witnesses could not clearly see the alleged meeting itself, the footprint evidence lacked independent scientific validation, and sceptics argued that the physical traces were theatrical additions rather than genuine proof. The result is a classic UFO evidence problem: material that appears persuasive at first glance, but becomes less conclusive the closer it is examined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gutenberg.org">[Project Gutenberg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gutenberg.org</span><span class="citation-popover-snippet">BY EDWARD J. RUPPELT Former Head of the Air Force Project Blue Book. Published by. DOUBLEDAY &amp; COMPANY, INC. Garden...Read more...</span></span></span>
 
@@ -253,7 +252,6 @@ Yet the same details became the weakest part of the story under scrutiny. The wi
 According to Adamski’s account, the November 1952 outing near Desert Center, California, involved six companions who remained at a distance while he approached the alleged landing area alone. The names associated with the trip in later retellings included Lucy McGinnis, George Hunt Williamson, Betty Cash and others from Adamski’s circle of occult and UFO enthusiasts. The group claimed they first observed a large cigar-shaped object before Adamski separated from them and walked into the desert. Wikipedia HowStuffWorks This arrangement became central to later debate because it created a peculiar evidential structure. Adamski was the only person who claimed c <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[science.howstuffworks.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">Adamski and the Space BrothersGeorge Adamski preached an interplanetary gospel based on contact with UFOs and aliens. Though serious inve...</span></span></span> lose contact with the Venusian “Orthon”. The others were effectively long-range observers. Their testimony therefore mattered less for proving extraterrestrial contact than for establishing whether something unusual happened at all.
 
 Several witness statements and affidavits were later circulated by Adamski supporters. These statements generally confirmed that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -272,7 +270,6 @@ This distinction is often blurred in popular summaries. The presence of multiple
 
 The witness problem in the Adamski case illustrates a recurring issue in UFO investigations: corroboration does not automatically validate the extraordinary interpretation attached to an event.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5GIjWsTCnUQ" title="The Secret of the Nordic Aliens // 3D CGI Animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5GIjWsTCnUQ" target="_blank" rel="noopener noreferrer">The Secret of the Nordic Aliens // 3D CGI Animation</a></p><p class="youtube-embed-meta">Channel: Mac Mave Studios &middot; Views: 597.1K &middot; Uploaded: August 2025 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5GIjWsTCnUQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5GIjWsTCnUQ">Open on YouTube</a></p></div></div></div>
 
 ### The limits of long-range observation
@@ -280,7 +277,6 @@ The witness problem in the Adamski case illustrates a recurring issue in UFO inv
 Adamski’s companions were reportedly positioned roughly half a mile away during the alleged encounter. At that range, even if they genuinely saw a person or object, their testimony remained highly interpretive. A distant figure in the desert could not establish that a visitor came from Venus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[StarQuest Media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">George Adamski: Alien Contactee!</span><span class="citation-popover-snippet">StarQuest Media...</span></span></span>
 
 Critics later pointed out several practical problems:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,7 +303,6 @@ The Adamski case survives partly because the witnesses were numerous enough to p
 
 That ambiguity became the foundation of the case’s long afterlife in UFO culture. Believers could point to corroboration; sceptics could point to the lack of direct verification.
 
-
 <img src="{{ "/assets/images/George_Adamski_encou_795ba9_witnesses_footprints_c7ef18-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/George_Adamski_encou_795ba9_witnesses_footprints_c7ef18-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/George_Adamski_encou_795ba9_witnesses_footprints_c7ef18-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Footprint Casts Became So Important
 
@@ -327,7 +322,6 @@ No recognised forensic laboratory authenticated the prints as non-human. There w
 
 That absence of formal examination is significant. Genuine physical evidence normally gains strength through outside analysis. In Adamski’s case, the evidence remained largely self-curated.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eh_LMjd_dZA" title="George Adamski: Alien Contactee! - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer">George Adamski: Alien Contactee! - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 12.3K &middot; Uploaded: April 2026 &middot; Length: 1 hour 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eh_LMjd_dZA">Open on YouTube</a></p></div></div></div>
 
 ### The markings looked designed to impress
@@ -342,7 +336,6 @@ Even if the prints were unusual, they still would not establish extraterrestrial
 
 This became one of the enduring lessons of the Adamski case. Physical traces are often rhetorically powerful but scientifically fragile. Without rigorous documentation, they become impossible to separate from fabrication, contamination or misinterpretation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/atttEDOY97U" title="Mysteries and Monsters: Mountain of God UFO Cult | Episode 5 | The George Adamski Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=atttEDOY97U" target="_blank" rel="noopener noreferrer">Mysteries and Monsters: Mountain of God UFO Cult | Episode 5 | The George Adamski Story</a></p><p class="youtube-embed-meta">Channel: Free4All &middot; Views: 418 &middot; Uploaded: October 2025 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=atttEDOY97U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=atttEDOY97U">Open on YouTube</a></p></div></div></div>
 
 ## The Larger Physical Proof Problem
@@ -350,7 +343,6 @@ This became one of the enduring lessons of the Adamski case. Physical traces are
 Adamski’s witnesses and footprint casts helped popularise a style of UFO claim that blended testimony, symbolic artefacts and emotional conviction into a single package. That formula proved enormously influential in later contactee culture.
 
 But the case also demonstrated how easily “physical evidence” can appear stronger in public memory than it actually was. Over time, retellings often compressed the uncertainties:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -360,8 +352,7 @@ But the case also demonstrated how easily “physical evidence” can appear str
 
 </div>
 
-By the standards of scientific investigation, the Adamski material remained extremely weak. There were no verified biological traces, no authenticated technology, no independently examined landing site and no uncontested documentation chain. Even many UFO researchers who believed some sightings might represent genuine mysteries rejected Adamski’s evidence as unreliable. J. Allen Hynek and Edward Ruppelt both regarded the contactee movement with deep scepticism despite their broader interest in UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">george adamski ufo alien photos</span><span class="citation-popover-snippet">HistoryGeorge Adamski Got Famous Sharing His UFO Photos and...9 Jan 2020 — Adamski had multiple claims to UFO fame. Starting in the late...</span></span></span> Wikipedia That distinction matters historically. Adamski was not dismissed simply because his claims were extraordinary. He was criticised because the <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Adamski</span><span class="citation-popover-snippet">George Adamski</span></span></span> specific evidence offered in support of those claims repeatedly failed under closer examination.
-
+By the standards of scientific investigation, the Adamski material remained extremely weak. There were no verified biological traces, no authenticated technology, no independently examined landing site and no uncontested documentation chain. Even many UFO researchers who believed some sightings might represent genuine mysteries rejected Adamski’s evidence as unreliable. J. Allen Hynek and Edward Ruppelt both regarded the contactee movement with deep scepticism despite their broader interest in UFO reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">george adamski ufo alien photos</span><span class="citation-popover-snippet">George Adamski Got Famous Sharing His UFO Photos and...9 Jan 2020 — Adamski had multiple claims to UFO fame. Starting in the late...</span></span></span> Wikipedia That distinction matters historically. Adamski was not dismissed simply because his claims were extraordinary. He was criticised because the <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">George Adamski</span><span class="citation-popover-snippet">George Adamski</span></span></span> specific evidence offered in support of those claims repeatedly failed under closer examination.
 
 <img src="{{ "/assets/images/George_Adamski_encou_795ba9_witnesses_footprints_c7ef18-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/George_Adamski_encou_795ba9_witnesses_footprints_c7ef18-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/George_Adamski_encou_795ba9_witnesses_footprints_c7ef18-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Evidence Debate Still Matters
@@ -375,44 +366,86 @@ For believers, the unresolved quality of the evidence still leaves room for poss
 More than seventy years later, the Adamski witness problem remains a useful case study in how UFO evidence is evaluated: not simply by the existence of witnesses or objects, but by the quality, independence and verifiability of what those witnesses and objects actually show.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Strong Were Adamski&#x27;s Witnesses?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Strong Were Adamski&#x27;s Witnesses?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">George Adamski guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=George+Adamski+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Catalogs the Adamski desert encounters, objectively detailing the witness group claims and the footprint evidence controversy.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Desert Center guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Desert+Center+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Provides critical analysis on how contactee accounts are constructed and the historical role of corroborating witnesses in myth-building.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">George Adamski books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=George+Adamski+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Explains the forensic methodology used to evaluate physical evidence like footprint casts and why they often lack scientific provenance.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Contextualizes how early contactee stories were evaluated by government and civilian researchers during the 1950s.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -449,15 +482,15 @@ More than seventy years later, the Adamski witness problem remains a useful case
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia"><img src="{{ '/assets/images/marketplace-covers/8869d0f2f2efe063a908.jpg' | relative_url }}" alt="Listing image for Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s" target="_blank" rel="sponsored noopener noreferrer">Original 1996 Buzz Sightings Flyer UFO Design Washington DC Rave Memorabilia</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -465,15 +498,15 @@ More than seventy years later, the Adamski witness problem remains a useful case
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -481,31 +514,15 @@ More than seventy years later, the Adamski witness problem remains a useful case
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift"><img src="{{ '/assets/images/marketplace-covers/bda40685cf551bceb407.jpg' | relative_url }}" alt="Listing image for The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s" target="_blank" rel="sponsored noopener noreferrer">The Pleasuredome UFO Poster Limited Edition Memorabilia Print Rave Poster Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -513,7 +530,7 @@ More than seventy years later, the Adamski witness problem remains a useful case
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-book+-books+-gerry+-anderson+-series+-programme+-concert+-schenker+-band+-rock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -book -books -gerry -anderson -series -programme -concert -schenker -band -rock" data-ebay-reference="witnesses-how-strong-were-adamski-s-witnesses-george-adamski-encounters-1953-ufo-memorabilia-book-books-gerry-anderson-s" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -729,133 +746,133 @@ More than seventy years later, the Adamski witness problem remains a useful case
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: George Adamski  
-   Link: [https://en.wikipedia.org/wiki/George_Adamski](https://en.wikipedia.org/wiki/George_Adamski)  
+   Link: <a href="https://en.wikipedia.org/wiki/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/George_Adamski</a>  
 
 2. <a id="endnote-2"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BY EDWARD J. RUPPELT Former Head of the Air Force Project Blue Book. Published by. DOUBLEDAY &amp; COMPANY, INC. Garden...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: history.com  
    Title: george adamski ufo alien [photos](&#123;&#123; 'photos/' | relative_url &#125;&#125;)  
-   Link: [https://www.history.com/articles/george-adamski-ufo-alien-photos](https://www.history.com/articles/george-adamski-ufo-alien-photos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryGeorge Adamski Got Famous Sharing His UFO Photos and...9 Jan 2020 — Adamski had multiple claims to UFO fame. Starting in the late...</p></details>
+   Link: <a href="https://www.history.com/articles/george-adamski-ufo-alien-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/george-adamski-ufo-alien-photos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski Got Famous Sharing His UFO Photos and...9 Jan 2020 — Adamski had multiple claims to UFO fame. Starting in the late...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: science.howstuffworks.com  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm](https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/george-adamski.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adamski and the Space BrothersGeorge Adamski preached an interplanetary gospel based on contact with UFOs and aliens. Though serious inve...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: The Report on Unidentified Flying Objects  
-   Link: [https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects](https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects)  
+   Link: <a href="https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Report_on_Unidentified_Flying_Objects</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ruppelt, detailing his experience running Project...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: kmatthews.org  
-   Link: [https://www.kmatthews.org/ufo/explanations/contactees.php](https://www.kmatthews.org/ufo/explanations/contactees.php)  
+   Link: <a href="https://www.kmatthews.org/ufo/explanations/contactees.php" target="_blank" rel="noopener noreferrer nofollow">https://www.kmatthews.org/ufo/explanations/contactees.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keith Fitzpatrick-Matthews&#x27;s UFO pages19 Mar 2006 —... George Hunt Williamson a few days later and was able to take plaster-casts of Ort...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/340331511/A-Critical-Appraisal-of-George-Adamski-the-Man-Who-Spoke-to-the-Space-Brothers-REVISED-and-ENLARGED-EDITION-2016](https://www.scribd.com/document/340331511/A-Critical-Appraisal-of-George-Adamski-the-Man-Who-Spoke-to-the-Space-Brothers-REVISED-and-ENLARGED-EDITION-2016)  
+   Link: <a href="https://www.scribd.com/document/340331511/A-Critical-Appraisal-of-George-Adamski-the-Man-Who-Spoke-to-the-Space-Brothers-REVISED-and-ENLARGED-EDITION-2016" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/340331511/A-Critical-Appraisal-of-George-Adamski-the-Man-Who-Spoke-to-the-Space-Brothers-REVISED-and-ENLARGED-EDITION-2016</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>spectacular science-fiction film directed by Robert Wise and entitled The Day the Earth Stood...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/800711166/adamski](https://www.scribd.com/document/800711166/adamski)  
+   Link: <a href="https://www.scribd.com/document/800711166/adamski" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/800711166/adamski</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>called contactees of the 1950s. Adamski called himself a &quot;philosopher, teacher, student and saucer researcher&quot;...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: George Adamski: Alien Contactee!  
-   Link: [https://www.youtube.com/watch?v=eh_LMjd_dZA](https://www.youtube.com/watch?v=eh_LMjd_dZA)  
+   Link: <a href="https://www.youtube.com/watch?v=eh_LMjd_dZA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eh_LMjd_dZA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>StarQuest Media...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Secret of the Nordic Aliens // 3D CGI Animation  
-   Link: [https://www.youtube.com/watch?v=5GIjWsTCnUQ](https://www.youtube.com/watch?v=5GIjWsTCnUQ)  
+   Link: <a href="https://www.youtube.com/watch?v=5GIjWsTCnUQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5GIjWsTCnUQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>George Hunt Williamson | Alien Interference | The Radio and Mind Contactee...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sqpn.com  
    Title: george adamski alien contactee  
-   Link: [https://sqpn.com/2026/04/george-adamski-alien-contactee/](https://sqpn.com/2026/04/george-adamski-alien-contactee/)  
+   Link: <a href="https://sqpn.com/2026/04/george-adamski-alien-contactee/" target="_blank" rel="noopener noreferrer nofollow">https://sqpn.com/2026/04/george-adamski-alien-contactee/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>StarQuest MediaGeorge Adamski: Alien Contactee!1 Apr 2026 — That meeting happened on November 20, 1952, in the California desert near Des...</p></details>
    Published: November 20, 1952  
 
 12. <a id="endnote-12"></a>
    Source: web2.ph.utexas.edu  
-   Link: [https://web2.ph.utexas.edu/~coker2/index.files/adamski.htm](https://web2.ph.utexas.edu/~coker2/index.files/adamski.htm)  
+   Link: <a href="https://web2.ph.utexas.edu/~coker2/index.files/adamski.htm" target="_blank" rel="noopener noreferrer nofollow">https://web2.ph.utexas.edu/~coker2/index.files/adamski.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of PhysicsGeorge AdamskiThis historic event had taken place at Desert Center, CA, in the presence of eyewitnesses! No sooner h...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: history.denverlibrary.org  
    Title: man who met venusian allegedly  
-   Link: [https://history.denverlibrary.org/news/western-history/man-who-met-venusian-allegedly](https://history.denverlibrary.org/news/western-history/man-who-met-venusian-allegedly)  
+   Link: <a href="https://history.denverlibrary.org/news/western-history/man-who-met-venusian-allegedly" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/man-who-met-venusian-allegedly</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>His story begins (for our purposes) in Laguna Beach, California in...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: history.denverlibrary.org  
    Title: man who boarded flying saucer allegedly  
-   Link: [https://history.denverlibrary.org/news/western-history/man-who-boarded-flying-saucer-allegedly](https://history.denverlibrary.org/news/western-history/man-who-boarded-flying-saucer-allegedly)  
+   Link: <a href="https://history.denverlibrary.org/news/western-history/man-who-boarded-flying-saucer-allegedly" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/western-history/man-who-boarded-flying-saucer-allegedly</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MAN WHO BOARDED A FLYING SAUCER...20 Sept 2022 — George Adamski, he claimed to have met a man from Venus in the Colorado Desert (Part of...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...Ruppelt, Edward J., The Report on Unidentified Flying Ob- jects, (Doubleday... witnesses who...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/8060460/George_Adamski](https://www.academia.edu/8060460/George_Adamski)  
+   Link: <a href="https://www.academia.edu/8060460/George_Adamski" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/8060460/George_Adamski</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) George AdamskiAdamski says that he gave him.[4] When Orthon left, Adamski said that he and... Looking For Orthon: The Story of Geo...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/diay6u/laughing_at_edward_ruppelt/](https://www.reddit.com/r/UFOs/comments/diay6u/laughing_at_edward_ruppelt/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/diay6u/laughing_at_edward_ruppelt/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/diay6u/laughing_at_edward_ruppelt/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Laughing at Edward Ruppelt: r/UFOsAnyway, I couldn&#x27;t help but laugh at a line in Ruppelt&#x27;s last chapter of his book; he stated that in t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: amazon.com  
-   Link: [https://www.amazon.com/Report-Unidentified-Flying-Objects/dp/096653123X](https://www.amazon.com/Report-Unidentified-Flying-Objects/dp/096653123X)  
+   Link: <a href="https://www.amazon.com/Report-Unidentified-Flying-Objects/dp/096653123X" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Report-Unidentified-Flying-Objects/dp/096653123X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>His book is one of the first that shows what the US government actually knows about...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: The Report on Unidentified Flying Objects by Edward J  
-   Link: [https://www.facebook.com/groups/4995087850/posts/10162813009302851/](https://www.facebook.com/groups/4995087850/posts/10162813009302851/)  
+   Link: <a href="https://www.facebook.com/groups/4995087850/posts/10162813009302851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/4995087850/posts/10162813009302851/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Project Blue Book Chief Captain Ruppelt wrote the following in his 1956 book, &quot;The Report On Unidentified Flying Objects.&quot; He stat...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: newdawnmagazine.com  
    Title: New Dawn – World's Most Unusual Magazine George Adamski's Tour Down Under  
-   Link: [https://www.newdawnmagazine.com/articles/ufos-unexplained-phenomena/george-adamskis-tour-down-under](https://www.newdawnmagazine.com/articles/ufos-unexplained-phenomena/george-adamskis-tour-down-under)  
+   Link: <a href="https://www.newdawnmagazine.com/articles/ufos-unexplained-phenomena/george-adamskis-tour-down-under" target="_blank" rel="noopener noreferrer nofollow">https://www.newdawnmagazine.com/articles/ufos-unexplained-phenomena/george-adamskis-tour-down-under</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>At a subsequent meeting aboard a mothership in space, the Venusians told Adamski they had...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/oblqs0/listen_to_this_analysis_of_george_adamski_by/](https://www.reddit.com/r/UFOs/comments/oblqs0/listen_to_this_analysis_of_george_adamski_by/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/oblqs0/listen_to_this_analysis_of_george_adamski_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/oblqs0/listen_to_this_analysis_of_george_adamski_by/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e George Adamski ufo pictures photographed on negative plates...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: valleycenter.com  
    Title: close encounters in valley center and pauma  
-   Link: [https://www.valleycenter.com/articles/close-encounters-in-valley-center-and-pauma/](https://www.valleycenter.com/articles/close-encounters-in-valley-center-and-pauma/)  
+   Link: <a href="https://www.valleycenter.com/articles/close-encounters-in-valley-center-and-pauma/" target="_blank" rel="noopener noreferrer nofollow">https://www.valleycenter.com/articles/close-encounters-in-valley-center-and-pauma/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jan 2021 — Valley Center resident George Adamski gained international attention by reporting that he had encounters with aliens from ou...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Faurschou.Foundation/posts/day-3first-alien-encounter-orthon-from-venus-november-20-1952-on-november-20-195/10155990344728328/](https://www.facebook.com/Faurschou.Foundation/posts/day-3first-alien-encounter-orthon-from-venus-november-20-1952-on-november-20-195/10155990344728328/)  
+   Link: <a href="https://www.facebook.com/Faurschou.Foundation/posts/day-3first-alien-encounter-orthon-from-venus-november-20-1952-on-november-20-195/10155990344728328/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Faurschou.Foundation/posts/day-3first-alien-encounter-orthon-from-venus-november-20-1952-on-november-20-195/10155990344728328/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Day 3: First alien encounter; Orthon from Venus, November...The imprints contained mysterious symbols, which Adamski said was a message...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: goodreads.com  
    Title: 3277546 flying saucers have landed  
-   Link: [https://www.goodreads.com/book/show/3277546-flying-saucers-have-landed](https://www.goodreads.com/book/show/3277546-flying-saucers-have-landed)  
+   Link: <a href="https://www.goodreads.com/book/show/3277546-flying-saucers-have-landed" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/3277546-flying-saucers-have-landed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying Saucers Have Landed by George AdamskiAdamski claimed he met with one Nordic alien, surnamed &quot;Orthon&quot;, in 1952 at Desert Center. Wh...</p></details>

@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /trans-en-provence-encounter-1981/
 nav_short_title: The Witness
 title: How Strong Was Nicolai's Testimony?
-title_full: How Strong Was Nicolai's Testimony? | Trans en Provence
+title_full: How Strong Was Nicolai's Testimony?
 display_title_short: The Witness
 display_title: The Witness
 heading_title: How Strong Was Nicolai's Testimony?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /the-traces/
   short_title: The Traces
   heading_title: Did the Physical Traces Prove Anything?
-date: '2026-06-08 23:32:16 '
+date: '2026-06-11 13:19:41 '
 header:
   og_image: /assets/images/Trans-en-Provence_en_439c97_nicolai_witness_test_d58e58-Illustration-1-social.jpg
   preview_image: /assets/images/Trans-en-Provence_en_439c97_nicolai_witness_test_d58e58-Illustration-1.webp
@@ -244,7 +244,6 @@ image: /assets/images/Trans-en-Provence_en_439c97_nicolai_witness_test_d58e58-Il
 
 The Trans-en-Provence case depends heavily on a single person: Renato Nicolai. The ground traces, laboratory reports and official investigations only became meaningful because Nicolai said he had seen a disc-shaped object descend, land briefly and depart in daylight near his home in southern France on 8 January 1981. That creates the central credibility problem of the entire case. The witness appeared sincere, consistent and cooperative, yet no one else directly confirmed the object itself. The strongest evidence in the case therefore does not stand independently from the testimony; it stands beside it. Official investigators from GEPAN, the French state UFO study group, concluded that Nicolai did not behave like a fabricator, but they also acknowledged that sincerity alone cannot establish the truth of an extraordinary claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[skepticalinquirer.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">An Assessment of Thirty Years of Official Studies in FranceIn the Trans-en-Provence case (January 8, 1981), a saucer-shaped object allege...</span><span class="citation-popover-meta">Published: January 8, 1981</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Trans-en-Provence case</span><span class="citation-popover-snippet">Trans-en-Provence case</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes-geipan.fr">[3cnes-geipan.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes-geipan.fr</span><span class="citation-popover-snippet">fulfil the technical questionnaire (QT)...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/Trans-en-Provence_en_439c97_nicolai_witness_test_d58e58-Illustration-1-dark.svg" | relative_url }}" alt="The Witness illustration 1" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97_nicolai_witness_test_d58e58-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97_nicolai_witness_test_d58e58-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Nicolai said he saw
 
@@ -253,7 +252,6 @@ Renato Nicolai described the event as a close-range daylight encounter rather th
 His description was unusually concrete for a UFO report. He compared the object to two inverted saucers joined together, lead-grey in colour, with a ridge around the circumference and circular structures underneath that he interpreted either as landing supports or mechanical components. He estimated that the object remained on the ground for only a short time before departing rapidly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tvi.show/close-encounters/the-1981-trans-en-provence-landing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tvi.show">[Things Visible &amp; Invisible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tvi.show</span><span class="citation-popover-title">the 1981 trans en provence landing</span><span class="citation-popover-snippet">Things Visible &amp; InvisibleThe 1981 Trans-en-Provence UFO Landing29 Apr 2025 — On January 8, 1981, the witness, Renato Nicolai, reported s...</span><span class="citation-popover-meta">Published: January 8, 1981</span></span></span>
 
 Several aspects of the testimony made the case attractive to investigators:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -281,9 +279,7 @@ Even GEPAN’s own methodological framework recognised the centrality of human t
 
 That creates an unavoidable logical chain:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UuptR_x1tRU" title="Trans-en-Provence Case" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UuptR_x1tRU" target="_blank" rel="noopener noreferrer">Trans-en-Provence Case</a></p><p class="youtube-embed-meta">Channel: Wiki4All &middot; Views: 456 &middot; Uploaded: January 2021 &middot; Length: 1 minute 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UuptR_x1tRU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UuptR_x1tRU">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -307,7 +303,6 @@ However, none of those confirmations established that an unidentified aerial cra
 
 Sceptical investigators later pointed out several weaknesses:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The site was accessible and not isolated.
@@ -322,7 +317,6 @@ This dispute is crucial because the case is often remembered as “scientificall
 
 The credibility debate therefore centres less on whether Nicolai lied and more on whether he correctly interpreted a brief event under unexpected conditions.
 
-
 <img src="{{ "/assets/images/Trans-en-Provence_en_439c97_nicolai_witness_test_d58e58-Illustration-2-dark.svg" | relative_url }}" alt="The Witness illustration 2" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97_nicolai_witness_test_d58e58-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97_nicolai_witness_test_d58e58-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why investigators considered Nicolai credible
 
@@ -331,7 +325,6 @@ Despite later scepticism, GEPAN investigators did not dismiss Nicolai casually. 
 That assessment carried weight because GEPAN was not a private UFO club. It operated within the French space agency structure and attempted to apply formal investigative procedures. The organisation’s interest in the case was based partly on the combination of testimony and physical traces rather than on witness testimony alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[cnes.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</span></span></span>
 
 Believers in the case often stress three features of Nicolai’s behaviour:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -345,7 +338,6 @@ These traits are commonly associated with truthful witnesses in many forms of in
 
 Yet credibility and accuracy are not identical concepts. A person may honestly report what they believe they saw while still being mistaken about its nature. This distinction is central to modern sceptical analysis of the case.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q9sQ2HCiSBE" title="[Today in History] 8 January 1981 – UFO Sighting in Trans-en-Provence, France" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q9sQ2HCiSBE" target="_blank" rel="noopener noreferrer">[Today in History] 8 January 1981 – UFO Sighting in Trans-en-Provence, France</a></p><p class="youtube-embed-meta">Channel: Qrio &middot; Views: 119 &middot; Uploaded: January 2025 &middot; Length: 2 minutes 53 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q9sQ2HCiSBE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q9sQ2HCiSBE">Open on YouTube</a></p></div></div></div>
 
 ## Why sincerity is not proof
@@ -355,7 +347,6 @@ The strongest sceptical position on Trans-en-Provence does not necessarily accus
 This distinction matters because human perception is vulnerable to error even in daylight conditions. Unexpected events are often reconstructed mentally after the fact. Duration estimates, shape recognition and apparent movement can all become distorted under surprise or stress.
 
 In Nicolai’s case, several uncertainties remain difficult to resolve:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -371,7 +362,6 @@ Sceptics such as Éric Maillot and other French critics of GEPAN argued that the
 
 This does not make the case worthless. In fact, the opposite is true: Trans-en-Provence remains important precisely because it demonstrates how difficult it is to separate physical evidence from witness interpretation in UFO investigations. The case sits in an uncomfortable middle ground. Nicolai does not fit the stereotype of an obvious hoaxer or fantasist, but neither does the available evidence eliminate ordinary explanations with complete confidence.
 
-
 <img src="{{ "/assets/images/Trans-en-Provence_en_439c97_nicolai_witness_test_d58e58-Illustration-3-dark.svg" | relative_url }}" alt="The Witness illustration 3" data-theme-src-dark="{{ "/assets/images/Trans-en-Provence_en_439c97_nicolai_witness_test_d58e58-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Trans-en-Provence_en_439c97_nicolai_witness_test_d58e58-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The real credibility problem at the centre of Trans-en-Provence
 
@@ -381,49 +371,89 @@ Many UFO cases fail because the witnesses appear unreliable, contradictory or ov
 
 That unresolved tension explains why Trans-en-Provence remains one of the most debated European UFO cases decades later. The credibility problem is not simply whether Renato Nicolai told the truth. It is whether truthful testimony, by itself, can carry the interpretive weight placed upon it by one of the most famous physical-trace UFO investigations ever conducted in France.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FkmQY67J4Rw" title="Hablemos de OVNIS, pero EN SERIO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FkmQY67J4Rw" target="_blank" rel="noopener noreferrer">Hablemos de OVNIS, pero EN SERIO</a></p><p class="youtube-embed-meta">Channel: Raquel de la Morena &middot; Views: 237.7K &middot; Uploaded: April 2026 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FkmQY67J4Rw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FkmQY67J4Rw">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Strong Was Nicolai&#x27;s Testimony?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Strong Was Nicolai&#x27;s Testimony?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Trans en Provence guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Trans+en+Provence+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Provides structural methodologies for assessing how witnesses describe events and how to identify potential inconsistencies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Witness Testimony guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Witness+Testimony+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Details why individual testimony—even when sincere—requires independent verification to survive forensic scrutiny.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Renato Nicolai guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Renato+Nicolai+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Summarizes the evidentiary debates of the Trans-en-Provence encounter, reviewing witness reliability arguments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Explains why subjective testimony provides a less robust explanatory pathway than advanced forensic data.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sister States, Enemy States</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -460,15 +490,15 @@ That unresolved tension explains why Trans-en-Provence remains one of the most d
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions"><img src="{{ '/assets/images/marketplace-covers/17a39cace87c5018af72.jpg' | relative_url }}" alt="Listing image for Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Poster Collection A3 – Sci-Fi Area 51 Wall Art Prints alien abductions</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -476,15 +506,15 @@ That unresolved tension explains why Trans-en-Provence remains one of the most d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Encounter Poster, Vintage Sci-Fi Wall Art Print, Retro Decor"><img src="{{ '/assets/images/marketplace-covers/73c8f8ee2051961ee714.jpg' | relative_url }}" alt="Listing image for Alien UFO Encounter Poster, Vintage Sci-Fi Wall Art Print, Retro Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Encounter Poster, Vintage Sci-Fi Wall Art Print, Retro Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -492,15 +522,15 @@ That unresolved tension explains why Trans-en-Provence remains one of the most d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/106fc453372cb1fd9ff5.jpg' | relative_url }}" alt="Listing image for UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO Encounter Above the Cosmos Fram Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +538,15 @@ That unresolved tension explains why Trans-en-Provence remains one of the most d
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Night Encounter Dark Aesthetic Poster"><img src="{{ '/assets/images/marketplace-covers/cc7898d1a32d21814bc0.jpg' | relative_url }}" alt="Listing image for UFO Night Encounter Dark Aesthetic Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">UFO Night Encounter Dark Aesthetic Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo encounter poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo encounter poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,7 +554,7 @@ That unresolved tension explains why Trans-en-Provence remains one of the most d
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+encounter+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo encounter poster -book -books -series -television -gerry -anderson -band -concert -tour -album" data-ebay-reference="the-witness-bb3f71-how-strong-was-nicolai-s-testimony-trans-en-provence-encounter-1981-ufo-encounter-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -740,56 +770,56 @@ That unresolved tension explains why Trans-en-Provence remains one of the most d
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Trans-en-Provence case  
-   Link: [https://en.wikipedia.org/wiki/Trans-en-Provence_case](https://en.wikipedia.org/wiki/Trans-en-Provence_case)  
+   Link: <a href="https://en.wikipedia.org/wiki/Trans-en-Provence_case" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Trans-en-Provence_case</a>  
 
 2. <a id="endnote-2"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/en/missions-methodes-et-resultats](https://www.cnes-geipan.fr/en/missions-methodes-et-resultats)  
+   Link: <a href="https://www.cnes-geipan.fr/en/missions-methodes-et-resultats" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/en/missions-methodes-et-resultats</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>fulfil the technical questionnaire (QT)...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com](https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2009/01/p47.pdf?ref=thegalacticmind.com</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Assessment of Thirty Years of Official Studies in FranceIn the Trans-en-Provence case (January 8, 1981), a saucer-shaped object allege...</p></details>
    Published: January 8, 1981  
 
 4. <a id="endnote-4"></a>
    Source: cnes.fr  
-   Link: [https://cnes.fr/en/projects/geipan](https://cnes.fr/en/projects/geipan)  
+   Link: <a href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow">https://cnes.fr/en/projects/geipan</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Jul 2025 — GEIPAN, the French UAP research and information group created by CNES in 1977, collects, analyses and archives information o...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cosmoquest.org  
    Title: April 21st: The Trans-en-Provence UFO Case  
-   Link: [https://cosmoquest.org/x/365daysofastronomy/2011/04/21/april-21st-the-trans-en-provence-ufo-case/](https://cosmoquest.org/x/365daysofastronomy/2011/04/21/april-21st-the-trans-en-provence-ufo-case/)  
+   Link: <a href="https://cosmoquest.org/x/365daysofastronomy/2011/04/21/april-21st-the-trans-en-provence-ufo-case/" target="_blank" rel="noopener noreferrer nofollow">https://cosmoquest.org/x/365daysofastronomy/2011/04/21/april-21st-the-trans-en-provence-ufo-case/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>When that group was founded, first it was called “GEPAN”, then “SEPRA”, then “GEIPAN”. It belongs to...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Transgender](https://en.wikipedia.org/wiki/Transgender)  
+   Link: <a href="https://en.wikipedia.org/wiki/Transgender" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Transgender</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TransgenderA transgender (often shortened to trans) person has a gender identity different from that typically associated with the sex...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/GEIPAN](https://en.wikipedia.org/wiki/GEIPAN)  
+   Link: <a href="https://en.wikipedia.org/wiki/GEIPAN" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GEIPAN</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GEIPANGEIPAN is clearly focused on UFO study, but UAP (PAN in French) is meant to cover a much broader area than UFO (OVNI in French)...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: Trans-en-Provence Case  
-   Link: [https://www.youtube.com/watch?v=UuptR_x1tRU](https://www.youtube.com/watch?v=UuptR_x1tRU)  
+   Link: <a href="https://www.youtube.com/watch?v=UuptR_x1tRU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UuptR_x1tRU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Today in History] 8 January 1981 – UFO Sighting in Trans-en-Provence, France...</p></details>
    Published: January 1981  
 
 9. <a id="endnote-9"></a>
    Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/international/findings/fr](https://ufotransparency.com/international/findings/fr)  
+   Link: <a href="https://ufotransparency.com/international/findings/fr" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/international/findings/fr</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO TransparencyFrance findings · 01 Disclosures - UFO Transparency5 days ago — GEPAN Technical Note 16, the official Trans-en-Provence f...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: tvi.show  
-   Title: the 1981 [trans en provence](&#123;&#123; 'trans-en-provence-encounter-1981/' | relative_url &#125;&#125;) landing  
-   Link: [https://www.tvi.show/close-encounters/the-1981-trans-en-provence-landing](https://www.tvi.show/close-encounters/the-1981-trans-en-provence-landing)  
+   Title: the 1981 trans en provence landing  
+   Link: <a href="https://www.tvi.show/close-encounters/the-1981-trans-en-provence-landing" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/close-encounters/the-1981-trans-en-provence-landing</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Things Visible &amp; InvisibleThe 1981 Trans-en-Provence UFO Landing29 Apr 2025 — On January 8, 1981, the witness, Renato Nicolai, reported s...</p></details>
    Published: January 8, 1981  
 
@@ -797,52 +827,52 @@ That unresolved tension explains why Trans-en-Provence remains one of the most d
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/](https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/)  
+   Link: <a href="https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheFrenchHistoryPodcast/posts/a-drawing-from-the-files-at-the-french-ufo-department/1337099231754482/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A drawing from the files at the French UFO departmentIt is a sighting involving multiple objects. This witness provided drawings (see ima...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/594440375987329/posts/939300901501273/](https://www.facebook.com/groups/594440375987329/posts/939300901501273/)  
+   Link: <a href="https://www.facebook.com/groups/594440375987329/posts/939300901501273/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/594440375987329/posts/939300901501273/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Credible UFO sighting in Trans-en-Provence, FranceThe witness was the farmer Renato Nicolai, 55, on whose property the UFO landed and the...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/trans](https://www.merriam-webster.com/dictionary/trans)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/trans" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/trans</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TRANS Definition &amp; Meaning5 days ago — 1. transgender; The Affordable Care Act included trans health care in many places and that was a r...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: transactual.org.uk  
-   Link: [https://transactual.org.uk/](https://transactual.org.uk/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TransActual2 hours ago — We share transgender people&#x27;s lived experiences and rights through quotes, blog posts and articles. There&#x27;s info...</p></details>
+   Link: <a href="https://transactual.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://transactual.org.uk/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 hours ago — We share transgender people&#x27;s lived experiences and rights through quotes, blog posts and articles. There&#x27;s info...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/](https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/)  
+   Link: <a href="https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tvmoviesseries.ntgroup/posts/3218853144962650/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trans-en-Provence UFO landing case in FranceThe witness was the farmer Renato Nicolai, 55, on whose property the UFO landed and then took...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: en.wiktionary.org  
-   Link: [https://en.wiktionary.org/wiki/trans](https://en.wiktionary.org/wiki/trans)  
+   Link: <a href="https://en.wiktionary.org/wiki/trans" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/trans</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wiktionary.orgtransSyllabification: trans. Noun. trans (plural trans-trans). (psychology) trance. Derived terms. trans vaginal. Further r...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheFolklorePodcast/posts/folklore-snippets-january-8thtrans-en-provence-ufotoday-in-1981-saw-the-start-of/1065714782236108/](https://www.facebook.com/TheFolklorePodcast/posts/folklore-snippets-january-8thtrans-en-provence-ufotoday-in-1981-saw-the-start-of/1065714782236108/)  
+   Link: <a href="https://www.facebook.com/TheFolklorePodcast/posts/folklore-snippets-january-8thtrans-en-provence-ufotoday-in-1981-saw-the-start-of/1065714782236108/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheFolklorePodcast/posts/folklore-snippets-january-8thtrans-en-provence-ufotoday-in-1981-saw-the-start-of/1065714782236108/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 8th TRANS-EN-PROVENCE UFO Today, in 1981...Renato Nicolai, according to the French government&#x27;s UFO study group GEPAN, &quot;was work...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: abovethenormnews.com  
    Title: trans en provence ufo landing a look back at the 1981 french case  
-   Link: [https://www.abovethenormnews.com/2023/08/14/trans-en-provence-ufo-landing-a-look-back-at-the-1981-french-case/](https://www.abovethenormnews.com/2023/08/14/trans-en-provence-ufo-landing-a-look-back-at-the-1981-french-case/)  
+   Link: <a href="https://www.abovethenormnews.com/2023/08/14/trans-en-provence-ufo-landing-a-look-back-at-the-1981-french-case/" target="_blank" rel="noopener noreferrer nofollow">https://www.abovethenormnews.com/2023/08/14/trans-en-provence-ufo-landing-a-look-back-at-the-1981-french-case/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trans-en-Provence UFO Landing: A Look Back at the 1981...14 Aug 2023 — A farmer named Renato Nicolai witnessed a strange craft landing o...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: transequality.org  
-   Link: [https://transequality.org/issues/resources/understanding-transgender-people-the-basics](https://transequality.org/issues/resources/understanding-transgender-people-the-basics)  
+   Link: <a href="https://transequality.org/issues/resources/understanding-transgender-people-the-basics" target="_blank" rel="noopener noreferrer nofollow">https://transequality.org/issues/resources/understanding-transgender-people-the-basics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is different from the gender they were thought to be when they were born.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: completefrance.com  
    Title: flying saucers in france a history of ufo sightings  
-   Link: [https://www.completefrance.com/travel/flying-saucers-in-france-a-history-of-ufo-sightings/](https://www.completefrance.com/travel/flying-saucers-in-france-a-history-of-ufo-sightings/)  
+   Link: <a href="https://www.completefrance.com/travel/flying-saucers-in-france-a-history-of-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.completefrance.com/travel/flying-saucers-in-france-a-history-of-ufo-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying saucers in France: A history of UFO sightings21 Dec 2022 — Trans-en-Provence, around 5km from Draguignan, was, in 1981, the locati...</p></details>

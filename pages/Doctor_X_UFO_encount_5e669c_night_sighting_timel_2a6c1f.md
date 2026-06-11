@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /doctor-x-ufo-encounter-1968/
 nav_short_title: Sighting
 title: What Did Doctor X Say He Saw?
-title_full: What Did Doctor X Say He Saw? | Doctor X
+title_full: What Did Doctor X Say He Saw?
 display_title_short: Sighting
 display_title: Sighting
 heading_title: What Did Doctor X Say He Saw?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /records-a251d4/
   short_title: Records
   heading_title: Why Is Doctor X So Hard To Verify?
-date: '2026-06-08 23:35:27 '
+date: '2026-06-11 13:20:55 '
 header:
   og_image: /assets/images/Doctor_X_UFO_encount_5e669c_night_sighting_timel_2a6c1f-Illustration-1-social.jpg
   preview_image: /assets/images/Doctor_X_UFO_encount_5e669c_night_sighting_timel_2a6c1f-Illustration-1.webp
@@ -243,7 +243,6 @@ image: /assets/images/Doctor_X_UFO_encount_5e669c_night_sighting_timel_2a6c1f-Il
 ## Introduction
 
 The “Doctor X” UFO case is built around a remarkably short sequence of events reported in the early hours of 2 November 1968 in southern France. Unlike longer close-encounter narratives that evolved over days or repeated sightings, this incident depended almost entirely on a few minutes between roughly 3:45 and 4:05 a.m. During that window, the anonymous physician later known as “Doctor X” said he observed two luminous aerial objects outside his home, saw beams projected from them, watched the objects appear to merge into one, and experienced what he described as a direct beam sweep across himself and the house. He then made notes and sketches almost immediately afterwards, a detail that later investigators treated as one of the stronger aspects of the case narrative. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/504806268/Beyond-Earth-Man-s-Contact-With-Ufo-s-by-Ralph-Blum-Judy-Blum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Beyond Earth</span><span class="citation-popover-snippet">“The Strange Case of Doctor X.” Flying Saucer Review, special issue no. 3 (September 1969), pp. 3-16. 2. France Soir, December 19, 1968...</span><span class="citation-popover-meta">Published: December 19, 1968</span></span></span> The timeline matters because nearly every later claim associated with the case— the alleged healing effects, the recurring triangular skin mark, and the witness’s long-term conviction that something extraordinary occurred — depends on the credibility of this brief nocturnal observation. The sighting itself therefore became the central evidential foundation for all later interpretations.
-
 
 <img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_night_sighting_timel_2a6c1f-Illustration-1-dark.svg" | relative_url }}" alt="Sighting illustration 1" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_night_sighting_timel_2a6c1f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_night_sighting_timel_2a6c1f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The 3:45 a.m. Setting
@@ -259,7 +258,6 @@ The environmental setting also shaped the later mythology of the case. Mist, dar
 The most distinctive feature of the report was not simply the appearance of glowing objects, but the interaction between them. The doctor claimed that each object projected a cylindrical or cone-like beam downward. These beams allegedly illuminated mist or terrain beneath the craft, giving the scene a theatrical appearance that later investigators repeatedly emphasised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/16vyidx/taken_from_dr_vallees_classic_the_invisible/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Taken from Dr</span><span class="citation-popover-snippet">Vallee&#x27;s classic “The Invisible College”, this...September 30, 2023 — Dr. Vallee describes the case of “Doctor X” that demonstrates how...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
 
 According to the commonly repeated sequence:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -277,7 +275,6 @@ Sceptical readers viewed the same sequence differently. In low-light conditions,
 
 Even so, the narrative coherence of the sequence helped the case persist. The account was not merely “I saw a light in the sky”; it described a progression of actions with apparent internal logic. That narrative structure gave later retellings unusual dramatic power.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W9iiDfygBCY" title="The Best Kept Secret in UFOlogy with Jacques Vallee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W9iiDfygBCY" target="_blank" rel="noopener noreferrer">The Best Kept Secret in UFOlogy with Jacques Vallee</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 181.2K &middot; Uploaded: October 2022 &middot; Length: 1 hour 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W9iiDfygBCY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W9iiDfygBCY">Open on YouTube</a></p></div></div></div>
 
 ## The Beam Directed Towards the House
@@ -290,48 +287,89 @@ Later UFO authors often treated the beam episode as the turning point of the enc
 
 From a critical perspective, however, this was also where the account became hardest to verify. There were no photographs, instrument readings, radar tracks, or independent witnesses to confirm the alleged approach or beam projection. Everything depended on the testimony of a single observer operating under stressful night-time conditions.
 
-
 <img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_night_sighting_timel_2a6c1f-Illustration-3-dark.svg" | relative_url }}" alt="Sighting illustration 3" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_night_sighting_timel_2a6c1f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_night_sighting_timel_2a6c1f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Did Doctor X Say He Saw?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Did Doctor X Say He Saw?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Flying Saucer Review guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Flying+Saucer+Review+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Provides the initial 3:45 a.m. sketches, tracking the two luminous objects, their merging fusion, and the direct beam sweep.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Southern France guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Southern+France+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sun+tzu%27s+ancient+art+of+golf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sun tzu&#x27;s ancient art of golf on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9446762-M.jpg" alt="Cover for Sun tzu&#x27;s ancient art of golf" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sun+tzu%27s+ancient+art+of+golf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sun tzu&#x27;s ancient art of golf">Sun tzu&#x27;s ancient art of golf</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+        
+        <p class="fr-book-desc">Provides the initial 3:45 a.m. sketches, tracking the two luminous objects, their merging fusion, and the direct beam sweep.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sun+tzu%27s+ancient+art+of+golf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Aimé Michel guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Aim%C3%A9+Michel+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Details the cognitive pitfalls that occur when a witness is disturbed by a young child in the early morning hours.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Provides an objective framework to assess short-duration nocturnal sightings during sudden awakening cycles.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sun+tzu%27s+ancient+art+of+golf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sun tzu&#x27;s ancient art of golf</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -368,15 +406,15 @@ From a critical perspective, however, this was also where the account became har
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -384,15 +422,15 @@ From a critical perspective, however, this was also where the account became har
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -400,15 +438,15 @@ From a critical perspective, however, this was also where the account became har
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -416,15 +454,15 @@ From a critical perspective, however, this was also where the account became har
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -432,7 +470,7 @@ From a critical perspective, however, this was also where the account became har
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sighting-what-did-doctor-x-say-he-saw-doctor-x-ufo-encounter-1968-ufo-poster-series-television-gerry-anderson-band-conce" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -651,7 +689,6 @@ In UFO investigations, immediate documentation is often treated as important bec
 
 The early retellings also established several enduring details:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the estimated time window around 3:45–4:05 a.m.;
@@ -668,7 +705,6 @@ Those details remained relatively stable across later decades of retelling, whic
 
 The anonymity of “Doctor X” complicated matters further. On one hand, believers argued that anonymity protected a respected physician from ridicule and reduced motives for publicity-seeking. On the other, anonymity prevented independent scrutiny of the witness’s professional history, medical condition, and precise location.
 
-
 <img src="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_night_sighting_timel_2a6c1f-Illustration-2-dark.svg" | relative_url }}" alt="Sighting illustration 2" data-theme-src-dark="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_night_sighting_timel_2a6c1f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Doctor_X_UFO_encount_5e669c_night_sighting_timel_2a6c1f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Investigators Treated the Witness
 
@@ -677,7 +713,6 @@ The witness’s profession shaped nearly every later discussion of the case. UFO
 Aimé Michel and later writers portrayed the doctor as cautious rather than evangelical. He reportedly shared the account with investigators reluctantly and avoided public identification. Jacques Vallée later referred to the case as one that had been examined by individuals including scientific and medical specialists, although the extent and rigour of those examinations remain debated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/16vyidx/taken_from_dr_vallees_classic_the_invisible/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Taken from Dr</span><span class="citation-popover-snippet">Vallee&#x27;s classic “The Invisible College”, this...September 30, 2023 — Dr. Vallee describes the case of “Doctor X” that demonstrates how...</span><span class="citation-popover-meta">Published: September 30, 2023</span></span></span>
 
 Supporters of the case generally point to three aspects of witness credibility:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -689,7 +724,6 @@ Supporters of the case generally point to three aspects of witness credibility:
 
 Sceptics focus on different issues:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the lack of independent corroboration;
@@ -700,7 +734,6 @@ Sceptics focus on different issues:
 </div>
 
 That tension — between an apparently sincere witness and weak independent verification — defines much of the historical debate surrounding the sighting timeline itself.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IEdf3OvPh90" title="SNEAK PEEK: “THE PHENOMENON” REVEALS THE LETTER THAT CHANGED DR. JACQUES VALLEE’S LIFE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IEdf3OvPh90" target="_blank" rel="noopener noreferrer">SNEAK PEEK: “THE PHENOMENON” REVEALS THE LETTER THAT CHANGED DR. JACQUES VALLEE’S LIFE</a></p><p class="youtube-embed-meta">Channel: THE PHENOMENON MOVIE &middot; Views: 10.2K &middot; Uploaded: December 2020 &middot; Length: 2 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IEdf3OvPh90" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IEdf3OvPh90">Open on YouTube</a></p></div></div></div>
 
@@ -714,7 +747,6 @@ Critics reached the opposite conclusion. Because the entire narrative unfolded i
 
 As a result, the “Doctor X” encounter occupies an unusual place in UFO history. It is remembered not because of multiple witnesses, radar confirmation, or physical traces at a landing site, but because a single witness reported an unusually structured and memorable sequence during a brief pre-dawn interval in November 1968. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/504806268/Beyond-Earth-Man-s-Contact-With-Ufo-s-by-Ralph-Blum-Judy-Blum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Beyond Earth</span><span class="citation-popover-snippet">“The Strange Case of Doctor X.” Flying Saucer Review, special issue no. 3 (September 1969), pp. 3-16. 2. France Soir, December 19, 1968...</span><span class="citation-popover-meta">Published: December 19, 1968</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6F2C-4IL5f4" title="Legendary UFO Expert Jacques Valle Details Overlooked UFO Sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6F2C-4IL5f4" target="_blank" rel="noopener noreferrer">Legendary UFO Expert Jacques Valle Details Overlooked UFO Sightings</a></p><p class="youtube-embed-meta">Channel: JRE Clips &middot; Views: 885.4K &middot; Uploaded: March 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6F2C-4IL5f4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6F2C-4IL5f4">Open on YouTube</a></p></div></div></div>
 
 ## Endnotes
@@ -722,88 +754,88 @@ As a result, the “Doctor X” encounter occupies an unusual place in UFO histo
 1. <a id="endnote-1"></a>
    Source: reddit.com  
    Title: Taken from Dr  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/16vyidx/taken_from_dr_vallees_classic_the_invisible/](https://www.reddit.com/r/HighStrangeness/comments/16vyidx/taken_from_dr_vallees_classic_the_invisible/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16vyidx/taken_from_dr_vallees_classic_the_invisible/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16vyidx/taken_from_dr_vallees_classic_the_invisible/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vallee&#x27;s classic “The Invisible College”, this...September 30, 2023 — Dr. Vallee describes the case of “Doctor X” that demonstrates how...</p></details>
    Published: September 30, 2023  
 
 2. <a id="endnote-2"></a>
    Source: scribd.com  
    Title: Beyond Earth  
-   Link: [https://www.scribd.com/document/504806268/Beyond-Earth-Man-s-Contact-With-Ufo-s-by-Ralph-Blum-Judy-Blum](https://www.scribd.com/document/504806268/Beyond-Earth-Man-s-Contact-With-Ufo-s-by-Ralph-Blum-Judy-Blum)  
+   Link: <a href="https://www.scribd.com/document/504806268/Beyond-Earth-Man-s-Contact-With-Ufo-s-by-Ralph-Blum-Judy-Blum" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/504806268/Beyond-Earth-Man-s-Contact-With-Ufo-s-by-Ralph-Blum-Judy-Blum</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>“The Strange Case of Doctor X.” Flying Saucer Review, special issue no. 3 (September 1969), pp. 3-16. 2. France Soir, December 19, 1968...</p></details>
    Published: December 19, 1968  
 
 3. <a id="endnote-3"></a>
    Source: doksi.net  
    Title: Michael D  
-   Link: [https://doksi.net/en/get.php?lid=29751](https://doksi.net/en/get.php?lid=29751)  
+   Link: <a href="https://doksi.net/en/get.php?lid=29751" target="_blank" rel="noopener noreferrer nofollow">https://doksi.net/en/get.php?lid=29751</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Swords - Ufology, What Have We Learned... Doctor X&quot; case, where objects seemed to defy all physics and His friend, Pierre Guerin, attempt...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: What could be a logical explanation for the tic tac shaped aircraft spotted  
-   Link: [https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/](https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/)  
+   Link: <a href="https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/1dgc8od/are_there_good_scientific_explanations_for_ufo/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are there good scientific explanations for UFO sightings...I revisit this from time to time, but I never actually asked the question...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/poreka/why_does_everyone_hate_steven_greer/](https://www.reddit.com/r/aliens/comments/poreka/why_does_everyone_hate_steven_greer/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/poreka/why_does_everyone_hate_steven_greer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/poreka/why_does_everyone_hate_steven_greer/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does everyone hate Steven Greer?: r/aliensI feel like he has come out with some pretty solid evidence and his consciousness thing ha...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: comics.org  
-   Link: [https://www.comics.org/issue/560154/](https://www.comics.org/issue/560154/)  
+   Link: <a href="https://www.comics.org/issue/560154/" target="_blank" rel="noopener noreferrer nofollow">https://www.comics.org/issue/560154/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Case of Doctor X. (Table of Contents: 70). UFO Flying Saucers / comic story / 7...Read more...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/isa.latinofilmindustry/videos/live-ufo-education-research-disclosure/1851454238791747/](https://www.facebook.com/isa.latinofilmindustry/videos/live-ufo-education-research-disclosure/1851454238791747/)  
+   Link: <a href="https://www.facebook.com/isa.latinofilmindustry/videos/live-ufo-education-research-disclosure/1851454238791747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/isa.latinofilmindustry/videos/live-ufo-education-research-disclosure/1851454238791747/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ~ UFO Education / Research / DisclosureTo preserve the prominent doctors and animity, Michelle refers to him as Doctor X. Medical te...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: numberphile.com  
-   Link: [https://www.numberphile.com/videos/superhero-triangles](https://www.numberphile.com/videos/superhero-triangles)  
+   Link: <a href="https://www.numberphile.com/videos/superhero-triangles" target="_blank" rel="noopener noreferrer nofollow">https://www.numberphile.com/videos/superhero-triangles</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Superhero Triangles — NumberphileHeronian triangles and other fascinating things, featuring Dr James Grime. Get your Superhero Triangle T...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: dondammassa.com  
-   Link: [https://www.dondammassa.com/znourse.htm](https://www.dondammassa.com/znourse.htm)  
+   Link: <a href="https://www.dondammassa.com/znourse.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.dondammassa.com/znourse.htm</a>  
 
 10. <a id="endnote-10"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/suicide-in-the-entertainment-industry-an-encyclopedia-of-840-twentieth-century-cases-1nbsped-9781476608075-9780786423330.html](https://dokumen.pub/suicide-in-the-entertainment-industry-an-encyclopedia-of-840-twentieth-century-cases-1nbsped-9781476608075-9780786423330.html)  
+   Link: <a href="https://dokumen.pub/suicide-in-the-entertainment-industry-an-encyclopedia-of-840-twentieth-century-cases-1nbsped-9781476608075-9780786423330.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/suicide-in-the-entertainment-industry-an-encyclopedia-of-840-twentieth-century-cases-1nbsped-9781476608075-9780786423330.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Shortly after... Capitalizing on their initial success, they released “Flying Saucer (Part 2)” in ¡...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: 366weirdmovies.com  
    Title: The List (and more): All Our Movie Reviews, Indexed Video review  
-   Link: [https://366weirdmovies.com/the-weird-movie-list/](https://366weirdmovies.com/the-weird-movie-list/)  
+   Link: <a href="https://366weirdmovies.com/the-weird-movie-list/" target="_blank" rel="noopener noreferrer nofollow">https://366weirdmovies.com/the-weird-movie-list/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Angel&#x27;s Egg (1985) – Surreal anime about a girl tending an... Doctor X (1932) · A Dog Called Pain [Un Perro Llamado Dolor] (2001) · Dogm...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: wrap.warwick.ac.uk  
-   Link: [https://wrap.warwick.ac.uk/id/eprint/195561/1/WRAP_Theses_Slade-Harajda_2025.pdf](https://wrap.warwick.ac.uk/id/eprint/195561/1/WRAP_Theses_Slade-Harajda_2025.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WRAP: Warwickby TW Slade-Harajda · 2025 — 1 Introduction to fusion &amp; plasma physics. 1. 1.1 Fusion...</p></details>
+   Link: <a href="https://wrap.warwick.ac.uk/id/eprint/195561/1/WRAP_Theses_Slade-Harajda_2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wrap.warwick.ac.uk/id/eprint/195561/1/WRAP_Theses_Slade-Harajda_2025.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Warwickby TW Slade-Harajda · 2025 — 1 Introduction to fusion &amp; plasma physics. 1. 1.1 Fusion...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/braillebookrevie3637unse/braillebookrevie3637unse_djvu.txt](https://archive.org/stream/braillebookrevie3637unse/braillebookrevie3637unse_djvu.txt)  
+   Link: <a href="https://archive.org/stream/braillebookrevie3637unse/braillebookrevie3637unse_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/braillebookrevie3637unse/braillebookrevie3637unse_djvu.txt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Atomic and Nuclear Physics by H. Semat, 82...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/107750912593576/posts/9679124022122836/](https://www.facebook.com/groups/107750912593576/posts/9679124022122836/)  
+   Link: <a href="https://www.facebook.com/groups/107750912593576/posts/9679124022122836/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/107750912593576/posts/9679124022122836/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an inspiration for the strange Mik Kanrokitoff of Flight 714...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Jacques Vallee: Implications of UFO Phenomena (excerpt)  
-   Link: [https://www.youtube.com/watch?v=sP10HPJkJ4Q](https://www.youtube.com/watch?v=sP10HPJkJ4Q)  
+   Link: <a href="https://www.youtube.com/watch?v=sP10HPJkJ4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sP10HPJkJ4Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SNEAK PEEK: “THE PHENOMENON” REVEALS THE LETTER THAT CHANGED DR. JACQUES VALLEE’S LIFE...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/VT/posts/one-doc-has-explained-the-bizarre-phenomenon-/1315372450694840/](https://www.facebook.com/VT/posts/one-doc-has-explained-the-bizarre-phenomenon-/1315372450694840/)  
+   Link: <a href="https://www.facebook.com/VT/posts/one-doc-has-explained-the-bizarre-phenomenon-/1315372450694840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VT/posts/one-doc-has-explained-the-bizarre-phenomenon-/1315372450694840/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ated with amazing physical cures as well as a...Read more...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /thomas-f-mantell-inc-2ce7ee-index/
 description: Focused pages that expand on Thomas F Mantell incident 1948.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Thomas_F_Mantell_inc_2ce7ee
 parent_title: Thomas F Mantell incident 1948

@@ -360,9 +360,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -396,9 +396,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -436,9 +436,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Andreasson
   permalink: /andreasson-abduction-1967/
   short_title: Andreasson
-date: '2026-06-08 23:22:22 '
+date: '2026-06-11 13:13:44 '
 header:
   og_image: /assets/images/Alexander_Hamilton_a_75e894-overview-social.jpg
   preview_image: /assets/images/Alexander_Hamilton_a_75e894-overview.webp
@@ -760,16 +760,14 @@ image: /assets/images/Alexander_Hamilton_a_75e894-overview-social.jpg
 
 Its interest is not that it proves alien visitors, but that it shows how nineteenth-century aviation hopes, newspaper sensationalism, local reputation and later UFO folklore could combine into a story that survived long after its original setting had faded. Hamilton was not an anonymous crank: a 1901 county history describes him as a prominent Woodson County pioneer, stock dealer, lawyer, public official and extensive landowner. That social standing helped the tale travel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ksgenweb.org/archives/allen/history/1901/h/hamilton_alexander.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ksgenweb.org">[ksgenweb.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ksgenweb.org</span><span class="citation-popover-title">Alexander Hamilton</span><span class="citation-popover-snippet">Alexander Hamilton</span></span></span>
 
-
 <img src="{{ "/assets/images/Alexander_Hamilton_a_75e894-overview.webp" | relative_url }}" alt="Overview image for Alexander Hamilton airship 1897" loading="eager" decoding="sync" fetchpriority="high">
 ## What Hamilton claimed happened
 
 Hamilton’s account was published on 23 April 1897 in the Yates Center Farmer’s Advocate, according to later summaries and reproductions of the story. He said that on the night of 19 April he, his son and a hired man were awakened by noise among the cattle. Going outside, he allegedly saw an airship descending over the cow lot, roughly forty rods from the house. The craft was described as cigar-shaped, about 300 feet long, and fitted with a transparent carriage lit from within. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">cow abduction</span></span></span>
 
-The most memorable details made the report more than a routine “light in the sky” sighting. Hamilton said the craft came low enough for witnesses to see “six of the strangest beings” inside, described in later accounts as two men, a woman and three children, jabbering in a language the witnesses could not understand. When the witnesses approached with axes, the craft allegedly rose. Then, according to Hamilton, a cable from the airship was found around a three-year-old heifer’s neck and tangled in the fence. The men could not free the animal, so they cut the fence wire, after which the craft, the cable and the heifer rose and disappeared to the north-west. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! | KANSAS! Magazine</span><span class="citation-popover-snippet">Travel Kansas Airship Alert! | KANSAS! Magazine</span></span></span>
+The most memorable details made the report more than a routine “light in the sky” sighting. Hamilton said the craft came low enough for witnesses to see “six of the strangest beings” inside, described in later accounts as two men, a woman and three children, jabbering in a language the witnesses could not understand. When the witnesses approached with axes, the craft allegedly rose. Then, according to Hamilton, a cable from the airship was found around a three-year-old heifer’s neck and tangled in the fence. The men could not free the animal, so they cut the fence wire, after which the craft, the cable and the heifer rose and disappeared to the north-west. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span><span class="citation-popover-snippet">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span></span></span>
 
 Hamilton then claimed that the following evening he learned the heifer’s remains had been found several miles away. HowStuffWorks, summarising the traditional account, says Hamilton reported that a neighbour found butchered remains in a pasture and was unable to find tracks in the soft ground. KANSAS! Magazine gives the distance as about thirteen miles north and four miles west of the cattle lot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">cow abduction</span></span></span>
-
 
 <img src="{{ "/assets/images/Alexander_Hamilton_a_75e894-Illustration-1-dark.svg" | relative_url }}" alt="Alexander Hamilton airship 1897 illustration 1" data-theme-src-dark="{{ "/assets/images/Alexander_Hamilton_a_75e894-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alexander_Hamilton_a_75e894-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the story looked credible at first
@@ -778,8 +776,7 @@ The case gained [credibility]({{ 'credibility/' | relative_url }}) from Hamilton
 
 The affidavit mattered too. David Jacobs’s history of the UFO controversy notes that the published account included an affidavit from eleven prominent community members, including figures such as a postmaster, sheriff, justice of the peace and banker, saying they had known Hamilton for fifteen to thirty years and believed his statement to be true and correct. A similar affidavit reportedly appeared eight days later in the Burlington Daily News. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;David Jacobs The UFO Controversy In America</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;David Jacobs The UFO Controversy In America</span></span></span>
 
-That affidavit is often misunderstood. It was not independent observation of the airship, the cable or the heifer. It was a character endorsement. The signers vouched for Hamilton’s reputation; they did not all see the event. This distinction is central to the case. A [reputation affidavit]({{ 'credibility/' | relative_url }}) can explain why a story spread, but it cannot supply physical corroboration.
-
+That affidavit is often misunderstood. It was not independent observation of the airship, the cable or the heifer. It was a character endorsement. The signers vouched for Hamilton’s reputation; they did not all see the event. This distinction is central to the case. A reputation affidavit can explain why a story spread, but it cannot supply physical corroboration.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QJuMSxt4cUQ" title="Aurora, Texas UFO Crash 1897 | Exploring America’s First Alien Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QJuMSxt4cUQ" target="_blank" rel="noopener noreferrer">Aurora, Texas UFO Crash 1897 | Exploring America’s First Alien Mystery</a></p><p class="youtube-embed-meta">Channel: Travels with Nick &middot; Views: 32.9K &middot; Uploaded: July 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QJuMSxt4cUQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QJuMSxt4cUQ">Open on YouTube</a></p></div></div></div>
 
@@ -789,8 +786,7 @@ Hamilton’s report landed in the middle of a national airship scare. The broade
 
 That setting made Hamilton’s claim culturally plausible to contemporary readers. David Jacobs notes that no motor-powered airships are known to have flown in America in 1896 or 1897; the first motor-driven navigable airship flown in the United States came later, and the first practical American dirigible was still years away. Yet the 1890s were full of patent schemes, would-be inventors and public expectation that powered flight was imminent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;David Jacobs The UFO Controversy In America</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;David Jacobs The UFO Controversy In America</span></span></span>
 
-Kansas itself had multiple airship stories. KANSAS! Magazine notes that similar reports appeared around the state in spring and summer 1897, while some newspapers offered mundane explanations such as illuminated kites, balloons or lanterns. The same article places Hamilton’s story alongside real Kansas aviation experimentation, showing how the boundary between technological optimism and tall tale could be porous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! | KANSAS! Magazine</span><span class="citation-popover-snippet">Travel Kansas Airship Alert! | KANSAS! Magazine</span></span></span>
-
+Kansas itself had multiple airship stories. KANSAS! Magazine notes that similar reports appeared around the state in spring and summer 1897, while some newspapers offered mundane explanations such as illuminated kites, balloons or lanterns. The same article places Hamilton’s story alongside real Kansas aviation experimentation, showing how the boundary between technological optimism and tall tale could be porous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span><span class="citation-popover-snippet">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span></span></span>
 
 <img src="{{ "/assets/images/Alexander_Hamilton_a_75e894-Illustration-2-dark.svg" | relative_url }}" alt="Alexander Hamilton airship 1897 illustration 2" data-theme-src-dark="{{ "/assets/images/Alexander_Hamilton_a_75e894-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alexander_Hamilton_a_75e894-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What physical or documentary evidence exists?
@@ -801,17 +797,15 @@ The alleged physical evidence is much weaker. The heifer’s remains were not pr
 
 The most important evidential problem is therefore not whether Hamilton was socially respectable. It is that the case depends almost entirely on a sensational newspaper narrative and character testimony, with no durable physical artefact, no recorded official inquiry, and no independent observation of the critical “abduction” details by neutral witnesses.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_KWnz9JZkVA" title="Phantom Airships of the 19th Century | The Dark Histories Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_KWnz9JZkVA" target="_blank" rel="noopener noreferrer">Phantom Airships of the 19th Century | The Dark Histories Podcast</a></p><p class="youtube-embed-meta">Channel: Dark Histories &middot; Views: 12.4K &middot; Uploaded: March 2021 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_KWnz9JZkVA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_KWnz9JZkVA">Open on YouTube</a></p></div></div></div>
 
 ## How the hoax explanation emerged
 
 The strongest later explanation is that Hamilton and others fabricated the story as a tall tale. HowStuffWorks reports that in 1976 an elderly Kansas woman said she had heard Hamilton boast to his wife, before publication, about the story he had made up; the same account says Hamilton belonged to a local liars’ club that enjoyed extravagant inventions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">cow abduction</span><span class="citation-popover-snippet">cow abduction</span></span></span>
 
-KANSAS! Magazine gives a broader version of the debunking tradition. It reports that a Kansas weekly, the Buffalo Enterprise, printed a 1943 story quoting the editor of the paper that had run Hamilton’s original account as suggesting he knew Hamilton had invented it. The same article says later research by Jerome Clark found testimony from people who had lived at the time and remembered conversations or stories confirming that Hamilton had made up the airship raid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! | KANSAS! Magazine</span><span class="citation-popover-snippet">Travel Kansas Airship Alert! | KANSAS! Magazine</span></span></span>
+KANSAS! Magazine gives a broader version of the debunking tradition. It reports that a Kansas weekly, the Buffalo Enterprise, printed a 1943 story quoting the editor of the paper that had run Hamilton’s original account as suggesting he knew Hamilton had invented it. The same article says later research by Jerome Clark found testimony from people who had lived at the time and remembered conversations or stories confirming that Hamilton had made up the airship raid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travelks.com">[Travel Kansas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travelks.com</span><span class="citation-popover-title">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span><span class="citation-popover-snippet">Travel Kansas Airship Alert! &#124; KANSAS! Magazine</span></span></span>
 
 This does not mean every detail of the debunking record is beyond scrutiny. Some of the recollections surfaced decades after the event, and memory after seventy or eighty years is never ideal evidence. But the hoax explanation has several strengths: it explains the theatrical structure of the story, the lack of physical evidence, the role of the reputation affidavit, the fit with local tall-tale culture, and the way the story resembles other highly embroidered airship reports of the same period.
-
 
 <img src="{{ "/assets/images/Alexander_Hamilton_a_75e894-Illustration-3-dark.svg" | relative_url }}" alt="Alexander Hamilton airship 1897 illustration 3" data-theme-src-dark="{{ "/assets/images/Alexander_Hamilton_a_75e894-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Alexander_Hamilton_a_75e894-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why it kept reappearing in UFO literature
@@ -822,7 +816,6 @@ That revival changed the story’s meaning. In 1897, readers were usually thinki
 
 David Jacobs’s discussion of the wider airship wave is useful here: he argues that the 1896–1897 phenomenon became the first major wave of documented unidentified flying-object reports in America, not because the reports proved extraordinary craft, but because they created a public debate about witnesses, technology, disbelief and explanation that later reappeared in modern UFO controversies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;David Jacobs The UFO Controversy In America</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;David Jacobs The UFO Controversy In America</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SGplwRUSW5I" title="UFOs and the &quot;Mystery Airships&quot; of 1896 - 1897: Conference Presentation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SGplwRUSW5I" target="_blank" rel="noopener noreferrer">UFOs and the &quot;Mystery Airships&quot; of 1896 - 1897: Conference Presentation</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 19.6K &middot; Uploaded: July 2017 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SGplwRUSW5I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SGplwRUSW5I">Open on YouTube</a></p></div></div></div>
 
 ## Best assessment
@@ -832,44 +825,86 @@ The Alexander Hamilton airship case is best classified as a historically importa
 The case remains useful because it teaches a wider lesson about source provenance. A story can be old, widely reprinted, attached to a respected witness and supported by impressive-sounding local names, yet still rest on a weak evidential foundation. In Hamilton’s case, the document trail is real; the airship almost certainly was not.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Did A Kansas Airship Steal A Heifer?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Did A Kansas Airship Steal A Heifer?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s a Horse&#x27;s Life! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=swoVJIlrzmgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for It&#x27;s a Horse&#x27;s Life!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s a Horse&#x27;s Life!">It&#x27;s a Horse&#x27;s Life!</a>
+        </h4>
+        <p class="fr-book-author">By Joanne Friedman</p>
+        
+        <p class="fr-book-desc">Dedicates significant focus to Hamilton&#x27;s stolen heifer tale, analyzing its print run in the Yates Center Farmer&#x27;s Advocate.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s a Horse&#x27;s Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1299434-M.jpg" alt="Cover for It&#x27;s a Horse&#x27;s Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s a Horse&#x27;s Life">It&#x27;s a Horse&#x27;s Life</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+        
+        <p class="fr-book-desc">Dedicates significant focus to Hamilton&#x27;s stolen heifer tale, analyzing its print run in the Yates Center Farmer&#x27;s Advocate.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">1897 UFO guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=1897+UFO+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stalking+the+Herd+by+Christopher+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stalking the Herd on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HYpXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stalking the Herd" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Stalking+the+Herd+by+Christopher+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stalking the Herd">Stalking the Herd</a>
+        </h4>
+        <p class="fr-book-author">By Christopher O&#x27;Brien</p>
+        
+        <p class="fr-book-desc">Traces the historical roots of cattle abduction folklore back to Hamilton&#x27;s 1897 cigar-shaped craft report as its earliest prototype.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Stalking+the+Herd+by+Christopher+O%27Brien&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cold+War+Culture+by+Richard+Alan+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cold War Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6mUssPcOR4MC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cold War Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Cold+War+Culture+by+Richard+Alan+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cold War Culture">Cold War Culture</a>
+        </h4>
+        <p class="fr-book-author">By Richard Alan Schwartz</p>
+        
+        <p class="fr-book-desc">Places Hamilton&#x27;s story alongside classic American frontier tall tales and competitive journalistic fabrications of the era.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Cold+War+Culture+by+Richard+Alan+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s a Horse&#x27;s Life!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s a Horse&#x27;s Life</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stalking+the+Herd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stalking the Herd</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -906,15 +941,15 @@ The case remains useful because it teaches a wider lesson about source provenanc
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cofod Zeppelin Airship Hindenburg Burning Photo Canvas Wall Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/71b4b5550d141e3327db.jpg' | relative_url }}" alt="Listing image for Cofod Zeppelin Airship Hindenburg Burning Photo Canvas Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Cofod Zeppelin Airship Hindenburg Burning Photo Canvas Wall Art Print Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -922,15 +957,15 @@ The case remains useful because it teaches a wider lesson about source provenanc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AIRSHIP ZEPPELIN POSTER PRINT - CHOOSE DESIGN/SIZE/LAMINATE/FRAMED OPTION a"><img src="{{ '/assets/images/marketplace-covers/c220cab276b1d3362d58.jpg' | relative_url }}" alt="Listing image for AIRSHIP ZEPPELIN POSTER PRINT - CHOOSE DESIGN/SIZE/LAMINATE/FRAMED OPTION a" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">AIRSHIP ZEPPELIN POSTER PRINT - CHOOSE DESIGN/SIZE/LAMINATE/FRAMED OPTION a</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -938,31 +973,15 @@ The case remains useful because it teaches a wider lesson about source provenanc
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hindenburg Zeppelin Poster German Airship Wall Art- 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/faa8ba04cd847197c374.jpg' | relative_url }}" alt="Listing image for Hindenburg Zeppelin Poster German Airship Wall Art- 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Hindenburg Zeppelin Poster German Airship Wall Art- 12X16/16X20/18X24/24X36</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for airship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: airship poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -970,7 +989,7 @@ The case remains useful because it teaches a wider lesson about source provenanc
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=airship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airship poster -book -books" data-ebay-reference="alexander-hamilton-airship-1897-did-a-kansas-airship-steal-a-heifer-airship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1186,98 +1205,98 @@ The case remains useful because it teaches a wider lesson about source provenanc
 1. <a id="endnote-1"></a>
    Source: science.howstuffworks.com  
    Title: cow abduction  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm](https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm)  
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/cow-abduction.htm</a>  
 
 2. <a id="endnote-2"></a>
    Source: ksgenweb.org  
    Title: Alexander Hamilton  
-   Link: [https://www.ksgenweb.org/archives/allen/history/1901/h/hamilton_alexander.html](https://www.ksgenweb.org/archives/allen/history/1901/h/hamilton_alexander.html)  
+   Link: <a href="https://www.ksgenweb.org/archives/allen/history/1901/h/hamilton_alexander.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ksgenweb.org/archives/allen/history/1901/h/hamilton_alexander.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "David Jacobs The UFO Controversy In America"  
-   Link: [https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt](https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt)  
+   Link: <a href="https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America_djvu.txt</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: [https://en.wikipedia.org/wiki/Mystery_airship](https://en.wikipedia.org/wiki/Mystery_airship)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
 
 5. <a id="endnote-5"></a>
    Source: archive.org  
-   Link: [https://archive.org/download/kansascyclopedia03blac/kansascyclopedia03blac.pdf](https://archive.org/download/kansascyclopedia03blac/kansascyclopedia03blac.pdf)  
+   Link: <a href="https://archive.org/download/kansascyclopedia03blac/kansascyclopedia03blac.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/kansascyclopedia03blac/kansascyclopedia03blac.pdf</a>  
 
 6. <a id="endnote-6"></a>
    Source: ia803206.us.archive.org  
    Title: David Jacobs The UFO Controversy In America  
-   Link: [https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf](https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf)  
+   Link: <a href="https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia803206.us.archive.org/26/items/DavidJacobsTheUFOControversyInAmerica/David%20Jacobs%20-%20The%20UFO%20Controversy%20In%20America.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Alexander Hamilton  
-   Link: [https://en.wikipedia.org/wiki/Alexander_Hamilton](https://en.wikipedia.org/wiki/Alexander_Hamilton)  
+   Link: <a href="https://en.wikipedia.org/wiki/Alexander_Hamilton" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Alexander_Hamilton</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Phantom Luftschiff Welle 1896–1897  
-   Link: [https://de.wikipedia.org/wiki/Phantom-Luftschiff-Welle_1896%E2%80%931897](https://de.wikipedia.org/wiki/Phantom-Luftschiff-Welle_1896%E2%80%931897)  
+   Link: <a href="https://de.wikipedia.org/wiki/Phantom-Luftschiff-Welle_1896%E2%80%931897" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Phantom-Luftschiff-Welle_1896%E2%80%931897</a>  
 
 9. <a id="endnote-9"></a>
    Source: travelks.com  
    Title: Travel Kansas Airship Alert! | KANSAS! Magazine  
-   Link: [https://www.travelks.com/kansas-magazine/articles/post/airship-alert/](https://www.travelks.com/kansas-magazine/articles/post/airship-alert/)  
+   Link: <a href="https://www.travelks.com/kansas-magazine/articles/post/airship-alert/" target="_blank" rel="noopener noreferrer nofollow">https://www.travelks.com/kansas-magazine/articles/post/airship-alert/</a>  
 
 10. <a id="endnote-10"></a>
    Source: findagrave.com  
    Title: alexander hamilton  
-   Link: [https://www.findagrave.com/memorial/24128929/alexander-hamilton](https://www.findagrave.com/memorial/24128929/alexander-hamilton)  
+   Link: <a href="https://www.findagrave.com/memorial/24128929/alexander-hamilton" target="_blank" rel="noopener noreferrer nofollow">https://www.findagrave.com/memorial/24128929/alexander-hamilton</a>  
 
 11. <a id="endnote-11"></a>
    Source: fr-ca.findagrave.com  
    Title: alexander hamilton  
-   Link: [https://fr-ca.findagrave.com/memorial/24128929/alexander-hamilton](https://fr-ca.findagrave.com/memorial/24128929/alexander-hamilton)  
+   Link: <a href="https://fr-ca.findagrave.com/memorial/24128929/alexander-hamilton" target="_blank" rel="noopener noreferrer nofollow">https://fr-ca.findagrave.com/memorial/24128929/alexander-hamilton</a>  
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=QJuMSxt4cUQ](https://www.youtube.com/watch?v=QJuMSxt4cUQ)  
+   Link: <a href="https://www.youtube.com/watch?v=QJuMSxt4cUQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QJuMSxt4cUQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phantom Airship Mystery of 1897: what did the Americans see?...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Phantom Airships of the 19th Century | The Dark Histories Podcast  
-   Link: [https://www.youtube.com/watch?v=_KWnz9JZkVA](https://www.youtube.com/watch?v=_KWnz9JZkVA)  
+   Link: <a href="https://www.youtube.com/watch?v=_KWnz9JZkVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_KWnz9JZkVA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aurora, Texas UFO Crash 1897 | Exploring America&#x27;s First Alien Mystery...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/Mystify2010/posts/27623155260607013/](https://www.facebook.com/groups/Mystify2010/posts/27623155260607013/)  
+   Link: <a href="https://www.facebook.com/groups/Mystify2010/posts/27623155260607013/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Mystify2010/posts/27623155260607013/</a>  
 
 15. <a id="endnote-15"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-01-2.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-01-2.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-01-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-01-2.pdf</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/finalfantasyvi/posts/1557239325493236/](https://www.facebook.com/groups/finalfantasyvi/posts/1557239325493236/)  
+   Link: <a href="https://www.facebook.com/groups/finalfantasyvi/posts/1557239325493236/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/finalfantasyvi/posts/1557239325493236/</a>  
 
 17. <a id="endnote-17"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/2228956/Extraterrestrial_Encounters_UFOs_Science_and_the_Quest_for_Transcendence_1947_1972](https://www.academia.edu/2228956/Extraterrestrial_Encounters_UFOs_Science_and_the_Quest_for_Transcendence_1947_1972)  
+   Link: <a href="https://www.academia.edu/2228956/Extraterrestrial_Encounters_UFOs_Science_and_the_Quest_for_Transcendence_1947_1972" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2228956/Extraterrestrial_Encounters_UFOs_Science_and_the_Quest_for_Transcendence_1947_1972</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ButtermilkJunction/posts/look-up-in-the-skytoday-in-ufo-history-on-todays-date-129-years-ago-friday-april/1505822224237915/](https://www.facebook.com/ButtermilkJunction/posts/look-up-in-the-skytoday-in-ufo-history-on-todays-date-129-years-ago-friday-april/1505822224237915/)  
+   Link: <a href="https://www.facebook.com/ButtermilkJunction/posts/look-up-in-the-skytoday-in-ufo-history-on-todays-date-129-years-ago-friday-april/1505822224237915/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ButtermilkJunction/posts/look-up-in-the-skytoday-in-ufo-history-on-todays-date-129-years-ago-friday-april/1505822224237915/</a>  
 
 19. <a id="endnote-19"></a>
    Source: tumblr.com  
-   Link: [https://www.tumblr.com/dieselpunkflimflam/171519611407/model-donna-mcphail-in-full-aviatrix-fashion](https://www.tumblr.com/dieselpunkflimflam/171519611407/model-donna-mcphail-in-full-aviatrix-fashion)  
+   Link: <a href="https://www.tumblr.com/dieselpunkflimflam/171519611407/model-donna-mcphail-in-full-aviatrix-fashion" target="_blank" rel="noopener noreferrer nofollow">https://www.tumblr.com/dieselpunkflimflam/171519611407/model-donna-mcphail-in-full-aviatrix-fashion</a>  
 
 20. <a id="endnote-20"></a>
    Source: crystalinks.com  
-   Link: [https://www.crystalinks.com/mysteryairships.html](https://www.crystalinks.com/mysteryairships.html)  
+   Link: <a href="https://www.crystalinks.com/mysteryairships.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crystalinks.com/mysteryairships.html</a>  
 
 21. <a id="endnote-21"></a>
    Source: spaceshipsofezekiel.com  
-   Link: [https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html](https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html)  
+   Link: <a href="https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceshipsofezekiel.com/html/misc-kansas-airship-cownapping.html</a>

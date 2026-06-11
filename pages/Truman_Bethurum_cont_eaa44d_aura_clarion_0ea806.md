@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /truman-bethurum-contact-1954/
 nav_short_title: Aura and Clarion
 title: Why Aura Rhanes Made the Story Last
-title_full: Why Aura Rhanes Made the Story Last | Bethurum
+title_full: Why Aura Rhanes Made the Story Last
 display_title_short: Aura and Clarion
 display_title: Aura and Clarion
 heading_title: Why Aura Rhanes Made the Story Last
@@ -32,7 +32,7 @@ infographic_count: 3
 planned_sections:
 - The female captain at the center of the claim
 - Clarion as a hidden utopian world
-- How the story fits 1950s contactee themes
+- How the story fits 1950 s contactee themes
 focal_unit_type: mechanism
 topic_lens: mechanism
 topic_granularity: theme_cluster
@@ -233,7 +233,7 @@ next_link:
   permalink: /evidence-check/
   short_title: Evidence Check
   heading_title: Did the FBI Validate Bethurum's Saucer Claim?
-date: '2026-06-08 23:24:50 '
+date: '2026-06-11 13:15:29 '
 header:
   og_image: /assets/images/Truman_Bethurum_cont_eaa44d_aura_clarion_0ea806-Illustration-1-social.jpg
   preview_image: /assets/images/Truman_Bethurum_cont_eaa44d_aura_clarion_0ea806-Illustration-1.webp
@@ -244,9 +244,8 @@ image: /assets/images/Truman_Bethurum_cont_eaa44d_aura_clarion_0ea806-Illustrati
 
 Aura Rhanes and the hidden world of Clarion were the elements that transformed Truman Bethurum’s 1954 contact story from a routine flying-saucer claim into one of the most memorable myths of the 1950s UFO era. Bethurum did not merely say he saw a strange craft in the Nevada desert. He claimed repeated meetings with an attractive female captain from a peaceful civilisation concealed beyond the far side of the Moon. That mixture of glamour, cosmic morality, romance, and Cold War anxiety placed the story squarely within the wider contactee movement that flourished in post-war America. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Truman_Bethurum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Truman Bethurum</span><span class="citation-popover-snippet">April 24, 2026 — Truman Bethurum (August 21, 1898 – May 21, 1969) was one of the well known UFO or alien contactees who gained notoriety...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-
 <img src="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_aura_clarion_0ea806-Illustration-1-dark.svg" | relative_url }}" alt="Aura and Clarion illustration 1" data-theme-src-dark="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_aura_clarion_0ea806-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_aura_clarion_0ea806-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The mythology mattered because it gave audiences more than a mystery object in the sky. Aura Rhanes became a character readers could imagine, while Clarion functioned as a utopian mirror held up against 1950s fears about nuclear destruction, social instability, and spiritual decline. Even critics who dismissed Bethurum’s claims as fantasy recognised that the story captured the tone of the age more effectively than many other contactee narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryBefore Abduction: The Contactee Narrative of the 1950s2 Jun 2011 — Bethurum named Aura Rhanes as corespondent when sh...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">CDAMMExtraterrestrial/UFO Religion - CDAMM15 Jan 2021 — As historian David Michael Jacobs noted, the contactees were &#x27;operating within a...</span></span></span>
+The mythology mattered because it gave audiences more than a mystery object in the sky. Aura Rhanes became a character readers could imagine, while Clarion functioned as a utopian mirror held up against 1950s fears about nuclear destruction, social instability, and spiritual decline. Even critics who dismissed Bethurum’s claims as fantasy recognised that the story captured the tone of the age more effectively than many other contactee narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryBefore Abduction: The Contactee Narrative of the 1950s2 Jun 2011 — Bethurum named Aura Rhanes as corespondent when sh...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — As historian David Michael Jacobs noted, the contactees were &#x27;operating within a...</span></span></span>
 
 ## Why Aura Rhanes Became the Centre of the Story
 
@@ -257,7 +256,6 @@ Bethurum described her less like an incomprehensible alien and more like an idea
 The emotional tone of the encounters also mattered. Bethurum’s narrative often drifted toward admiration and flirtation, something later writers and historians of the contactee movement have noted openly. One scholarly discussion of 1950s contactee narratives observed that Bethurum even named Aura Rhanes in divorce proceedings involving his wife, showing how deeply the fantasy figure had entered his personal life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryBefore Abduction: The Contactee Narrative of the 1950s2 Jun 2011 — Bethurum named Aura Rhanes as corespondent when sh...</span></span></span>
 
 That combination of domestic disruption and cosmic romance helped the story linger in public memory. George Adamski’s Venusian contacts were spiritually important to believers, but Aura Rhanes gave Bethurum’s tale a more vivid and personal mythology. She was not simply delivering doctrine; she was a recurring personality around whom readers could build emotional investment.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G2ioIvdPgb8" title="UFO Contactees with Greg Bishop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G2ioIvdPgb8" target="_blank" rel="noopener noreferrer">UFO Contactees with Greg Bishop</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 16.8K &middot; Uploaded: June 2022 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G2ioIvdPgb8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G2ioIvdPgb8">Open on YouTube</a></p></div></div></div>
 
@@ -273,8 +271,7 @@ At the same time, sceptics later argued that the highly stylised descriptions of
 
 Clarion was not presented as a distant galaxy or abstract spiritual realm. Bethurum said it was a physical world hidden beyond the far side of the Moon, invisible from Earth. That claim immediately tied the mythology to one of the great unknown regions of the pre-spaceflight era. Before lunar probes photographed the Moon’s far side, it remained an ideal location for speculative worlds and hidden civilisations in popular culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flying saucer</span><span class="citation-popover-snippet">Flying saucer</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1810.10676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Near/Far Side Asymmetry in the Tidally Heated Moon</span><span class="citation-popover-snippet">arXiv Near/Far Side Asymmetry in the Tidally Heated Moon</span></span></span>
 
-In Bethurum’s telling, Clarion was technologically advanced but morally restrained. Its people supposedly avoided war, poverty, corruption, and social conflict. Later retellings of the story describe Clarionite society as free from adultery, inequality, and juvenile delinquency, themes that strongly echoed conservative and utopian concerns of 1950s America. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podscan.fm/podcasts/the-deep-dive-20/episodes/aboard-a-flying-saucer-truman-bethurums-true-encounters-with-aura-rhanes-amp-the-clarionites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">PodscanAboard a Flying Saucer: Truman Bethurum&#x27;s True...22 Jun 2025 — This video explores Bethurum&#x27;s multiple meetings with the &quot;Space P...</span></span></span> Poddtoppen This was a common contactee mechanism: extraterrestrial societies functioned as idealised alternatives to Earth rather than as biologically s <span class="citation-chip-wrap"><a class="citation-chip" href="https://poddtoppen.se/podcast/1815581156/the-deep-dive/aboard-a-flying-saucer-truman-bethurums-true-encounters-with-aura-rhanes-the-clarionites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poddtoppen.se">[poddtoppen.se]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poddtoppen.se</span><span class="citation-popover-snippet">PoddtoppenAboard a Flying Saucer: Truman Bethurum&#x27;s True...This video explores Bethurum&#x27;s multiple meetings with the &quot;Space People&quot; and...</span></span></span> trange alien ecosystems. The “space people” of the contactee movement often resembled spiritually perfected humans. Clarion fit that template precisely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Presentby C Bader · 1995 · Cited by 16 — The first claims of extended cont...</span></span></span>
-
+In Bethurum’s telling, Clarion was technologically advanced but morally restrained. Its people supposedly avoided war, poverty, corruption, and social conflict. Later retellings of the story describe Clarionite society as free from adultery, inequality, and juvenile delinquency, themes that strongly echoed conservative and utopian concerns of 1950s America. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podscan.fm/podcasts/the-deep-dive-20/episodes/aboard-a-flying-saucer-truman-bethurums-true-encounters-with-aura-rhanes-amp-the-clarionites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Aboard a Flying Saucer: Truman Bethurum&#x27;s True...22 Jun 2025 — This video explores Bethurum&#x27;s multiple meetings with the &quot;Space P...</span></span></span> Poddtoppen This was a common contactee mechanism: extraterrestrial societies functioned as idealised alternatives to Earth rather than as biologically s <span class="citation-chip-wrap"><a class="citation-chip" href="https://poddtoppen.se/podcast/1815581156/the-deep-dive/aboard-a-flying-saucer-truman-bethurums-true-encounters-with-aura-rhanes-the-clarionites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poddtoppen.se">[poddtoppen.se]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poddtoppen.se</span><span class="citation-popover-snippet">Aboard a Flying Saucer: Truman Bethurum&#x27;s True...This video explores Bethurum&#x27;s multiple meetings with the &quot;Space People&quot; and...</span></span></span> trange alien ecosystems. The “space people” of the contactee movement often resembled spiritually perfected humans. Clarion fit that template precisely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalcommons.chapman.edu">[Digital Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalcommons.chapman.edu</span><span class="citation-popover-snippet">Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Presentby C Bader · 1995 · Cited by 16 — The first claims of extended cont...</span></span></span>
 
 <img src="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_aura_clarion_0ea806-Illustration-2-dark.svg" | relative_url }}" alt="Aura and Clarion illustration 2" data-theme-src-dark="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_aura_clarion_0ea806-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_aura_clarion_0ea806-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The hidden planet as mythic geography
@@ -295,15 +292,13 @@ Several recurring themes linked Bethurum directly to that wider movement:
 * **Spiritual and moral messaging:** Clarionites supposedly warned against violence and social decline.
 * **Atomic-age anxiety:** The stories reflected fears of nuclear war and civilisation-ending conflict.
 * **Personal revelation:** Contactees often presented themselves as specially chosen intermediaries.
-* **Public performance:** Books, conventions, and lecture tours became central to spreading the narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">CDAMMExtraterrestrial/UFO Religion - CDAMM15 Jan 2021 — As historian David Michael Jacobs noted, the contactees were &#x27;operating within a...</span></span></span> Wikipedia Bethurum’s mythology also overlapped with the quasi-religious dimension of contactee culture. Following publication of <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Truman_Bethurum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Truman Bethurum</span><span class="citation-popover-snippet">April 24, 2026 — Truman Bethurum (August 21, 1898 – May 21, 1969) was one of the well known UFO or alien contactees who gained notoriety...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>*Aboard a Flying Saucer*, he established the “Sanctuary of Thought”, reportedly under guidance from Aura Rhanes herself. Although the movement never developed into a large religion, it showed how contactee stories could evolve into spiritual communities centred on extraterrestrial revelation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Columba_Krebs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Columba Krebs</span><span class="citation-popover-snippet">Columba Krebs</span></span></span>
-
+* **Public performance:** Books, conventions, and lecture tours became central to spreading the narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdamm.org">[CDAMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdamm.org</span><span class="citation-popover-title">Extraterrestrial/UFO Religion</span><span class="citation-popover-snippet">Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — As historian David Michael Jacobs noted, the contactees were &#x27;operating within a...</span></span></span> Wikipedia Bethurum’s mythology also overlapped with the quasi-religious dimension of contactee culture. Following publication of <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Truman_Bethurum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Truman Bethurum</span><span class="citation-popover-snippet">April 24, 2026 — Truman Bethurum (August 21, 1898 – May 21, 1969) was one of the well known UFO or alien contactees who gained notoriety...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>*Aboard a Flying Saucer*, he established the “Sanctuary of Thought”, reportedly under guidance from Aura Rhanes herself. Although the movement never developed into a large religion, it showed how contactee stories could evolve into spiritual communities centred on extraterrestrial revelation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Columba_Krebs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Columba Krebs</span><span class="citation-popover-snippet">Columba Krebs</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RXXKJ6SqjY4" title="1958: Interviews at UFO Truther Rally" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RXXKJ6SqjY4" target="_blank" rel="noopener noreferrer">1958: Interviews at UFO Truther Rally</a></p><p class="youtube-embed-meta">Channel: Frontline by ITN &middot; Views: 4.8K &middot; Uploaded: August 2022 &middot; Length: 1 minute 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RXXKJ6SqjY4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RXXKJ6SqjY4">Open on YouTube</a></p></div></div></div>
 
 ### Giant Rock and the performance of belief
 
 The Bethurum story gained momentum through the same UFO-convention culture that elevated other famous contactees. Giant Rock gatherings in the Mojave Desert became hubs for lectures, testimony, and public myth-making. Within that environment, Aura Rhanes became almost folkloric: a recognisable figure discussed long after the original claims faded from mainstream attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bostonreview.net/articles/forget-moving-canada-theres-room-moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bostonreview.net">[Boston Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bostonreview.net</span><span class="citation-popover-title">Aura Rhanes from the planet Clarion, married his third wife at Giant Rock</span><span class="citation-popover-snippet">Boston ReviewStranger Things: The Rise and Fall of UFOs and Life on...4 Nov 2016 — Truman Bethurum (Aboard a Flying Saucer, 1954), who m...</span></span></span> Wikipedia That convention culture encouraged storytelling styles that blurred autobiography <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Truman_Bethurum" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Truman Bethurum</span><span class="citation-popover-snippet">April 24, 2026 — Truman Bethurum (August 21, 1898 – May 21, 1969) was one of the well known UFO or alien contactees who gained notoriety...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span>, spirituality, entertainment, and pseudoscience. Audiences were not simply evaluating evidence; they were participating in a shared imaginative world. Bethurum’s polished descriptions of Clarion society and Aura’s personality worked especially well in that setting because they provided vivid narrative detail instead of abstract prophecy.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EFWRmI-mMB8" title="Episode 265 Aboard a Flying Saucer Part 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EFWRmI-mMB8" target="_blank" rel="noopener noreferrer">Episode 265 Aboard a Flying Saucer Part 1</a></p><p class="youtube-embed-meta">Channel: Astonishing Legends &middot; Views: 2.3K &middot; Uploaded: September 2023 &middot; Length: 2 hours 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EFWRmI-mMB8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EFWRmI-mMB8">Open on YouTube</a></p></div></div></div>
 
@@ -312,7 +307,6 @@ The Bethurum story gained momentum through the same UFO-convention culture that 
 The evidential basis for Bethurum’s claims remained extremely poor. No confirmed physical traces, verified photographs, independent scientific corroboration, or authenticated artefacts from Clarion ever emerged. The case rested almost entirely on Bethurum’s own testimony and the books and lectures that followed. Sceptics therefore treated the story as fantasy, performance, self-delusion, or commercial opportunism rather than evidence of extraterrestrial contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theironskeptic.com/articles/clarion/clarion.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theironskeptic.com">[2theironskeptic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theironskeptic.com</span><span class="citation-popover-snippet">Truman Bethurum19 May 2006 — A Polka Party... in Space! Aura Rhanes, the Captain of my Heart. No matter what the troglodytes that send me...</span><span class="citation-popover-meta">Published: May 2006</span></span></span>
 
 Yet Aura Rhanes endured in UFO folklore because the mythology satisfied emotional and cultural needs beyond factual proof. The story offered:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -325,50 +319,91 @@ Yet Aura Rhanes endured in UFO folklore because the mythology satisfied emotiona
 
 In that sense, the Bethurum mythology functioned less like a scientific claim and more like a modern American myth. Clarion became a symbolic “better world”, while Aura Rhanes embodied the benevolent outsider who sees humanity’s failures clearly but still offers guidance.
 
-Even decades later, references to Aura Rhanes continue to appear in UFO discussions, retrospectives, and contactee histories, showing how a largely unsupported 1950s narrative nevertheless secured a lasting place in flying-saucer folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/aliens/comments/pme5ia/has_anyone_here_heard_the_name_aura_rains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditHas anyone here heard the name &quot;Aura Rains&quot;?: r/aliensI may not have spelled the name correctly. I started going to UFO convention...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Columba_Krebs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Columba Krebs</span><span class="citation-popover-snippet">Columba Krebs</span></span></span>
-
+Even decades later, references to Aura Rhanes continue to appear in UFO discussions, retrospectives, and contactee histories, showing how a largely unsupported 1950s narrative nevertheless secured a lasting place in flying-saucer folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/aliens/comments/pme5ia/has_anyone_here_heard_the_name_aura_rains/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Has anyone here heard the name &quot;Aura Rains&quot;?: r/aliensI may not have spelled the name correctly. I started going to UFO convention...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Columba_Krebs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Columba Krebs</span><span class="citation-popover-snippet">Columba Krebs</span></span></span>
 
 <img src="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_aura_clarion_0ea806-Illustration-3-dark.svg" | relative_url }}" alt="Aura and Clarion illustration 3" data-theme-src-dark="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_aura_clarion_0ea806-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Truman_Bethurum_cont_eaa44d_aura_clarion_0ea806-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why Aura Rhanes Made the Story Last, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why Aura Rhanes Made the Story Last. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Truman Bethurum guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Truman+Bethurum+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides objective profiles on contactee figures and compares their utopian claims against historical cultural themes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Aura Rhanes guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Aura+Rhanes+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Explains the historical evolution of contactee themes, helping readers understand the utopian imagery common to 1950s reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Planet Clarion guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Planet+Clarion+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Deconstructs why utopian space-traveler narratives provided a psychological mirror for 1950s social anxieties.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Documents how investigative bureaus processed public claims for potential national security threats during the contactee era.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -405,15 +440,15 @@ Even decades later, references to Aura Rhanes continue to appear in UFO discussi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Alien Flying Saucer Canvas Picture Print Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d922c5a22bb8da604b8.jpg' | relative_url }}" alt="Listing image for Ufo Alien Flying Saucer Canvas Picture Print Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" target="_blank" rel="sponsored noopener noreferrer">Ufo Alien Flying Saucer Canvas Picture Print Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -421,15 +456,15 @@ Even decades later, references to Aura Rhanes continue to appear in UFO discussi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique UFO Flying Saucer Canvas Framed Print Picture Wall Art"><img src="{{ '/assets/images/marketplace-covers/45c397a9e6ad58253f3e.jpg' | relative_url }}" alt="Listing image for Antique UFO Flying Saucer Canvas Framed Print Picture Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" target="_blank" rel="sponsored noopener noreferrer">Antique UFO Flying Saucer Canvas Framed Print Picture Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -437,15 +472,15 @@ Even decades later, references to Aura Rhanes continue to appear in UFO discussi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER UFO IN THE DESERT -FRAMED ART PICTURE PAPER PRINT"><img src="{{ '/assets/images/marketplace-covers/19ff43a9535a1efae504.jpg' | relative_url }}" alt="Listing image for FLYING SAUCER UFO IN THE DESERT -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER UFO IN THE DESERT -FRAMED ART PICTURE PAPER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -453,15 +488,15 @@ Even decades later, references to Aura Rhanes continue to appear in UFO discussi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer art">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer art</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -469,7 +504,7 @@ Even decades later, references to Aura Rhanes continue to appear in UFO discussi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer art" data-ebay-reference="aura-and-clarion-why-aura-rhanes-made-the-story-last-truman-bethurum-contact-1954-flying-saucer-art" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -685,98 +720,98 @@ Even decades later, references to Aura Rhanes continue to appear in UFO discussi
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Truman Bethurum  
-   Link: [https://en.wikipedia.org/wiki/Truman_Bethurum](https://en.wikipedia.org/wiki/Truman_Bethurum)  
+   Link: <a href="https://en.wikipedia.org/wiki/Truman_Bethurum" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Truman_Bethurum</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 24, 2026 — Truman Bethurum (August 21, 1898 – May 21, 1969) was one of the well known UFO or alien contactees who gained notoriety...</p></details>
    Published: April 24, 2026  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Contactee](https://en.wikipedia.org/wiki/Contactee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Contactee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Contactee</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Flying saucer  
-   Link: [https://en.wikipedia.org/wiki/Flying_saucer](https://en.wikipedia.org/wiki/Flying_saucer)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flying_saucer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flying_saucer</a>  
 
 4. <a id="endnote-4"></a>
    Source: onlinelibrary.wiley.com  
-   Link: [https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x](https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x)  
+   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/j.1540-5931.2011.00842.x</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryBefore Abduction: The Contactee Narrative of the 1950s2 Jun 2011 — Bethurum named Aura Rhanes as corespondent when sh...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cdamm.org  
    Title: Extraterrestrial/UFO Religion  
-   Link: [https://www.cdamm.org/articles/extraterrestrial](https://www.cdamm.org/articles/extraterrestrial)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDAMMExtraterrestrial/UFO Religion - CDAMM15 Jan 2021 — As historian David Michael Jacobs noted, the contactees were &#x27;operating within a...</p></details>
+   Link: <a href="https://www.cdamm.org/articles/extraterrestrial" target="_blank" rel="noopener noreferrer nofollow">https://www.cdamm.org/articles/extraterrestrial</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial/UFO Religion - CDAMM15 Jan 2021 — As historian David Michael Jacobs noted, the contactees were &#x27;operating within a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/download/aboard-a-flying-saucer-truman-bethurum-and-the-people-of-the-planet-clarion.html](https://dokumen.pub/download/aboard-a-flying-saucer-truman-bethurum-and-the-people-of-the-planet-clarion.html)  
+   Link: <a href="https://dokumen.pub/download/aboard-a-flying-saucer-truman-bethurum-and-the-people-of-the-planet-clarion.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/aboard-a-flying-saucer-truman-bethurum-and-the-people-of-the-planet-clarion.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Between September 16th and November 2nd, 1952, Truman Bethurum was visited by the scow from Clarion, and its beautiful lady...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Columba Krebs  
-   Link: [https://en.wikipedia.org/wiki/Columba_Krebs](https://en.wikipedia.org/wiki/Columba_Krebs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Columba_Krebs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Columba_Krebs</a>  
 
 8. <a id="endnote-8"></a>
    Source: podcasts.apple.com  
    Title: Podcasts Bethurum Part 2 – UFOs and the Occult  
-   Link: [https://podcasts.apple.com/us/podcast/bethurum-part-2-ufos-and-the-occult/id923527373?i=1000628945142](https://podcasts.apple.com/us/podcast/bethurum-part-2-ufos-and-the-occult/id923527373?i=1000628945142)  
+   Link: <a href="https://podcasts.apple.com/us/podcast/bethurum-part-2-ufos-and-the-occult/id923527373?i=1000628945142" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/bethurum-part-2-ufos-and-the-occult/id923527373?i=1000628945142</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsBethurum Part 2 – UFOs and the OccultSeptember 24, 2023 — 24 Sept 2023 — For whatever reason, 1952, the year of Truman Beth...</p></details>
    Published: September 24, 2023  
 
 9. <a id="endnote-9"></a>
    Source: theironskeptic.com  
-   Link: [https://www.theironskeptic.com/articles/clarion/clarion.htm](https://www.theironskeptic.com/articles/clarion/clarion.htm)  
+   Link: <a href="https://www.theironskeptic.com/articles/clarion/clarion.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.theironskeptic.com/articles/clarion/clarion.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Truman Bethurum19 May 2006 — A Polka Party... in Space! Aura Rhanes, the Captain of my Heart. No matter what the troglodytes that send me...</p></details>
    Published: May 2006  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Near/Far Side Asymmetry in the Tidally Heated Moon  
-   Link: [https://arxiv.org/abs/1810.10676](https://arxiv.org/abs/1810.10676)  
+   Link: <a href="https://arxiv.org/abs/1810.10676" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1810.10676</a>  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
    Title: arXiv Are the Moon's nearside-farside asymmetries the result of a giant impact?  
-   Link: [https://arxiv.org/abs/2011.13686](https://arxiv.org/abs/2011.13686)  
+   Link: <a href="https://arxiv.org/abs/2011.13686" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2011.13686</a>  
 
 12. <a id="endnote-12"></a>
    Source: podscan.fm  
-   Link: [https://podscan.fm/podcasts/the-deep-dive-20/episodes/aboard-a-flying-saucer-truman-bethurums-true-encounters-with-aura-rhanes-amp-the-clarionites](https://podscan.fm/podcasts/the-deep-dive-20/episodes/aboard-a-flying-saucer-truman-bethurums-true-encounters-with-aura-rhanes-amp-the-clarionites)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PodscanAboard a Flying Saucer: Truman Bethurum&#x27;s True...22 Jun 2025 — This video explores Bethurum&#x27;s multiple meetings with the &quot;Space P...</p></details>
+   Link: <a href="https://podscan.fm/podcasts/the-deep-dive-20/episodes/aboard-a-flying-saucer-truman-bethurums-true-encounters-with-aura-rhanes-amp-the-clarionites" target="_blank" rel="noopener noreferrer nofollow">https://podscan.fm/podcasts/the-deep-dive-20/episodes/aboard-a-flying-saucer-truman-bethurums-true-encounters-with-aura-rhanes-amp-the-clarionites</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aboard a Flying Saucer: Truman Bethurum&#x27;s True...22 Jun 2025 — This video explores Bethurum&#x27;s multiple meetings with the &quot;Space P...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: poddtoppen.se  
-   Link: [https://poddtoppen.se/podcast/1815581156/the-deep-dive/aboard-a-flying-saucer-truman-bethurums-true-encounters-with-aura-rhanes-the-clarionites](https://poddtoppen.se/podcast/1815581156/the-deep-dive/aboard-a-flying-saucer-truman-bethurums-true-encounters-with-aura-rhanes-the-clarionites)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PoddtoppenAboard a Flying Saucer: Truman Bethurum&#x27;s True...This video explores Bethurum&#x27;s multiple meetings with the &quot;Space People&quot; and...</p></details>
+   Link: <a href="https://poddtoppen.se/podcast/1815581156/the-deep-dive/aboard-a-flying-saucer-truman-bethurums-true-encounters-with-aura-rhanes-the-clarionites" target="_blank" rel="noopener noreferrer nofollow">https://poddtoppen.se/podcast/1815581156/the-deep-dive/aboard-a-flying-saucer-truman-bethurums-true-encounters-with-aura-rhanes-the-clarionites</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aboard a Flying Saucer: Truman Bethurum&#x27;s True...This video explores Bethurum&#x27;s multiple meetings with the &quot;Space People&quot; and...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/pme5ia/has_anyone_here_heard_the_name_aura_rains/](https://www.reddit.com/r/aliens/comments/pme5ia/has_anyone_here_heard_the_name_aura_rains/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditHas anyone here heard the name &quot;Aura Rains&quot;?: r/aliensI may not have spelled the name correctly. I started going to UFO convention...</p></details>
+   Link: <a href="https://www.reddit.com/r/aliens/comments/pme5ia/has_anyone_here_heard_the_name_aura_rains/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/pme5ia/has_anyone_here_heard_the_name_aura_rains/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has anyone here heard the name &quot;Aura Rains&quot;?: r/aliensI may not have spelled the name correctly. I started going to UFO convention...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html](https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html)  
+   Link: <a href="https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/extraterrestrials-and-the-american-zeitgeist-alien-contact-tales-since-the-1950s-0786471166-9780786471164.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrials and the American Zeitgeist: Alien Contact...Since the 1950s, men and women around the world have claimed to have had c...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: digitalcommons.chapman.edu  
-   Link: [https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&context=sociology_articles](https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&context=sociology_articles)  
+   Link: <a href="https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles" target="_blank" rel="noopener noreferrer nofollow">https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1002&amp;context=sociology_articles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital CommonsThe UFO Contact Movement from the 1950&#x27;s to the Presentby C Bader · 1995 · Cited by 16 — The first claims of extended cont...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bostonreview.net  
    Title: Aura Rhanes from the planet Clarion, married his third wife at Giant Rock  
-   Link: [https://www.bostonreview.net/articles/forget-moving-canada-theres-room-moon/](https://www.bostonreview.net/articles/forget-moving-canada-theres-room-moon/)  
+   Link: <a href="https://www.bostonreview.net/articles/forget-moving-canada-theres-room-moon/" target="_blank" rel="noopener noreferrer nofollow">https://www.bostonreview.net/articles/forget-moving-canada-theres-room-moon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boston ReviewStranger Things: The Rise and Fall of UFOs and Life on...4 Nov 2016 — Truman Bethurum (Aboard a Flying Saucer, 1954), who m...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: music.youtube.com  
    Title: MP EFthp0mw  
-   Link: [https://music.youtube.com/podcast/MP-EFthp0mw](https://music.youtube.com/podcast/MP-EFthp0mw)  
+   Link: <a href="https://music.youtube.com/podcast/MP-EFthp0mw" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/MP-EFthp0mw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bethurum | Alien Interference19 Oct 2025 —... Aura Rhanes, from the planet Clarion. He described her as petite, beautiful, authoritative...</p></details>
 
 ### Additional References
@@ -784,57 +819,57 @@ Even decades later, references to Aura Rhanes continue to appear in UFO discussi
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: in 1954 an oak park housewife announced that aliens from the planet clarion had  
-   Link: [https://www.facebook.com/ChicagoMagazine/posts/in-1954-an-oak-park-housewife-announced-that-aliens-from-the-planet-clarion-had-/10158196802402145/](https://www.facebook.com/ChicagoMagazine/posts/in-1954-an-oak-park-housewife-announced-that-aliens-from-the-planet-clarion-had-/10158196802402145/)  
+   Link: <a href="https://www.facebook.com/ChicagoMagazine/posts/in-1954-an-oak-park-housewife-announced-that-aliens-from-the-planet-clarion-had-/10158196802402145/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChicagoMagazine/posts/in-1954-an-oak-park-housewife-announced-that-aliens-from-the-planet-clarion-had-/10158196802402145/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1954, an Oak Park housewife announced that aliens...In 1954, an Oak Park housewife announced that aliens from the planet Clarion had...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pinterest.com  
    Title: we dont want to confuse aura rhanes with aura raines 384283780721683940  
-   Link: [https://www.pinterest.com/pin/we-dont-want-to-confuse-aura-rhanes-with-aura-raines--384283780721683940/](https://www.pinterest.com/pin/we-dont-want-to-confuse-aura-rhanes-with-aura-raines--384283780721683940/)  
+   Link: <a href="https://www.pinterest.com/pin/we-dont-want-to-confuse-aura-rhanes-with-aura-raines--384283780721683940/" target="_blank" rel="noopener noreferrer nofollow">https://www.pinterest.com/pin/we-dont-want-to-confuse-aura-rhanes-with-aura-raines--384283780721683940/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Truman Bethurum and his Curvaceous Captain from ClarionOne evening in July of 1952, Truman Bethurum—a heavy equipment mechanic working on...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: journalnews.com.ph  
    Title: when a sinister woman in black was also a beautiful space alien  
-   Link: [https://journalnews.com.ph/when-a-sinister-woman-in-black-was-also-a-beautiful-space-alien/](https://journalnews.com.ph/when-a-sinister-woman-in-black-was-also-a-beautiful-space-alien/)  
+   Link: <a href="https://journalnews.com.ph/when-a-sinister-woman-in-black-was-also-a-beautiful-space-alien/" target="_blank" rel="noopener noreferrer nofollow">https://journalnews.com.ph/when-a-sinister-woman-in-black-was-also-a-beautiful-space-alien/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When a Sinister Woman in Black was Also a Beautiful...Jul 29, 2021 — On two occasions, Bethurum said, he encountered Aura Rhanes under c...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: mauritius-images.com  
-   Link: [https://www.mauritius-images.com/en/asset/ME-PI-6259461_mauritius_images_image_number_11922010_artist-s-impression-of-truman-bethurum-being-escorted-aboard-the-scow-from-clarion-and-being-welcomed-by-captain-aura-rhanes-on-mormon-mesa-nevada-1952-from-gavin-gibbons-they-rode-in-space-ships-published-1957-c-topfoto-fortean](https://www.mauritius-images.com/en/asset/ME-PI-6259461_mauritius_images_image_number_11922010_artist-s-impression-of-truman-bethurum-being-escorted-aboard-the-scow-from-clarion-and-being-welcomed-by-captain-aura-rhanes-on-mormon-mesa-nevada-1952-from-gavin-gibbons-they-rode-in-space-ships-published-1957-c-topfoto-fortean)  
+   Link: <a href="https://www.mauritius-images.com/en/asset/ME-PI-6259461_mauritius_images_image_number_11922010_artist-s-impression-of-truman-bethurum-being-escorted-aboard-the-scow-from-clarion-and-being-welcomed-by-captain-aura-rhanes-on-mormon-mesa-nevada-1952-from-gavin-gibbons-they-rode-in-space-ships-published-1957-c-topfoto-fortean" target="_blank" rel="noopener noreferrer nofollow">https://www.mauritius-images.com/en/asset/ME-PI-6259461_mauritius_images_image_number_11922010_artist-s-impression-of-truman-bethurum-being-escorted-aboard-the-scow-from-clarion-and-being-welcomed-by-captain-aura-rhanes-on-mormon-mesa-nevada-1952-from-gavin-gibbons-they-rode-in-space-ships-published-1957-c-topfoto-fortean</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on and being welcomed by Captain Aura Rhanes, on Mormon Mesa, Nevada, 1952...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/900504988/Truman-Bethurum-Summary](https://www.scribd.com/document/900504988/Truman-Bethurum-Summary)  
+   Link: <a href="https://www.scribd.com/document/900504988/Truman-Bethurum-Summary" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/900504988/Truman-Bethurum-Summary</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ion&#x27;, detailing the experiences of mechanic Truman...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: secretoranges.substack.com  
    Title: She Came From Planet Claire  
-   Link: [https://secretoranges.substack.com/p/she-came-from-planet-claire](https://secretoranges.substack.com/p/she-came-from-planet-claire)  
+   Link: <a href="https://secretoranges.substack.com/p/she-came-from-planet-claire" target="_blank" rel="noopener noreferrer nofollow">https://secretoranges.substack.com/p/she-came-from-planet-claire</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret OrangesA prominent “contactee” in the 1950s, he is generally met with extreme skepticism by scientists and most modern UFO researc...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: scribd.com  
    Title: Truman Bethurum Wikipedia  
-   Link: [https://www.scribd.com/document/810579244/Truman-Bethurum-Wikipedia](https://www.scribd.com/document/810579244/Truman-Bethurum-Wikipedia)  
+   Link: <a href="https://www.scribd.com/document/810579244/Truman-Bethurum-Wikipedia" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/810579244/Truman-Bethurum-Wikipedia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Truman Bethurum: 1950s UFO Contactee | PDFTruman Bethurum. Truman Bethurum (August 21, 1898 – May 21, 1969). was one of the well known 19...</p></details>
    Published: August 21, 1898  
 
 26. <a id="endnote-26"></a>
    Source: encyclopedia.com  
    Title: bethurum truman 1898 1969  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bethurum-truman-1898-1969](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bethurum-truman-1898-1969)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bethurum-truman-1898-1969" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/bethurum-truman-1898-1969</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bethurum, Truman (1898-1969)Aura Rhanes came as a representative of those inhabited worlds that had already obtained interplanetary fligh...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/957662861711333/posts/2238223503655256/](https://www.facebook.com/groups/957662861711333/posts/2238223503655256/)  
+   Link: <a href="https://www.facebook.com/groups/957662861711333/posts/2238223503655256/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/957662861711333/posts/2238223503655256/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1950s ufo era and alien encountersTruman Bethurum and the Alien Encounters That Defined the 1950s UFO Era During the early years of the U...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: UFO Contactees with Greg Bishop  
-   Link: [https://www.youtube.com/watch?v=G2ioIvdPgb8](https://www.youtube.com/watch?v=G2ioIvdPgb8)  
+   Link: <a href="https://www.youtube.com/watch?v=G2ioIvdPgb8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G2ioIvdPgb8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>George Adamski: Alien Contactee! - Jimmy Akin&#x27;s Mysterious World...</p></details>

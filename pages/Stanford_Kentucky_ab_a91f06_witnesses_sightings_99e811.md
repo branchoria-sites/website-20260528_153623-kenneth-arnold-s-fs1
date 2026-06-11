@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /stanford-kentucky-abduction-1976/
 nav_short_title: Witnesses
 title: How Strong Were the Witness Accounts?
-title_full: How Strong Were the Witness Accounts? | Stanford Abduction
+title_full: How Strong Were the Witness Accounts?
 display_title_short: Witnesses
 display_title: Witnesses
 heading_title: How Strong Were the Witness Accounts?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /testing-claims/
   short_title: Testing Claims
   heading_title: Did the Investigation Shape the Story?
-date: '2026-06-08 23:32:52 '
+date: '2026-06-11 13:19:53 '
 header:
   og_image: /assets/images/Stanford_Kentucky_ab_a91f06_witnesses_sightings_99e811-Illustration-1-social.jpg
   preview_image: /assets/images/Stanford_Kentucky_ab_a91f06_witnesses_sightings_99e811-Illustration-1.webp
@@ -244,7 +244,6 @@ image: /assets/images/Stanford_Kentucky_ab_a91f06_witnesses_sightings_99e811-Ill
 
 The Stanford, Kentucky abduction case depends heavily on the credibility of its witnesses. Unlike many UFO stories built around a single narrator, this incident involved three women — Louise Smith, Mona Stafford and Elaine Thomas — who independently described a frightening encounter on a rural drive home in January 1976. Investigators later pointed to nearby UFO reports in Casey and Lincoln counties as possible corroboration. Supporters argue that the combination of multiple witnesses, apparent emotional distress and local sighting claims makes the case unusually difficult to dismiss outright. Critics respond that the evidence still rests mainly on memory, later retellings and hypnosis-enhanced narratives rather than independently verified facts.
 
-
 <img src="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_witnesses_sightings_99e811-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_witnesses_sightings_99e811-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_witnesses_sightings_99e811-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The witness issue therefore sits at the centre of the Stanford case. The key question is not simply whether the women believed something extraordinary happened, but whether their accounts genuinely reinforce one another in a way that survives scrutiny.
 
@@ -254,10 +253,9 @@ The three women shared several core claims from the beginning: they saw a bright
 
 What gave the story early traction inside UFO research circles was the fact that the witnesses were not anonymous teenagers or distant observers. They were adult women from the same local community who continued publicly standing by the account after media attention intensified. Later summaries repeatedly stressed that none of the women had consumed alcohol during the evening, a detail investigators treated as important for credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wkdq.com/stanford-kentucky-alien-abduction-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wkdq.com">[99.5 WKDQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wkdq.com</span><span class="citation-popover-title">stanford kentucky alien abduction mystery</span><span class="citation-popover-snippet">99.5 WKDQ1976 Standford KY Abduction MysteryJan 31, 2025 — In January 1976, three women from Stanford, Kentucky, reported a chilling enco...</span><span class="citation-popover-meta">Published: January 1976</span></span></span>
 
-At the same time, the similarities in their stories do not automatically prove an external event occurred exactly as described. The women spent the entire experience together, discussed it afterwards and later underwent repeated interviews. In witness psychology, memories formed during emotionally charged situations can become increasingly aligned over time, especially when people jointly reconstruct confusing events. Modern research on eyewitness memory shows that stress can intensify emotional conviction while still distorting recall details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby C Marr · 2020 · Cited by 59 — Facing difficult, frightening, and emotional events can trigger a subjective and physiological stress...</span></span></span>
+At the same time, the similarities in their stories do not automatically prove an external event occurred exactly as described. The women spent the entire experience together, discussed it afterwards and later underwent repeated interviews. In witness psychology, memories formed during emotionally charged situations can become increasingly aligned over time, especially when people jointly reconstruct confusing events. Modern research on eyewitness memory shows that stress can intensify emotional conviction while still distorting recall details. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Marr · 2020 · Cited by 59 — Facing difficult, frightening, and emotional events can trigger a subjective and physiological stress...</span></span></span>
 
 The Stanford case therefore occupies an awkward middle ground. The testimony is stronger than a lone unsupported claim, but weaker than a genuinely independent multi-point observation with contemporaneous documentation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iVplk1eCYms" title="Don&#x27;t Look Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iVplk1eCYms" target="_blank" rel="noopener noreferrer">Don&#x27;t Look Up</a></p><p class="youtube-embed-meta">Channel: Two Girls One Ghost &middot; Views: 6.1K &middot; Uploaded: November 2022 &middot; Length: 1 hour 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iVplk1eCYms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iVplk1eCYms">Open on YouTube</a></p></div></div></div>
 
@@ -271,7 +269,6 @@ Elaine Thomas generally received less attention in later media coverage, but her
 
 Supporters of the case also highlighted reported polygraph examinations conducted in July 1976 by Lexington police detective James Young. According to UFO case summaries, all three women passed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wkdq.com/stanford-kentucky-alien-abduction-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wkdq.com">[99.5 WKDQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wkdq.com</span><span class="citation-popover-title">stanford kentucky alien abduction mystery</span><span class="citation-popover-snippet">99.5 WKDQ1976 Standford KY Abduction MysteryJan 31, 2025 — In January 1976, three women from Stanford, Kentucky, reported a chilling enco...</span><span class="citation-popover-meta">Published: January 1976</span></span></span> Polygraphs, however, measure physiological stress rather than objective truthfulness. A sincere witness can pass while describing something inaccurately remembered, misunderstood or psychologically reconstructed. The tests therefore strengthened the argument that the women believed their own story, but not necessarily that every claimed detail was historically accurate.
 
-
 <img src="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_witnesses_sightings_99e811-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_witnesses_sightings_99e811-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_witnesses_sightings_99e811-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reported Symptoms and Emotional Distress
 
@@ -284,7 +281,6 @@ Yet the evidential strength of these symptoms is limited by the surviving docume
 The hypnosis sessions later conducted by psychologist R. Leo Sprinkle complicated the witness issue further. Under regression hypnosis, the women reportedly described being taken aboard a craft and medically examined by humanoid beings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wkdq.com/stanford-kentucky-alien-abduction-mystery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wkdq.com">[99.5 WKDQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wkdq.com</span><span class="citation-popover-title">stanford kentucky alien abduction mystery</span><span class="citation-popover-snippet">99.5 WKDQ1976 Standford KY Abduction MysteryJan 31, 2025 — In January 1976, three women from Stanford, Kentucky, reported a chilling enco...</span><span class="citation-popover-meta">Published: January 1976</span></span></span> To UFO researchers in the 1970s, this seemed to unlock hidden memories. To critics, it introduced one of the most controversial methods in paranormal investigation.
 
 By the late twentieth century, many psychologists and memory researchers warned that hypnosis can increase confidence in memories without increasing accuracy. It may encourage confabulation — the creation of vivid but false narrative details — especially in situations where interviewers already expect a certain type of story. That criticism matters because the most elaborate abduction claims in the Stanford case emerged after hypnosis rather than immediately at the roadside.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HnisLLYP8nQ" title="The Liberty Alien Abduction (1976) — Kentucky’s Most Terrifying UFO Case" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HnisLLYP8nQ" target="_blank" rel="noopener noreferrer">The Liberty Alien Abduction (1976) — Kentucky’s Most Terrifying UFO Case</a></p><p class="youtube-embed-meta">Channel: Kentucky Melody &middot; Views: 7.8K &middot; Uploaded: December 2024 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HnisLLYP8nQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HnisLLYP8nQ">Open on YouTube</a></p></div></div></div>
 
@@ -300,7 +296,6 @@ There is also a distinction between corroborating a UFO sighting and corroborati
 
 Another complication is the cultural atmosphere of the mid-1970s UFO wave. During that period, publicity surrounding high-profile UFO and abduction cases increased dramatically across the United States. Once a striking local story became public, additional reports sometimes followed through suggestion, reinterpretation of ordinary events or retrospective association with the headline incident.
 
-
 <img src="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_witnesses_sightings_99e811-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_witnesses_sightings_99e811-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Stanford_Kentucky_ab_a91f06_witnesses_sightings_99e811-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Witnesses Still Matter in UFO History
 
@@ -310,49 +305,89 @@ For believers, the combination of three cooperative witnesses and nearby sightin
 
 The witness record therefore neither collapses completely nor reaches a conclusive standard. Something appears to have frightened the women that night. The unresolved question is whether the testimony documents an extraordinary external encounter, a misinterpreted aerial event amplified through memory and hypnosis, or some combination of fear, suggestion and genuine confusion that later hardened into a coherent abduction story.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P1YVfdOzG7c" title="The Stanford, Kentucky alien abductions, January 6, 1976" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P1YVfdOzG7c" target="_blank" rel="noopener noreferrer">The Stanford, Kentucky alien abductions, January 6, 1976</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 73.9K &middot; Uploaded: August 2022 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P1YVfdOzG7c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P1YVfdOzG7c">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Strong Were the Witness Accounts?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Strong Were the Witness Accounts?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Casey sightings guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Casey+sightings+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Kentucky sighting, contrasting witness claims against the official history of the 1976 sighting surge.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings evidence books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+evidence+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Contextualizes the sightings within a history of encounters involving lights that defy conventional expectations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Casey sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Casey+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches forensic methodologies to distinguish between standard light sightings and reported anomalous events.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Describes how government investigations contrast with civilian witness dossiers.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -389,15 +424,15 @@ The witness record therefore neither collapses completely nor reaches a conclusi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -405,15 +440,15 @@ The witness record therefore neither collapses completely nor reaches a conclusi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Art Print (ufo at sundown)"><img src="{{ '/assets/images/marketplace-covers/122dd5a82be3a8d93c90.jpg' | relative_url }}" alt="Listing image for Ufo Art Print (ufo at sundown)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">Ufo Art Print (ufo at sundown)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -421,15 +456,15 @@ The witness record therefore neither collapses completely nor reaches a conclusi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/ecf1364ac1fcde60335d.jpg' | relative_url }}" alt="Listing image for Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">Victorian Street UFO Encounter Dark Sc-Fi Poster Print Framed Canvas Wall Art</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -437,15 +472,15 @@ The witness record therefore neither collapses completely nor reaches a conclusi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="{{ '/assets/images/marketplace-covers/3ca51934ba0b39a1ad1c.jpg' | relative_url }}" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -453,7 +488,7 @@ The witness record therefore neither collapses completely nor reaches a conclusi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+art+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo art print -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="witnesses-10676f-how-strong-were-the-witness-accounts-stanford-kentucky-abduction-1976-ufo-art-print-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -668,153 +703,153 @@ The witness record therefore neither collapses completely nor reaches a conclusi
 
 1. <a id="endnote-1"></a>
    Source: wkdq.com  
-   Title: [stanford kentucky](&#123;&#123; 'stanford-kentucky-abduction-1976/' | relative_url &#125;&#125;) alien abduction mystery  
-   Link: [https://wkdq.com/stanford-kentucky-alien-abduction-mystery/](https://wkdq.com/stanford-kentucky-alien-abduction-mystery/)  
+   Title: stanford kentucky alien abduction mystery  
+   Link: <a href="https://wkdq.com/stanford-kentucky-alien-abduction-mystery/" target="_blank" rel="noopener noreferrer nofollow">https://wkdq.com/stanford-kentucky-alien-abduction-mystery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>99.5 WKDQ1976 Standford KY Abduction MysteryJan 31, 2025 — In January 1976, three women from Stanford, Kentucky, reported a chilling enco...</p></details>
    Published: January 1976  
 
 2. <a id="endnote-2"></a>
    Source: citybeat.com  
    Title: Cincinnati City Beat Cover Story: A Close Encounter with Jerry Black  
-   Link: [https://www.citybeat.com/news/cover-story-a-close-encounter-with-jerry-black-12215115/](https://www.citybeat.com/news/cover-story-a-close-encounter-with-jerry-black-12215115/)  
+   Link: <a href="https://www.citybeat.com/news/cover-story-a-close-encounter-with-jerry-black-12215115/" target="_blank" rel="noopener noreferrer nofollow">https://www.citybeat.com/news/cover-story-a-close-encounter-with-jerry-black-12215115/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>6, 1976, at about 11:15 p.m., driver Louise Smith and passengers Mona Stafford and Elaine Thomas were traveling along U.S. Route 27 in...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=P1YVfdOzG7c](https://www.youtube.com/watch?v=P1YVfdOzG7c)  
+   Link: <a href="https://www.youtube.com/watch?v=P1YVfdOzG7c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P1YVfdOzG7c</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Stanford, Kentucky alien abductions, January 6, 1976The following tape contains a description of an encounter with the ufo as...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby C Marr · 2020 · Cited by 59 — Facing difficult, frightening, and emotional events can trigger a subjective and physiological stress...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8024237/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Marr · 2020 · Cited by 59 — Facing difficult, frightening, and emotional events can trigger a subjective and physiological stress...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ufocasebook.com  
-   Link: [https://ufocasebook.com/Stanford.html](https://ufocasebook.com/Stanford.html)  
+   Link: <a href="https://ufocasebook.com/Stanford.html" target="_blank" rel="noopener noreferrer nofollow">https://ufocasebook.com/Stanford.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1976 Stanford, Kentucky Abductions (1)The UFO hung over the driver side of the car for a time before it moved ahead of it on the high...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: podcastufo.com  
    Title: a 1976 ufo encounter in kentucky  
-   Link: [https://podcastufo.com/a-1976-ufo-encounter-in-kentucky/](https://podcastufo.com/a-1976-ufo-encounter-in-kentucky/)  
+   Link: <a href="https://podcastufo.com/a-1976-ufo-encounter-in-kentucky/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/a-1976-ufo-encounter-in-kentucky/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 30, 2022 — All three women had marks like fresh burns on the backs of their necks. Stafford&#x27;s was on the left just behind her ear, an...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: wkdq.com  
    Title: stanford kentucky alien abduction 1976  
-   Link: [https://wkdq.com/stanford-kentucky-alien-abduction-1976/](https://wkdq.com/stanford-kentucky-alien-abduction-1976/)  
+   Link: <a href="https://wkdq.com/stanford-kentucky-alien-abduction-1976/" target="_blank" rel="noopener noreferrer nofollow">https://wkdq.com/stanford-kentucky-alien-abduction-1976/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>99.5 WKDQThree Kentucky Women Report Being Abducted By Aliens...25 Jan 2023 — The story of the Stanford, KY, alien abduction will give y...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=FAAFOzax29g](https://www.youtube.com/watch?v=FAAFOzax29g)  
+   Link: <a href="https://www.youtube.com/watch?v=FAAFOzax29g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FAAFOzax29g</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries: The 1976 Alien Abduction in Stanford, KYThe 1976 alien abduction incident that happened near Sanford Kentucky right h...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scocal.stanford.edu  
    Title: people v weaver 30971  
-   Link: [https://scocal.stanford.edu/opinion/people-v-weaver-30971](https://scocal.stanford.edu/opinion/people-v-weaver-30971)  
+   Link: <a href="https://scocal.stanford.edu/opinion/people-v-weaver-30971" target="_blank" rel="noopener noreferrer nofollow">https://scocal.stanford.edu/opinion/people-v-weaver-30971</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weaver - 26 Cal.4th 876 S004665 - Mon, 08/20/2001In addition, the jury convicted defendant of kidnapping Levoy (§ 207) and sustained an e...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=HnisLLYP8nQ](https://www.youtube.com/watch?v=HnisLLYP8nQ)  
+   Link: <a href="https://www.youtube.com/watch?v=HnisLLYP8nQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HnisLLYP8nQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unsolved Mysteries: The 1976 Alien Abduction in Stanford, KY...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Don't Look Up  
-   Link: [https://www.youtube.com/watch?v=iVplk1eCYms](https://www.youtube.com/watch?v=iVplk1eCYms)  
+   Link: <a href="https://www.youtube.com/watch?v=iVplk1eCYms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iVplk1eCYms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LEX18 Investigates UFO Abduction...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: LEX18 Investigates UFO Abduction  
-   Link: [https://www.youtube.com/watch?v=6e5Lf3nvTmU](https://www.youtube.com/watch?v=6e5Lf3nvTmU)  
+   Link: <a href="https://www.youtube.com/watch?v=6e5Lf3nvTmU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6e5Lf3nvTmU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Encounter That Led To A Shootout • Mystery Files...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Alien Encounter That Led To A Shootout • Mystery Files  
-   Link: [https://www.youtube.com/watch?v=zh2D1n62G_o](https://www.youtube.com/watch?v=zh2D1n62G_o)  
+   Link: <a href="https://www.youtube.com/watch?v=zh2D1n62G_o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zh2D1n62G_o</a>  
 
 14. <a id="endnote-14"></a>
    Source: theblackvault.com  
    Title: 1976 stanford kentucky abductions  
-   Link: [https://www.theblackvault.com/casefiles/1976-stanford-kentucky-abductions/](https://www.theblackvault.com/casefiles/1976-stanford-kentucky-abductions/)  
+   Link: <a href="https://www.theblackvault.com/casefiles/1976-stanford-kentucky-abductions/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/1976-stanford-kentucky-abductions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1976 Stanford, Kentucky Abductions26 Apr 2016 — It would be on January, 6, 1976 that Mona Stafford, Louise Smith, and Elaine Thomas w...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: completely-kentucky.fandom.com  
    Title: Stanford Abduction  
-   Link: [https://completely-kentucky.fandom.com/wiki/Stanford_Abduction](https://completely-kentucky.fandom.com/wiki/Stanford_Abduction)  
+   Link: <a href="https://completely-kentucky.fandom.com/wiki/Stanford_Abduction" target="_blank" rel="noopener noreferrer nofollow">https://completely-kentucky.fandom.com/wiki/Stanford_Abduction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Abduction - Completely Kentucky Wiki - Fandom...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: x.com  
    Title: The Stanford, Kentucky Abduction Case  
-   Link: [https://x.com/mrjeffknox/status/2008649696651473405/photo/1](https://x.com/mrjeffknox/status/2008649696651473405/photo/1)  
+   Link: <a href="https://x.com/mrjeffknox/status/2008649696651473405/photo/1" target="_blank" rel="noopener noreferrer nofollow">https://x.com/mrjeffknox/status/2008649696651473405/photo/1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 6, 1976... Kentucky Abduction... Today in UFO History - The Stanford, Kentucky Abduction Case January 6, 1976 — HWY 78 Between S...</p></details>
    Published: January 6, 1976  
 
 18. <a id="endnote-18"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony](https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony)  
+   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Reliability of UFO Witness TestimonyThe alleged contact may sometimes include communication (mental or oral), physical interaction, k...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: in january 1976 three women from stanford kentucky reported a chilling encounter  
-   Link: [https://www.facebook.com/99.5WKDQ/posts/in-january-1976-three-women-from-stanford-kentucky-reported-a-chilling-encounter/1078077310990980/](https://www.facebook.com/99.5WKDQ/posts/in-january-1976-three-women-from-stanford-kentucky-reported-a-chilling-encounter/1078077310990980/)  
+   Link: <a href="https://www.facebook.com/99.5WKDQ/posts/in-january-1976-three-women-from-stanford-kentucky-reported-a-chilling-encounter/1078077310990980/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/99.5WKDQ/posts/in-january-1976-three-women-from-stanford-kentucky-reported-a-chilling-encounter/1078077310990980/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In January 1976, three women from Stanford, Kentucky...Several years before the famous alien abductions of Betty and Barney Hill, appare...</p></details>
    Published: january 1976  
 
 20. <a id="endnote-20"></a>
    Source: supremecourt.gov  
    Title: 20200512202347918 Hoyt Final Appendix  
-   Link: [https://www.supremecourt.gov/DocketPDF/19/19-8499/143372/20200512202347918_Hoyt-Final%20Appendix.pdf](https://www.supremecourt.gov/DocketPDF/19/19-8499/143372/20200512202347918_Hoyt-Final%20Appendix.pdf)  
+   Link: <a href="https://www.supremecourt.gov/DocketPDF/19/19-8499/143372/20200512202347918_Hoyt-Final%20Appendix.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.supremecourt.gov/DocketPDF/19/19-8499/143372/20200512202347918_Hoyt-Final%20Appendix.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Appendix30 Jan 2020 — On October 30, 2000, defendant was charged by grand jury indictment with kidnapping 15-year-old Nicholas Markowitz...</p></details>
    Published: October 30, 2000  
 
 21. <a id="endnote-21"></a>
    Source: themarshallproject.org  
    Title: eyewitness testimony is unreliable or is it  
-   Link: [https://www.themarshallproject.org/2015/10/30/eyewitness-testimony-is-unreliable-or-is-it](https://www.themarshallproject.org/2015/10/30/eyewitness-testimony-is-unreliable-or-is-it)  
+   Link: <a href="https://www.themarshallproject.org/2015/10/30/eyewitness-testimony-is-unreliable-or-is-it" target="_blank" rel="noopener noreferrer nofollow">https://www.themarshallproject.org/2015/10/30/eyewitness-testimony-is-unreliable-or-is-it</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony Is Unreliable… Or Is It?30 Oct 2015 — (He had tried and failed to kidnap her the previous year.) Paying particular a...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
    Title: The Stanford, Kentucky alien abductions,  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/wkjwks/the_stanford_kentucky_alien_abductions_january_6/](https://www.reddit.com/r/HighStrangeness/comments/wkjwks/the_stanford_kentucky_alien_abductions_january_6/)  
+   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/wkjwks/the_stanford_kentucky_alien_abductions_january_6/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/wkjwks/the_stanford_kentucky_alien_abductions_january_6/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 6, 1976:...The following tape contains a description of an encounter with the ufo as experienced by three women in Kentucky on J...</p></details>
    Published: January 6, 1976  
 
 23. <a id="endnote-23"></a>
    Source: listennotes.com  
    Title: the stanford kentucky alien 7Qrf Js Pamy G  
-   Link: [https://www.listennotes.com/podcasts/the-perception-veil/the-stanford-kentucky-alien-7QrfJsPamyG/?srsltid=AfmBOopkSOh34eOnem9H1WzdxlboBoNqmcvHVxYhcXOLZ9li45gc-puK](https://www.listennotes.com/podcasts/the-perception-veil/the-stanford-kentucky-alien-7QrfJsPamyG/?srsltid=AfmBOopkSOh34eOnem9H1WzdxlboBoNqmcvHVxYhcXOLZ9li45gc-puK)  
+   Link: <a href="https://www.listennotes.com/podcasts/the-perception-veil/the-stanford-kentucky-alien-7QrfJsPamyG/?srsltid=AfmBOopkSOh34eOnem9H1WzdxlboBoNqmcvHVxYhcXOLZ9li45gc-puK" target="_blank" rel="noopener noreferrer nofollow">https://www.listennotes.com/podcasts/the-perception-veil/the-stanford-kentucky-alien-7QrfJsPamyG/?srsltid=AfmBOopkSOh34eOnem9H1WzdxlboBoNqmcvHVxYhcXOLZ9li45gc-puK</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Stanford Kentucky Alien Abduction CaseJan 6, 2024 — January 6, 1976 - Stanford, Kentucky - Mona Stafford was celebrating her 36th bir...</p></details>
    Published: January 6, 1976  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/mary.sparr/posts/i-am-down-the-rabbit-hole-about-a-notable-alien-abduction-story-that-happened-in/10113142612157092/](https://www.facebook.com/mary.sparr/posts/i-am-down-the-rabbit-hole-about-a-notable-alien-abduction-story-that-happened-in/10113142612157092/)  
+   Link: <a href="https://www.facebook.com/mary.sparr/posts/i-am-down-the-rabbit-hole-about-a-notable-alien-abduction-story-that-happened-in/10113142612157092/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mary.sparr/posts/i-am-down-the-rabbit-hole-about-a-notable-alien-abduction-story-that-happened-in/10113142612157092/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you know about this and what do you...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: open.spotify.com  
    Title: 2Na Hx Kn1Dc Mt Ntggl Jsw Wi  
-   Link: [https://open.spotify.com/episode/2NaHxKn1DcMtNtgglJswWi](https://open.spotify.com/episode/2NaHxKn1DcMtNtgglJswWi)  
+   Link: <a href="https://open.spotify.com/episode/2NaHxKn1DcMtNtgglJswWi" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/2NaHxKn1DcMtNtgglJswWi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Women Abducted by Aliens in Kentucky/Farmer...Sep 1, 2024 — In January 1976, three Kentucky women - Louise Smith, Mona Stafford and Elai...</p></details>
    Published: January 1976  
 
 26. <a id="endnote-26"></a>
    Source: files.eric.ed.gov  
-   Link: [https://files.eric.ed.gov/fulltext/ED214671.pdf](https://files.eric.ed.gov/fulltext/ED214671.pdf)  
+   Link: <a href="https://files.eric.ed.gov/fulltext/ED214671.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.eric.ed.gov/fulltext/ED214671.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ERIC6 Oct 1981 — the available evidence, are not the victim of abduction by a parent, and have been missing for at least 24 hoursand we a...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: fbi.gov  
-   Link: [https://www.fbi.gov/news/atom.xml](https://www.fbi.gov/news/atom.xml)  
+   Link: <a href="https://www.fbi.gov/news/atom.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.fbi.gov/news/atom.xml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>News26 Sept 2024 — Please take a few minutes to look through the FBI&#x27;s list of missing and kidnapped persons and list of parental kidnapp...</p></details>

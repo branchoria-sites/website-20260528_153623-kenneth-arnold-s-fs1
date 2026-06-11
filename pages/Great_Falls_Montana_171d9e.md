@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Falkville Metal Man
   permalink: /greenhaw-encounter-1973/
   short_title: Falkville Metal Man
-date: '2026-06-08 23:25:32 '
+date: '2026-06-11 13:16:00 '
 header:
   og_image: /assets/images/Great_Falls_Montana_171d9e-overview-social.jpg
   preview_image: /assets/images/Great_Falls_Montana_171d9e-overview.webp
@@ -760,7 +760,6 @@ image: /assets/images/Great_Falls_Montana_171d9e-overview-social.jpg
 
 Mariana and his 19-year-old secretary, Virginia Raunig, were at the Great Falls baseball ground before a game when Mariana noticed a bright flash in the sky. Accounts describe him running to his car, retrieving a 16 mm colour movie camera, and filming two bright objects for roughly 16 seconds as they moved across the sky, reportedly passing behind a water tower before fading or disappearing from view. Later retellings commonly place the event at about 11:25–11:30 am on 15 August 1950, though the exact minute varies across secondary accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.distinctlymontana.com/when-ufos-first-came-great-falls" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: distinctlymontana.com">[distinctlymontana.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">distinctlymontana.com</span><span class="citation-popover-title">When UFOs First Came to Great Falls</span><span class="citation-popover-snippet">When UFOs First Came to Great Falls</span></span></span>
 
-
 <img src="{{ "/assets/images/Great_Falls_Montana_171d9e-overview.webp" | relative_url }}" alt="Overview image for Great Falls Montana film 1950" loading="eager" decoding="sync" fetchpriority="high">
 The most important feature of the case is that the film did not show a close, detailed craft. It showed two bright images moving in steady relation to each other. The Condon Report’s Case 47 summary says the two images stood out because of their intensity, sharpness, and constant relative orientation, moving smoothly across the sky and behind the water tower. By the end of the film, the lights were no longer visible. That made the evidence better than a lone anecdote, but still technically limited: distance, size, and shape could not be read directly from the film. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
@@ -768,12 +767,11 @@ Mariana’s own interpretation was more specific. He said the objects appeared b
 
 ## Why the footage became a serious UFO case
 
-The film entered a wider Cold War UFO environment in which the United States Air Force was already collecting and assessing sightings. The National Archives notes that Project Blue Book records were eventually transferred to archival custody, that the programme ran until 1969, and that its case files are arranged chronologically by sighting; the same National Archives page states that Project Blue Book recorded 12,618 sightings, of which 701 remained “Unidentified”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</span></span></span>
+The film entered a wider Cold War UFO environment in which the United States Air Force was already collecting and assessing sightings. The National Archives notes that Project Blue Book records were eventually transferred to archival custody, that the programme ran until 1969, and that its case files are arranged chronologically by sighting; the same National Archives page states that Project Blue Book recorded 12,618 sightings, of which 701 remained “Unidentified”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying Objects &#124; National Archives...</span></span></span>
 
 Great Falls was important because it supplied a physical record at a time when many UFO reports were purely verbal. The local story also travelled beyond the town. The Great Falls History Museum notes that copies of Mariana’s film are held with Project Blue Book material in the U.S. National Archives, and local coverage still treats the Mariana event as a central part of the city’s UFO lore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatfallshistorymuseum.org">[The History Museum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatfallshistorymuseum.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That status should not be overstated. “Film evidence” sounds decisive, but a short daylight film of bright points is not automatically self-explanatory. Investigators still had to ask: Were the images resolved objects or unresolved reflections? Were they birds, balloons, meteors, aircraft, or camera artefacts? Did the camera pan alter the apparent shape? Were the witnesses’ post-event recollections consistent? The Great Falls film became a serious case precisely because it sat between ordinary anecdote and conclusive instrument record.
-
 
 <img src="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-1-dark.svg" | relative_url }}" alt="Great Falls Montana film 1950 illustration 1" data-theme-src-dark="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Air Force explanation: aircraft reflections
@@ -792,7 +790,6 @@ The difficulty is that the claim rests on contested memory and incomplete proven
 
 This is why the missing-frames issue is important but not decisive. It raises a legitimate chain-of-custody problem: the strongest alleged frames are not available for modern inspection. But it also creates a classic evidential trap: the unavailable material is repeatedly described as more revealing than the surviving material, while the documentary basis for that claim remains weak. A fair reading is that the alleged [missing frames]({{ 'missing-frames/' | relative_url }}) reduce confidence in the film’s evidential completeness, but they do not by themselves establish what the objects were.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/96cuaEeeud4" title="The Man Who Shaped UFO Skepticism | Donald Menzel &amp; the Origins of the Cover-Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=96cuaEeeud4" target="_blank" rel="noopener noreferrer">The Man Who Shaped UFO Skepticism | Donald Menzel &amp; the Origins of the Cover-Up</a></p><p class="youtube-embed-meta">Channel: That UFO Podcast &middot; Uploaded: January 2026 &middot; Length: 2 hours 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=96cuaEeeud4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=96cuaEeeud4">Open on YouTube</a></p></div></div></div>
 
 ## What later technical analysis found
@@ -804,7 +801,6 @@ The Condon analysis did not simply endorse the simplest debunking. It considered
 Aircraft remained the main working hypothesis, but the report’s wording is notably cautious. It says the data indicate that while it “strains credibility” to suppose the objects were aeroplanes, the possibility could not be entirely ruled out. It also identifies arguments against simple aircraft reflections, including the difficulty of two aircraft maintaining such constant reflections over the filmed interval and the visual observation interval reported by Mariana. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.ncas.org">[NCAS Files]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.ncas.org</span><span class="citation-popover-snippet">Case 47: Great Falls Movie Film...</span></span></span>
 
 That is the most balanced technical takeaway: the film was not strong enough to prove an extraordinary object, but it was also not cleanly explained by the leading mundane hypothesis. The result is an unresolved case in a limited investigative sense, not a demonstrated case for extraterrestrial vehicles.
-
 
 <img src="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-2-dark.svg" | relative_url }}" alt="Great Falls Montana film 1950 illustration 2" data-theme-src-dark="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How credible were the witnesses?
@@ -823,7 +819,6 @@ Sceptics are right that the surviving film does not show detailed craft. It show
 
 The most defensible middle position is that the Great Falls film remains historically important and technically ambiguous. It is not good evidence for any specific extraordinary origin. It is, however, a useful example of why early UFO cases could resist easy closure: a short film may rule out some explanations while still lacking the information needed to identify the object positively.
 
-
 <img src="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-3-dark.svg" | relative_url }}" alt="Great Falls Montana film 1950 illustration 3" data-theme-src-dark="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Great_Falls_Montana_171d9e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Great Falls still remembers the case
 
@@ -837,49 +832,89 @@ The Great Falls, Montana film is best understood as an early, well-documented bu
 
 The case therefore should not be presented as solved proof of extraordinary craft, but neither is it just an easily dismissed tall tale. Its lasting value is evidential and historical: it shows how a few seconds of ambiguous film could move a local sighting into Air Force files, scientific review, public controversy, and eventually the civic mythology of Great Falls itself.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DJ2vKHj8rVM" title="The Montana Film: The First Recorded UFO Sighting in the US" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer">The Montana Film: The First Recorded UFO Sighting in the US</a></p><p class="youtube-embed-meta">Channel: Montana Historical Society &middot; Views: 3.5K &middot; Uploaded: February 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DJ2vKHj8rVM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DJ2vKHj8rVM">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Did the Great Falls Film Really Show?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Did the Great Falls Film Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Presents an objective file entry on the 1950 Great Falls/Mariana film, detailing the technical analysis history and the objects&#x27; apparent...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Reviews how early military intelligence analysts scrutinized the Mariana film and why it became an early standard for UFO debates.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches the methodology used to audit photographic and film evidence, explaining common sources of optical artifacts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Documents how institutions balanced photographic analysis against pilot reports during the early flying saucer era.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -916,15 +951,15 @@ The case therefore should not be presented as solved proof of extraordinary craf
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/12f46aa57a03b419cd19.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -932,15 +967,15 @@ The case therefore should not be presented as solved proof of extraordinary craf
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Antonia Ellis 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/2847c8ac5f521e77be42.jpg' | relative_url }}" alt="Listing image for UFO (TV) Antonia Ellis 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Antonia Ellis 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -948,15 +983,15 @@ The case therefore should not be presented as solved proof of extraordinary craf
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/a5f58c820be9e212e78d.jpg' | relative_url }}" alt="Listing image for UFO (TV) Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Scene 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -964,15 +999,15 @@ The case therefore should not be presented as solved proof of extraordinary craf
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO (TV) Vehicle Scene 16x12 Photo Poster Print"><img src="{{ '/assets/images/marketplace-covers/515424d9b9f1d48ff309.jpg' | relative_url }}" alt="Listing image for UFO (TV) Vehicle Scene 16x12 Photo Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">UFO (TV) Vehicle Scene 16x12 Photo Poster Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO photo print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -980,7 +1015,7 @@ The case therefore should not be presented as solved proof of extraordinary craf
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+photo+print+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO photo print -book -books -series -television -gerry -anderson -band -concert -tour -album -vinyl" data-ebay-reference="great-falls-montana-film-1950-what-did-the-great-falls-film-really-show-ufo-photo-print-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1195,104 +1230,104 @@ The case therefore should not be presented as solved proof of extraordinary craf
 
 1. <a id="endnote-1"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/case47.htm](https://files.ncas.org/condon/text/case47.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case47.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case47.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case 47: Great Falls Movie Film...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying Objects | National Archives...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: distinctlymontana.com  
    Title: When UFOs First Came to Great Falls  
-   Link: [https://www.distinctlymontana.com/when-ufos-first-came-great-falls](https://www.distinctlymontana.com/when-ufos-first-came-great-falls)  
+   Link: <a href="https://www.distinctlymontana.com/when-ufos-first-came-great-falls" target="_blank" rel="noopener noreferrer nofollow">https://www.distinctlymontana.com/when-ufos-first-came-great-falls</a>  
 
 4. <a id="endnote-4"></a>
    Source: krtv.com  
-   Link: [https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release](https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release)  
+   Link: <a href="https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release" target="_blank" rel="noopener noreferrer nofollow">https://www.krtv.com/news/great-falls-news/great-falls-ufo-legacy-in-focus-amid-pentagon-document-release</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>KRTV NEWS Great FallsGreat Falls’ UFO legacy in focus amid Pentagon document release...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cia.gov  
    Title: cia rdp81r00560r000100010001 0  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 6. <a id="endnote-6"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010012-8.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010012-8.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010012-8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010012-8.pdf</a>  
 
 7. <a id="endnote-7"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79B00752A000300100010-4.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: documents.theblackvault.com  
-   Link: [https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf](https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf)  
+   Link: <a href="https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black Vault DocumentsREPORT OF MEETING OF SCIENTIFIC ADVISORY PANEL ON UNIDENTIFIED FLYING OBJECTS COVERED BY OFFICE OF SCIENTIFIC IN...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: greatfallshistorymuseum.org  
-   Link: [https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers](https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers)  
+   Link: <a href="https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers" target="_blank" rel="noopener noreferrer nofollow">https://www.greatfallshistorymuseum.org/blog/the-mariana-ufo-great-falls-visiting-voyagers</a>  
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Mariana UFO film  
-   Link: [https://en.wikipedia.org/wiki/Mariana_UFO_film](https://en.wikipedia.org/wiki/Mariana_UFO_film)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mariana_UFO_film" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mariana_UFO_film</a>  
 
 11. <a id="endnote-11"></a>
    Source: news.sportslogos.net  
-   Link: [https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/](https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/)  
+   Link: <a href="https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/" target="_blank" rel="noopener noreferrer nofollow">https://news.sportslogos.net/2015/09/05/truly-trippy-the-story-behind-the-great-falls-voyagers/baseball/</a>  
 
 12. <a id="endnote-12"></a>
    Source: mhs-mt.libcal.com  
-   Link: [https://mhs-mt.libcal.com/event/14003735?hs=a](https://mhs-mt.libcal.com/event/14003735?hs=a)  
+   Link: <a href="https://mhs-mt.libcal.com/event/14003735?hs=a" target="_blank" rel="noopener noreferrer nofollow">https://mhs-mt.libcal.com/event/14003735?hs=a</a>  
 
 13. <a id="endnote-13"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/mariana.htm](https://www.nicap.org/mariana.htm)  
+   Link: <a href="https://www.nicap.org/mariana.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/mariana.htm</a>  
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Great Falls UFO Documentary Segment  
-   Link: [https://www.youtube.com/watch?v=vV7-K0JpD0E](https://www.youtube.com/watch?v=vV7-K0JpD0E)  
+   Link: <a href="https://www.youtube.com/watch?v=vV7-K0JpD0E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vV7-K0JpD0E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide historical context, analysis of the 16mm footage, and witness testimony related to the 1950 Mariana UFO incident in...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/338058495/520702newhouse-1968-Baker](https://www.scribd.com/document/338058495/520702newhouse-1968-Baker)  
+   Link: <a href="https://www.scribd.com/document/338058495/520702newhouse-1968-Baker" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/338058495/520702newhouse-1968-Baker</a>  
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1advase/astronomers_donald_menzel_coverup_of_ufos_and_new/](https://www.reddit.com/r/UFOs/comments/1advase/astronomers_donald_menzel_coverup_of_ufos_and_new/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1advase/astronomers_donald_menzel_coverup_of_ufos_and_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1advase/astronomers_donald_menzel_coverup_of_ufos_and_new/</a>  
 
 17. <a id="endnote-17"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1qbblnu/how_donald_menzel_turned_counterintelligence_into/](https://www.reddit.com/r/UFOs/comments/1qbblnu/how_donald_menzel_turned_counterintelligence_into/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1qbblnu/how_donald_menzel_turned_counterintelligence_into/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1qbblnu/how_donald_menzel_turned_counterintelligence_into/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/](https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/)  
+   Link: <a href="https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MontanaHistoricalSociety/posts/many-folks-may-have-forgotten-or-never-knew-that-the-first-ever-captured-video-f/846846284148500/</a>  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/793429382786885/posts/1550258523770630/](https://www.facebook.com/groups/793429382786885/posts/1550258523770630/)  
+   Link: <a href="https://www.facebook.com/groups/793429382786885/posts/1550258523770630/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/793429382786885/posts/1550258523770630/</a>  
 
 20. <a id="endnote-20"></a>
    Source: jasoncolavito.com  
-   Link: [https://www.jasoncolavito.com/report-on-ufos.html](https://www.jasoncolavito.com/report-on-ufos.html)  
+   Link: <a href="https://www.jasoncolavito.com/report-on-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/report-on-ufos.html</a>  
 
 21. <a id="endnote-21"></a>
    Source: avalonlibrary.net  
-   Link: [https://avalonlibrary.net/David_M_Jacobs/Jacobs%2C%20David%20M%20-%201973%20PhD%20-%20The%20Controversy%20Over%20Unidentified%20Flying%20Objects%20in%20America.pdf](https://avalonlibrary.net/David_M_Jacobs/Jacobs%2C%20David%20M%20-%201973%20PhD%20-%20The%20Controversy%20Over%20Unidentified%20Flying%20Objects%20in%20America.pdf)  
+   Link: <a href="https://avalonlibrary.net/David_M_Jacobs/Jacobs%2C%20David%20M%20-%201973%20PhD%20-%20The%20Controversy%20Over%20Unidentified%20Flying%20Objects%20in%20America.pdf" target="_blank" rel="noopener noreferrer nofollow">https://avalonlibrary.net/David_M_Jacobs/Jacobs%2C%20David%20M%20-%201973%20PhD%20-%20The%20Controversy%20Over%20Unidentified%20Flying%20Objects%20in%20America.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/](https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/)  
+   Link: <a href="https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheWeeklyBust/posts/the-great-falls-ufo-incident-is-one-of-the-earliest-and-most-important-cases-in-/1394362986033742/</a>  
 
 23. <a id="endnote-23"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2023/12/the-movie-review-they-dont-want-you-to-read/](https://skepticalinquirer.org/2023/12/the-movie-review-they-dont-want-you-to-read/)  
+   Link: <a href="https://skepticalinquirer.org/2023/12/the-movie-review-they-dont-want-you-to-read/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2023/12/the-movie-review-they-dont-want-you-to-read/</a>

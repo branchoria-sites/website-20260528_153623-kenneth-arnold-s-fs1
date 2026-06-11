@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: JAL 1628
   permalink: /jal-1628-sighting-over-alaska-1986/
   short_title: JAL 1628
-date: '2026-06-08 23:31:11 '
+date: '2026-06-11 13:19:11 '
 header:
   og_image: /assets/images/Incident_at_Exeter_1_781528-overview-social.jpg
   preview_image: /assets/images/Incident_at_Exeter_1_781528-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Incident_at_Exeter_1_781528-overview-social.jpg
 ## What happened near Exeter on 3 September 1965?
 
 The core sighting began outside Exeter, not in the town centre. Muscarello, then 18, was walking home from Amesbury, Massachusetts, after visiting his girlfriend. Accounts place him on or near Route 150 in the Kensington area, several miles south of Exeter, when he saw a reddish glow and a pattern of five flashing lights tilted at an angle. In later summaries of the case, the lights are described as moving across fields, sometimes disappearing behind trees, and swaying or floating in a way witnesses compared to a falling leaf. <span class="citation-chip-wrap"><a class="citation-chip" href="https://paranthropologyjournal.weebly.com/uploads/7/7/5/3/7753171/vol5no1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranthropologyjournal.weebly.com">[Paranthropology Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranthropologyjournal.weebly.com</span><span class="citation-popover-snippet">Paranthropology Journal</span></span></span>
-
 
 <img src="{{ "/assets/images/Incident_at_Exeter_1_781528-overview.webp" | relative_url }}" alt="Overview image for Incident at Exeter 1965" loading="eager" decoding="sync" fetchpriority="high">
 Muscarello first tried to get help at a farmhouse, then reached the Exeter police station after flagging down a passing car. Officer Eugene Bertrand had already had a related encounter that night: he had stopped to assist a distressed woman who claimed a red-lighted object had followed her car. Bertrand initially treated that earlier report sceptically, but Muscarello’s frightened account persuaded him to return with the teenager to the area of the sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/650903exeter_fowler.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -774,18 +773,16 @@ That credibility should not be overstated. Police officers can misperceive [airc
 
 The most valuable part of the witness record is the repeated description of a pattern: five bright lights in a line, tilted at roughly 60 degrees, flashing in sequence. The weakest parts are also familiar in night-sighting cases: estimates of distance, altitude, size, duration, and motion. A light seen against a dark sky can appear close, huge, hovering, or silent even when it is distant and ordinary. Exeter’s evidence is therefore strong as testimony that something striking was seen, but much weaker as measurement of what that object physically was.
 
-
 <img src="{{ "/assets/images/Incident_at_Exeter_1_781528-Illustration-1-dark.svg" | relative_url }}" alt="Incident at Exeter 1965 illustration 1" data-theme-src-dark="{{ "/assets/images/Incident_at_Exeter_1_781528-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Incident_at_Exeter_1_781528-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the Air Force handled the case
 
 The Air Force’s initial handling is one reason Exeter remains controversial. Major David Griffin and Lieutenant Alan Brandt interviewed the witnesses after the police chief contacted Pease Air Force Base. Griffin’s report, as repeatedly quoted in later accounts, did not present an easy identification; it said he had been unable to determine a probable cause and regarded the observers as reliable, especially the two patrolmen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/alternate/amp/article/sept-3-1965-the-exeter-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">sept 3 1965 the exeter ufo incident</span><span class="citation-popover-snippet">sept 3 1965 the exeter ufo incident</span></span></span>
 
-Public explanations soon became more contentious. Fowler’s account says early explanations included stars and planets, a high-altitude Strategic Air Command exercise, and later references to aircraft returning after “Operation Big Blast”, a SAC/NORAD training mission. Fowler argued that these explanations did not fit the reported close-range, low-altitude, silent, red-lighted object seen by the witnesses. He also stated that a proposed advertising [aircraft explanation]({{ 'aircraft/' | relative_url }}) failed because the aircraft was not flying during the relevant period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/650903exeter_fowler.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Public explanations soon became more contentious. Fowler’s account says early explanations included stars and planets, a high-altitude Strategic Air Command exercise, and later references to aircraft returning after “Operation Big Blast”, a SAC/NORAD training mission. Fowler argued that these explanations did not fit the reported close-range, low-altitude, silent, red-lighted object seen by the witnesses. He also stated that a proposed advertising aircraft explanation failed because the aircraft was not flying during the relevant period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/650903exeter_fowler.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The officers themselves objected to the Air Force’s interpretation. Fowler reproduced the substance of Bertrand and Hunt’s protest: they argued that they had seen the object at close range, had checked their impressions against one another, and did not believe it was conventional aircraft. They also noted a timing problem: their joint observation took place nearly an hour after the relevant air operation was said to have ended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/650903exeter_fowler.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The later Blue Book position is often described as a retreat from the early confident explanations. In the literature surrounding the case, Project Blue Book is said to have reversed the verdict and classified the sighting as unknown after Bertrand’s protest and further review. The broader historical caution is important: the National Archives’ Project Blue Book fact sheet says Blue Book’s overall conclusions did not treat unidentified sightings as evidence of extraterrestrial vehicles or technology beyond contemporary science. <span class="citation-chip-wrap"><a class="citation-chip" href="https://paranthropologyjournal.weebly.com/uploads/7/7/5/3/7753171/vol5no1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranthropologyjournal.weebly.com">[Paranthropology Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranthropologyjournal.weebly.com</span><span class="citation-popover-snippet">Paranthropology Journal</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sdoLNXXkWB0" title="1965 UFO ENCOUNTER AT EXETER, NEW HAMPSHIRE - UNEXPLAINABLE MYSTERY!!!!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sdoLNXXkWB0" target="_blank" rel="noopener noreferrer">1965 UFO ENCOUNTER AT EXETER, NEW HAMPSHIRE - UNEXPLAINABLE MYSTERY!!!!!</a></p><p class="youtube-embed-meta">Channel: Dennis Morrison &middot; Views: 87 &middot; Uploaded: January 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sdoLNXXkWB0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sdoLNXXkWB0">Open on YouTube</a></p></div></div></div>
 
@@ -797,17 +794,14 @@ This hypothesis has real explanatory power. It addresses the most distinctive pa
 
 The problem is that the KC-97 explanation also creates its own difficulties. Critics argue that an aircraft close enough for individual guide lights to be seen clearly would have moved across the witnesses’ field of view too quickly unless it was flying impossibly slowly. One later analysis, summarising Martin Shough’s rebuttal, says the tanker would have needed to be within roughly a mile, probably nearer half a mile, and would have had to fly at about ten miles an hour to remain visible as long as reported, which is too slow for such an aircraft to stay airborne. <span class="citation-chip-wrap"><a class="citation-chip" href="https://paranthropologyjournal.weebly.com/uploads/7/7/5/3/7753171/vol5no1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranthropologyjournal.weebly.com">[Paranthropology Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranthropologyjournal.weebly.com</span><span class="citation-popover-snippet">Paranthropology Journal</span></span></span>
 
-That does not mean all [aircraft explanations]({{ 'aircraft/' | relative_url }}) fail. Shough himself suggested that a formation of B-47s or other large aircraft, with rotating red anti-collision beacons, might explain the lights and duration better than the KC-97 boom hypothesis, although that version depends on coincidence and does not solve every reported detail. The most balanced reading is that aircraft remain the leading conventional category, but no single aircraft scenario has closed the case beyond reasonable dispute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://paranthropologyjournal.weebly.com/uploads/7/7/5/3/7753171/vol5no1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranthropologyjournal.weebly.com">[Paranthropology Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranthropologyjournal.weebly.com</span><span class="citation-popover-snippet">Paranthropology Journal</span></span></span>
+That does not mean all aircraft explanations fail. Shough himself suggested that a formation of B-47s or other large aircraft, with rotating red anti-collision beacons, might explain the lights and duration better than the KC-97 boom hypothesis, although that version depends on coincidence and does not solve every reported detail. The most balanced reading is that aircraft remain the leading conventional category, but no single aircraft scenario has closed the case beyond reasonable dispute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://paranthropologyjournal.weebly.com/uploads/7/7/5/3/7753171/vol5no1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paranthropologyjournal.weebly.com">[Paranthropology Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paranthropologyjournal.weebly.com</span><span class="citation-popover-snippet">Paranthropology Journal</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LXeIUnE9ejk" title="Exeter History Minute - Exeter UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LXeIUnE9ejk" target="_blank" rel="noopener noreferrer">Exeter History Minute - Exeter UFO</a></p><p class="youtube-embed-meta">Channel: Exeter Historical Society &middot; Views: 15.3K &middot; Uploaded: August 2015 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LXeIUnE9ejk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LXeIUnE9ejk">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Incident_at_Exeter_1_781528-Illustration-2-dark.svg" | relative_url }}" alt="Incident at Exeter 1965 illustration 2" data-theme-src-dark="{{ "/assets/images/Incident_at_Exeter_1_781528-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Incident_at_Exeter_1_781528-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the case is still debated
 
 Exeter survives because both sides have something substantial to point to. UFO proponents can point to named witnesses, police corroboration, rapid reporting, formal Air Force attention, and weak early official explanations. Sceptics can point to the military setting, the presence of aircraft activity, the known unreliability of night-time distance and size estimates, and later technical attempts to match the light pattern to refuelling or aircraft beacons.
 
 Several specific tensions keep the case alive:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -820,17 +814,17 @@ Several specific tensions keep the case alive:
 
 The case is therefore best understood as a high-quality witness case, not a high-quality physical-evidence case. There were no recovered materials, no clear photographs, no radar track tied conclusively to the sighting, and no instrument record that fixes the object’s position, speed, or altitude. Its force comes from testimony and documentation, not from physical proof.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LXeIUnE9ejk" title="Exeter History Minute - Exeter UFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LXeIUnE9ejk" target="_blank" rel="noopener noreferrer">Exeter History Minute - Exeter UFO</a></p><p class="youtube-embed-meta">Channel: Exeter Historical Society &middot; Views: 15.3K &middot; Uploaded: August 2015 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LXeIUnE9ejk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LXeIUnE9ejk">Open on YouTube</a></p></div></div></div>
+
 ## What later reporting and local memory added
 
 John G. Fuller’s 1966 book, Incident at Exeter, helped turn the sighting into a national UFO case, and later local coverage kept Muscarello’s story in circulation. SeacoastNH’s retrospective coverage notes that Muscarello later spoke to high-school journalists about the event and that his brief fame never fully disappeared from Exeter’s local folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://seacoastnh.com/the-incident-at-exeter-high/?showall=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seacoastnh.com">[seacoastnh.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seacoastnh.com</span><span class="citation-popover-title">The Incident at Exeter High</span><span class="citation-popover-snippet">The Incident at Exeter High</span></span></span>
 
-That local afterlife matters because it shaped how the case is remembered. Exeter became more than a file in Project Blue Book; it became part of New Hampshire’s UFO identity, with the police witnesses and the rural field scene acting as memorable anchors. But folklore status can also harden uncertain details. Over decades, [witness accounts]({{ 'witnesses-256bac/' | relative_url }}), newspaper summaries, book retellings, sceptical responses, and UFO-community versions can blend into a cleaner story than the messy evidence allows.
+That local afterlife matters because it shaped how the case is remembered. Exeter became more than a file in Project Blue Book; it became part of New Hampshire’s UFO identity, with the police witnesses and the rural field scene acting as memorable anchors. But folklore status can also harden uncertain details. Over decades, witness accounts, newspaper summaries, book retellings, sceptical responses, and UFO-community versions can blend into a cleaner story than the messy evidence allows.
 
 The most responsible use of later accounts is therefore comparative. When multiple sources preserve the same central features — Muscarello’s frightened report, Bertrand and Hunt’s corroboration, the red sequential lights, Pease Air Force Base’s involvement, and the Air Force’s uncertain handling — those features deserve weight. More dramatic embellishments should be treated cautiously unless they can be traced to early statements or official records.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y271TuMV-9o" title="The Crash Site Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y271TuMV-9o" target="_blank" rel="noopener noreferrer">The Crash Site Files</a></p><p class="youtube-embed-meta">Channel: Exeter TV &middot; Views: 1.0K &middot; Uploaded: November 2016 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y271TuMV-9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y271TuMV-9o">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/Incident_at_Exeter_1_781528-Illustration-3-dark.svg" | relative_url }}" alt="Incident at Exeter 1965 illustration 3" data-theme-src-dark="{{ "/assets/images/Incident_at_Exeter_1_781528-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Incident_at_Exeter_1_781528-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What can be concluded
 
 The Incident at Exeter remains one of the better documented American UFO cases of the 1960s, but “better documented” does not mean solved in favour of an extraordinary explanation. The sighting was reported promptly, involved credible named witnesses, and exposed real weaknesses in the Air Force’s early public explanations. Those facts make it historically important.
@@ -839,45 +833,89 @@ The most likely conventional direction is still aircraft activity connected in s
 
 The fairest final assessment is that Exeter is unresolved in the narrow historical sense: the exact object or source seen by Muscarello, Bertrand, and Hunt has not been identified with confidence. It is not strong evidence for an extraterrestrial craft, but it is strong evidence that a striking night-time aerial event was witnessed, documented, disputed, and never satisfactorily explained by the official answers first offered at the time.
 
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y271TuMV-9o" title="The Crash Site Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y271TuMV-9o" target="_blank" rel="noopener noreferrer">The Crash Site Files</a></p><p class="youtube-embed-meta">Channel: Exeter TV &middot; Views: 1.0K &middot; Uploaded: November 2016 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y271TuMV-9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y271TuMV-9o">Open on YouTube</a></p></div></div></div>
+
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened Near Exeter?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened Near Exeter?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides an objective case-file entry documenting the Exeter sighting, the police reports, and the investigative aftermath.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Contextualizes the Exeter sighting within a history of encounters involving strange lights that defy conventional explanation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches forensic methodologies to distinguish between standard aerial activity and reported anomalous phenomena.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Describes how government investigations contrast with civilian witness dossiers, providing context for the Air Force response.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -914,15 +952,15 @@ The fairest final assessment is that Exeter is unresolved in the narrow historic
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -930,15 +968,15 @@ The fairest final assessment is that Exeter is unresolved in the narrow historic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -946,15 +984,15 @@ The fairest final assessment is that Exeter is unresolved in the narrow historic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -962,15 +1000,15 @@ The fairest final assessment is that Exeter is unresolved in the narrow historic
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -978,7 +1016,7 @@ The fairest final assessment is that Exeter is unresolved in the narrow historic
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="incident-at-exeter-1965-what-really-happened-near-exeter-ufo-poster-series-television-gerry-anderson-band-concert-tour-a" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1194,98 +1232,98 @@ The fairest final assessment is that Exeter is unresolved in the narrow historic
 1. <a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 2. <a id="endnote-2"></a>
    Source: paranthropologyjournal.weebly.com  
    Title: Paranthropology Journal  
-   Link: [https://paranthropologyjournal.weebly.com/uploads/7/7/5/3/7753171/vol5no1.pdf](https://paranthropologyjournal.weebly.com/uploads/7/7/5/3/7753171/vol5no1.pdf)  
+   Link: <a href="https://paranthropologyjournal.weebly.com/uploads/7/7/5/3/7753171/vol5no1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://paranthropologyjournal.weebly.com/uploads/7/7/5/3/7753171/vol5no1.pdf</a>  
 
 3. <a id="endnote-3"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/650903exeter_fowler.htm](https://www.nicap.org/reports/650903exeter_fowler.htm)  
+   Link: <a href="https://www.nicap.org/reports/650903exeter_fowler.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/650903exeter_fowler.htm</a>  
 
 4. <a id="endnote-4"></a>
    Source: coasttocoastam.com  
    Title: sept 3 1965 the exeter ufo incident  
-   Link: [https://www.coasttocoastam.com/alternate/amp/article/sept-3-1965-the-exeter-ufo-incident/](https://www.coasttocoastam.com/alternate/amp/article/sept-3-1965-the-exeter-ufo-incident/)  
+   Link: <a href="https://www.coasttocoastam.com/alternate/amp/article/sept-3-1965-the-exeter-ufo-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/alternate/amp/article/sept-3-1965-the-exeter-ufo-incident/</a>  
 
 5. <a id="endnote-5"></a>
    Source: dokumen.pub  
    Title: The Outsider’S Guide to Ufos: Volume 1: Mystery and Science  
-   Link: [https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html](https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html)  
+   Link: <a href="https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-outsiders-guide-to-ufos-volume-1-mystery-and-science-1480854573-9781480854574.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1480854573, 9781480854574 - DOKUMEN.PUB...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: seacoastnh.com  
    Title: The Incident at Exeter High  
-   Link: [https://seacoastnh.com/the-incident-at-exeter-high/?showall=1](https://seacoastnh.com/the-incident-at-exeter-high/?showall=1)  
+   Link: <a href="https://seacoastnh.com/the-incident-at-exeter-high/?showall=1" target="_blank" rel="noopener noreferrer nofollow">https://seacoastnh.com/the-incident-at-exeter-high/?showall=1</a>  
 
 7. <a id="endnote-7"></a>
    Source: seacoastnh.com  
    Title: officer eugene bertrand on ufos  
-   Link: [https://seacoastnh.com/officer-eugene-bertrand-on-ufos/](https://seacoastnh.com/officer-eugene-bertrand-on-ufos/)  
+   Link: <a href="https://seacoastnh.com/officer-eugene-bertrand-on-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://seacoastnh.com/officer-eugene-bertrand-on-ufos/</a>  
 
 8. <a id="endnote-8"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2011/11/exeter-incident-solved-a-classic-ufo-case-forty-five-years-cold/](https://skepticalinquirer.org/2011/11/exeter-incident-solved-a-classic-ufo-case-forty-five-years-cold/)  
+   Link: <a href="https://skepticalinquirer.org/2011/11/exeter-incident-solved-a-classic-ufo-case-forty-five-years-cold/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2011/11/exeter-incident-solved-a-classic-ufo-case-forty-five-years-cold/</a>  
 
 9. <a id="endnote-9"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/1038/660](https://journalofscientificexploration.org/index.php/jse/article/view/1038/660)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/1038/660" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/1038/660</a>  
 
 10. <a id="endnote-10"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/991/675](https://journalofscientificexploration.org/index.php/jse/article/view/991/675)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/991/675" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/991/675</a>  
 
 11. <a id="endnote-11"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/5814625/Paranthropology_Journal_of_Anthropological_Approaches_to_the_Paranormal_Vol_5_No_1_January_2014_](https://www.academia.edu/5814625/Paranthropology_Journal_of_Anthropological_Approaches_to_the_Paranormal_Vol_5_No_1_January_2014_)  
+   Link: <a href="https://www.academia.edu/5814625/Paranthropology_Journal_of_Anthropological_Approaches_to_the_Paranormal_Vol_5_No_1_January_2014_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/5814625/Paranthropology_Journal_of_Anthropological_Approaches_to_the_Paranormal_Vol_5_No_1_January_2014_</a>  
    Published: January 2014  
 
 12. <a id="endnote-12"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/SI-ND-11.pdf</a>  
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=sdoLNXXkWB0](https://www.youtube.com/watch?v=sdoLNXXkWB0)  
+   Link: <a href="https://www.youtube.com/watch?v=sdoLNXXkWB0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sdoLNXXkWB0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs over New Hampshire: From Exeter sightings to the alleged abduction of Betty and Barney Hill...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
 15. <a id="endnote-15"></a>
    Source: science.gov  
-   Link: [https://www.science.gov/topicpages/t/talca%2Bprof%2Bdr](https://www.science.gov/topicpages/t/talca%2Bprof%2Bdr)  
+   Link: <a href="https://www.science.gov/topicpages/t/talca%2Bprof%2Bdr" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/t/talca%2Bprof%2Bdr</a>  
 
 16. <a id="endnote-16"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File](https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File)  
+   Link: <a href="https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/30873703/Exeter-Part-1-MUFON-Case-File</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/100064860391226/posts/flashback-friday-back-to-the-summer-of-2019-when-chief-poulin-deputy-chief-munck/1173134121525257/](https://www.facebook.com/100064860391226/posts/flashback-friday-back-to-the-summer-of-2019-when-chief-poulin-deputy-chief-munck/1173134121525257/)  
+   Link: <a href="https://www.facebook.com/100064860391226/posts/flashback-friday-back-to-the-summer-of-2019-when-chief-poulin-deputy-chief-munck/1173134121525257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064860391226/posts/flashback-friday-back-to-the-summer-of-2019-when-chief-poulin-deputy-chief-munck/1173134121525257/</a>  
 
 18. <a id="endnote-18"></a>
    Source: abtruck.com  
-   Link: [https://www.abtruck.com/uploads/4/4/6/2/4462781/2017.pdf](https://www.abtruck.com/uploads/4/4/6/2/4462781/2017.pdf)  
+   Link: <a href="https://www.abtruck.com/uploads/4/4/6/2/4462781/2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.abtruck.com/uploads/4/4/6/2/4462781/2017.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/706879202/Identifying-Old-u-s-Muskets-Rifles-and-Carbines-d548bdd249000d1db1facc9ae5e7321c-Anna-s-Archive](https://www.scribd.com/document/706879202/Identifying-Old-u-s-Muskets-Rifles-and-Carbines-d548bdd249000d1db1facc9ae5e7321c-Anna-s-Archive)  
+   Link: <a href="https://www.scribd.com/document/706879202/Identifying-Old-u-s-Muskets-Rifles-and-Carbines-d548bdd249000d1db1facc9ae5e7321c-Anna-s-Archive" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/706879202/Identifying-Old-u-s-Muskets-Rifles-and-Carbines-d548bdd249000d1db1facc9ae5e7321c-Anna-s-Archive</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/4995087850/posts/10163669553107851/](https://www.facebook.com/groups/4995087850/posts/10163669553107851/)  
+   Link: <a href="https://www.facebook.com/groups/4995087850/posts/10163669553107851/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/4995087850/posts/10163669553107851/</a>  
 
 21. <a id="endnote-21"></a>
    Source: goodreads.com  
-   Link: [https://www.goodreads.com/book/show/19433667-incident-at-exeter](https://www.goodreads.com/book/show/19433667-incident-at-exeter)  
+   Link: <a href="https://www.goodreads.com/book/show/19433667-incident-at-exeter" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/19433667-incident-at-exeter</a>  
 
 22. <a id="endnote-22"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/201539750/Paranthropology-Vol-5-No-1](https://www.scribd.com/document/201539750/Paranthropology-Vol-5-No-1)  
+   Link: <a href="https://www.scribd.com/document/201539750/Paranthropology-Vol-5-No-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/201539750/Paranthropology-Vol-5-No-1</a>

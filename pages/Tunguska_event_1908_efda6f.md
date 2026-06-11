@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Ubatuba
   permalink: /ubatuba-incident-1957/
   short_title: Ubatuba
-date: '2026-06-08 23:20:36 '
+date: '2026-06-11 13:12:36 '
 header:
   og_image: /assets/images/Tunguska_event_1908_efda6f-overview-social.jpg
   preview_image: /assets/images/Tunguska_event_1908_efda6f-overview.webp
@@ -758,8 +758,7 @@ image: /assets/images/Tunguska_event_1908_efda6f-overview-social.jpg
 
 ## Introduction
 
-Its lasting importance comes from a rare combination: eyewitness testimony, global instrumental traces, dramatic physical damage, and a frustrating absence of recovered large fragments. That gap between obvious devastation and missing “smoking gun” debris is what made Tunguska fertile ground for exotic claims. The core [evidence]({{ 'evidence/' | relative_url }}), however, points strongly to a natural cosmic [airburst]({{ 'airburst/' | relative_url }}): a body tens of metres across exploding several kilometres above the ground, rather than a craft, weapon, or intact meteorite striking the surface. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/361040a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe 1908 Tunguska explosion: atmospheric disruption of a...by CF Chyba · 1993 · Cited by 715 — The explosion over Tunguska, Centra...</span></span></span>
-
+Its lasting importance comes from a rare combination: eyewitness testimony, global instrumental traces, dramatic physical damage, and a frustrating absence of recovered large fragments. That gap between obvious devastation and missing “smoking gun” debris is what made Tunguska fertile ground for exotic claims. The core [evidence]({{ 'evidence/' | relative_url }}), however, points strongly to a natural cosmic [airburst]({{ 'airburst/' | relative_url }}): a body tens of metres across exploding several kilometres above the ground, rather than a craft, weapon, or intact meteorite striking the surface. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/361040a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The 1908 Tunguska explosion: atmospheric disruption of a...by CF Chyba · 1993 · Cited by 715 — The explosion over Tunguska, Centra...</span></span></span>
 
 <img src="{{ "/assets/images/Tunguska_event_1908_efda6f-overview.webp" | relative_url }}" alt="Overview image for Tunguska event 1908" loading="eager" decoding="sync" fetchpriority="high">
 ## What happened on 30 June 1908?
@@ -777,7 +776,6 @@ The key field figure was Leonid Kulik, a Russian mineralogist who pushed for exp
 Kulik’s team found immense forest damage but no obvious crater and no large meteorite. This negative finding is not a minor detail; it is central to the case. A conventional impact should have left a crater and more obvious surviving fragments. Instead, the landscape suggested that most of the energy had been released in the air. Later accounts of the expedition emphasise the same puzzle: uprooted and burnt trees, radial devastation, upright stripped trees near the centre, and no recovered large meteorite fragments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asteroidday.org/resources/asteroid-learning/100-years-since-the-tunguska-expedition/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asteroidday.org">[Asteroid Day]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asteroidday.org</span><span class="citation-popover-title">Asteroid Day100 Years Since the Tunguska Expedition</span><span class="citation-popover-snippet">Asteroid Day100 Years Since the Tunguska Expedition</span></span></span>
 
 Kulik’s work also anchored the documentary record. He and later investigators collected eyewitness testimony years after the event, which means the testimony has to be handled carefully. It is valuable because many accounts converge on a bright aerial object, explosions, heat, shock, and damage; it is weaker when used to reconstruct exact trajectories, timings, or fine physical details after long delays.
-
 
 <img src="{{ "/assets/images/Tunguska_event_1908_efda6f-Illustration-1-dark.svg" | relative_url }}" alt="Tunguska event 1908 illustration 1" data-theme-src-dark="{{ "/assets/images/Tunguska_event_1908_efda6f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunguska_event_1908_efda6f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How strong is the witness evidence?
@@ -798,7 +796,6 @@ The fragment evidence is more complicated. No large, universally accepted meteor
 
 That does not mean every claimed Tunguska fragment is proven. The case remains strongest at the level of the event mechanism — a cosmic airburst — and weaker at the level of tying any single rock or microscopic sample beyond dispute to the original object.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mQSwVMBIeKg" title="A visit to the site of the Tunguska explosion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mQSwVMBIeKg" target="_blank" rel="noopener noreferrer">A visit to the site of the Tunguska explosion</a></p><p class="youtube-embed-meta">Channel: New Scientist &middot; Views: 264.8K &middot; Uploaded: June 2008 &middot; Length: 1 minute 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mQSwVMBIeKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mQSwVMBIeKg">Open on YouTube</a></p></div></div></div>
 
 ## Asteroid, comet, or something else?
@@ -806,7 +803,6 @@ That does not mean every claimed Tunguska fragment is proven. The case remains s
 The current mainstream answer is “cosmic airburst”, with continuing debate over the exact nature of the body. A major 1993 Nature paper argued that the explosion released about 10–20 megatons of energy at about 10 km altitude and represented the typical fate of a stony asteroid tens of metres in radius entering at common hypersonic speeds. The same abstract noted that cometary or carbonaceous bodies of the relevant energy tend to disrupt too high, while iron objects are more likely to reach the ground and make a crater. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/nature.2013.13163" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
 That conclusion is influential because it explains several awkward facts at once:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -817,8 +813,7 @@ That conclusion is influential because it explains several awkward facts at once
 
 </div>
 
-Comet theories have also had a long history, partly because a volatile-rich comet fragment might leave little obvious debris and could help explain unusual bright-night atmospheric effects reported after the event. But modern modelling and mineral evidence generally make a stony asteroid or asteroid-like body the cleaner explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/361040a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe 1908 Tunguska explosion: atmospheric disruption of a...by CF Chyba · 1993 · Cited by 715 — The explosion over Tunguska, Centra...</span></span></span>
-
+Comet theories have also had a long history, partly because a volatile-rich comet fragment might leave little obvious debris and could help explain unusual bright-night atmospheric effects reported after the event. But modern modelling and mineral evidence generally make a stony asteroid or asteroid-like body the cleaner explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/361040a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The 1908 Tunguska explosion: atmospheric disruption of a...by CF Chyba · 1993 · Cited by 715 — The explosion over Tunguska, Centra...</span></span></span>
 
 <img src="{{ "/assets/images/Tunguska_event_1908_efda6f-Illustration-2-dark.svg" | relative_url }}" alt="Tunguska event 1908 illustration 2" data-theme-src-dark="{{ "/assets/images/Tunguska_event_1908_efda6f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunguska_event_1908_efda6f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Lake Cheko crater claim
@@ -828,7 +823,6 @@ One of the most persistent side debates concerns Lake Cheko, a small lake about 
 The problem is that the Lake Cheko interpretation remains disputed. Critics have argued that the surrounding damage pattern, crater physics, and sediment record do not fit a fresh 1908 impact. Later work cited sediment layers suggesting the lake is older than the Tunguska event, weakening the case that it formed during the explosion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tunguska_event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tunguska event</span><span class="citation-popover-snippet">Tunguska event</span></span></span>
 
 For a careful evidence ranking, Lake Cheko should be treated as an interesting but unproven claim, not as the confirmed crater of Tunguska. The main explanation does not require it: an airburst can produce Tunguska’s devastation without a ground crater.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H0U3qspd2Jg" title="Eyewitness Reports of Tunguska Impact Event | Randall Carlson - Kosmographia Clips 037.1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H0U3qspd2Jg" target="_blank" rel="noopener noreferrer">Eyewitness Reports of Tunguska Impact Event | Randall Carlson - Kosmographia Clips 037.1</a></p><p class="youtube-embed-meta">Channel: The Randall Carlson &middot; Views: 49.4K &middot; Uploaded: June 2023 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H0U3qspd2Jg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H0U3qspd2Jg">Open on YouTube</a></p></div></div></div>
 
@@ -840,7 +834,6 @@ The evidential problem for UFO [claims]({{ 'claims/' | relative_url }}) is strai
 
 Other exotic ideas — antimatter, black holes, secret weapons, or nuclear devices — face similar problems. They are more complex than the bolide explanation and do not match the available historical context. A secret nuclear test in 1908 is especially implausible because it predates the nuclear age by decades. The simplest explanation that fits the broad evidence remains a natural cosmic object exploding in the atmosphere.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L2d9pgAhpq4" title="Russia’s Greatest Unsolved Explosion (Season 5) | The UnXplained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L2d9pgAhpq4" target="_blank" rel="noopener noreferrer">Russia’s Greatest Unsolved Explosion (Season 5) | The UnXplained</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 20.7K &middot; Uploaded: January 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L2d9pgAhpq4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L2d9pgAhpq4">Open on YouTube</a></p></div></div></div>
 
 ## What remains genuinely unresolved?
@@ -848,7 +841,6 @@ Other exotic ideas — antimatter, black holes, secret weapons, or nuclear devic
 Tunguska is not “solved” in the sense that every parameter is known. The event happened before modern cameras, satellites, infrasound networks, rapid-response recovery teams, and systematic near-Earth-object monitoring. Researchers still debate the object’s exact size, composition, trajectory, burst height, and energy. Estimates have varied widely, though a frequently cited modern range centres on a multi-megaton explosion rather than either a small conventional blast or a civilisation-ending impact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0032063313001116" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">· Troilite, taenite, γ-Fe and schreibersite are established in the samples.Read more...</span></span></span>
 
 The unresolved questions are therefore scientific, not primarily paranormal:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -862,7 +854,6 @@ The unresolved questions are therefore scientific, not primarily paranormal:
 
 These uncertainties are real, but they do not overturn the central conclusion. They refine the natural-airburst model rather than point to a non-natural cause.
 
-
 <img src="{{ "/assets/images/Tunguska_event_1908_efda6f-Illustration-3-dark.svg" | relative_url }}" alt="Tunguska event 1908 illustration 3" data-theme-src-dark="{{ "/assets/images/Tunguska_event_1908_efda6f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tunguska_event_1908_efda6f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Tunguska still matters
 
@@ -873,44 +864,86 @@ That is why Tunguska remains a reference point in near-Earth-object risk. Modern
 As a UFO case, Tunguska is best understood as a classic example of how genuine mysteries attract speculative overlays. The underlying event was real, dramatic, and incompletely documented. But the best evidence supports a natural cosmic airburst, while UFO and artificial-explosion theories remain unsupported by the physical, documentary, and scientific record.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Exploded Over Tunguska?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Exploded Over Tunguska?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO lore guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+lore+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Tunguska event objectively, summarizing the cosmic-body theories versus speculative UFO-crash narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Addresses why large, unexplained events are frequently retrofitted into myths when the physical evidence is initially confusing.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches the methodology used to audit catastrophic event reports, explaining natural vs. exotic causes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Documents how institutions balance impact-data analysis against official reports of historical aerial anomalies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -947,15 +980,15 @@ As a UFO case, Tunguska is best understood as a classic example of how genuine m
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GAME12 NINTENDO GAME ADVERT 11X8 SEXRET FILES TUNGUSKA WII/DS"><img src="https://i.ebayimg.com/images/g/3TUAAOSw9fRjtEIo/s-l225.jpg" alt="Listing image for GAME12 NINTENDO GAME ADVERT 11X8 SEXRET FILES TUNGUSKA WII/DS" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer">GAME12 NINTENDO GAME ADVERT 11X8 SEXRET FILES TUNGUSKA WII/DS</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tunguska poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tunguska poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -963,15 +996,15 @@ As a UFO case, Tunguska is best understood as a classic example of how genuine m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GAME11 NINTENDO GAME ADVERT 11X8 SECRET FILES TUNGUSKA DS/WII"><img src="https://i.ebayimg.com/images/g/2oAAAOSwgOtjtAXE/s-l225.jpg" alt="Listing image for GAME11 NINTENDO GAME ADVERT 11X8 SECRET FILES TUNGUSKA DS/WII" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer">GAME11 NINTENDO GAME ADVERT 11X8 SECRET FILES TUNGUSKA DS/WII</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tunguska poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tunguska poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -979,15 +1012,15 @@ As a UFO case, Tunguska is best understood as a classic example of how genuine m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for (-0-) GAME RARE Advert original TUNGUSKA SECRET FILES GAME 30cm x 21cm POSTER"><img src="https://i.ebayimg.com/images/g/1zgAAOSwADReMcrX/s-l225.jpg" alt="Listing image for (-0-) GAME RARE Advert original TUNGUSKA SECRET FILES GAME 30cm x 21cm POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer">(-0-) GAME RARE Advert original TUNGUSKA SECRET FILES GAME 30cm x 21cm POSTER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tunguska poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tunguska poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -995,15 +1028,15 @@ As a UFO case, Tunguska is best understood as a classic example of how genuine m
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Niko-Pirosmani-photo-A4-tunguska-river-emut(1).jpg"><img src="https://i.ebayimg.com/images/g/CC0AAOSw7RBhEmbd/s-l225.jpg" alt="Listing image for Niko-Pirosmani-photo-A4-tunguska-river-emut(1).jpg" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer">Niko-Pirosmani-photo-A4-tunguska-river-emut(1).jpg</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Tunguska poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Tunguska poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -1011,7 +1044,7 @@ As a UFO case, Tunguska is best understood as a classic example of how genuine m
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="tunguska-event-1908-what-really-exploded-over-tunguska-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Tunguska+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-exploded-over-tunguska-tunguska-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Tunguska poster" data-ebay-reference="what-really-exploded-over-tunguska-tunguska-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1227,195 +1260,195 @@ As a UFO case, Tunguska is best understood as a classic example of how genuine m
 1. <a id="endnote-1"></a>
    Source: nasa.gov  
    Title: Local eyewitnesses in the sparsely  
-   Link: [https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/](https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA115 Years Ago: The Tunguska Asteroid Impact EventJune 30, 2023 — 13 Feb 2026 — On June 30, 1908, an asteroid plunged into Earth&#x27;s atm...</p></details>
+   Link: <a href="https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>115 Years Ago: The Tunguska Asteroid Impact EventJune 30, 2023 — 13 Feb 2026 — On June 30, 1908, an asteroid plunged into Earth&#x27;s atm...</p></details>
    Published: June 30, 2023  
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/361040a0](https://www.nature.com/articles/361040a0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe 1908 Tunguska explosion: atmospheric disruption of a...by CF Chyba · 1993 · Cited by 715 — The explosion over Tunguska, Centra...</p></details>
+   Link: <a href="https://www.nature.com/articles/361040a0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/361040a0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1908 Tunguska explosion: atmospheric disruption of a...by CF Chyba · 1993 · Cited by 715 — The explosion over Tunguska, Centra...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0032063313001116](https://www.sciencedirect.com/science/article/abs/pii/S0032063313001116)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0032063313001116" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0032063313001116</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Troilite, taenite, γ-Fe and schreibersite are established in the samples.Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: britannica.com  
    Title: Encyclopedia Britannica Tunguska event  
-   Link: [https://www.britannica.com/event/Tunguska-event](https://www.britannica.com/event/Tunguska-event)  
+   Link: <a href="https://www.britannica.com/event/Tunguska-event" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/event/Tunguska-event</a>  
 
 5. <a id="endnote-5"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/story/what-is-known-and-not-known-about-the-tunguska-event](https://www.britannica.com/story/what-is-known-and-not-known-about-the-tunguska-event)  
+   Link: <a href="https://www.britannica.com/story/what-is-known-and-not-known-about-the-tunguska-event" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/story/what-is-known-and-not-known-about-the-tunguska-event</a>  
 
 6. <a id="endnote-6"></a>
    Source: aps.org  
-   Link: [https://www.aps.org/archives/publications/apsnews/201806/history.cfm](https://www.aps.org/archives/publications/apsnews/201806/history.cfm)  
+   Link: <a href="https://www.aps.org/archives/publications/apsnews/201806/history.cfm" target="_blank" rel="noopener noreferrer nofollow">https://www.aps.org/archives/publications/apsnews/201806/history.cfm</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Tunguska event  
-   Link: [https://en.wikipedia.org/wiki/Tunguska_event](https://en.wikipedia.org/wiki/Tunguska_event)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tunguska_event" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tunguska_event</a>  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0019103518305104](https://www.sciencedirect.com/science/article/abs/pii/S0019103518305104)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0019103518305104" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0019103518305104</a>  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/0031920175900722](https://www.sciencedirect.com/science/article/pii/0031920175900722)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/0031920175900722" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/0031920175900722</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/0019103582900963](https://www.sciencedirect.com/science/article/abs/pii/0019103582900963)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/0019103582900963" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/0019103582900963</a>  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0032063300000283](https://www.sciencedirect.com/science/article/abs/pii/S0032063300000283)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0032063300000283" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0032063300000283</a>  
 
 12. <a id="endnote-12"></a>
    Source: wired.com  
    Title: Russian Lake May Hide the Tunguska Crater  
-   Link: [https://www.wired.com/2007/06/russian-lake-ma](https://www.wired.com/2007/06/russian-lake-ma)  
+   Link: <a href="https://www.wired.com/2007/06/russian-lake-ma" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2007/06/russian-lake-ma</a>  
 
 13. <a id="endnote-13"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Cosmic Fantasies (Chapter 5)  
-   Link: [https://www.cambridge.org/core/books/tunguska/cosmic-fantasies/62A59FFE4AE7105BDD75070AC7A7EB1B](https://www.cambridge.org/core/books/tunguska/cosmic-fantasies/62A59FFE4AE7105BDD75070AC7A7EB1B)  
+   Link: <a href="https://www.cambridge.org/core/books/tunguska/cosmic-fantasies/62A59FFE4AE7105BDD75070AC7A7EB1B" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/tunguska/cosmic-fantasies/62A59FFE4AE7105BDD75070AC7A7EB1B</a>  
 
 14. <a id="endnote-14"></a>
    Source: space.com  
    Title: Russian Alien Spaceship Claims Raise Eyebrows  
-   Link: [https://www.space.com/250-russian-alien-spaceship-claims-raise-eyebrows-skepticism.html](https://www.space.com/250-russian-alien-spaceship-claims-raise-eyebrows-skepticism.html)  
+   Link: <a href="https://www.space.com/250-russian-alien-spaceship-claims-raise-eyebrows-skepticism.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/250-russian-alien-spaceship-claims-raise-eyebrows-skepticism.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
    Title: Science A Cosmic Explosion Over Siberia  
-   Link: [https://science.nasa.gov/earth/earth-observatory/a-cosmic-explosion-over-siberia-154488/](https://science.nasa.gov/earth/earth-observatory/a-cosmic-explosion-over-siberia-154488/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/a-cosmic-explosion-over-siberia-154488/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/a-cosmic-explosion-over-siberia-154488/</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Tunguska event in fiction  
-   Link: [https://en.wikipedia.org/wiki/Tunguska_event_in_fiction](https://en.wikipedia.org/wiki/Tunguska_event_in_fiction)  
+   Link: <a href="https://en.wikipedia.org/wiki/Tunguska_event_in_fiction" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Tunguska_event_in_fiction</a>  
 
 17. <a id="endnote-17"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/20190002302/downloads/20190002302.pdf](https://ntrs.nasa.gov/api/citations/20190002302/downloads/20190002302.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20190002302/downloads/20190002302.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20190002302/downloads/20190002302.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/0032063394901201](https://www.sciencedirect.com/science/article/abs/pii/0032063394901201)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/0032063394901201" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/0032063394901201</a>  
 
 19. <a id="endnote-19"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/nature.2013.13163](https://www.nature.com/articles/nature.2013.13163)  
+   Link: <a href="https://www.nature.com/articles/nature.2013.13163" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/nature.2013.13163</a>  
 
 20. <a id="endnote-20"></a>
    Source: asteroidday.org  
    Title: Asteroid Day100 Years Since the Tunguska Expedition  
-   Link: [https://asteroidday.org/resources/asteroid-learning/100-years-since-the-tunguska-expedition/](https://asteroidday.org/resources/asteroid-learning/100-years-since-the-tunguska-expedition/)  
+   Link: <a href="https://asteroidday.org/resources/asteroid-learning/100-years-since-the-tunguska-expedition/" target="_blank" rel="noopener noreferrer nofollow">https://asteroidday.org/resources/asteroid-learning/100-years-since-the-tunguska-expedition/</a>  
 
 21. <a id="endnote-21"></a>
    Source: lindahall.org  
    Title: leonid kulik  
-   Link: [https://www.lindahall.org/about/news/scientist-of-the-day/leonid-kulik/](https://www.lindahall.org/about/news/scientist-of-the-day/leonid-kulik/)  
+   Link: <a href="https://www.lindahall.org/about/news/scientist-of-the-day/leonid-kulik/" target="_blank" rel="noopener noreferrer nofollow">https://www.lindahall.org/about/news/scientist-of-the-day/leonid-kulik/</a>  
 
 22. <a id="endnote-22"></a>
    Source: rmg.co.uk  
    Title: tunguska event  
-   Link: [https://www.rmg.co.uk/stories/space-astronomy/tunguska-event](https://www.rmg.co.uk/stories/space-astronomy/tunguska-event)  
+   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/tunguska-event" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/tunguska-event</a>  
 
 23. <a id="endnote-23"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/earth-and-atmospheric-sciences/tunguska-event](https://www.ebsco.com/research-starters/earth-and-atmospheric-sciences/tunguska-event)  
+   Link: <a href="https://www.ebsco.com/research-starters/earth-and-atmospheric-sciences/tunguska-event" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/earth-and-atmospheric-sciences/tunguska-event</a>  
 
 24. <a id="endnote-24"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2013arXiv1302.6273R/abstract](https://ui.adsabs.harvard.edu/abs/2013arXiv1302.6273R/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2013arXiv1302.6273R/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2013arXiv1302.6273R/abstract</a>  
 
 25. <a id="endnote-25"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/1993Natur.361...40C/abstract](https://ui.adsabs.harvard.edu/abs/1993Natur.361...40C/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/1993Natur.361...40C/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/1993Natur.361...40C/abstract</a>  
 
 26. <a id="endnote-26"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2013P%26SS...84..131K/abstract](https://ui.adsabs.harvard.edu/abs/2013P%26SS...84..131K/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2013P%26SS...84..131K/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2013P%26SS...84..131K/abstract</a>  
 
 27. <a id="endnote-27"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2015RLSFN..26...97G/abstract](https://ui.adsabs.harvard.edu/abs/2015RLSFN..26...97G/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2015RLSFN..26...97G/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2015RLSFN..26...97G/abstract</a>  
 
 28. <a id="endnote-28"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2006AAS...20910801Y/abstract](https://ui.adsabs.harvard.edu/abs/2006AAS...20910801Y/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2006AAS...20910801Y/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2006AAS...20910801Y/abstract</a>  
 
 29. <a id="endnote-29"></a>
    Source: mensa.org.uk  
    Title: the tunguska event  
-   Link: [https://mensa.org.uk/the-tunguska-event/](https://mensa.org.uk/the-tunguska-event/)  
+   Link: <a href="https://mensa.org.uk/the-tunguska-event/" target="_blank" rel="noopener noreferrer nofollow">https://mensa.org.uk/the-tunguska-event/</a>  
 
 30. <a id="endnote-30"></a>
    Source: armagh.space  
    Title: tunguska event  
-   Link: [https://armagh.space/weather/history/tunguska-event](https://armagh.space/weather/history/tunguska-event)  
+   Link: <a href="https://armagh.space/weather/history/tunguska-event" target="_blank" rel="noopener noreferrer nofollow">https://armagh.space/weather/history/tunguska-event</a>  
 
 31. <a id="endnote-31"></a>
    Source: tropedia.fandom.com  
    Title: The Tunguska Event  
-   Link: [https://tropedia.fandom.com/wiki/The_Tunguska_Event](https://tropedia.fandom.com/wiki/The_Tunguska_Event)  
+   Link: <a href="https://tropedia.fandom.com/wiki/The_Tunguska_Event" target="_blank" rel="noopener noreferrer nofollow">https://tropedia.fandom.com/wiki/The_Tunguska_Event</a>  
 
 32. <a id="endnote-32"></a>
    Source: spacedaily.com  
-   Link: [https://spacedaily.com/t-in-1908-something-exploded-in-the-sky-over-siberia-with-hundreds-of-times-the-energy-of-the-hiroshima-bomb-flattening-more-than-2000-square-kilometres-of-forest-when-scientists-finally-reached-the/](https://spacedaily.com/t-in-1908-something-exploded-in-the-sky-over-siberia-with-hundreds-of-times-the-energy-of-the-hiroshima-bomb-flattening-more-than-2000-square-kilometres-of-forest-when-scientists-finally-reached-the/)  
+   Link: <a href="https://spacedaily.com/t-in-1908-something-exploded-in-the-sky-over-siberia-with-hundreds-of-times-the-energy-of-the-hiroshima-bomb-flattening-more-than-2000-square-kilometres-of-forest-when-scientists-finally-reached-the/" target="_blank" rel="noopener noreferrer nofollow">https://spacedaily.com/t-in-1908-something-exploded-in-the-sky-over-siberia-with-hundreds-of-times-the-energy-of-the-hiroshima-bomb-flattening-more-than-2000-square-kilometres-of-forest-when-scientists-finally-reached-the/</a>  
 
 33. <a id="endnote-33"></a>
    Source: stargazerslounge.com  
-   Link: [https://stargazerslounge.com/topic/378771-tunguska-the-lake-cheko-affair-any-new-input-thoughts/](https://stargazerslounge.com/topic/378771-tunguska-the-lake-cheko-affair-any-new-input-thoughts/)  
+   Link: <a href="https://stargazerslounge.com/topic/378771-tunguska-the-lake-cheko-affair-any-new-input-thoughts/" target="_blank" rel="noopener noreferrer nofollow">https://stargazerslounge.com/topic/378771-tunguska-the-lake-cheko-affair-any-new-input-thoughts/</a>  
 
 ### Additional References
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Russia's Greatest Unsolved Explosion (Season 5) | The Un Xplained  
-   Link: [https://www.youtube.com/watch?v=L2d9pgAhpq4](https://www.youtube.com/watch?v=L2d9pgAhpq4)  
+   Link: <a href="https://www.youtube.com/watch?v=L2d9pgAhpq4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L2d9pgAhpq4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tunguska Event 1908 Explained ☄️ | The Siberian Explosion...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: A visit to the site of the Tunguska explosion  
-   Link: [https://www.youtube.com/watch?v=mQSwVMBIeKg](https://www.youtube.com/watch?v=mQSwVMBIeKg)  
+   Link: <a href="https://www.youtube.com/watch?v=mQSwVMBIeKg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mQSwVMBIeKg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Russia&#x27;s Greatest Unsolved Explosion (Season 5) | The UnXplained...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/natureismetal/comments/8vdsf4/110_years_ago_a_meteor_hit_tunguska_russia_here/](https://www.reddit.com/r/natureismetal/comments/8vdsf4/110_years_ago_a_meteor_hit_tunguska_russia_here/)  
+   Link: <a href="https://www.reddit.com/r/natureismetal/comments/8vdsf4/110_years_ago_a_meteor_hit_tunguska_russia_here/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/natureismetal/comments/8vdsf4/110_years_ago_a_meteor_hit_tunguska_russia_here/</a>  
 
 37. <a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/262935649_Author%27s_personal_copy_New_evidence_of_meteoritic_origin_of_the_Tunguska_cosmic_body](https://www.researchgate.net/publication/262935649_Author%27s_personal_copy_New_evidence_of_meteoritic_origin_of_the_Tunguska_cosmic_body)  
+   Link: <a href="https://www.researchgate.net/publication/262935649_Author%27s_personal_copy_New_evidence_of_meteoritic_origin_of_the_Tunguska_cosmic_body" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/262935649_Author%27s_personal_copy_New_evidence_of_meteoritic_origin_of_the_Tunguska_cosmic_body</a>  
 
 38. <a id="endnote-38"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AstronomyMagazine/posts/a-new-theory-explains-the-mysterious-explosion-in-siberia-scientists-say-suggest/10159384669114602/](https://www.facebook.com/AstronomyMagazine/posts/a-new-theory-explains-the-mysterious-explosion-in-siberia-scientists-say-suggest/10159384669114602/)  
+   Link: <a href="https://www.facebook.com/AstronomyMagazine/posts/a-new-theory-explains-the-mysterious-explosion-in-siberia-scientists-say-suggest/10159384669114602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AstronomyMagazine/posts/a-new-theory-explains-the-mysterious-explosion-in-siberia-scientists-say-suggest/10159384669114602/</a>  
 
 39. <a id="endnote-39"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2024/08/ancient-aliens-now-extra-cringey/](https://skepticalinquirer.org/2024/08/ancient-aliens-now-extra-cringey/)  
+   Link: <a href="https://skepticalinquirer.org/2024/08/ancient-aliens-now-extra-cringey/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/08/ancient-aliens-now-extra-cringey/</a>  
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/I.M.O.History89/posts/following-on-from-my-article-on-the-tunguska-event-which-was-likely-an-airburst-/1041332271460946/](https://www.facebook.com/I.M.O.History89/posts/following-on-from-my-article-on-the-tunguska-event-which-was-likely-an-airburst-/1041332271460946/)  
+   Link: <a href="https://www.facebook.com/I.M.O.History89/posts/following-on-from-my-article-on-the-tunguska-event-which-was-likely-an-airburst-/1041332271460946/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/I.M.O.History89/posts/following-on-from-my-article-on-the-tunguska-event-which-was-likely-an-airburst-/1041332271460946/</a>  
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/spacehipsters/posts/4982214045156772/](https://www.facebook.com/groups/spacehipsters/posts/4982214045156772/)  
+   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/4982214045156772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/4982214045156772/</a>  
 
 42. <a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/229759371_Lake_Cheko_and_the_Tunguska_Event_Impact_or_non-impact](https://www.researchgate.net/publication/229759371_Lake_Cheko_and_the_Tunguska_Event_Impact_or_non-impact)  
+   Link: <a href="https://www.researchgate.net/publication/229759371_Lake_Cheko_and_the_Tunguska_Event_Impact_or_non-impact" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/229759371_Lake_Cheko_and_the_Tunguska_Event_Impact_or_non-impact</a>  
 
 43. <a id="endnote-43"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/14069757/Lake_Cheko_and_the_Tunguska_Event_impact_or_non_impact](https://www.academia.edu/14069757/Lake_Cheko_and_the_Tunguska_Event_impact_or_non_impact)  
+   Link: <a href="https://www.academia.edu/14069757/Lake_Cheko_and_the_Tunguska_Event_impact_or_non_impact" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/14069757/Lake_Cheko_and_the_Tunguska_Event_impact_or_non_impact</a>

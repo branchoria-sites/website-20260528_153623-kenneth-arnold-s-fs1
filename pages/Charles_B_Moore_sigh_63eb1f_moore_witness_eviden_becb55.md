@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /charles-b-moore-sighting-1949/
 nav_short_title: Witnesses
 title: How Strong Was Moore's Witness Evidence?
-title_full: How Strong Was Moore's Witness Evidence? | Arrey UFO
+title_full: How Strong Was Moore's Witness Evidence?
 display_title_short: Witnesses
 display_title: Witnesses
 heading_title: How Strong Was Moore's Witness Evidence?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /test-range/
   short_title: Test Range
   heading_title: Was the Arrey UFO Part of Test Range Activity?
-date: '2026-06-08 23:32:38 '
+date: '2026-06-11 13:19:49 '
 header:
   og_image: /assets/images/Charles_B_Moore_sigh_63eb1f_moore_witness_eviden_becb55-Illustration-1-social.jpg
   preview_image: /assets/images/Charles_B_Moore_sigh_63eb1f_moore_witness_eviden_becb55-Illustration-1.webp
@@ -244,7 +244,6 @@ image: /assets/images/Charles_B_Moore_sigh_63eb1f_moore_witness_eviden_becb55-Il
 
 The witness evidence in the 24 April 1949 Charles B. Moore sighting is stronger than many early UFO reports because it combined trained observers, a written technical report, and instrument-assisted tracking. Near Arrey, New Mexico, Moore and four Navy enlisted men were conducting a routine pilot-balloon wind measurement when they noticed an unfamiliar airborne object that Moore briefly followed through an ML-47 theodolite. Unlike many UFO accounts built around vague recollection, this case produced contemporaneous documentation from a professional aerologist whose career centred on balloons, atmospheric observation, and optical tracking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Moore. &quot;I knew the two pilots of the C-47; both of them now believe in flying saucers. And they aren&#x27;t alone; so do the people of...Read...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[2kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">Moore, Jr., was with four enlisted Navy personnel making a pilot balloon observation preparatory to release of...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_moore_witness_eviden_becb55-Illustration-1-dark.svg" | relative_url }}" alt="Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_moore_witness_eviden_becb55-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_moore_witness_eviden_becb55-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That does not make the sighting conclusive proof of anything extraordinary. The same evidence that makes the case interesting also reveals its limits. The theodolite did not provide a complete plotted trajectory, the object’s range remained unknown, and the estimates of speed and size depended heavily on assumptions about distance. The case therefore sits in an unusual middle ground: stronger than a casual anecdote, but far short of definitive physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Moore. &quot;I knew the two pilots of the C-47; both of them now believe in flying saucers. And they aren&#x27;t alone; so do the people of...Read...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[2kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">Moore, Jr., was with four enlisted Navy personnel making a pilot balloon observation preparatory to release of...Read more...</span></span></span>
 
@@ -253,7 +252,6 @@ That does not make the sighting conclusive proof of anything extraordinary. The 
 The core witnesses were Charles B. Moore and four enlisted Navy personnel attached to operations near White Sands Proving Ground. Moore was not merely an interested observer. By 1949 he was already an experienced balloon engineer and atmospheric researcher associated with General Mills Aeronautical Research, work that later connected him to Project Skyhook and, historically, to high-altitude balloon development in the early Cold War period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Charles_B._Moore" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Charles B. Moore</span><span class="citation-popover-snippet">Charles B. Moore</span></span></span>
 
 The sighting occurred during a standard “pibal” procedure, short for pilot balloon observation. In such work, a small balloon is released and tracked optically to determine upper-air wind conditions. The observers were therefore already engaged in careful sky watching using professional equipment rather than casually noticing something unexpected while driving or socialising. That context matters because it reduces several common weaknesses found in UFO testimony:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -275,7 +273,6 @@ The most important evidential feature of the case was the use of an ML-47 theodo
 In the Arrey incident, Moore reported that the object first drew attention because it was mistaken for the pilot balloon. After locating the actual balloon elsewhere, he redirected the theodolite toward the unknown object. He described it as an elongated white ellipsoid with a pale yellowish tone on one side, approximately 2.5 times longer than wide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Moore. &quot;I knew the two pilots of the C-47; both of them now believe in flying saucers. And they aren&#x27;t alone; so do the people of...Read...</span></span></span>
 
 The instrument mattered for several reasons.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PSoYUcVZDSQ" title="Something Strange Happened In This Desert 70 Years Ago" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PSoYUcVZDSQ" target="_blank" rel="noopener noreferrer">Something Strange Happened In This Desert 70 Years Ago</a></p><p class="youtube-embed-meta">Channel: Thoughty2 &middot; Views: 1.5M &middot; Uploaded: January 2022 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PSoYUcVZDSQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PSoYUcVZDSQ">Open on YouTube</a></p></div></div></div>
 
@@ -303,11 +300,10 @@ At the same time, the theodolite evidence had important weaknesses that are some
 
 Those weaknesses explain why later estimates varied dramatically. Some UFO authors converted the angular measurements into claims of a very large object travelling at extreme velocity, but such calculations depended on speculative assumptions about altitude and range rather than directly measured values. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sdonline.org">[sdonline.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sdonline.org</span><span class="citation-popover-title">Flying Saucers Are Real!</span><span class="citation-popover-snippet">The US Navy, Unidentified Flying...In April 1949, scientists tracking a balloon at the range tracked a flying saucer on a theodolite,5 d...</span><span class="citation-popover-meta">Published: April 1949</span></span></span>
 
-
 <img src="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_moore_witness_eviden_becb55-Illustration-2-dark.svg" | relative_url }}" alt="Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_moore_witness_eviden_becb55-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_moore_witness_eviden_becb55-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the written report still matters
 
-The survival of a contemporaneous written report is one reason the Arrey case remained notable inside UFO literature and later historical discussions of Project Blue Book-era sightings. Early UFO history contains many stories reconstructed years later from memory, newspaper summaries, or retellings by enthusiasts. Moore’s account instead entered official channels with technical terminology and observational detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIATHE NATIONAL INVESTIGATIONS COMMITTEE ON...... Arrey, New Mexico. Charles B. Moore, Jr., an aerologist, graduate engineer and balloon...</span></span></span>
+The survival of a contemporaneous written report is one reason the Arrey case remained notable inside UFO literature and later historical discussions of Project Blue Book-era sightings. Early UFO history contains many stories reconstructed years later from memory, newspaper summaries, or retellings by enthusiasts. Moore’s account instead entered official channels with technical terminology and observational detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">THE NATIONAL INVESTIGATIONS COMMITTEE ON...... Arrey, New Mexico. Charles B. Moore, Jr., an aerologist, graduate engineer and balloon...</span></span></span>
 
 The Navy forwarding letter reportedly emphasised both Moore’s credentials and the significance of the theodolite data. Officials considered the changing azimuth and elevation potentially important because they might imply controlled movement. That wording helped preserve the case as something more than an ordinary anecdotal sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Moore. &quot;I knew the two pilots of the C-47; both of them now believe in flying saucers. And they aren&#x27;t alone; so do the people of...Read...</span></span></span>
 
@@ -321,13 +317,11 @@ Despite its strengths, the Arrey case did not establish the nature of the object
 
 This was the single largest evidential gap. Without knowing how far away the object was, the observers could not reliably determine its actual size or speed. A small nearby object and a large distant object can produce the same angular appearance through a theodolite. That uncertainty affects nearly every dramatic claim later attached to the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[ufologie.patrickgross.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Moore. &quot;I knew the two pilots of the C-47; both of them now believe in flying saucers. And they aren&#x27;t alone; so do the people of...Read...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U2teFYr-o2s" title="Declassified: The Air Force&#x27;s Secret UFO Files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U2teFYr-o2s" target="_blank" rel="noopener noreferrer">Declassified: The Air Force&#x27;s Secret UFO Files</a></p><p class="youtube-embed-meta">Channel: Smithsonian Channel &middot; Views: 362.8K &middot; Uploaded: October 2015 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U2teFYr-o2s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U2teFYr-o2s">Open on YouTube</a></p></div></div></div>
 
 ### No corroborating radar or photography emerged
 
 The case lacked several forms of evidence that would have strengthened it substantially:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -341,7 +335,6 @@ The case lacked several forms of evidence that would have strengthened it substa
 
 As a result, the sighting remained fundamentally dependent on witness interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K4SiqjS28ZE" title="Let&#x27;s Talk About the New UFO Files Released by The Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K4SiqjS28ZE" target="_blank" rel="noopener noreferrer">Let&#x27;s Talk About the New UFO Files Released by The Government</a></p><p class="youtube-embed-meta">Channel: Anton Petrov &middot; Views: 153.8K &middot; Uploaded: May 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K4SiqjS28ZE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K4SiqjS28ZE">Open on YouTube</a></p></div></div></div>
 
 ### The object’s behaviour was open to interpretation
@@ -350,12 +343,10 @@ Supporters of the unexplained interpretation argue that Moore’s experience wit
 
 The “controlled flight” implication also deserves caution. A changing elevation angle does not automatically demonstrate intelligent manoeuvring. It may reflect relative motion, tracking difficulty, observer movement, or uncertainty in maintaining lock on a distant object through magnified optics. Because the observation was brief and incomplete, the data cannot decisively separate extraordinary explanations from more ordinary ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">Moore, Jr., was with four enlisted Navy personnel making a pilot balloon observation preparatory to release of...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_moore_witness_eviden_becb55-Illustration-3-dark.svg" | relative_url }}" alt="Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_moore_witness_eviden_becb55-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Charles_B_Moore_sigh_63eb1f_moore_witness_eviden_becb55-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the witness evidence remains debated
 
 The Moore sighting survives in UFO history largely because it combines three elements rarely found together in one early case:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -370,170 +361,518 @@ That combination keeps the case alive in debates over the quality of historical 
 The case therefore remains important less because of what it proved than because of the type of evidence it preserved. It demonstrates how some early UFO reports emerged not from sensational journalism or lone witnesses, but from routine scientific and military procedures carried out by people accustomed to watching the sky professionally.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Strong Was Moore&#x27;s Witness Evidence?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Strong Was Moore&#x27;s Witness Evidence?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Contains direct case reports outlining Moore&#x27;s background as an engineer and how it influenced the Project Blue Book credibility evaluation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides an objective cross-examination of the Arrey encounter, highlighting how Moore&#x27;s professional background adds weight while techni...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches fundamental skills for distinguishing between a trained engineer&#x27;s technical instrumentation data vs. their subjective interpreta...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Reviews the archival documentation trails tracking the five White Sands personnel reports from late April 1949.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="witnesses-e14d5f-how-strong-was-moore-s-witness-evidence-charles-b-moore-sighting-1949-ufo-poster-series-television-gerr" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
 </section>
 
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: ufologie.patrickgross.org  
-   Link: [https://ufologie.patrickgross.org/htm/arrey49.htm](https://ufologie.patrickgross.org/htm/arrey49.htm)  
+   Link: <a href="https://ufologie.patrickgross.org/htm/arrey49.htm" target="_blank" rel="noopener noreferrer nofollow">https://ufologie.patrickgross.org/htm/arrey49.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moore. &quot;I knew the two pilots of the C-47; both of them now believe in flying saucers. And they aren&#x27;t alone; so do the people of...Read...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: kirkmcd.princeton.edu  
-   Link: [https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf](https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf)  
+   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_hcsa_68.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moore, Jr., was with four enlisted Navy personnel making a pilot balloon observation preparatory to release of...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Charles B. Moore  
-   Link: [https://en.wikipedia.org/wiki/Charles_B._Moore](https://en.wikipedia.org/wiki/Charles_B._Moore)  
+   Link: <a href="https://en.wikipedia.org/wiki/Charles_B._Moore" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Charles_B._Moore</a>  
 
 4. <a id="endnote-4"></a>
    Source: sdonline.org  
    Title: Flying Saucers Are Real!  
-   Link: [https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state](https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state)  
+   Link: <a href="https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state" target="_blank" rel="noopener noreferrer nofollow">https://sdonline.org/issue/42/flying-saucers-are-real-us-navy-unidentified-flying-objects-and-national-security-state</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Navy, Unidentified Flying...In April 1949, scientists tracking a balloon at the range tracked a flying saucer on a theodolite,5 d...</p></details>
    Published: April 1949  
 
 5. <a id="endnote-5"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIATHE NATIONAL INVESTIGATIONS COMMITTEE ON...... Arrey, New Mexico. Charles B. Moore, Jr., an aerologist, graduate engineer and balloon...</p></details>
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...... Arrey, New Mexico. Charles B. Moore, Jr., an aerologist, graduate engineer and balloon...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book was the code name for the systematic study of unidentified flying objects (UFOs) by the United Stat...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: [https://en.wikipedia.org/wiki/UFO_conspiracy_theories](https://en.wikipedia.org/wiki/UFO_conspiracy_theories)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy theoriesStudies and investigations into UFO reports conducted by governments (such as Project Blue Book in the United S...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookOf a total of 12,618 sightings reported to Project Blue Book, 701 rem...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: libguides.nmstatelibrary.org  
    Title: UF Os: Project Blue Book, U.S  
-   Link: [https://libguides.nmstatelibrary.org/c.php?g=1380278&p=10206047](https://libguides.nmstatelibrary.org/c.php?g=1380278&p=10206047)  
+   Link: <a href="https://libguides.nmstatelibrary.org/c.php?g=1380278&amp;p=10206047" target="_blank" rel="noopener noreferrer nofollow">https://libguides.nmstatelibrary.org/c.php?g=1380278&amp;p=10206047</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force and Flying SaucersProject Blue Book was one of several US Air Force investigations into UFOs. Their documentation was transferr...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying ObjectsThe National Archives has been unable to locate any documentation among the Project BLUE BOOK records that dis...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: archive.org  
    Title: Brad Sparks Comprehensive Catalog of 1,600 Project Blue Book UFO Unknowns  
-   Link: [https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf](https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf)  
+   Link: <a href="https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/BernardSieglerTechnicsAndTime1TheFaultOfEpimetheus/Brad%20Sparks%20-%20Comprehensive%20Catalog%20of%201%2C600%20Project%20Blue%20Book%20UFO%20Unknowns.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force...Read more...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972](https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972)  
+   Link: <a href="https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/261854096_Extraterrestrial_encounters_UFOs_science_and_the_quest_for_transcendence_1947-1972</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, science and the quest for transcendence, 1947–1972This article analyzes the postwar UFO phenomenon as part of a broader astrocultur...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: digital.library.unt.edu  
-   Link: [https://digital.library.unt.edu/ark%3A/67531/metadc992803/m2/1/high_res_d/76-35SP_1976feb18.pdf](https://digital.library.unt.edu/ark%3A/67531/metadc992803/m2/1/high_res_d/76-35SP_1976feb18.pdf)  
+   Link: <a href="https://digital.library.unt.edu/ark%3A/67531/metadc992803/m2/1/high_res_d/76-35SP_1976feb18.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digital.library.unt.edu/ark%3A/67531/metadc992803/m2/1/high_res_d/76-35SP_1976feb18.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNT Digital LibraryCRSAccount of Charles B. Moore&#x27;s sighting of UFO while tracking a Skyhook balloon with a theodolite. Moore was project...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: perihelionsf.com  
-   Link: [https://www.perihelionsf.com/1508/article_2.htm](https://www.perihelionsf.com/1508/article_2.htm)  
+   Link: <a href="https://www.perihelionsf.com/1508/article_2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.perihelionsf.com/1508/article_2.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and RocketsMoore looked and with his naked eye suddenly noticed another “whitish spherical object” flying directly over the balloon...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2127373170805852/posts/2519594508250381/](https://www.facebook.com/groups/2127373170805852/posts/2519594508250381/)  
+   Link: <a href="https://www.facebook.com/groups/2127373170805852/posts/2519594508250381/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2127373170805852/posts/2519594508250381/</a>  
 
 17. <a id="endnote-17"></a>
    Source: khi.fi.it  
-   Link: [https://www.khi.fi.it/pdf/publikationen/i-mandorli/Photo-Archives-and-the-Photographic-Memory.pdf](https://www.khi.fi.it/pdf/publikationen/i-mandorli/Photo-Archives-and-the-Photographic-Memory.pdf)  
+   Link: <a href="https://www.khi.fi.it/pdf/publikationen/i-mandorli/Photo-Archives-and-the-Photographic-Memory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.khi.fi.it/pdf/publikationen/i-mandorli/Photo-Archives-and-the-Photographic-Memory.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>projects/. ResearchAssociateProjects.shtml for these projects and reports on their outcome. The project owed much of its success to the i...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: dafhistory.af.mil  
-   Link: [https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf](https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf)  
+   Link: <a href="https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dafhistory.af.mil/Portals/16/documents/AFD-101201-038.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell Report... Statement, Athelstan F. Spilhaus, June 3, 1994. 21. Statement, Charles B. Moore, June 8, 1994, and Hieroglyphic and Bal...</p></details>
    Published: June 3, 1994  
 
 19. <a id="endnote-19"></a>
    Source: ucl.ac.uk  
-   Link: [https://www.ucl.ac.uk/mathematical-physical-sciences/physics-astronomy/about-department-physics-and-astronomy/history/departmental-history/history-ucl-physics-and-astronomy-department-1826-1975](https://www.ucl.ac.uk/mathematical-physical-sciences/physics-astronomy/about-department-physics-and-astronomy/history/departmental-history/history-ucl-physics-and-astronomy-department-1826-1975)  
+   Link: <a href="https://www.ucl.ac.uk/mathematical-physical-sciences/physics-astronomy/about-department-physics-and-astronomy/history/departmental-history/history-ucl-physics-and-astronomy-department-1826-1975" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/mathematical-physical-sciences/physics-astronomy/about-department-physics-and-astronomy/history/departmental-history/history-ucl-physics-and-astronomy-department-1826-1975</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed the duty of providing the courses in Mechanics, Hydrostatics, and Astronomy...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: govinfo.gov  
    Title: GOVPUB SI PURL gpo93573  
-   Link: [https://www.govinfo.gov/content/pkg/GOVPUB-SI-PURL-gpo93573/pdf/GOVPUB-SI-PURL-gpo93573.pdf](https://www.govinfo.gov/content/pkg/GOVPUB-SI-PURL-gpo93573/pdf/GOVPUB-SI-PURL-gpo93573.pdf)  
+   Link: <a href="https://www.govinfo.gov/content/pkg/GOVPUB-SI-PURL-gpo93573/pdf/GOVPUB-SI-PURL-gpo93573.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GOVPUB-SI-PURL-gpo93573/pdf/GOVPUB-SI-PURL-gpo93573.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Smithsonian Contributions to AstrophysicsThis series, Smithsonian Contributions to Astrophysics, was inaugurated in 1956 to provide a pro...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: archives.gov  
    Title: presidential libraries  
-   Link: [https://www.archives.gov/research/topics/uaps/presidential-libraries](https://www.archives.gov/research/topics/uaps/presidential-libraries)  
+   Link: <a href="https://www.archives.gov/research/topics/uaps/presidential-libraries" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps/presidential-libraries</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Records Related to Unidentified Flying Objects (UFOs) and...30 Jan 2026 — This page provides a list of presidential records related to U...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: governmentattic.org  
    Title: An Annotated Bibliography, Lynn E  
-   Link: [https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf](https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf)  
+   Link: <a href="https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/13docs/UFOsRelatedSubjBiblio_Catoe_1969.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Catoe, Prepared byAccount of Charles B. Moore&#x27;s sighting of UFO while tracking a Skyhook bal- loon with a theodolite, Moore was project e...</p></details>

@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /battle-of-los-angeles-1942/
 nav_short_title: Timeline
 title: How One Alert Became a Citywide Barrage
-title_full: How One Alert Became a Citywide Barrage | Battle of Los Angeles
+title_full: How One Alert Became a Citywide Barrage
 display_title_short: Timeline
 display_title: Timeline
 heading_title: How One Alert Became a Citywide Barrage
@@ -233,7 +233,7 @@ prev_link:
   permalink: /photo-myth/
   short_title: Photo Myth
   heading_title: Did The Famous Photo Show A Craft?
-date: '2026-06-08 23:40:01 '
+date: '2026-06-11 13:23:11 '
 header:
   og_image: /assets/images/Battle_of_Los_Angele_969c9e_blackout_timeline_f1d23d-Illustration-1-social.jpg
   preview_image: /assets/images/Battle_of_Los_Angele_969c9e_blackout_timeline_f1d23d-Illustration-1.webp
@@ -242,8 +242,7 @@ image: /assets/images/Battle_of_Los_Angele_969c9e_blackout_timeline_f1d23d-Illus
 
 ## Introduction
 
-The “[Battle of Los Angeles]({{ 'battle-of-los-angeles-1942/' | relative_url }})” unfolded less like a conventional military engagement than a chain reaction of fear, radar uncertainty, and escalating anti-aircraft response. In the early hours of 25 February 1942, Los Angeles moved from wartime vigilance into full blackout. Searchlights crossed the sky, air-raid sirens sounded across the county, and anti-aircraft batteries fired more than 1,400 rounds at reported targets that were never conclusively identified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[2sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Radars tracked the approaching target to within a few miles of the coast, and at 0221 the regional controller ordered a blackout. The...</span></span></span>
-
+The “Battle of Los Angeles” unfolded less like a conventional military engagement than a chain reaction of fear, radar uncertainty, and escalating anti-aircraft response. In the early hours of 25 February 1942, Los Angeles moved from wartime vigilance into full blackout. Searchlights crossed the sky, air-raid sirens sounded across the county, and anti-aircraft batteries fired more than 1,400 rounds at reported targets that were never conclusively identified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[2sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Radars tracked the approaching target to within a few miles of the coast, and at 0221 the regional controller ordered a blackout. The...</span></span></span>
 
 <img src="{{ "/assets/images/Battle_of_Los_Angele_969c9e_blackout_timeline_f1d23d-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/Battle_of_Los_Angele_969c9e_blackout_timeline_f1d23d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Battle_of_Los_Angele_969c9e_blackout_timeline_f1d23d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes the timeline so important is that the event did not begin with gunfire. It began with a nervous West Coast already shaken by Pearl Harbor and by the Japanese submarine attack on the Ellwood oil field two nights earlier. The sequence from radar contact to citywide barrage shows how fragmented reports, uncertain detection technology, and wartime expectations combined into one of the most famous false alarms in American military history.
@@ -254,7 +253,7 @@ Los Angeles in February 1942 was not merely a civilian metropolis. It was a majo
 
 The immediate psychological trigger came on the evening of 23 February 1942, when the Japanese submarine I-17 surfaced near Santa Barbara and shelled the Ellwood oil facilities. Damage was limited, but the symbolism was enormous: enemy fire had reached the continental United States. Contemporary reports and later military summaries describe shells landing around fuel storage facilities, derricks, and pumping structures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.militarymuseum.org/Ellwood.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: militarymuseum.org">[2militarymuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">militarymuseum.org</span><span class="citation-popover-snippet">the Imperial Japanese Navy&#x27;s submarine I-17, under the command of Commander Nishino Kozo, surfaces shells the oil refinery near Santa...</span></span></span>
 
-The attack intensified rumours of invasion. Witnesses along the coast reported imagined naval sightings, signal lights offshore, and suspected reconnaissance aircraft. Some claims were contradictory or impossible to verify, but they mattered because military personnel and civilians were already primed to expect another strike. The Battle of Los Angeles cannot be understood without recognising that the city had entered a state of collective anticipation before a single anti-aircraft shell was fired. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://grantpiperwriting.medium.com/the-forgotten-wwii-battle-of-los-angeles-ccf0dc34c406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grantpiperwriting.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grantpiperwriting.medium.com</span><span class="citation-popover-snippet">Forgotten WWII Battle of Los Angeles | by Grant PiperThe shelling of the docks at Ellwood ultimately caused panic levels to spike tremend...</span></span></span>
+The attack intensified rumours of invasion. Witnesses along the coast reported imagined naval sightings, signal lights offshore, and suspected reconnaissance aircraft. Some claims were contradictory or impossible to verify, but they mattered because military personnel and civilians were already primed to expect another strike. The Battle of Los Angeles cannot be understood without recognising that the city had entered a state of collective anticipation before a single anti-aircraft shell was fired. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://grantpiperwriting.medium.com/the-forgotten-wwii-battle-of-los-angeles-ccf0dc34c406" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grantpiperwriting.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grantpiperwriting.medium.com</span><span class="citation-popover-snippet">Forgotten WWII Battle of Los Angeles &#124; by Grant PiperThe shelling of the docks at Ellwood ultimately caused panic levels to spike tremend...</span></span></span>
 
 ## How the Night Escalated Hour by Hour
 
@@ -269,7 +268,6 @@ This earlier alert mattered because it conditioned military crews and civilians 
 Shortly after 1:00 a.m. on 25 February, coastal radar stations reportedly detected an unidentified object west of Los Angeles. Different later accounts place the initial contact roughly 120 miles offshore. By around 2:15 a.m., additional radar stations were said to have confirmed the approach. HistoryNet <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-snippet">radar picked up a blip: an unidentified aerial target 120 miles west of Los Angeles and heading straight for the city. By 2:15 two more r...</span></span></span>
 
 At approximately 2:21 a.m., regional defence authorities ordered a blackout. Minutes later, around 2:25 a.m., air-raid sirens sounded throughout Los Angeles County. Streetlights and household lighting were extinguished, traffic halted, and thousands of wardens moved into position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Radars tracked the approaching target to within a few miles of the coast, and at 0221 the regional controller ordered a blackout. The...</span></span></span> Wikipedia This stage is crucial because it shows that the blackout preceded the major gunfire. The military response initially reflected uncertainty ra <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Battle of Los Angeles</span><span class="citation-popover-snippet">Battle of Los Angeles</span></span></span> ther than confirmed engagement. Radar technology in early 1942 was still relatively primitive, especially for distinguishing aircraft from atmospheric interference, balloons, or false returns near the coast.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6oY8HIWBS-Y" title="The Battle of Los Angeles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6oY8HIWBS-Y" target="_blank" rel="noopener noreferrer">The Battle of Los Angeles</a></p><p class="youtube-embed-meta">Channel: LEMMiNO &middot; Views: 7.7M &middot; Uploaded: August 2018 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6oY8HIWBS-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6oY8HIWBS-Y">Open on YouTube</a></p></div></div></div>
 
@@ -287,7 +285,6 @@ One of the most striking features of the timeline is the duration of the barrage
 
 Historians have long questioned why trained military personnel continued firing despite the absence of confirmed enemy aircraft. Several [explanations]({{ 'explanations-95342a/' | relative_url }}) recur in official and later analyses:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Radar reports had already established an expectation of attack.
@@ -302,11 +299,10 @@ The Air Force historical interpretation published decades later described the in
 
 Notably, fighter aircraft from the IV Interceptor Command remained grounded during the incident. This detail has often been overlooked in later retellings. Military commanders appear to have hesitated to commit limited interceptor resources into confusion, darkness, and heavy anti-aircraft fire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bombardment_of_Ellwood" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bombardment of Ellwood</span><span class="citation-popover-snippet">Bombardment of Ellwood</span></span></span>
 
-
 <img src="{{ "/assets/images/Battle_of_Los_Angele_969c9e_blackout_timeline_f1d23d-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/Battle_of_Los_Angele_969c9e_blackout_timeline_f1d23d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Battle_of_Los_Angele_969c9e_blackout_timeline_f1d23d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Civilians Experienced on the Ground
 
-For residents across Los Angeles County, the event felt real and immediate. Sirens woke families from sleep. Searchlights swept across neighbourhoods. Anti-aircraft detonations shook windows and rooftops. Witnesses described hearing continuous thunder from artillery batteries around Santa Monica, Culver City, Long Beach, and coastal defence positions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">world war iis bizarre battle of los angeles</span><span class="citation-popover-snippet">HistoryWorld War II&#x27;s Bizarre &#x27;Battle of Los Angeles&#x27;23 Feb 2017 — On February 25, 1942, an infamous false alarm saw American military un...</span><span class="citation-popover-meta">Published: February 25, 1942</span></span></span>
+For residents across Los Angeles County, the event felt real and immediate. Sirens woke families from sleep. Searchlights swept across neighbourhoods. Anti-aircraft detonations shook windows and rooftops. Witnesses described hearing continuous thunder from artillery batteries around Santa Monica, Culver City, Long Beach, and coastal defence positions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">world war iis bizarre battle of los angeles</span><span class="citation-popover-snippet">World War II&#x27;s Bizarre &#x27;Battle of Los Angeles&#x27;23 Feb 2017 — On February 25, 1942, an infamous false alarm saw American military un...</span><span class="citation-popover-meta">Published: February 25, 1942</span></span></span>
 
 Many civilians believed the city was under direct attack. Some reported seeing aircraft formations overhead; others saw only exploding shells and beams of light. Newspaper photographs taken during the barrage later became central to the mythology of the event, especially one famous image showing converging searchlights illuminating an indistinct object amid shell bursts. Later UFO interpretations would treat these photographs as evidence of a structured craft, while sceptics pointed out that the images had been heavily contrast-enhanced for newspaper reproduction and likely captured smoke and shell explosions rather than a solid object. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bombardment_of_Ellwood" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bombardment of Ellwood</span><span class="citation-popover-snippet">Bombardment of Ellwood</span></span></span>
 
@@ -324,7 +320,6 @@ Five civilian deaths are generally associated with the incident:
 * Two others reportedly suffered fatal heart attacks linked to stress from the bombardment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bombardment_of_Ellwood" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bombardment of Ellwood</span><span class="citation-popover-snippet">Bombardment of Ellwood</span></span></span>
 
 The casualty pattern reinforced the strange nature of the event. The only confirmed fatalities came not from enemy action, but from the American defensive response itself.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4U57ve7DXWo" title="What Really Happened Over LA in 1942? | UFO Battle of Los Angeles | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4U57ve7DXWo" target="_blank" rel="noopener noreferrer">What Really Happened Over LA in 1942? | UFO Battle of Los Angeles | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 6.7K &middot; Uploaded: July 2025 &middot; Length: 2 hours 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4U57ve7DXWo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4U57ve7DXWo">Open on YouTube</a></p></div></div></div>
 
@@ -344,7 +339,6 @@ The most widely accepted modern interpretation combines several factors rather t
 * Fear after Pearl Harbor and Ellwood intensified threat perception.
 * Once firing began, confirmation bias spread through both military and civilian observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/15lw29u/what_do_you_think_might_really_happened_in_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Office of Air Force History attributed the event to a case of &quot;war nerves&quot; triggered by a lost weather balloon and exacerbated...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sfmuseum.org">[2sfmuseum.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sfmuseum.org</span><span class="citation-popover-title">The Battle of Los Angeles</span><span class="citation-popover-snippet">1942Radars tracked the approaching target to within a few miles of the coast, and at 0221 the regional controller ordered a blackout. The...</span></span></span>
 
-
 <img src="{{ "/assets/images/Battle_of_Los_Angele_969c9e_blackout_timeline_f1d23d-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/Battle_of_Los_Angele_969c9e_blackout_timeline_f1d23d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Battle_of_Los_Angele_969c9e_blackout_timeline_f1d23d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Timeline Still Matters
 
@@ -354,49 +348,89 @@ At the same time, the timeline also shows how quickly perception can become unre
 
 That tension between authentic experience and missing confirmation is what keeps the “Battle of Los Angeles” historically significant. The blackout night remains one of the clearest examples of how fear, technology, military readiness, and human interpretation can merge into an event that feels undeniable to participants while leaving behind remarkably little hard evidence of an actual attack.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IM3XWJX5LaE" title="The UFO Battle of Los Angeles | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IM3XWJX5LaE" target="_blank" rel="noopener noreferrer">The UFO Battle of Los Angeles | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Mediatime Network &middot; Views: 21.6K &middot; Uploaded: February 2024 &middot; Length: 2 hours 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IM3XWJX5LaE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IM3XWJX5LaE">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How One Alert Became a Citywide Barrage, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How One Alert Became a Citywide Barrage. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Blackout Order guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Blackout+Order+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide+by+James+D.+Hornfischer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fleet at Flood Tide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5zA7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fleet at Flood Tide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide+by+James+D.+Hornfischer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fleet at Flood Tide">The Fleet at Flood Tide</a>
+        </h4>
+        <p class="fr-book-author">By James D. Hornfischer</p>
+        
+        <p class="fr-book-desc">Establishes the pervasive cultural context of early 1942 Pacific Coast security anxieties following the devastation of Pearl Harbor.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide+by+James+D.+Hornfischer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Ellwood oil field guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Ellwood+oil+field+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Cross-references the formal anti-aircraft ammunition logs (over 1,400 rounds) against subsequent public media reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Santa Barbara shelling guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Santa+Barbara+shelling+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Purpose+Based+Retirement&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Purpose Based Retirement on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Purpose+Based+Retirement&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Purpose Based Retirement">Purpose Based Retirement</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+        
+        <p class="fr-book-desc">Gives the hour-by-hour sequence from early radar warning, the 2:15 AM blackout order, to the multi-battery barrage.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Purpose+Based+Retirement&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=An+old+man%27s+love&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An old man&#x27;s love on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=An+old+man%27s+love&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An old man&#x27;s love">An old man&#x27;s love</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+        
+        <p class="fr-book-desc">Chronicles the morning after: shrapnel damage to buildings, vehicle accidents during the blackout, and heart attack casualties.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=An+old+man%27s+love&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fleet+at+Flood+Tide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fleet at Flood Tide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Purpose+Based+Retirement&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Purpose Based Retirement</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -433,15 +467,15 @@ That tension between authentic experience and missing confirmation is what keeps
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage WWII Poster Orbis Publishing Print LETS GIVE HIM ENOUGH AND ON TIME 70s"><img src="{{ '/assets/images/marketplace-covers/93c310d16a6e2ba0e186.jpg' | relative_url }}" alt="Listing image for Vintage WWII Poster Orbis Publishing Print LETS GIVE HIM ENOUGH AND ON TIME 70s" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Vintage WWII Poster Orbis Publishing Print LETS GIVE HIM ENOUGH AND ON TIME 70s</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for WWII poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: WWII poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -449,15 +483,15 @@ That tension between authentic experience and missing confirmation is what keeps
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WB17 Vintage WW2 Fine Work Canal Workers Carry On British WWII War Poster A4"><img src="{{ '/assets/images/marketplace-covers/55b1411129a34cefb8f9.jpg' | relative_url }}" alt="Listing image for WB17 Vintage WW2 Fine Work Canal Workers Carry On British WWII War Poster A4" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">WB17 Vintage WW2 Fine Work Canal Workers Carry On British WWII War Poster A4</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for WWII poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: WWII poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -465,31 +499,15 @@ That tension between authentic experience and missing confirmation is what keeps
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large Framed WWII Allied Propaganda Poster – Henry Koerner – 127 x 90 cm"><img src="{{ '/assets/images/marketplace-covers/e4d89fa55ff9b59e543e.jpg' | relative_url }}" alt="Listing image for Large Framed WWII Allied Propaganda Poster – Henry Koerner – 127 x 90 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Large Framed WWII Allied Propaganda Poster – Henry Koerner – 127 x 90 cm</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for WWII poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: WWII poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -497,7 +515,7 @@ That tension between authentic experience and missing confirmation is what keeps
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=WWII+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="WWII poster -book -books" data-ebay-reference="timeline-cbcc2e-how-one-alert-became-a-citywide-barrage-battle-of-los-angeles-1942-wwii-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -713,167 +731,167 @@ That tension between authentic experience and missing confirmation is what keeps
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Battle of Los Angeles  
-   Link: [https://en.wikipedia.org/wiki/Battle_of_Los_Angeles](https://en.wikipedia.org/wiki/Battle_of_Los_Angeles)  
+   Link: <a href="https://en.wikipedia.org/wiki/Battle_of_Los_Angeles" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Battle_of_Los_Angeles</a>  
 
 2. <a id="endnote-2"></a>
    Source: sfmuseum.org  
    Title: The Battle of Los Angeles  
-   Link: [https://sfmuseum.org/hist9/aaf2.html](https://sfmuseum.org/hist9/aaf2.html)  
+   Link: <a href="https://sfmuseum.org/hist9/aaf2.html" target="_blank" rel="noopener noreferrer nofollow">https://sfmuseum.org/hist9/aaf2.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>1942Radars tracked the approaching target to within a few miles of the coast, and at 0221 the regional controller ordered a blackout. The...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: history.com  
    Title: world war iis bizarre battle of los angeles  
-   Link: [https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles](https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryWorld War II&#x27;s Bizarre &#x27;Battle of Los Angeles&#x27;23 Feb 2017 — On February 25, 1942, an infamous false alarm saw American military un...</p></details>
+   Link: <a href="https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/world-war-iis-bizarre-battle-of-los-angeles</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>World War II&#x27;s Bizarre &#x27;Battle of Los Angeles&#x27;23 Feb 2017 — On February 25, 1942, an infamous false alarm saw American military un...</p></details>
    Published: February 25, 1942  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Bombardment of Ellwood  
-   Link: [https://en.wikipedia.org/wiki/Bombardment_of_Ellwood](https://en.wikipedia.org/wiki/Bombardment_of_Ellwood)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bombardment_of_Ellwood" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bombardment_of_Ellwood</a>  
 
 5. <a id="endnote-5"></a>
    Source: militarymuseum.org  
-   Link: [https://www.militarymuseum.org/Ellwood.html](https://www.militarymuseum.org/Ellwood.html)  
+   Link: <a href="https://www.militarymuseum.org/Ellwood.html" target="_blank" rel="noopener noreferrer nofollow">https://www.militarymuseum.org/Ellwood.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Imperial Japanese Navy&#x27;s submarine I-17, under the command of Commander Nishino Kozo, surfaces shells the oil refinery near Santa...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: grantpiperwriting.medium.com  
-   Link: [https://grantpiperwriting.medium.com/the-forgotten-wwii-battle-of-los-angeles-ccf0dc34c406](https://grantpiperwriting.medium.com/the-forgotten-wwii-battle-of-los-angeles-ccf0dc34c406)  
+   Link: <a href="https://grantpiperwriting.medium.com/the-forgotten-wwii-battle-of-los-angeles-ccf0dc34c406" target="_blank" rel="noopener noreferrer nofollow">https://grantpiperwriting.medium.com/the-forgotten-wwii-battle-of-los-angeles-ccf0dc34c406</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forgotten WWII Battle of Los Angeles | by Grant PiperThe shelling of the docks at Ellwood ultimately caused panic levels to spike tremend...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: historynet.com  
    Title: the battle that never was  
-   Link: [https://historynet.com/the-battle-that-never-was/](https://historynet.com/the-battle-that-never-was/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HistoryNetThe Battle That Never Was1 Nov 2016 —... radar site picked up an unidentified aerial target some 120 miles west of Los Angeles...</p></details>
+   Link: <a href="https://historynet.com/the-battle-that-never-was/" target="_blank" rel="noopener noreferrer nofollow">https://historynet.com/the-battle-that-never-was/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Battle That Never Was1 Nov 2016 —... radar site picked up an unidentified aerial target some 120 miles west of Los Angeles...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: warhistoryonline.com  
    Title: battle of los angeles the attack that never happened  
-   Link: [https://www.warhistoryonline.com/instant-articles/battle-of-los-angeles-the-attack-that-never-happened.html](https://www.warhistoryonline.com/instant-articles/battle-of-los-angeles-the-attack-that-never-happened.html)  
+   Link: <a href="https://www.warhistoryonline.com/instant-articles/battle-of-los-angeles-the-attack-that-never-happened.html" target="_blank" rel="noopener noreferrer nofollow">https://www.warhistoryonline.com/instant-articles/battle-of-los-angeles-the-attack-that-never-happened.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Battle of Los Angeles: The Enemy Attack That Never...8 Jul 2021 — At approximately 3:16 a.m., the 37th Coast Artillery Brigade began...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/15lw29u/what_do_you_think_might_really_happened_in_the/](https://www.reddit.com/r/UFOs/comments/15lw29u/what_do_you_think_might_really_happened_in_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15lw29u/what_do_you_think_might_really_happened_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15lw29u/what_do_you_think_might_really_happened_in_the/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Air Force History attributed the event to a case of &quot;war nerves&quot; triggered by a lost weather balloon and exacerbated...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theairraid.com  
-   Link: [https://www.theairraid.com/](https://www.theairraid.com/)  
+   Link: <a href="https://www.theairraid.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.theairraid.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great Los Angeles Air Raid of 1942In fact, the only casualties were caused by the falling shrapnel and unexploded ordinance that rain...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: us.shop.battle.net  
-   Link: [https://us.shop.battle.net/en-us](https://us.shop.battle.net/en-us)  
+   Link: <a href="https://us.shop.battle.net/en-us" target="_blank" rel="noopener noreferrer nofollow">https://us.shop.battle.net/en-us</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>battle.netBattle.net: HomeBattle.net is your one stop shop into the world of Blizzard and Activision. Buy digital games, in-game items, b...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: historynet.com  
-   Link: [https://historynet.com/the-battle-of-l-a/](https://historynet.com/the-battle-of-l-a/)  
+   Link: <a href="https://historynet.com/the-battle-of-l-a/" target="_blank" rel="noopener noreferrer nofollow">https://historynet.com/the-battle-of-l-a/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Enemy Aircraft Threaten Los Angeles During World...19 Mar 2019 — The city raged against an ambiguous foe in the first hours of Febru...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: military.com  
-   Link: [https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html](https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html)  
+   Link: <a href="https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/investigations-and-features/2025/11/13/wwii-mystery-behind-1942-battle-of-los-angeles-axis-planes-aliens-or-mass-hysteria.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The WWII Mystery Behind the 1942 Battle of Los Angeles18 Nov 2025 — Shortly after 2 a.m., Army radar crews tracked something 120 miles we...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
    Title: The Battle of L.A  
-   Link: [https://medium.com/%40osirisuap/the-battle-of-l-a-e89aa6c72eff](https://medium.com/%40osirisuap/the-battle-of-l-a-e89aa6c72eff)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>— A Historical Mystery of UFOs, Possible...The city had been blacked out, anticipating a possible attack. Seemingly on cue, anti-aircraf...</p></details>
+   Link: <a href="https://medium.com/%40osirisuap/the-battle-of-l-a-e89aa6c72eff" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40osirisuap/the-battle-of-l-a-e89aa6c72eff</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Historical Mystery of UFOs, Possible...The city had been blacked out, anticipating a possible attack. Seemingly on cue, anti-aircraf...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Battle of Los Angeles  
-   Link: [https://www.youtube.com/watch?v=6oY8HIWBS-Y](https://www.youtube.com/watch?v=6oY8HIWBS-Y)  
+   Link: <a href="https://www.youtube.com/watch?v=6oY8HIWBS-Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6oY8HIWBS-Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alien Threat Behind the Battle of LA | History&#x27;s Greatest Mysteries (S5)...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: smithsonianmag.com  
-   Link: [https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/](https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/)  
+   Link: <a href="https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/history/great-los-angeles-air-raid-terrified-citizenseven-though-no-bombs-were-dropped-180967890/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>radar picked up a blip: an unidentified aerial target 120 miles west of Los Angeles and heading straight for the city. By 2:15 two more r...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: historyanswers.co.uk  
-   Link: [https://www.historyanswers.co.uk/history-of-war/the-battle-of-los-angeles/](https://www.historyanswers.co.uk/history-of-war/the-battle-of-los-angeles/)  
+   Link: <a href="https://www.historyanswers.co.uk/history-of-war/the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyanswers.co.uk/history-of-war/the-battle-of-los-angeles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All About HistoryThe Battle of Los Angeles | All About History24 Feb 2015 — On the evening of the 24th, air raid sirens were sounded and...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: encyclopedia.densho.org  
    Title: Battle of Los Angeles  
-   Link: [https://encyclopedia.densho.org/Battle_of_Los_Angeles/](https://encyclopedia.densho.org/Battle_of_Los_Angeles/)  
+   Link: <a href="https://encyclopedia.densho.org/Battle_of_Los_Angeles/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.densho.org/Battle_of_Los_Angeles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Los Angeles23 Jun 2024 — Ironic name given a false alarm in Los Angeles in the early morning of February 25, 1942. A warning by the ar...</p></details>
    Published: February 25, 1942  
 
 19. <a id="endnote-19"></a>
    Source: ww2today.com  
    Title: The Battle of Los Angeles  
-   Link: [https://www.ww2today.com/p/the-battle-of-los-angeles](https://www.ww2today.com/p/the-battle-of-los-angeles)  
+   Link: <a href="https://www.ww2today.com/p/the-battle-of-los-angeles" target="_blank" rel="noopener noreferrer nofollow">https://www.ww2today.com/p/the-battle-of-los-angeles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by Martin Cherrett24 Feb 2022 — 25th February 1942: US Army anti-aircraft batteries open a barrage of fire at possible Japanese planes be...</p></details>
    Published: February 1942  
 
 20. <a id="endnote-20"></a>
    Source: tv.apple.com  
-   Link: [https://tv.apple.com/us/episode/the-battle-of-los-angeles/umc.cmc.1saur54gga3bu3uzd3vknnz91?showId=umc.cmc.dty6d53ytbez51lt6rbsslv2](https://tv.apple.com/us/episode/the-battle-of-los-angeles/umc.cmc.1saur54gga3bu3uzd3vknnz91?showId=umc.cmc.dty6d53ytbez51lt6rbsslv2)  
+   Link: <a href="https://tv.apple.com/us/episode/the-battle-of-los-angeles/umc.cmc.1saur54gga3bu3uzd3vknnz91?showId=umc.cmc.dty6d53ytbez51lt6rbsslv2" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/episode/the-battle-of-los-angeles/umc.cmc.1saur54gga3bu3uzd3vknnz91?showId=umc.cmc.dty6d53ytbez51lt6rbsslv2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Battle of Los Angeles - History&#x27;s Greatest Mysteries18 Mar 2024 — Air raid sirens send citizens scrambling, as troops fire more than 1400...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: blogs.shu.edu  
-   Link: [https://blogs.shu.edu/ww2-0/1942/02/26/los-angeles-blackout-shrouded-in-confusion/](https://blogs.shu.edu/ww2-0/1942/02/26/los-angeles-blackout-shrouded-in-confusion/)  
+   Link: <a href="https://blogs.shu.edu/ww2-0/1942/02/26/los-angeles-blackout-shrouded-in-confusion/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.shu.edu/ww2-0/1942/02/26/los-angeles-blackout-shrouded-in-confusion/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TLTC BlogsLos Angeles Blackout Shrouded in Confusion | World War 2.0Spotlights focused on the unidentified object, and upward of 1,400 ro...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: carriagemuseum.org  
-   Link: [https://carriagemuseum.org/articles/the-japanese-bombardment-of-ellwood/](https://carriagemuseum.org/articles/the-japanese-bombardment-of-ellwood/)  
+   Link: <a href="https://carriagemuseum.org/articles/the-japanese-bombardment-of-ellwood/" target="_blank" rel="noopener noreferrer nofollow">https://carriagemuseum.org/articles/the-japanese-bombardment-of-ellwood/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Japanese Bombardment of EllwoodThe Japanese Bombardment of Ellwood. It was a pleasant evening on the coast of Goleta, it was February...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/curatoractual/posts/war-nerves-when-analyzing-the-great-los-angeles-air-raid-1941-in-1983-the-us-off/618200920925309/](https://www.facebook.com/curatoractual/posts/war-nerves-when-analyzing-the-great-los-angeles-air-raid-1941-in-1983-the-us-off/618200920925309/)  
+   Link: <a href="https://www.facebook.com/curatoractual/posts/war-nerves-when-analyzing-the-great-los-angeles-air-raid-1941-in-1983-the-us-off/618200920925309/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/curatoractual/posts/war-nerves-when-analyzing-the-great-los-angeles-air-raid-1941-in-1983-the-us-off/618200920925309/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WAR NERVES???? When analyzing the Great Los...By the time a final “all-clear” order was given later that morning, Los Angeles&#x27; artillery...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: warfarehistorynetwork.com  
-   Link: [https://warfarehistorynetwork.com/article/wwii-battles-the-battle-of-los-angeles/](https://warfarehistorynetwork.com/article/wwii-battles-the-battle-of-los-angeles/)  
+   Link: <a href="https://warfarehistorynetwork.com/article/wwii-battles-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow">https://warfarehistorynetwork.com/article/wwii-battles-the-battle-of-los-angeles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The shelling inflicted minimal damage to installations along the shoreline and among a few oil wells, but the primary...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/501072207266207/posts/1603785036994913/](https://www.facebook.com/groups/501072207266207/posts/1603785036994913/)  
+   Link: <a href="https://www.facebook.com/groups/501072207266207/posts/1603785036994913/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/501072207266207/posts/1603785036994913/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 23, 1942, caused minimal damage and no injuries, despite the sub commander&#x27;s claim of...Read more...</p></details>
    Published: February 23, 1942  
 
 26. <a id="endnote-26"></a>
    Source: celebratecalifornia.library.ca.gov  
    Title: february 24 1942 the battle of los angeles 2  
-   Link: [https://celebratecalifornia.library.ca.gov/february-24-1942-the-battle-of-los-angeles-2/](https://celebratecalifornia.library.ca.gov/february-24-1942-the-battle-of-los-angeles-2/)  
+   Link: <a href="https://celebratecalifornia.library.ca.gov/february-24-1942-the-battle-of-los-angeles-2/" target="_blank" rel="noopener noreferrer nofollow">https://celebratecalifornia.library.ca.gov/february-24-1942-the-battle-of-los-angeles-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Battle of Los AngelesRadars tracked the approaching target to within a few miles of the coast, and at 2:21 am the regional controller ord...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: discoveryuk.com  
    Title: ww2 raid or alien incursion the battle of los angeles examined  
-   Link: [https://www.discoveryuk.com/mysteries/ww2-raid-or-alien-incursion-the-battle-of-los-angeles-examined/](https://www.discoveryuk.com/mysteries/ww2-raid-or-alien-incursion-the-battle-of-los-angeles-examined/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/ww2-raid-or-alien-incursion-the-battle-of-los-angeles-examined/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/ww2-raid-or-alien-incursion-the-battle-of-los-angeles-examined/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WW2 Raid or Alien Incursion? The Battle of Los Angeles...26 Mar 2026 — The1942 Battle of Los Angeles is one of the most bizarre UFO stor...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: veteransbreakfastclub.org  
-   Link: [https://veteransbreakfastclub.org/on-this-day-in-1942-the-battle-of-los-angeles/](https://veteransbreakfastclub.org/on-this-day-in-1942-the-battle-of-los-angeles/)  
+   Link: <a href="https://veteransbreakfastclub.org/on-this-day-in-1942-the-battle-of-los-angeles/" target="_blank" rel="noopener noreferrer nofollow">https://veteransbreakfastclub.org/on-this-day-in-1942-the-battle-of-los-angeles/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On This Day in 1942: &quot;The Battle of Los Angeles&quot;5 Oct 2025 — A Japanese submarine had just shelled the Ellwood Oil Fields in Santa Barbara...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: latimes.com  
    Title: la me fw archives 1942 battle la 20170221 story  
-   Link: [https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html](https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html)  
+   Link: <a href="https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latimes.com/visuals/framework/la-me-fw-archives-1942-battle-la-20170221-story.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Los Angeles...23 Feb 2017 — By February 1942, air-raid sirens, searchlights and anti-aircraft guns filled Los Angeles. Blackouts and dri...</p></details>
    Published: February 1942  
 
 30. <a id="endnote-30"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wrhstol/posts/hysteria-over-hollywood-the-strange-story-of-the-battle-of-los-angeles/1055399843288241/](https://www.facebook.com/wrhstol/posts/hysteria-over-hollywood-the-strange-story-of-the-battle-of-los-angeles/1055399843288241/)  
+   Link: <a href="https://www.facebook.com/wrhstol/posts/hysteria-over-hollywood-the-strange-story-of-the-battle-of-los-angeles/1055399843288241/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wrhstol/posts/hysteria-over-hollywood-the-strange-story-of-the-battle-of-los-angeles/1055399843288241/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s Angeles, California with artillery fire from...Read more...</p></details>

@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Lubbock Lights
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
-date: '2026-06-08 23:40:56 '
+date: '2026-06-11 13:23:38 '
 header:
   og_image: /assets/images/Loch_Raven_Dam_incid_b0e5b6-overview-social.jpg
   preview_image: /assets/images/Loch_Raven_Dam_incid_b0e5b6-overview.webp
@@ -759,7 +759,6 @@ image: /assets/images/Loch_Raven_Dam_incid_b0e5b6-overview-social.jpg
 ## What the witnesses said happened
 
 Small and Cohen’s account places the episode on a dark road near Loch Raven Dam, by a bridge over the reservoir north of Baltimore. In the Air Force narrative, they rounded a curve or came over a hill and saw what looked like a large, flat, egg-shaped object hanging above the bridge structure. The object was described as luminous or fluorescent, with estimates in the range of 75 to 100 feet long in one early report and 100 to 150 feet above the bridge in later narrative form. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/docs/581026lochravendam_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">581026lochravendam docs1</span><span class="citation-popover-snippet">581026lochravendam docs1</span></span></span>
-
 
 <img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-overview.webp" | relative_url }}" alt="Overview image for Loch Raven Dam incident 1958" loading="eager" decoding="sync" fetchpriority="high">
 The most memorable part of the story is the alleged electromagnetic effect. As the car came closer — the file gives roughly 75 or 80 feet from the bridge — the car reportedly went completely dead: engine, dash lights and headlights failed, and attempts to restart produced no response. Cohen’s transcribed statement says the two men got out, put the car between themselves and the object, and watched for about 30 to 45 seconds. Then came a brilliant white flash, heat on their faces, and a loud sound that Cohen compared to a dull explosion while Small heard it as a thunderclap. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-title">UFO Report</span><span class="citation-popover-snippet">UFO Report</span></span></span>
@@ -772,53 +771,164 @@ The case is often retold as occurring at 10:30 p.m., but the documents are not p
 
 A cautious timeline looks like this:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **Evening of 26 October 1958:** Small and Cohen drive near Loch Raven Dam and see the object near a bridge.
 2. **During the encounter:** the car reportedly fails, the object hovers, flashes, makes a loud sound and rises vertically.
 3. **About 15 minutes later:** the witnesses reach a phone booth and attempt to report the incident.
 4. **Early 27 October:** Baltimore County police receive the report and pass information to military channels.
+5. **Late October to November 1958:** Air Force and Office of Special Investigations material is compiled, including witness interviews and an Air Intelligence Information Report. [NICAP](https://www.nicap.org/books/coufo/partI/chI.htm)
+
+</div>
+
+The discrepancy matters because UFO cases often become stronger or weaker depending on timing. Here, the broad sequence is well preserved, but the exact clock time should be treated as approximate rather than settled.
+
+<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-1-dark.svg" | relative_url }}" alt="Loch Raven Dam incident 1958 illustration 1" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What Project Blue Book actually recorded
+
+Project Blue Book was the U.S. Air Force programme that collected and evaluated UFO reports from 1947 to 1969. The National Archives notes that its records include administrative files, chronological case files and Office of Special Investigations material; the Air Force later reported 12,618 sightings in total, of which 701 remained “unidentified”. [National Archives](#endnote-2 "Endnote 2")
+
+The Loch Raven case appears in Blue Book material as case BBU 6148 and on a Project 10073 record card. That card summarises the report as a large, flat, egg-shaped object hovering over a bridge; it notes that the car’s lights and motor went off as the witnesses approached, that there was a brilliant flash and loud noise as the object rose vertically, and that the sources claimed burning sensations on their faces. The conclusion box marks the case as “unidentified” or “unknown pending further investigation”, depending on the document stage. [NICAP](https://www.nicap.org/docs/581026lochravendam_docs1.pdf)
+
+The more detailed Air Force narrative is careful rather than flamboyant. It says the case was “extensively investigated”, that no valid conclusion could be reached about the nature of the object or phenomenon, and that the available evidence did not indicate a threat to national security. That last clause is important: “unidentified” in Blue Book files did not mean “extraterrestrial”; it meant the investigators did not close the case with a conventional identification. [NICAP](https://www.nicap.org/581026lochravendam_dir.htm)
+
+## The strongest points in the case
+
+The Loch Raven report is stronger than a casual “light in the sky” story because it contains several features investigators tend to value: named witnesses, a quick report, police contact, a hospital visit, and an official file with interview material. The OSI report says a Baltimore County police corporal stated that Small and Cohen had not been drinking and appeared very frightened. That is not proof of accuracy, but it does help rule out some simple dismissals. [NICAP](https://www.nicap.org/reports/581026lochravendam_report3.htm)
+
+The car failure is the most important evidential claim. If a vehicle’s electrical system really stopped in proximity to an unknown object and then restarted after it departed, that would be more significant than a distant visual sighting. The difficulty is that the file records testimony about the failure, not a conclusive mechanical examination showing an external cause. In evidential terms, it is a reported physical effect rather than verified physical evidence.
+
+The reported heat or burning sensation is similar. The file says the men went to St. Joseph’s Hospital in Baltimore and were examined after experiencing mild burning sensations on their faces. Later local reporting says the hospital examination was cursory and that Small described redness noticed by others. This supports the fact that the men sought medical attention, but it does not establish a measured burn mechanism, radiation exposure, or any lasting injury. [NICAP](https://www.nicap.org/reports/581026lochravendam_report2.htm)
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1YVFmNTRdb8" title="Exploring Maryland&#x27;s Weird Folklore (Volume 1): Myths and Legends of the United States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1YVFmNTRdb8" target="_blank" rel="noopener noreferrer">Exploring Maryland&#x27;s Weird Folklore (Volume 1): Myths and Legends of the United States</a></p><p class="youtube-embed-meta">Channel: T’s Storytime &middot; Views: 256.6K &middot; Uploaded: March 2025 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1YVFmNTRdb8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1YVFmNTRdb8">Open on YouTube</a></p></div></div></div>
+
+## The weakest points and unresolved gaps
+
+The biggest weakness is the absence of recoverable hard evidence. There were no photographs of the object, no instrument record, no radar confirmation in the cited file, no preserved medical test result demonstrating an unusual exposure, and no physical trace that can now be independently re-examined. The case rests mainly on testimony and official handling of that testimony.
+
+There are also internal uncertainties. The object’s size and altitude are estimates made at night under stress. The witnesses were close to a bridge and road landscape, but judging the size and distance of a luminous object in darkness is notoriously difficult. The timing varies between 10:30 p.m. and “around midnight”, and descriptions of the exact observation point and distance shift depending on which report stage is being quoted. [NICAP](https://www.nicap.org/books/coufo/partI/chI.htm)
+
+The “electromagnetic” label is also easy to overstate. UFO literature often treats Loch Raven as an electromagnetic-interference case, but the file does not prove an electromagnetic mechanism. It records that a car stopped and lights failed near the reported object. A genuine vehicle fault, driver error under stress, coincidence, or later narrative compression cannot be excluded from the documents alone.
+
+<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-3-dark.svg" | relative_url }}" alt="Loch Raven Dam incident 1958 illustration 3" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Conventional explanations: what fits and what does not
+
+A meteor or bolide can explain a bright flash, a loud sound in some circumstances, and a rapid disappearance, but it fits the Loch Raven account poorly if the hovering phase, close proximity, vertical ascent, car shutdown and heat sensation are accepted as described. Meteors do not hover over bridges for 30 to 60 seconds and then rise vertically from a near-ground position.
+
+Aircraft or helicopter explanations also struggle with the reported silence before departure, the egg-like luminous shape, the vertical rise and the absence of ordinary navigation-light detail. However, the witness descriptions were made at night, and an unfamiliar aircraft, searchlight effect, or misperceived object cannot be ruled out purely from the surviving file.
+
+A hoax is possible in principle, as with almost any witness case, but the file does not read like an obvious publicity stunt. The police contact was prompt, the witnesses reportedly appeared frightened, and later commentary notes that they did not seem eager for publicity. Still, sincerity and accuracy are separate questions: sincere witnesses can misperceive events, and frightening experiences can become more coherent in retelling than they were in the moment. [Reddit](https://www.reddit.com/r/UFOs/comments/9qgvqo/no_place_to_run_loch_raven_reservoirs_forgotten/)
+
+A mixed explanation may be the most cautious sceptical position: a real unusual light or sound, a coincidental vehicle failure, and frightened interpretation under Cold War-era UFO expectations. That does not “solve” the case, but it shows why “unidentified” should not be inflated into a stronger conclusion than the evidence can carry.
+
+<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-2-dark.svg" | relative_url }}" alt="Loch Raven Dam incident 1958 illustration 2" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The Cold War setting helps explain the response
+
+The Loch Raven report occurred in a period when American UFO reports were filtered through Cold War air-defence concerns. Project Blue Book was established to collect and evaluate reports partly because officials worried about unknown aircraft, public alarm and possible national-security implications. The National Archives describes Blue Book as the third Air Force UFO study, after Project Sign and Project Grudge, and notes that witnesses were asked to record details such as location, movement, sound and drawings. [Pieces of History](#endnote-6 "Endnote 6")
+
+That context explains two things about the Loch Raven file. First, the response was more bureaucratic and defence-oriented than the modern reader might expect: the question was not “Was this alien?” but “Can this be identified, and does it represent a threat?” Second, the witnesses’ first attempted report to the Ground Observer Corps makes historical sense. The Ground Observer Corps was part of the civilian skywatching culture of the period, when volunteers watched for aircraft threats before modern radar coverage made such networks obsolete. [Reddit](https://www.reddit.com/r/baltimore/comments/1k9v1d/til_loch_raven_reservoir_was_subject_to_a_ufo/)
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RXXKJ6SqjY4" title="1958: Interviews at UFO Truther Rally" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RXXKJ6SqjY4" target="_blank" rel="noopener noreferrer">1958: Interviews at UFO Truther Rally</a></p><p class="youtube-embed-meta">Channel: Frontline by ITN &middot; Views: 4.8K &middot; Uploaded: August 2022 &middot; Length: 1 minute 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RXXKJ6SqjY4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RXXKJ6SqjY4">Open on YouTube</a></p></div></div></div>
+
+## How later UFO writers treated the case
+
+Civilian UFO organisations and later case catalogues preserved Loch Raven largely because it ticked several boxes that ufologists considered important: close range, multiple witnesses, vehicle interference, physiological effects and an official “unidentified” outcome. NICAP’s case directory lists it as an electromagnetic case and summarises the account as a large, flat egg-shaped object 100 to 150 feet above the bridge, affecting the car’s electrical system and causing a burning sensation before rising vertically. [NICAP](https://www.nicap.org/books/coufo/partI/chI.htm)
+
+Local journalism has also kept the story alive. Baltimore Magazine described it as one of the most widely publicised Maryland sightings of the 1950s and identified Small as a 27-year-old collection manager and Cohen as a 24-year-old Sears supervisor. The same report quoted Cohen’s restrained formulation: he was not saying it was a flying saucer, but he believed there were “such things now as UFOs”. [Baltimore Magazine](#endnote-14 "Endnote 14")
+
+That restraint is one reason the case remains more interesting than many folklore-like UFO stories. The witnesses’ reported position was not a fully developed alien-encounter claim. It was closer to: we saw an object, it affected us and the car, and we do not know what it was.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YsSYpOc777U" title="The 1958 Loch Raven Dam UFO Sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YsSYpOc777U" target="_blank" rel="noopener noreferrer">The 1958 Loch Raven Dam UFO Sighting</a></p><p class="youtube-embed-meta">Channel: Street of Silence &middot; Views: 2.2K &middot; Uploaded: January 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YsSYpOc777U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YsSYpOc777U">Open on YouTube</a></p></div></div></div>
+
+## Bottom line: unidentified, not proven extraordinary
+
+The fairest assessment is that the Loch Raven Dam incident remains an unresolved historical UFO report with unusually good documentation for a local sighting, but insufficient evidence to establish an extraordinary origin. The Air Force did not identify the object; it also did not find evidence of a national-security threat or evidence that unidentified cases represented extraterrestrial vehicles in the broader Blue Book programme. [NICAP](https://www.nicap.org/books/coufo/partI/chI.htm)
+
+Its evidential value rests on the credibility and consistency of Small and Cohen’s testimony, the prompt involvement of police and Air Force channels, and the unusual combination of alleged vehicle failure and heat sensation. Its limitations are just as important: no photograph of the object, no conclusive medical or mechanical record, no radar confirmation, and no recoverable physical trace.
+
+For a case dossier, Loch Raven is best treated as a strong witness-and-document case rather than a solved mystery. It is neither a throwaway anecdote nor proof of alien visitation. It is a well-preserved example of the kind of close-range UFO report that Blue Book sometimes could not close, and that later UFO researchers continued to cite precisely because its most interesting claims remain documented but unresolved.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened at Loch Raven Dam in 1958?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened at Loch Raven Dam in 1958?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Details the incident and Ruppelt&#x27;s investigative notes that form the basis for the Blue Book classification.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the Loch Raven incident, contrasting physical trace claims against the official military assessment of an unidentified object.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches methodology for evaluating cases that sit between dramatic eyewitness testimony and forensic &#x27;unidentified&#x27; verdicts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Documents how intelligence units handled 1950s cases that were eventually deemed inconclusive.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -855,15 +965,15 @@ A cautious timeline looks like this:
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -871,15 +981,15 @@ A cautious timeline looks like this:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -887,15 +997,15 @@ A cautious timeline looks like this:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -903,15 +1013,15 @@ A cautious timeline looks like this:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -919,7 +1029,7 @@ A cautious timeline looks like this:
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="loch-raven-dam-incident-1958-what-really-happened-at-loch-raven-dam-in-1958-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-really-happened-at-loch-raven-dam-in-1958-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1130,202 +1240,125 @@ A cautious timeline looks like this:
 </script>
 </section>
 
-5. **Late October to November 1958:** Air Force and Office of Special Investigations material is compiled, including witness interviews and an Air Intelligence Information Report. [NICAP](https://www.nicap.org/books/coufo/partI/chI.htm)
-
-</div>
-
-The discrepancy matters because UFO cases often become stronger or weaker depending on timing. Here, the broad sequence is well preserved, but the exact clock time should be treated as approximate rather than settled.
-
-
-<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-1-dark.svg" | relative_url }}" alt="Loch Raven Dam incident 1958 illustration 1" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## What Project Blue Book actually recorded
-
-Project Blue Book was the U.S. Air Force programme that collected and evaluated UFO reports from 1947 to 1969. The National Archives notes that its records include administrative files, chronological case files and Office of Special Investigations material; the Air Force later reported 12,618 sightings in total, of which 701 remained “unidentified”. [National Archives](#endnote-2 "Endnote 2")
-
-The Loch Raven case appears in Blue Book material as case BBU 6148 and on a Project 10073 record card. That card summarises the report as a large, flat, egg-shaped object hovering over a bridge; it notes that the car’s lights and motor went off as the witnesses approached, that there was a brilliant flash and loud noise as the object rose vertically, and that the sources claimed burning sensations on their faces. The conclusion box marks the case as “unidentified” or “unknown pending further investigation”, depending on the document stage. [NICAP](https://www.nicap.org/docs/581026lochravendam_docs1.pdf)
-
-The more detailed Air Force narrative is careful rather than flamboyant. It says the case was “extensively investigated”, that no valid conclusion could be reached about the nature of the object or phenomenon, and that the available evidence did not indicate a threat to national security. That last clause is important: “unidentified” in Blue Book files did not mean “extraterrestrial”; it meant the investigators did not close the case with a conventional identification. [NICAP](https://www.nicap.org/581026lochravendam_dir.htm)
-
-## The strongest points in the case
-
-The Loch Raven report is stronger than a casual “light in the sky” story because it contains several features investigators tend to value: named witnesses, a quick report, police contact, a hospital visit, and an official file with interview material. The OSI report says a Baltimore County police corporal stated that Small and Cohen had not been drinking and appeared very frightened. That is not proof of accuracy, but it does help rule out some simple dismissals. [NICAP](https://www.nicap.org/reports/581026lochravendam_report3.htm)
-
-The car failure is the most important evidential claim. If a vehicle’s electrical system really stopped in proximity to an unknown object and then restarted after it departed, that would be more significant than a distant visual sighting. The difficulty is that the file records testimony about the failure, not a conclusive mechanical examination showing an external cause. In evidential terms, it is a reported physical effect rather than verified physical evidence.
-
-The reported heat or burning sensation is similar. The file says the men went to St. Joseph’s Hospital in Baltimore and were examined after experiencing mild burning sensations on their faces. Later local reporting says the hospital examination was cursory and that Small described redness noticed by others. This supports the fact that the men sought medical attention, but it does not establish a measured burn mechanism, radiation exposure, or any lasting injury. [NICAP](https://www.nicap.org/reports/581026lochravendam_report2.htm)
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1YVFmNTRdb8" title="Exploring Maryland&#x27;s Weird Folklore (Volume 1): Myths and Legends of the United States" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1YVFmNTRdb8" target="_blank" rel="noopener noreferrer">Exploring Maryland&#x27;s Weird Folklore (Volume 1): Myths and Legends of the United States</a></p><p class="youtube-embed-meta">Channel: T’s Storytime &middot; Views: 256.6K &middot; Uploaded: March 2025 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1YVFmNTRdb8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1YVFmNTRdb8">Open on YouTube</a></p></div></div></div>
-
-## The weakest points and unresolved gaps
-
-The biggest weakness is the absence of recoverable hard evidence. There were no photographs of the object, no instrument record, no radar confirmation in the cited file, no preserved medical test result demonstrating an unusual exposure, and no physical trace that can now be independently re-examined. The case rests mainly on testimony and official handling of that testimony.
-
-There are also internal uncertainties. The object’s size and altitude are estimates made at night under stress. The witnesses were close to a bridge and road landscape, but judging the size and distance of a luminous object in darkness is notoriously difficult. The timing varies between 10:30 p.m. and “around midnight”, and descriptions of the exact observation point and distance shift depending on which report stage is being quoted. [NICAP](https://www.nicap.org/books/coufo/partI/chI.htm)
-
-The “electromagnetic” label is also easy to overstate. UFO literature often treats Loch Raven as an electromagnetic-interference case, but the file does not prove an electromagnetic mechanism. It records that a car stopped and lights failed near the reported object. A genuine vehicle fault, driver error under stress, coincidence, or later narrative compression cannot be excluded from the documents alone.
-
-
-<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-3-dark.svg" | relative_url }}" alt="Loch Raven Dam incident 1958 illustration 3" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Conventional explanations: what fits and what does not
-
-A meteor or bolide can explain a bright flash, a loud sound in some circumstances, and a rapid disappearance, but it fits the Loch Raven account poorly if the hovering phase, close proximity, vertical ascent, car shutdown and heat sensation are accepted as described. Meteors do not hover over bridges for 30 to 60 seconds and then rise vertically from a near-ground position.
-
-Aircraft or helicopter explanations also struggle with the reported silence before departure, the egg-like luminous shape, the vertical rise and the absence of ordinary navigation-light detail. However, the witness descriptions were made at night, and an unfamiliar aircraft, searchlight effect, or misperceived object cannot be ruled out purely from the surviving file.
-
-A hoax is possible in principle, as with almost any witness case, but the file does not read like an obvious publicity stunt. The police contact was prompt, the witnesses reportedly appeared frightened, and later commentary notes that they did not seem eager for publicity. Still, sincerity and accuracy are separate questions: sincere witnesses can misperceive events, and frightening experiences can become more coherent in retelling than they were in the moment. [Reddit](https://www.reddit.com/r/UFOs/comments/9qgvqo/no_place_to_run_loch_raven_reservoirs_forgotten/)
-
-A mixed explanation may be the most cautious sceptical position: a real unusual light or sound, a coincidental vehicle failure, and frightened interpretation under Cold War-era UFO expectations. That does not “solve” the case, but it shows why “unidentified” should not be inflated into a stronger conclusion than the evidence can carry.
-
-
-<img src="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-2-dark.svg" | relative_url }}" alt="Loch Raven Dam incident 1958 illustration 2" data-theme-src-dark="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Loch_Raven_Dam_incid_b0e5b6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## The Cold War setting helps explain the response
-
-The Loch Raven report occurred in a period when American UFO reports were filtered through Cold War air-defence concerns. Project Blue Book was established to collect and evaluate reports partly because officials worried about unknown aircraft, public alarm and possible national-security implications. The National Archives describes Blue Book as the third Air Force UFO study, after Project Sign and Project Grudge, and notes that witnesses were asked to record details such as location, movement, sound and drawings. [Pieces of History](#endnote-6 "Endnote 6")
-
-That context explains two things about the Loch Raven file. First, the response was more bureaucratic and defence-oriented than the modern reader might expect: the question was not “Was this alien?” but “Can this be identified, and does it represent a threat?” Second, the witnesses’ first attempted report to the Ground Observer Corps makes historical sense. The Ground Observer Corps was part of the civilian skywatching culture of the period, when volunteers watched for aircraft threats before modern radar coverage made such networks obsolete. [Reddit](https://www.reddit.com/r/baltimore/comments/1k9v1d/til_loch_raven_reservoir_was_subject_to_a_ufo/)
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EZ8uLaWP0qo" title="BD-0120 Lt Col Robert J Friend Project Blue Book" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EZ8uLaWP0qo" target="_blank" rel="noopener noreferrer">BD-0120 Lt Col Robert J Friend Project Blue Book</a></p><p class="youtube-embed-meta">Channel: San Diego Air and Space Museum Archives &middot; Views: 20.1K &middot; Uploaded: December 2016 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EZ8uLaWP0qo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EZ8uLaWP0qo">Open on YouTube</a></p></div></div></div>
-
-## How later UFO writers treated the case
-
-Civilian UFO organisations and later case catalogues preserved Loch Raven largely because it ticked several boxes that ufologists considered important: close range, multiple witnesses, vehicle interference, physiological effects and an official “unidentified” outcome. NICAP’s case directory lists it as an electromagnetic case and summarises the account as a large, flat egg-shaped object 100 to 150 feet above the bridge, affecting the car’s electrical system and causing a burning sensation before rising vertically. [NICAP](https://www.nicap.org/books/coufo/partI/chI.htm)
-
-Local journalism has also kept the story alive. Baltimore Magazine described it as one of the most widely publicised Maryland sightings of the 1950s and identified Small as a 27-year-old collection manager and Cohen as a 24-year-old Sears supervisor. The same report quoted Cohen’s restrained formulation: he was not saying it was a flying saucer, but he believed there were “such things now as UFOs”. [Baltimore Magazine](#endnote-14 "Endnote 14")
-
-That restraint is one reason the case remains more interesting than many folklore-like UFO stories. The witnesses’ reported position was not a fully developed alien-encounter claim. It was closer to: we saw an object, it affected us and the car, and we do not know what it was.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YsSYpOc777U" title="The 1958 Loch Raven Dam UFO Sighting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YsSYpOc777U" target="_blank" rel="noopener noreferrer">The 1958 Loch Raven Dam UFO Sighting</a></p><p class="youtube-embed-meta">Channel: Street of Silence &middot; Views: 2.2K &middot; Uploaded: January 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YsSYpOc777U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YsSYpOc777U">Open on YouTube</a></p></div></div></div>
-
-## Bottom line: unidentified, not proven extraordinary
-
-The fairest assessment is that the Loch Raven Dam incident remains an unresolved historical UFO report with unusually good documentation for a local sighting, but insufficient evidence to establish an extraordinary origin. The Air Force did not identify the object; it also did not find evidence of a national-security threat or evidence that unidentified cases represented extraterrestrial vehicles in the broader Blue Book programme. [NICAP](https://www.nicap.org/books/coufo/partI/chI.htm)
-
-Its evidential value rests on the credibility and consistency of Small and Cohen’s testimony, the prompt involvement of police and Air Force channels, and the unusual combination of alleged vehicle failure and heat sensation. Its limitations are just as important: no photograph of the object, no conclusive medical or mechanical record, no radar confirmation, and no recoverable physical trace.
-
-For a case dossier, Loch Raven is best treated as a strong witness-and-document case rather than a solved mystery. It is neither a throwaway anecdote nor proof of alien visitation. It is a well-preserved example of the kind of close-range UFO report that Blue Book sometimes could not close, and that later UFO researchers continued to cite precisely because its most interesting claims remain documented but unresolved.
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: nicap.org  
    Title: 581026lochravendam docs1  
-   Link: [https://www.nicap.org/docs/581026lochravendam_docs1.pdf](https://www.nicap.org/docs/581026lochravendam_docs1.pdf)  
+   Link: <a href="https://www.nicap.org/docs/581026lochravendam_docs1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/docs/581026lochravendam_docs1.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 3. <a id="endnote-3"></a>
    Source: af.mil  
    Title: Air Force  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+   Link: <a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue Book &gt; Air Force &gt; Fact Sheet Display...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nicap.org  
    Title: UFO Report  
-   Link: [https://www.nicap.org/581026lochravendam_dir.htm](https://www.nicap.org/581026lochravendam_dir.htm)  
+   Link: <a href="https://www.nicap.org/581026lochravendam_dir.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/581026lochravendam_dir.htm</a>  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: 'No place to run': Loch Raven Reservoir's forgotten UFO, 60 years later: r/UFOs  
-   Link: [https://www.reddit.com/r/UFOs/comments/9qgvqo/no_place_to_run_loch_raven_reservoirs_forgotten/](https://www.reddit.com/r/UFOs/comments/9qgvqo/no_place_to_run_loch_raven_reservoirs_forgotten/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/9qgvqo/no_place_to_run_loch_raven_reservoirs_forgotten/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/9qgvqo/no_place_to_run_loch_raven_reservoirs_forgotten/</a>  
 
 6. <a id="endnote-6"></a>
    Source: prologue.blogs.archives.gov  
-   Link: [https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/](https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/)  
+   Link: <a href="https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://prologue.blogs.archives.gov/2019/12/19/saucers-over-washington-the-history-of-project-blue-book/</a>  
 
 7. <a id="endnote-7"></a>
    Source: nicap.org  
    Title: 581026lochravendam report3  
-   Link: [https://www.nicap.org/reports/581026lochravendam_report3.htm](https://www.nicap.org/reports/581026lochravendam_report3.htm)  
+   Link: <a href="https://www.nicap.org/reports/581026lochravendam_report3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/581026lochravendam_report3.htm</a>  
 
 8. <a id="endnote-8"></a>
    Source: nicap.org  
    Title: UF O Report Loch Raven Dam E-M Case  
-   Link: [https://www.nicap.org/reports/581026lochravendam_report2.htm](https://www.nicap.org/reports/581026lochravendam_report2.htm)  
+   Link: <a href="https://www.nicap.org/reports/581026lochravendam_report2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/581026lochravendam_report2.htm</a>  
 
 9. <a id="endnote-9"></a>
    Source: nicap.org  
    Title: Challenge of UFOs  
-   Link: [https://www.nicap.org/books/coufo/partI/chI.htm](https://www.nicap.org/books/coufo/partI/chI.htm)  
+   Link: <a href="https://www.nicap.org/books/coufo/partI/chI.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/books/coufo/partI/chI.htm</a>  
 
 10. <a id="endnote-10"></a>
    Source: msa.maryland.gov  
-   Link: [https://msa.maryland.gov/megafile/msa/speccol/sc5300/sc5339/000097/000000/000028/restricted/msa_sc5458_51_4170.pdf](https://msa.maryland.gov/megafile/msa/speccol/sc5300/sc5339/000097/000000/000028/restricted/msa_sc5458_51_4170.pdf)  
+   Link: <a href="https://msa.maryland.gov/megafile/msa/speccol/sc5300/sc5339/000097/000000/000028/restricted/msa_sc5458_51_4170.pdf" target="_blank" rel="noopener noreferrer nofollow">https://msa.maryland.gov/megafile/msa/speccol/sc5300/sc5339/000097/000000/000028/restricted/msa_sc5458_51_4170.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/foia/ufos.html](https://www.archives.gov/foia/ufos.html)  
+   Link: <a href="https://www.archives.gov/foia/ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/foia/ufos.html</a>  
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: til loch raven reservoir was subject to a ufo  
-   Link: [https://www.reddit.com/r/baltimore/comments/1k9v1d/til_loch_raven_reservoir_was_subject_to_a_ufo/](https://www.reddit.com/r/baltimore/comments/1k9v1d/til_loch_raven_reservoir_was_subject_to_a_ufo/)  
+   Link: <a href="https://www.reddit.com/r/baltimore/comments/1k9v1d/til_loch_raven_reservoir_was_subject_to_a_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/baltimore/comments/1k9v1d/til_loch_raven_reservoir_was_subject_to_a_ufo/</a>  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/BaltimoreCounty/comments/1ohjvkw/the_enigma_of_the_102658_loch_raven_reservoir_ufo/](https://www.reddit.com/r/BaltimoreCounty/comments/1ohjvkw/the_enigma_of_the_102658_loch_raven_reservoir_ufo/)  
+   Link: <a href="https://www.reddit.com/r/BaltimoreCounty/comments/1ohjvkw/the_enigma_of_the_102658_loch_raven_reservoir_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/BaltimoreCounty/comments/1ohjvkw/the_enigma_of_the_102658_loch_raven_reservoir_ufo/</a>  
 
 14. <a id="endnote-14"></a>
    Source: baltimoremagazine.com  
    Title: ufo sightings in maryland  
-   Link: [https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/](https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/)  
+   Link: <a href="https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/" target="_blank" rel="noopener noreferrer nofollow">https://www.baltimoremagazine.com/section/community/ufo-sightings-in-maryland/</a>  
 
 15. <a id="endnote-15"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=YsSYpOc777U](http://www.youtube.com/watch?v=YsSYpOc777U)  
+   Link: <a href="http://www.youtube.com/watch?v=YsSYpOc777U" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=YsSYpOc777U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Maryland&#x27;s Weird Folklore (Volume 1): Myths and Legends of the United States...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=1YVFmNTRdb8](https://www.youtube.com/watch?v=1YVFmNTRdb8)  
+   Link: <a href="https://www.youtube.com/watch?v=1YVFmNTRdb8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1YVFmNTRdb8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1958: Interviews at UFO Truther Rally...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-6.pdf](https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-6.pdf)  
+   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-03-6.pdf</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/](https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/)  
+   Link: <a href="https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/for-decades-the-existence-of-ufos-was-denied-by-the-us-government-even-after-uni/10157032612491184/</a>  
 
 21. <a id="endnote-21"></a>
    Source: ufoevidence.org  
-   Link: [https://www.ufoevidence.org/cases/case951.htm](https://www.ufoevidence.org/cases/case951.htm)  
+   Link: <a href="https://www.ufoevidence.org/cases/case951.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/cases/case951.htm</a>  
 
 22. <a id="endnote-22"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/178870880/john-spencer-world-atlas-of-ufos](https://www.scribd.com/document/178870880/john-spencer-world-atlas-of-ufos)  
+   Link: <a href="https://www.scribd.com/document/178870880/john-spencer-world-atlas-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/178870880/john-spencer-world-atlas-of-ufos</a>  
 
 23. <a id="endnote-23"></a>
    Source: dokumen.pub  
-   Link: [https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html](https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html)  
+   Link: <a href="https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/the-ufo-experience-evidence-behind-close-encounters-project-blue-book-and-the-search-for-answers-9781590033081-9781633412903-1590033086-q-4845629.html</a>  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/michaelmhughes/posts/assistance-requestedanyone-in-marylandbaltimore-county-know-alvin-cohen-or-phill/10160719916741929/](https://www.facebook.com/michaelmhughes/posts/assistance-requestedanyone-in-marylandbaltimore-county-know-alvin-cohen-or-phill/10160719916741929/)  
+   Link: <a href="https://www.facebook.com/michaelmhughes/posts/assistance-requestedanyone-in-marylandbaltimore-county-know-alvin-cohen-or-phill/10160719916741929/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/michaelmhughes/posts/assistance-requestedanyone-in-marylandbaltimore-county-know-alvin-cohen-or-phill/10160719916741929/</a>  
 
 25. <a id="endnote-25"></a>
    Source: s3.us-west-1.wasabisys.com  
-   Link: [https://s3.us-west-1.wasabisys.com/luminist/OC/FS_1961_02.pdf](https://s3.us-west-1.wasabisys.com/luminist/OC/FS_1961_02.pdf)  
+   Link: <a href="https://s3.us-west-1.wasabisys.com/luminist/OC/FS_1961_02.pdf" target="_blank" rel="noopener noreferrer nofollow">https://s3.us-west-1.wasabisys.com/luminist/OC/FS_1961_02.pdf</a>  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/4195994827165943/posts/9877963965635639/](https://www.facebook.com/groups/4195994827165943/posts/9877963965635639/)  
+   Link: <a href="https://www.facebook.com/groups/4195994827165943/posts/9877963965635639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/4195994827165943/posts/9877963965635639/</a>

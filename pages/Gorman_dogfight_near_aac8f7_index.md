@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /gorman-dogfight-near-aac8f7-index/
 description: Focused pages that expand on Gorman dogfight near Fargo 1948.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Gorman_dogfight_near_aac8f7
 parent_title: Gorman dogfight near Fargo 1948

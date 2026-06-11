@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /kinross-incident-1953/
 nav_short_title: Final Flight
 title: How Did Avenger Red Vanish?
-title_full: How Did Avenger Red Vanish? | Kinross
+title_full: How Did Avenger Red Vanish?
 display_title_short: Final Flight
 display_title: Final Flight
 heading_title: How Did Avenger Red Vanish?
@@ -239,7 +239,7 @@ next_link:
   permalink: /radar-merge/
   short_title: Radar Merge
   heading_title: What Did the Merged Blips Mean?
-date: '2026-06-08 23:28:17 '
+date: '2026-06-11 13:17:13 '
 header:
   og_image: /assets/images/Kinross_incident_195_2ebd01_final_intercept_time_9c3aec-Illustration-1-social.jpg
   preview_image: /assets/images/Kinross_incident_195_2ebd01_final_intercept_time_9c3aec-Illustration-1.webp
@@ -248,8 +248,7 @@ image: /assets/images/Kinross_incident_195_2ebd01_final_intercept_time_9c3aec-Il
 
 ## Introduction
 
-The final flight of Avenger Red lasted barely half an hour, yet it became the defining mystery of the 1953 [Kinross incident]({{ 'kinross-incident-1953/' | relative_url }}). On the evening of 23 November 1953, an F-89C Scorpion interceptor carrying First Lieutenant Felix Moncla Jr and radar observer Second Lieutenant Robert Wilson was scrambled from Kinross Air Force Base to identify an unknown radar target over Lake Superior. Ground radar tracked the jet through a series of radio handoffs, heading changes and altitude adjustments before the aircraft’s radar return appeared to merge with the target. Moments later, Avenger Red vanished from radar and never answered another radio call. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-snippet">The Kinross IncidentThe aircraft was given the callsign “Avenger Red” and it set off on a heading of 300 degrees at 30,000 feet.3 NAPLES...</span></span></span>
-
+The final flight of Avenger Red lasted barely half an hour, yet it became the defining mystery of the 1953 Kinross incident. On the evening of 23 November 1953, an F-89C Scorpion interceptor carrying First Lieutenant Felix Moncla Jr and radar observer Second Lieutenant Robert Wilson was scrambled from Kinross Air Force Base to identify an unknown radar target over Lake Superior. Ground radar tracked the jet through a series of radio handoffs, heading changes and altitude adjustments before the aircraft’s radar return appeared to merge with the target. Moments later, Avenger Red vanished from radar and never answered another radio call. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-snippet">The Kinross IncidentThe aircraft was given the callsign “Avenger Red” and it set off on a heading of 300 degrees at 30,000 feet.3 NAPLES...</span></span></span>
 
 <img src="{{ "/assets/images/Kinross_incident_195_2ebd01_final_intercept_time_9c3aec-Illustration-1-dark.svg" | relative_url }}" alt="Final Flight illustration 1" data-theme-src-dark="{{ "/assets/images/Kinross_incident_195_2ebd01_final_intercept_time_9c3aec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross_incident_195_2ebd01_final_intercept_time_9c3aec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The importance of the timeline is that it narrows the debate. The disappearance did not happen in a complete information vacuum. Controllers recorded approximate times, vectors, altitude changes and communication problems. Those details allow later researchers to compare the official Air Force explanation, mechanical-failure theories and UFO claims against a relatively structured sequence of events. The timeline also shows how much of the mystery depends on interpretation of radar behaviour rather than direct visual evidence.
@@ -264,7 +263,6 @@ At approximately 6:17 pm, radar operators at Calumet Air Force Station, using th
 
 Avenger Red took off from Kinross at roughly 6:22 pm. Ground controllers initially vectored the aircraft on a north-westerly course at high altitude. The official reconstruction states the interceptor climbed to around 30,000 feet. Some later researchers have questioned whether one heading recorded in the report was copied incorrectly, because the geometry of the later radar positions appears more consistent with a slightly different course. That disagreement does not change the overall sequence, but it illustrates how dependent the case is on fragmentary technical records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-snippet">The Kinross IncidentThe aircraft was given the callsign “Avenger Red” and it set off on a heading of 300 degrees at 30,000 feet.3 NAPLES...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CPp9m09F04Q" title="Kinross Incident: Airmen &amp; Jet Go Missing in 1953 After UFO Encounter | Talking Strange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CPp9m09F04Q" target="_blank" rel="noopener noreferrer">Kinross Incident: Airmen &amp; Jet Go Missing in 1953 After UFO Encounter | Talking Strange</a></p><p class="youtube-embed-meta">Channel: Den of Geek &middot; Views: 2.5K &middot; Uploaded: November 2023 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CPp9m09F04Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CPp9m09F04Q">Open on YouTube</a></p></div></div></div>
 
 ## Radio Handoffs And Closing Radar Tracks
@@ -276,7 +274,6 @@ One of the most important features of the final intercept was the poor radio con
 The handoff itself was awkward because signal quality remained weak. By approximately 6:41 pm, PILLOW assumed control with only slightly better reception. Four minutes later, at around 6:45 pm, Moncla reportedly asked whether the mission should be abandoned because of the communication problems. Controllers told him the decision was at his discretion and the intercept continued. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-snippet">The Kinross IncidentThe aircraft was given the callsign “Avenger Red” and it set off on a heading of 300 degrees at 30,000 feet.3 NAPLES...</span></span></span>
 
 This exchange became important in later interpretations of the case. Supporters of ordinary accident explanations argue that poor radio quality was consistent with difficult weather and operational limitations of early Cold War intercept systems. UFO-oriented retellings sometimes present the fading communications as evidence of something anomalous affecting the aircraft. The documented timeline itself supports only the narrower conclusion that communications were unreliable while radar tracking remained comparatively strong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-snippet">The Kinross IncidentThe aircraft was given the callsign “Avenger Red” and it set off on a heading of 300 degrees at 30,000 feet.3 NAPLES...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eBJfENtXRwg" title="Kinross Incident 1953: SPOOKYTOBER 👻🎃🕸🦇👽" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eBJfENtXRwg" target="_blank" rel="noopener noreferrer">Kinross Incident 1953: SPOOKYTOBER 👻🎃🕸🦇👽</a></p><p class="youtube-embed-meta">Channel: saultmuseum &middot; Views: 41 &middot; Uploaded: November 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eBJfENtXRwg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eBJfENtXRwg">Open on YouTube</a></p></div></div></div>
 
@@ -290,7 +287,6 @@ At 6:51 pm, controllers directed another course adjustment, this time toward app
 
 Controllers then issued additional intercept guidance, warning that the target was moving left to right and that another pass could be attempted if visual contact failed. No acknowledgement came back. This was effectively the final confirmed communication from Avenger Red. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-snippet">The Kinross IncidentThe aircraft was given the callsign “Avenger Red” and it set off on a heading of 300 degrees at 30,000 feet.3 NAPLES...</span></span></span>
 
-
 <img src="{{ "/assets/images/Kinross_incident_195_2ebd01_final_intercept_time_9c3aec-Illustration-2-dark.svg" | relative_url }}" alt="Final Flight illustration 2" data-theme-src-dark="{{ "/assets/images/Kinross_incident_195_2ebd01_final_intercept_time_9c3aec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross_incident_195_2ebd01_final_intercept_time_9c3aec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Last Known Position Over Lake Superior
 
@@ -300,8 +296,7 @@ At approximately 6:55 pm, radar operators observed the radar return from Avenger
 
 Instead, the interceptor’s Identification Friend or Foe signal disappeared. Repeated calls to Moncla and Wilson went unanswered. NAPLES also attempted radio contact without success. The final recorded position for Avenger Red was approximately 48.00 north latitude and 86.49 west longitude over Lake Superior. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-snippet">The Kinross IncidentThe aircraft was given the callsign “Avenger Red” and it set off on a heading of 300 degrees at 30,000 feet.3 NAPLES...</span></span></span>
 
-The meaning of the “merged blips” depends heavily on which sources are consulted. Some later UFO narratives claimed both radar returns vanished together. However, several reconstructions based on Air Force material indicate that the unknown target continued eastward after the merge while only the F-89 disappeared. That distinction weakens the popular story that an unidentified craft physically consumed or absorbed the interceptor on radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aircrashinvestigation/comments/1hdgasy/the_kinross_incident_one_of_canada_and_the_us_air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditThe Kinross Incident: one of Canada and the U.S. Air...An F-89C Scorpion at Kinross AFB of the Alert 5 was dispatched to intercept...</span></span></span>
-
+The meaning of the “merged blips” depends heavily on which sources are consulted. Some later UFO narratives claimed both radar returns vanished together. However, several reconstructions based on Air Force material indicate that the unknown target continued eastward after the merge while only the F-89 disappeared. That distinction weakens the popular story that an unidentified craft physically consumed or absorbed the interceptor on radar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aircrashinvestigation/comments/1hdgasy/the_kinross_incident_one_of_canada_and_the_us_air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The Kinross Incident: one of Canada and the U.S. Air...An F-89C Scorpion at Kinross AFB of the Alert 5 was dispatched to intercept...</span></span></span>
 
 <img src="{{ "/assets/images/Kinross_incident_195_2ebd01_final_intercept_time_9c3aec-Illustration-3-dark.svg" | relative_url }}" alt="Final Flight illustration 3" data-theme-src-dark="{{ "/assets/images/Kinross_incident_195_2ebd01_final_intercept_time_9c3aec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kinross_incident_195_2ebd01_final_intercept_time_9c3aec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What the timeline suggests about the loss
@@ -314,8 +309,7 @@ At the same time, the timeline leaves genuine gaps. No distress call was receive
 
 The timeline did not end at the radar disappearance. Shortly after Avenger Red vanished, additional F-89 interceptors were launched under the callsigns Avenger Black and Avenger Purple to search the area and attempt radio contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-snippet">The Kinross IncidentThe aircraft was given the callsign “Avenger Red” and it set off on a heading of 300 degrees at 30,000 feet.3 NAPLES...</span></span></span>
 
-Lieutenant William Mingenbach, flying Avenger Black, later reported that he and his radar operator briefly heard what they believed was Moncla’s voice around 7:35 pm or shortly afterwards. The transmission lasted only seconds and was unintelligible beyond a fragment of speech. No other station confirmed hearing it. Because the report emerged from personal recollection rather than a recorded transmission, historians treat it cautiously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-snippet">The Kinross IncidentThe aircraft was given the callsign “Avenger Red” and it set off on a heading of 300 degrees at 30,000 feet.3 NAPLES...</span></span></span> Reddit Search aircraft encountered the same cloud layers <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aircrashinvestigation/comments/1hdgasy/the_kinross_incident_one_of_canada_and_the_us_air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditThe Kinross Incident: one of Canada and the U.S. Air...An F-89C Scorpion at Kinross AFB of the Alert 5 was dispatched to intercept...</span></span></span>, snow and icing concerns that had complicated the original intercept. By roughly 8:07 pm, controllers concluded that Avenger Red would have exhausted its fuel supply if still airborne. The aircraft and crew were officially declared missing soon afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitkeweenaw.com/blog/post/missing-in-the-keweenaw-the-kinross-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitkeweenaw.com">[visitkeweenaw.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitkeweenaw.com</span><span class="citation-popover-snippet">Missing in the Keweenaw | The Kinross Incident20 Nov 2023 — The two aircraft appeared to converge on the control screen at Calumet, then...</span></span></span>
-
+Lieutenant William Mingenbach, flying Avenger Black, later reported that he and his radar operator briefly heard what they believed was Moncla’s voice around 7:35 pm or shortly afterwards. The transmission lasted only seconds and was unintelligible beyond a fragment of speech. No other station confirmed hearing it. Because the report emerged from personal recollection rather than a recorded transmission, historians treat it cautiously. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-snippet">The Kinross IncidentThe aircraft was given the callsign “Avenger Red” and it set off on a heading of 300 degrees at 30,000 feet.3 NAPLES...</span></span></span> Reddit Search aircraft encountered the same cloud layers <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aircrashinvestigation/comments/1hdgasy/the_kinross_incident_one_of_canada_and_the_us_air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The Kinross Incident: one of Canada and the U.S. Air...An F-89C Scorpion at Kinross AFB of the Alert 5 was dispatched to intercept...</span></span></span>, snow and icing concerns that had complicated the original intercept. By roughly 8:07 pm, controllers concluded that Avenger Red would have exhausted its fuel supply if still airborne. The aircraft and crew were officially declared missing soon afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visitkeweenaw.com/blog/post/missing-in-the-keweenaw-the-kinross-incident/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitkeweenaw.com">[visitkeweenaw.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitkeweenaw.com</span><span class="citation-popover-snippet">Missing in the Keweenaw &#124; The Kinross Incident20 Nov 2023 — The two aircraft appeared to converge on the control screen at Calumet, then...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hJnxNU4_sdY" title="70 years later: researchers talk Kinross Incident research, progress of Open Skies Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hJnxNU4_sdY" target="_blank" rel="noopener noreferrer">70 years later: researchers talk Kinross Incident research, progress of Open Skies Project</a></p><p class="youtube-embed-meta">Channel: Upper Michigan&#x27;s Source | TV6 &amp; FOX UP &middot; Views: 1.2K &middot; Uploaded: November 2023 &middot; Length: 2 minutes 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hJnxNU4_sdY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hJnxNU4_sdY">Open on YouTube</a></p></div></div></div>
 
@@ -326,44 +320,86 @@ The chronology of Avenger Red’s final minutes remains the strongest factual fr
 That sequence is detailed enough to support serious historical analysis but incomplete enough to prevent a final answer. For sceptics, the timeline resembles a Cold War interceptor accident shaped by weather, night operations and the limitations of 1950s radar control. For UFO researchers, the same timeline preserves an unresolved anomaly because the disappearance occurred precisely at the moment of interception and no wreckage conclusively settled the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openskiesproject.org">[openskiesproject.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openskiesproject.org</span><span class="citation-popover-snippet">The Kinross IncidentThe aircraft was given the callsign “Avenger Red” and it set off on a heading of 300 degrees at 30,000 feet.3 NAPLES...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for How Did Avenger Red Vanish?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to How Did Avenger Red Vanish?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Kinross Incident guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Kinross+Incident+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Traces the final half-hour flight of Avenger Red (serial 51-5853A) under the guidance of Ground-Control Intercept callsign PILLOW.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Sault Ste. Marie guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Sault+Ste.+Marie+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lGyPpnFpg7UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Breaks down how ground radar operators watched the interceptor return appear to merge with the target before vanishing completely.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Identification Friend or Foe guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Identification+Friend+or+Foe+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches how to isolate recorded timeline markers from subsequent secondary distortions and dramatic television retelling frames.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Bristol+Fighter+in+Action+by+Peter+Cooksley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bristol Fighter in Action on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bristol+Fighter+in+Action+by+Peter+Cooksley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bristol Fighter in Action">Bristol Fighter in Action</a>
+        </h4>
+        <p class="fr-book-author">By Peter Cooksley</p>
+        
+        <p class="fr-book-desc">Provides structural context regarding the 433rd Fighter-Interceptor Squadron&#x27;s mechanical systems and radio limits.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bristol+Fighter+in+Action+by+Peter+Cooksley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -400,15 +436,15 @@ That sequence is detailed enough to support serious historical analysis but inco
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Revell 1/48 Model Aircraft Northrop F-89 Scorpion Kit 05650"><img src="{{ '/assets/images/marketplace-covers/be04d2f1f572386b95b3.jpg' | relative_url }}" alt="Listing image for Revell 1/48 Model Aircraft Northrop F-89 Scorpion Kit 05650" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">Revell 1/48 Model Aircraft Northrop F-89 Scorpion Kit 05650</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-89 Scorpion model">Search <span data-ebay-domain-label>eBay.co.uk</span>: F-89 Scorpion model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -416,15 +452,15 @@ That sequence is detailed enough to support serious historical analysis but inco
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Caracal Models CD48235 1:48 Northrop F-89 Scorpion"><img src="{{ '/assets/images/marketplace-covers/c4cba1116fa2965878fc.jpg' | relative_url }}" alt="Listing image for Caracal Models CD48235 1:48 Northrop F-89 Scorpion" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">Caracal Models CD48235 1:48 Northrop F-89 Scorpion</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-89 Scorpion model">Search <span data-ebay-domain-label>eBay.co.uk</span>: F-89 Scorpion model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -432,15 +468,15 @@ That sequence is detailed enough to support serious historical analysis but inco
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed"><img src="{{ '/assets/images/marketplace-covers/5f0b90e9d3f46e13b4a8.jpg' | relative_url }}" alt="Listing image for W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-89 Scorpion model">Search <span data-ebay-domain-label>eBay.co.uk</span>: F-89 Scorpion model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -448,15 +484,15 @@ That sequence is detailed enough to support serious historical analysis but inco
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed"><img src="{{ '/assets/images/marketplace-covers/119f143e23ba4650d52c.jpg' | relative_url }}" alt="Listing image for W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">W283 Revell Model Kit 4320 - Northrop F-89 D/J Scorpion - 1/72 - Pts Sealed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for F-89 Scorpion model">Search <span data-ebay-domain-label>eBay.co.uk</span>: F-89 Scorpion model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -464,7 +500,7 @@ That sequence is detailed enough to support serious historical analysis but inco
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=F-89+Scorpion+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="F-89 Scorpion model" data-ebay-reference="final-flight-dad3aa-how-did-avenger-red-vanish-kinross-incident-1953-f-89-scorpion-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -679,73 +715,73 @@ That sequence is detailed enough to support serious historical analysis but inco
 
 1. <a id="endnote-1"></a>
    Source: openskiesproject.org  
-   Link: [https://www.openskiesproject.org/news/kinross-incident](https://www.openskiesproject.org/news/kinross-incident)  
+   Link: <a href="https://www.openskiesproject.org/news/kinross-incident" target="_blank" rel="noopener noreferrer nofollow">https://www.openskiesproject.org/news/kinross-incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: visitkeweenaw.com  
-   Link: [https://www.visitkeweenaw.com/blog/post/missing-in-the-keweenaw-the-kinross-incident/](https://www.visitkeweenaw.com/blog/post/missing-in-the-keweenaw-the-kinross-incident/)  
+   Link: <a href="https://www.visitkeweenaw.com/blog/post/missing-in-the-keweenaw-the-kinross-incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.visitkeweenaw.com/blog/post/missing-in-the-keweenaw-the-kinross-incident/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing in the Keweenaw | The Kinross Incident20 Nov 2023 — The two aircraft appeared to converge on the control screen at Calumet, then...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aircrashinvestigation/comments/1hdgasy/the_kinross_incident_one_of_canada_and_the_us_air/](https://www.reddit.com/r/aircrashinvestigation/comments/1hdgasy/the_kinross_incident_one_of_canada_and_the_us_air/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditThe Kinross Incident: one of Canada and the U.S. Air...An F-89C Scorpion at Kinross AFB of the Alert 5 was dispatched to intercept...</p></details>
+   Link: <a href="https://www.reddit.com/r/aircrashinvestigation/comments/1hdgasy/the_kinross_incident_one_of_canada_and_the_us_air/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aircrashinvestigation/comments/1hdgasy/the_kinross_incident_one_of_canada_and_the_us_air/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kinross Incident: one of Canada and the U.S. Air...An F-89C Scorpion at Kinross AFB of the Alert 5 was dispatched to intercept...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: on november 23rd 1953 a us air force f89 scorpion  
-   Link: [https://www.reddit.com/r/UnresolvedMysteries/comments/1s7wfme/on_november_23rd_1953_a_us_air_force_f89_scorpion/](https://www.reddit.com/r/UnresolvedMysteries/comments/1s7wfme/on_november_23rd_1953_a_us_air_force_f89_scorpion/)  
+   Link: <a href="https://www.reddit.com/r/UnresolvedMysteries/comments/1s7wfme/on_november_23rd_1953_a_us_air_force_f89_scorpion/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UnresolvedMysteries/comments/1s7wfme/on_november_23rd_1953_a_us_air_force_f89_scorpion/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On November 23rd 1953 a U.S. Air Force F-89 Scorpion...He climbed up to 20,000 feet and learned from NAPLES that Avenger Red had disappe...</p></details>
 
 ### Additional References
 
 5. <a id="endnote-5"></a>
    Source: shortform.com  
-   Link: [https://www.shortform.com/podcast/episode/conspiracy-theories-2025-05-21-episode-summary-the-kinross-incident-did-a-ufo-abduct-an-entire-jet](https://www.shortform.com/podcast/episode/conspiracy-theories-2025-05-21-episode-summary-the-kinross-incident-did-a-ufo-abduct-an-entire-jet)  
+   Link: <a href="https://www.shortform.com/podcast/episode/conspiracy-theories-2025-05-21-episode-summary-the-kinross-incident-did-a-ufo-abduct-an-entire-jet" target="_blank" rel="noopener noreferrer nofollow">https://www.shortform.com/podcast/episode/conspiracy-theories-2025-05-21-episode-summary-the-kinross-incident-did-a-ufo-abduct-an-entire-jet</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Kinross Incident: Did a UFO Abduct an Entire Jet?21 May 2025 — The 1953 incident near Lake Superior in Kinross, Michigan is examined...</p></details>
    Published: May 2025  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Felix_Moncla](https://en.wikipedia.org/wiki/Felix_Moncla)  
+   Link: <a href="https://en.wikipedia.org/wiki/Felix_Moncla" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Felix_Moncla</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Felix MonclaHis disappearance is sometimes known as the Kinross Incident, after Kinross Air Force Base, where Moncla was on temporary...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: uppermichiganssource.com  
-   Link: [https://www.uppermichiganssource.com/2023/11/23/70-years-later-researchers-talk-kinross-incident-research-progress-open-skies-project/](https://www.uppermichiganssource.com/2023/11/23/70-years-later-researchers-talk-kinross-incident-research-progress-open-skies-project/)  
+   Link: <a href="https://www.uppermichiganssource.com/2023/11/23/70-years-later-researchers-talk-kinross-incident-research-progress-open-skies-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.uppermichiganssource.com/2023/11/23/70-years-later-researchers-talk-kinross-incident-research-progress-open-skies-project/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.uppermichiganssource.com70-year](https://www.uppermichiganssource.com70-year) anniversary of Kinross Incident: researchers talk...22 Nov 2023 — 70 years ago, an unexplain...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: husheduphistory.com  
-   Link: [https://husheduphistory.com/post/789255213147209728/vanished-kinross-air-force-base-and-the-mystery](https://husheduphistory.com/post/789255213147209728/vanished-kinross-air-force-base-and-the-mystery)  
+   Link: <a href="https://husheduphistory.com/post/789255213147209728/vanished-kinross-air-force-base-and-the-mystery" target="_blank" rel="noopener noreferrer nofollow">https://husheduphistory.com/post/789255213147209728/vanished-kinross-air-force-base-and-the-mystery</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Vanished: Kinross Air Force Base and the Mystery...16 Jul 2025 — Once again all attempts at contact went unanswered by Avenger Red...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: uppermichiganssource.com  
-   Link: [https://www.uppermichiganssource.com/video/2023/11/23/70-years-later-researchers-talk-kinross-incident-research-progress-open-skies-project/](https://www.uppermichiganssource.com/video/2023/11/23/70-years-later-researchers-talk-kinross-incident-research-progress-open-skies-project/)  
+   Link: <a href="https://www.uppermichiganssource.com/video/2023/11/23/70-years-later-researchers-talk-kinross-incident-research-progress-open-skies-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.uppermichiganssource.com/video/2023/11/23/70-years-later-researchers-talk-kinross-incident-research-progress-open-skies-project/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>equest to identify an unknown aircraft 77 miles north of the Calumet Air Force...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sosupernaturalpodcast.com  
-   Link: [https://sosupernaturalpodcast.com/disappeared-kinross-incident/](https://sosupernaturalpodcast.com/disappeared-kinross-incident/)  
+   Link: <a href="https://sosupernaturalpodcast.com/disappeared-kinross-incident/" target="_blank" rel="noopener noreferrer nofollow">https://sosupernaturalpodcast.com/disappeared-kinross-incident/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DISAPPEARED: Kinross IncidentOn November 23rd, 1956, two pilots took off from Kinross Air Force Base in Michigan in pursuit of an unknown...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=hJnxNU4_sdY](https://www.youtube.com/watch?v=hJnxNU4_sdY)  
+   Link: <a href="https://www.youtube.com/watch?v=hJnxNU4_sdY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hJnxNU4_sdY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>entify an unknown aircraft 77 miles north of the Calumet Air...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Creepy Missing F-89 Pilot  
-   Link: [https://www.youtube.com/watch?v=wZTYhwwq4tc](https://www.youtube.com/watch?v=wZTYhwwq4tc)  
+   Link: <a href="https://www.youtube.com/watch?v=wZTYhwwq4tc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wZTYhwwq4tc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>History of the Calumet Air Force Station and the Kinross Incident...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=eBJfENtXRwg](https://www.youtube.com/watch?v=eBJfENtXRwg)  
+   Link: <a href="https://www.youtube.com/watch?v=eBJfENtXRwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eBJfENtXRwg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Kinross Incident: Airmen &amp; Jet Go Missing in 1953 After UFO Encounter | Talking Strange...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=CPp9m09F04Q](https://www.youtube.com/watch?v=CPp9m09F04Q)  
+   Link: <a href="https://www.youtube.com/watch?v=CPp9m09F04Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CPp9m09F04Q</a>

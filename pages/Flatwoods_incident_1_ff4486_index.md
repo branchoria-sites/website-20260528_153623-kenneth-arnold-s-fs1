@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /flatwoods-incident-1-ff4486-index/
 description: Focused pages that expand on Flatwoods incident 1952.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Flatwoods_incident_1_ff4486
 parent_title: Flatwoods incident 1952

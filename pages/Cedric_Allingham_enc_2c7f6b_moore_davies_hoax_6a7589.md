@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /cedric-allingham-encounter-1954/
 nav_short_title: Hoax Case
 title: Was Cedric Allingham a Made Up Witness?
-title_full: Was Cedric Allingham a Made Up Witness? | Allingham
+title_full: Was Cedric Allingham a Made Up Witness?
 display_title_short: Hoax Case
 display_title: Hoax Case
 heading_title: Was Cedric Allingham a Made Up Witness?
@@ -239,7 +239,7 @@ next_link:
   permalink: /the-claim-db591c/
   short_title: The Claim
   heading_title: Why the Lossiemouth Saucer Story Caught On
-date: '2026-06-08 23:36:27 '
+date: '2026-06-11 13:21:17 '
 header:
   og_image: /assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-1-social.jpg
   preview_image: /assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-1.webp
@@ -248,28 +248,24 @@ image: /assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illus
 
 ## Introduction
 
-The 1954 *Flying Saucer from Mars* narrative attributed to **[Cedric Allingham]({{ 'cedric-allingham-encounter-1954/' | relative_url }})** sat at the heart of one of British ufology’s most enduring curiosities: an apparently independent eyewitness account of a flying saucer landing in Scotland. While the immediate details of the [Lossiemouth claim]({{ 'the-claim-db591c/' | relative_url }}) were notable at the time, it is the later reconstruction of the case that has come to define its place in UFO history. Over three decades after the book’s publication, researchers tied the *Allingham* persona not to an actual contactee but to figures within British astronomy and scepticism — chiefly **Sir Patrick Moore**, the celebrated amateur astronomer and science communicator, and his friend **Peter Davies**. The subsequent hoax reconstruction reframes the encounter not as a credible sighting but as an intentional fabrication that exploited the era’s UFO boom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham</span></span></span>
-
+The 1954 *Flying Saucer from Mars* narrative attributed to **Cedric Allingham** sat at the heart of one of British ufology’s most enduring curiosities: an apparently independent eyewitness account of a flying saucer landing in Scotland. While the immediate details of the Lossiemouth claim were notable at the time, it is the later reconstruction of the case that has come to define its place in UFO history. Over three decades after the book’s publication, researchers tied the *Allingham* persona not to an actual contactee but to figures within British astronomy and scepticism — chiefly **Sir Patrick Moore**, the celebrated amateur astronomer and science communicator, and his friend **Peter Davies**. The subsequent hoax reconstruction reframes the encounter not as a credible sighting but as an intentional fabrication that exploited the era’s UFO boom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham</span></span></span>
 
 <img src="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-1-dark.svg" | relative_url }}" alt="Hoax Case illustration 1" data-theme-src-dark="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The 1986 Magonia Investigation: Unpicking the Persona
 
 The most comprehensive modern analysis of the Allingham affair was published in the July 1986 issue of the sceptical journal *Magonia* by researchers Christopher Allan and Steuart Campbell. Their work began from several persistent anomalies: the author *Allingham* was untraceable, the advocated corroborating witness (a local fisherman named James Duncan) could not be located, and attempts to follow up on his claims repeatedly stalled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wearethemutants.com/2016/08/30/flying-saucers-common-sense-and-the-enigma-of-cedric-allingham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wearethemutants.com">[We Are the Mutants]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wearethemutants.com</span><span class="citation-popover-snippet">We Are the MutantsFlying Saucers, Common Sense, and the Enigma of Cedric AllinghamAugust 30, 2016...</span><span class="citation-popover-meta">Published: August 30, 2016</span></span></span>
 
-Allan and Campbell compared the writing style of *Flying Saucer from Mars* with known published works by British astronomer Patrick Moore. They found linguistic parallels suggestive of a common hand, indicating that the text might not originate from an independent traveller’s account at all. Their investigation also traced the elusive “Allingham” to someone surprisingly close to Moore: his acquaintance **Peter Davies**. Davies eventually admitted involvement in the book — specifically that he had worked on the manuscript to disguise the style of its original author — but he declined to name that person. Davies also acknowledged that he himself had appeared at a UFO club lecture attributed to Allingham, disguised with a false moustache. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Allingham, Cedric | Encyclopedia.com</span><span class="citation-popover-snippet">Allingham, Cedric | Encyclopedia.com</span></span></span>
-
+Allan and Campbell compared the writing style of *Flying Saucer from Mars* with known published works by British astronomer Patrick Moore. They found linguistic parallels suggestive of a common hand, indicating that the text might not originate from an independent traveller’s account at all. Their investigation also traced the elusive “Allingham” to someone surprisingly close to Moore: his acquaintance **Peter Davies**. Davies eventually admitted involvement in the book — specifically that he had worked on the manuscript to disguise the style of its original author — but he declined to name that person. Davies also acknowledged that he himself had appeared at a UFO club lecture attributed to Allingham, disguised with a false moustache. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Allingham, Cedric &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Allingham, Cedric &#124; Encyclopedia.com</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qKZyMHqwOKU" title="In conversation with Bill Moffat about the 1954 Stephen Darbishire UFO photograph" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qKZyMHqwOKU" target="_blank" rel="noopener noreferrer">In conversation with Bill Moffat about the 1954 Stephen Darbishire UFO photograph</a></p><p class="youtube-embed-meta">Channel: Rory Wilmer &middot; Views: 296 &middot; Uploaded: December 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qKZyMHqwOKU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qKZyMHqwOKU">Open on YouTube</a></p></div></div></div>
 
 ## Peter Davies and the Disguised Author Photograph
 
-One of the defining pieces of physical “evidence” in *Flying Saucer from Mars* is the frontispiece photograph of the supposed *Allingham* standing by a reflecting telescope. Allan and Campbell’s research revealed that this telescope, and the garden setting in which it stood, matched exactly the telescope owned by Patrick Moore at his home in East Grinstead, Sussex. The man in the photograph was thus almost certainly **Peter Davies**, standing in for the fictitious *Allingham*. Davies himself confirmed that he’d posed in the photo, casting further doubt on the narrative of an independent eyewitness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Allingham, Cedric | Encyclopedia.com</span><span class="citation-popover-snippet">Allingham, Cedric | Encyclopedia.com</span></span></span>
+One of the defining pieces of physical “evidence” in *Flying Saucer from Mars* is the frontispiece photograph of the supposed *Allingham* standing by a reflecting telescope. Allan and Campbell’s research revealed that this telescope, and the garden setting in which it stood, matched exactly the telescope owned by Patrick Moore at his home in East Grinstead, Sussex. The man in the photograph was thus almost certainly **Peter Davies**, standing in for the fictitious *Allingham*. Davies himself confirmed that he’d posed in the photo, casting further doubt on the narrative of an independent eyewitness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.com">[Encyclopedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.com</span><span class="citation-popover-title">Allingham, Cedric &#124; Encyclopedia.com</span><span class="citation-popover-snippet">Allingham, Cedric &#124; Encyclopedia.com</span></span></span>
 
 Davies’ admissions extended to the public events connected to the book’s promotion. At the single documented lecture — in Tunbridge Wells — it was Davies in disguise who addressed the local UFO club, accompanied by a knowledgeable “assistant” whom Davies refused to name. Taken together, these revelations strongly indicate that the *Allingham* persona was not simply a missing author but a carefully constructed identity with staged public engagements and deliberately misleading documentary support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://studylib.net/doc/25882701/occultism-and-parapsychology-vol.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studylib.net">[studylib.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studylib.net</span><span class="citation-popover-title">Encyclopedia of Occultism &amp; Parapsychology, 5th Ed, Vol 1</span><span class="citation-popover-snippet">Encyclopedia of Occultism &amp; Parapsychology, 5th Ed, Vol 1</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yuRmpG-pJ3s" title="The Man From Venus and the Alien Contactee George Adamski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yuRmpG-pJ3s" target="_blank" rel="noopener noreferrer">The Man From Venus and the Alien Contactee George Adamski</a></p><p class="youtube-embed-meta">Channel: Data1B4 &middot; Views: 824 &middot; Uploaded: November 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yuRmpG-pJ3s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yuRmpG-pJ3s">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-2-dark.svg" | relative_url }}" alt="Hoax Case illustration 2" data-theme-src-dark="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Patrick Moore’s Disputed Role and Unanswered Questions
@@ -280,48 +276,89 @@ This reticence complicates the historical picture. If Moore conceived or signifi
 
 The enduring consensus among UFO historians and sceptical researchers is that **Cedric Allingham never existed as a real person**, and that the *Lossiemouth encounter* was a constructed narrative crafted and promoted by Davies and likely at least one other individual — very probably Moore himself. The hoax’s later exposure underscores the critical importance of source provenance and witness verification in the historical assessment of UFO claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cedric Allingham</span><span class="citation-popover-snippet">Cedric Allingham</span></span></span>
 
-
 <img src="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-3-dark.svg" | relative_url }}" alt="Hoax Case illustration 3" data-theme-src-dark="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cedric_Allingham_enc_2c7f6b_moore_davies_hoax_6a7589-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Was Cedric Allingham a Made Up Witness?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Was Cedric Allingham a Made Up Witness?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Cedric Allingham guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Cedric+Allingham+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Provides structural forensic guidelines to examine stylistic linguistic matches between author personas and known skeptic writers.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Sir Patrick Moore guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Sir+Patrick+Moore+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia: from Folklore to Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HRJDAAAAIAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia: from Folklore to Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia: from Folklore to Flying Saucers">Passport to Magonia: from Folklore to Flying Saucers</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Examines the wider contactee scene in the 1950s, detailing how authors and pranksters frequently recycled tropes from astronomy and sci-fi.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Patrick Moore guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Patrick+Moore+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the 1986 Magonia investigation, outlining how Allan and Campbell successfully tied the Allingham persona back to Moore/Davies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Addresses the specific stylistic analysis methods used to link Allingham&#x27;s prose to Patrick Moore&#x27;s published work.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia%3A+from+Folklore+to+Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia: from Folklore to Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -358,15 +395,15 @@ The enduring consensus among UFO historians and sceptical researchers is that **
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -374,15 +411,15 @@ The enduring consensus among UFO historians and sceptical researchers is that **
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -390,15 +427,15 @@ The enduring consensus among UFO historians and sceptical researchers is that **
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -406,15 +443,15 @@ The enduring consensus among UFO historians and sceptical researchers is that **
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -422,7 +459,7 @@ The enduring consensus among UFO historians and sceptical researchers is that **
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="hoax-case-was-cedric-allingham-a-made-up-witness-cedric-allingham-encounter-1954-ufo-poster-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -638,32 +675,32 @@ The enduring consensus among UFO historians and sceptical researchers is that **
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cedric Allingham  
-   Link: [https://en.wikipedia.org/wiki/Cedric_Allingham](https://en.wikipedia.org/wiki/Cedric_Allingham)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cedric_Allingham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cedric_Allingham</a>  
 
 2. <a id="endnote-2"></a>
    Source: encyclopedia.com  
    Title: Allingham, Cedric | Encyclopedia.com  
-   Link: [https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric](https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric)  
+   Link: <a href="https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric" target="_blank" rel="noopener noreferrer nofollow">https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/allingham-cedric</a>  
 
 3. <a id="endnote-3"></a>
    Source: studylib.net  
    Title: Encyclopedia of Occultism & Parapsychology, 5th Ed, Vol 1  
-   Link: [https://studylib.net/doc/25882701/occultism-and-parapsychology-vol.1](https://studylib.net/doc/25882701/occultism-and-parapsychology-vol.1)  
+   Link: <a href="https://studylib.net/doc/25882701/occultism-and-parapsychology-vol.1" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/25882701/occultism-and-parapsychology-vol.1</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Patrick Moore  
-   Link: [https://en.wikipedia.org/wiki/Patrick_Moore](https://en.wikipedia.org/wiki/Patrick_Moore)  
+   Link: <a href="https://en.wikipedia.org/wiki/Patrick_Moore" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Patrick_Moore</a>  
 
 5. <a id="endnote-5"></a>
    Source: prairieprogressive.com  
-   Link: [https://prairieprogressive.com/2021/04/27/an-astronomer-helped-fake-britians-first-ufo-contactee-story/](https://prairieprogressive.com/2021/04/27/an-astronomer-helped-fake-britians-first-ufo-contactee-story/)  
+   Link: <a href="https://prairieprogressive.com/2021/04/27/an-astronomer-helped-fake-britians-first-ufo-contactee-story/" target="_blank" rel="noopener noreferrer nofollow">https://prairieprogressive.com/2021/04/27/an-astronomer-helped-fake-britians-first-ufo-contactee-story/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 27, 2021...</p></details>
    Published: April 27, 2021  
 
 6. <a id="endnote-6"></a>
    Source: wearethemutants.com  
-   Link: [https://wearethemutants.com/2016/08/30/flying-saucers-common-sense-and-the-enigma-of-cedric-allingham/](https://wearethemutants.com/2016/08/30/flying-saucers-common-sense-and-the-enigma-of-cedric-allingham/)  
+   Link: <a href="https://wearethemutants.com/2016/08/30/flying-saucers-common-sense-and-the-enigma-of-cedric-allingham/" target="_blank" rel="noopener noreferrer nofollow">https://wearethemutants.com/2016/08/30/flying-saucers-common-sense-and-the-enigma-of-cedric-allingham/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We Are the MutantsFlying Saucers, Common Sense, and the Enigma of Cedric AllinghamAugust 30, 2016...</p></details>
    Published: August 30, 2016  
 
@@ -671,60 +708,60 @@ The enduring consensus among UFO historians and sceptical researchers is that **
 
 7. <a id="endnote-7"></a>
    Source: threadinburgh.scot  
-   Link: [https://threadinburgh.scot/2023/08/14/the-thread-about-the-scottish-flying-saucer-craze-of-1950-when-ufos-appeared-over-the-forth-and-buzzed-the-country-from-end-to-end/](https://threadinburgh.scot/2023/08/14/the-thread-about-the-scottish-flying-saucer-craze-of-1950-when-ufos-appeared-over-the-forth-and-buzzed-the-country-from-end-to-end/)  
+   Link: <a href="https://threadinburgh.scot/2023/08/14/the-thread-about-the-scottish-flying-saucer-craze-of-1950-when-ufos-appeared-over-the-forth-and-buzzed-the-country-from-end-to-end/" target="_blank" rel="noopener noreferrer nofollow">https://threadinburgh.scot/2023/08/14/the-thread-about-the-scottish-flying-saucer-craze-of-1950-when-ufos-appeared-over-the-forth-and-buzzed-the-country-from-end-to-end/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spaceships over Edinburgh: the thread about the Scottish flying saucer craze of 1950 – ThreadinburghAugust 14, 2023 — Image: The Lossiemo...</p></details>
    Published: August 14, 2023  
 
 8. <a id="endnote-8"></a>
    Source: tomhascallcole.com  
    Title: FLYIN G SAUCER FROM MARSFlying Saucer from Mars Crackpot and Loon Writes Book?  
-   Link: [https://www.tomhascallcole.com/Flying%20Saucer%20from%20Mars.html](https://www.tomhascallcole.com/Flying%20Saucer%20from%20Mars.html)  
+   Link: <a href="https://www.tomhascallcole.com/Flying%20Saucer%20from%20Mars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tomhascallcole.com/Flying%20Saucer%20from%20Mars.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>No, it was a hoax. &gt; &gt; &gt; &gt; &gt; &gt; Cedric Allingham (born June 27, 1922)^{ }was a fictional British writer reputed in the 1954 book Flying Sa...</p></details>
    Published: June 27, 1922  
 
 9. <a id="endnote-9"></a>
    Source: bufora.org.uk  
-   Link: [https://www.bufora.org.uk/guide-to-ufos](https://www.bufora.org.uk/guide-to-ufos)  
+   Link: <a href="https://www.bufora.org.uk/guide-to-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/guide-to-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On the 3rd July, 1967 at Calgary, Alberta two pictures were taken of a disc reportedly observed by several witnesses...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: spookyisles.com  
    Title: Cedric Allingham's Flyer Saucer: A UFO Hoax But A Good One | Spooky Isles  
-   Link: [https://www.spookyisles.com/cedric-allingham-ufos/](https://www.spookyisles.com/cedric-allingham-ufos/)  
+   Link: <a href="https://www.spookyisles.com/cedric-allingham-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.spookyisles.com/cedric-allingham-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>October 6, 2023 — CEDRIC ALLINGHAM’S FLYER SAUCER: A UFO HOAX BUT A GOOD ONE By: Neil Nixon 6 October 2023 Moray, Scotland Image: Cedric...</p></details>
    Published: October 6, 2023  
 
 11. <a id="endnote-11"></a>
    Source: davidhalperin.net  
    Title: Credulity and the Astronomer – The Strange Case of Cedric Allingham  
-   Link: [https://www.davidhalperin.net/credulity-and-the-astronomer-the-strange-case-of-cedric-allingham/](https://www.davidhalperin.net/credulity-and-the-astronomer-the-strange-case-of-cedric-allingham/)  
+   Link: <a href="https://www.davidhalperin.net/credulity-and-the-astronomer-the-strange-case-of-cedric-allingham/" target="_blank" rel="noopener noreferrer nofollow">https://www.davidhalperin.net/credulity-and-the-astronomer-the-strange-case-of-cedric-allingham/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Or so disgusting, if like George Eliot’s Sir Hugo Mallinger you “respect a man for trusting another” and you despise and detest those who...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theorkneynews.scot  
    Title: Beginners Astronomy: Mars Part 1 – The Orkney News  
-   Link: [https://theorkneynews.scot/2021/07/18/beginners-astronomy-mars-part-1/](https://theorkneynews.scot/2021/07/18/beginners-astronomy-mars-part-1/)  
+   Link: <a href="https://theorkneynews.scot/2021/07/18/beginners-astronomy-mars-part-1/" target="_blank" rel="noopener noreferrer nofollow">https://theorkneynews.scot/2021/07/18/beginners-astronomy-mars-part-1/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 18, 2021 — The idea that Mars had human or near-human inhabitants lasted into the 1950s and George Adamski’s book about meeting a fl...</p></details>
    Published: July 18, 2021  
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=atttEDOY97U](https://www.youtube.com/watch?v=atttEDOY97U)  
+   Link: <a href="https://www.youtube.com/watch?v=atttEDOY97U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=atttEDOY97U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In conversation with Bill Moffat about the 1954 Stephen Darbishire UFO photograph...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=fuCnwkGv_cg](https://www.youtube.com/watch?v=fuCnwkGv_cg)  
+   Link: <a href="https://www.youtube.com/watch?v=fuCnwkGv_cg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fuCnwkGv_cg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysteries and Monsters: Mountain of God UFO Cult | Episode 5 | The George Adamski Story...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: history.denverlibrary.org  
-   Link: [https://history.denverlibrary.org/news/man-who-hitched-ride-venus-allegedly](https://history.denverlibrary.org/news/man-who-hitched-ride-venus-allegedly)  
+   Link: <a href="https://history.denverlibrary.org/news/man-who-hitched-ride-venus-allegedly" target="_blank" rel="noopener noreferrer nofollow">https://history.denverlibrary.org/news/man-who-hitched-ride-venus-allegedly</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Man Who Hitched A Ride To Venus (Allegedly) | Denver Public Library Special Collections and ArchivesOctober 19, 2022 — The Straith Letter...</p></details>
    Published: October 19, 2022  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Lossiemouth Incident Part 2: The Author (Paranormal & Mystery)  
-   Link: [https://www.youtube.com/watch?v=_ycVLUrymwg](https://www.youtube.com/watch?v=_ycVLUrymwg)  
+   Link: <a href="https://www.youtube.com/watch?v=_ycVLUrymwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_ycVLUrymwg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lossiemouth Incident Part 1: A Man From Another Planet (Paranormal &amp; Mystery)...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /loch-raven-dam-incid-b0e5b6-index/
 description: Focused pages that expand on Loch Raven Dam incident 1958.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: Loch_Raven_Dam_incid_b0e5b6
 parent_title: Loch Raven Dam incident 1958

@@ -360,9 +360,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -396,9 +396,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -436,9 +436,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -488,9 +488,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -536,9 +536,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Battle of Los Angeles
   permalink: /battle-of-los-angeles-1942/
   short_title: Battle of Los Angeles
-date: '2026-06-08 23:31:45 '
+date: '2026-06-11 13:19:21 '
 header:
   og_image: /assets/images/Aurora_Texas_airship_165367-overview-social.jpg
   preview_image: /assets/images/Aurora_Texas_airship_165367-overview.webp
@@ -758,27 +758,25 @@ image: /assets/images/Aurora_Texas_airship_165367-overview-social.jpg
 
 ## What the 1897 story actually claimed
 
-The reported incident was said to have occurred on 17 April 1897 in Aurora, a small Wise County town north-west of Fort Worth. The article attributed to S. E. Haydon described an “airship” appearing around 6 a.m., moving slowly and low over town, apparently in mechanical trouble. It allegedly crossed the public square, struck the tower of Judge Proctor’s windmill, exploded, scattered debris across several acres, destroyed the windmill and water tank, and damaged Proctor’s flower garden. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History | Aurora, TX</span><span class="citation-popover-snippet">History | Aurora, TX</span></span></span>
-
+The reported incident was said to have occurred on 17 April 1897 in Aurora, a small Wise County town north-west of Fort Worth. The article attributed to S. E. Haydon described an “airship” appearing around 6 a.m., moving slowly and low over town, apparently in mechanical trouble. It allegedly crossed the public square, struck the tower of Judge Proctor’s windmill, exploded, scattered debris across several acres, destroyed the windmill and water tank, and damaged Proctor’s flower garden. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History &#124; Aurora, TX</span><span class="citation-popover-snippet">History &#124; Aurora, TX</span></span></span>
 
 <img src="{{ "/assets/images/Aurora_Texas_airship_165367-overview.webp" | relative_url }}" alt="Overview image for Aurora Texas airship crash 1897" loading="eager" decoding="sync" fetchpriority="high">
-The most memorable part of the report was not the crash but the occupant. Haydon’s article said the pilot was believed to be the only person aboard and that the remains, though badly disfigured, showed the pilot was “not an inhabitant of this world”. Later retellings often call the being an alien or “Ned”, but the surviving 1897 account belongs to the language of its time: “airship”, “pilot”, machinery, wreckage, and speculation about Mars rather than the post-1947 language of flying saucers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History | Aurora, TX</span><span class="citation-popover-snippet">History | Aurora, TX</span></span></span>
+The most memorable part of the report was not the crash but the occupant. Haydon’s article said the pilot was believed to be the only person aboard and that the remains, though badly disfigured, showed the pilot was “not an inhabitant of this world”. Later retellings often call the being an alien or “Ned”, but the surviving 1897 account belongs to the language of its time: “airship”, “pilot”, machinery, wreckage, and speculation about Mars rather than the post-1947 language of flying saucers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History &#124; Aurora, TX</span><span class="citation-popover-snippet">History &#124; Aurora, TX</span></span></span>
 
-According to the modern town history page, Aurora treats the story as local lore: a “cigar shaped” craft, a crash into Judge Proctor’s windmill, an allegedly deceased alien creature, and a burial in Aurora Cemetery. That same town page reproduces excerpts from the Dallas Morning News report and notes that the original front page also carried other “flying object sightings”, an important clue that the Aurora tale was part of a wider press moment rather than an isolated report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History | Aurora, TX</span><span class="citation-popover-snippet">History | Aurora, TX</span></span></span>
+According to the modern town history page, Aurora treats the story as local lore: a “cigar shaped” craft, a crash into Judge Proctor’s windmill, an allegedly deceased alien creature, and a burial in Aurora Cemetery. That same town page reproduces excerpts from the Dallas Morning News report and notes that the original front page also carried other “flying object sightings”, an important clue that the Aurora tale was part of a wider press moment rather than an isolated report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History &#124; Aurora, TX</span><span class="citation-popover-snippet">History &#124; Aurora, TX</span></span></span>
 
 ## Why the wider 1897 “airship” wave matters
 
-Aurora did not appear out of nowhere. The Texas Almanac notes that between 13 and 17 April 1897 there were 38 reported “airship” sightings across 23 Texas counties, mostly in North Central Texas. Descriptions varied, but reports often referred to cigar-shaped bodies or cabins, propellers, wings, bright lights, and sometimes pilots or crew. Newspapers printed many of these stories in a straight-faced manner, though some reports had an obvious comic or tongue-in-cheek quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">TX Almanac When Airships Invaded Texas | TX Almanac</span><span class="citation-popover-snippet">TX Almanac When Airships Invaded Texas | TX Almanac</span></span></span>
+Aurora did not appear out of nowhere. The Texas Almanac notes that between 13 and 17 April 1897 there were 38 reported “airship” sightings across 23 Texas counties, mostly in North Central Texas. Descriptions varied, but reports often referred to cigar-shaped bodies or cabins, propellers, wings, bright lights, and sometimes pilots or crew. Newspapers printed many of these stories in a straight-faced manner, though some reports had an obvious comic or tongue-in-cheek quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">TX Almanac When Airships Invaded Texas &#124; TX Almanac</span><span class="citation-popover-snippet">TX Almanac When Airships Invaded Texas &#124; TX Almanac</span></span></span>
 
-This context cuts both ways. For believers, the cluster of reports can seem like corroboration that something unusual was being seen across Texas. For sceptics, the same cluster suggests a social and journalistic contagion: once “airships” became a popular topic, local correspondents and newspapers had incentives to supply dramatic variations. Aurora’s version is unusually elaborate because it adds a fatal crash, exotic wreckage, and a burial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">TX Almanac When Airships Invaded Texas | TX Almanac</span><span class="citation-popover-snippet">TX Almanac When Airships Invaded Texas | TX Almanac</span></span></span>
+This context cuts both ways. For believers, the cluster of reports can seem like corroboration that something unusual was being seen across Texas. For sceptics, the same cluster suggests a social and journalistic contagion: once “airships” became a popular topic, local correspondents and newspapers had incentives to supply dramatic variations. Aurora’s version is unusually elaborate because it adds a fatal crash, exotic wreckage, and a burial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">TX Almanac When Airships Invaded Texas &#124; TX Almanac</span><span class="citation-popover-snippet">TX Almanac When Airships Invaded Texas &#124; TX Almanac</span></span></span>
 
-The [airship wave]({{ 'airship-wave/' | relative_url }}) also predates powered aeroplane flight by several years, which gives the legend part of its fascination. But that does not by itself prove an extraordinary craft. Many 1890s airship stories included implausible conversations, theatrical details, or comic flourishes. The Texas Almanac, for example, records reports of crews singing hymns, handing out temperance tracts, and giving eccentric explanations of their travels, showing how quickly the airship theme became folklore as well as news. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">TX Almanac When Airships Invaded Texas | TX Almanac</span><span class="citation-popover-snippet">TX Almanac When Airships Invaded Texas | TX Almanac</span></span></span>
-
+The [airship wave]({{ 'airship-wave/' | relative_url }}) also predates powered aeroplane flight by several years, which gives the legend part of its fascination. But that does not by itself prove an extraordinary craft. Many 1890s airship stories included implausible conversations, theatrical details, or comic flourishes. The Texas Almanac, for example, records reports of crews singing hymns, handing out temperance tracts, and giving eccentric explanations of their travels, showing how quickly the airship theme became folklore as well as news. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">TX Almanac When Airships Invaded Texas &#124; TX Almanac</span><span class="citation-popover-snippet">TX Almanac When Airships Invaded Texas &#124; TX Almanac</span></span></span>
 
 <img src="{{ "/assets/images/Aurora_Texas_airship_165367-Illustration-1-dark.svg" | relative_url }}" alt="Aurora Texas airship crash 1897 illustration 1" data-theme-src-dark="{{ "/assets/images/Aurora_Texas_airship_165367-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aurora_Texas_airship_165367-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest evidence: a real article and a persistent local tradition
 
-The case’s documentary foundation is real: there was an 1897 newspaper story, and modern Aurora still acknowledges the legend as part of local identity. The town’s own history page quotes the Dallas Morning News account and frames the crash as one of the features that made Aurora “legendary”. That gives the case a firmer documentary anchor than stories that exist only as later oral tradition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History | Aurora, TX</span><span class="citation-popover-snippet">History | Aurora, TX</span></span></span>
+The case’s documentary foundation is real: there was an 1897 newspaper story, and modern Aurora still acknowledges the legend as part of local identity. The town’s own history page quotes the Dallas Morning News account and frames the crash as one of the features that made Aurora “legendary”. That gives the case a firmer documentary anchor than stories that exist only as later oral tradition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History &#124; Aurora, TX</span><span class="citation-popover-snippet">History &#124; Aurora, TX</span></span></span>
 
 Aurora Cemetery adds another layer. The Texas Historical Commission’s Atlas entry for the Aurora Cemetery marker records that the marker was installed in 1976 and that its text includes the statement that the site is known because of the legend that a spaceship crashed nearby in 1897 and that the pilot, killed in the crash, was buried there. Crucially, the marker calls it a “legend”, not an authenticated burial of an extraterrestrial being. <span class="citation-chip-wrap"><a class="citation-chip" href="https://atlas.thc.texas.gov/Details/5497000240" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlas.thc.texas.gov">[atlas.thc.texas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlas.thc.texas.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -792,7 +790,6 @@ Local retellings describe a sealed well at the crash site, souvenir hunters, a m
 
 Claims about metal fragments or unusual materials should be treated carefully. Aluminium existed before 1897, even if it was less common than later, and isolated pieces without secure recovery records, laboratory documentation, and provenance cannot establish a crashed extraterrestrial craft. In this case, the public record is dominated by anecdote, television investigation summaries, and local lore rather than a reproducible forensic file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/7096968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OgoO2O8zQxA" title="AF-987: The 1890s Alien Gravesite | Ancestral Findings Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OgoO2O8zQxA" target="_blank" rel="noopener noreferrer">AF-987: The 1890s Alien Gravesite | Ancestral Findings Podcast</a></p><p class="youtube-embed-meta">Channel: Ancestral Findings &middot; Views: 1.4K &middot; Uploaded: November 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OgoO2O8zQxA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OgoO2O8zQxA">Open on YouTube</a></p></div></div></div>
 
 ## The main sceptical explanation: a local hoax in a struggling town
@@ -801,16 +798,15 @@ The most common sceptical interpretation is that Haydon’s story was a delibera
 
 TIME’s 1979 account gives the most quoted local debunking testimony. Etta Pegues, then 86, said Haydon wrote the story “as a joke and to bring interest to Aurora”, adding that the railroad had bypassed the town and that Aurora was dying. TIME also reported that many local citizens still scoffed at the tale, and Pegues specifically challenged a concrete detail by saying Judge Proctor never even had a windmill. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6881563/americana-close-encounters-of-a-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That does not prove every detail of the [hoax theory]({{ 'hoax-theory-71ebaa/' | relative_url }}) beyond doubt. Pegues was speaking decades after the alleged event, and her recollection was itself a late source. But the hoax explanation has several strengths: the story appeared during a known airship-reporting wave; it contained sensational details; there is no strong independent contemporary corroboration of the crash, body, funeral, or wreckage; and the town had plausible motives for attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">TX Almanac When Airships Invaded Texas | TX Almanac</span><span class="citation-popover-snippet">TX Almanac When Airships Invaded Texas | TX Almanac</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6881563/americana-close-encounters-of-a-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That does not prove every detail of the [hoax theory]({{ 'hoax-theory-71ebaa/' | relative_url }}) beyond doubt. Pegues was speaking decades after the alleged event, and her recollection was itself a late source. But the hoax explanation has several strengths: the story appeared during a known airship-reporting wave; it contained sensational details; there is no strong independent contemporary corroboration of the crash, body, funeral, or wreckage; and the town had plausible motives for attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">TX Almanac When Airships Invaded Texas &#124; TX Almanac</span><span class="citation-popover-snippet">TX Almanac When Airships Invaded Texas &#124; TX Almanac</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6881563/americana-close-encounters-of-a-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## Witness credibility and corroboration
 
-The case has a witness problem. The central 1897 source is not a sworn statement from a named eyewitness at the crash site but a newspaper report by a local correspondent. The report names Judge Proctor as the owner of the damaged windmill and refers to a supposed Army Signal Service officer, T. J. Weems, in later summaries of the article, but the enduring public case does not rest on a body of signed, cross-checked contemporary statements from multiple identified observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History | Aurora, TX</span><span class="citation-popover-snippet">History | Aurora, TX</span></span></span>
+The case has a witness problem. The central 1897 source is not a sworn statement from a named eyewitness at the crash site but a newspaper report by a local correspondent. The report names Judge Proctor as the owner of the damaged windmill and refers to a supposed Army Signal Service officer, T. J. Weems, in later summaries of the article, but the enduring public case does not rest on a body of signed, cross-checked contemporary statements from multiple identified observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History &#124; Aurora, TX</span><span class="citation-popover-snippet">History &#124; Aurora, TX</span></span></span>
 
 Later testimony is even more difficult. Reports of people remembering parents visiting the crash site, or of residents recalling what they had been told, may be valuable for folklore history, but they are weak as evidence for a physical crash. Human memory over decades is vulnerable to contamination by local legend, newspaper retellings, and later UFO culture. In Aurora, the legend became part of the town’s identity, making it especially hard to separate independent memory from inherited story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc13.com/archive/7096968/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc13.com">[ABC13 Houston]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc13.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The lack of a strong official investigation also matters. There is no known government crash file comparable to later aviation or military accident investigations, no authenticated inventory of debris, no medical report on a body, and no cemetery record publicly verifying an anomalous burial. The Texas Historical Commission marker preserves the legend because it is culturally significant; it does not certify the crash as a factual event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://atlas.thc.texas.gov/Details/5497000240" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlas.thc.texas.gov">[atlas.thc.texas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlas.thc.texas.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Aurora_Texas_airship_165367-Illustration-2-dark.svg" | relative_url }}" alt="Aurora Texas airship crash 1897 illustration 2" data-theme-src-dark="{{ "/assets/images/Aurora_Texas_airship_165367-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aurora_Texas_airship_165367-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the “alien grave” became the centre of the legend
@@ -819,61 +815,101 @@ The grave story gives Aurora its staying power. A mere airship crash report migh
 
 The cemetery’s official historical marker helped stabilise that association, even while using cautious language. Its text says the cemetery is known because of the legend that a spaceship crashed nearby and that the pilot was buried there. That wording is important: it recognises the story as part of the site’s public memory, while stopping short of saying the burial happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://atlas.thc.texas.gov/Details/5497000240" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlas.thc.texas.gov">[atlas.thc.texas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlas.thc.texas.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The name “Ned” is a modern folk detail rather than a verified 1897 identity. It makes the supposed pilot more personable and tourism-friendly, but it also shows how legends evolve. The original story’s strange pilot became, over time, a named local character, a cemetery attraction, and a symbol of Aurora’s unusual place in UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History | Aurora, TX</span><span class="citation-popover-snippet">History | Aurora, TX</span></span></span>
-
+The name “Ned” is a modern folk detail rather than a verified 1897 identity. It makes the supposed pilot more personable and tourism-friendly, but it also shows how legends evolve. The original story’s strange pilot became, over time, a named local character, a cemetery attraction, and a symbol of Aurora’s unusual place in UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: auroratexas.gov">[auroratexas.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">auroratexas.gov</span><span class="citation-popover-title">History &#124; Aurora, TX</span><span class="citation-popover-snippet">History &#124; Aurora, TX</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QJuMSxt4cUQ" title="Aurora, Texas UFO Crash 1897 | Exploring America’s First Alien Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QJuMSxt4cUQ" target="_blank" rel="noopener noreferrer">Aurora, Texas UFO Crash 1897 | Exploring America’s First Alien Mystery</a></p><p class="youtube-embed-meta">Channel: Travels with Nick &middot; Views: 32.9K &middot; Uploaded: July 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QJuMSxt4cUQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QJuMSxt4cUQ">Open on YouTube</a></p></div></div></div>
 
 ## Best current assessment
 
-The Aurora airship crash is historically important but evidentially weak. The incident is important because it shows that core UFO motifs — mysterious craft, crash debris, non-human pilot, local burial, disputed physical site, and later investigation — were already present half a century before Roswell. It is weak because the case depends heavily on one sensational newspaper item, later oral tradition, and inconclusive physical claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">TX Almanac When Airships Invaded Texas | TX Almanac</span><span class="citation-popover-snippet">TX Almanac When Airships Invaded Texas | TX Almanac</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tshaonline.org/texas-day-by-day/entry/118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tshaonline.org">[Texas State Historical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tshaonline.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Aurora airship crash is historically important but evidentially weak. The incident is important because it shows that core UFO motifs — mysterious craft, crash debris, non-human pilot, local burial, disputed physical site, and later investigation — were already present half a century before Roswell. It is weak because the case depends heavily on one sensational newspaper item, later oral tradition, and inconclusive physical claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: texasalmanac.com">[TX Almanac]</a><span class="citation-popover" role="note"><span class="citation-popover-source">texasalmanac.com</span><span class="citation-popover-title">TX Almanac When Airships Invaded Texas &#124; TX Almanac</span><span class="citation-popover-snippet">TX Almanac When Airships Invaded Texas &#124; TX Almanac</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tshaonline.org/texas-day-by-day/entry/118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tshaonline.org">[Texas State Historical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tshaonline.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The most evidence-supported reading is that Aurora was a local airship-wave story, probably a hoax or tall tale, later transformed into a UFO crash legend. That conclusion does not require dismissing every witness as dishonest. It only recognises that the available evidence is far better at proving a durable legend than at proving an actual crashed craft or extraterrestrial burial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/archive/6881563/americana-close-encounters-of-a-kind/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tshaonline.org/texas-day-by-day/entry/118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tshaonline.org">[Texas State Historical Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tshaonline.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For a case dossier, Aurora should be filed as a high-cultural-value, low-physical-evidence incident. It is useful for understanding how UFO crash narratives develop, how local memory and tourism preserve ambiguous stories, and how later investigators can inherit claims that were never documented well enough at the time. It remains one of the most memorable early UFO crash stories, but its unresolved status comes from missing evidence, not from balanced proof on both sides.
 
-
 <img src="{{ "/assets/images/Aurora_Texas_airship_165367-Illustration-3-dark.svg" | relative_url }}" alt="Aurora Texas airship crash 1897 illustration 3" data-theme-src-dark="{{ "/assets/images/Aurora_Texas_airship_165367-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aurora_Texas_airship_165367-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Did Aurora Really Bury an Alien Pilot?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Did Aurora Really Bury an Alien Pilot?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides an objective, highly detailed encyclopedic profile of the Aurora incident and its subsequent cultural legacy.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s a Horse&#x27;s Life! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=swoVJIlrzmgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for It&#x27;s a Horse&#x27;s Life!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s a Horse&#x27;s Life!">It&#x27;s a Horse&#x27;s Life!</a>
+        </h4>
+        <p class="fr-book-author">By Joanne Friedman</p>
+        
+        <p class="fr-book-desc">Devotes detailed coverage to the Aurora crash legend, S.E. Haydon&#x27;s report, and Judge Proctor&#x27;s windmill.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21+by+Joanne+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open It&#x27;s a Horse&#x27;s Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1299434-M.jpg" alt="Cover for It&#x27;s a Horse&#x27;s Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="It&#x27;s a Horse&#x27;s Life">It&#x27;s a Horse&#x27;s Life</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+        
+        <p class="fr-book-desc">Devotes detailed coverage to the Aurora crash legend, S.E. Haydon&#x27;s report, and Judge Proctor&#x27;s windmill.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Civil+War+Sites+by+James+Campi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Civil War Sites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BvNjvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Civil War Sites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Civil+War+Sites+by+James+Campi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Civil War Sites">Civil War Sites</a>
+        </h4>
+        <p class="fr-book-author">By James Campi, Civil War Preservation Trust</p>
+        
+        <p class="fr-book-desc">Includes the story of the Aurora cemetery burial alongside other classic, enduring Texas historical tall tales.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Civil+War+Sites+by+James+Campi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s a Horse&#x27;s Life!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=It%27s+a+Horse%27s+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">It&#x27;s a Horse&#x27;s Life</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -884,93 +920,93 @@ For a case dossier, Aurora should be filed as a high-cultural-value, low-physica
 1. <a id="endnote-1"></a>
    Source: auroratexas.gov  
    Title: History | Aurora, TX  
-   Link: [https://www.auroratexas.gov/community/history/](https://www.auroratexas.gov/community/history/)  
+   Link: <a href="https://www.auroratexas.gov/community/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.auroratexas.gov/community/history/</a>  
 
 2. <a id="endnote-2"></a>
    Source: atlas.thc.texas.gov  
-   Link: [https://atlas.thc.texas.gov/Details/5497000240](https://atlas.thc.texas.gov/Details/5497000240)  
+   Link: <a href="https://atlas.thc.texas.gov/Details/5497000240" target="_blank" rel="noopener noreferrer nofollow">https://atlas.thc.texas.gov/Details/5497000240</a>  
 
 3. <a id="endnote-3"></a>
    Source: abc13.com  
-   Link: [https://abc13.com/archive/7096968/](https://abc13.com/archive/7096968/)  
+   Link: <a href="https://abc13.com/archive/7096968/" target="_blank" rel="noopener noreferrer nofollow">https://abc13.com/archive/7096968/</a>  
 
 4. <a id="endnote-4"></a>
    Source: time.com  
-   Link: [https://time.com/archive/6881563/americana-close-encounters-of-a-kind/](https://time.com/archive/6881563/americana-close-encounters-of-a-kind/)  
+   Link: <a href="https://time.com/archive/6881563/americana-close-encounters-of-a-kind/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6881563/americana-close-encounters-of-a-kind/</a>  
 
 5. <a id="endnote-5"></a>
    Source: pod.wave.co  
    Title: co Roswell of Texas: The Aurora UFO  
-   Link: [https://pod.wave.co/podcast/conspiracy-theories/roswell-of-texas-the-aurora-ufo-8b6ae805](https://pod.wave.co/podcast/conspiracy-theories/roswell-of-texas-the-aurora-ufo-8b6ae805)  
+   Link: <a href="https://pod.wave.co/podcast/conspiracy-theories/roswell-of-texas-the-aurora-ufo-8b6ae805" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/conspiracy-theories/roswell-of-texas-the-aurora-ufo-8b6ae805</a>  
 
 6. <a id="endnote-6"></a>
    Source: blog.newspapers.com  
    Title: before roswell there was the aurora spaceship  
-   Link: [https://blog.newspapers.com/before-roswell-there-was-the-aurora-spaceship/](https://blog.newspapers.com/before-roswell-there-was-the-aurora-spaceship/)  
+   Link: <a href="https://blog.newspapers.com/before-roswell-there-was-the-aurora-spaceship/" target="_blank" rel="noopener noreferrer nofollow">https://blog.newspapers.com/before-roswell-there-was-the-aurora-spaceship/</a>  
 
 7. <a id="endnote-7"></a>
    Source: texasalmanac.com  
    Title: TX Almanac When Airships Invaded Texas | TX Almanac  
-   Link: [https://www.texasalmanac.com/articles/when-airships-invaded-texas](https://www.texasalmanac.com/articles/when-airships-invaded-texas)  
+   Link: <a href="https://www.texasalmanac.com/articles/when-airships-invaded-texas" target="_blank" rel="noopener noreferrer nofollow">https://www.texasalmanac.com/articles/when-airships-invaded-texas</a>  
 
 8. <a id="endnote-8"></a>
    Source: tshaonline.org  
-   Link: [https://www.tshaonline.org/texas-day-by-day/entry/118](https://www.tshaonline.org/texas-day-by-day/entry/118)  
+   Link: <a href="https://www.tshaonline.org/texas-day-by-day/entry/118" target="_blank" rel="noopener noreferrer nofollow">https://www.tshaonline.org/texas-day-by-day/entry/118</a>  
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Mystery airship  
-   Link: [https://en.wikipedia.org/wiki/Mystery_airship](https://en.wikipedia.org/wiki/Mystery_airship)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mystery_airship" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mystery_airship</a>  
 
 10. <a id="endnote-10"></a>
    Source: roadsideamerica.com  
-   Link: [https://www.roadsideamerica.com/story/13501](https://www.roadsideamerica.com/story/13501)  
+   Link: <a href="https://www.roadsideamerica.com/story/13501" target="_blank" rel="noopener noreferrer nofollow">https://www.roadsideamerica.com/story/13501</a>  
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: ancestralfindings.com  
-   Link: [https://ancestralfindings.com/the-1890s-alien-gravesite-a-curious-tale-from-aurora-cemetery-texas/](https://ancestralfindings.com/the-1890s-alien-gravesite-a-curious-tale-from-aurora-cemetery-texas/)  
+   Link: <a href="https://ancestralfindings.com/the-1890s-alien-gravesite-a-curious-tale-from-aurora-cemetery-texas/" target="_blank" rel="noopener noreferrer nofollow">https://ancestralfindings.com/the-1890s-alien-gravesite-a-curious-tale-from-aurora-cemetery-texas/</a>  
 
 12. <a id="endnote-12"></a>
    Source: findagrave.com  
-   Link: [https://www.findagrave.com/memorial/52130170/extraterrestrial_airship_pilot-alien](https://www.findagrave.com/memorial/52130170/extraterrestrial_airship_pilot-alien)  
+   Link: <a href="https://www.findagrave.com/memorial/52130170/extraterrestrial_airship_pilot-alien" target="_blank" rel="noopener noreferrer nofollow">https://www.findagrave.com/memorial/52130170/extraterrestrial_airship_pilot-alien</a>  
 
 13. <a id="endnote-13"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/](https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/)  
+   Link: <a href="https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2017/12/the-roswell-incident-at-70-facts-not-myths/</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: an 1897 ufo this clipping is just one of many mystery airship reports that fille  
-   Link: [https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/](https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/)  
+   Link: <a href="https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newspaperscom/posts/an-1897-ufo-this-clipping-is-just-one-of-many-mystery-airship-reports-that-fille/1415480043926635/</a>  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: has anyone seen the grave marker memorializing an alien named ned who supposedly  
-   Link: [https://www.facebook.com/texas.monthly.magazine/posts/has-anyone-seen-the-grave-marker-memorializing-an-alien-named-ned-who-supposedly/10160475011345364/](https://www.facebook.com/texas.monthly.magazine/posts/has-anyone-seen-the-grave-marker-memorializing-an-alien-named-ned-who-supposedly/10160475011345364/)  
+   Link: <a href="https://www.facebook.com/texas.monthly.magazine/posts/has-anyone-seen-the-grave-marker-memorializing-an-alien-named-ned-who-supposedly/10160475011345364/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/texas.monthly.magazine/posts/has-anyone-seen-the-grave-marker-memorializing-an-alien-named-ned-who-supposedly/10160475011345364/</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: in the spring of 1897 a reported ufo crash occurred on a farm near aurora in wis  
-   Link: [https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/](https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/)  
+   Link: <a href="https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TexasHistoricalCommission/posts/in-the-spring-of-1897-a-reported-ufo-crash-occurred-on-a-farm-near-aurora-in-wis/1144472984440318/</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
    Title: on this day in 1897 an intriguing tale emerged in the pages of the dallas mornin  
-   Link: [https://www.facebook.com/txchronicles/posts/on-this-day-in-1897-an-intriguing-tale-emerged-in-the-pages-of-the-dallas-mornin/1216337650148606/](https://www.facebook.com/txchronicles/posts/on-this-day-in-1897-an-intriguing-tale-emerged-in-the-pages-of-the-dallas-mornin/1216337650148606/)  
+   Link: <a href="https://www.facebook.com/txchronicles/posts/on-this-day-in-1897-an-intriguing-tale-emerged-in-the-pages-of-the-dallas-mornin/1216337650148606/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/txchronicles/posts/on-this-day-in-1897-an-intriguing-tale-emerged-in-the-pages-of-the-dallas-mornin/1216337650148606/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: on april 17 1897 according to a report in the dallas morning news written by se  
-   Link: [https://www.facebook.com/quanticaudioyoutube/posts/on-april-17-1897-according-to-a-report-in-the-dallas-morning-news-written-by-se-/1398466122305915/](https://www.facebook.com/quanticaudioyoutube/posts/on-april-17-1897-according-to-a-report-in-the-dallas-morning-news-written-by-se-/1398466122305915/)  
+   Link: <a href="https://www.facebook.com/quanticaudioyoutube/posts/on-april-17-1897-according-to-a-report-in-the-dallas-morning-news-written-by-se-/1398466122305915/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/quanticaudioyoutube/posts/on-april-17-1897-according-to-a-report-in-the-dallas-morning-news-written-by-se-/1398466122305915/</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0h57n6zG-oE](https://www.youtube.com/watch?v=0h57n6zG-oE)  
+   Link: <a href="https://www.youtube.com/watch?v=0h57n6zG-oE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0h57n6zG-oE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Solving the Mystery of the 1897 Aurora Airship...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: texasstandard.org  
    Title: nearly 120 years after alleged ufo crash small texas town is all about aliens  
-   Link: [https://texasstandard.org/stories/nearly-120-years-after-alleged-ufo-crash-small-texas-town-is-all-about-aliens/](https://texasstandard.org/stories/nearly-120-years-after-alleged-ufo-crash-small-texas-town-is-all-about-aliens/)  
+   Link: <a href="https://texasstandard.org/stories/nearly-120-years-after-alleged-ufo-crash-small-texas-town-is-all-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://texasstandard.org/stories/nearly-120-years-after-alleged-ufo-crash-small-texas-town-is-all-about-aliens/</a>

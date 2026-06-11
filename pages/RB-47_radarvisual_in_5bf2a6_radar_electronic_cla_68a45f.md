@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /rb-47-radarvisual-incident-1957/
 nav_short_title: Radar Claims
 title: Did the Instruments Really Corroborate It?
-title_full: Did the Instruments Really Corroborate It? | RB 47 Incident
+title_full: Did the Instruments Really Corroborate It?
 display_title_short: Radar Claims
 display_title: Radar Claims
 heading_title: Did the Instruments Really Corroborate It?
@@ -233,7 +233,7 @@ next_link:
   permalink: /records-debate/
   short_title: Records Debate
   heading_title: Why the RB 47 Case Still Divides Researchers
-date: '2026-06-08 23:30:12 '
+date: '2026-06-11 13:18:21 '
 header:
   og_image: /assets/images/RB-47_radarvisual_in_5bf2a6_radar_electronic_cla_68a45f-Illustration-1-social.jpg
   preview_image: /assets/images/RB-47_radarvisual_in_5bf2a6_radar_electronic_cla_68a45f-Illustration-1.webp
@@ -242,22 +242,20 @@ image: /assets/images/RB-47_radarvisual_in_5bf2a6_radar_electronic_cla_68a45f-Il
 
 ## Introduction
 
-The RB-47 incident became famous not simply because aircrew reported strange lights, but because several different systems appeared to agree with one another. Crew members on a United States Air Force RB-47H reconnaissance aircraft said they detected unusual radar-like emissions on electronic monitoring gear, saw luminous objects visually, and received confirmation from ground radar stations tracking an unknown target near the aircraft. That combination turned the episode into one of the classic “radar/visual” UFO cases of the Cold War. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia The central question]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe RB-47 Radar–Electronic Intelligence (ECM) UFO...The selected case, which occurred on July 17, 1957, is treated in the Condon...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>, however, is whether those systems truly corroborated one another or whether later retellings stitched together unrelated events into a stronger narrative than the original evidence justified. The debate does not revolve around ordinary eyewitness reliability alone. It hinges on technical issues: what the RB-47’s electronic countermeasures equipment could actually detect, whether ground radar operators independently tracked an unknown object, and whether the timing and movement correlations were genuine or reconstructed after the fact.
-
+The RB-47 incident became famous not simply because aircrew reported strange lights, but because several different systems appeared to agree with one another. Crew members on a United States Air Force RB-47H reconnaissance aircraft said they detected unusual radar-like emissions on electronic monitoring gear, saw luminous objects visually, and received confirmation from ground radar stations tracking an unknown target near the aircraft. That combination turned the episode into one of the classic “radar/visual” UFO cases of the Cold War. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia The central question]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The RB-47 Radar–Electronic Intelligence (ECM) UFO...The selected case, which occurred on July 17, 1957, is treated in the Condon...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>, however, is whether those systems truly corroborated one another or whether later retellings stitched together unrelated events into a stronger narrative than the original evidence justified. The debate does not revolve around ordinary eyewitness reliability alone. It hinges on technical issues: what the RB-47’s electronic countermeasures equipment could actually detect, whether ground radar operators independently tracked an unknown object, and whether the timing and movement correlations were genuine or reconstructed after the fact.
 
 <img src="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_radar_electronic_cla_68a45f-Illustration-1-dark.svg" | relative_url }}" alt="Radar Claims illustration 1" data-theme-src-dark="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_radar_electronic_cla_68a45f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_radar_electronic_cla_68a45f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the RB-47’s Electronic Gear Was Supposed to Detect
 
 The RB-47H was not a standard bomber. It was an electronic intelligence aircraft designed to intercept and analyse radar and communications signals. Three electronic warfare officers operated specialised monitoring equipment in the aircraft’s rear compartment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_B-47_Stratojet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing B-47 Stratojet</span><span class="citation-popover-snippet">Boeing B-47 Stratojet</span></span></span>
 
-According to later accounts, the crew first noticed something unusual through the aircraft’s electronic countermeasures system rather than through direct visual observation. The reported signal was described as an S-band radar emission, often cited in the range of roughly 2,800 to 3,000 MHz. The important claim was not merely that a radar signal existed. The Gulf Coast and southern United States were full of radar installations in 1957. The unusual feature was that the signal allegedly appeared to move relative to the aircraft in a way that suggested a mobile source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia James E. McDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe RB-47 Radar–Electronic Intelligence (ECM) UFO...The selected case, which occurred on July 17, 1957, is treated in the Condon...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>, the atmospheric physicist who later re-examined the case, argued that the electronic evidence was the strongest part of the incident because the monitoring gear reportedly showed changes in bearing and signal behaviour consistent with an object manoeuvring around the aircraft. He emphasised that the operators were trained specifically to distinguish fixed radar stations from moving emitters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald fsr 16 3 2 70</span><span class="citation-popover-snippet">the 1957 gulf coast rb-47 - incidentThe unidenti- fied object was, at various times, seen visually by the cockpit crew (as an intense whi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">UFO Report.cdrunknown source of the 3000 mcs radar-like signal was moving up- scope relative to the 500 mph RB-47.... On June 13, James...</span></span></span>
+According to later accounts, the crew first noticed something unusual through the aircraft’s electronic countermeasures system rather than through direct visual observation. The reported signal was described as an S-band radar emission, often cited in the range of roughly 2,800 to 3,000 MHz. The important claim was not merely that a radar signal existed. The Gulf Coast and southern United States were full of radar installations in 1957. The unusual feature was that the signal allegedly appeared to move relative to the aircraft in a way that suggested a mobile source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia James E. McDonald]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The RB-47 Radar–Electronic Intelligence (ECM) UFO...The selected case, which occurred on July 17, 1957, is treated in the Condon...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>, the atmospheric physicist who later re-examined the case, argued that the electronic evidence was the strongest part of the incident because the monitoring gear reportedly showed changes in bearing and signal behaviour consistent with an object manoeuvring around the aircraft. He emphasised that the operators were trained specifically to distinguish fixed radar stations from moving emitters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald fsr 16 3 2 70</span><span class="citation-popover-snippet">the 1957 gulf coast rb-47 - incidentThe unidenti- fied object was, at various times, seen visually by the cockpit crew (as an intense whi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">UFO Report.cdrunknown source of the 3000 mcs radar-like signal was moving up- scope relative to the 500 mph RB-47.... On June 13, James...</span></span></span>
 
 Sceptics countered that this confidence may have been overstated. The available documentation does not include preserved raw instrument recordings, complete scope photographs, or comprehensive technical logs from the aircraft systems. Much of the interpretation relies on crew recollections and later summaries rather than surviving primary data. That gap matters because electronic intelligence equipment can produce ambiguous indications, especially in environments crowded with radar transmissions.
 
 ## Why the Alleged Correlation Mattered So Much
 
 Radar/visual cases attract attention because multiple independent systems are assumed to reduce the chances of simple misidentification. In the RB-47 incident, proponents argued that three separate channels aligned:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -267,10 +265,9 @@ Radar/visual cases attract attention because multiple independent systems are as
 
 </div>
 
-The claim was not just that these events happened during the same flight, but that they appeared synchronised. The object supposedly appeared where the electronic signal indicated it should be, while ground controllers reportedly tracked a target near the aircraft at the same time. kirkmcd.princeton.edu Academia This apparent overlap became the case’s defining feature. A single bright light in the night sky might be explained as a star <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe RB-47 Radar–Electronic Intelligence (ECM) UFO...The selected case, which occurred on July 17, 1957, is treated in the Condon...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>, aircraft, or atmospheric effect. A radar signal alone might be a technical anomaly. But if visual sightings, airborne instrumentation, and independent ground radar all point to the same moving target, the probability of coincidence appears lower.
+The claim was not just that these events happened during the same flight, but that they appeared synchronised. The object supposedly appeared where the electronic signal indicated it should be, while ground controllers reportedly tracked a target near the aircraft at the same time. kirkmcd.princeton.edu Academia This apparent overlap became the case’s defining feature. A single bright light in the night sky might be explained as a star <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The RB-47 Radar–Electronic Intelligence (ECM) UFO...The selected case, which occurred on July 17, 1957, is treated in the Condon...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>, aircraft, or atmospheric effect. A radar signal alone might be a technical anomaly. But if visual sightings, airborne instrumentation, and independent ground radar all point to the same moving target, the probability of coincidence appears lower.
 
-That is why later UFO literature repeatedly treated the RB-47 incident as one of the strongest examples of “instrumented corroboration” rather than merely a pilot sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/RB47_Sparks_Ency.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">NICAPrb-47 radar/visual caseIt is one of the top cases investigated by University of Arizona at- mospheric physicist James E. McDonald an...</span></span></span>
-
+That is why later UFO literature repeatedly treated the RB-47 incident as one of the strongest examples of “instrumented corroboration” rather than merely a pilot sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nicap.org/reports/RB47_Sparks_Ency.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nicap.org">[NICAP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nicap.org</span><span class="citation-popover-snippet">rb-47 radar/visual caseIt is one of the top cases investigated by University of Arizona at- mospheric physicist James E. McDonald an...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_ziODBruqdA" title="Ex-ISRO Chief S. Somanath on Space Secrets - Aliens, Chandrayaan, Mars &amp; Black Holes | TRS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_ziODBruqdA" target="_blank" rel="noopener noreferrer">Ex-ISRO Chief S. Somanath on Space Secrets - Aliens, Chandrayaan, Mars &amp; Black Holes | TRS</a></p><p class="youtube-embed-meta">Channel: BeerBiceps &middot; Views: 3.6M &middot; Uploaded: August 2024 &middot; Length: 1 hour 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_ziODBruqdA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_ziODBruqdA">Open on YouTube</a></p></div></div></div>
 
@@ -278,22 +275,21 @@ That is why later UFO literature repeatedly treated the RB-47 incident as one of
 
 One of the most cited parts of the story concerns radar tracking from Duncanville Air Force Station near Dallas, Texas. Later summaries state that ground radar operators detected an unidentified target near the RB-47 and even scrambled interceptor aircraft in response. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Duncanville_Air_Force_Station" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Duncanville Air Force Station</span><span class="citation-popover-snippet">Duncanville Air Force Station</span></span></span>
 
-According to the standard narrative, radar stations intermittently tracked an object that appeared to pace or manoeuvre around the RB-47. In some retellings, the target stopped abruptly while the RB-47 passed beneath it, behaviour presented as difficult to reconcile with conventional aircraft motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/rb-47-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works The RB-47 UFO Encounter</span><span class="citation-popover-snippet">HowStuffWorksThe RB-47 UFO EncounterJanuary 1, 1970 — The RB-47 UFO incident of 1957 was classified for years after it happened. Read how...</span><span class="citation-popover-meta">Published: January 1, 1970</span></span></span>
+According to the standard narrative, radar stations intermittently tracked an object that appeared to pace or manoeuvre around the RB-47. In some retellings, the target stopped abruptly while the RB-47 passed beneath it, behaviour presented as difficult to reconcile with conventional aircraft motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/rb-47-ufo.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-title">How Stuff Works The RB-47 UFO Encounter</span><span class="citation-popover-snippet">The RB-47 UFO EncounterJanuary 1, 1970 — The RB-47 UFO incident of 1957 was classified for years after it happened. Read how...</span><span class="citation-popover-meta">Published: January 1, 1970</span></span></span>
 
-However, the surviving evidence for the radar tracking is thinner than many later accounts imply. There is no publicly available radar film showing the unknown target, nor a full set of contemporaneous controller transcripts. Much of the radar story comes through retrospective summaries in the Condon Report, later analyses by McDonald, and secondary UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe RB-47 Radar–Electronic Intelligence (ECM) UFO...The selected case, which occurred on July 17, 1957, is treated in the Condon...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>
+However, the surviving evidence for the radar tracking is thinner than many later accounts imply. There is no publicly available radar film showing the unknown target, nor a full set of contemporaneous controller transcripts. Much of the radar story comes through retrospective summaries in the Condon Report, later analyses by McDonald, and secondary UFO literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The RB-47 Radar–Electronic Intelligence (ECM) UFO...The selected case, which occurred on July 17, 1957, is treated in the Condon...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>
 
 This distinction is crucial. The case is often described popularly as if complete radar records survive proving an unknown object was tracked continuously for over an hour. That is not what the evidence actually shows. Instead, the historical record consists mainly of witness testimony, partial military documentation, and later technical interpretation.
 
 ## The Condon Report’s Uneasy Assessment
 
-The University of Colorado UFO study, commonly called the Condon Report, treated the RB-47 case cautiously rather than enthusiastically. Investigator Gordon David Thayer acknowledged that, if accurately reported, the incident described something genuinely puzzling. Yet he also stressed that the available information was incomplete and insufficient for firm conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe RB-47 Radar–Electronic Intelligence (ECM) UFO...The selected case, which occurred on July 17, 1957, is treated in the Condon...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>
+The University of Colorado UFO study, commonly called the Condon Report, treated the RB-47 case cautiously rather than enthusiastically. Investigator Gordon David Thayer acknowledged that, if accurately reported, the incident described something genuinely puzzling. Yet he also stressed that the available information was incomplete and insufficient for firm conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The RB-47 Radar–Electronic Intelligence (ECM) UFO...The selected case, which occurred on July 17, 1957, is treated in the Condon...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>
 
-An important complication emerged later: parts of the Colorado team’s radar and weather analysis appear to have used the wrong date. McDonald argued this seriously weakened sceptical explanations developed during the investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe RB-47 Radar–Electronic Intelligence (ECM) UFO...The selected case, which occurred on July 17, 1957, is treated in the Condon...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>
+An important complication emerged later: parts of the Colorado team’s radar and weather analysis appear to have used the wrong date. McDonald argued this seriously weakened sceptical explanations developed during the investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The RB-47 Radar–Electronic Intelligence (ECM) UFO...The selected case, which occurred on July 17, 1957, is treated in the Condon...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>
 
 That mistake became central to later debate. UFO proponents argued it showed the case had been inadequately investigated and prematurely dismissed. Skeptics responded that even if some analysis was flawed, the underlying evidence remained incomplete and ambiguous.
 
 The result was an unusual middle ground. Even investigators who were generally sceptical about UFO claims sometimes conceded that the RB-47 event could not be neatly resolved from the surviving data. At the same time, few mainstream analysts regarded it as proof of extraordinary technology.
-
 
 <img src="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_radar_electronic_cla_68a45f-Illustration-2-dark.svg" | relative_url }}" alt="Radar Claims illustration 2" data-theme-src-dark="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_radar_electronic_cla_68a45f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_radar_electronic_cla_68a45f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Could the Electronic Signals Have Come From Ordinary Radar?
@@ -301,7 +297,6 @@ The result was an unusual middle ground. Even investigators who were generally s
 The leading conventional explanation focuses on radar misinterpretation rather than fabrication or hallucination. The southern United States in 1957 contained numerous military and civilian radar systems, including air defence networks and weather radar installations. An electronic reconnaissance aircraft would naturally detect many emissions during flight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Incontro_UFO_dell%27RB-47" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incontro UFO dell&#x27;RB-47</span><span class="citation-popover-snippet">Incontro UFO dell&#x27;RB-47</span></span></span>
 
 Critics of the UFO interpretation argue that the RB-47 crew may have encountered ordinary ground radar signals whose behaviour only appeared anomalous because of geometry, signal propagation, switching between radar sources, or equipment limitations. Under this interpretation:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -317,19 +312,17 @@ Supporters of the anomaly interpretation reply that the electronic warfare offic
 
 The difficulty is that modern researchers cannot independently reconstruct the encounter with confidence because the key raw telemetry and radar records are missing.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2j2YPSSQLQM" title="Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)</a></p><p class="youtube-embed-meta">Channel: Dreams of Disclosure &middot; Views: 41.3K &middot; Uploaded: October 2025 &middot; Length: 5 hours 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2j2YPSSQLQM">Open on YouTube</a></p></div></div></div>
 
 ## The Problem of Missing Primary Data
 
-The RB-47 case is often presented as an instrument-heavy UFO event, yet surprisingly little direct instrument evidence survives publicly. There are no released continuous scope recordings, authenticated cockpit tapes, or complete radar plots tracing the alleged target’s movements from beginning to end. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">AcademiaThe RB-47 Radar–Electronic Intelligence (ECM) UFO...The selected case, which occurred on July 17, 1957, is treated in the Condon...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>
+The RB-47 case is often presented as an instrument-heavy UFO event, yet surprisingly little direct instrument evidence survives publicly. There are no released continuous scope recordings, authenticated cockpit tapes, or complete radar plots tracing the alleged target’s movements from beginning to end. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">The RB-47 Radar–Electronic Intelligence (ECM) UFO...The selected case, which occurred on July 17, 1957, is treated in the Condon...</span><span class="citation-popover-meta">Published: July 17, 1957</span></span></span>
 
 This creates a major evidentiary tension. The case’s reputation depends heavily on technical corroboration, but much of the technical evidence now exists only through human recollection and summarised reporting.
 
 That does not automatically invalidate the incident. Military electronic intelligence operations during the Cold War were highly classified, and records were not always preserved or released. The RB-47H itself operated in an environment where signal interception capabilities were sensitive national-security information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Boeing_B-47_Stratojet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Boeing B-47 Stratojet</span><span class="citation-popover-snippet">Boeing B-47 Stratojet</span></span></span>
 
 Still, the absence of raw records limits what historians and analysts can honestly claim. The strongest defensible statement is narrower than many popular retellings suggest:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -339,7 +332,6 @@ Still, the absence of raw records limits what historians and analysts can honest
 * no universally accepted explanation has resolved every aspect of the case.
 
 </div>
-
 
 <img src="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_radar_electronic_cla_68a45f-Illustration-3-dark.svg" | relative_url }}" alt="Radar Claims illustration 3" data-theme-src-dark="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_radar_electronic_cla_68a45f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_radar_electronic_cla_68a45f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Coincidence, Malfunction, or Genuine Correlation?
@@ -352,49 +344,89 @@ If, however, the event consisted of loosely connected observations later combine
 
 The unresolved status of the case comes largely from the gap between those possibilities. The RB-47 incident is not compelling because it produced undeniable proof. It remains compelling because trained operators believed their instruments corroborated what they were seeing, while later investigators could neither conclusively validate nor conclusively dismantle that belief.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xkuIfufB1Lc" title="Project Blue Book&#x27;s 10 Scariest UFO Files: Cases They Couldn&#x27;t Explain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xkuIfufB1Lc" target="_blank" rel="noopener noreferrer">Project Blue Book&#x27;s 10 Scariest UFO Files: Cases They Couldn&#x27;t Explain</a></p><p class="youtube-embed-meta">Channel: America&#x27;s Strangest History &middot; Views: 21.6K &middot; Uploaded: March 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xkuIfufB1Lc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xkuIfufB1Lc">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Did the Instruments Really Corroborate It?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Did the Instruments Really Corroborate It?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Gulf Coast radar guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Gulf+Coast+radar+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Provides objective profiles on military electronic intelligence and the operational limits of 1950s detection gear.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Ground Radar guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Ground+Radar+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Details why electronic signature corroboration—without instrument logs—is vulnerable to retrospective reinterpretation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Duncanville Air Force Station guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Duncanville+Air+Force+Station+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Teaches how to evaluate reports from electronic monitoring systems, emphasizing why correlation is often confused with causation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Discusses the inherent difficulty of interpreting multi-sensor reports when raw data is missing or inaccessible.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -431,15 +463,15 @@ The unresolved status of the case comes largely from the gap between those possi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for B-1B B1 Lancer Bomber PVC Patch Semper Bone USAF B-1 Squadron RAF Fairford"><img src="{{ '/assets/images/marketplace-covers/3bb50106ebe7889cc97a.jpg' | relative_url }}" alt="Listing image for B-1B B1 Lancer Bomber PVC Patch Semper Bone USAF B-1 Squadron RAF Fairford" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" target="_blank" rel="sponsored noopener noreferrer">B-1B B1 Lancer Bomber PVC Patch Semper Bone USAF B-1 Squadron RAF Fairford</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for USAF patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: USAF patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -447,15 +479,15 @@ The unresolved status of the case comes largely from the gap between those possi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set"><img src="{{ '/assets/images/marketplace-covers/9275acdcda4f45050c56.jpg' | relative_url }}" alt="Listing image for USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" target="_blank" rel="sponsored noopener noreferrer">USAF Edwards AFB 4 Horsemen &#x27;In Bombers We Trust&#x27; B52 B1 B2 B21 3D PVC Patch Set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for USAF patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: USAF patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -463,15 +495,15 @@ The unresolved status of the case comes largely from the gap between those possi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF Op Epic Fury RAF Fairford B-1 &amp; B-52 Bombers Welcome To Ladder Town Patch"><img src="{{ '/assets/images/marketplace-covers/94bdcb4306294f959345.jpg' | relative_url }}" alt="Listing image for USAF Op Epic Fury RAF Fairford B-1 &amp; B-52 Bombers Welcome To Ladder Town Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" target="_blank" rel="sponsored noopener noreferrer">USAF Op Epic Fury RAF Fairford B-1 &amp; B-52 Bombers Welcome To Ladder Town Patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for USAF patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: USAF patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,15 +511,15 @@ The unresolved status of the case comes largely from the gap between those possi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USAF CV-22 Osprey with Skeleton Paratrooper Fabric Patch"><img src="{{ '/assets/images/marketplace-covers/465db0c3b78dc394c678.jpg' | relative_url }}" alt="Listing image for USAF CV-22 Osprey with Skeleton Paratrooper Fabric Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" target="_blank" rel="sponsored noopener noreferrer">USAF CV-22 Osprey with Skeleton Paratrooper Fabric Patch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for USAF patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: USAF patch</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,7 +527,7 @@ The unresolved status of the case comes largely from the gap between those possi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=USAF+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="USAF patch" data-ebay-reference="radar-claims-did-the-instruments-really-corroborate-it-rb-47-radarvisual-incident-1957-usaf-patch" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -711,56 +743,56 @@ The unresolved status of the case comes largely from the gap between those possi
 1. <a id="endnote-1"></a>
    Source: kirkmcd.princeton.edu  
    Title: mcdonald fsr 16 3 2 70  
-   Link: [https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf](https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf)  
+   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the 1957 gulf coast rb-47 - incidentThe unidenti- fied object was, at various times, seen visually by the cockpit crew (as an intense whi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald](https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaThe RB-47 Radar–Electronic Intelligence (ECM) UFO...The selected case, which occurred on July 17, 1957, is treated in the Condon...</p></details>
+   Link: <a href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The RB-47 Radar–Electronic Intelligence (ECM) UFO...The selected case, which occurred on July 17, 1957, is treated in the Condon...</p></details>
    Published: July 17, 1957  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Boeing B-47 Stratojet  
-   Link: [https://en.wikipedia.org/wiki/Boeing_B-47_Stratojet](https://en.wikipedia.org/wiki/Boeing_B-47_Stratojet)  
+   Link: <a href="https://en.wikipedia.org/wiki/Boeing_B-47_Stratojet" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Boeing_B-47_Stratojet</a>  
 
 4. <a id="endnote-4"></a>
    Source: kirkmcd.princeton.edu  
-   Link: [https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf](https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf)  
+   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Report.cdrunknown source of the 3000 mcs radar-like signal was moving up- scope relative to the 500 mph RB-47.... On June 13, James...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/RB47_Sparks_Ency.pdf](https://www.nicap.org/reports/RB47_Sparks_Ency.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NICAPrb-47 radar/visual caseIt is one of the top cases investigated by University of Arizona at- mospheric physicist James E. McDonald an...</p></details>
+   Link: <a href="https://www.nicap.org/reports/RB47_Sparks_Ency.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/RB47_Sparks_Ency.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>rb-47 radar/visual caseIt is one of the top cases investigated by University of Arizona at- mospheric physicist James E. McDonald an...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Duncanville Air Force Station  
-   Link: [https://en.wikipedia.org/wiki/Duncanville_Air_Force_Station](https://en.wikipedia.org/wiki/Duncanville_Air_Force_Station)  
+   Link: <a href="https://en.wikipedia.org/wiki/Duncanville_Air_Force_Station" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Duncanville_Air_Force_Station</a>  
 
 7. <a id="endnote-7"></a>
    Source: science.howstuffworks.com  
    Title: How Stuff Works The RB-47 UFO Encounter  
-   Link: [https://science.howstuffworks.com/space/aliens-ufos/rb-47-ufo.htm](https://science.howstuffworks.com/space/aliens-ufos/rb-47-ufo.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HowStuffWorksThe RB-47 UFO EncounterJanuary 1, 1970 — The RB-47 UFO incident of 1957 was classified for years after it happened. Read how...</p></details>
+   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/rb-47-ufo.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/rb-47-ufo.htm</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The RB-47 UFO EncounterJanuary 1, 1970 — The RB-47 UFO incident of 1957 was classified for years after it happened. Read how...</p></details>
    Published: January 1, 1970  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Incontro UFO dell'RB-47  
-   Link: [https://it.wikipedia.org/wiki/Incontro_UFO_dell%27RB-47](https://it.wikipedia.org/wiki/Incontro_UFO_dell%27RB-47)  
+   Link: <a href="https://it.wikipedia.org/wiki/Incontro_UFO_dell%27RB-47" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incontro_UFO_dell%27RB-47</a>  
 
 9. <a id="endnote-9"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf](https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf)  
+   Link: <a href="https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/release_1/255_413270_ufo%27s_and_defense_what_should_we_prepare_for.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ual&quot; cases (21%). - in...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: 1960 RB 47 shootdown incident  
-   Link: [https://en.wikipedia.org/wiki/1960_RB-47_shootdown_incident](https://en.wikipedia.org/wiki/1960_RB-47_shootdown_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/1960_RB-47_shootdown_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1960_RB-47_shootdown_incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1960 RB-47 shootdown incidentOn 1 July 1960, a United States RB-47H reconnaissance plane was shot down by the Soviet Air Defence Force...</p></details>
    Published: July 1960  
 
@@ -768,56 +800,56 @@ The unresolved status of the case comes largely from the gap between those possi
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/94wmzg/rare_audio_of_james_e_mcdonald_discussing_the/](https://www.reddit.com/r/UFOs/comments/94wmzg/rare_audio_of_james_e_mcdonald_discussing_the/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/94wmzg/rare_audio_of_james_e_mcdonald_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/94wmzg/rare_audio_of_james_e_mcdonald_discussing_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare audio of James E. McDonald discussing the Australian...Rare audio of James E. McDonald discussing the Australian Westall School UFO...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100010010-0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ent represents one of the most significant radar-visual UFO cases...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/deltacomando1665/posts/beyond-the-radars-reachcan-you-hear-the-radio-chatter-holding-the-stack-fuel-95-/1430516165739952/](https://www.facebook.com/deltacomando1665/posts/beyond-the-radars-reachcan-you-hear-the-radio-chatter-holding-the-stack-fuel-95-/1430516165739952/)  
+   Link: <a href="https://www.facebook.com/deltacomando1665/posts/beyond-the-radars-reachcan-you-hear-the-radio-chatter-holding-the-stack-fuel-95-/1430516165739952/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deltacomando1665/posts/beyond-the-radars-reachcan-you-hear-the-radio-chatter-holding-the-stack-fuel-95-/1430516165739952/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Case Report for the AIAA James E. McDonald, PhD... R The RB-47 radar visual multiple witnesses cases, July 17, 1957 UFOs at...</p></details>
    Published: July 17, 1957  
 
 14. <a id="endnote-14"></a>
    Source: ufologie.patrickgross.org  
    Title: Twenty-Two Years of Inadequate UFO Investigations  
-   Link: [https://www.ufologie.patrickgross.org/doc/mcdonaldscd.pdf](https://www.ufologie.patrickgross.org/doc/mcdonaldscd.pdf)  
+   Link: <a href="https://www.ufologie.patrickgross.org/doc/mcdonaldscd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ufologie.patrickgross.org/doc/mcdonaldscd.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>James E...... RB-47 case (Case 1 above) in the evidently simultaneous loss of visual and airborne-radar signal here. One wonders if grou...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: UF Os – An International Scientific Problem by Dr  
-   Link: [https://www.reddit.com/r/UFOs/comments/11ymq2s/ufos_an_international_scientific_problem_by_dr/](https://www.reddit.com/r/UFOs/comments/11ymq2s/ufos_an_international_scientific_problem_by_dr/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/11ymq2s/ufos_an_international_scientific_problem_by_dr/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/11ymq2s/ufos_an_international_scientific_problem_by_dr/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>highlights numerous cases and testimonies from various sources, including military personnel, pilots, and radar operators, as...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2j2YPSSQLQM](https://www.youtube.com/watch?v=2j2YPSSQLQM)  
+   Link: <a href="https://www.youtube.com/watch?v=2j2YPSSQLQM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2j2YPSSQLQM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Files: 10 True Declassified Cases | Fall Asleep to UFO Stories (Episode 9)...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=g8maZp8Gals](https://www.youtube.com/watch?v=g8maZp8Gals)  
+   Link: <a href="https://www.youtube.com/watch?v=g8maZp8Gals" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g8maZp8Gals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RB-47 UFO incident radar electronic evidence USAF Near Collision with a UAP Project Bluebook...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
    Title: “It was never on our radar."ufo case report: The RB-47 UFO Encounter Date  
-   Link: [https://www.facebook.com/TheSunSavers/posts/it-was-never-on-our-radar/1190486966454731/](https://www.facebook.com/TheSunSavers/posts/it-was-never-on-our-radar/1190486966454731/)  
+   Link: <a href="https://www.facebook.com/TheSunSavers/posts/it-was-never-on-our-radar/1190486966454731/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheSunSavers/posts/it-was-never-on-our-radar/1190486966454731/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 17, 1957 Location: Gulf Coast Area, United States An Air Force RB-47, equipped with...</p></details>
    Published: July 17, 1957  
 
 19. <a id="endnote-19"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf](https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultProjectBlueBook-RB47-July17-1957.pdfThe electronic data is unusual in this report in that radar signaJ s {:presumably e&#x27;:l...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Project Blue Book's 10 Scariest UFO Files: Cases They Couldn't Explain  
-   Link: [https://www.youtube.com/watch?v=xkuIfufB1Lc](https://www.youtube.com/watch?v=xkuIfufB1Lc)  
+   Link: <a href="https://www.youtube.com/watch?v=xkuIfufB1Lc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xkuIfufB1Lc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO Files: 15 True Declassified Cases | Fall Asleep to UFO Stories (Episode 2)...</p></details>

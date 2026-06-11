@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /rb-47-radarvisual-incident-1957/
 nav_short_title: Records Debate
 title: Why the RB 47 Case Still Divides Researchers
-title_full: Why the RB 47 Case Still Divides Researchers | RB 47 Incident
+title_full: Why the RB 47 Case Still Divides Researchers
 display_title_short: Records Debate
 display_title: Records Debate
 heading_title: Why the RB 47 Case Still Divides Researchers
@@ -239,7 +239,7 @@ next_link:
   permalink: /timeline-c66794/
   short_title: Timeline
   heading_title: How the RB 47 Encounter Unfolded
-date: '2026-06-08 23:30:15 '
+date: '2026-06-11 13:18:23 '
 header:
   og_image: /assets/images/RB-47_radarvisual_in_5bf2a6_records_skeptical_de_65216f-Illustration-1-social.jpg
   preview_image: /assets/images/RB-47_radarvisual_in_5bf2a6_records_skeptical_de_65216f-Illustration-1.webp
@@ -249,7 +249,6 @@ image: /assets/images/RB-47_radarvisual_in_5bf2a6_records_skeptical_de_65216f-Il
 ## Introduction
 
 The RB-47 radar/visual incident remains controversial not simply because of what the crew claimed to observe in July 1957, but because the surviving documentary trail is fragmented and heavily disputed. Over the decades, the same event has produced sharply different conclusions from Project Blue Book investigators, the University of Colorado’s Condon Committee, later UFO researchers such as physicist James E. McDonald, and sceptics including Philip J. Klass. The disagreement is not only about unidentified lights or radar returns. It is about whether the surviving records support an extraordinary interpretation at all, or whether later writers reconstructed a more mysterious event than the evidence justified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-title">mcdonald fsr 16 3 2 70</span><span class="citation-popover-snippet">In case after case in the Condon Report, close check- ing...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black VaultProjectBlueBook-RB47-July17-1957.pdfhelieved to be the date that the report was received by UFO Project Blue Book in. Dayt...</span></span></span>
-
 
 <img src="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_records_skeptical_de_65216f-Illustration-1-dark.svg" | relative_url }}" alt="Records Debate illustration 1" data-theme-src-dark="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_records_skeptical_de_65216f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_records_skeptical_de_65216f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That tension explains why the RB-47 case still occupies a unique place in UFO literature. Supporters describe it as one of the strongest military radar/visual incidents ever documented. Sceptics argue that the strongest claims depend on incomplete files, retrospective interviews conducted more than a decade later, and assumptions about radar and electronic intelligence systems that may not survive technical scrutiny. The unresolved status of the case is therefore inseparable from the condition of the official records themselves.
@@ -271,7 +270,6 @@ Importantly, the case study itself was more cautious and detailed than the broad
 One recurring source of confusion is that the overall Condon Report concluded that further large-scale UFO study was unlikely to produce major scientific advances. Critics such as McDonald argued that this broad conclusion obscured the fact that some individual cases within the report remained unresolved or only weakly explained. The RB-47 incident became one of the most frequently cited examples of that alleged contradiction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/Incontro_UFO_dell%27RB-47" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Incontro UFO dell&#x27;RB-47</span><span class="citation-popover-snippet">Incontro UFO dell&#x27;RB-47</span></span></span>
 
 The report also introduced one of the most controversial elements in the debate: the suggestion that at least part of the event may have involved an ordinary airliner or ground radar source interpreted under unusual observational conditions. To critics of the conventional explanation, this appeared implausible because the object was allegedly manoeuvring in ways inconsistent with a normal aircraft. To sceptics, however, the report’s willingness to separate different observations into different causes represented a more realistic reading of the evidence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T6MTp3Rfl6Q" title="Condon UFO Report (The Scientific Study of UFOs), 1969" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T6MTp3Rfl6Q" target="_blank" rel="noopener noreferrer">Condon UFO Report (The Scientific Study of UFOs), 1969</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 27.0K &middot; Uploaded: December 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T6MTp3Rfl6Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T6MTp3Rfl6Q">Open on YouTube</a></p></div></div></div>
 
@@ -297,14 +295,12 @@ This explanation has several strengths. It fits the fact that the Gulf Coast reg
 
 Yet critics of the sceptical interpretation argue that radar ducting alone does not adequately explain the alleged coordination between the electronic signals, the cockpit observations, and the reports from ground radar operators. They also note that the RB-47 crew were specifically trained to recognise radar behaviour and would not easily confuse fixed emitters with a moving target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kirkmcd.princeton.edu">[kirkmcd.princeton.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kirkmcd.princeton.edu</span><span class="citation-popover-snippet">AIAA UFO Report.cdrunknown source of the 3000 mcs radar-like signal was moving up- scope relative to the 500 mph RB-47. The Wing Intellig...</span></span></span>
 
-
 <img src="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_records_skeptical_de_65216f-Illustration-2-dark.svg" | relative_url }}" alt="Records Debate illustration 2" data-theme-src-dark="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_records_skeptical_de_65216f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_records_skeptical_de_65216f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Astronomical and visual misidentification
 
 Another major sceptical approach separates the event into multiple unrelated episodes rather than treating it as one continuous encounter. Philip J. Klass, among the best-known UFO sceptics of the twentieth century, argued that different observations during the flight likely had different mundane causes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 In this reconstruction:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -319,7 +315,6 @@ This fragmented explanation avoids the need for a single coherent “unknown obj
 
 The weakness of this approach is cumulative complexity. Critics argue that invoking multiple unrelated conventional causes can appear ad hoc, especially when witnesses themselves believed the observations formed a connected sequence. Supporters of the sceptical interpretation respond that complex sightings are often exactly that: combinations of unrelated stimuli interpreted as one phenomenon after the fact.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tmH39EfqFls" title="The Condon UFO Report (Scientific Study &amp; Evidence of UFOs) in 1969 - FindingUFO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tmH39EfqFls" target="_blank" rel="noopener noreferrer">The Condon UFO Report (Scientific Study &amp; Evidence of UFOs) in 1969 - FindingUFO</a></p><p class="youtube-embed-meta">Channel: FindingUFO &middot; Views: 3.9K &middot; Uploaded: December 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tmH39EfqFls" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tmH39EfqFls">Open on YouTube</a></p></div></div></div>
 
 ## The dispute over ground radar confirmation
@@ -332,7 +327,6 @@ This issue matters because the “radar/visual” label gives the case much of i
 
 McDonald insisted that the radar confirmations significantly strengthened the case. Sceptics counter that later retellings sometimes overstated the certainty of those radar reports compared with what the original documents actually show.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PEB-Y9iDrDA" title="Project Blue Book UFO Files: 20 True Declassified Cases | Fall Asleep to UFO Stories (Episode 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PEB-Y9iDrDA" target="_blank" rel="noopener noreferrer">Project Blue Book UFO Files: 20 True Declassified Cases | Fall Asleep to UFO Stories (Episode 1)</a></p><p class="youtube-embed-meta">Channel: Dreams of Disclosure &middot; Views: 51.6K &middot; Uploaded: October 2025 &middot; Length: 3 hours 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PEB-Y9iDrDA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PEB-Y9iDrDA">Open on YouTube</a></p></div></div></div>
 
 ## Why the case still resists closure
@@ -343,48 +337,89 @@ The broader institutional context also shaped later interpretations. Project Blu
 
 What remains unusually durable about the case is not proof of extraterrestrial technology, but the persistence of uncertainty despite decades of argument. The surviving record is detailed enough to sustain serious debate yet incomplete enough to prevent definitive resolution. That combination has kept the RB-47 incident alive in UFO research long after many simpler sightings faded into obscurity.
 
-
 <img src="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_records_skeptical_de_65216f-Illustration-3-dark.svg" | relative_url }}" alt="Records Debate illustration 3" data-theme-src-dark="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_records_skeptical_de_65216f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/RB-47_radarvisual_in_5bf2a6_records_skeptical_de_65216f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why the RB 47 Case Still Divides Researchers, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why the RB 47 Case Still Divides Researchers. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">James Mc Donald guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=James+Mc+Donald+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Summarizes the historical record of the RB-47 case and explains why researchers continue to debate the fragmentary documentation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Condon Report guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Condon+Report+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Explains how historical narratives are amplified and transformed by repeated retelling, creating a false impression of case completeness.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">James Mc Donald books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=James+Mc+Donald+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scientific Paranormal Investigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xBPaSAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Scientific Paranormal Investigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scientific Paranormal Investigation">Scientific Paranormal Investigation</a>
+        </h4>
+        <p class="fr-book-author">By Benjamin Radford</p>
+        
+        <p class="fr-book-desc">Offers tools for tracing and evaluating primary sources while guarding against later, distorted narrative retellings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sister States, Enemy States on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PaZBLwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Sister States, Enemy States" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sister States, Enemy States">Sister States, Enemy States</a>
+        </h4>
+        <p class="fr-book-author">By Kent Dollar, Larry Whiteaker et al.</p>
+        
+        <p class="fr-book-desc">Discusses methodology for identifying the provenance of conflicting investigative accounts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sister+States%2C+Enemy+States+by+Kent+Dollar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scientific+Paranormal+Investigation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scientific Paranormal Investigation</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -421,15 +456,15 @@ What remains unusually durable about the case is not proof of extraterrestrial t
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AD CHANCE VOUGHT F7U3 COLD WAR AIRCRAFT ID 1955 AIR DIAGRAM RECOGNITION POSTER"><img src="https://i.ebayimg.com/images/g/HDUAAOSwyW5a4loD/s-l225.jpg" alt="Listing image for AD CHANCE VOUGHT F7U3 COLD WAR AIRCRAFT ID 1955 AIR DIAGRAM RECOGNITION POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" target="_blank" rel="sponsored noopener noreferrer">AD CHANCE VOUGHT F7U3 COLD WAR AIRCRAFT ID 1955 AIR DIAGRAM RECOGNITION POSTER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aircraft poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aircraft poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -437,15 +472,15 @@ What remains unusually durable about the case is not proof of extraterrestrial t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Vintage Poster SUEZ CRISIS - COLD WAR - ROYAL AIR FORCE - BOMBS - 1956"><img src="https://i.ebayimg.com/images/g/P3IAAOSw~u5n7Swc/s-l225.jpg" alt="Listing image for Original Vintage Poster SUEZ CRISIS - COLD WAR - ROYAL AIR FORCE - BOMBS - 1956" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" target="_blank" rel="sponsored noopener noreferrer">Original Vintage Poster SUEZ CRISIS - COLD WAR - ROYAL AIR FORCE - BOMBS - 1956</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aircraft poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aircraft poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -453,15 +488,15 @@ What remains unusually durable about the case is not proof of extraterrestrial t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOCKHEED F104 STARFIGHTER COLD WAR ERA AIRCRAFT ID 1956 AIR DIAGRAM POSTER"><img src="https://i.ebayimg.com/images/g/vLcAAOSwjXNa4Y-z/s-l225.jpg" alt="Listing image for LOCKHEED F104 STARFIGHTER COLD WAR ERA AIRCRAFT ID 1956 AIR DIAGRAM POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" target="_blank" rel="sponsored noopener noreferrer">LOCKHEED F104 STARFIGHTER COLD WAR ERA AIRCRAFT ID 1956 AIR DIAGRAM POSTER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aircraft poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aircraft poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -469,15 +504,15 @@ What remains unusually durable about the case is not proof of extraterrestrial t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MIG-I5 Cold War Era Aircraft ID 1951 Recognition Poster"><img src="https://i.ebayimg.com/images/g/20AAAeSwVHBoat25/s-l225.jpg" alt="Listing image for MIG-I5 Cold War Era Aircraft ID 1951 Recognition Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" target="_blank" rel="sponsored noopener noreferrer">MIG-I5 Cold War Era Aircraft ID 1951 Recognition Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cold War aircraft poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cold War aircraft poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -485,7 +520,7 @@ What remains unusually durable about the case is not proof of extraterrestrial t
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="records-debate-why-the-rb-47-case-still-divides-researchers-rb-47-radarvisual-incident-1957-us-navy-ship-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cold+War+aircraft+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cold War aircraft poster" data-ebay-reference="why-the-rb-47-case-still-divides-researchers-cold-war-aircraft-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -701,62 +736,62 @@ What remains unusually durable about the case is not proof of extraterrestrial t
 1. <a id="endnote-1"></a>
    Source: kirkmcd.princeton.edu  
    Title: mcdonald fsr 16 3 2 70  
-   Link: [https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf](https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf)  
+   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_fsr_16_3_2_70.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In case after case in the Condon Report, close check- ing...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Incontro UFO dell'RB-47  
-   Link: [https://it.wikipedia.org/wiki/Incontro_UFO_dell%27RB-47](https://it.wikipedia.org/wiki/Incontro_UFO_dell%27RB-47)  
+   Link: <a href="https://it.wikipedia.org/wiki/Incontro_UFO_dell%27RB-47" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Incontro_UFO_dell%27RB-47</a>  
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsJun 25, 2024 — The records include approximately 2 cubic feet of unarrang...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nicap.org  
-   Link: [https://www.nicap.org/reports/RB47_Sparks_Ency.pdf](https://www.nicap.org/reports/RB47_Sparks_Ency.pdf)  
+   Link: <a href="https://www.nicap.org/reports/RB47_Sparks_Ency.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nicap.org/reports/RB47_Sparks_Ency.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RB-47 Radar/VISUAL CASEMcDonald, who interviewed all six crew members between January 30 and February 2, 1969, succeeded in locat- ing th...</p></details>
    Published: February 2, 1969  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Condon Committee  
-   Link: [https://en.wikipedia.org/wiki/Condon_Committee](https://en.wikipedia.org/wiki/Condon_Committee)  
+   Link: <a href="https://en.wikipedia.org/wiki/Condon_Committee" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Condon_Committee</a>  
 
 6. <a id="endnote-6"></a>
    Source: kirkmcd.princeton.edu  
-   Link: [https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf](https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf)  
+   Link: <a href="https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf" target="_blank" rel="noopener noreferrer nofollow">https://kirkmcd.princeton.edu/JEMcDonald/mcdonald_aa_9_7_66_71.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AIAA UFO Report.cdrunknown source of the 3000 mcs radar-like signal was moving up- scope relative to the 500 mph RB-47. The Wing Intellig...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 8. <a id="endnote-8"></a>
    Source: met.nps.edu  
    Title: AF catalognl  
-   Link: [https://met.nps.edu/~bcreasey/mr3222/files/helpful/AF-catalognl.pdf](https://met.nps.edu/~bcreasey/mr3222/files/helpful/AF-catalognl.pdf)  
+   Link: <a href="https://met.nps.edu/~bcreasey/mr3222/files/helpful/AF-catalognl.pdf" target="_blank" rel="noopener noreferrer nofollow">https://met.nps.edu/~bcreasey/mr3222/files/helpful/AF-catalognl.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosonde observations agree with average refractometer measurements but do not detect ducting...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: secretsdeclassified.af.mil  
    Title: project blue book  
-   Link: [https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/](https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/)  
+   Link: <a href="https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretsdeclassified.af.mil/Fact-Sheets/Display/Article/459832/project-blue-book/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>From 1947 to 1969, the Air Force investigated Unidentified Flying Objects under Project Blue Book. The project, headquartered at Wright-P...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: documents2.theblackvault.com  
-   Link: [https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf](https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf)  
+   Link: <a href="https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/projectbluebook/ProjectBlueBook-RB47-July17-1957.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultProjectBlueBook-RB47-July17-1957.pdfhelieved to be the date that the report was received by UFO Project Blue Book in. Dayt...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: theblackvault.com  
    Title: project blue book the rb 47 ufo incident july 17 1957  
-   Link: [https://www.theblackvault.com/documentarchive/project-blue-book-the-rb-47-ufo-incident-july-17-1957/](https://www.theblackvault.com/documentarchive/project-blue-book-the-rb-47-ufo-incident-july-17-1957/)  
+   Link: <a href="https://www.theblackvault.com/documentarchive/project-blue-book-the-rb-47-ufo-incident-july-17-1957/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/project-blue-book-the-rb-47-ufo-incident-july-17-1957/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Document Archive. Project Blue Book: The RB-47 UFO Incident — July 17, 1957 [56 Pages, 11MB]. Loader Loading...Read more...</p></details>
    Published: July 17, 1957  
 
@@ -764,60 +799,60 @@ What remains unusually durable about the case is not proof of extraterrestrial t
 
 12. <a id="endnote-12"></a>
    Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+   Link: <a href="https://www.gutenberg.org/cache/epub/17346/pg17346-images.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gutenberg.org/cache/epub/17346/pg17346-images.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsInto this file went all reports from people who had talked with flying saucer crews, who had ins...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/5a757b41e5274a1622e2221e/acronyms_and_abbreviations_dec08.pdf](https://assets.publishing.service.gov.uk/media/5a757b41e5274a1622e2221e/acronyms_and_abbreviations_dec08.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/5a757b41e5274a1622e2221e/acronyms_and_abbreviations_dec08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a757b41e5274a1622e2221e/acronyms_and_abbreviations_dec08.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Acronyms and AbbreviationsDigital terminal encryption device. Battlefield Reconnaissance Helicopter. Basic Rate Interface (ISDN-2). Briga...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: academia.edu  
-   Title: The RB 47 [Radar Electronic](&#123;&#123; 'radar-claims/' | relative_url &#125;&#125;) Intelligence ECM UFO Incident 1957 by James McDonald  
-   Link: [https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald](https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaThe RB-47 Radar–Electronic Intelligence (ECM) UFO...The 1957 report describes these events as follows: 69 Aircraft began turning...</p></details>
+   Title: The RB 47 Radar Electronic Intelligence ECM UFO Incident 1957 by James McDonald  
+   Link: <a href="https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/165502543/The_RB_47_Radar_Electronic_Intelligence_ECM_UFO_Incident_1957_by_James_McDonald</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The RB-47 Radar–Electronic Intelligence (ECM) UFO...The 1957 report describes these events as follows: 69 Aircraft began turning...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: linkedin.com  
    Title: ai insights 1957 rb 47 which af elint aircraft em signals sadlocha ruj4c  
-   Link: [https://www.linkedin.com/pulse/ai-insights-1957-rb-47-which-af-elint-aircraft-em-signals-sadlocha-ruj4c](https://www.linkedin.com/pulse/ai-insights-1957-rb-47-which-af-elint-aircraft-em-signals-sadlocha-ruj4c)  
+   Link: <a href="https://www.linkedin.com/pulse/ai-insights-1957-rb-47-which-af-elint-aircraft-em-signals-sadlocha-ruj4c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-insights-1957-rb-47-which-af-elint-aircraft-em-signals-sadlocha-ruj4c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Insights On 1957 RB-47 In Which AF ELINT Aircraft...Air Force Data: The RB-47 case files, declassified via Project Blue Book, include...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thehistoryreader.com  
    Title: Two Critical UFO Events in History The RB-47 UFO Incident–  
-   Link: [https://www.thehistoryreader.com/military-history/ufo-events/](https://www.thehistoryreader.com/military-history/ufo-events/)  
+   Link: <a href="https://www.thehistoryreader.com/military-history/ufo-events/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/military-history/ufo-events/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Two Critical UFO Events in HistoryThe RB-47 UFO Incident–July 17, 1957: Unlike the Aztec incident above, this encounter is well documente...</p></details>
    Published: July 17, 1957  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Condon Report Exposed The Government's UFO Investigation  
-   Link: [https://www.youtube.com/watch?v=b6CZThgxgu4](https://www.youtube.com/watch?v=b6CZThgxgu4)  
+   Link: <a href="https://www.youtube.com/watch?v=b6CZThgxgu4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b6CZThgxgu4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue Book UFO records skeptical explanations Project Blue Book UFO Files: 20 True Declassified Cases | Fall Asleep to UFO Stories...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: vault.fbi.gov  
    Title: Project Blue Book (UFO)  
-   Link: [https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20](https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20)  
+   Link: <a href="https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20" target="_blank" rel="noopener noreferrer nofollow">https://vault.fbi.gov/Project%20Blue%20Book%20%28UFO%29%20</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Book (UFO)Project Blue Book Originally Project Blue Book was the Air Force name for a project that investigated UFO reports between...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cufos.org  
    Title: Center for UFO Studies Robert J  
-   Link: [https://cufos.org/PDFs/cases/1957_07_17_US_MI-LA-TX-OK_AirCraft-RB-47_NICAP_Chase-McCoid-Hanley-Provensano-McClure-Tuchscherer.pdf](https://cufos.org/PDFs/cases/1957_07_17_US_MI-LA-TX-OK_AirCraft-RB-47_NICAP_Chase-McCoid-Hanley-Provensano-McClure-Tuchscherer.pdf)  
+   Link: <a href="https://cufos.org/PDFs/cases/1957_07_17_US_MI-LA-TX-OK_AirCraft-RB-47_NICAP_Chase-McCoid-Hanley-Provensano-McClure-Tuchscherer.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cufos.org/PDFs/cases/1957_07_17_US_MI-LA-TX-OK_AirCraft-RB-47_NICAP_Chase-McCoid-Hanley-Provensano-McClure-Tuchscherer.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert J. Low, Projecf CoordinatorThe RB-47 UFO case file contains a letter dated Oct. 30, 1957, signed... the Project Blue Book archive...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: origins.osu.edu  
    Title: air force investigation ufos  
-   Link: [https://origins.osu.edu/read/air-force-investigation-ufos](https://origins.osu.edu/read/air-force-investigation-ufos)  
+   Link: <a href="https://origins.osu.edu/read/air-force-investigation-ufos" target="_blank" rel="noopener noreferrer nofollow">https://origins.osu.edu/read/air-force-investigation-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Investigation into UFOs | Origins22 Dec 2024 — On December 17, 1969, the United States Air Force concluded Project Blue Book, i...</p></details>
    Published: December 17, 1969  
 
 21. <a id="endnote-21"></a>
    Source: archive.org  
    Title: Project Blue Book Indexes  
-   Link: [https://archive.org/details/ProjectBlueBookIndexes](https://archive.org/details/ProjectBlueBookIndexes)  
+   Link: <a href="https://archive.org/details/ProjectBlueBookIndexes" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/ProjectBlueBookIndexes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, 1947-1969: United States Air...Apr 30, 2023 — Indexes for UFO sightings recorded by Project Blue Book extrac...</p></details>

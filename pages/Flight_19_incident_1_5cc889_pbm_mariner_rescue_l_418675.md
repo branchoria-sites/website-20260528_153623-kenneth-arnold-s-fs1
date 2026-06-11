@@ -22,7 +22,7 @@ sidebar_expanded_urls:
 - /flight-19-incident-1945/
 nav_short_title: Rescue Plane
 title: What Happened to the Rescue Plane?
-title_full: What Happened to the Rescue Plane? | Flight 19
+title_full: What Happened to the Rescue Plane?
 display_title_short: Rescue Plane
 display_title: Rescue Plane
 heading_title: What Happened to the Rescue Plane?
@@ -233,7 +233,7 @@ prev_link:
   permalink: /radio-trail/
   short_title: Radio Trail
   heading_title: How Did Flight 19 Get Lost?
-date: '2026-06-08 23:27:19 '
+date: '2026-06-11 13:16:43 '
 header:
   og_image: /assets/images/Flight_19_incident_1_5cc889_pbm_mariner_rescue_l_418675-Illustration-1-social.jpg
   preview_image: /assets/images/Flight_19_incident_1_5cc889_pbm_mariner_rescue_l_418675-Illustration-1.webp
@@ -242,20 +242,18 @@ image: /assets/images/Flight_19_incident_1_5cc889_pbm_mariner_rescue_l_418675-Il
 
 ## Introduction
 
-The disappearance of the PBM Mariner rescue aircraft turned the [Flight 19 incident]({{ 'flight-19-incident-1945/' | relative_url }}) from a single aviation mystery into a double tragedy. Thirteen additional servicemen vanished when a Martin PBM-5 Mariner flying boat launched from Naval Air Station Banana River to search for the missing Avengers on the evening of 5 December 1945. Unlike the fate of Flight 19 itself, however, the evidence surrounding the Mariner points less towards an unexplained disappearance and more towards a probable mid-air explosion. Witness reports from nearby vessels, radar loss data, and the aircraft type’s known fuel-system hazards all pushed investigators towards a catastrophic mechanical event rather than a shared supernatural cause. Wikipedia Ibiblio The second loss nevertheless became deeply entangled with Bermuda Triangle mythology. Popular retellings often merge the two events into one <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[ibiblio.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-title">Findings of the Board of Investigation Into the Loss of Flight</span><span class="citation-popover-snippet">reported explosion failed to reveal any debris of the missing PBM or evidence of its crew. --18--. Transcribed by Harry Allston, for the...</span></span></span> seamless mystery, even though the evidence profile for the rescue plane is very different from the confused navigation trail left by Flight 19. Understanding what happened to the PBM Mariner helps separate documented facts from later legend-building.
-
+The disappearance of the PBM Mariner rescue aircraft turned the Flight 19 incident from a single aviation mystery into a double tragedy. Thirteen additional servicemen vanished when a Martin PBM-5 Mariner flying boat launched from Naval Air Station Banana River to search for the missing Avengers on the evening of 5 December 1945. Unlike the fate of Flight 19 itself, however, the evidence surrounding the Mariner points less towards an unexplained disappearance and more towards a probable mid-air explosion. Witness reports from nearby vessels, radar loss data, and the aircraft type’s known fuel-system hazards all pushed investigators towards a catastrophic mechanical event rather than a shared supernatural cause. Wikipedia Ibiblio The second loss nevertheless became deeply entangled with Bermuda Triangle mythology. Popular retellings often merge the two events into one <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ibiblio.org">[ibiblio.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ibiblio.org</span><span class="citation-popover-title">Findings of the Board of Investigation Into the Loss of Flight</span><span class="citation-popover-snippet">reported explosion failed to reveal any debris of the missing PBM or evidence of its crew. --18--. Transcribed by Harry Allston, for the...</span></span></span> seamless mystery, even though the evidence profile for the rescue plane is very different from the confused navigation trail left by Flight 19. Understanding what happened to the PBM Mariner helps separate documented facts from later legend-building.
 
 <img src="{{ "/assets/images/Flight_19_incident_1_5cc889_pbm_mariner_rescue_l_418675-Illustration-1-dark.svg" | relative_url }}" alt="Rescue Plane illustration 1" data-theme-src-dark="{{ "/assets/images/Flight_19_incident_1_5cc889_pbm_mariner_rescue_l_418675-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Flight_19_incident_1_5cc889_pbm_mariner_rescue_l_418675-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Mariner's Search Mission from Banana River
 
 As concern grew that Flight 19 was lost at sea, the Navy expanded rescue operations across the Florida coast and western Atlantic. Search aircraft and ships were alerted before sunset, and by evening specialised rescue aircraft were being launched from multiple bases. Among them was PBM-5 BuNo 59225, attached to Navy Training Squadron 49 at Naval Air Station Banana River, near present-day Cape Canaveral. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flight_19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 19</span><span class="citation-popover-snippet">Flight 19</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">mysterious disappearance flight 19</span><span class="citation-popover-snippet">Naval InstituteThe Mysterious Disappearance of Flight 19That night, a merchant ship off the coast of Fort Lauderdale reported seeing a “b...</span></span></span>
 
-The Martin PBM Mariner was a large twin-engine flying boat designed for long-range maritime patrol, anti-submarine warfare, and sea rescue operations. It had substantial fuel capacity and endurance, making it suitable for wide-area ocean searches. During the Second World War the aircraft earned a reputation for range and seaworthiness, but also for maintenance and fuel-vapour dangers that became highly relevant after the Flight 19 disaster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usni.org/magazines/naval-history-magazine/2007/december/very-able-mariner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">very able mariner</span><span class="citation-popover-snippet">Naval InstituteA Very Able Mariner | Naval History MagazineDecember 1, 2007 — The Martin PBM Mariner—the world&#x27;s largest twin-engine flyi...</span><span class="citation-popover-meta">Published: December 1, 2007</span></span></span>
+The Martin PBM Mariner was a large twin-engine flying boat designed for long-range maritime patrol, anti-submarine warfare, and sea rescue operations. It had substantial fuel capacity and endurance, making it suitable for wide-area ocean searches. During the Second World War the aircraft earned a reputation for range and seaworthiness, but also for maintenance and fuel-vapour dangers that became highly relevant after the Flight 19 disaster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usni.org/magazines/naval-history-magazine/2007/december/very-able-mariner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">very able mariner</span><span class="citation-popover-snippet">Naval InstituteA Very Able Mariner &#124; Naval History MagazineDecember 1, 2007 — The Martin PBM Mariner—the world&#x27;s largest twin-engine flyi...</span><span class="citation-popover-meta">Published: December 1, 2007</span></span></span>
 
-The rescue Mariner took off at approximately 1927 hours with a crew of 13. A routine radio transmission was received shortly after departure, and then contact ceased. The aircraft disappeared within roughly twenty minutes of take-off. Unlike Flight 19, whose crews transmitted lengthy confused navigation exchanges, the Mariner left almost no [radio trail]({{ 'radio-trail/' | relative_url }}) at all. The sudden silence immediately suggested a rapid catastrophic failure rather than gradual disorientation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Martin_PBM_Mariner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Martin PBM Mariner</span><span class="citation-popover-snippet">Martin PBM MarinerThe Martin PBM Mariner is a twin-engine American patrol bomber flying boat of World War II and the early Cold War er...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usni.org/magazines/naval-history-magazine/2007/december/very-able-mariner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">very able mariner</span><span class="citation-popover-snippet">Naval InstituteA Very Able Mariner | Naval History MagazineDecember 1, 2007 — The Martin PBM Mariner—the world&#x27;s largest twin-engine flyi...</span><span class="citation-popover-meta">Published: December 1, 2007</span></span></span>
+The rescue Mariner took off at approximately 1927 hours with a crew of 13. A routine radio transmission was received shortly after departure, and then contact ceased. The aircraft disappeared within roughly twenty minutes of take-off. Unlike Flight 19, whose crews transmitted lengthy confused navigation exchanges, the Mariner left almost no [radio trail]({{ 'radio-trail/' | relative_url }}) at all. The sudden silence immediately suggested a rapid catastrophic failure rather than gradual disorientation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Martin_PBM_Mariner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Martin PBM Mariner</span><span class="citation-popover-snippet">Martin PBM MarinerThe Martin PBM Mariner is a twin-engine American patrol bomber flying boat of World War II and the early Cold War er...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usni.org/magazines/naval-history-magazine/2007/december/very-able-mariner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">very able mariner</span><span class="citation-popover-snippet">Naval InstituteA Very Able Mariner &#124; Naval History MagazineDecember 1, 2007 — The Martin PBM Mariner—the world&#x27;s largest twin-engine flyi...</span><span class="citation-popover-meta">Published: December 1, 2007</span></span></span>
 
 That distinction matters because later Bermuda Triangle narratives often present the Mariner as if it had also wandered mysteriously off course. Contemporary records do not support that picture. There were no reports of compass confusion, strange atmospheric effects, or prolonged distress calls from the rescue aircraft.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lotxWVgXnuM" title="America&#x27;s WW2 Flying Boat That Came With A Kitchen | Martin PBM Mariner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lotxWVgXnuM" target="_blank" rel="noopener noreferrer">America&#x27;s WW2 Flying Boat That Came With A Kitchen | Martin PBM Mariner</a></p><p class="youtube-embed-meta">Channel: Rex&#x27;s Hangar &middot; Views: 2.9M &middot; Uploaded: August 2022 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lotxWVgXnuM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lotxWVgXnuM">Open on YouTube</a></p></div></div></div>
 
@@ -269,7 +267,6 @@ No confirmed wreckage was recovered despite extensive searching. That absence la
 
 The Navy’s investigation ultimately attributed the loss of the PBM to an explosion. Although investigators could not establish the exact ignition source, they considered a sudden onboard fire or fuel-vapour detonation the most plausible explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Flight_19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Flight 19</span><span class="citation-popover-snippet">Flight 19</span></span></span>
 
-
 <img src="{{ "/assets/images/Flight_19_incident_1_5cc889_pbm_mariner_rescue_l_418675-Illustration-2-dark.svg" | relative_url }}" alt="Rescue Plane illustration 2" data-theme-src-dark="{{ "/assets/images/Flight_19_incident_1_5cc889_pbm_mariner_rescue_l_418675-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Flight_19_incident_1_5cc889_pbm_mariner_rescue_l_418675-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the PBM Was Considered Dangerous
 
@@ -278,7 +275,6 @@ The Mariner’s reputation played a major role in how investigators interpreted 
 This vulnerability became part of aviation folklore. Mariners acquired the grim nickname “flying gas tanks” among some crews because of their perceived susceptibility to fire. Modern retellings sometimes exaggerate this reputation, implying the aircraft were inherently unsafe, but the Navy nevertheless recognised that fuel leaks and vapour ignition were serious operational risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/the-mysterious-disappearance-of-flight-19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY TV Nederland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">the mysterious disappearance of flight 19</span><span class="citation-popover-snippet">HISTORY TV NederlandThe Mysterious Disappearance of Flight 194 Dec 2015 — Many believe the wrecks of Flight 19 and its doomed rescue plan...</span></span></span>
 
 The likely sequence reconstructed by later historians is relatively straightforward:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -292,7 +288,6 @@ The likely sequence reconstructed by later historians is relatively straightforw
 That scenario fits the abrupt radio silence, eyewitness fire reports, and fuel slick observations better than theories involving navigational disappearance or unknown atmospheric phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.navy.mil">[Naval History and Heritage Command]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.navy.mil</span><span class="citation-popover-snippet">Naval History and Heritage CommandH-057-4: The Disappearance of Flight 197 Jan 2021 — Radar and visual sighting of a flaming aircraft fal...</span></span></span> [2U.S. Naval Institute]
 
 Importantly, the PBM’s probable destruction occurred much closer to the Florida coast than the estimated final position of Flight 19. The two events happened during the same rescue operation but likely under very different circumstances.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1p49onHTvLU" title="Flight 19 Disapperance Finally Solved, And It&#x27;s Not Good" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1p49onHTvLU" target="_blank" rel="noopener noreferrer">Flight 19 Disapperance Finally Solved, And It&#x27;s Not Good</a></p><p class="youtube-embed-meta">Channel: DarkFind &middot; Views: 1.2K &middot; Uploaded: November 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1p49onHTvLU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1p49onHTvLU">Open on YouTube</a></p></div></div></div>
 
@@ -309,7 +304,6 @@ This blending of the two losses blurred an important evidentiary distinction:
 
 The rescue plane therefore occupies an unusual place in the wider Flight 19 story. It intensified the mystery in public imagination while simultaneously providing one of the clearest conventional explanations connected to the overall incident.
 
-
 <img src="{{ "/assets/images/Flight_19_incident_1_5cc889_pbm_mariner_rescue_l_418675-Illustration-3-dark.svg" | relative_url }}" alt="Rescue Plane illustration 3" data-theme-src-dark="{{ "/assets/images/Flight_19_incident_1_5cc889_pbm_mariner_rescue_l_418675-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Flight_19_incident_1_5cc889_pbm_mariner_rescue_l_418675-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Balance of Evidence
 
@@ -319,49 +313,89 @@ That does not mean every detail is settled. No definitive debris field was ident
 
 Ironically, the PBM Mariner helped create the Bermuda Triangle legend while also undermining its strongest supernatural interpretations. The second tragedy added emotional weight and dramatic coincidence, yet the available evidence points towards a conventional aviation disaster unfolding alongside the already confused and deteriorating situation faced by Flight 19 itself.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Te8-srLkMl0" title="The Mysterious Disappearance of Flight 19" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Te8-srLkMl0" target="_blank" rel="noopener noreferrer">The Mysterious Disappearance of Flight 19</a></p><p class="youtube-embed-meta">Channel: Tampa Bay Legacy Project &middot; Views: 231 &middot; Uploaded: February 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Te8-srLkMl0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Te8-srLkMl0">Open on YouTube</a></p></div></div></div>
 
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Happened to the Rescue Plane?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Happened to the Rescue Plane?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Martin PBM Mariner guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Martin+PBM+Mariner+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Addresses why popular authors intentionally merge separate documented tragedies into a single seamless paranormal event.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Aviation Safety Network guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Aviation+Safety+Network+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Field+Guide+to+Fly+Fishing+by+Dennis+Bitton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Field Guide to Fly Fishing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TudBvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A Field Guide to Fly Fishing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Field+Guide+to+Fly+Fishing+by+Dennis+Bitton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Field Guide to Fly Fishing">A Field Guide to Fly Fishing</a>
+        </h4>
+        <p class="fr-book-author">By Dennis Bitton</p>
+        
+        <p class="fr-book-desc">Details the specialized rescue flying boats deployed by Training Squadron 49 near Cape Canaveral during the overnight search.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Field+Guide+to+Fly+Fishing+by+Dennis+Bitton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Naval History and Heritage Command</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Naval+History+and+Heritage+Command&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Bermuda+Triangle+Mystery+-+Solved+Lawrence+David+Kusche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Bermuda Triangle Mystery - Solved on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+Mystery+-+Solved+Lawrence+David+Kusche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bermuda Triangle Mystery - Solved">The Bermuda Triangle Mystery - Solved</a>
+        </h4>
+        <p class="fr-book-author">By Lawrence David Kusche</p>
+        
+        <p class="fr-book-desc">Reviews vessel log entries, ocean radar loss data, and the oil pools found at sea that confirm a catastrophic mechanical explosion.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Bermuda+Triangle+Mystery+-+Solved+Lawrence+David+Kusche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=USS+Lexington+CV-2+by+David+Doyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open USS Lexington CV-2 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=USS+Lexington+CV-2+by+David+Doyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="USS Lexington CV-2">USS Lexington CV-2</a>
+        </h4>
+        <p class="fr-book-author">By David Doyle</p>
+        
+        <p class="fr-book-desc">Examines the Martin PBM flying boat&#x27;s structural blueprint, focusing on its history of volatile aviation fuel gas venting issues.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=USS+Lexington+CV-2+by+David+Doyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Field+to+Fly+Fishing+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Field to Fly Fishing books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Bermuda+Triangle+Mystery+Solved&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Bermuda Triangle Mystery Solved</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -398,15 +432,15 @@ Ironically, the PBM Mariner helped create the Bermuda Triangle legend while also
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=PBM+Mariner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="PBM Mariner model" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy 12586 USN PBM-5A Mariner Flying Boat 1:72 Model Kit"><img src="{{ '/assets/images/marketplace-covers/880b59e54e2dd8ac2f1f.jpg' | relative_url }}" alt="Listing image for Academy 12586 USN PBM-5A Mariner Flying Boat 1:72 Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=PBM+Mariner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="PBM Mariner model" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model" target="_blank" rel="sponsored noopener noreferrer">Academy 12586 USN PBM-5A Mariner Flying Boat 1:72 Model Kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=PBM+Mariner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="PBM Mariner model" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for PBM Mariner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: PBM Mariner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=PBM+Mariner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="PBM Mariner model" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -414,15 +448,15 @@ Ironically, the PBM Mariner helped create the Bermuda Triangle legend while also
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/881f3e648f43b3172a84.jpg' | relative_url }}" alt="Listing image for USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=PBM+Mariner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="PBM Mariner model" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy 1/72 Scale USN PBM-5A Mariner Flying Boat, ca.1947-58 Model Kit"><img src="{{ '/assets/images/marketplace-covers/cb8dc38961ab66dc8281.jpg' | relative_url }}" alt="Listing image for Academy 1/72 Scale USN PBM-5A Mariner Flying Boat, ca.1947-58 Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Lexington CV-2 San Diego 1941 US Navy Ship Historic Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=PBM+Mariner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="PBM Mariner model" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model" target="_blank" rel="sponsored noopener noreferrer">Academy 1/72 Scale USN PBM-5A Mariner Flying Boat, ca.1947-58 Model Kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=PBM+Mariner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="PBM Mariner model" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for PBM Mariner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: PBM Mariner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=PBM+Mariner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="PBM Mariner model" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -430,31 +464,15 @@ Ironically, the PBM Mariner helped create the Bermuda Triangle legend while also
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE"><img src="{{ '/assets/images/marketplace-covers/261ce0c08abf9370beba.jpg' | relative_url }}" alt="Listing image for US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=PBM+Mariner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="PBM Mariner model" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy 12586 USN PBM-5A Mariner Flying Boat 1:72 Model Kit"><img src="{{ '/assets/images/marketplace-covers/d92386d6da1f8c38ab98.jpg' | relative_url }}" alt="Listing image for Academy 12586 USN PBM-5A Mariner Flying Boat 1:72 Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY SHIP AIRCRAFT CARRIER WAR GIANT WALL POSTER ART PICTURE PRINT LARGE HUGE</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=PBM+Mariner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="PBM Mariner model" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model" target="_blank" rel="sponsored noopener noreferrer">Academy 12586 USN PBM-5A Mariner Flying Boat 1:72 Model Kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=PBM+Mariner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="PBM Mariner model" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for PBM Mariner model">Search <span data-ebay-domain-label>eBay.co.uk</span>: PBM Mariner model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=PBM+Mariner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="PBM Mariner model" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -462,7 +480,7 @@ Ironically, the PBM Mariner helped create the Bermuda Triangle legend while also
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=PBM+Mariner+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="PBM Mariner model" data-ebay-reference="rescue-plane-what-happened-to-the-rescue-plane-flight-19-incident-1945-pbm-mariner-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -678,119 +696,119 @@ Ironically, the PBM Mariner helped create the Bermuda Triangle legend while also
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Flight 19  
-   Link: [https://en.wikipedia.org/wiki/Flight_19](https://en.wikipedia.org/wiki/Flight_19)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flight_19" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flight_19</a>  
 
 2. <a id="endnote-2"></a>
    Source: ibiblio.org  
    Title: Findings of the Board of Investigation Into the Loss of Flight  
-   Link: [https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html](https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html)  
+   Link: <a href="https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ibiblio.org/hyperwar/USN/rep/Flight19/index.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>reported explosion failed to reveal any debris of the missing PBM or evidence of its crew. --18--. Transcribed by Harry Allston, for the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: history.navy.mil  
-   Link: [https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html](https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html)  
+   Link: <a href="https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/content/history/nhhc/about-us/leadership/director/directors-corner/h-grams/h-gram-057/h-057-4.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval History and Heritage CommandH-057-4: The Disappearance of Flight 197 Jan 2021 — Radar and visual sighting of a flaming aircraft fal...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: usni.org  
    Title: mysterious disappearance flight 19  
-   Link: [https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19](https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19)  
+   Link: <a href="https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/naval-history-magazine/2021/october/mysterious-disappearance-flight-19</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval InstituteThe Mysterious Disappearance of Flight 19That night, a merchant ship off the coast of Fort Lauderdale reported seeing a “b...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: usni.org  
    Title: very able mariner  
-   Link: [https://www.usni.org/magazines/naval-history-magazine/2007/december/very-able-mariner](https://www.usni.org/magazines/naval-history-magazine/2007/december/very-able-mariner)  
+   Link: <a href="https://www.usni.org/magazines/naval-history-magazine/2007/december/very-able-mariner" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/naval-history-magazine/2007/december/very-able-mariner</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval InstituteA Very Able Mariner | Naval History MagazineDecember 1, 2007 — The Martin PBM Mariner—the world&#x27;s largest twin-engine flyi...</p></details>
    Published: December 1, 2007  
 
 6. <a id="endnote-6"></a>
    Source: history.navy.mil  
    Title: Naval History and Heritage Command Martin Mariner PBM  
-   Link: [https://www.history.navy.mil/our-collections/photography/us-navy-aircraft/martin-mariner-pbm.html](https://www.history.navy.mil/our-collections/photography/us-navy-aircraft/martin-mariner-pbm.html)  
+   Link: <a href="https://www.history.navy.mil/our-collections/photography/us-navy-aircraft/martin-mariner-pbm.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/our-collections/photography/us-navy-aircraft/martin-mariner-pbm.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval History and Heritage CommandMartin Mariner PBM - Naval History and Heritage CommandMartin PBM-3 &quot;marine&quot; patrol bomber, NH 93645 Ma...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aviation-safety.net  
    Title: Read more  
-   Link: [https://aviation-safety.net/wikibase/337515](https://aviation-safety.net/wikibase/337515)  
+   Link: <a href="https://aviation-safety.net/wikibase/337515" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/337515</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Safety NetworkAccident Martin PBM-5 Mariner 59225, Wednesday 5...At 19:50 the tanker SS Gaines Mills reported seeing a mid-air...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: history.com  
    Title: the mysterious disappearance of flight 19  
-   Link: [https://www.history.com/articles/the-mysterious-disappearance-of-flight-19](https://www.history.com/articles/the-mysterious-disappearance-of-flight-19)  
+   Link: <a href="https://www.history.com/articles/the-mysterious-disappearance-of-flight-19" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/the-mysterious-disappearance-of-flight-19</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HISTORY TV NederlandThe Mysterious Disappearance of Flight 194 Dec 2015 — Many believe the wrecks of Flight 19 and its doomed rescue plan...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Martin PBM Mariner  
-   Link: [https://en.wikipedia.org/wiki/Martin_PBM_Mariner](https://en.wikipedia.org/wiki/Martin_PBM_Mariner)  
+   Link: <a href="https://en.wikipedia.org/wiki/Martin_PBM_Mariner" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Martin_PBM_Mariner</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Martin PBM MarinerThe Martin PBM Mariner is a twin-engine American patrol bomber flying boat of World War II and the early Cold War er...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aviation-safety.net  
-   Link: [https://aviation-safety.net/asndb/type/mama](https://aviation-safety.net/asndb/type/mama)  
+   Link: <a href="https://aviation-safety.net/asndb/type/mama" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/asndb/type/mama</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Martin PBM-3C MarinerAviation Safety Network: Aviation Safety Network: Databases containing descriptions of over 11000 airliner write-off...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aviatorsdatabase.com  
    Title: Flight 19  
-   Link: [https://www.aviatorsdatabase.com/wp-content/uploads/2013/07/Flight-19.pdf](https://www.aviatorsdatabase.com/wp-content/uploads/2013/07/Flight-19.pdf)  
+   Link: <a href="https://www.aviatorsdatabase.com/wp-content/uploads/2013/07/Flight-19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aviatorsdatabase.com/wp-content/uploads/2013/07/Flight-19.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy investigators...Read more...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: nasflmuseum.com  
-   Link: [https://www.nasflmuseum.com/flight-19.html](https://www.nasflmuseum.com/flight-19.html)  
+   Link: <a href="https://www.nasflmuseum.com/flight-19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.nasflmuseum.com/flight-19.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Air Station Fort Lauderdale MuseumFlight 19 the Lost AvengersGaines Mills reported seeing an explosion at sea off New Smyrna beach...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: seawings.co.uk  
-   Link: [https://www.seawings.co.uk/images/manuals/Mariner%20Manual%20ex%20Dave%20Koss/Pilots%20Handbook%20Martin%20PBM-5%20Mariner.pdf](https://www.seawings.co.uk/images/manuals/Mariner%20Manual%20ex%20Dave%20Koss/Pilots%20Handbook%20Martin%20PBM-5%20Mariner.pdf)  
+   Link: <a href="https://www.seawings.co.uk/images/manuals/Mariner%20Manual%20ex%20Dave%20Koss/Pilots%20Handbook%20Martin%20PBM-5%20Mariner.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.seawings.co.uk/images/manuals/Mariner%20Manual%20ex%20Dave%20Koss/Pilots%20Handbook%20Martin%20PBM-5%20Mariner.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
    Title: throwbackthursday on december 5 1945 five us navy bombers collectively known as  
-   Link: [https://www.facebook.com/NavyOutreach/posts/throwbackthursday-on-december-5-1945-five-us-navy-bombers-collectively-known-as-/976025141232518/](https://www.facebook.com/NavyOutreach/posts/throwbackthursday-on-december-5-1945-five-us-navy-bombers-collectively-known-as-/976025141232518/)  
+   Link: <a href="https://www.facebook.com/NavyOutreach/posts/throwbackthursday-on-december-5-1945-five-us-navy-bombers-collectively-known-as-/976025141232518/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NavyOutreach/posts/throwbackthursday-on-december-5-1945-five-us-navy-bombers-collectively-known-as-/976025141232518/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy bombers, collectively...A tanker in the vicinity reported witnessing a midair explosion, and an oil slick... PBM Mariner flying bo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: attitudeofaggression.com  
-   Link: [https://www.attitudeofaggression.com/wp-content/uploads/2025/08/Flight-19-History-Analysis.docx](https://www.attitudeofaggression.com/wp-content/uploads/2025/08/Flight-19-History-Analysis.docx)  
+   Link: <a href="https://www.attitudeofaggression.com/wp-content/uploads/2025/08/Flight-19-History-Analysis.docx" target="_blank" rel="noopener noreferrer nofollow">https://www.attitudeofaggression.com/wp-content/uploads/2025/08/Flight-19-History-Analysis.docx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight 19 History &amp; AnalysisClaim: A PBM Mariner sent to search also vanished—furthering the mystery. • Evidence: A nearby tanker crew re...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: simpleflying.com  
    Title: mystery flight 19 us navy martin pbm mariner bermuda triangle  
-   Link: [https://simpleflying.com/mystery-flight-19-us-navy-martin-pbm-mariner-bermuda-triangle/](https://simpleflying.com/mystery-flight-19-us-navy-martin-pbm-mariner-bermuda-triangle/)  
+   Link: <a href="https://simpleflying.com/mystery-flight-19-us-navy-martin-pbm-mariner-bermuda-triangle/" target="_blank" rel="noopener noreferrer nofollow">https://simpleflying.com/mystery-flight-19-us-navy-martin-pbm-mariner-bermuda-triangle/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Of Flight 19: The US Navy Martin PBM Mariner...7 Aug 2024 — It should be noted that, unlike the missing torpedo bombers, a vesse...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reflections.live  
    Title: into the vanishing horizon by ayaan khalil 27896 mjzld8ri  
-   Link: [https://reflections.live/articles/25633/into-the-vanishing-horizon-by-ayaan-khalil-27896-mjzld8ri.html](https://reflections.live/articles/25633/into-the-vanishing-horizon-by-ayaan-khalil-27896-mjzld8ri.html)  
+   Link: <a href="https://reflections.live/articles/25633/into-the-vanishing-horizon-by-ayaan-khalil-27896-mjzld8ri.html" target="_blank" rel="noopener noreferrer nofollow">https://reflections.live/articles/25633/into-the-vanishing-horizon-by-ayaan-khalil-27896-mjzld8ri.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Into the Vanishing Horizon4 Jan 2026 — The Official Investigation: Reports, Revisions, and Unresolved Questions. In the immediate afterma...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DTKP9OalRyP/](https://www.instagram.com/p/DTKP9OalRyP/)  
+   Link: <a href="https://www.instagram.com/p/DTKP9OalRyP/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DTKP9OalRyP/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ble floating platform for an aircraft resting on the water.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: midway.org  
    Title: mysterious disappearance of navy flight 19  
-   Link: [https://www.midway.org/blog/mysterious-disappearance-of-navy-flight-19](https://www.midway.org/blog/mysterious-disappearance-of-navy-flight-19)  
+   Link: <a href="https://www.midway.org/blog/mysterious-disappearance-of-navy-flight-19" target="_blank" rel="noopener noreferrer nofollow">https://www.midway.org/blog/mysterious-disappearance-of-navy-flight-19</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mysterious Disappearance of Navy Flight 1922 Dec 2020 — A PBM Mariner flying boat set out from NAS Banana River north of Fort Lauderd...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: historyhit.com  
    Title: the mysterious disappearance of flight 19  
-   Link: [https://www.historyhit.com/the-mysterious-disappearance-of-flight-19/](https://www.historyhit.com/the-mysterious-disappearance-of-flight-19/)  
+   Link: <a href="https://www.historyhit.com/the-mysterious-disappearance-of-flight-19/" target="_blank" rel="noopener noreferrer nofollow">https://www.historyhit.com/the-mysterious-disappearance-of-flight-19/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Feb 2023 — (Two PBM Mariner flying boats were sent out and one of these also disappeared, believed to have exploded shortly after take...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HickoryAviationMuseum/posts/today-in-milavhist-1251945-the-disappearance-of-flight-19-flight-19-was-the-desi/1168725341728883/](https://www.facebook.com/HickoryAviationMuseum/posts/today-in-milavhist-1251945-the-disappearance-of-flight-19-flight-19-was-the-desi/1168725341728883/)  
+   Link: <a href="https://www.facebook.com/HickoryAviationMuseum/posts/today-in-milavhist-1251945-the-disappearance-of-flight-19-flight-19-was-the-desi/1168725341728883/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HickoryAviationMuseum/posts/today-in-milavhist-1251945-the-disappearance-of-flight-19-flight-19-was-the-desi/1168725341728883/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Today in MilAvHist, 12/5/1945, the disappearance of Flight...&quot; A PBM Mariner designated Training 49, is dispatched to locate the missing...</p></details>

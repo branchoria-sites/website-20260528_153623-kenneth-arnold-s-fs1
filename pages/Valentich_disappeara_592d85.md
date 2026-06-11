@@ -364,9 +364,9 @@ sibling_links:
   permalink: /chiles-and-whitted-sighting-1948/
   short_title: Chiles Whitted
 - basename: Cisco_Grove_incident_29820a
-  title: Cisco Grove1964
+  title: Cisco Grove 1964
   permalink: /cisco-grove-incident-1964/
-  short_title: Cisco Grove1964
+  short_title: Cisco Grove 1964
 - basename: Claude_Vorilhon_cont_ec941c
   title: Rael Contact
   permalink: /claude-vorilhon-contact-1973/
@@ -400,9 +400,9 @@ sibling_links:
   permalink: /doctor-x-ufo-encounter-1968/
   short_title: Doctor X
 - basename: E_J_Smith_sighting_1_b2b2e6
-  title: Flight105UFO
+  title: Flight 105 UFO
   permalink: /e-j-smith-sighting-1947/
-  short_title: Flight105UFO
+  short_title: Flight 105 UFO
 - basename: Eagle_River_encounte_9b53c8
   title: Eagle River
   permalink: /eagle-river-encounter-1961/
@@ -440,9 +440,9 @@ sibling_links:
   permalink: /gemini-4-sighting-1965/
   short_title: Gemini 4 Sighting
 - basename: Gemini_7_sighting_19_7caf7b
-  title: Gemini7Sighting
+  title: Gemini 7 Sighting
   permalink: /gemini-7-sighting-1965/
-  short_title: Gemini7Sighting
+  short_title: Gemini 7 Sighting
 - basename: George_Adamski_encou_795ba9
   title: Adamski
   permalink: /george-adamski-encounters-1953/
@@ -492,9 +492,9 @@ sibling_links:
   permalink: /john-martin-sighting-1878/
   short_title: Martin Sighting
 - basename: Jose_A_y_Bonilla_pho_27aa92
-  title: Bonilla1883
+  title: Bonilla 1883
   permalink: /jose-a-y-bonilla-photograph-1883/
-  short_title: Bonilla1883
+  short_title: Bonilla 1883
 - basename: Kelly-Hopkinsville_i_de664d
   title: Kelly Hopkinsville
   permalink: /kelly-hopkinsville-incident-1955/
@@ -540,9 +540,9 @@ sibling_links:
   permalink: /lubbock-lights-sightings-1951/
   short_title: Lubbock Lights
 - basename: Magenta_Italy_crash_5ee1aa
-  title: Magenta Crash1933
+  title: Magenta Crash 1933
   permalink: /magenta-italy-crash-1933/
-  short_title: Magenta Crash1933
+  short_title: Magenta Crash 1933
 - basename: Maureen_Puddy_encoun_21a7f8
   title: Puddy Encounter
   permalink: /maureen-puddy-encounter-1973/
@@ -749,7 +749,7 @@ next_link:
   title: Voronezh Landing
   permalink: /voronezh-russia-landing-1989/
   short_title: Voronezh Landing
-date: '2026-06-08 23:24:37 '
+date: '2026-06-11 13:15:20 '
 header:
   og_image: /assets/images/Valentich_disappeara_592d85-overview-social.jpg
   preview_image: /assets/images/Valentich_disappeara_592d85-overview.webp
@@ -758,8 +758,7 @@ image: /assets/images/Valentich_disappeara_592d85-overview-social.jpg
 
 ## Introduction
 
-The case still matters because it sits at the point where aviation evidence, witness interpretation and UFO folklore collide. The strongest documented facts support a missing-aircraft case with an unusual final transmission. The strongest sceptical explanation is spatial disorientation, possibly triggered by misidentified lights and expectation bias. The extraordinary abduction or hostile-UFO interpretation remains much weaker because it depends on interpreting an already ambiguous radio exchange as literal external confirmation, without recovered wreckage, radar confirmation or physical evidence of an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[flightsafetyaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Leaving this world | Flight Safety Australia</span><span class="citation-popover-snippet">Leaving this world | Flight Safety Australia</span></span></span>
-
+The case still matters because it sits at the point where aviation evidence, witness interpretation and UFO folklore collide. The strongest documented facts support a missing-aircraft case with an unusual final transmission. The strongest sceptical explanation is spatial disorientation, possibly triggered by misidentified lights and expectation bias. The extraordinary abduction or hostile-UFO interpretation remains much weaker because it depends on interpreting an already ambiguous radio exchange as literal external confirmation, without recovered wreckage, radar confirmation or physical evidence of an unknown craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[flightsafetyaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Leaving this world &#124; Flight Safety Australia</span><span class="citation-popover-snippet">Leaving this world &#124; Flight Safety Australia</span></span></span>
 
 <img src="{{ "/assets/images/Valentich_disappeara_592d85-overview.webp" | relative_url }}" alt="Overview image for Valentich disappearance 1978" loading="eager" decoding="sync" fetchpriority="high">
 ## What happened on the final flight
@@ -772,7 +771,6 @@ At 19:00, Valentich reported Cape Otway. His next significant transmission came 
 
 The weather did not offer an obvious simple answer. The Department of Transport report described the Cape Otway area as clear, with a trace of stratocumulus cloud at 5,000 to 7,000 feet, scattered cirrus at 30,000 feet, excellent visibility and light winds; it also noted that daylight ended at Cape Otway at 19:18. A later aviation-safety review, drawing on departmental files and Bureau of Meteorology correspondence, described the conditions as excellent for night flying and clear enough for an airborne aircraft over King Island at 19:00 to see Cape Otway Lighthouse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/B1497_V116-783-1047_10491375_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
-
 <img src="{{ "/assets/images/Valentich_disappeara_592d85-Illustration-1-dark.svg" | relative_url }}" alt="Valentich disappearance 1978 illustration 1" data-theme-src-dark="{{ "/assets/images/Valentich_disappeara_592d85-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valentich_disappeara_592d85-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The radio exchange is dramatic, but not self-explanatory
 
@@ -783,7 +781,6 @@ As the exchange continued, Valentich confirmed his altitude as 4,500 feet. He th
 The last minute is the most striking. Valentich reported that the engine was rough idling and “coughing”, then told Melbourne his intention was still to go to King Island. He then said the strange aircraft was hovering on top of him again and that it was “not an aircraft”. The last recorded transmission was his call sign followed by 17 seconds of open microphone. The Department of Transport summary states that there is no record of any further transmission from VH-DSJ. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/B1497_V116-783-1047_10491375_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
 That sequence is genuinely unusual, but it does not identify a cause. A radio transcript can show what a pilot believed he was seeing and reporting; it cannot, by itself, prove that the object existed as described. In this case there was no reliable radar track of an unknown aircraft, no recovered aircraft body, no confirmed debris field at the time of search, and no surviving physical trace of a second craft. The official finding therefore remained narrow: the reason for the disappearance was undetermined. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/B1497_V116-783-1047_10491375_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pTPEzxAWBto" title="The Mysterious Disappearance of Frederich Valentich" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pTPEzxAWBto" target="_blank" rel="noopener noreferrer">The Mysterious Disappearance of Frederich Valentich</a></p><p class="youtube-embed-meta">Channel: Stephanie Harlowe &middot; Views: 216.5K &middot; Uploaded: October 2019 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pTPEzxAWBto" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pTPEzxAWBto">Open on YouTube</a></p></div></div></div>
 
@@ -797,11 +794,10 @@ The best later physical lead was not a complete wreck but an aircraft part. Nati
 
 Aviation Safety Network’s summary lists VH-DSJ as missing over Bass Strait, with one fatality, and notes that the Department of Transport investigation could not determine the cause. Its own page also warns that the entry relies on news, social media or unofficial sources for some information, so it is useful as an aviation database cross-reference but should not override the underlying departmental file. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation-safety.net/wikibase/wiki.php?id=166155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation-safety.net">[Aviation Safety Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation-safety.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/Valentich_disappeara_592d85-Illustration-2-dark.svg" | relative_url }}" alt="Valentich disappearance 1978 illustration 2" data-theme-src-dark="{{ "/assets/images/Valentich_disappeara_592d85-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valentich_disappeara_592d85-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why UFO claims became attached to the case
 
-The UFO interpretation arose naturally from the radio exchange: Valentich was describing lights, speed, hovering, a metallic appearance and something he ultimately said was “not an aircraft”. The disappearance happened while that report was under way, and the final open microphone gave the story a powerful unresolved ending. The National Archives of Australia notes that the case created a media sensation and led to theories of alien abduction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[National Archives of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">National Archives of Australia Flying saucers – fact or fiction? | naa.gov.au</span><span class="citation-popover-snippet">National Archives of Australia Flying saucers – fact or fiction? | naa.gov.au</span></span></span>
+The UFO interpretation arose naturally from the radio exchange: Valentich was describing lights, speed, hovering, a metallic appearance and something he ultimately said was “not an aircraft”. The disappearance happened while that report was under way, and the final open microphone gave the story a powerful unresolved ending. The National Archives of Australia notes that the case created a media sensation and led to theories of alien abduction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[National Archives of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">National Archives of Australia Flying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">National Archives of Australia Flying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
 There were also later claims of sightings on or around the night of the disappearance. The evidential problem is that many such reports were belated, geographically scattered, or filtered through UFO investigators after the story had become public. Skeptical Inquirer quotes a Department of Transport spokesperson’s scepticism about people ringing in UFO reports after the disappearance, which is a fair caution: once a dramatic story is public, witness memory and interpretation can shift towards the reported theme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -809,19 +805,17 @@ Roy Manifold’s Cape Otway photographs are often brought into the case because 
 
 The most reasonable evidential stance is therefore not to dismiss the radio transmission as irrelevant, but to separate it from the stronger claim. Valentich clearly reported something he could not identify. It does not follow that the thing was an extraterrestrial craft, a hostile object, or the direct cause of the crash.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oByeIlDd8M4" title="The Pilot Who Vanished After Reporting a UFO - Fred Valentich" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oByeIlDd8M4" target="_blank" rel="noopener noreferrer">The Pilot Who Vanished After Reporting a UFO - Fred Valentich</a></p><p class="youtube-embed-meta">Channel: Black Box Files &middot; Views: 76.8K &middot; Uploaded: May 2025 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oByeIlDd8M4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oByeIlDd8M4">Open on YouTube</a></p></div></div></div>
 
 ## The strongest sceptical explanation: lights, bias and disorientation
 
-The leading sceptical reconstruction is that Valentich misidentified bright celestial objects or other lights, became distracted, and entered a dangerous attitude or spiral descent over dark water. The National Archives article summarises one version: Venus, Mars, Jupiter and Antares were highly visible in a diamond-like formation, and the conjunction plus Valentich’s relative inexperience could have led him to imagine a craft above him. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[National Archives of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">National Archives of Australia Flying saucers – fact or fiction? | naa.gov.au</span><span class="citation-popover-snippet">National Archives of Australia Flying saucers – fact or fiction? | naa.gov.au</span></span></span>
+The leading sceptical reconstruction is that Valentich misidentified bright celestial objects or other lights, became distracted, and entered a dangerous attitude or spiral descent over dark water. The National Archives article summarises one version: Venus, Mars, Jupiter and Antares were highly visible in a diamond-like formation, and the conjunction plus Valentich’s relative inexperience could have led him to imagine a craft above him. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: naa.gov.au">[National Archives of Australia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">naa.gov.au</span><span class="citation-popover-title">National Archives of Australia Flying saucers – fact or fiction? &#124; naa.gov.au</span><span class="citation-popover-snippet">National Archives of Australia Flying saucers – fact or fiction? &#124; naa.gov.au</span></span></span>
 
 A more developed version by James McGaha and Joe Nickell argues that four bright lights visible from Valentich’s position — Venus, Mars, Mercury and Antares — could have been perceived as a long or diamond-shaped object. They also argue that his report of “orbiting” may describe the aircraft’s movement relative to stationary lights rather than the object’s movement around him. On that reading, the “UFO” was not manoeuvring; Valentich’s own aircraft was changing attitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The aviation-safety significance is spatial disorientation. Over water, near last light, with a darkening horizon and few external visual references, a pilot can lose reliable sense of bank, pitch and motion. The later Flight Safety Australia analysis frames the case as a lesson in expectation bias, distraction and spatial disorientation: a pilot who expects something strange may interpret ambiguous lights as confirming that expectation, then pay less attention to attitude, instruments and basic aircraft control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[flightsafetyaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Leaving this world | Flight Safety Australia</span><span class="citation-popover-snippet">Leaving this world | Flight Safety Australia</span></span></span>
+The aviation-safety significance is spatial disorientation. Over water, near last light, with a darkening horizon and few external visual references, a pilot can lose reliable sense of bank, pitch and motion. The later Flight Safety Australia analysis frames the case as a lesson in expectation bias, distraction and spatial disorientation: a pilot who expects something strange may interpret ambiguous lights as confirming that expectation, then pay less attention to attitude, instruments and basic aircraft control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[flightsafetyaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Leaving this world &#124; Flight Safety Australia</span><span class="citation-popover-snippet">Leaving this world &#124; Flight Safety Australia</span></span></span>
 
 The “rough idling” report is consistent with several possibilities. It could indicate a mechanical problem; it could reflect fuel-flow disruption in an unusual attitude; it could occur during a tightening descending turn or partial inversion; or it could be an unrelated symptom in the final seconds. The point is not that the sceptical reconstruction proves every detail, but that it explains more of the evidence without adding an unverified second craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/Valentich_disappeara_592d85-Illustration-3-dark.svg" | relative_url }}" alt="Valentich disappearance 1978 illustration 3" data-theme-src-dark="{{ "/assets/images/Valentich_disappeara_592d85-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Valentich_disappeara_592d85-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The weaker explanations: hoax, suicide and deliberate disappearance
@@ -830,10 +824,9 @@ A deliberate disappearance has been suggested because Valentich gave inconsisten
 
 But deliberate disappearance is hard to sustain as a strong explanation. It requires a young pilot to vanish successfully with an aircraft over Bass Strait, while staging a bizarre radio exchange, without later evidence of survival. It also does not explain why a potentially matching aircraft part later appeared in official files. The theory remains possible in the broad sense that motives and intentions are not fully known, but it is not the simplest fit for the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/AustralianUFOFiles/B1497_V116-783-1047_10491375_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">Internet Archive Full text of &quot;Australian UFO Files</span><span class="citation-popover-snippet">Internet Archive Full text of &quot;Australian UFO Files</span></span></span>
 
-Suicide has also been raised, partly because the purpose of the flight was unclear and later commentary has noted pressures around Valentich’s flying ambitions. Flight Safety Australia reports mixed accounts: his training record and commercial-pilot failures were troubling, but family and friends quoted in departmental files were adamant he would not have planned to kill himself or disappear. That leaves psychological speculation as a weak evidential lane unless grounded in specific contemporaneous evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[flightsafetyaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Leaving this world | Flight Safety Australia</span><span class="citation-popover-snippet">Leaving this world | Flight Safety Australia</span></span></span>
+Suicide has also been raised, partly because the purpose of the flight was unclear and later commentary has noted pressures around Valentich’s flying ambitions. Flight Safety Australia reports mixed accounts: his training record and commercial-pilot failures were troubling, but family and friends quoted in departmental files were adamant he would not have planned to kill himself or disappear. That leaves psychological speculation as a weak evidential lane unless grounded in specific contemporaneous evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafetyaustralia.com">[flightsafetyaustralia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafetyaustralia.com</span><span class="citation-popover-title">Leaving this world &#124; Flight Safety Australia</span><span class="citation-popover-snippet">Leaving this world &#124; Flight Safety Australia</span></span></span>
 
 The hoax theory has a similar problem. Valentich was interested in UFOs, and that interest may have shaped what he perceived. But interest in UFOs is not evidence that he faked a disappearance. The better-supported conclusion is narrower: his beliefs may have made an ambiguous stimulus more likely to be interpreted as a UFO, especially under high workload at dusk over water. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I2EpE6Zlwyg" title="Frederick Valentich: Is This the Best Evidence We Have for an Abduction?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I2EpE6Zlwyg" target="_blank" rel="noopener noreferrer">Frederick Valentich: Is This the Best Evidence We Have for an Abduction?</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown &middot; Views: 195.9K &middot; Uploaded: September 2024 &middot; Length: 52 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I2EpE6Zlwyg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I2EpE6Zlwyg">Open on YouTube</a></p></div></div></div>
 
@@ -846,44 +839,86 @@ The unresolved points include the precise object or lights Valentich saw, whethe
 The best overall assessment is that the case is a real aviation tragedy with an unusually memorable UFO-shaped surface. The extraordinary interpretation is not supported by evidence strong enough to overcome ordinary explanations. The ordinary explanations, especially misidentification plus spatial disorientation, are plausible and aviation-relevant, but they remain reconstructions rather than a formally proved cause. The most careful conclusion is therefore: Frederick Valentich most likely crashed into Bass Strait after becoming distracted or disoriented during a night visual flight, but the exact chain of events has never been conclusively established.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Really Happened Over Bass Strait?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Really Happened Over Bass Strait?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">Bass Strait guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Bass+Strait+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KJaBqm6BPKQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Book">The UFO Book</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+        
+        <p class="fr-book-desc">Profiles the 1978 Bass Strait disappearance, detailing Frederick Valentich&#x27;s final flight plan and Cessna 182L cockpit communications.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Book+by+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Visual Flight Rules guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Visual+Flight+Rules+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufos and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=e3IunwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ufos and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos and Government">Ufos and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords, Robert Powell</p>
+        
+        <p class="fr-book-desc">Provides critical context on the official Department of Transport files, checking why the case was formally logged as cause undetermined.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufos+and+Government+by+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">Melbourne Flight Service guide</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Melbourne+Flight+Service+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Skeptics&#x27; Guide to the Universe on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SI_pswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Skeptics&#x27; Guide to the Universe" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
+        </h4>
+        <p class="fr-book-author">By Dr. Steven Novella</p>
+        
+        <p class="fr-book-desc">Addresses why an open microphone and reports of engine roughness fail to serve as literal external validation of an unknown craft.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Narrative+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government: A Historical Narrative on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Narrative+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government: A Historical Narrative">UFOs and Government: A Historical Narrative</a>
+        </h4>
+        <p class="fr-book-author">By Michael Swords</p>
+        
+        <p class="fr-book-desc">Provides critical context on the official Department of Transport files, checking why the case was formally logged as cause undetermined.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+and+Government%3A+A+Historical+Narrative+Michael+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufos+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufos and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Skeptics%27+to+the+Universe+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Skeptics&#x27; to the Universe books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -920,15 +955,15 @@ The best overall assessment is that the case is a real aviation tragedy with an 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/f8d66fdee72844c65d2f.jpg' | relative_url }}" alt="Listing image for US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO Festival 2009 Posters"><img src="https://i.ebayimg.com/images/g/4qcAAeSwSoFqDh-N/s-l225.jpg" alt="Listing image for Roswell UFO Festival 2009 Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Aircraft Carrier USS Forrestal CV-59 Ship Ocean Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO Festival 2009 Posters</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -936,15 +971,15 @@ The best overall assessment is that the case is a real aviation tragedy with an 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor"><img src="{{ '/assets/images/marketplace-covers/48e3baa0452de0e3bb38.jpg' | relative_url }}" alt="Listing image for US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster, Many Sizes; Roswell UFO crash debris"><img src="https://i.ebayimg.com/images/g/wlkAAOSw3NRkl0vL/s-l225.jpg" alt="Listing image for Poster, Many Sizes; Roswell UFO crash debris" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US Navy Ship Jet Pilot Motivational Poster Art Print Academy Room Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Poster, Many Sizes; Roswell UFO crash debris</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -952,15 +987,15 @@ The best overall assessment is that the case is a real aviation tragedy with an 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17"><img src="{{ '/assets/images/marketplace-covers/40ed42f49d8e0f04e671.jpg' | relative_url }}" alt="Listing image for US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster"><img src="https://i.ebayimg.com/images/g/T1AAAeSwtiBptWKN/s-l225.jpg" alt="Listing image for Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">US NAVY Battle Ship Flag Sailor Jerry Traditional style Flash poster print 11x17</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Alien Crash Vintage Sci Fi UFO Warning Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -968,15 +1003,15 @@ The best overall assessment is that the case is a real aviation tragedy with an 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36"><img src="{{ '/assets/images/marketplace-covers/adba4a0fdcf90dcdb80f.jpg' | relative_url }}" alt="Listing image for USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/Q1kAAeSw6Sxp1S37/s-l225.jpg" alt="Listing image for UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">USS Leyte CV-32 Wright Quonset Point US Navy Military Ship Poster Photo 24x36</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Roswell Alien New Mexico Guide Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy ship poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy ship poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -984,7 +1019,7 @@ The best overall assessment is that the case is a real aviation tragedy with an 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+ship+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy ship poster -book -books" data-ebay-reference="valentich-disappearance-1978-what-really-happened-over-bass-strait-us-navy-ship-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-really-happened-over-bass-strait-roswell-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO poster" data-ebay-reference="what-really-happened-over-bass-strait-roswell-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -1200,90 +1235,90 @@ The best overall assessment is that the case is a real aviation tragedy with an 
 1. <a id="endnote-1"></a>
    Source: archive.org  
    Title: Internet Archive Full text of "Australian UFO Files"  
-   Link: [https://archive.org/stream/AustralianUFOFiles/B1497_V116-783-1047_10491375_djvu.txt](https://archive.org/stream/AustralianUFOFiles/B1497_V116-783-1047_10491375_djvu.txt)  
+   Link: <a href="https://archive.org/stream/AustralianUFOFiles/B1497_V116-783-1047_10491375_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/AustralianUFOFiles/B1497_V116-783-1047_10491375_djvu.txt</a>  
 
 2. <a id="endnote-2"></a>
    Source: aviation-safety.net  
-   Link: [https://aviation-safety.net/wikibase/wiki.php?id=166155](https://aviation-safety.net/wikibase/wiki.php?id=166155)  
+   Link: <a href="https://aviation-safety.net/wikibase/wiki.php?id=166155" target="_blank" rel="noopener noreferrer nofollow">https://aviation-safety.net/wikibase/wiki.php?id=166155</a>  
 
 3. <a id="endnote-3"></a>
    Source: flightsafetyaustralia.com  
    Title: Leaving this world | Flight Safety Australia  
-   Link: [https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/](https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/)  
+   Link: <a href="https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightsafetyaustralia.com/2025/02/leaving-this-world/</a>  
 
 4. <a id="endnote-4"></a>
    Source: snopes.com  
    Title: frederick valentich ufo disappearance  
-   Link: [https://www.snopes.com/articles/383824/frederick-valentich-ufo-disappearance/](https://www.snopes.com/articles/383824/frederick-valentich-ufo-disappearance/)  
+   Link: <a href="https://www.snopes.com/articles/383824/frederick-valentich-ufo-disappearance/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/articles/383824/frederick-valentich-ufo-disappearance/</a>  
 
 5. <a id="endnote-5"></a>
    Source: snopes.com  
-   Link: [https://www.snopes.com/collections/10-ufo-sightings/](https://www.snopes.com/collections/10-ufo-sightings/)  
+   Link: <a href="https://www.snopes.com/collections/10-ufo-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.snopes.com/collections/10-ufo-sightings/</a>  
 
 6. <a id="endnote-6"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/](https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/)  
+   Link: <a href="https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2013/11/the-valentich-disappearance-another-ufo-cold-case-solved/</a>  
 
 7. <a id="endnote-7"></a>
    Source: naa.gov.au  
    Title: National Archives of Australia Flying saucers – fact or fiction? | naa.gov.au  
-   Link: [https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction](https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction)  
+   Link: <a href="https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/blog/flying-saucers-fact-or-fiction</a>  
 
 8. <a id="endnote-8"></a>
    Source: abc.net.au  
    Title: Last Light  
-   Link: [https://www.abc.net.au/listen/programs/the-history-listen/the-history-listen-valentish-lost-plane-ufo/102960720](https://www.abc.net.au/listen/programs/the-history-listen/the-history-listen-valentish-lost-plane-ufo/102960720)  
+   Link: <a href="https://www.abc.net.au/listen/programs/the-history-listen/the-history-listen-valentish-lost-plane-ufo/102960720" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/listen/programs/the-history-listen/the-history-listen-valentish-lost-plane-ufo/102960720</a>  
 
 9. <a id="endnote-9"></a>
    Source: iheart.com  
    Title: Frederick Valentich  
-   Link: [https://www.iheart.com/podcast/263-strewth-australian-true-cr-291925532/episode/frederick-valentich-the-unanswered--330573444/](https://www.iheart.com/podcast/263-strewth-australian-true-cr-291925532/episode/frederick-valentich-the-unanswered--330573444/)  
+   Link: <a href="https://www.iheart.com/podcast/263-strewth-australian-true-cr-291925532/episode/frederick-valentich-the-unanswered--330573444/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/263-strewth-australian-true-cr-291925532/episode/frederick-valentich-the-unanswered--330573444/</a>  
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: UFOs or PILOT error? | The Disappearance of Frederick Valentich  
-   Link: [https://www.youtube.com/watch?v=6LNnWxi_lw4](https://www.youtube.com/watch?v=6LNnWxi_lw4)  
+   Link: <a href="https://www.youtube.com/watch?v=6LNnWxi_lw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6LNnWxi_lw4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pilot Who Vanished After Reporting a UFO - Fred Valentich...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: 665 // Frederick Valentich  
-   Link: [https://www.youtube.com/watch?v=AA_JueUmgqM](https://www.youtube.com/watch?v=AA_JueUmgqM)  
+   Link: <a href="https://www.youtube.com/watch?v=AA_JueUmgqM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AA_JueUmgqM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Disappearance of Frederick Valentich | Flight VH-DSJ | October 21, 1978...</p></details>
    Published: October 21, 1978  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Pilot Who Vanished After Reporting a UFO  
-   Link: [https://www.youtube.com/watch?v=oByeIlDd8M4](https://www.youtube.com/watch?v=oByeIlDd8M4)  
+   Link: <a href="https://www.youtube.com/watch?v=oByeIlDd8M4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oByeIlDd8M4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>665 // Frederick Valentich - UFO Mystery?...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/downunderaviationnews/posts/whatever-happened-to-fredaustralian-pilot-frederick-valentich-20-disappeared-on-/987005572735992/](https://www.facebook.com/downunderaviationnews/posts/whatever-happened-to-fredaustralian-pilot-frederick-valentich-20-disappeared-on-/987005572735992/)  
+   Link: <a href="https://www.facebook.com/downunderaviationnews/posts/whatever-happened-to-fredaustralian-pilot-frederick-valentich-20-disappeared-on-/987005572735992/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/downunderaviationnews/posts/whatever-happened-to-fredaustralian-pilot-frederick-valentich-20-disappeared-on-/987005572735992/</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/loveofhistoryy/posts/the-disappearance-of-frederick-valentich-remains-one-of-the-most-perplexing-avia/581375451363078/](https://www.facebook.com/loveofhistoryy/posts/the-disappearance-of-frederick-valentich-remains-one-of-the-most-perplexing-avia/581375451363078/)  
+   Link: <a href="https://www.facebook.com/loveofhistoryy/posts/the-disappearance-of-frederick-valentich-remains-one-of-the-most-perplexing-avia/581375451363078/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/loveofhistoryy/posts/the-disappearance-of-frederick-valentich-remains-one-of-the-most-perplexing-avia/581375451363078/</a>  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/270764112473385/posts/751435647739560/](https://www.facebook.com/groups/270764112473385/posts/751435647739560/)  
+   Link: <a href="https://www.facebook.com/groups/270764112473385/posts/751435647739560/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/270764112473385/posts/751435647739560/</a>  
 
 16. <a id="endnote-16"></a>
    Source: naa.gov.au  
-   Link: [https://www.naa.gov.au/explore-collection](https://www.naa.gov.au/explore-collection)  
+   Link: <a href="https://www.naa.gov.au/explore-collection" target="_blank" rel="noopener noreferrer nofollow">https://www.naa.gov.au/explore-collection</a>  
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/themissingandunsolvedcrimesofsouthaus/posts/frederick-valentich-a-20-year-old-pilot-in-training-was-on-a-235km-training-flig/821670490418755/](https://www.facebook.com/themissingandunsolvedcrimesofsouthaus/posts/frederick-valentich-a-20-year-old-pilot-in-training-was-on-a-235km-training-flig/821670490418755/)  
+   Link: <a href="https://www.facebook.com/themissingandunsolvedcrimesofsouthaus/posts/frederick-valentich-a-20-year-old-pilot-in-training-was-on-a-235km-training-flig/821670490418755/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/themissingandunsolvedcrimesofsouthaus/posts/frederick-valentich-a-20-year-old-pilot-in-training-was-on-a-235km-training-flig/821670490418755/</a>  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/253557958093480/posts/9115085261940661/](https://www.facebook.com/groups/253557958093480/posts/9115085261940661/)  
+   Link: <a href="https://www.facebook.com/groups/253557958093480/posts/9115085261940661/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253557958093480/posts/9115085261940661/</a>  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1690o00/listen_to_the_actual_audio_of_frederick/](https://www.reddit.com/r/UFOs/comments/1690o00/listen_to_the_actual_audio_of_frederick/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1690o00/listen_to_the_actual_audio_of_frederick/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1690o00/listen_to_the_actual_audio_of_frederick/</a>
